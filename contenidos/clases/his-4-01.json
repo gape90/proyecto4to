@@ -396,7 +396,7 @@
         },
         {
           "t": "ordenar",
-          "consigna": "Ordená estos hechos de más antiguo a más reciente. Los años no están: buscalos en la cápsula.",
+          "consigna": "Ordená estos hechos de más antiguo a más reciente. Los años no están: buscalos en el material.",
           "items": [
             "Se sanciona la Ley Sáenz Peña",
             "Yrigoyen asume por primera vez",
@@ -405,7 +405,7 @@
             "Asume Marcelo T. de Alvear"
           ],
           "explicacion": "1912: Ley Sáenz Peña; 1916: asume Yrigoyen; 1918: Reforma Universitaria; 1919: Semana Trágica; 1922: asume Alvear.",
-          "pista": "Buscá cada hecho en la línea de tiempo «Hechos importantes» y en la cápsula anterior."
+          "pista": "Buscá cada hecho en la línea de tiempo «Hechos importantes» y en la parte anterior de esta clase."
         },
         {
           "t": "comparar",

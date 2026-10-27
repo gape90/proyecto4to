@@ -44,7 +44,7 @@ export function montarAsistente({ contexto, vocabulario = [], sugerencias = [] }
     const nq = norm(q);
     const hit = vocabulario.find(v => nq.includes(norm(v.palabra)));
     if (hit) return `${hit.palabra}: ${hit.definicion}`;
-    return 'Ahora no me puedo conectar. Mientras tanto te ayudo con el vocabulario de la clase: preguntame por una palabra de la cápsula, o probá de nuevo en un rato.';
+    return 'Ahora no me puedo conectar. Mientras tanto te ayudo con el vocabulario de la clase: preguntame por una palabra del material, o probá de nuevo en un rato.';
   }
   async function enviar(q) {
     if (!q.trim()) return;

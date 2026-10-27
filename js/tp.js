@@ -116,7 +116,7 @@ export function montarTP({ root, tp, oral, contenidos, clases = {}, espacio }) {
     const clase = clases[s.contenido.id];
     const caps = clase ? clase.capsulas.map(k => ({ t: k.titulo, x: e.clases?.[clase.id]?.caps?.[k.id]?.texto || '' })) : [];
     const carpeta = caps.length ? `<div class="destacado" style="margin:0 0 12px"><h4>📒 Lo que ya escribiste en tu carpeta en esta clase</h4>
-      ${caps.map(k => `<p style="margin:0 0 8px"><b>${esc(k.t)}:</b> ${k.x ? esc(k.x) : '<span class="ayuda">(todavía no hiciste esta cápsula)</span>'}</p>`).join('')}
+      ${caps.map(k => `<p style="margin:0 0 8px"><b>${esc(k.t)}:</b> ${k.x ? esc(k.x) : '<span class="ayuda">(todavía no hiciste esta parte)</span>'}</p>`).join('')}
       <p class="ayuda" style="margin:0">Usalo como base: ahora lo vas a unir en un solo texto ordenado, que se entienda de principio a fin.</p></div>` : '';
     host.innerHTML = `<div class="tarjeta">${cab(s)}${carpeta}<div id="esc"></div></div>${siguiente()}`;
     escritura(host.querySelector('#esc'), s.id, s.titulo, s.cfg); enlazarSig(host);

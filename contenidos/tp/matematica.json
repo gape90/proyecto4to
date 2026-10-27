@@ -202,6 +202,6 @@
     { "id": "q-m4-3", "contenido": "m4", "nivel": "Media", "pregunta": "En la sucesión 3, 6, 12, 24…, ¿cuál es el término 8?", "orientacion": "Es geométrica con razón 2. Con la fórmula: 3 · 2⁷ = 3 · 128 = 384." },
     { "id": "q-g-1", "contenido": "general", "nivel": "Integradora", "pregunta": "Contame cómo se relacionan dos de los contenidos de tu trabajo.", "orientacion": "Por ejemplo: la diagonal del cuadrado se escribe con un radical (√2), que es un número irracional; para medirla hay que aproximarla y elegir cuántos decimales usar según el error aceptable." },
     { "id": "q-g-2", "contenido": "general", "nivel": "Integradora", "pregunta": "¿Dónde usarías lo que aprendiste en la vida cotidiana?", "orientacion": "Una situación concreta, como medir y cortar un material, comparar formas de ahorro o calcular una diagonal, diciendo qué contenido se usa y para qué." },
-    { "id": "q-g-3", "contenido": "general", "nivel": "Integradora", "pregunta": "¿Qué parte de tu trabajo te resultó más difícil y cómo la resolviste?", "orientacion": "Una respuesta sincera, con un ejemplo de lo que hiciste para entenderlo: releer la cápsula, practicar con ejercicios, usar los juegos o consultar." }
+    { "id": "q-g-3", "contenido": "general", "nivel": "Integradora", "pregunta": "¿Qué parte de tu trabajo te resultó más difícil y cómo la resolviste?", "orientacion": "Una respuesta sincera, con un ejemplo de lo que hiciste para entenderlo: releer el material, practicar con ejercicios, usar los juegos o consultar." }
   ]
 }

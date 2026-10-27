@@ -182,7 +182,7 @@
           "tipo": "vf",
           "texto": "Las medidas de Perón generaron oposición entre sectores conservadores, empresarios y militares.",
           "respuesta": true,
-          "explicacion": "Así lo dice el primer texto de la cápsula."
+          "explicacion": "Así lo dice el primer texto del material."
         },
         {
           "tipo": "vf",
@@ -667,7 +667,7 @@
           "consigna": "¿Cuántos años duraron en total los gobiernos de Perón, desde que asumió en 1946 hasta el golpe que lo derrocó?",
           "respuesta": "9",
           "explicacion": "Asumió en 1946 y fue derrocado en 1955: 9 años, en dos gobiernos.",
-          "pista": "El año en que asumió está en la primera cápsula; el del golpe, en «El final de la etapa»."
+          "pista": "El año en que asumió está en la primera parte de esta clase; el del golpe, en «El final de la etapa»."
         },
         {
           "t": "opcion",

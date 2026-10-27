@@ -546,7 +546,7 @@
             "Porque la Argentina estaba en guerra"
           ],
           "correcta": 0,
-          "explicacion": "Así lo explica el primer texto de la cápsula."
+          "explicacion": "Así lo explica el primer texto del material."
         },
         {
           "tipo": "mc",
@@ -668,7 +668,7 @@
           "consigna": "La ISI empezó con la crisis de 1929 y se aceleró con la Segunda Guerra Mundial. ¿Cuántos años pasaron entre el comienzo de la crisis y el final de esa guerra?",
           "respuesta": "16",
           "explicacion": "De 1929 a 1945 pasaron 16 años, en los que la industria argentina creció mucho.",
-          "pista": "El final de la guerra está en el primer texto de esta cápsula: (1939-1945)."
+          "pista": "El final de la guerra está en el primer texto de esta parte: (1939-1945)."
         },
         {
           "t": "opcion",
@@ -844,7 +844,7 @@
             "Aviones y barcos de guerra"
           ],
           "correcta": 0,
-          "explicacion": "Así lo dice el primer texto de la cápsula."
+          "explicacion": "Así lo dice el primer texto del material."
         },
         {
           "tipo": "mc",

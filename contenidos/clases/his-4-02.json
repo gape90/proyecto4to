@@ -63,7 +63,7 @@
         },
         {
           "t": "opcion",
-          "pregunta": "¿Cuál de estos hechos NO aparece en la cápsula como causa del crecimiento de los nacionalismos?",
+          "pregunta": "¿Cuál de estos hechos NO aparece en el material como causa del crecimiento de los nacionalismos?",
           "opciones": [
             "La Reforma Universitaria",
             "La crisis económica de 1929",
@@ -71,7 +71,7 @@
             "Los resentimientos que dejó el Tratado de Versalles"
           ],
           "correcta": 0,
-          "explicacion": "La cápsula nombra la destrucción y las deudas de la Primera Guerra, el Tratado de Versalles, la Revolución Rusa y la crisis de 1929. La Reforma Universitaria fue un hecho argentino de 1918 sobre las universidades.",
+          "explicacion": "El material nombra la destrucción y las deudas de la Primera Guerra, el Tratado de Versalles, la Revolución Rusa y la crisis de 1929. La Reforma Universitaria fue un hecho argentino de 1918 sobre las universidades.",
           "pista": "Releé el primer texto, «Un mundo en crisis»."
         },
         {

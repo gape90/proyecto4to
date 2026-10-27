@@ -37,7 +37,7 @@ clases.forEach(({ c, clase }, i) => {
   const estado = p.pct === 100 ? 'completo' : '';
   html += `<div class="paso-rec ${estado}">
     <div class="num">${p.pct === 100 ? '✓' : i + 1}</div>
-    <div><h3>${esc(c.titulo)}</h3><p>${esc(c.eje)} · ${p.total} cápsulas · ${p.hechas} de ${p.total} hechas</p>
+    <div><h3>${esc(c.titulo)}</h3><p>${esc(c.eje)} · ${p.total} partes · ${p.hechas} de ${p.total} hechas</p>
     <div class="barra"><i style="width:${p.pct}%"></i></div></div>
     <a class="btn" href="clase.html?c=${c.clase}">${p.pct === 100 ? 'Repasar' : p.hechas ? 'Seguir' : 'Empezar'}</a></div>`;
 });
@@ -63,7 +63,7 @@ const dudasHtml = dd.length ? `<div class="tarjeta lavanda"><h3>📌 Para llevar
 document.getElementById('cuerpo').innerHTML = `
   <div class="clase-cab"><div class="eje-nombre">${esc(espacio.nombre)} · 4.º año</div>
   <h1>Hola, ${esc(e.alumno.nombre.split(' ')[0])}. Este es tu recorrido</h1>
-  <p>Completá las clases en orden. En cada cápsula aprendés, practicás y anotás en tu carpeta. Al final armás el trabajo práctico que vas a presentar y defender.</p></div>
+  <p>Completá las clases en orden. En cada parte de la clase aprendés, practicás y anotás en tu carpeta. Al final armás el trabajo práctico que vas a presentar y defender.</p></div>
   <div class="recorrido">${html}</div>
   <div style="margin-top:24px">${dudasHtml}</div>
   <div class="acciones no-print"><button class="btn suave chico" id="reset">Borrar mi avance en este dispositivo</button></div>`;

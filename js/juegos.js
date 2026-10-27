@@ -70,7 +70,7 @@ export function abrirJuego(tipo, cap, { onFin } = {}) {
       limpiar.splice(0).forEach(f => f());
       try { onFin?.(tipo, puntos, total); } catch {}
       const pct = total ? Math.round(puntos / total * 100) : 0;
-      const msg = pct === 100 ? '¡Perfecto! Dominás este tema.' : pct >= 70 ? '¡Muy bien! Repasá lo que te falló.' : 'Seguí practicando: volvé a leer la cápsula y jugá otra vez cuando quieras.';
+      const msg = pct === 100 ? '¡Perfecto! Dominás este tema.' : pct >= 70 ? '¡Muy bien! Repasá lo que te falló.' : 'Seguí practicando: volvé a leer el material y jugá otra vez cuando quieras.';
       ui.cuerpo.innerHTML = `<div class="jg-final"><div class="grande">${pct >= 70 ? '🏆' : '💪'}</div><h3>${puntos} de ${total}</h3><p>${msg}</p>${extra}</div>`;
       ui.fb('Terminaste el juego. Para volver a jugar, cerrá esta ventana y abrilo de nuevo.');
       btn.textContent = 'Cerrar'; btn.disabled = false; btn.onclick = cerrar;

@@ -96,7 +96,7 @@ export function montarClase(root, clase) {
         const ult = i === clase.capsulas.length - 1;
         nav.innerHTML = `<div class="acciones no-print">${ult
           ? `<button class="btn" id="sig">Ir al cierre de la clase →</button>`
-          : `<button class="btn" id="sig">Siguiente cápsula →</button>`}</div>`;
+          : `<button class="btn" id="sig">Siguiente parte →</button>`}</div>`;
         nav.querySelector('#sig').onclick = () => { actual = ult ? 'cierre' : i + 1; pintar(); window.scrollTo({ top: 0, behavior: 'smooth' }); };
         const tabs = root.querySelectorAll('.tab-cap');
         tabs.forEach((t, n) => { if (n === i) { t.classList.add('hecha'); t.textContent = '✓ ' + cap.titulo; } if (n === i + 1 && !ult) { t.disabled = false; t.classList.remove('bloq'); t.textContent = (n + 1) + ' ' + clase.capsulas[n].titulo; } });
@@ -115,7 +115,7 @@ export function montarClase(root, clase) {
     const cp = cap.carpeta; if (!cp) { host.innerHTML = ''; return; }
     e = leer(); const est = capsula(e, clase.id, cap.id);
     if (falta > 0) {
-      host.innerHTML = `<div class="carpeta bloqueada"><p class="aviso-bloqueo"><span>🔒</span><span>Para desbloquear tu carpeta, resolvé las actividades de esta cápsula.<small>Te ${falta === 1 ? 'falta 1 actividad' : `faltan ${falta} actividades`}: están arriba, con fondo blanco. Las que ya resolviste quedan en verde.</small></span></p></div>`;
+      host.innerHTML = `<div class="carpeta bloqueada"><p class="aviso-bloqueo"><span>🔒</span><span>Para desbloquear tu carpeta, resolvé las actividades de esta parte.<small>Te ${falta === 1 ? 'falta 1 actividad' : `faltan ${falta} actividades`}: están arriba, con fondo blanco. Las que ya resolviste quedan en verde.</small></span></p></div>`;
       return;
     }
     const aprobado = est.estado === 'ok' || est.estado === 'duda';
@@ -169,7 +169,7 @@ export function montarClase(root, clase) {
     const lista = juegosPara(cap, clase.id, i);
     if (!lista.length) { host.innerHTML = ''; return; }
     host.innerHTML = `<div class="juegos-panel ${hecha ? '' : 'bloq'}"><h3>🎮 Practicá con juegos</h3>
-      <p class="ayuda" style="margin:0">${hecha ? 'Terminaste la cápsula: jugá para fijar lo aprendido. No es obligatorio, pero ayuda mucho.' : 'Los juegos se habilitan cuando terminás esta cápsula: carpeta aprobada y la casilla «Ya lo copié en mi carpeta» marcada.'}</p>
+      <p class="ayuda" style="margin:0">${hecha ? 'Terminaste esta parte: jugá para fijar lo aprendido. No es obligatorio, pero ayuda mucho.' : 'Los juegos se habilitan cuando terminás esta parte: carpeta aprobada y la casilla «Ya lo copié en mi carpeta» marcada.'}</p>
       <div class="juegos-grid">${lista.map(j => `<button class="juego-card" data-j="${j.id}" ${hecha ? '' : 'disabled'}><span class="ic">${hecha ? j.icono : '🔒'}</span>${j.nombre}<small>${j.desc}</small></button>`).join('')}</div></div>`;
     host.querySelectorAll('.juego-card').forEach(b => b.onclick = () => {
       abrirJuego(b.dataset.j, cap, {
@@ -245,7 +245,7 @@ function bOpcion(w, b, resuelto, marcar) {
   if (resuelto) { bien(); fb.innerHTML = `<div class="fb ok">${md(b.explicacion || '')}</div>`; }
   w.querySelectorAll('.opc-btn').forEach(x => x.onclick = () => {
     if (+x.dataset.i === b.correcta) { bien(); fb.innerHTML = `<div class="fb ok"><b>¡Eso es!</b> ${md(b.explicacion || '')}</div>`; marcar(); }
-    else { x.classList.add('mal'); x.disabled = true; fb.innerHTML = `<div class="fb mal"><b>Esa no.</b> ${md(b.pista || 'Releé la cápsula y probá con otra.')}</div>`; }
+    else { x.classList.add('mal'); x.disabled = true; fb.innerHTML = `<div class="fb mal"><b>Esa no.</b> ${md(b.pista || 'Volvé a leer el material y probá con otra.')}</div>`; }
   });
   return true;
 }
@@ -262,7 +262,7 @@ function bVerificar(w, b, resuelto, marcar) {
     const nv = num(v);
     const ok = acepta.some(a => { const na = num(a); return !isNaN(na) && !isNaN(nv) ? Math.abs(na - nv) <= tol : norm(a).replace(/\s/g, '') === norm(v).replace(/\s/g, ''); });
     if (ok) { inp.disabled = true; w.querySelector('#ok').disabled = true; w.firstChild.classList.add('resuelto'); fb.innerHTML = `<div class="fb ok"><b>¡Correcto!</b> ${md(b.explicacion || '')}</div>`; marcar(); }
-    else { fallos++; fb.innerHTML = `<div class="fb mal"><b>No es eso.</b> ${fallos >= 2 && b.pista ? md(b.pista) : (b.pista1 ? md(b.pista1) : 'Releé la cápsula y probá otra vez.')}</div>`; }
+    else { fallos++; fb.innerHTML = `<div class="fb mal"><b>No es eso.</b> ${fallos >= 2 && b.pista ? md(b.pista) : (b.pista1 ? md(b.pista1) : 'Volvé a leer el material y probá de nuevo.')}</div>`; }
   };
   w.querySelector('#ok').onclick = comprobar; inp.onkeydown = ev => { if (ev.key === 'Enter') comprobar(); };
   return true;
@@ -326,7 +326,7 @@ function bClasificar(w, b, resuelto, marcar) {
     const marcas = {}; let mal = 0;
     fichas.forEach(f => { const ok = b.categorias[asign[f.i]] === f.cat; marcas[f.i] = ok ? 'bien' : 'mal'; if (!ok) mal++; });
     if (!mal) { bloqueado = true; pintar(marcas); w.firstChild.classList.add('resuelto'); w.querySelector('#cmp').disabled = true; fb.innerHTML = `<div class="fb ok"><b>¡Todo bien!</b> ${md(b.explicacion || '')}</div>`; marcar(); }
-    else { pintar(marcas); fb.innerHTML = `<div class="fb mal">Hay ${mal} ficha${mal > 1 ? 's' : ''} mal ubicada${mal > 1 ? 's' : ''} (en rojo). Releé la cápsula y arrastrala${mal > 1 ? 's' : ''} a otro recuadro.</div>`; }
+    else { pintar(marcas); fb.innerHTML = `<div class="fb mal">Hay ${mal} ficha${mal > 1 ? 's' : ''} mal ubicada${mal > 1 ? 's' : ''} (en rojo). Volvé a leer el material y arrastrala${mal > 1 ? 's' : ''} a otro recuadro.</div>`; }
   };
   if (resuelto) { fichas.forEach(f => asign[f.i] = b.categorias.indexOf(f.cat)); pintar(); w.querySelector('#cmp').disabled = true; fb.innerHTML = `<div class="fb ok">${md(b.explicacion || '')}</div>`; }
   else pintar();
@@ -336,7 +336,7 @@ function bOrdenar(w, b, resuelto, marcar) {
   let lista = b.items.map((t, i) => ({ t, i }));
   if (!resuelto) { do lista = mezclar(lista); while (lista.every((x, k) => x.i === k) && lista.length > 1); }
   w.innerHTML = `<div class="interactivo ${resuelto ? 'resuelto' : ''}"><div class="etq">Ordená</div><div class="consigna">${md(b.consigna)}</div>
-    <p class="instr-act">↕ Movés cada elemento con las flechas ↑ y ↓. Si no te acordás, volvé a leer la cápsula.</p><div class="lista"></div>
+    <p class="instr-act">↕ Movés cada elemento con las flechas ↑ y ↓. Si no te acordás, volvé a leer el material.</p><div class="lista"></div>
     <div class="acciones"><button class="btn chico" id="cmp" ${resuelto ? 'disabled' : ''}>Comprobar orden</button></div><div class="fbz"></div></div>`;
   const cont = w.querySelector('.lista'), fb = w.querySelector('.fbz');
   let fallos = 0;
@@ -351,7 +351,7 @@ function bOrdenar(w, b, resuelto, marcar) {
   w.querySelector('#cmp').onclick = () => {
     const ok = lista.every((x, k) => x.i === k);
     if (ok) { resuelto = true; pintar(); w.querySelector('#cmp').disabled = true; w.firstChild.classList.add('resuelto'); fb.innerHTML = `<div class="fb ok"><b>¡Orden correcto!</b> ${md(b.explicacion || '')}</div>`; marcar(); }
-    else { fallos++; const bien = lista.filter((x, k) => x.i === k).length; fb.innerHTML = `<div class="fb mal">Hay ${bien} de ${lista.length} en su lugar. ${fallos >= 2 && b.pista ? md(b.pista) : 'Volvé a leer la cápsula y probá de nuevo.'}</div>`; }
+    else { fallos++; const bien = lista.filter((x, k) => x.i === k).length; fb.innerHTML = `<div class="fb mal">Hay ${bien} de ${lista.length} en su lugar. ${fallos >= 2 && b.pista ? md(b.pista) : 'Volvé a leer el material y probá de nuevo.'}</div>`; }
   };
   if (resuelto) { lista = b.items.map((t, i) => ({ t, i })); pintar(); fb.innerHTML = `<div class="fb ok">${md(b.explicacion || '')}</div>`; }
   return true;
