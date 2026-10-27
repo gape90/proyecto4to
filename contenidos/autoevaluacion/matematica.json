@@ -1,0 +1,125 @@
+{
+  "espacio": "matematica",
+  "pares": {
+    "m1|m2": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Por qué ninguna medición con regla da exactamente la diagonal de un cuadrado de lado 1?",
+        "opciones": [
+          "Porque mide √2, un irracional con infinitos decimales sin período, y medir siempre da una aproximación",
+          "Porque la diagonal es más corta que el lado",
+          "Porque √2 es racional",
+          "Porque la regla no tiene centímetros"
+        ],
+        "correcta": 0,
+        "explicacion": "Une los irracionales y las aproximaciones con la inconmensurabilidad."
+      },
+      {
+        "tipo": "vf",
+        "texto": "El número áureo, igual que √2 y π, es un número real irracional.",
+        "respuesta": true,
+        "explicacion": "Todos son reales y ninguno se puede escribir como fracción."
+      }
+    ],
+    "m1|m3": [
+      {
+        "tipo": "mc",
+        "pregunta": "√50 = 5√2. Con √2 ≈ 1,414, ¿cuánto vale aproximadamente √50?",
+        "opciones": [
+          "7,07",
+          "5,14",
+          "25,02",
+          "7,5"
+        ],
+        "correcta": 0,
+        "explicacion": "5 · 1,414 = 7,07. Simplificar el radical y aproximar dan el mismo valor."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Simplificar √50 como 5√2 cambia su valor.",
+        "respuesta": false,
+        "explicacion": "Son escrituras equivalentes: valen lo mismo."
+      }
+    ],
+    "m1|m4": [
+      {
+        "tipo": "mc",
+        "pregunta": "En la sucesión geométrica 1, √2, 2, 2√2, 4, …, ¿cuál es la razón?",
+        "opciones": [
+          "√2",
+          "2",
+          "1",
+          "√2 + 1"
+        ],
+        "correcta": 0,
+        "explicacion": "Cada término es el anterior multiplicado por √2."
+      },
+      {
+        "tipo": "vf",
+        "texto": "En la sucesión 1, √2, 2, 2√2, 4, … todos los términos son racionales.",
+        "respuesta": false,
+        "explicacion": "√2 y 2√2 son irracionales; 1, 2 y 4 son racionales."
+      }
+    ],
+    "m2|m3": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Por qué φ = (1 + √5)/2 es irracional?",
+        "opciones": [
+          "Porque √5 no es exacta: 5 no es un cuadrado perfecto",
+          "Porque tiene una fracción",
+          "Porque 1 + 5 = 6",
+          "Porque es mayor que 1"
+        ],
+        "correcta": 0,
+        "explicacion": "Si √5 fuera racional, φ también lo sería; pero √5 no es exacta."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La diagonal de un cuadrado de lado 5 mide 5√2, que es lo mismo que √50.",
+        "respuesta": true,
+        "explicacion": "d² = 25 + 25 = 50, entonces d = √50 = 5√2."
+      }
+    ],
+    "m2|m4": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿A qué número se acercan los cocientes 8/5, 13/8 y 21/13 de la sucesión de Fibonacci?",
+        "opciones": [
+          "Al número áureo, φ ≈ 1,618",
+          "A 2",
+          "A π",
+          "A √2"
+        ],
+        "correcta": 0,
+        "explicacion": "Los cocientes de términos consecutivos de Fibonacci se acercan a φ."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La sucesión de Fibonacci es geométrica.",
+        "respuesta": false,
+        "explicacion": "No tiene razón constante (ni diferencia constante): no es ni aritmética ni geométrica."
+      }
+    ],
+    "m3|m4": [
+      {
+        "tipo": "mc",
+        "pregunta": "En la sucesión geométrica 2, 2√2, 4, 4√2, …, ¿cuánto vale 2√2 · √2?",
+        "opciones": [
+          "4",
+          "2√4",
+          "8",
+          "2"
+        ],
+        "correcta": 0,
+        "explicacion": "√2 · √2 = 2, entonces 2√2 · √2 = 4: el término siguiente."
+      },
+      {
+        "tipo": "vf",
+        "texto": "En la sucesión 3, 3√3, 9, 9√3, … la razón es √3.",
+        "respuesta": true,
+        "explicacion": "3√3 ÷ 3 = √3, y 9 ÷ 3√3 = √3."
+      }
+    ]
+  }
+}

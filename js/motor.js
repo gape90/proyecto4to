@@ -50,6 +50,7 @@ export function montarClase(root, clase) {
     root.innerHTML = `
       <div class="clase-cab"><div class="eje-nombre">${esc(clase.eje)}</div>
         <h1>${esc(clase.titulo)}</h1><p>${esc(clase.intro || '')}</p>
+        ${(clase.objetivos || []).length ? `<div class="objetivos"><b>Al terminar esta clase vas a poder:</b><ul>${clase.objetivos.map(o => `<li>${esc(o)}</li>`).join('')}</ul></div>` : ''}
         <div class="barra" style="background:rgba(255,255,255,.35);max-width:100%"><i style="width:${p.pct}%;background:#fff"></i></div></div>
       <div class="tabs-caps" role="tablist">${clase.capsulas.map((c, i) => {
         const h = capHecha(e, clase.id, c.id), d = disponible(i);
@@ -64,9 +65,12 @@ export function montarClase(root, clase) {
   function capsulaUI(host, i) {
     const cap = clase.capsulas[i];
     const est = capsula(e, clase.id, cap.id);
+    if (cap.recordas && !est.recordado) return recordasUI(host, i);
     host.innerHTML = `<div class="tarjeta">
       <div class="capsula-titulo"><div class="chip-icono">${i + 1}</div><div><h2 style="margin:0">${esc(cap.titulo)}</h2><span class="tiempo">${esc(cap.tiempo || '')}</span></div></div>
-      <div class="subrayado"></div><div class="bloques"></div>
+      <div class="subrayado"></div>
+      ${cap.recordas && est.recuerdo ? `<details class="recuerdo-previo"><summary>🧠 Lo que recordabas al empezar</summary><p>${esc(est.recuerdo)}</p></details>` : ''}
+      <div class="bloques"></div>
       <div class="carpeta-zona"></div></div>
       <div class="juegos-zona"></div><div class="nav-zona"></div>`;
     const bh = host.querySelector('.bloques');
@@ -113,6 +117,22 @@ export function montarClase(root, clase) {
     actualizarCandado(); pintarFinales();
   }
 
+  /* ---------- antes de empezar: ¿qué recordás? ---------- */
+  function recordasUI(host, i) {
+    const cap = clase.capsulas[i];
+    host.innerHTML = `<div class="tarjeta">
+      <div class="capsula-titulo"><div class="chip-icono">${i + 1}</div><div><h2 style="margin:0">${esc(cap.titulo)}</h2><span class="tiempo">${esc(cap.tiempo || '')}</span></div></div>
+      <div class="subrayado"></div>
+      <div class="recordas"><h3>🧠 Antes de empezar: ¿qué recordás?</h3>
+        <p>Este tema ya lo trabajaste en clase. Antes de leer, escribí lo que te acuerdes, aunque sea poco o no estés seguro. No se corrige: sirve para que conectes lo que ya sabés con lo que vas a aprender.</p>
+        <p class="consigna-principal"><b>${esc(cap.recordas)}</b></p>
+        <textarea id="rec" placeholder="Escribí lo que recuerdes…" style="min-height:100px"></textarea>
+        <div class="acciones"><button class="btn" id="rec-ok">Listo, empezar</button><button class="btn sec chico" id="rec-no">No me acuerdo: empezar igual</button></div></div></div>`;
+    const seguir = texto => { e = leer(); const c2 = capsula(e, clase.id, cap.id); c2.recordado = true; c2.recuerdo = texto; guardarE(); capsulaUI(host, i); window.scrollTo({ top: 0, behavior: 'smooth' }); };
+    host.querySelector('#rec-ok').onclick = () => { const t = host.querySelector('#rec').value.trim(); if (!t) { host.querySelector('#rec').focus(); return; } seguir(t); };
+    host.querySelector('#rec-no').onclick = () => seguir('');
+  }
+
   /* ---------- carpeta ---------- */
   function carpetaUI(host, cap, falta, alCambiar) {
     const cp = cap.carpeta; if (!cp) { host.innerHTML = ''; return; }
@@ -127,6 +147,7 @@ export function montarClase(root, clase) {
       <p class="carpeta-intro">Escribilo primero acá: la plataforma te ayuda a revisarlo. Después pasalo a tu carpeta, para que lo corrija tu profesor o profesora en febrero.</p>
       ${consignaHTML(cp.instruccion)}
       ${guiaHTML(cp)}
+      ${est.recuerdo ? `<div class="recuerdo-comparar"><b>🧠 Al empezar escribiste:</b> «${esc(est.recuerdo)}». Ahora podés completarlo o corregirlo con lo que aprendiste.</div>` : ''}
       <textarea id="txt" placeholder="Escribilo con tus palabras…" ${aprobado ? 'readonly' : ''}>${esc(est.texto || '')}</textarea>
       <div class="acciones"><button class="btn" id="corr" ${aprobado ? 'disabled' : ''}>Corregir</button>
         <button class="btn sec chico oculto" id="duda">Tengo una duda: seguir igual</button></div>
@@ -195,51 +216,56 @@ export function montarClase(root, clase) {
     </div>
     <div class="tarjeta"><h3>📒 Lo que escribiste en esta clase</h3><p class="ayuda">Usalo para revisar que tengas todo en tu carpeta. Lo que quedó marcado como duda aparece en rojo: anotalo igual para consultarlo.</p>
       ${textos.map(t => `<div class="cierre-texto ${t.d ? 'duda' : ''}"><h4>${esc(t.t)} ${t.d ? '<span class="duda-tag">duda</span>' : ''}</h4><div style="white-space:pre-wrap">${esc(t.x || '')}</div></div>`).join('')}</div>
+    ${(clase.objetivos || []).length ? `<div class="tarjeta no-print"><h3>🎯 ¿Lograste los objetivos de esta clase?</h3><p class="ayuda">Marcá lo que ya podés hacer. Si algo todavía no te sale, volvé a esa parte de la clase.</p>
+      <ul class="check-lista">${clase.objetivos.map((o, k) => `<li><input type="checkbox" id="obj${k}" ${e.clases[clase.id]?.objetivos?.[k] ? 'checked' : ''}><label for="obj${k}">${esc(o)}</label></li>`).join('')}</ul></div>` : ''}
     <div class="tarjeta no-print" id="autoev"></div>
     <div class="acciones no-print"><button class="btn sec" onclick="window.print()">🖨️ Imprimir</button><a class="btn" href="recorrido.html">Volver a mi recorrido →</a></div>`;
-    autoevaluacion(host.querySelector('#autoev'));
+    host.querySelectorAll('[id^="obj"]').forEach((x, k) => x.onchange = () => { e = leer(); e.clases[clase.id] ??= { caps: {} }; (e.clases[clase.id].objetivos ??= {})[k] = x.checked; guardarE(); });
+    montarAutoevaluacion(host.querySelector('#autoev'), clase.capsulas.flatMap(c => (c.autoevaluacion || []).map(q => ({ ...q, parte: c.titulo }))),
+      { intro: 'Comprobá cuánto aprendiste en esta clase. No tiene nota y la podés hacer todas las veces que quieras. Si te equivocás, leé la explicación: también así se aprende.' });
   }
 
-  /* ---------- autoevaluación (en el cierre, se puede repetir sin límite) ---------- */
-  function autoevaluacion(host) {
-    const preguntas = clase.capsulas.flatMap(c => (c.autoevaluacion || []).map(q => ({ ...q, parte: c.titulo })));
-    if (!preguntas.length) { host.remove(); return; }
-    const preparar = q => {
-      const ops = q.tipo === 'vf' ? ['Verdadero', 'Falso'] : q.opciones;
-      const correcta = q.tipo === 'vf' ? (q.respuesta ? 0 : 1) : q.correcta;
-      const orden = q.tipo === 'vf' ? [0, 1] : mezclar(ops.map((_, i) => i));
-      return { ...q, texto: q.tipo === 'vf' ? q.texto : q.pregunta, ops: orden.map(i => ops[i]), ok: orden.indexOf(correcta) };
-    };
-    const pintar = () => {
-      const qs = preguntas.map(preparar);
-      let respondidas = 0, bien = 0;
-      host.innerHTML = `<div class="titulo-seccion"><div class="chip-icono">✅</div><h2>Autoevaluación</h2></div><div class="subrayado"></div>
-        <p>Comprobá cuánto aprendiste en esta clase. No tiene nota y la podés hacer todas las veces que quieras. Si te equivocás, leé la explicación: también así se aprende.</p>
-        ${qs.map((q, n) => `<div class="autoev-q" data-n="${n}"><div class="nivel">${esc(q.parte)} · ${q.tipo === 'vf' ? 'Verdadero o falso' : 'Elegí la correcta'}</div>
-          <div class="q">${n + 1}. ${md(q.texto)}</div><div class="opc-lista">${q.ops.map((o, k) => `<button class="opc-btn" data-k="${k}">${md(o)}</button>`).join('')}</div><div class="fbz"></div></div>`).join('')}
-        <div class="fb info oculto" id="autoev-res"></div>
-        <div class="acciones"><button class="btn sec chico" id="autoev-otra">Volver a hacer la autoevaluación</button></div>`;
-      host.querySelectorAll('.autoev-q').forEach(d => {
-        const q = qs[+d.dataset.n];
-        d.querySelectorAll('.opc-btn').forEach(bt => bt.onclick = () => {
-          const k = +bt.dataset.k, acierto = k === q.ok;
-          d.querySelectorAll('.opc-btn').forEach(x => { x.disabled = true; if (+x.dataset.k === q.ok) x.classList.add('bien'); });
-          if (!acierto) bt.classList.add('mal');
-          d.querySelector('.fbz').innerHTML = acierto
-            ? `<div class="fb ok"><b>¡Bien respondido!</b> ${md(q.explicacion || '')}</div>`
-            : `<div class="fb mal"><b>No es correcta.</b> La respuesta correcta es «${md(q.ops[q.ok])}». ${md(q.explicacion || '')}</div>`;
-          respondidas++; if (acierto) bien++;
-          if (respondidas === qs.length) {
-            const r = host.querySelector('#autoev-res'); r.classList.remove('oculto');
-            r.innerHTML = `<b>Respondiste bien ${bien} de ${qs.length}.</b> ${bien === qs.length ? '¡Excelente! Tenés muy claros los temas de esta clase.' : bien >= qs.length * 0.7 ? 'Muy bien. Repasá en el material las preguntas que te costaron.' : 'Volvé a leer el material de las partes donde te equivocaste y hacé la autoevaluación otra vez.'}`;
-          }
-        });
+
+
+  pintar();
+}
+
+/* ---------- autoevaluación: en el cierre de cada clase y en la general; se puede repetir sin límite ---------- */
+export function montarAutoevaluacion(host, preguntas, { titulo = 'Autoevaluación', intro = '', onFin } = {}) {
+  if (!preguntas.length) { host.remove(); return; }
+  const preparar = q => {
+    const ops = q.tipo === 'vf' ? ['Verdadero', 'Falso'] : q.opciones;
+    const correcta = q.tipo === 'vf' ? (q.respuesta ? 0 : 1) : q.correcta;
+    const orden = q.tipo === 'vf' ? [0, 1] : mezclar(ops.map((_, i) => i));
+    return { ...q, texto: q.tipo === 'vf' ? q.texto : q.pregunta, ops: orden.map(i => ops[i]), ok: orden.indexOf(correcta) };
+  };
+  const pintar = () => {
+    const qs = preguntas.map(preparar);
+    let respondidas = 0, bien = 0;
+    host.innerHTML = `<div class="titulo-seccion"><div class="chip-icono">✅</div><h2>${esc(titulo)}</h2></div><div class="subrayado"></div>
+      <p>${esc(intro)}</p>
+      ${qs.map((q, n) => `<div class="autoev-q" data-n="${n}"><div class="nivel">${esc(q.parte)} · ${q.tipo === 'vf' ? 'Verdadero o falso' : 'Elegí la correcta'}</div>
+        <div class="q">${n + 1}. ${md(q.texto)}</div><div class="opc-lista">${q.ops.map((o, k) => `<button class="opc-btn" data-k="${k}">${md(o)}</button>`).join('')}</div><div class="fbz"></div></div>`).join('')}
+      <div class="fb info oculto" id="autoev-res"></div>
+      <div class="acciones"><button class="btn sec chico" id="autoev-otra">Volver a hacer la autoevaluación</button></div>`;
+    host.querySelectorAll('.autoev-q').forEach(d => {
+      const q = qs[+d.dataset.n];
+      d.querySelectorAll('.opc-btn').forEach(bt => bt.onclick = () => {
+        const k = +bt.dataset.k, acierto = k === q.ok;
+        d.querySelectorAll('.opc-btn').forEach(x => { x.disabled = true; if (+x.dataset.k === q.ok) x.classList.add('bien'); });
+        if (!acierto) bt.classList.add('mal');
+        d.querySelector('.fbz').innerHTML = acierto
+          ? `<div class="fb ok"><b>¡Bien respondido!</b> ${md(q.explicacion || '')}</div>`
+          : `<div class="fb mal"><b>No es correcta.</b> La respuesta correcta es «${md(q.ops[q.ok])}». ${md(q.explicacion || '')}</div>`;
+        respondidas++; if (acierto) bien++;
+        if (respondidas === qs.length) {
+          const r = host.querySelector('#autoev-res'); r.classList.remove('oculto'); try { onFin?.(bien, qs.length); } catch {}
+          r.innerHTML = `<b>Respondiste bien ${bien} de ${qs.length}.</b> ${bien === qs.length ? '¡Excelente! Tenés muy claros estos temas.' : bien >= qs.length * 0.7 ? 'Muy bien. Repasá en el material las preguntas que te costaron.' : 'Volvé a leer el material de los temas donde te equivocaste y hacé la autoevaluación otra vez.'}`;
+        }
       });
-      host.querySelector('#autoev-otra').onclick = () => { pintar(); host.scrollIntoView({ behavior: 'smooth', block: 'start' }); };
-    };
-    pintar();
-  }
-
+    });
+    host.querySelector('#autoev-otra').onclick = () => { pintar(); host.scrollIntoView({ behavior: 'smooth', block: 'start' }); };
+  };
   pintar();
 }
 
@@ -308,7 +334,7 @@ function formatoDe(b) {
 // Lee lo que escribió el alumno con flexibilidad: «4», «4 años», «cuatro», «4 anos», «0,5»…
 const NUM_PAL = { cero: 0, uno: 1, una: 1, un: 1, dos: 2, tres: 3, cuatro: 4, cinco: 5, seis: 6, siete: 7, ocho: 8, nueve: 9, diez: 10, once: 11, doce: 12, trece: 13, catorce: 14, quince: 15, dieciseis: 16, diecisiete: 17, dieciocho: 18, diecinueve: 19, veinte: 20, veintiuno: 21, treinta: 30, cuarenta: 40, cincuenta: 50, sesenta: 60, setenta: 70, ochenta: 80, noventa: 90, cien: 100 };
 function numeroEn(v) {
-  const t = String(v).trim().replace(/(\d)\s+(?=\d{3}\b)/g, '$1');
+  const t = String(v).trim().replace(/[−–]/g, '-').replace(/(\d)\s+(?=\d{3}\b)/g, '$1');
   const m = t.match(/-?\d+(?:[.,]\d+)?/g);
   if (m && m.length === 1) return Number(m[0].replace(',', '.'));
   if (m) return NaN;

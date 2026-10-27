@@ -14,7 +14,7 @@
     {
       "id": "c1",
       "titulo": "Racionales e irracionales",
-      "tiempo": "12 min",
+      "tiempo": "35 a 45 min",
       "bloques": [
         {
           "t": "texto",
@@ -109,6 +109,43 @@
           "t": "dato",
           "texto": "Con las computadoras ya se calcularon más de 100 billones de decimales de π, y nunca apareció un período. Para la navegación interplanetaria más precisa, el Jet Propulsion Laboratory de la NASA usa solo 15 decimales.",
           "titulo": "Los decimales de π"
+        },
+        {
+          "t": "texto",
+          "titulo": "Practicá en tres niveles",
+          "texto": "Resolvé estos ejercicios en orden: empiezan fáciles y se ponen más difíciles. Hacelos también en tu carpeta, con todo el procedimiento."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel básico",
+          "consigna": "¿Cuántos de estos números son irracionales: √4, √5, 0,3 y π?",
+          "respuesta": "2",
+          "explicacion": "√5 y π son irracionales. √4 = 2 y 0,3 = 3/10 son racionales.",
+          "pista": "Fijate cuáles se pueden escribir como fracción."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel intermedio",
+          "consigna": "Escribí 0,25 como fracción irreducible.",
+          "respuesta": "1/4",
+          "explicacion": "0,25 = 25/100 = 1/4.",
+          "pista": "Escribí 25/100 y simplificá dividiendo por 25.",
+          "formato": "Escribí la fracción con una barra, por ejemplo 3/4.",
+          "acepta": [
+            "1/4"
+          ]
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Desafío",
+          "consigna": "El número 0,101001000100001… (cada vez hay un 0 más entre los 1) ¿es racional o irracional?",
+          "respuesta": "irracional",
+          "explicacion": "Tiene infinitos decimales y ningún grupo de cifras se repite siempre igual: no hay período, así que es irracional.",
+          "pista": "¿Se repite siempre el mismo grupo de cifras?",
+          "formato": "Escribí una sola palabra: racional o irracional.",
+          "acepta": [
+            "irracional"
+          ]
         }
       ],
       "carpeta": {
@@ -327,12 +364,13 @@
           "respuesta": false,
           "explicacion": "0,333… tiene infinitos decimales y es racional (1/3). Para ser irracional, además, los decimales no tienen que repetir ningún período."
         }
-      ]
+      ],
+      "recordas": "¿Qué recordás sobre los números racionales e irracionales? ¿Podés dar un ejemplo de cada uno?"
     },
     {
       "id": "c2",
       "titulo": "Raíces enésimas: exactas o no",
-      "tiempo": "12 min",
+      "tiempo": "35 a 45 min",
       "bloques": [
         {
           "t": "texto",
@@ -421,6 +459,35 @@
           "correcta": 1,
           "explicacion": "7² = 49 y 8² = 64, así que √50 está entre 7 y 8 (vale unos 7,07).",
           "pista": "Elevá al cuadrado los números enteros y mirá entre cuáles queda el 50."
+        },
+        {
+          "t": "texto",
+          "titulo": "Practicá en tres niveles",
+          "texto": "Resolvé estos ejercicios en orden: empiezan fáciles y se ponen más difíciles. Hacelos también en tu carpeta, con todo el procedimiento."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel básico",
+          "consigna": "Calculá √81.",
+          "respuesta": "9",
+          "explicacion": "9² = 81.",
+          "pista": "Buscá un número que multiplicado por sí mismo dé 81."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel intermedio",
+          "consigna": "Calculá ∜625 (la raíz cuarta de 625).",
+          "respuesta": "5",
+          "explicacion": "5⁴ = 5 · 5 · 5 · 5 = 625.",
+          "pista": "Probá con números chicos elevados a la 4."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Desafío",
+          "consigna": "¿Cuál es el menor número natural mayor que 50 cuya raíz cuadrada es exacta?",
+          "respuesta": "64",
+          "explicacion": "Después de 49 = 7², el siguiente cuadrado perfecto es 64 = 8².",
+          "pista": "Pensá en los cuadrados perfectos: 49, …"
         }
       ],
       "carpeta": {
@@ -631,12 +698,13 @@
           "respuesta": true,
           "explicacion": "La raíz cúbica busca un número que, elevado al cubo, dé el radicando."
         }
-      ]
+      ],
+      "recordas": "¿Qué es una raíz cuadrada? ¿Recordás alguna raíz que dé un número exacto y otra que no?"
     },
     {
       "id": "c3",
       "titulo": "Aproximar: redondear y truncar",
-      "tiempo": "14 min",
+      "tiempo": "35 a 45 min",
       "bloques": [
         {
           "t": "texto",
@@ -712,6 +780,36 @@
           ],
           "correcta": 0,
           "explicacion": "Al redondear, como la cifra que sigue (6) es 5 o más, el 3 pasa a 4. Al truncar se corta sin mirar."
+        },
+        {
+          "t": "texto",
+          "titulo": "Practicá en tres niveles",
+          "texto": "Resolvé estos ejercicios en orden: empiezan fáciles y se ponen más difíciles. Hacelos también en tu carpeta, con todo el procedimiento."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel básico",
+          "consigna": "Redondeá 2,678 a 1 decimal.",
+          "respuesta": "2.7",
+          "explicacion": "La cifra siguiente es 7 (5 o más): el 6 sube a 7.",
+          "pista": "Mirá la segunda cifra decimal."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel intermedio",
+          "consigna": "Redondeá √3 = 1,7320508… a 3 decimales.",
+          "respuesta": "1.732",
+          "explicacion": "La cifra siguiente es 0: queda 1,732.",
+          "pista": "Mirá la cuarta cifra decimal."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Desafío",
+          "consigna": "√7 = 2,6457513… Calculá la diferencia entre redondearlo y truncarlo a 2 decimales (redondeado − truncado).",
+          "respuesta": "0.01",
+          "explicacion": "Redondeado: 2,65 (la cifra siguiente es 5). Truncado: 2,64. La diferencia es 0,01.",
+          "pista": "Hacé primero las dos aproximaciones y después restá.",
+          "tolerancia": 1e-06
         }
       ],
       "carpeta": {
@@ -924,12 +1022,13 @@
           "respuesta": false,
           "explicacion": "Eso se hace al redondear. Truncar es cortar sin mirar."
         }
-      ]
+      ],
+      "recordas": "¿Qué recordás sobre redondear un número? ¿Escuchaste alguna vez la palabra «truncar»?"
     },
     {
       "id": "c4",
       "titulo": "Acotar el error",
-      "tiempo": "14 min",
+      "tiempo": "35 a 45 min",
       "bloques": [
         {
           "t": "texto",
@@ -985,6 +1084,36 @@
           "t": "dato",
           "texto": "La calculadora no te da √2 exacto: te muestra una aproximación con los decimales que entran en su pantalla. Por eso es importante entender cuánto error estás aceptando.",
           "titulo": "La calculadora también aproxima"
+        },
+        {
+          "t": "texto",
+          "titulo": "Practicá en tres niveles",
+          "texto": "Resolvé estos ejercicios en orden: empiezan fáciles y se ponen más difíciles. Hacelos también en tu carpeta, con todo el procedimiento."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel básico",
+          "consigna": "Calculá el error absoluto al aproximar 2,7 por 3.",
+          "respuesta": "0.3",
+          "explicacion": "|2,7 − 3| = 0,3.",
+          "pista": "Restá y quedate con el valor positivo."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel intermedio",
+          "consigna": "Calculá el error absoluto al aproximar √5 = 2,23606797… por 2,24. Escribilo con 4 decimales.",
+          "respuesta": "0.0039",
+          "explicacion": "|2,23606797 − 2,24| = 0,00393…, que con 4 decimales es 0,0039.",
+          "pista": "Restá 2,24 − 2,23606797.",
+          "tolerancia": 6e-05
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Desafío",
+          "consigna": "Querés medir una tabla con un error menor que 1 cm. Si medís en metros y truncás, ¿cuántos decimales necesitás como mínimo?",
+          "respuesta": "2",
+          "explicacion": "1 cm = 0,01 m, que es la unidad del segundo decimal: truncando a 2 decimales el error es menor que 0,01 m.",
+          "pista": "Pasá 1 cm a metros."
         }
       ],
       "carpeta": {
@@ -1207,7 +1336,8 @@
           "respuesta": true,
           "explicacion": "Así sabés entre qué valores está, aunque no conozcas todos sus decimales."
         }
-      ]
+      ],
+      "recordas": "Cuando usás un valor aproximado, como 3,14 para π, ¿te estás equivocando? ¿Cuánto? ¿Recordás cómo se calcula?"
     }
   ],
   "vocabulario": [
@@ -1257,5 +1387,10 @@
   "para_ir_mas_alla": {
     "pregunta": "Si √2 es irracional y la diagonal de un cuadrado de 1 m de lado mide exactamente √2 m, ¿se puede medir con una regla esa diagonal con total exactitud? Pensá qué es medir en la práctica y qué es la medida en matemática.",
     "conexion": "Eso se conecta con el próximo tema: números reales e inconmensurabilidad."
-  }
+  },
+  "objetivos": [
+    "Distinguir números racionales e irracionales.",
+    "Reconocer raíces exactas y no exactas.",
+    "Aproximar un irracional por redondeo o truncamiento y calcular el error que cometés."
+  ]
 }

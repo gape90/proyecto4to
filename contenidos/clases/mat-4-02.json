@@ -14,7 +14,7 @@
     {
       "id": "c1",
       "titulo": "Los reales y la recta numérica",
-      "tiempo": "12 min",
+      "tiempo": "35 a 45 min",
       "bloques": [
         {
           "t": "texto",
@@ -98,6 +98,35 @@
           "correcta": 1,
           "explicacion": "1² = 1 y 2² = 4, y 2 está entre 1 y 4: √2 está entre 1 y 2.",
           "pista": "Elevá al cuadrado 1 y 2."
+        },
+        {
+          "t": "texto",
+          "titulo": "Practicá en tres niveles",
+          "texto": "Resolvé estos ejercicios en orden: empiezan fáciles y se ponen más difíciles. Hacelos también en tu carpeta, con todo el procedimiento."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel básico",
+          "consigna": "¿Cuántos de estos números son enteros: 7, −3, 2/5, √3, −10 y 0,5?",
+          "respuesta": "3",
+          "explicacion": "Son enteros 7, −3 y −10. 2/5 y 0,5 son racionales no enteros y √3 es irracional.",
+          "pista": "Los enteros son los naturales, el 0 y los negativos sin coma."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel intermedio",
+          "consigna": "Un rectángulo tiene lados de 1 y 2. Si su diagonal es d, ¿cuánto vale d²?",
+          "respuesta": "5",
+          "explicacion": "Por Pitágoras: d² = 1² + 2² = 1 + 4 = 5.",
+          "pista": "Sumá los cuadrados de los dos lados."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Desafío",
+          "consigna": "La diagonal de ese rectángulo mide √5. ¿Entre qué dos enteros consecutivos queda? Escribí el menor de los dos.",
+          "respuesta": "2",
+          "explicacion": "2² = 4 y 3² = 9, y 5 está entre 4 y 9: √5 está entre 2 y 3.",
+          "pista": "Elevá al cuadrado 2 y 3."
         }
       ],
       "carpeta": {
@@ -300,12 +329,13 @@
           "respuesta": true,
           "explicacion": "Los racionales y los irracionales juntos ocupan todos los puntos de la recta."
         }
-      ]
+      ],
+      "recordas": "¿Qué números conocés? ¿Recordás qué son los números reales y cómo se ubican en la recta numérica?"
     },
     {
       "id": "c2",
       "titulo": "Inconmensurabilidad",
-      "tiempo": "14 min",
+      "tiempo": "35 a 45 min",
       "bloques": [
         {
           "t": "texto",
@@ -373,6 +403,43 @@
           "t": "revelar",
           "pregunta": "Pensá: con una regla bien medida, ¿podés decir que la diagonal mide exactamente 1,41 m? ¿Por qué?",
           "respuesta": "No: 1,41 es una aproximación. Como √2 tiene infinitos decimales, ninguna medida con un número finito de decimales es exacta. En la práctica elegimos la precisión que necesitamos."
+        },
+        {
+          "t": "texto",
+          "titulo": "Practicá en tres niveles",
+          "texto": "Resolvé estos ejercicios en orden: empiezan fáciles y se ponen más difíciles. Hacelos también en tu carpeta, con todo el procedimiento."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel básico",
+          "consigna": "Dos segmentos miden 8 cm y 12 cm. ¿Cuál es la mayor unidad común, en cm, que entra un número entero de veces en los dos?",
+          "respuesta": "4",
+          "explicacion": "4 cm entra 2 veces en 8 y 3 veces en 12.",
+          "pista": "Buscá el mayor número que divide a 8 y a 12."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel intermedio",
+          "consigna": "Dos segmentos miden 0,6 m y 0,9 m. Escribí su cociente 0,6/0,9 como fracción irreducible.",
+          "respuesta": "2/3",
+          "explicacion": "0,6/0,9 = 6/9 = 2/3: el cociente es racional, así que son conmensurables.",
+          "pista": "Pasá a 6/9 y simplificá por 3.",
+          "formato": "Escribí la fracción con una barra, por ejemplo 3/4.",
+          "acepta": [
+            "2/3"
+          ]
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Desafío",
+          "consigna": "Un cuadrado tiene lado 3 cm y diagonal 3√2 cm. ¿Cuánto vale el cociente diagonal/lado?",
+          "respuesta": "√2",
+          "explicacion": "3√2 / 3 = √2, que es irracional: lado y diagonal son inconmensurables.",
+          "pista": "Dividí 3√2 por 3.",
+          "acepta": [
+            "√2",
+            "raiz de 2"
+          ]
         }
       ],
       "carpeta": {
@@ -582,12 +649,13 @@
           "respuesta": true,
           "explicacion": "No existe ninguna unidad que entre un número entero de veces en los dos."
         }
-      ]
+      ],
+      "recordas": "¿Se puede medir cualquier segmento con una regla de forma exacta? ¿Qué recordás sobre esto?"
     },
     {
       "id": "c3",
       "titulo": "El número áureo",
-      "tiempo": "14 min",
+      "tiempo": "35 a 45 min",
       "bloques": [
         {
           "t": "texto",
@@ -643,6 +711,37 @@
           "correcta": 0,
           "explicacion": "φ = (1 + √5)/2: si √5 fuera racional, φ también lo sería; pero √5 no es exacta.",
           "pista": "Mirá de qué número depende su fórmula."
+        },
+        {
+          "t": "texto",
+          "titulo": "Practicá en tres niveles",
+          "texto": "Resolvé estos ejercicios en orden: empiezan fáciles y se ponen más difíciles. Hacelos también en tu carpeta, con todo el procedimiento."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel básico",
+          "consigna": "Escribí el término que sigue en la sucesión de Fibonacci: 1, 1, 2, 3, 5, 8, 13, 21, …",
+          "respuesta": "34",
+          "explicacion": "13 + 21 = 34.",
+          "pista": "Sumá los dos últimos términos."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel intermedio",
+          "consigna": "Calculá 55/34 con 3 decimales (redondeando).",
+          "respuesta": "1.618",
+          "explicacion": "55 ÷ 34 = 1,6176…, que redondeado es 1,618: ¡casi igual a φ!",
+          "pista": "Dividí 55 por 34.",
+          "tolerancia": 0.0006
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Desafío",
+          "consigna": "Calculá φ² usando φ ≈ 1,618 y redondeá a 2 decimales.",
+          "respuesta": "2.62",
+          "explicacion": "1,618² = 2,6179… ≈ 2,62. Mirá: es φ + 1. El número áureo cumple φ² = φ + 1.",
+          "pista": "Multiplicá 1,618 por sí mismo.",
+          "tolerancia": 0.006
         }
       ],
       "carpeta": {
@@ -863,7 +962,8 @@
           "respuesta": false,
           "explicacion": "1,618 es solo una aproximación. φ = (1 + √5)/2 es irracional porque depende de √5."
         }
-      ]
+      ],
+      "recordas": "¿Escuchaste hablar del número áureo o de la sucesión de Fibonacci? ¿Qué recordás?"
     }
   ],
   "vocabulario": [
@@ -905,5 +1005,10 @@
   "para_ir_mas_alla": {
     "pregunta": "Buscá una hoja A4: la razón entre su lado largo y su lado corto es aproximadamente 1,414. ¿Con qué número se relaciona? Pensá por qué se la diseñó así (podés doblarla a la mitad y comparar las proporciones).",
     "conexion": "Con la próxima clase: radicales, porque √2 aparece una y otra vez."
-  }
+  },
+  "objetivos": [
+    "Explicar qué son los números reales y ubicar √2 en la recta numérica.",
+    "Explicar qué son los segmentos conmensurables e inconmensurables.",
+    "Explicar qué es el número áureo y su relación con la sucesión de Fibonacci."
+  ]
 }

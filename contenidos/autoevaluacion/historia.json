@@ -1,0 +1,131 @@
+{
+  "espacio": "historia",
+  "pares": {
+    "h1|h2": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué relación hay entre la Semana Trágica (1919) y la Liga Patriótica?",
+        "opciones": [
+          "La Liga Patriótica surgió después de la Semana Trágica y reprimía a obreros e inmigrantes",
+          "La Liga Patriótica organizó la Semana Trágica para pedir el voto femenino",
+          "No tienen relación: ocurrieron en siglos distintos",
+          "La Semana Trágica fue una protesta contra FORJA"
+        ],
+        "correcta": 0,
+        "explicacion": "Un conflicto obrero de los años radicales fue el punto de partida de un grupo nacionalista autoritario."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Tanto en Europa como en la Argentina, la Revolución Rusa (1917) preocupó a los sectores conservadores.",
+        "respuesta": true,
+        "explicacion": "En Europa asustaba a las clases dirigentes; en la Argentina, los conservadores veían una amenaza en las huelgas obreras."
+      }
+    ],
+    "h1|h3": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué gobierno, elegido gracias a la Ley Sáenz Peña, fue derrocado en 1930?",
+        "opciones": [
+          "El de Hipólito Yrigoyen",
+          "El de Marcelo T. de Alvear",
+          "El de Agustín P. Justo",
+          "El de Juan D. Perón"
+        ],
+        "correcta": 0,
+        "explicacion": "Yrigoyen había ganado por primera vez en 1916, con la nueva ley. En 1930, durante su segundo gobierno, lo derrocó Uriburu."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Durante la Década Infame se respetó plenamente el voto secreto establecido en 1912.",
+        "respuesta": false,
+        "explicacion": "Predominó el fraude electoral: la ley seguía, pero las elecciones se manipulaban."
+      }
+    ],
+    "h1|h4": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué grupo que había quedado afuera con la Ley Sáenz Peña pudo votar a partir de la ley de 1947?",
+        "opciones": [
+          "Las mujeres",
+          "Los varones argentinos",
+          "Los sectores medios",
+          "Los militares"
+        ],
+        "correcta": 0,
+        "explicacion": "La Ley Sáenz Peña era solo para varones. La ley 13.010 de 1947 reconoció el voto de las mujeres."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Tanto la UCR en 1916 como el peronismo en 1946 llegaron al gobierno ganando elecciones.",
+        "respuesta": true,
+        "explicacion": "Yrigoyen ganó en 1916 y Perón en 1946."
+      }
+    ],
+    "h2|h3": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tienen en común la llegada de Hitler al poder y el golpe de Uriburu?",
+        "opciones": [
+          "Los dos ocurrieron en el contexto de la crisis económica que empezó en 1929",
+          "Los dos fueron elecciones limpias",
+          "Los dos fortalecieron la democracia",
+          "Los dos ocurrieron antes de la Primera Guerra Mundial"
+        ],
+        "correcta": 0,
+        "explicacion": "La crisis de 1929 debilitó a los gobiernos y favoreció a quienes prometían orden: Hitler en 1933 y Uriburu en 1930."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Uriburu, que encabezó el golpe de 1930, admiraba ideas autoritarias como las de los nacionalismos de entreguerras.",
+        "respuesta": true,
+        "explicacion": "Admiraba ideas corporativistas y autoritarias."
+      }
+    ],
+    "h2|h4": [
+      {
+        "tipo": "mc",
+        "pregunta": "Getúlio Vargas aparece en dos de tus temas. ¿Por qué?",
+        "opciones": [
+          "Instauró el Estado Novo, autoritario, y también impulsó derechos laborales e industrialización",
+          "Porque fue presidente de la Argentina",
+          "Porque fundó FORJA",
+          "Porque nacionalizó el petróleo en México"
+        ],
+        "correcta": 0,
+        "explicacion": "Vargas es un ejemplo de nacionalismo en Brasil y también de gobierno popular latinoamericano."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué medida peronista se relaciona con la crítica a la dependencia económica que hacían los nacionalismos populares como FORJA?",
+        "opciones": [
+          "La nacionalización de servicios, como los ferrocarriles",
+          "El fraude electoral",
+          "El Pacto Roca-Runciman",
+          "La Ley Sáenz Peña"
+        ],
+        "correcta": 0,
+        "explicacion": "Pasar servicios al Estado buscaba que la economía dependiera menos de empresas y potencias extranjeras."
+      }
+    ],
+    "h3|h4": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Por qué la industrialización sustitutiva ayuda a entender el apoyo de los trabajadores a Perón?",
+        "opciones": [
+          "Porque hizo crecer una clase obrera urbana que Perón acercó a la política",
+          "Porque vació las ciudades",
+          "Porque redujo la cantidad de trabajadores",
+          "Porque eliminó los sindicatos"
+        ],
+        "correcta": 0,
+        "explicacion": "Con la ISI crecieron las fábricas y los obreros en las ciudades: esa fue la base social del peronismo."
+      },
+      {
+        "tipo": "vf",
+        "texto": "El golpe de 1943, que terminó con la Década Infame, es el mismo después del cual Perón pasó a la Secretaría de Trabajo.",
+        "respuesta": true,
+        "explicacion": "Un mismo hecho cierra un tema y abre el otro."
+      }
+    ]
+  }
+}

@@ -14,7 +14,7 @@
     {
       "id": "c1",
       "titulo": "Qué es un nacionalismo autoritario",
-      "tiempo": "12 min",
+      "tiempo": "30 a 40 min",
       "bloques": [
         {
           "t": "texto",
@@ -317,12 +317,13 @@
           "respuesta": true,
           "explicacion": "Es uno de sus rasgos, junto con el rechazo al liberalismo y al comunismo."
         }
-      ]
+      ],
+      "recordas": "¿Qué es para vos el nacionalismo? ¿Recordás algún gobierno autoritario de la primera mitad del siglo XX?"
     },
     {
       "id": "c2",
       "titulo": "Fascismo y nazismo",
-      "tiempo": "14 min",
+      "tiempo": "30 a 40 min",
       "bloques": [
         {
           "t": "linea",
@@ -660,12 +661,13 @@
           "respuesta": true,
           "explicacion": "Ese es el rasgo que lo distingue del fascismo italiano."
         }
-      ]
+      ],
+      "recordas": "¿Qué recordás sobre Mussolini y Hitler? ¿Qué palabras asociás con el fascismo y el nazismo?"
     },
     {
       "id": "c3",
       "titulo": "En América Latina y en la Argentina",
-      "tiempo": "14 min",
+      "tiempo": "30 a 40 min",
       "bloques": [
         {
           "t": "texto",
@@ -991,7 +993,8 @@
           "respuesta": false,
           "explicacion": "Hubo nacionalismos autoritarios y conservadores, pero también nacionalismos populares y antiimperialistas."
         }
-      ]
+      ],
+      "recordas": "¿Recordás si en la Argentina hubo grupos o líderes nacionalistas entre 1919 y 1935? ¿Cuáles?"
     }
   ],
   "vocabulario": [
@@ -1037,5 +1040,10 @@
   "para_ir_mas_alla": {
     "pregunta": "Hoy también existen discursos que dicen defender «a la nación». ¿Cómo se puede distinguir un patriotismo democrático de un nacionalismo que busca limitar libertades? Pensá qué preguntas harías.",
     "conexion": "Con la clase de la crisis de 1929: muchas de estas ideas crecieron en tiempos de crisis."
-  }
+  },
+  "objetivos": [
+    "Explicar qué es un nacionalismo autoritario y por qué creció entre las dos guerras mundiales.",
+    "Comparar el fascismo italiano y el nazismo alemán.",
+    "Reconocer las distintas formas que tomó el nacionalismo en la Argentina y en América Latina."
+  ]
 }

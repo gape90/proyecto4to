@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Autoevaluación general · Tutorías Virtuales</title>
+<link rel="stylesheet" href="css/potenciar.css">
+</head>
+<body>
+<div id="cab"></div>
+<main class="contenedor"><div id="cuerpo"><p class="ayuda">Cargando…</p></div></main>
+<div class="pie">Tutorías Virtuales · Tu avance se guarda solo en este dispositivo.</div>
+<script type="module">
+import { leer, actualizar, esc, cargarJSON, cabecera } from './js/estado.js';
+import { montarAutoevaluacion } from './js/motor.js';
+
+document.getElementById('cab').innerHTML = cabecera({ volver: { href: 'recorrido.html', texto: 'Mi recorrido' } });
+const mezclar = a => { const b = [...a]; for (let i = b.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [b[i], b[j]] = [b[j], b[i]]; } return b; };
+try {
+  const e = leer();
+  const esp = new URLSearchParams(location.search).get('e') || e.espacio;
+  if (!/^[a-z0-9-]+$/.test(esp || '')) throw new Error('Espacio no válido');
+  const cat = await cargarJSON('contenidos/catalogo.json');
+  const contenidos = (cat.contenidos[esp] || []).filter(c => e.seleccion.includes(c.id) && c.activo && c.clase);
+  const integ = await cargarJSON(`contenidos/autoevaluacion/${esp}.json`).catch(() => ({ pares: {} }));
+  const preguntas = [];
+  // Dos preguntas de cada clase (distintas cada vez), y después las que relacionan los contenidos elegidos
+  for (const c of contenidos) {
+    const clase = await cargarJSON(`contenidos/clases/${c.clase}.json`);
+    const banco = clase.capsulas.flatMap(k => k.autoevaluacion || []);
+    preguntas.push(...mezclar(banco).slice(0, 2).map(q => ({ ...q, parte: c.titulo })));
+  }
+  for (let a = 0; a < contenidos.length; a++) for (let b = a + 1; b < contenidos.length; b++) {
+    const par = integ.pares[`${contenidos[a].id}|${contenidos[b].id}`] || integ.pares[`${contenidos[b].id}|${contenidos[a].id}`] || [];
+    preguntas.push(...par.map(q => ({ ...q, parte: `Relaciona: ${contenidos[a].titulo} y ${contenidos[b].titulo}` })));
+  }
+  document.getElementById('cuerpo').innerHTML = `<div class="clase-cab"><div class="eje-nombre">Repaso de todos tus temas</div><h1>Autoevaluación general</h1>
+    <p>Terminaste las clases. Ahora repasá todos los contenidos juntos: algunas preguntas son de cada tema y otras los relacionan entre sí, como te pueden preguntar en febrero.</p></div>
+    <div class="tarjeta" id="ae"></div>
+    <div class="acciones"><a class="btn" href="recorrido.html">Volver a mi recorrido →</a></div>`;
+  montarAutoevaluacion(document.getElementById('ae'), preguntas, {
+    titulo: 'Autoevaluación general',
+    intro: 'No tiene nota y la podés hacer todas las veces que quieras: cada vez aparecen algunas preguntas distintas. Si te equivocás, leé la explicación y volvé a ese tema.',
+    onFin: (bien, total) => actualizar(x => { x.repaso ??= {}; const m = x.repaso[esp]; if (!m || bien / total >= m.bien / m.total) x.repaso[esp] = { bien, total }; }),
+  });
+} catch (err) {
+  document.getElementById('cuerpo').innerHTML = `<div class="tarjeta"><b>No se pudo abrir la autoevaluación.</b><br>${esc(err.message)}<br><a href="recorrido.html">Volver a mi recorrido</a></div>`;
+}
+</script>
+</body>
+</html>

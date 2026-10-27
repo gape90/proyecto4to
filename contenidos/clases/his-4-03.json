@@ -14,7 +14,7 @@
     {
       "id": "c1",
       "titulo": "La crisis de 1929",
-      "tiempo": "12 min",
+      "tiempo": "30 a 40 min",
       "bloques": [
         {
           "t": "texto",
@@ -324,12 +324,13 @@
           "respuesta": false,
           "explicacion": "Fue al revés: esa era la idea de antes. Después de 1929 se pensó que el Estado debía intervenir para evitar nuevas crisis, como con el New Deal."
         }
-      ]
+      ],
+      "recordas": "¿Qué recordás de la crisis de 1929? ¿Dónde empezó y por qué fue tan grave?"
     },
     {
       "id": "c2",
       "titulo": "1930: golpe y Década Infame",
-      "tiempo": "14 min",
+      "tiempo": "30 a 40 min",
       "bloques": [
         {
           "t": "texto",
@@ -663,12 +664,13 @@
           "respuesta": true,
           "explicacion": "También por la oposición política y las críticas de sectores poderosos."
         }
-      ]
+      ],
+      "recordas": "¿Qué sabés del golpe de Estado de 1930? ¿Te suena la expresión «Década Infame»?"
     },
     {
       "id": "c3",
       "titulo": "Industria, ciudades y Segunda Guerra",
-      "tiempo": "14 min",
+      "tiempo": "30 a 40 min",
       "bloques": [
         {
           "t": "texto",
@@ -1017,7 +1019,8 @@
           "respuesta": true,
           "explicacion": "En el modelo agroexportador, el motor era exportar productos del campo."
         }
-      ]
+      ],
+      "recordas": "¿Qué recordás sobre cómo creció la industria en la Argentina después de 1930?"
     }
   ],
   "vocabulario": [
@@ -1063,5 +1066,10 @@
   "para_ir_mas_alla": {
     "pregunta": "Si en tu ciudad o en tu familia hubo trabajadores que se mudaron del campo a la ciudad para trabajar en una fábrica, ¿qué razones habrán tenido? Preguntale a algún familiar mayor y anotá lo que cuente.",
     "conexion": "Con la próxima clase: esos trabajadores serán protagonistas del peronismo."
-  }
+  },
+  "objetivos": [
+    "Explicar cómo la crisis de 1929 llegó a la Argentina y qué consecuencias tuvo.",
+    "Explicar qué pasó en 1930 y por qué se habla de la Década Infame.",
+    "Explicar qué fue la industrialización sustitutiva y cómo cambió el trabajo y las ciudades."
+  ]
 }

@@ -14,7 +14,7 @@
     {
       "id": "c1",
       "titulo": "Cómo llegó Perón al gobierno",
-      "tiempo": "12 min",
+      "tiempo": "30 a 40 min",
       "bloques": [
         {
           "t": "texto",
@@ -320,12 +320,13 @@
           "respuesta": true,
           "explicacion": "Ganó las elecciones del 24 de febrero de 1946 y asumió el 4 de junio."
         }
-      ]
+      ],
+      "recordas": "¿Qué sabés o recordás sobre cómo llegó Perón al gobierno? ¿Qué pasó el 17 de octubre?"
     },
     {
       "id": "c2",
       "titulo": "Derechos y medidas del peronismo",
-      "tiempo": "14 min",
+      "tiempo": "30 a 40 min",
       "bloques": [
         {
           "t": "texto",
@@ -656,12 +657,13 @@
           "respuesta": false,
           "explicacion": "Organizaciones feministas lo reclamaban desde hacía décadas, y Eva Perón tuvo un rol muy importante."
         }
-      ]
+      ],
+      "recordas": "¿Qué derechos asociás con el peronismo? Pensá en el trabajo y en el voto."
     },
     {
       "id": "c3",
       "titulo": "El Estado, la economía y el final",
-      "tiempo": "14 min",
+      "tiempo": "30 a 40 min",
       "bloques": [
         {
           "t": "texto",
@@ -989,7 +991,8 @@
           "respuesta": true,
           "explicacion": "Como el peronismo, tuvieron apoyo de sectores populares y un Estado fuerte en la economía."
         }
-      ]
+      ],
+      "recordas": "¿Qué recordás sobre el papel del Estado en la economía durante el peronismo y sobre cómo terminó su gobierno?"
     }
   ],
   "vocabulario": [
@@ -1035,5 +1038,10 @@
   "para_ir_mas_alla": {
     "pregunta": "Hoy muchos derechos laborales (vacaciones, aguinaldo) nos parecen «normales». ¿Cómo cambiaría la vida de una familia si no existieran? Pensá en alguien de tu entorno que trabaje.",
     "conexion": "Con tu trabajo práctico: ahí vas a relacionar este tema con un ejemplo del presente."
-  }
+  },
+  "objetivos": [
+    "Explicar cómo llegó Perón a la presidencia.",
+    "Reconocer los derechos laborales, políticos y sociales que se ampliaron con el peronismo.",
+    "Explicar el papel del Estado en la economía, la democracia de masas y sus límites."
+  ]
 }

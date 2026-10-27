@@ -14,7 +14,7 @@
     {
       "id": "c1",
       "titulo": "La Ley Sáenz Peña (1912)",
-      "tiempo": "12 min",
+      "tiempo": "30 a 40 min",
       "bloques": [
         {
           "t": "texto",
@@ -351,12 +351,13 @@
           "respuesta": true,
           "explicacion": "Con el voto público había fraude y presiones. Por eso el voto secreto fue un cambio tan importante."
         }
-      ]
+      ],
+      "recordas": "¿Qué recordás sobre cómo se votaba en la Argentina a principios del siglo XX? ¿Te suena la Ley Sáenz Peña?"
     },
     {
       "id": "c2",
       "titulo": "Yrigoyen, Alvear y los sectores medios",
-      "tiempo": "14 min",
+      "tiempo": "30 a 40 min",
       "bloques": [
         {
           "t": "texto",
@@ -727,12 +728,13 @@
           "respuesta": true,
           "explicacion": "YPF fue una empresa del Estado para el petróleo. Su primer director fue Enrique Mosconi."
         }
-      ]
+      ],
+      "recordas": "¿Qué recordás de Hipólito Yrigoyen y de la Unión Cívica Radical?"
     },
     {
       "id": "c3",
       "titulo": "El mundo y la Argentina: la Primera Guerra",
-      "tiempo": "12 min",
+      "tiempo": "30 a 40 min",
       "bloques": [
         {
           "t": "texto",
@@ -1058,7 +1060,8 @@
           "respuesta": false,
           "explicacion": "Fue al revés: sus ideas preocuparon a los sectores conservadores, que veían una amenaza en las huelgas y los reclamos obreros."
         }
-      ]
+      ],
+      "recordas": "¿Qué sabés o recordás de la Primera Guerra Mundial? ¿La Argentina participó?"
     }
   ],
   "vocabulario": [
@@ -1104,5 +1107,10 @@
   "para_ir_mas_alla": {
     "pregunta": "En 1912 se amplió el voto, pero la mitad de la población (las mujeres) seguía afuera. ¿Qué otros derechos creés que se ampliaron después y cómo se logran esos cambios? Pensá en quiénes los reclamaron.",
     "conexion": "Con la clase de peronismo: ahí vas a ver el voto femenino y otros derechos sociales."
-  }
+  },
+  "objetivos": [
+    "Explicar qué cambió con la Ley Sáenz Peña y por qué fue importante.",
+    "Caracterizar los gobiernos radicales: quiénes los apoyaban, qué hechos y conflictos hubo y qué límites tuvo esa democracia.",
+    "Relacionar la Primera Guerra Mundial con la economía agroexportadora argentina."
+  ]
 }

@@ -14,7 +14,7 @@
     {
       "id": "c1",
       "titulo": "Propiedades de los radicales",
-      "tiempo": "12 min",
+      "tiempo": "35 a 45 min",
       "bloques": [
         {
           "t": "texto",
@@ -55,6 +55,36 @@
           "correcta": 2,
           "explicacion": "Con a = 9 y b = 16: √(9 + 16) = 5, pero √9 + √16 = 7. La raíz no se distribuye sobre la suma.",
           "pista": "Probá con números: 9 y 16."
+        },
+        {
+          "t": "texto",
+          "titulo": "Practicá en tres niveles",
+          "texto": "Resolvé estos ejercicios en orden: empiezan fáciles y se ponen más difíciles. Hacelos también en tu carpeta, con todo el procedimiento."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel básico",
+          "consigna": "Calculá √4 · √9.",
+          "respuesta": "6",
+          "explicacion": "2 · 3 = 6, y también √36 = 6.",
+          "pista": "Calculá cada raíz y multiplicá."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel intermedio",
+          "consigna": "Calculá √(49/4) y escribilo como número decimal.",
+          "respuesta": "3.5",
+          "explicacion": "√49/√4 = 7/2 = 3,5.",
+          "pista": "Usá la propiedad del cociente."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Desafío",
+          "consigna": "Calculá √(16 + 9) − (√16 + √9).",
+          "respuesta": "-2",
+          "explicacion": "√25 = 5 y √16 + √9 = 7: 5 − 7 = −2. Por eso la raíz no se distribuye sobre la suma.",
+          "pista": "Resolvé por separado cada parte.",
+          "formato": "Escribí solo el número; si es negativo, poné el signo menos (por ejemplo: −3)."
         }
       ],
       "carpeta": {
@@ -282,12 +312,13 @@
           "respuesta": false,
           "explicacion": "El 7 es el radicando. El índice de la raíz cuadrada es 2 y no se escribe."
         }
-      ]
+      ],
+      "recordas": "¿Qué recordás de las propiedades de las raíces? ¿Te parece que √(9 + 16) es lo mismo que √9 + √16?"
     },
     {
       "id": "c2",
       "titulo": "Extraer factores y simplificar",
-      "tiempo": "14 min",
+      "tiempo": "35 a 45 min",
       "bloques": [
         {
           "t": "texto",
@@ -384,6 +415,47 @@
             }
           ],
           "explicacion": "Cada radicando se separó en un cuadrado perfecto por un factor: 12 = 4·3, 18 = 9·2 y 50 = 25·2."
+        },
+        {
+          "t": "texto",
+          "titulo": "Practicá en tres niveles",
+          "texto": "Resolvé estos ejercicios en orden: empiezan fáciles y se ponen más difíciles. Hacelos también en tu carpeta, con todo el procedimiento."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel básico",
+          "consigna": "Simplificá √8.",
+          "respuesta": "2√2",
+          "explicacion": "8 = 4 · 2, entonces √8 = √4 · √2 = 2√2.",
+          "pista": "Buscá el cuadrado perfecto que divide a 8.",
+          "acepta": [
+            "2√2",
+            "2 raiz de 2"
+          ]
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel intermedio",
+          "consigna": "Simplificá √75.",
+          "respuesta": "5√3",
+          "explicacion": "75 = 25 · 3, entonces √75 = 5√3.",
+          "pista": "¿Qué cuadrado perfecto divide a 75?",
+          "acepta": [
+            "5√3",
+            "5 raiz de 3"
+          ]
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Desafío",
+          "consigna": "Simplificá √162.",
+          "respuesta": "9√2",
+          "explicacion": "162 = 81 · 2 y √81 = 9: √162 = 9√2.",
+          "pista": "Probá dividir 162 por 81.",
+          "acepta": [
+            "9√2",
+            "9 raiz de 2"
+          ]
         }
       ],
       "carpeta": {
@@ -598,12 +670,13 @@
           "respuesta": true,
           "explicacion": "Son radicales equivalentes: los dos valen aproximadamente 7,0711."
         }
-      ]
+      ],
+      "recordas": "¿Recordás cómo se simplifica una raíz como √50?"
     },
     {
       "id": "c3",
       "titulo": "Equivalencias y racionalización",
-      "tiempo": "14 min",
+      "tiempo": "35 a 45 min",
       "bloques": [
         {
           "t": "texto",
@@ -672,6 +745,44 @@
           "correcta": 0,
           "explicacion": "Multiplicar por 1 no cambia el valor: solo cambia la escritura.",
           "pista": "Mirá por qué número multiplicás arriba y abajo."
+        },
+        {
+          "t": "texto",
+          "titulo": "Practicá en tres niveles",
+          "texto": "Resolvé estos ejercicios en orden: empiezan fáciles y se ponen más difíciles. Hacelos también en tu carpeta, con todo el procedimiento."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel básico",
+          "consigna": "Calculá √3 · √3.",
+          "respuesta": "3",
+          "explicacion": "(√3)² = 3.",
+          "pista": "Una raíz cuadrada por sí misma da el radicando."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel intermedio",
+          "consigna": "Racionalizá 1/√5.",
+          "respuesta": "√5/5",
+          "explicacion": "Multiplicás arriba y abajo por √5: 1/√5 = √5/5.",
+          "pista": "Multiplicá arriba y abajo por √5.",
+          "formato": "Escribí el resultado como raíz sobre número, por ejemplo √3/3. Para la raíz usá el botón √.",
+          "acepta": [
+            "√5/5",
+            "raiz de 5/5"
+          ]
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Desafío",
+          "consigna": "Racionalizá 10/√5 y simplificá.",
+          "respuesta": "2√5",
+          "explicacion": "10/√5 = 10√5/5 = 2√5.",
+          "pista": "Multiplicá arriba y abajo por √5 y después simplificá 10/5.",
+          "acepta": [
+            "2√5",
+            "2 raiz de 5"
+          ]
         }
       ],
       "carpeta": {
@@ -885,7 +996,8 @@
           "respuesta": false,
           "explicacion": "Solo cambia la escritura: se multiplica por un número igual a 1, como √2/√2."
         }
-      ]
+      ],
+      "recordas": "¿Qué recordás sobre racionalizar? ¿Para qué se hace?"
     }
   ],
   "vocabulario": [
@@ -927,5 +1039,10 @@
   "para_ir_mas_alla": {
     "pregunta": "¿Cómo podrías demostrar, sin calculadora, que √2 · √8 = 4? Pensá qué propiedad usarías y qué número queda dentro de la raíz.",
     "conexion": "Con la clase de sucesiones: las fórmulas que vas a producir también se pueden comprobar con propiedades."
-  }
+  },
+  "objetivos": [
+    "Usar las propiedades del producto y del cociente de radicales.",
+    "Simplificar radicales extrayendo factores.",
+    "Racionalizar denominadores y justificar por qué las escrituras son equivalentes."
+  ]
 }

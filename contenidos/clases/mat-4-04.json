@@ -14,7 +14,7 @@
     {
       "id": "c1",
       "titulo": "Regularidades y sucesiones",
-      "tiempo": "12 min",
+      "tiempo": "35 a 45 min",
       "bloques": [
         {
           "t": "texto",
@@ -102,6 +102,35 @@
           "correcta": 1,
           "explicacion": "4 = 2 · 2, 8 = 4 · 2, 16 = 8 · 2: es geométrica con razón 2.",
           "pista": "Compará 2 con 4 y 4 con 8."
+        },
+        {
+          "t": "texto",
+          "titulo": "Practicá en tres niveles",
+          "texto": "Resolvé estos ejercicios en orden: empiezan fáciles y se ponen más difíciles. Hacelos también en tu carpeta, con todo el procedimiento."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel básico",
+          "consigna": "Escribí el término que sigue en 12, 9, 6, 3, …",
+          "respuesta": "0",
+          "explicacion": "Es aritmética con diferencia −3: 3 − 3 = 0.",
+          "pista": "¿Cuánto se resta cada vez?"
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel intermedio",
+          "consigna": "¿Cuál es la razón de la sucesión 2, 8, 32, 128, …?",
+          "respuesta": "4",
+          "explicacion": "8 ÷ 2 = 4: cada término es el anterior por 4.",
+          "pista": "Dividí un término por el anterior."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Desafío",
+          "consigna": "En 5, 9, 13, 17, …, ¿cuál es el primer término mayor que 50?",
+          "respuesta": "53",
+          "explicacion": "Sumando 4 cada vez: …, 45, 49, 53. El primero mayor que 50 es 53.",
+          "pista": "Seguí sumando la diferencia o usá la fórmula."
         }
       ],
       "carpeta": {
@@ -322,12 +351,13 @@
           "respuesta": true,
           "explicacion": "17 − 20 = −3: es una sucesión aritmética que decrece."
         }
-      ]
+      ],
+      "recordas": "¿Qué es para vos una sucesión? ¿Recordás qué diferencia hay entre una aritmética y una geométrica?"
     },
     {
       "id": "c2",
       "titulo": "Sucesiones aritméticas",
-      "tiempo": "14 min",
+      "tiempo": "35 a 45 min",
       "bloques": [
         {
           "t": "texto",
@@ -386,6 +416,36 @@
               "texto": "aₙ = 5 + (n − 1) · 3, o simplificado, aₙ = 3n + 2."
             }
           ]
+        },
+        {
+          "t": "texto",
+          "titulo": "Practicá en tres niveles",
+          "texto": "Resolvé estos ejercicios en orden: empiezan fáciles y se ponen más difíciles. Hacelos también en tu carpeta, con todo el procedimiento."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel básico",
+          "consigna": "En 3, 5, 7, 9, …, calculá a₁₀.",
+          "respuesta": "21",
+          "explicacion": "a₁₀ = 3 + 9 · 2 = 21.",
+          "pista": "Usá aₙ = a₁ + (n − 1) · d."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel intermedio",
+          "consigna": "En una sucesión aritmética, a₁ = 10 y d = −3. Calculá a₈.",
+          "respuesta": "-11",
+          "explicacion": "a₈ = 10 + 7 · (−3) = 10 − 21 = −11.",
+          "pista": "Ojo con el signo de la diferencia.",
+          "formato": "Escribí solo el número; si es negativo, poné el signo menos (por ejemplo: −3)."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Desafío",
+          "consigna": "En una sucesión aritmética, a₃ = 11 y a₇ = 23. ¿Cuánto vale a₁?",
+          "respuesta": "5",
+          "explicacion": "De a₃ a a₇ se suma 4 veces d: 4d = 12, d = 3. Entonces a₁ = 11 − 2 · 3 = 5.",
+          "pista": "Primero encontrá la diferencia."
         }
       ],
       "carpeta": {
@@ -601,12 +661,13 @@
           "respuesta": true,
           "explicacion": "Por ejemplo, 20, 17, 14… con d = −3."
         }
-      ]
+      ],
+      "recordas": "¿Recordás cómo calcular un término lejano de una sucesión, por ejemplo el término 20, sin escribirlos todos?"
     },
     {
       "id": "c3",
       "titulo": "Sucesiones geométricas",
-      "tiempo": "14 min",
+      "tiempo": "35 a 45 min",
       "bloques": [
         {
           "t": "texto",
@@ -696,6 +757,35 @@
           "t": "dato",
           "titulo": "Crecimiento lineal vs. exponencial",
           "texto": "Imaginá dos formas de ahorrar: sumar $1000 más cada mes (aritmética, con a₁ = 1000) o duplicar cada mes lo que ahorraste el mes anterior, empezando con $1 (geométrica). En el mes 21, la aritmética da a₂₁ = 1000 + 20 · 1000 = $21.000, pero la geométrica da a₂₁ = 2²⁰ = $1.048.576. La que se multiplica termina ganando por mucho."
+        },
+        {
+          "t": "texto",
+          "titulo": "Practicá en tres niveles",
+          "texto": "Resolvé estos ejercicios en orden: empiezan fáciles y se ponen más difíciles. Hacelos también en tu carpeta, con todo el procedimiento."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel básico",
+          "consigna": "En 1, 3, 9, 27, …, calculá a₅.",
+          "respuesta": "81",
+          "explicacion": "Es geométrica con razón 3: 27 · 3 = 81.",
+          "pista": "Multiplicá por la razón."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Nivel intermedio",
+          "consigna": "En una sucesión geométrica, a₁ = 3 y r = 2. Calculá a₇.",
+          "respuesta": "192",
+          "explicacion": "a₇ = 3 · 2⁶ = 3 · 64 = 192.",
+          "pista": "Usá aₙ = a₁ · r^(n − 1)."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Práctica · Desafío",
+          "consigna": "Una sucesión geométrica tiene a₁ = 2 y a₄ = 54. ¿Cuál es la razón?",
+          "respuesta": "3",
+          "explicacion": "a₄ = 2 · r³ = 54, entonces r³ = 27 y r = 3.",
+          "pista": "Del primer término al cuarto se multiplica 3 veces por la razón."
         }
       ],
       "carpeta": {
@@ -915,7 +1005,8 @@
           "respuesta": true,
           "explicacion": "Del primer término al n-ésimo hay n − 1 pasos."
         }
-      ]
+      ],
+      "recordas": "¿Qué pasa con una cantidad que se duplica todos los días? ¿Recordás la fórmula de una sucesión geométrica?"
     }
   ],
   "vocabulario": [
@@ -957,5 +1048,10 @@
   "para_ir_mas_alla": {
     "pregunta": "Pensá en una situación de tu vida diaria que siga un patrón aritmético (por ejemplo, una tarifa que sube siempre lo mismo) y otra geométrica (algo que se duplica, o un porcentaje que se aplica siempre). ¿Cuál crece más rápido a largo plazo y por qué?",
     "conexion": "Esto lo vas a poder usar en tu trabajo práctico: un problema de ahorro con dos sucesiones."
-  }
+  },
+  "objetivos": [
+    "Reconocer sucesiones aritméticas y geométricas.",
+    "Usar la fórmula del término general de cada una.",
+    "Comparar cómo crecen una sucesión aritmética y una geométrica."
+  ]
 }

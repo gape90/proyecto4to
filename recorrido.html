@@ -30,6 +30,7 @@ for (const c of contenidos) {
 }
 
 let todoCompleto = true, html = '';
+const totalPartes = clases.reduce((n, x) => n + (x.clase?.capsulas.length || 0), 0);
 clases.forEach(({ c, clase }, i) => {
   if (!clase) { html += `<div class="paso-rec bloqueado"><div class="num">${i + 1}</div><div><h3>${esc(c.titulo)}</h3><p>Esta clase todavía no está disponible.</p></div></div>`; todoCompleto = false; return; }
   const p = progresoClase(e, clase);
@@ -43,6 +44,18 @@ clases.forEach(({ c, clase }, i) => {
 });
 
 const tpAbierto = todoCompleto || AJUSTES.TP_LIBRE;
+// Autoevaluación general: cuando hay más de una clase, repasa todos los contenidos juntos y relacionados
+if (clases.length >= 2) {
+  const abierta = todoCompleto || AJUSTES.TP_LIBRE;
+  const mejor = e.repaso?.[e.espacio];
+  html += `<div class="paso-rec repaso ${abierta ? '' : 'bloqueado'}">
+    <div class="num">✅</div>
+    <div><h3>Autoevaluación general</h3>
+    <p>${abierta ? 'Repasá todos tus temas juntos, con preguntas que los relacionan entre sí. La podés hacer todas las veces que quieras.' : 'Se habilita cuando termines todas las clases de arriba.'}${mejor ? ` Tu mejor resultado: ${mejor.bien} de ${mejor.total}.` : ''}</p></div>
+    ${abierta ? `<a class="btn" href="repaso.html?e=${e.espacio}">${mejor ? 'Volver a hacerla' : 'Empezar'}</a>` : '<span class="ayuda">🔒</span>'}
+  </div>`;
+}
+
 const secc = tpDe(e, e.espacio).secciones;
 const tpTotal = 8 + contenidos.length + (e.espacio === 'matematica' ? 1 : 0);
 const tpHechas = Object.entries(secc).filter(([k, s]) => k !== 'final' && (s.estado === 'ok' || s.estado === 'duda')).length;
@@ -64,6 +77,14 @@ document.getElementById('cuerpo').innerHTML = `
   <div class="clase-cab"><div class="eje-nombre">${esc(espacio.nombre)} · 4.º año</div>
   <h1>Hola, ${esc(e.alumno.nombre.split(' ')[0])}. Este es tu recorrido</h1>
   <p>Completá las clases en orden. En cada parte de la clase aprendés, practicás y anotás en tu carpeta. Al final armás el trabajo práctico que vas a presentar y defender.</p></div>
+  <div class="tarjeta lavanda organiza"><h3>📅 Organizá tus tiempos</h3>
+    <p>Este recorrido te prepara para presentarte en las instancias de examen de febrero: vas a aprender los temas que te faltan, practicarlos y armar el trabajo práctico que vas a presentar y defender. Tenés tiempo desde diciembre, pero no lo dejes para último momento: <b>es muy importante que organices tus tiempos</b>.</p>
+    <ul>
+      <li>Tenés <b>${clases.length} clase${clases.length > 1 ? 's' : ''}</b> con <b>${totalPartes} partes</b> en total. Cada parte lleva entre 30 y 45 minutos.</li>
+      <li>Si hacés <b>una parte por día, cinco días por semana</b>, terminás las clases en unas <b>${Math.max(1, Math.ceil(totalPartes / 5))} semana${Math.ceil(totalPartes / 5) > 1 ? 's' : ''}</b>.</li>
+      <li>Dejá las últimas semanas antes de febrero para el trabajo práctico y para prepararte para defenderlo.</li>
+      <li>Trabajá en un lugar tranquilo, con tu carpeta a mano, y anotá tus dudas para las clases de consulta.</li>
+    </ul></div>
   <div class="recorrido">${html}</div>
   <div style="margin-top:24px">${dudasHtml}</div>
 `;
