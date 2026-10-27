@@ -1,0 +1,55 @@
+{
+  "espacio": "lengua-extranjera",
+  "pares": {
+    "e1|e2": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración cuenta un hecho puntual y cuál un hábito? «I walked to school yesterday» / «I used to walk to school»",
+        "opciones": [
+          "La primera es un hecho puntual; la segunda, un hábito que ya no existe",
+          "Las dos son hábitos",
+          "Las dos son hechos puntuales",
+          "La primera es un hábito; la segunda, un hecho puntual"
+        ],
+        "correcta": 0,
+        "explicacion": "Pasado simple para lo puntual; used to para el hábito."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tienen en común «She didn't win» y «She didn't use to win»?",
+        "opciones": [
+          "Después de didn't, el verbo va en forma base",
+          "Los dos están en presente",
+          "Los dos usan was",
+          "Ninguno es negativo"
+        ],
+        "correcta": 0,
+        "explicacion": "Win y use van sin -ed ni forma irregular."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración combina bien pasado simple y used to?",
+        "opciones": [
+          "My grandmother was born in 1950 and she used to live on a farm.",
+          "My grandmother born in 1950 and she use to live on a farm.",
+          "My grandmother was born in 1950 and she used to lived on a farm.",
+          "My grandmother is born in 1950 and she used to living on a farm."
+        ],
+        "correcta": 0,
+        "explicacion": "Was born (hecho) + used to + verbo base (hábito)."
+      },
+      {
+        "tipo": "vf",
+        "texto": "En las preguntas con did, tanto en pasado simple como con used to, el verbo va en forma base: «Did he invent…?», «Did you use to…?».",
+        "respuesta": true,
+        "explicacion": "Por eso use va sin d."
+      },
+      {
+        "tipo": "vf",
+        "texto": "«People used to write letters» y «Bell patented the telephone in 1876» usan el mismo tiempo verbal.",
+        "respuesta": false,
+        "explicacion": "La primera usa used to (hábito); la segunda, pasado simple (hecho puntual)."
+      }
+    ]
+  }
+}

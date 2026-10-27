@@ -1,0 +1,1073 @@
+{
+  "id": "len-4-03",
+  "espacio": "lengua",
+  "eje": "Reflexión sobre la lengua y los textos",
+  "titulo": "Tiempos verbales, puntuación y tildes",
+  "intro": "Escribir bien no es solo tener buenas ideas: también es usar los tiempos verbales adecuados, puntuar para que se entienda y poner las tildes donde van. En esta clase vas a repasar esas herramientas para tus propios textos.",
+  "objetivos": [
+    "Usar los tiempos verbales del pasado según su función en una narración.",
+    "Puntuar correctamente y reconocer cómo la puntuación cambia el sentido.",
+    "Aplicar las reglas generales de tildación, la tilde diacrítica y el hiato."
+  ],
+  "tp_aporte": "Para tu trabajo práctico ya tenés: los tiempos del pasado con su función, los usos de la coma y otros signos, y las reglas de tildación con ejemplos.",
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "Los tiempos verbales del pasado al narrar",
+      "tiempo": "30 a 40 min",
+      "recordas": "Cuando le contás a alguien algo que te pasó, ¿qué tiempos verbales usás? Pensá en una frase como «Ayer fui a…».",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Narrar en pasado",
+          "texto": "Cuando contamos una historia, casi siempre usamos verbos en **pasado**. Pero no todos los pasados son iguales: cada tiempo verbal cumple una función distinta dentro del relato."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Los tiempos del pasado en una narración",
+          "columnas": [
+            "Tiempo",
+            "Ejemplo",
+            "Para qué se usa"
+          ],
+          "filas": [
+            [
+              "Pretérito perfecto simple",
+              "salió, llegó, encontró",
+              "Acciones terminadas que hacen avanzar la historia"
+            ],
+            [
+              "Pretérito imperfecto",
+              "llovía, era, caminaba",
+              "Describir y contar acciones habituales o que estaban ocurriendo (el «fondo»)"
+            ],
+            [
+              "Pretérito pluscuamperfecto",
+              "había salido, había llegado",
+              "Acciones anteriores a otra acción pasada"
+            ],
+            [
+              "Presente histórico",
+              "En 1912 se sanciona la ley",
+              "Contar hechos pasados en presente, para darles cercanía"
+            ]
+          ]
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Los tiempos en un mismo relato",
+          "texto": "«**Era** una noche fría y **llovía** sin parar (imperfecto: el fondo). De pronto, **sonó** el timbre y Ana **abrió** la puerta (perfecto simple: las acciones). Nadie estaba ahí: el visitante ya **se había ido** (pluscuamperfecto: algo anterior)»."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Cómo se forma el pluscuamperfecto",
+          "texto": "Se forma con el verbo **haber** en pretérito imperfecto (**había, habías, habíamos, habían**) más el **participio** del verbo (terminado en -ado o -ido): **había llegado**, **habían comido**, **habíamos salido**."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿En qué tiempo está cada verbo?",
+          "categorias": [
+            "Pretérito perfecto simple",
+            "Pretérito imperfecto",
+            "Pretérito pluscuamperfecto"
+          ],
+          "items": [
+            {
+              "texto": "caminó",
+              "cat": "Pretérito perfecto simple"
+            },
+            {
+              "texto": "encontraron",
+              "cat": "Pretérito perfecto simple"
+            },
+            {
+              "texto": "caminaba",
+              "cat": "Pretérito imperfecto"
+            },
+            {
+              "texto": "éramos",
+              "cat": "Pretérito imperfecto"
+            },
+            {
+              "texto": "había caminado",
+              "cat": "Pretérito pluscuamperfecto"
+            },
+            {
+              "texto": "habían encontrado",
+              "cat": "Pretérito pluscuamperfecto"
+            }
+          ],
+          "explicacion": "El perfecto simple narra acciones terminadas; el imperfecto describe el fondo; el pluscuamperfecto usa «había» más participio."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "En «Cuando llegué a la estación, el tren ya había partido», ¿qué acción ocurrió primero?",
+          "opciones": [
+            "El tren partió",
+            "Yo llegué a la estación",
+            "Las dos al mismo tiempo",
+            "No se puede saber"
+          ],
+          "correcta": 0,
+          "explicacion": "El pluscuamperfecto (había partido) indica una acción anterior a otra acción pasada (llegué).",
+          "pista": "Releé el recuadro del pluscuamperfecto."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá con el pluscuamperfecto del verbo «terminar»: «Cuando sonó el timbre, nosotros ya ______ la tarea».",
+          "respuesta": "habíamos terminado",
+          "explicacion": "Pluscuamperfecto: «habíamos» (haber en imperfecto) + «terminado» (participio).",
+          "pista": "Usá «habíamos» más el participio del verbo.",
+          "formato": "Escribí las dos palabras del verbo.",
+          "acepta": [
+            "habiamos terminado"
+          ]
+        },
+        {
+          "t": "revelar",
+          "pregunta": "¿Por qué un libro de Historia puede decir «En 1810 se forma la Primera Junta» en presente?",
+          "respuesta": "Porque usa el **presente histórico**: cuenta un hecho pasado con un verbo en presente, para que el lector lo sienta más cercano y vivo. Se entiende que es pasado por la fecha."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué tiempos verbales se usan para narrar en pasado y qué función cumple cada uno. Incluí cómo se forma el pluscuamperfecto y escribí un breve relato propio (tres o cuatro oraciones) que use el perfecto simple, el imperfecto y el pluscuamperfecto.",
+        "guia": [
+          "¿Para qué se usa el pretérito perfecto simple? ¿Y el imperfecto?",
+          "¿Cuándo se usa el pluscuamperfecto y cómo se forma?",
+          "¿Qué es el presente histórico?",
+          "En tu relato, ¿qué verbos cuentan las acciones y cuáles describen el fondo?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "perfecto simple"
+            ],
+            "p": "el pretérito perfecto simple"
+          },
+          {
+            "k": [
+              "imperfecto"
+            ],
+            "p": "el pretérito imperfecto"
+          },
+          {
+            "k": [
+              "pluscuamperfecto",
+              "habia"
+            ],
+            "p": "el pluscuamperfecto"
+          },
+          {
+            "k": [
+              "anterior",
+              "antes"
+            ],
+            "p": "que el pluscuamperfecto indica algo anterior"
+          },
+          {
+            "k": [
+              "presente historico"
+            ],
+            "p": "el presente histórico"
+          }
+        ],
+        "referencia": "Perfecto simple (salió): acciones terminadas que hacen avanzar la historia. Imperfecto (llovía): describe el fondo y acciones habituales. Pluscuamperfecto (había salido = haber en imperfecto + participio): acción anterior a otra pasada. Presente histórico: hechos pasados contados en presente. Relato propio con los tres tiempos.",
+        "minPalabras": 40
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "«Caminaba» está en pretérito imperfecto.",
+          "respuesta": true,
+          "explicacion": "Describe una acción que estaba ocurriendo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "«Había llegado» está en pretérito perfecto simple.",
+          "respuesta": false,
+          "explicacion": "Está en pluscuamperfecto: «había» + participio."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El pluscuamperfecto indica una acción anterior a otra acción pasada.",
+          "respuesta": true,
+          "explicacion": "Por ejemplo: «Cuando llegué, ya se había ido»."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El presente histórico cuenta hechos pasados con verbos en presente.",
+          "respuesta": true,
+          "explicacion": "Da cercanía al relato."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El imperfecto se usa para las acciones que hacen avanzar la historia.",
+          "respuesta": false,
+          "explicacion": "Eso lo hace el perfecto simple; el imperfecto describe el fondo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "«Salió» está en pretérito perfecto simple.",
+          "respuesta": true,
+          "explicacion": "Es una acción terminada."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué tiempo describe el fondo de un relato («Era de noche y llovía»)?",
+          "opciones": [
+            "Pretérito imperfecto",
+            "Pretérito perfecto simple",
+            "Pluscuamperfecto",
+            "Futuro"
+          ],
+          "correcta": 0,
+          "explicacion": "Describe situaciones y acciones habituales."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se forma el pluscuamperfecto?",
+          "opciones": [
+            "Haber en imperfecto + participio",
+            "Ser + infinitivo",
+            "Ir a + infinitivo",
+            "Estar + gerundio"
+          ],
+          "correcta": 0,
+          "explicacion": "Había llegado, habían comido."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estos verbos está en pluscuamperfecto?",
+          "opciones": [
+            "Habían encontrado",
+            "Encontraron",
+            "Encontraban",
+            "Encuentran"
+          ],
+          "correcta": 0,
+          "explicacion": "«Habían» + participio."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "«En 1912 se sanciona la Ley Sáenz Peña». ¿Qué tiempo se usa?",
+          "opciones": [
+            "Presente histórico",
+            "Pretérito imperfecto",
+            "Pluscuamperfecto",
+            "Futuro"
+          ],
+          "correcta": 0,
+          "explicacion": "Es un hecho pasado contado en presente."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué verbo hace avanzar la historia en «Llovía cuando Ana abrió la puerta»?",
+          "opciones": [
+            "Abrió",
+            "Llovía",
+            "Los dos",
+            "Ninguno"
+          ],
+          "correcta": 0,
+          "explicacion": "«Abrió» es una acción terminada; «llovía» es el fondo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué tiempo es «éramos»?",
+          "opciones": [
+            "Pretérito imperfecto",
+            "Pretérito perfecto simple",
+            "Pluscuamperfecto",
+            "Presente"
+          ],
+          "correcta": 0,
+          "explicacion": "Del verbo ser."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "IMPERFECTO",
+          "pista": "Pretérito que describe el fondo de un relato."
+        },
+        {
+          "palabra": "PARTICIPIO",
+          "pista": "Forma del verbo terminada en -ado o -ido."
+        },
+        {
+          "palabra": "PLUSCUAMPERFECTO",
+          "pista": "Tiempo para una acción anterior a otra pasada."
+        },
+        {
+          "palabra": "HABER",
+          "pista": "Verbo auxiliar del pluscuamperfecto."
+        },
+        {
+          "palabra": "NARRAR",
+          "pista": "Contar una historia."
+        },
+        {
+          "palabra": "PRETÉRITO",
+          "pista": "Otra forma de decir pasado en gramática."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "En «Cuando llegó la ambulancia, el herido ya se había levantado», ¿qué pasó primero?",
+          "opciones": [
+            "El herido se levantó",
+            "Llegó la ambulancia",
+            "Las dos cosas a la vez",
+            "Ninguna"
+          ],
+          "correcta": 0,
+          "explicacion": "El pluscuamperfecto marca la acción anterior."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué par muestra el fondo y la acción de un relato?",
+          "opciones": [
+            "«Hacía frío» (fondo) / «salimos» (acción)",
+            "«Salimos» (fondo) / «hacía frío» (acción)",
+            "«Habíamos salido» (fondo) / «hacía frío» (acción)",
+            "Ninguno"
+          ],
+          "correcta": 0,
+          "explicacion": "El imperfecto describe; el perfecto simple narra acciones."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Un relato bien escrito combina tiempos verbales del pasado según su función.",
+          "respuesta": true,
+          "explicacion": "Perfecto simple para las acciones, imperfecto para el fondo, pluscuamperfecto para lo anterior."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "La puntuación cambia el sentido",
+      "tiempo": "30 a 40 min",
+      "recordas": "¿Te pasó alguna vez que un mensaje se entendiera mal por una coma o un signo que faltaba?",
+      "bloques": [
+        {
+          "t": "ejemplo",
+          "titulo": "Una coma puede cambiarlo todo",
+          "texto": "• «Vamos a comer, chicos» (invita a los chicos a comer).\n• «Vamos a comer chicos» (¡dice que se van a comer a los chicos!).\n\n• «No, quiero ir» (sí quiere ir).\n• «No quiero ir» (no quiere ir)."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Los usos principales de la coma",
+          "texto": "• **Separar elementos de una enumeración**: «Compré pan, leche, huevos y yerba».\n• **Aislar el vocativo** (a quien se le habla): «Juan, vení» / «Gracias, profe».\n• **Encerrar una aclaración**: «Sófocles, autor griego, escribió Antígona».\n• **Antes de conectores** como pero, sin embargo, aunque: «Estudié, pero no me alcanzó el tiempo»."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Otros signos de puntuación",
+          "columnas": [
+            "Signo",
+            "Para qué se usa",
+            "Ejemplo"
+          ],
+          "filas": [
+            [
+              "Punto y seguido",
+              "Separar oraciones de un mismo párrafo",
+              "Llegó tarde. Nadie lo esperaba."
+            ],
+            [
+              "Punto y aparte",
+              "Terminar un párrafo",
+              "Al final de cada párrafo"
+            ],
+            [
+              "Punto y coma",
+              "Separar ideas relacionadas o antes de conectores largos",
+              "Estudió mucho; sin embargo, no aprobó."
+            ],
+            [
+              "Dos puntos",
+              "Antes de una enumeración, una cita o una explicación",
+              "Trajo tres cosas: mate, pan y fruta."
+            ],
+            [
+              "Signos de pregunta y exclamación",
+              "Se abren y se cierran en español",
+              "¿Venís? ¡Qué alegría!"
+            ]
+          ]
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Por qué lleva coma cada frase?",
+          "categorias": [
+            "Vocativo",
+            "Enumeración",
+            "Aclaración"
+          ],
+          "items": [
+            {
+              "texto": "Martina, cerrá la puerta",
+              "cat": "Vocativo"
+            },
+            {
+              "texto": "Chicos, empezamos la clase",
+              "cat": "Vocativo"
+            },
+            {
+              "texto": "Llevá cuaderno, lápiz y regla",
+              "cat": "Enumeración"
+            },
+            {
+              "texto": "Hay manzanas, peras y bananas",
+              "cat": "Enumeración"
+            },
+            {
+              "texto": "Rosario, mi ciudad, está sobre el río Paraná",
+              "cat": "Aclaración"
+            },
+            {
+              "texto": "Antígona, hija de Edipo, desobedeció al rey",
+              "cat": "Aclaración"
+            }
+          ],
+          "explicacion": "El vocativo nombra a quien se le habla; la enumeración separa elementos; la aclaración agrega información entre comas."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿En qué oración la coma está bien usada para el vocativo?",
+          "opciones": [
+            "Mamá, ¿me pasás la sal?",
+            "Mamá ¿me pasás, la sal?",
+            "Mamá ¿me, pasás la sal?",
+            "Mamá ¿me pasás la sal,?"
+          ],
+          "correcta": 0,
+          "explicacion": "El vocativo (Mamá) se separa con coma del resto de la oración.",
+          "pista": "Releé el recuadro de los usos de la coma."
+        },
+        {
+          "t": "verificar",
+          "consigna": "¿Cuántas comas necesita esta oración? «Para el campamento llevá carpa bolsa de dormir linterna y repelente».",
+          "respuesta": "2",
+          "explicacion": "Van dos comas: «carpa, bolsa de dormir, linterna y repelente». Antes de la «y» final no va coma.",
+          "pista": "Contá los elementos de la enumeración; antes de «y» no va coma.",
+          "formato": "Escribí solo el número.",
+          "acepta": [
+            "2",
+            "dos"
+          ]
+        },
+        {
+          "t": "revelar",
+          "pregunta": "¿Por qué en español se abren los signos de pregunta y de exclamación, y en otros idiomas no?",
+          "respuesta": "Porque en español una pregunta muchas veces se escribe igual que una afirmación («Venís mañana» / «¿Venís mañana?»). El signo de apertura avisa desde el principio cómo hay que leer la oración. En inglés, el orden de las palabras ya indica que es pregunta."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá por qué la puntuación es importante para el sentido de un texto. Describí los usos principales de la coma con un ejemplo de cada uno y explicá para qué sirven el punto, el punto y coma y los dos puntos.",
+        "guia": [
+          "¿Qué ejemplo muestra que una coma puede cambiar el sentido?",
+          "¿Cuándo se usa la coma? (enumeración, vocativo, aclaración, conectores)",
+          "¿Qué diferencia hay entre punto y seguido y punto y aparte?",
+          "¿Para qué sirven el punto y coma y los dos puntos?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "sentido",
+              "significado",
+              "cambia"
+            ],
+            "p": "por qué la puntuación cambia el sentido"
+          },
+          {
+            "k": [
+              "coma"
+            ],
+            "p": "la coma"
+          },
+          {
+            "k": [
+              "enumeracion",
+              "vocativo",
+              "aclaracion"
+            ],
+            "p": "los usos de la coma"
+          },
+          {
+            "k": [
+              "punto y seguido",
+              "punto y aparte",
+              "punto"
+            ],
+            "p": "el punto"
+          },
+          {
+            "k": [
+              "dos puntos",
+              "punto y coma"
+            ],
+            "p": "el punto y coma o los dos puntos"
+          }
+        ],
+        "referencia": "La puntuación cambia el sentido («Vamos a comer, chicos» / «Vamos a comer chicos»). Coma: enumeración, vocativo, aclaración, antes de conectores. Punto y seguido separa oraciones; punto y aparte termina un párrafo. Punto y coma: ideas relacionadas o antes de conectores largos. Dos puntos: antes de enumeraciones, citas o explicaciones.",
+        "minPalabras": 40
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "«Vamos a comer, chicos» y «Vamos a comer chicos» significan lo mismo.",
+          "respuesta": false,
+          "explicacion": "La coma marca el vocativo y cambia todo el sentido."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El vocativo se separa con coma.",
+          "respuesta": true,
+          "explicacion": "«Juan, vení»."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Antes de la «y» final de una enumeración se pone coma.",
+          "respuesta": false,
+          "explicacion": "En una enumeración simple, antes de «y» no va coma."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los dos puntos se usan antes de una enumeración.",
+          "respuesta": true,
+          "explicacion": "«Trajo tres cosas: mate, pan y fruta»."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En español, los signos de pregunta se abren y se cierran.",
+          "respuesta": true,
+          "explicacion": "¿Venís?"
+        },
+        {
+          "tipo": "vf",
+          "texto": "El punto y aparte separa oraciones dentro del mismo párrafo.",
+          "respuesta": false,
+          "explicacion": "Eso es el punto y seguido; el punto y aparte termina un párrafo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es el vocativo?",
+          "opciones": [
+            "La palabra que nombra a quien se le habla",
+            "Un tipo de verbo",
+            "El final de un párrafo",
+            "Una enumeración"
+          ],
+          "correcta": 0,
+          "explicacion": "«Profe, ¿puedo pasar?»."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué signo va antes de «sin embargo» en «Estudió mucho ___ sin embargo, no aprobó»?",
+          "opciones": [
+            "Punto y coma",
+            "Dos puntos",
+            "Signo de pregunta",
+            "Nada"
+          ],
+          "correcta": 0,
+          "explicacion": "Antes de conectores largos se usa punto y coma (o punto)."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué uso de la coma hay en «Sófocles, autor griego, escribió Antígona»?",
+          "opciones": [
+            "Aclaración",
+            "Vocativo",
+            "Enumeración",
+            "Conector"
+          ],
+          "correcta": 0,
+          "explicacion": "«Autor griego» agrega información entre comas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué signo termina un párrafo?",
+          "opciones": [
+            "Punto y aparte",
+            "Coma",
+            "Punto y coma",
+            "Dos puntos"
+          ],
+          "correcta": 0,
+          "explicacion": "El punto y seguido separa oraciones del mismo párrafo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien puntuada?",
+          "opciones": [
+            "Compré pan, leche y huevos.",
+            "Compré, pan leche y huevos.",
+            "Compré pan leche, y huevos.",
+            "Compré pan, leche, y, huevos."
+          ],
+          "correcta": 0,
+          "explicacion": "Comas entre los elementos, sin coma antes de «y»."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué significa «No, quiero ir»?",
+          "opciones": [
+            "Que sí quiere ir",
+            "Que no quiere ir",
+            "Que no sabe",
+            "Es una pregunta"
+          ],
+          "correcta": 0,
+          "explicacion": "Contesta «no» a algo y después dice que quiere ir."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "COMA",
+          "pista": "Signo que separa elementos de una enumeración."
+        },
+        {
+          "palabra": "VOCATIVO",
+          "pista": "Palabra que nombra a quien se le habla."
+        },
+        {
+          "palabra": "ACLARACIÓN",
+          "pista": "Información que se agrega entre comas."
+        },
+        {
+          "palabra": "PÁRRAFO",
+          "pista": "Lo que termina con un punto y aparte."
+        },
+        {
+          "palabra": "ENUMERACIÓN",
+          "pista": "Lista de elementos separados por comas."
+        },
+        {
+          "palabra": "PUNTUACIÓN",
+          "pista": "Conjunto de signos que ordenan la escritura."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración tiene un vocativo bien puntuado?",
+          "opciones": [
+            "Lucía, traé los libros",
+            "Lucía traé, los libros",
+            "Lucía traé los, libros",
+            "Lucía traé los libros,"
+          ],
+          "correcta": 0,
+          "explicacion": "El vocativo «Lucía» se separa con coma del resto."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué «No, quiero ir» y «No quiero ir» dicen cosas distintas?",
+          "opciones": [
+            "Porque la coma separa el «no» del resto y cambia el sentido",
+            "Porque una tiene más letras",
+            "Porque una es pregunta",
+            "Dicen lo mismo"
+          ],
+          "correcta": 0,
+          "explicacion": "Con coma, el «no» responde a otra cosa y la persona sí quiere ir."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los dos puntos pueden ir antes de una explicación o una cita.",
+          "respuesta": true,
+          "explicacion": "También antes de una enumeración."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Las reglas de tildación",
+      "tiempo": "30 a 40 min",
+      "recordas": "¿Sabés por qué «canción» lleva tilde y «cancion» está mal escrita? ¿Qué regla recordás?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "La sílaba tónica",
+          "texto": "En toda palabra hay una sílaba que se pronuncia con más fuerza: la **sílaba tónica**. Por ejemplo: ca-**mión**, **ár**-bol, te-**lé**-fo-no.\n\nSegún dónde esté la sílaba tónica, las palabras se clasifican en **agudas**, **graves** y **esdrújulas**. Esa clasificación es la que dice si llevan tilde o no."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Las reglas generales de tildación",
+          "columnas": [
+            "Tipo",
+            "Sílaba tónica",
+            "¿Cuándo lleva tilde?",
+            "Ejemplos"
+          ],
+          "filas": [
+            [
+              "Aguda",
+              "La última",
+              "Si termina en n, s o vocal",
+              "camión, compás, café / reloj, papel (sin tilde)"
+            ],
+            [
+              "Grave (llana)",
+              "La anteúltima",
+              "Si NO termina en n, s o vocal",
+              "árbol, lápiz, fácil / casa, examen (sin tilde)"
+            ],
+            [
+              "Esdrújula",
+              "La antepenúltima",
+              "Siempre",
+              "teléfono, música, sílaba"
+            ]
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "La tilde diacrítica",
+          "texto": "Algunas palabras de una sílaba llevan tilde para **diferenciarse** de otras que se escriben igual pero significan otra cosa:\n• **tú** (pronombre: «tú sabés») / **tu** (posesivo: «tu casa»)\n• **él** (pronombre: «él vino») / **el** (artículo: «el libro»)\n• **sí** (afirmación: «sí, quiero») / **si** (condición: «si llueve, no voy»)\n• **más** (cantidad: «quiero más») / **mas** (= pero, poco usado)\n• **qué, cómo, dónde, cuándo** llevan tilde cuando preguntan o exclaman: «¿Qué hora es?»"
+        },
+        {
+          "t": "dato",
+          "titulo": "El hiato: cuando la regla general no alcanza",
+          "texto": "Cuando una vocal cerrada (**i**, **u**) tónica está junto a una vocal abierta (**a, e, o**), lleva tilde **siempre**, aunque la regla general diga lo contrario: **día**, **país**, **baúl**, **río**, **había**. La tilde marca que las dos vocales se pronuncian en sílabas distintas (dí-a)."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Palabras de la misma familia: parentescos léxicos",
+          "texto": "Algunas palabras de la misma familia no se parecen tanto como uno espera, porque vienen del latín: **hueso** / **óseo**; **huevo** / **óvalo**, **ovíparo**; **leche** / **lácteo**; **ojo** / **ocular**. Conocer estas familias ayuda a entender y a escribir mejor palabras nuevas."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada palabra es aguda, grave o esdrújula?",
+          "categorias": [
+            "Aguda",
+            "Grave",
+            "Esdrújula"
+          ],
+          "items": [
+            {
+              "texto": "canción",
+              "cat": "Aguda"
+            },
+            {
+              "texto": "reloj",
+              "cat": "Aguda"
+            },
+            {
+              "texto": "árbol",
+              "cat": "Grave"
+            },
+            {
+              "texto": "examen",
+              "cat": "Grave"
+            },
+            {
+              "texto": "música",
+              "cat": "Esdrújula"
+            },
+            {
+              "texto": "sílaba",
+              "cat": "Esdrújula"
+            }
+          ],
+          "explicacion": "Fijate en la sílaba que suena más fuerte: la última (aguda), la anteúltima (grave) o la antepenúltima (esdrújula)."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Por qué «examen» no lleva tilde?",
+          "opciones": [
+            "Porque es grave y termina en n",
+            "Porque es aguda y termina en n",
+            "Porque es esdrújula",
+            "Porque es un monosílabo"
+          ],
+          "correcta": 0,
+          "explicacion": "e-**xa**-men es grave; las graves llevan tilde solo si NO terminan en n, s o vocal.",
+          "pista": "Releé la fila de las graves en la tabla."
+        },
+        {
+          "t": "verificar",
+          "consigna": "¿Cuántas de estas palabras deberían llevar tilde? camion, arbol, telefono, reloj",
+          "respuesta": "3",
+          "explicacion": "Llevan tilde camión (aguda en n), árbol (grave en l) y teléfono (esdrújula). Reloj es aguda terminada en j: no lleva.",
+          "pista": "Clasificá cada una y aplicá la regla.",
+          "formato": "Escribí solo el número.",
+          "acepta": [
+            "3",
+            "tres"
+          ]
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá las reglas de tildación. Contá qué es la sílaba tónica, cómo se clasifican las palabras y cuándo lleva tilde cada tipo, qué es la tilde diacrítica y qué pasa con el hiato. Dá ejemplos propios de cada caso.",
+        "guia": [
+          "¿Qué es la sílaba tónica?",
+          "¿Cuándo llevan tilde las agudas, las graves y las esdrújulas?",
+          "¿Qué es la tilde diacrítica? Dá dos pares de ejemplos.",
+          "¿Qué es el hiato y por qué «día» lleva tilde?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "silaba tonica",
+              "fuerza",
+              "tonica"
+            ],
+            "p": "la sílaba tónica"
+          },
+          {
+            "k": [
+              "aguda"
+            ],
+            "p": "las agudas"
+          },
+          {
+            "k": [
+              "grave",
+              "llana"
+            ],
+            "p": "las graves"
+          },
+          {
+            "k": [
+              "esdrujula"
+            ],
+            "p": "las esdrújulas"
+          },
+          {
+            "k": [
+              "diacritica"
+            ],
+            "p": "la tilde diacrítica"
+          },
+          {
+            "k": [
+              "hiato",
+              "dia",
+              "pais"
+            ],
+            "p": "el hiato"
+          }
+        ],
+        "referencia": "Sílaba tónica: la que suena más fuerte. Agudas (tónica la última): tilde si terminan en n, s o vocal (camión). Graves (anteúltima): tilde si NO terminan en n, s o vocal (árbol). Esdrújulas: siempre (música). Diacrítica: tú/tu, él/el, sí/si, más/mas, qué en preguntas. Hiato: i o u tónica junto a a, e, o lleva tilde (día, país).",
+        "minPalabras": 40
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Las palabras esdrújulas llevan tilde siempre.",
+          "respuesta": true,
+          "explicacion": "Música, teléfono, sílaba."
+        },
+        {
+          "tipo": "vf",
+          "texto": "«Reloj» lleva tilde porque es aguda.",
+          "respuesta": false,
+          "explicacion": "Es aguda, pero termina en j: no lleva."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Las palabras graves llevan tilde si NO terminan en n, s o vocal.",
+          "respuesta": true,
+          "explicacion": "Árbol, lápiz, fácil."
+        },
+        {
+          "tipo": "vf",
+          "texto": "«Tú» con tilde es un pronombre; «tu» sin tilde es posesivo.",
+          "respuesta": true,
+          "explicacion": "«Tú sabés» / «tu casa»."
+        },
+        {
+          "tipo": "vf",
+          "texto": "«Día» lleva tilde porque es esdrújula.",
+          "respuesta": false,
+          "explicacion": "Lleva tilde por el hiato: í tónica junto a a."
+        },
+        {
+          "tipo": "vf",
+          "texto": "«Hueso» y «óseo» son palabras de la misma familia.",
+          "respuesta": true,
+          "explicacion": "Óseo viene del latín, como hueso."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué tipo de palabra es «canción»?",
+          "opciones": [
+            "Aguda",
+            "Grave",
+            "Esdrújula",
+            "Monosílabo"
+          ],
+          "correcta": 0,
+          "explicacion": "La tónica es la última: can-ción."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estas palabras está bien escrita?",
+          "opciones": [
+            "árbol",
+            "arból",
+            "arbol",
+            "árból"
+          ],
+          "correcta": 0,
+          "explicacion": "Es grave terminada en l: lleva tilde en la a."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué oración «si» debe llevar tilde?",
+          "opciones": [
+            "Le pregunté y me dijo que sí.",
+            "Si llueve, no voy.",
+            "No sé si viene.",
+            "Si querés, vamos."
+          ],
+          "correcta": 0,
+          "explicacion": "«Sí» de afirmación lleva tilde; «si» de condición, no."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué «país» lleva tilde?",
+          "opciones": [
+            "Por el hiato: la í tónica está junto a la a",
+            "Porque es esdrújula",
+            "Porque es grave",
+            "Porque es diacrítica"
+          ],
+          "correcta": 0,
+          "explicacion": "La tilde separa las vocales en dos sílabas: pa-ís."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra es de la familia de «leche»?",
+          "opciones": [
+            "Lácteo",
+            "Lechuga",
+            "Lejos",
+            "Lección"
+          ],
+          "correcta": 0,
+          "explicacion": "Viene del latín lac."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la sílaba tónica de «teléfono»?",
+          "opciones": [
+            "lé",
+            "te",
+            "fo",
+            "no"
+          ],
+          "correcta": 0,
+          "explicacion": "Te-lé-fo-no: es esdrújula."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "TILDE",
+          "pista": "Marca que se escribe sobre la vocal de la sílaba tónica."
+        },
+        {
+          "palabra": "AGUDA",
+          "pista": "Palabra con la sílaba tónica en la última sílaba."
+        },
+        {
+          "palabra": "GRAVE",
+          "pista": "Palabra con la sílaba tónica en la anteúltima."
+        },
+        {
+          "palabra": "ESDRÚJULA",
+          "pista": "Palabra que siempre lleva tilde."
+        },
+        {
+          "palabra": "HIATO",
+          "pista": "Dos vocales juntas que se pronuncian en sílabas distintas."
+        },
+        {
+          "palabra": "DIACRÍTICA",
+          "pista": "Tilde que diferencia palabras como tú y tu."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué «camión» lleva tilde y «reloj» no, si las dos son agudas?",
+          "opciones": [
+            "Porque camión termina en n y reloj termina en j",
+            "Porque camión es más larga",
+            "Porque reloj es grave",
+            "Porque camión es esdrújula"
+          ],
+          "correcta": 0,
+          "explicacion": "Las agudas llevan tilde solo si terminan en n, s o vocal."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué oración falta una tilde diacrítica?",
+          "opciones": [
+            "El vino ayer a casa.",
+            "Tu cuaderno está en la mesa.",
+            "Si llueve, no salgo.",
+            "El libro es nuevo."
+          ],
+          "correcta": 0,
+          "explicacion": "Ahí «él» es pronombre (quién vino): lleva tilde."
+        },
+        {
+          "tipo": "vf",
+          "texto": "«Qué» lleva tilde cuando pregunta: «¿Qué hora es?».",
+          "respuesta": true,
+          "explicacion": "También cómo, dónde y cuándo cuando preguntan o exclaman."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Pretérito imperfecto",
+      "definicion": "Tiempo pasado que describe el fondo de un relato (llovía, era)."
+    },
+    {
+      "palabra": "Pluscuamperfecto",
+      "definicion": "Tiempo de una acción anterior a otra pasada (había salido)."
+    },
+    {
+      "palabra": "Vocativo",
+      "definicion": "Palabra que nombra a quien se le habla; va entre comas."
+    },
+    {
+      "palabra": "Sílaba tónica",
+      "definicion": "Sílaba que se pronuncia con más fuerza."
+    },
+    {
+      "palabra": "Tilde diacrítica",
+      "definicion": "Tilde que diferencia palabras que se escriben igual (tú/tu)."
+    },
+    {
+      "palabra": "Hiato",
+      "definicion": "Dos vocales juntas que se pronuncian en sílabas distintas (dí-a)."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "Pensar que todas las agudas llevan tilde.",
+      "aclaracion": "Solo las que terminan en n, s o vocal: camión sí, reloj no."
+    },
+    {
+      "error": "Poner coma antes de la «y» final de una enumeración.",
+      "aclaracion": "En una enumeración simple no va coma antes de «y»."
+    },
+    {
+      "error": "Usar el imperfecto para todas las acciones del relato.",
+      "aclaracion": "Las acciones que hacen avanzar la historia van en perfecto simple (salió, abrió)."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "Releé un mensaje que hayas escrito hace poco: ¿cambiarías alguna coma o tilde ahora?",
+    "conexion": "Con el texto argumentativo: la puntuación y los conectores hacen que tus argumentos se entiendan."
+  }
+}

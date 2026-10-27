@@ -51,7 +51,7 @@ export function tpDe(e, espacio) {
 }
 export function dudas(e) {
   const out = [];
-  const pref = { matematica: 'mat-', historia: 'his-' }[e.espacio] || '';
+  const pref = { matematica: 'mat-', historia: 'his-', lengua: 'len-', 'lengua-extranjera': 'ing-' }[e.espacio] || '';
   for (const [cid, cl] of Object.entries(e.clases)) if (cid.startsWith(pref))
     for (const [kid, c] of Object.entries(cl.caps))
       if (c.estado === 'duda') out.push({ clase: cid, cap: kid, nombre: c.titulo || kid, texto: '' });
@@ -61,12 +61,18 @@ export function dudas(e) {
   return out;
 }
 
+import './voz.js';
 // Utilidades comunes
 export const norm = s => (s || '').toString().toLowerCase()
   .normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9ñπφ²³√∛∜\s.,/^=+\-]/g, ' ').replace(/\s+/g, ' ').trim();
 export const esc = s => (s ?? '').toString().replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 // **negrita** y _cursiva_ mínimos, sobre texto ya escapado
-export const md = s => esc(s).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>').replace(/(^|[\s(])_(.+?)_(?=[\s).,;:]|$)/g, '$1<i>$2</i>').replace(/\n/g, '<br>');
+// **negrita**, _cursiva_ y [[inglés]] (con botón 🔊 para escuchar la pronunciación)
+export const md = s => esc(s).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>').replace(/(^|[\s(])_(.+?)_(?=[\s).,;:]|$)/g, '$1<i>$2</i>')
+  .replace(/\[\[(.+?)\]\]/g, (_, t) => `<span class="en">${t}</span><button type="button" class="hablar" data-t="${t}" aria-label="Escuchar: ${t}" title="Escuchar la pronunciación">🔊</button>`)
+  .replace(/\n/g, '<br>');
+// Texto plano (sin marcas): para lugares donde no van botones, como las fichas para arrastrar
+export const plano = s => (s || '').toString().replace(/\[\[(.+?)\]\]/g, '$1').replace(/\*\*(.+?)\*\*/g, '$1');
 
 export async function cargarJSON(ruta) {
   const r = await fetch(ruta, { cache: 'no-cache' });

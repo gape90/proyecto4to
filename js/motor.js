@@ -1,7 +1,7 @@
 // TUTORÍAS VIRTUALES · motor de cápsulas
 // Cada cápsula: enseña, hace practicar, pide registrar en la carpeta (primero en pantalla con aprobación, después en papel)
 // y, al terminar, habilita los juegos de práctica. Nada se envía al docente.
-import { leer, guardar, capsula, capHecha, progresoClase, esc, md, norm, consignaHTML, referenciaEscritura } from './estado.js';
+import { leer, guardar, capsula, capHecha, progresoClase, esc, md, norm, consignaHTML, referenciaEscritura, plano } from './estado.js';
 import { corregir, hayIA, pedirClave } from './ia.js';
 import { AJUSTES } from './config.js';
 import { montarSim } from './simulaciones.js';
@@ -210,7 +210,7 @@ export function montarClase(root, clase) {
     const textos = clase.capsulas.map(c => ({ t: c.titulo, x: e.clases[clase.id]?.caps?.[c.id]?.texto, d: e.clases[clase.id]?.caps?.[c.id]?.estado === 'duda' }));
     host.innerHTML = `<div class="tarjeta"><div class="titulo-seccion"><div class="chip-icono">🎓</div><h2>Cierre de la clase</h2></div><div class="subrayado"></div>
       <p><b>¡Terminaste "${esc(clase.titulo)}"!</b> ${esc(clase.tp_aporte || '')}</p>
-      ${(clase.vocabulario || []).length ? `<h3>Vocabulario para agregar en tu carpeta</h3><div class="tabla-wrap"><table class="tabla-comp"><tr><th>Palabra</th><th>Qué significa</th></tr>${clase.vocabulario.map(v => `<tr><td><b>${esc(v.palabra)}</b></td><td>${md(v.definicion)}</td></tr>`).join('')}</table></div>` : ''}
+      ${(clase.vocabulario || []).length ? `<h3>Vocabulario para agregar en tu carpeta</h3><div class="tabla-wrap"><table class="tabla-comp"><tr><th>Palabra</th><th>Qué significa</th></tr>${clase.vocabulario.map(v => `<tr><td><b>${md(v.palabra)}</b></td><td>${md(v.definicion)}</td></tr>`).join('')}</table></div>` : ''}
       ${(clase.errores_frecuentes || []).length ? `<h3 style="margin-top:20px">Errores frecuentes</h3>${clase.errores_frecuentes.map(x => `<div class="fb mal" style="margin-bottom:8px"><b>✗ ${md(x.error)}</b><br>✓ ${md(x.aclaracion)}</div>`).join('')}` : ''}
       ${clase.para_ir_mas_alla ? `<div class="destacado" style="margin-top:20px"><h4>Para ir más allá</h4><p>${md(clase.para_ir_mas_alla.pregunta)}</p>${clase.para_ir_mas_alla.conexion ? `<p class="ayuda">${md(clase.para_ir_mas_alla.conexion)}</p>` : ''}</div>` : ''}
     </div>
@@ -409,7 +409,7 @@ function bClasificar(w, b, resuelto, marcar) {
   const pintar = (marcas = {}) => {
     banco.innerHTML = ''; w.querySelectorAll('.zona .cont').forEach(z => z.innerHTML = '');
     fichas.forEach(f => {
-      const s = document.createElement('span'); s.className = 'ficha' + (marcas[f.i] ? ' ' + marcas[f.i] : ''); s.textContent = f.texto; s.tabIndex = 0;
+      const s = document.createElement('span'); s.className = 'ficha' + (marcas[f.i] ? ' ' + marcas[f.i] : ''); s.textContent = plano(f.texto); s.tabIndex = 0;
       if (!bloqueado) arrastrable(s, {
         alSoltar: z => {
           if (z === 'siguiente') { const a = asign[f.i]; asign[f.i] = a === undefined ? 0 : a + 1; if (asign[f.i] >= b.categorias.length) delete asign[f.i]; }
@@ -444,7 +444,7 @@ function bOrdenar(w, b, resuelto, marcar) {
   let fallos = 0;
   const pintar = () => {
     cont.innerHTML = lista.map((x, k) => `<div class="ordenar-item"><span>${md(x.t)}</span>${resuelto ? '' : `<button data-a="${k}" data-d="-1" aria-label="Subir">↑</button><button data-a="${k}" data-d="1" aria-label="Bajar">↓</button>`}</div>`).join('');
-    cont.querySelectorAll('button').forEach(bt => bt.onclick = () => {
+    cont.querySelectorAll('button[data-a]').forEach(bt => bt.onclick = () => {
       const k = +bt.dataset.a, d = +bt.dataset.d, j = k + d; if (j < 0 || j >= lista.length) return;
       [lista[k], lista[j]] = [lista[j], lista[k]]; pintar();
     });

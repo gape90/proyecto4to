@@ -99,7 +99,7 @@ export function montarTP({ root, tp, oral, contenidos, clases = {}, espacio }) {
       <p>Tu trabajo práctico es lo que vas a <b>presentar y defender</b> en febrero. Se arma por partes: en cada una escribís primero en esta pantalla (te ayudamos a mejorarlo y lo aprobamos) y después lo pasás a mano a tu carpeta.</p>
       <h3>Las partes de tu trabajo (y el orden en que lo vas a presentar)</h3>
       <ol>${partes.map(s => `<li><b>${esc(s.titulo)}</b></li>`).join('')}</ol>
-      ${esMate ? '<p>Además, vas a practicar <b>ejercicios</b> como los que te pueden pedir que resuelvas en el momento de presentar.</p>' : ''}
+      ${tp.practica ? '<p>Además, vas a practicar <b>ejercicios</b> como los que te pueden pedir que resuelvas en el momento de presentar.</p>' : ''}
       <h3>Para que quede bien</h3>
       <ul><li>Escribilo con <b>tus palabras</b>: copiar no demuestra que entendiste.</li><li>Usá lo que ya escribiste en tu carpeta en cada clase: es la base de tu trabajo.</li><li>Poné <b>ejemplos propios</b> y mostrá cómo pensás.</li><li>Carpeta prolija: título en cada parte, letra clara y todo en orden.</li><li>Si algo no te sale después de intentarlo, marcalo como <b>duda</b> y consultalo con tu docente antes de presentar el trabajo.</li></ul>
       <h3>Qué suelen observar los docentes</h3><p class="ayuda">Es orientativo: quien te evalúa es tu docente.</p>

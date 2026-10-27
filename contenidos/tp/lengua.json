@@ -1,0 +1,470 @@
+{
+  "espacio": "lengua",
+  "titulo": "Mi trabajo práctico de Lengua y Literatura",
+  "intro": "En un buen trabajo práctico de Lengua y Literatura no alcanza con definir conceptos: tenés que mostrar que sabés usarlos para leer y para escribir. Vas a explicar cada tema con tus palabras, con ejemplos propios y relacionándolo con textos y situaciones reales. Eso es lo que vas a presentar y defender.",
+  "claves_contenido": {
+    "l1": [
+      "tragedia",
+      "antigona",
+      "creonte",
+      "sofocles",
+      "coro",
+      "catarsis",
+      "hybris",
+      "anagnorisis",
+      "conflicto tragico",
+      "polinices"
+    ],
+    "l2": [
+      "argument",
+      "tesis",
+      "ensayo",
+      "debate",
+      "conector",
+      "refut",
+      "concesion",
+      "estrategia",
+      "moderador",
+      "opinion"
+    ],
+    "l3": [
+      "tiempo verbal",
+      "preterito",
+      "imperfecto",
+      "pluscuamperfecto",
+      "coma",
+      "puntuacion",
+      "tilde",
+      "aguda",
+      "grave",
+      "esdrujula",
+      "diacritica",
+      "hiato"
+    ]
+  },
+  "portada": {
+    "instruccion": "Escribí la introducción de tu trabajo: presentá los temas que incluye, en qué orden los vas a presentar y por qué te parece importante saberlos para leer y escribir mejor.",
+    "guia": [
+      "¿Qué temas incluye tu trabajo?",
+      "¿En qué orden los vas a presentar?",
+      "¿Para qué te sirven estos temas como lector o lectora y como escritor o escritora?"
+    ],
+    "claves": [
+      {
+        "k": [
+          "trabajo trata",
+          "este trabajo",
+          "trata sobre",
+          "presento",
+          "voy a"
+        ],
+        "p": "de qué trata el trabajo"
+      },
+      {
+        "k": [
+          "tragedia",
+          "antigona",
+          "argument",
+          "ensayo",
+          "debate",
+          "tiempos verbales",
+          "puntuacion",
+          "tilde"
+        ],
+        "p": "los temas que incluye"
+      },
+      {
+        "k": [
+          "porque",
+          "importante",
+          "sirve",
+          "permite",
+          "ayuda"
+        ],
+        "p": "por qué es importante"
+      }
+    ],
+    "referencia": "Temas incluidos en orden y para qué sirven al leer y escribir.",
+    "minPalabras": 25
+  },
+  "desarrollo": {
+    "l1": {
+      "instruccion": "Explicá qué es una tragedia griega y analizá Antígona: contá cómo era el teatro griego, el argumento de la obra con sus personajes, cuál es el conflicto trágico y qué posición tienen Antígona y Creonte. Usá palabras para analizar una tragedia y mencioná alguna relectura argentina.",
+      "guia": [
+        "¿Dónde y cómo se representaban las tragedias? ¿Qué hacía el coro?",
+        "¿Qué pasa en Antígona y quiénes son los personajes principales?",
+        "¿Qué leyes se enfrentan? ¿Por qué los dos tienen sus razones?",
+        "¿Dónde aparecen la hybris, la anagnórisis y la catarsis?",
+        "¿Qué autores argentinos reescribieron Antígona?"
+      ],
+      "claves": [
+        {
+          "k": [
+            "tragedia",
+            "teatro griego",
+            "atenas"
+          ],
+          "p": "la tragedia griega"
+        },
+        {
+          "k": [
+            "coro",
+            "mascara",
+            "dioniso"
+          ],
+          "p": "cómo se representaba"
+        },
+        {
+          "k": [
+            "polinices",
+            "creonte",
+            "entierr",
+            "sepultura"
+          ],
+          "p": "el argumento de Antígona"
+        },
+        {
+          "k": [
+            "ley",
+            "estado",
+            "dioses",
+            "conciencia"
+          ],
+          "p": "el conflicto entre las leyes"
+        },
+        {
+          "k": [
+            "hybris",
+            "anagnorisis",
+            "catarsis",
+            "heroe tragico"
+          ],
+          "p": "palabras para analizar la tragedia"
+        },
+        {
+          "k": [
+            "marechal",
+            "gambaro",
+            "velez",
+            "furiosa"
+          ],
+          "p": "una relectura argentina"
+        }
+      ],
+      "referencia": "Tragedia: Atenas, siglo V a. C., festivales a Dioniso, máscaras y coro; conflicto grave, héroe trágico, final desgraciado; catarsis (Aristóteles). Antígona (Sófocles): Creonte prohíbe enterrar a Polinices; Antígona lo entierra por las leyes de los dioses; condenada a una cueva; Hemón, Tiresias; Creonte cambia de idea tarde. Conflicto: ley del Estado contra ley divina y conciencia. Hybris de Creonte, anagnórisis final. Antígona Vélez (Marechal, 1951), Antígona furiosa (Gambaro, 1986).",
+      "minPalabras": 60
+    },
+    "l2": {
+      "instruccion": "Explicá qué es un texto argumentativo: sus partes, la diferencia entre hecho y opinión, las estrategias para convencer y los conectores. Contá también qué son el ensayo y el debate, con ejemplos.",
+      "guia": [
+        "¿Qué son la tesis, los argumentos y la conclusión?",
+        "¿En qué se diferencia un hecho de una opinión?",
+        "¿Qué estrategias argumentativas conocés? Dá un ejemplo de cada una.",
+        "¿Qué conectores sirven para agregar, oponer, dar causas y consecuencias?",
+        "¿Qué es un ensayo? ¿Cómo se organiza un debate?"
+      ],
+      "claves": [
+        {
+          "k": [
+            "tesis"
+          ],
+          "p": "la tesis"
+        },
+        {
+          "k": [
+            "argumento"
+          ],
+          "p": "los argumentos"
+        },
+        {
+          "k": [
+            "hecho",
+            "opinion"
+          ],
+          "p": "hecho y opinión"
+        },
+        {
+          "k": [
+            "estrategia",
+            "cita de autoridad",
+            "dato",
+            "retorica",
+            "concesion"
+          ],
+          "p": "las estrategias argumentativas"
+        },
+        {
+          "k": [
+            "conector",
+            "sin embargo",
+            "por lo tanto",
+            "ademas"
+          ],
+          "p": "los conectores"
+        },
+        {
+          "k": [
+            "ensayo",
+            "sarmiento",
+            "marti"
+          ],
+          "p": "el ensayo"
+        },
+        {
+          "k": [
+            "debate",
+            "moderador",
+            "replica"
+          ],
+          "p": "el debate"
+        }
+      ],
+      "referencia": "Tesis, argumentos, conclusión. Hecho comprobable / opinión. Estrategias: ejemplo, cita de autoridad, datos, comparación, pregunta retórica, concesión; refutación. Conectores: además, sin embargo, porque, por lo tanto, en conclusión. Ensayo: literatura de ideas, punto de vista personal (Facundo, Sarmiento, 1845; Nuestra América, Martí, 1891). Debate: oral, moderador, turnos, exposición, réplica y cierre.",
+      "minPalabras": 60
+    },
+    "l3": {
+      "instruccion": "Explicá las herramientas para escribir con corrección: el uso de los tiempos verbales del pasado al narrar, los signos de puntuación y cómo cambian el sentido, y las reglas de tildación. Dá ejemplos propios de cada caso.",
+      "guia": [
+        "¿Qué función cumplen el pretérito perfecto simple, el imperfecto y el pluscuamperfecto en un relato?",
+        "¿Cuáles son los usos de la coma? ¿Qué ejemplo muestra que la puntuación cambia el sentido?",
+        "¿Para qué sirven el punto, el punto y coma y los dos puntos?",
+        "¿Cuándo llevan tilde las agudas, las graves y las esdrújulas?",
+        "¿Qué son la tilde diacrítica y el hiato?"
+      ],
+      "claves": [
+        {
+          "k": [
+            "perfecto simple",
+            "imperfecto"
+          ],
+          "p": "los pretéritos perfecto simple e imperfecto"
+        },
+        {
+          "k": [
+            "pluscuamperfecto",
+            "habia"
+          ],
+          "p": "el pluscuamperfecto"
+        },
+        {
+          "k": [
+            "coma",
+            "vocativo",
+            "enumeracion",
+            "aclaracion"
+          ],
+          "p": "los usos de la coma"
+        },
+        {
+          "k": [
+            "sentido",
+            "significado"
+          ],
+          "p": "cómo la puntuación cambia el sentido"
+        },
+        {
+          "k": [
+            "aguda",
+            "grave",
+            "esdrujula"
+          ],
+          "p": "las reglas generales de tildación"
+        },
+        {
+          "k": [
+            "diacritica",
+            "hiato"
+          ],
+          "p": "la tilde diacrítica o el hiato"
+        }
+      ],
+      "referencia": "Perfecto simple: acciones que avanzan; imperfecto: fondo; pluscuamperfecto (había + participio): acción anterior; presente histórico. Coma: enumeración, vocativo, aclaración, antes de conectores; la puntuación cambia el sentido. Punto, punto y coma, dos puntos. Agudas (n, s, vocal), graves (no n, s, vocal), esdrújulas siempre; diacrítica (tú/tu, sí/si); hiato (día, país).",
+      "minPalabras": 60
+    }
+  },
+  "integracion": {
+    "intro": "Integrar es mostrar que los temas se conectan: la literatura, la argumentación y la gramática se usan juntas cuando leemos y escribimos. Las preguntas de abajo relacionan **solo los contenidos que elegiste**.",
+    "intro_uno": "Elegiste un solo contenido. Integrar, en este caso, es mostrar cómo se conectan sus partes y para qué te sirven al leer y escribir.",
+    "pares": {
+      "l1|l2": "Imaginá un debate entre Antígona y Creonte. ¿Cuál sería la tesis de cada uno y qué argumentos usaría? ¿Qué estrategias (por ejemplo, la concesión o la refutación) podrían usar? ¿Quién te convence más y por qué?",
+      "l1|l3": "Contá en pocas oraciones lo que pasa en Antígona usando bien los tiempos del pasado: el perfecto simple para las acciones, el imperfecto para describir y el pluscuamperfecto para lo que había pasado antes. Explicá qué función cumple cada tiempo en tu relato y revisá la puntuación y las tildes.",
+      "l2|l3": "¿Por qué la puntuación y los conectores son importantes en un texto argumentativo? Escribí un párrafo breve que defienda una opinión y señalá dónde usaste conectores, comas y tildes para que se entienda."
+    },
+    "individual": {
+      "l1": [
+        "¿Por qué decimos que en Antígona los dos personajes tienen razones?",
+        "¿Cómo se relaciona la hybris de Creonte con el final de la obra?",
+        "¿Por qué Antígona se sigue reescribiendo hoy?"
+      ],
+      "l2": [
+        "¿Qué diferencia hay entre dar una opinión y argumentar?",
+        "¿Qué estrategias te parecen más convincentes y por qué?",
+        "¿En qué se parecen y en qué se diferencian el ensayo y el debate?"
+      ],
+      "l3": [
+        "¿Cómo cambia un relato si usás bien o mal los tiempos del pasado?",
+        "¿Qué ejemplos muestran que una coma cambia el sentido?",
+        "¿Cómo te ayudan las reglas de tildación a escribir palabras nuevas?"
+      ]
+    },
+    "generales": [
+      "¿Qué tienen en común los temas que estudiaste?",
+      "¿Qué aprendiste en un tema que te sirvió para otro?",
+      "¿Cómo usarías lo que aprendiste para escribir un texto propio?"
+    ],
+    "referencia": "Texto que relaciona los contenidos elegidos con ejemplos.",
+    "minPalabras": 60
+  },
+  "realidad": {
+    "intro": "Relacionar con la realidad es mostrar dónde aparecen estos temas en tu vida. Para cada contenido que elegiste tenés una pregunta y algunas ideas: elegí un ejemplo concreto.",
+    "por_contenido": {
+      "l1": {
+        "pregunta": "¿Qué situación de hoy plantea un conflicto parecido al de Antígona, entre lo que dice una norma y lo que alguien siente que es justo?",
+        "ideas": [
+          "Familias que reclaman justicia o saber dónde están sus seres queridos.",
+          "Una regla de la escuela o del trabajo que te parece injusta.",
+          "Series o películas con un dilema entre la ley y la conciencia."
+        ]
+      },
+      "l2": {
+        "pregunta": "¿Dónde ves argumentación en tu vida cotidiana y cómo reconocés si un argumento es bueno?",
+        "ideas": [
+          "Publicidades y mensajes en redes sociales.",
+          "Debates de candidatos o discusiones en programas de televisión.",
+          "Cuando le pedís algo a tu familia y das razones."
+        ]
+      },
+      "l3": {
+        "pregunta": "¿Dónde notás que escribir con buena puntuación, tildes y tiempos verbales cambia cómo te entienden?",
+        "ideas": [
+          "Un mensaje de WhatsApp que se entendió mal.",
+          "Un currículum o una carta para pedir trabajo.",
+          "Un reclamo escrito a una empresa o institución."
+        ]
+      }
+    },
+    "referencia": "Un ejemplo actual por cada contenido y su relación con el tema.",
+    "minPalabras_por_contenido": 20
+  },
+  "conclusion": {
+    "instruccion": "Escribí la conclusión de tu trabajo: contá qué aprendiste, qué une a los temas que estudiaste y para qué te sirven hoy como lector o lectora y como escritor o escritora.",
+    "guia": [
+      "¿Qué es lo más importante que aprendiste?",
+      "¿Qué une a tus temas (leer, pensar, argumentar, escribir con claridad)?",
+      "¿Para qué te van a servir fuera de la escuela?",
+      "¿Qué te gustaría que recuerde quien escucha tu trabajo?"
+    ],
+    "claves": [
+      {
+        "k": [
+          "aprendi",
+          "entendi",
+          "descubri",
+          "conoci"
+        ],
+        "p": "qué aprendiste"
+      },
+      {
+        "k": [
+          "une",
+          "relacion",
+          "conecta",
+          "en comun",
+          "todos"
+        ],
+        "p": "qué une a tus temas"
+      },
+      {
+        "k": [
+          "hoy",
+          "sirve",
+          "importante",
+          "permite",
+          "vida"
+        ],
+        "p": "para qué te sirven hoy"
+      }
+    ],
+    "referencia": "Aprendizajes, idea que une los temas e importancia para el presente.",
+    "minPalabras": 35
+  },
+  "preguntas": [
+    {
+      "id": "q-l1-1",
+      "contenido": "l1",
+      "nivel": "Básica",
+      "pregunta": "¿Qué es una tragedia griega y cómo se representaba?",
+      "orientacion": "Una obra de teatro con un conflicto grave, un héroe trágico y un final desgraciado. Se representaba en Atenas, en festivales a Dioniso, con actores varones con máscaras y un coro que comentaba la acción. Buscaba la catarsis del público."
+    },
+    {
+      "id": "q-l1-2",
+      "contenido": "l1",
+      "nivel": "Media",
+      "pregunta": "Contá el argumento de Antígona.",
+      "orientacion": "Creonte prohíbe enterrar a Polinices, considerado traidor. Antígona lo entierra porque las leyes de los dioses lo mandan, y es condenada a una cueva. Hemón y Tiresias intentan convencer a Creonte, que cambia de idea tarde: mueren Antígona, Hemón y Eurídice."
+    },
+    {
+      "id": "q-l1-3",
+      "contenido": "l1",
+      "nivel": "Integradora",
+      "pregunta": "¿Cuál es el conflicto trágico de Antígona y quién te parece que tenía razón?",
+      "orientacion": "Se enfrentan la ley del Estado (Creonte: el orden de la ciudad) y la ley de los dioses y la conciencia (Antígona: el deber con su hermano). Los dos tienen razones y ninguno cede. Tu opinión tiene que estar justificada con argumentos."
+    },
+    {
+      "id": "q-l2-1",
+      "contenido": "l2",
+      "nivel": "Básica",
+      "pregunta": "¿Cuáles son las partes de un texto argumentativo?",
+      "orientacion": "La tesis (la idea que se defiende), los argumentos (las razones que la sostienen) y la conclusión (que retoma la tesis)."
+    },
+    {
+      "id": "q-l2-2",
+      "contenido": "l2",
+      "nivel": "Media",
+      "pregunta": "Nombrá tres estrategias argumentativas y dá un ejemplo de cada una.",
+      "orientacion": "Por ejemplo: dato («7 de cada 10 alumnos…»), cita de autoridad («según la UNESCO…»), pregunta retórica («¿quién puede estudiar con hambre?») o concesión («es cierto que…; sin embargo…»)."
+    },
+    {
+      "id": "q-l2-3",
+      "contenido": "l2",
+      "nivel": "Media",
+      "pregunta": "¿En qué se diferencian el ensayo y el debate?",
+      "orientacion": "Los dos argumentan. El ensayo es escrito y personal, de un autor que reflexiona (como Sarmiento en Facundo); el debate es oral, con varias posturas, un moderador, turnos y réplica."
+    },
+    {
+      "id": "q-l3-1",
+      "contenido": "l3",
+      "nivel": "Básica",
+      "pregunta": "¿Cuándo llevan tilde las palabras agudas, graves y esdrújulas?",
+      "orientacion": "Agudas: si terminan en n, s o vocal (camión). Graves: si no terminan en n, s o vocal (árbol). Esdrújulas: siempre (música)."
+    },
+    {
+      "id": "q-l3-2",
+      "contenido": "l3",
+      "nivel": "Media",
+      "pregunta": "¿Qué función cumplen el imperfecto y el pluscuamperfecto en un relato?",
+      "orientacion": "El imperfecto describe el fondo o lo habitual (llovía, era). El pluscuamperfecto cuenta una acción anterior a otra pasada (cuando llegué, ya se había ido)."
+    },
+    {
+      "id": "q-l3-3",
+      "contenido": "l3",
+      "nivel": "Media",
+      "pregunta": "Dá un ejemplo de cómo la puntuación cambia el sentido de una oración.",
+      "orientacion": "«Vamos a comer, chicos» invita a los chicos; «Vamos a comer chicos» dice otra cosa. La coma marca el vocativo."
+    },
+    {
+      "id": "q-g-1",
+      "contenido": "general",
+      "nivel": "Integradora",
+      "pregunta": "Elegí dos temas de tu trabajo y explicá cómo se relacionan.",
+      "orientacion": "Por ejemplo: el conflicto de Antígona se puede pensar como un debate con tesis y argumentos; o la puntuación y los conectores hacen que un texto argumentativo se entienda."
+    },
+    {
+      "id": "q-g-2",
+      "contenido": "general",
+      "nivel": "Integradora",
+      "pregunta": "¿Para qué te sirve lo que aprendiste fuera de la escuela?",
+      "orientacion": "Un ejemplo concreto: escribir un mensaje o un reclamo claro, reconocer argumentos en una publicidad, o pensar dilemas de hoy como los de Antígona."
+    }
+  ]
+}

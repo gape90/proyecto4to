@@ -2,52 +2,429 @@
   "version": "piloto-1",
   "fuente": "Diseño Curricular de Educación Secundaria Orientada, Santa Fe (Res. 2630/14, Anexo III), Ciclo Orientado, 4.º año.",
   "espacios": [
-    { "id": "lengua", "nombre": "Lengua y Literatura", "habilitado": false, "modalidades": ["orientada", "tecnica"] },
-    { "id": "matematica", "nombre": "Matemática", "habilitado": true, "modalidades": ["orientada", "tecnica"] },
-    { "id": "lengua-extranjera", "nombre": "Lengua Extranjera", "habilitado": false, "modalidades": ["orientada", "tecnica"] },
-    { "id": "educacion-fisica", "nombre": "Educación Física", "habilitado": false, "modalidades": ["orientada", "tecnica"] },
-    { "id": "ciudadania", "nombre": "Construcción de Ciudadanía y Participación", "habilitado": false, "modalidades": ["orientada", "tecnica"] },
-    { "id": "historia", "nombre": "Historia", "habilitado": true, "modalidades": ["orientada", "tecnica"] },
-    { "id": "geografia", "nombre": "Geografía", "habilitado": false, "modalidades": ["orientada", "tecnica"] },
-    { "id": "quimica", "nombre": "Química", "habilitado": false, "modalidades": ["orientada", "tecnica"] },
-    { "id": "ingles-tecnico", "nombre": "Inglés Técnico", "habilitado": false, "modalidades": ["tecnica"] }
+    {
+      "id": "lengua",
+      "nombre": "Lengua y Literatura",
+      "habilitado": true,
+      "modalidades": [
+        "orientada",
+        "tecnica"
+      ]
+    },
+    {
+      "id": "matematica",
+      "nombre": "Matemática",
+      "habilitado": true,
+      "modalidades": [
+        "orientada",
+        "tecnica"
+      ]
+    },
+    {
+      "id": "lengua-extranjera",
+      "nombre": "Lengua Extranjera (Inglés)",
+      "habilitado": true,
+      "modalidades": [
+        "orientada",
+        "tecnica"
+      ]
+    },
+    {
+      "id": "educacion-fisica",
+      "nombre": "Educación Física",
+      "habilitado": false,
+      "modalidades": [
+        "orientada",
+        "tecnica"
+      ]
+    },
+    {
+      "id": "ciudadania",
+      "nombre": "Construcción de Ciudadanía y Participación",
+      "habilitado": false,
+      "modalidades": [
+        "orientada",
+        "tecnica"
+      ]
+    },
+    {
+      "id": "historia",
+      "nombre": "Historia",
+      "habilitado": true,
+      "modalidades": [
+        "orientada",
+        "tecnica"
+      ]
+    },
+    {
+      "id": "geografia",
+      "nombre": "Geografía",
+      "habilitado": false,
+      "modalidades": [
+        "orientada",
+        "tecnica"
+      ]
+    },
+    {
+      "id": "quimica",
+      "nombre": "Química",
+      "habilitado": false,
+      "modalidades": [
+        "orientada",
+        "tecnica"
+      ]
+    },
+    {
+      "id": "ingles-tecnico",
+      "nombre": "Inglés Técnico",
+      "habilitado": false,
+      "modalidades": [
+        "tecnica"
+      ]
+    }
   ],
   "contenidos": {
     "matematica": [
-      { "id": "m1", "eje": "Números y operaciones", "titulo": "Números irracionales y aproximaciones", "activo": true, "clase": "mat-4-01",
-        "desglose": ["Números irracionales: expresión como raíces enésimas", "Aproximación por redondeo y por truncamiento", "Acotamiento del error según la situación", "Uso de la calculadora y de software"] },
-      { "id": "m2", "eje": "Números y operaciones", "titulo": "Números reales y número áureo", "activo": true, "clase": "mat-4-02",
-        "desglose": ["Números reales: racionales e irracionales juntos", "El número áureo", "Inconmensurabilidad de segmentos", "Medida como acto empírico y como noción matemática"] },
-      { "id": "m3", "eje": "Números y operaciones", "titulo": "Radicales aritméticos", "activo": true, "clase": "mat-4-03",
-        "desglose": ["Propiedades de las operaciones con radicales", "Transformar escrituras de un radical", "Argumentar sobre equivalencias"] },
-      { "id": "m4", "eje": "Álgebra y funciones", "titulo": "Sucesiones aritméticas y geométricas", "activo": true, "clase": "mat-4-04",
-        "desglose": ["Exploración de regularidades", "Sucesión aritmética: fórmula del término general", "Sucesión geométrica: fórmula del término general", "Producción de fórmulas"] },
-      { "id": "m5", "eje": "Álgebra y funciones", "titulo": "Ecuación completa de segundo grado", "activo": false, "clase": null,
-        "desglose": ["Completamiento de cuadrados", "Fórmula resolvente", "Discriminante y naturaleza de las soluciones"] },
-      { "id": "m6", "eje": "Álgebra y funciones", "titulo": "Funciones polinómicas, racionales, exponenciales y logarítmicas", "activo": false, "clase": null,
-        "desglose": ["Polinómicas incompletas de grado hasta 4", "Racionales f(x)=k/g(x)", "Exponenciales y logarítmicas", "Modelización"] },
-      { "id": "m7", "eje": "Geometría y medida", "titulo": "Razones trigonométricas y circunferencia trigonométrica", "activo": false, "clase": null,
-        "desglose": ["Seno y coseno de ángulos hasta un giro", "Ángulos de 30°, 45°, 60° y 90°"] },
-      { "id": "m8", "eje": "Geometría y medida", "titulo": "Mediciones indirectas: teorema del seno y del coseno", "activo": false, "clase": null,
-        "desglose": ["Triángulos diversos", "Teorema del seno", "Teorema del coseno"] },
-      { "id": "m9", "eje": "Estadística y probabilidad", "titulo": "Medidas de dispersión", "activo": false, "clase": null,
-        "desglose": ["Varianza", "Desviación estándar"] },
-      { "id": "m10", "eje": "Estadística y probabilidad", "titulo": "Probabilidades", "activo": false, "clase": null,
-        "desglose": ["Sucesos excluyentes y no excluyentes", "Sucesos independientes y dependientes", "Probabilidad condicionada y total"] }
+      {
+        "id": "m1",
+        "eje": "Números y operaciones",
+        "titulo": "Números irracionales y aproximaciones",
+        "activo": true,
+        "clase": "mat-4-01",
+        "desglose": [
+          "Números irracionales: expresión como raíces enésimas",
+          "Aproximación por redondeo y por truncamiento",
+          "Acotamiento del error según la situación",
+          "Uso de la calculadora y de software"
+        ]
+      },
+      {
+        "id": "m2",
+        "eje": "Números y operaciones",
+        "titulo": "Números reales y número áureo",
+        "activo": true,
+        "clase": "mat-4-02",
+        "desglose": [
+          "Números reales: racionales e irracionales juntos",
+          "El número áureo",
+          "Inconmensurabilidad de segmentos",
+          "Medida como acto empírico y como noción matemática"
+        ]
+      },
+      {
+        "id": "m3",
+        "eje": "Números y operaciones",
+        "titulo": "Radicales aritméticos",
+        "activo": true,
+        "clase": "mat-4-03",
+        "desglose": [
+          "Propiedades de las operaciones con radicales",
+          "Transformar escrituras de un radical",
+          "Argumentar sobre equivalencias"
+        ]
+      },
+      {
+        "id": "m4",
+        "eje": "Álgebra y funciones",
+        "titulo": "Sucesiones aritméticas y geométricas",
+        "activo": true,
+        "clase": "mat-4-04",
+        "desglose": [
+          "Exploración de regularidades",
+          "Sucesión aritmética: fórmula del término general",
+          "Sucesión geométrica: fórmula del término general",
+          "Producción de fórmulas"
+        ]
+      },
+      {
+        "id": "m5",
+        "eje": "Álgebra y funciones",
+        "titulo": "Ecuación completa de segundo grado",
+        "activo": false,
+        "clase": null,
+        "desglose": [
+          "Completamiento de cuadrados",
+          "Fórmula resolvente",
+          "Discriminante y naturaleza de las soluciones"
+        ]
+      },
+      {
+        "id": "m6",
+        "eje": "Álgebra y funciones",
+        "titulo": "Funciones polinómicas, racionales, exponenciales y logarítmicas",
+        "activo": false,
+        "clase": null,
+        "desglose": [
+          "Polinómicas incompletas de grado hasta 4",
+          "Racionales f(x)=k/g(x)",
+          "Exponenciales y logarítmicas",
+          "Modelización"
+        ]
+      },
+      {
+        "id": "m7",
+        "eje": "Geometría y medida",
+        "titulo": "Razones trigonométricas y circunferencia trigonométrica",
+        "activo": false,
+        "clase": null,
+        "desglose": [
+          "Seno y coseno de ángulos hasta un giro",
+          "Ángulos de 30°, 45°, 60° y 90°"
+        ]
+      },
+      {
+        "id": "m8",
+        "eje": "Geometría y medida",
+        "titulo": "Mediciones indirectas: teorema del seno y del coseno",
+        "activo": false,
+        "clase": null,
+        "desglose": [
+          "Triángulos diversos",
+          "Teorema del seno",
+          "Teorema del coseno"
+        ]
+      },
+      {
+        "id": "m9",
+        "eje": "Estadística y probabilidad",
+        "titulo": "Medidas de dispersión",
+        "activo": false,
+        "clase": null,
+        "desglose": [
+          "Varianza",
+          "Desviación estándar"
+        ]
+      },
+      {
+        "id": "m10",
+        "eje": "Estadística y probabilidad",
+        "titulo": "Probabilidades",
+        "activo": false,
+        "clase": null,
+        "desglose": [
+          "Sucesos excluyentes y no excluyentes",
+          "Sucesos independientes y dependientes",
+          "Probabilidad condicionada y total"
+        ]
+      }
     ],
     "historia": [
-      { "id": "h1", "eje": "Democracia ampliada y primera posguerra", "titulo": "Los gobiernos radicales (1916-1930)", "activo": true, "clase": "his-4-01",
-        "desglose": ["Ley Sáenz Peña y ampliación de la participación política", "Los sectores medios y la UCR", "Yrigoyen y Alvear", "El contexto de la Primera Guerra Mundial"] },
-      { "id": "h2", "eje": "Democracia ampliada y primera posguerra", "titulo": "Los nacionalismos del período de entreguerras", "activo": true, "clase": "his-4-02",
-        "desglose": ["Nacionalismos europeos del período", "Su proyección en América Latina", "El nacionalismo en la Argentina"] },
-      { "id": "h3", "eje": "Crisis, Estado e industrialización", "titulo": "La crisis de 1929, la Segunda Guerra y la Argentina", "activo": true, "clase": "his-4-03",
-        "desglose": ["Impacto de la crisis de 1929", "Ruptura de la institucionalidad democrática (1930)", "Cambios en el rol del Estado", "Industrialización sustitutiva de importaciones", "Cambios en el mundo social urbano"] },
-      { "id": "h4", "eje": "Crisis, Estado e industrialización", "titulo": "El peronismo y los gobiernos populares latinoamericanos", "activo": true, "clase": "his-4-04",
-        "desglose": ["Movilización de los sectores subalternos", "El empresariado industrial y el rol del Estado", "Planificación de la economía", "Democracia de masas"] },
-      { "id": "h5", "eje": "Crisis, Estado e industrialización", "titulo": "Disputas por la distribución de la riqueza (1930-1955)", "activo": false, "clase": null,
-        "desglose": ["Sectores empresariales y movimiento obrero", "Mecanismos de intervención estatal"] },
-      { "id": "h6", "eje": "El mundo de la posguerra", "titulo": "Tercer Mundo, No Alineados y Revolución Cubana", "activo": false, "clase": null,
-        "desglose": ["El Tercer Mundo y el Movimiento de los No Alineados", "Norte desarrollado y sur subdesarrollado", "Impacto de la Revolución Cubana en América Latina"] }
+      {
+        "id": "h1",
+        "eje": "Democracia ampliada y primera posguerra",
+        "titulo": "Los gobiernos radicales (1916-1930)",
+        "activo": true,
+        "clase": "his-4-01",
+        "desglose": [
+          "Ley Sáenz Peña y ampliación de la participación política",
+          "Los sectores medios y la UCR",
+          "Yrigoyen y Alvear",
+          "El contexto de la Primera Guerra Mundial"
+        ]
+      },
+      {
+        "id": "h2",
+        "eje": "Democracia ampliada y primera posguerra",
+        "titulo": "Los nacionalismos del período de entreguerras",
+        "activo": true,
+        "clase": "his-4-02",
+        "desglose": [
+          "Nacionalismos europeos del período",
+          "Su proyección en América Latina",
+          "El nacionalismo en la Argentina"
+        ]
+      },
+      {
+        "id": "h3",
+        "eje": "Crisis, Estado e industrialización",
+        "titulo": "La crisis de 1929, la Segunda Guerra y la Argentina",
+        "activo": true,
+        "clase": "his-4-03",
+        "desglose": [
+          "Impacto de la crisis de 1929",
+          "Ruptura de la institucionalidad democrática (1930)",
+          "Cambios en el rol del Estado",
+          "Industrialización sustitutiva de importaciones",
+          "Cambios en el mundo social urbano"
+        ]
+      },
+      {
+        "id": "h4",
+        "eje": "Crisis, Estado e industrialización",
+        "titulo": "El peronismo y los gobiernos populares latinoamericanos",
+        "activo": true,
+        "clase": "his-4-04",
+        "desglose": [
+          "Movilización de los sectores subalternos",
+          "El empresariado industrial y el rol del Estado",
+          "Planificación de la economía",
+          "Democracia de masas"
+        ]
+      },
+      {
+        "id": "h5",
+        "eje": "Crisis, Estado e industrialización",
+        "titulo": "Disputas por la distribución de la riqueza (1930-1955)",
+        "activo": false,
+        "clase": null,
+        "desglose": [
+          "Sectores empresariales y movimiento obrero",
+          "Mecanismos de intervención estatal"
+        ]
+      },
+      {
+        "id": "h6",
+        "eje": "El mundo de la posguerra",
+        "titulo": "Tercer Mundo, No Alineados y Revolución Cubana",
+        "activo": false,
+        "clase": null,
+        "desglose": [
+          "El Tercer Mundo y el Movimiento de los No Alineados",
+          "Norte desarrollado y sur subdesarrollado",
+          "Impacto de la Revolución Cubana en América Latina"
+        ]
+      }
+    ],
+    "lengua": [
+      {
+        "id": "l1",
+        "eje": "Lectura y escritura de textos literarios",
+        "titulo": "La tragedia griega: Antígona",
+        "activo": true,
+        "clase": "len-4-01",
+        "desglose": [
+          "El teatro griego y el género trágico",
+          "Antígona, de Sófocles: argumento y personajes",
+          "El conflicto trágico: la ley del Estado y la conciencia",
+          "Relecturas de Antígona en la literatura argentina"
+        ]
+      },
+      {
+        "id": "l4",
+        "eje": "Lectura y escritura de textos literarios",
+        "titulo": "Mitos y leyendas: la mitología griega y latinoamericana",
+        "activo": false,
+        "clase": null,
+        "desglose": [
+          "Cosmogonías griegas y precolombinas",
+          "Leyendas latinoamericanas: la resignificación del mito",
+          "La transculturación como operación cultural"
+        ]
+      },
+      {
+        "id": "l5",
+        "eje": "Lectura y escritura de textos literarios",
+        "titulo": "Literatura latinoamericana y argentina: identidad y realidad",
+        "activo": false,
+        "clase": null,
+        "desglose": [
+          "La construcción de verdad en el relato latinoamericano",
+          "Literatura de las regiones argentinas",
+          "Relato testimonial y crónica: literatura y periodismo"
+        ]
+      },
+      {
+        "id": "l2",
+        "eje": "Comprensión y producción oral y escrita",
+        "titulo": "El texto argumentativo: el ensayo y el debate",
+        "activo": true,
+        "clase": "len-4-02",
+        "desglose": [
+          "Tesis, argumentos y conclusión",
+          "Estrategias argumentativas y conectores",
+          "El ensayo como literatura de ideas",
+          "El debate: roles, turnos y refutación"
+        ]
+      },
+      {
+        "id": "l6",
+        "eje": "Comprensión y producción oral y escrita",
+        "titulo": "Textos para estudiar: resumen, toma de notas e informe de lectura",
+        "activo": false,
+        "clase": null,
+        "desglose": [
+          "Resumen y toma de notas",
+          "Diario de lector e informe de lectura",
+          "Exposición oral de un tema"
+        ]
+      },
+      {
+        "id": "l3",
+        "eje": "Reflexión sobre el lenguaje",
+        "titulo": "Tiempos verbales, puntuación y tildes",
+        "activo": true,
+        "clase": "len-4-03",
+        "desglose": [
+          "Los tiempos verbales en la narración",
+          "Los signos de puntuación y la construcción de sentido",
+          "Reglas de acentuación y tilde diacrítica",
+          "Parentescos léxicos para resolver dudas ortográficas"
+        ]
+      },
+      {
+        "id": "l7",
+        "eje": "Reflexión sobre el lenguaje",
+        "titulo": "Registros y variedades del lenguaje",
+        "activo": false,
+        "clase": null,
+        "desglose": [
+          "Adecuación del registro a la situación comunicativa",
+          "Particularidades del lenguaje de la región",
+          "Discursos en la web"
+        ]
+      }
+    ],
+    "lengua-extranjera": [
+      {
+        "id": "e1",
+        "eje": "¿Qué hicieron? ¿Qué inventaron? Personajes de la historia e hitos",
+        "titulo": "Biografías e inventos: el pasado simple (Past simple)",
+        "activo": true,
+        "clase": "ing-4-01",
+        "desglose": [
+          "Verbos regulares en pasado: escritura y pronunciación de -ed",
+          "Verbos irregulares, negaciones y preguntas",
+          "Lectura de biografías de inventores",
+          "Expresiones de tiempo: in 1876, ago, when"
+        ]
+      },
+      {
+        "id": "e2",
+        "eje": "¿Cómo cambió el mundo? Presente y pasado de distintas sociedades",
+        "titulo": "Antes y ahora: hábitos del pasado (used to)",
+        "activo": true,
+        "clase": "ing-4-02",
+        "desglose": [
+          "Used to: hábitos y situaciones del pasado",
+          "Comparar el pasado y el presente",
+          "La comunicación antes y ahora",
+          "Escribir sobre los cambios en la vida cotidiana"
+        ]
+      },
+      {
+        "id": "e3",
+        "eje": "¿Cómo organizamos nuestro tiempo? Entretenimiento y estudio de los adolescentes",
+        "titulo": "Rutinas, estudio y tiempo libre",
+        "activo": false,
+        "clase": null,
+        "desglose": [
+          "Presente simple y adverbios de frecuencia",
+          "Gustos y preferencias",
+          "Adolescentes de distintas culturas"
+        ]
+      },
+      {
+        "id": "e4",
+        "eje": "¿Cómo nos comunicamos? TIC y hábitos de comunicación",
+        "titulo": "La comunicación digital",
+        "activo": false,
+        "clase": null,
+        "desglose": [
+          "Mensajes, correos y publicaciones",
+          "Netiqueta y uso responsable",
+          "Vocabulario de la tecnología"
+        ]
+      }
     ]
   }
 }

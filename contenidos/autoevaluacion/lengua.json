@@ -1,0 +1,155 @@
+{
+  "espacio": "lengua",
+  "pares": {
+    "l1|l2": [
+      {
+        "tipo": "mc",
+        "pregunta": "Si Antígona y Creonte debatieran, ¿cuál sería la tesis de Antígona?",
+        "opciones": [
+          "Los muertos merecen sepultura: las leyes de los dioses están por encima de las del rey",
+          "El traidor no merece honores",
+          "Hay que obedecer siempre al rey",
+          "Polinices defendió la ciudad"
+        ],
+        "correcta": 0,
+        "explicacion": "Esa es la idea que Antígona defiende con sus actos."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "Creonte dice: «Si no castigo al traidor, nadie respetará la ley». ¿Qué es esa frase dentro de su postura?",
+        "opciones": [
+          "Un argumento: la razón que sostiene su tesis",
+          "Una pregunta retórica",
+          "Una cita de autoridad",
+          "Una conclusión sin tesis"
+        ],
+        "correcta": 0,
+        "explicacion": "Responde al «¿por qué?» de su decisión."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "Tiresias le advierte a Creonte que ofende a los dioses. En un debate, ¿qué estrategia sería?",
+        "opciones": [
+          "Cita de autoridad: un adivino respetado en Tebas",
+          "Dato estadístico",
+          "Concesión",
+          "Pregunta retórica"
+        ],
+        "correcta": 0,
+        "explicacion": "Se apoya en la palabra de alguien reconocido."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Antígona Vélez y Antígona furiosa muestran que un mismo conflicto puede pensarse de nuevo, como hace un ensayo con un tema.",
+        "respuesta": true,
+        "explicacion": "Cada relectura propone una mirada sobre el tema."
+      },
+      {
+        "tipo": "vf",
+        "texto": "En el conflicto de Antígona hay dos tesis enfrentadas y cada personaje tiene argumentos.",
+        "respuesta": true,
+        "explicacion": "Por eso puede pensarse como un debate."
+      }
+    ],
+    "l1|l3": [
+      {
+        "tipo": "mc",
+        "pregunta": "«Cuando Creonte cambió de idea, Antígona ya había muerto». ¿Qué indica «había muerto»?",
+        "opciones": [
+          "Una acción anterior a otra acción pasada",
+          "Una acción del futuro",
+          "Una descripción del fondo",
+          "Una acción habitual"
+        ],
+        "correcta": 0,
+        "explicacion": "Es pluscuamperfecto: ocurrió antes de que Creonte cambiara de idea."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "En «Antígona, hija de Edipo, desobedeció al rey», ¿por qué van las comas?",
+        "opciones": [
+          "Encierran una aclaración",
+          "Separan una enumeración",
+          "Marcan un vocativo",
+          "Están mal puestas"
+        ],
+        "correcta": 0,
+        "explicacion": "«Hija de Edipo» agrega información sobre Antígona."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Por qué «tragedia» no lleva tilde?",
+        "opciones": [
+          "Es grave y termina en vocal",
+          "Es aguda",
+          "Es esdrújula",
+          "Es un monosílabo"
+        ],
+        "correcta": 0,
+        "explicacion": "Tra-ge-dia: grave terminada en vocal."
+      },
+      {
+        "tipo": "vf",
+        "texto": "«Creonte era el rey de Tebas» usa el imperfecto para describir una situación.",
+        "respuesta": true,
+        "explicacion": "Describe, no narra una acción puntual."
+      },
+      {
+        "tipo": "vf",
+        "texto": "«Anagnórisis», «catarsis» y «Sófocles» son todas palabras esdrújulas.",
+        "respuesta": false,
+        "explicacion": "Catarsis es grave (ca-tar-sis) terminada en s: no lleva tilde. Anagnórisis y Sófocles sí son esdrújulas."
+      }
+    ],
+    "l2|l3": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué signo va antes de «sin embargo» en un argumento como «Es caro ___ sin embargo, vale la pena»?",
+        "opciones": [
+          "Punto y coma",
+          "Dos puntos",
+          "Nada",
+          "Signo de pregunta"
+        ],
+        "correcta": 0,
+        "explicacion": "Antes de conectores largos se usa punto y coma (y coma después)."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Por qué la puntuación es importante en un texto argumentativo?",
+        "opciones": [
+          "Porque si el lector no entiende las ideas, el argumento no convence",
+          "Porque reemplaza a la tesis",
+          "Porque es lo único que se evalúa",
+          "No es importante"
+        ],
+        "correcta": 0,
+        "explicacion": "La claridad es parte de la argumentación."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "En «¿Quién puede estudiar con hambre?», ¿qué palabra lleva tilde diacrítica?",
+        "opciones": [
+          "Quién",
+          "Puede",
+          "Estudiar",
+          "Hambre"
+        ],
+        "correcta": 0,
+        "explicacion": "«Quién» lleva tilde porque pregunta."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Los conectores «además» y «por lo tanto» llevan tilde porque son palabras agudas o esdrújulas según la regla.",
+        "respuesta": false,
+        "explicacion": "«Además» lleva tilde (aguda en s), pero «por lo tanto» no lleva ninguna."
+      },
+      {
+        "tipo": "vf",
+        "texto": "En una enumeración de argumentos, no se pone coma antes de la «y» final.",
+        "respuesta": true,
+        "explicacion": "«…porque es útil, barato y rápido»."
+      }
+    ]
+  }
+}

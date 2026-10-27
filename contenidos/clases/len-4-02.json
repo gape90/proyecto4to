@@ -1,0 +1,1134 @@
+{
+  "id": "len-4-02",
+  "espacio": "lengua",
+  "eje": "Lectura y escritura de textos no literarios",
+  "titulo": "El texto argumentativo: el ensayo y el debate",
+  "intro": "Argumentar es algo que hacemos todos los días. En esta clase vas a aprender cómo se arma un texto que convence, qué estrategias y conectores se usan y cómo funcionan el ensayo y el debate.",
+  "objetivos": [
+    "Reconocer la tesis, los argumentos y la conclusión, y distinguir hechos de opiniones.",
+    "Identificar estrategias argumentativas y usar conectores.",
+    "Explicar qué son el ensayo y el debate, en qué se parecen y en qué se diferencian."
+  ],
+  "tp_aporte": "Para tu trabajo práctico ya tenés: las partes de un texto argumentativo, las estrategias y conectores, y las características del ensayo y del debate, con ejemplos.",
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "¿Qué es argumentar? Tesis, argumentos y conclusión",
+      "tiempo": "30 a 40 min",
+      "recordas": "¿Alguna vez tuviste que convencer a alguien de algo (a tu familia, a un profesor, a un amigo)? ¿Qué le dijiste para convencerlo?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Argumentar es defender una idea",
+          "texto": "Un **texto argumentativo** busca **convencer** al lector de una idea. No alcanza con decir «yo pienso esto»: hay que dar **razones** que lo sostengan.\n\nArgumentamos todo el tiempo: cuando pedimos permiso para salir, cuando reclamamos una nota o cuando opinamos en una red social. Los textos argumentativos más conocidos son la **nota de opinión**, el **ensayo**, la **carta de lectores** y el **debate**."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Las partes de un texto argumentativo",
+          "texto": "• **Tesis**: la idea u opinión principal que se defiende. Suele aparecer al principio.\n• **Argumentos**: las razones que sostienen la tesis.\n• **Conclusión**: el cierre, que retoma la tesis y la refuerza con lo que se dijo."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Un texto breve, parte por parte",
+          "texto": "**Tesis:** «Las escuelas deberían tener más horas de educación física».\n**Argumento 1:** «La actividad física mejora la concentración en las otras materias».\n**Argumento 2:** «Muchos chicos no tienen otro lugar donde hacer deporte».\n**Conclusión:** «Por eso, sumar horas de educación física no es perder tiempo de estudio, sino ganarlo»."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Hechos y opiniones",
+          "columnas": [
+            "",
+            "Hecho",
+            "Opinión"
+          ],
+          "filas": [
+            [
+              "Qué es",
+              "Algo que se puede comprobar",
+              "Lo que alguien piensa o valora"
+            ],
+            [
+              "Ejemplo",
+              "«La escuela tiene 300 alumnos»",
+              "«La escuela es demasiado grande»"
+            ],
+            [
+              "En la argumentación",
+              "Sirve como prueba de los argumentos",
+              "Es la tesis que se defiende"
+            ]
+          ]
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada frase es un hecho o una opinión?",
+          "categorias": [
+            "Hecho",
+            "Opinión"
+          ],
+          "items": [
+            {
+              "texto": "El agua hierve a 100 grados al nivel del mar",
+              "cat": "Hecho"
+            },
+            {
+              "texto": "La Ley Sáenz Peña se sancionó en 1912",
+              "cat": "Hecho"
+            },
+            {
+              "texto": "La escuela empieza a las 7:30",
+              "cat": "Hecho"
+            },
+            {
+              "texto": "Las clases deberían empezar más tarde",
+              "cat": "Opinión"
+            },
+            {
+              "texto": "El fútbol es el mejor deporte",
+              "cat": "Opinión"
+            },
+            {
+              "texto": "Leer es más divertido que mirar series",
+              "cat": "Opinión"
+            }
+          ],
+          "explicacion": "Un hecho se puede comprobar; una opinión expresa lo que alguien piensa, y por eso necesita argumentos."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "En el texto sobre educación física, ¿cuál es la tesis?",
+          "opciones": [
+            "Las escuelas deberían tener más horas de educación física",
+            "La actividad física mejora la concentración",
+            "Muchos chicos no tienen otro lugar donde hacer deporte",
+            "Sumar horas no es perder tiempo de estudio"
+          ],
+          "correcta": 0,
+          "explicacion": "La tesis es la idea principal que se defiende; las otras frases son argumentos o la conclusión.",
+          "pista": "Releé el ejemplo: ¿qué frase está marcada como tesis?"
+        },
+        {
+          "t": "verificar",
+          "consigna": "¿Cómo se llama la idea u opinión principal que defiende un texto argumentativo?",
+          "respuesta": "tesis",
+          "explicacion": "La tesis es lo que el texto quiere demostrar; los argumentos son las razones que la sostienen.",
+          "pista": "Está en el recuadro de las partes del texto.",
+          "formato": "Escribí solo la palabra.",
+          "acepta": [
+            "tesis",
+            "la tesis"
+          ]
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá una tesis sobre tu escuela y dos argumentos para defenderla.",
+          "respuesta": "Por ejemplo: Tesis: «La escuela debería tener un espacio para estudiar después de clase». Argumento 1: «Muchos alumnos no tienen un lugar tranquilo en su casa». Argumento 2: «Así se podrían preparar mejor para los exámenes». Fijate que los argumentos responden a la pregunta «¿por qué?»."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué es un texto argumentativo y cuáles son sus partes. Incluí la diferencia entre hecho y opinión y escribí un ejemplo propio con una tesis, dos argumentos y una conclusión.",
+        "guia": [
+          "¿Para qué sirve un texto argumentativo? ¿Qué tipos conocés?",
+          "¿Qué es la tesis, qué son los argumentos y qué hace la conclusión?",
+          "¿En qué se diferencia un hecho de una opinión?",
+          "¿Qué tesis propia podés defender y con qué argumentos?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "convencer",
+              "persuadir",
+              "defender"
+            ],
+            "p": "para qué sirve argumentar"
+          },
+          {
+            "k": [
+              "tesis"
+            ],
+            "p": "la tesis"
+          },
+          {
+            "k": [
+              "argumento",
+              "razon"
+            ],
+            "p": "los argumentos"
+          },
+          {
+            "k": [
+              "conclusion",
+              "cierre"
+            ],
+            "p": "la conclusión"
+          },
+          {
+            "k": [
+              "hecho",
+              "opinion",
+              "comprobar"
+            ],
+            "p": "la diferencia entre hecho y opinión"
+          }
+        ],
+        "referencia": "Un texto argumentativo busca convencer de una idea. Tiene tesis (idea que se defiende), argumentos (razones) y conclusión (retoma la tesis). Un hecho se puede comprobar; una opinión expresa lo que alguien piensa. Ejemplo propio con tesis, dos argumentos y conclusión.",
+        "minPalabras": 40
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Un texto argumentativo busca convencer al lector de una idea.",
+          "respuesta": true,
+          "explicacion": "Para eso da razones: los argumentos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La tesis es el cierre del texto.",
+          "respuesta": false,
+          "explicacion": "La tesis es la idea principal; el cierre es la conclusión."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los argumentos son las razones que sostienen la tesis.",
+          "respuesta": true,
+          "explicacion": "Responden a la pregunta «¿por qué?»."
+        },
+        {
+          "tipo": "vf",
+          "texto": "«La escuela tiene 300 alumnos» es una opinión.",
+          "respuesta": false,
+          "explicacion": "Es un hecho: se puede comprobar."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La nota de opinión y el ensayo son textos argumentativos.",
+          "respuesta": true,
+          "explicacion": "También la carta de lectores y el debate."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La conclusión retoma la tesis y la refuerza.",
+          "respuesta": true,
+          "explicacion": "Cierra el texto con lo que se dijo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Una opinión no necesita argumentos.",
+          "respuesta": false,
+          "explicacion": "Justamente por ser una opinión necesita razones que la sostengan."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es un hecho?",
+          "opciones": [
+            "Algo que se puede comprobar",
+            "Lo que alguien piensa",
+            "La tesis del texto",
+            "Una pregunta"
+          ],
+          "correcta": 0,
+          "explicacion": "Los hechos sirven como pruebas de los argumentos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estas frases es una opinión?",
+          "opciones": [
+            "Las clases deberían empezar más tarde",
+            "La escuela empieza a las 7:30",
+            "En 1912 se sancionó la Ley Sáenz Peña",
+            "El año tiene 12 meses"
+          ],
+          "correcta": 0,
+          "explicacion": "Expresa lo que alguien piensa."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Dónde suele aparecer la tesis?",
+          "opciones": [
+            "Al principio del texto",
+            "Solo en el título",
+            "En las notas al pie",
+            "No aparece nunca"
+          ],
+          "correcta": 0,
+          "explicacion": "Suele presentarse al comienzo y se retoma en la conclusión."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estos NO es un texto argumentativo?",
+          "opciones": [
+            "Una receta de cocina",
+            "Una nota de opinión",
+            "Un ensayo",
+            "Una carta de lectores"
+          ],
+          "correcta": 0,
+          "explicacion": "La receta da instrucciones: es un texto instructivo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿A qué pregunta responde un argumento?",
+          "opciones": [
+            "¿Por qué?",
+            "¿Cuándo?",
+            "¿Dónde?",
+            "¿Cuántos?"
+          ],
+          "correcta": 0,
+          "explicacion": "Da la razón por la que la tesis es válida."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué hace la conclusión?",
+          "opciones": [
+            "Retoma la tesis y la refuerza",
+            "Presenta un tema nuevo",
+            "Cuenta una historia",
+            "Hace una lista de datos sin relación"
+          ],
+          "correcta": 0,
+          "explicacion": "Cierra el texto."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "TESIS",
+          "pista": "Idea u opinión principal que defiende un texto."
+        },
+        {
+          "palabra": "ARGUMENTO",
+          "pista": "Razón que sostiene la tesis."
+        },
+        {
+          "palabra": "CONCLUSIÓN",
+          "pista": "Cierre que retoma y refuerza la idea principal."
+        },
+        {
+          "palabra": "HECHO",
+          "pista": "Algo que se puede comprobar."
+        },
+        {
+          "palabra": "OPINIÓN",
+          "pista": "Lo que alguien piensa o valora."
+        },
+        {
+          "palabra": "CONVENCER",
+          "pista": "Lo que busca un texto argumentativo."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "En «Hay que cuidar el agua porque es un recurso escaso», ¿qué parte es el argumento?",
+          "opciones": [
+            "Porque es un recurso escaso",
+            "Hay que cuidar el agua",
+            "Las dos partes",
+            "Ninguna"
+          ],
+          "correcta": 0,
+          "explicacion": "«Hay que cuidar el agua» es la tesis; lo que viene después de «porque» es la razón, el argumento."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué una opinión necesita argumentos?",
+          "opciones": [
+            "Porque no se puede comprobar, y hay que dar razones para convencer",
+            "Porque es un hecho",
+            "Porque es obligatorio usar números",
+            "No los necesita"
+          ],
+          "correcta": 0,
+          "explicacion": "Los hechos se comprueban; las opiniones se fundamentan."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Un hecho puede usarse como prueba dentro de un argumento.",
+          "respuesta": true,
+          "explicacion": "Por ejemplo, un dato comprobable que apoya la tesis."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Cómo se convence: estrategias y conectores",
+      "tiempo": "30 a 40 min",
+      "recordas": "Cuando alguien te quiere convencer de algo, ¿qué te convence más: un ejemplo, un dato, lo que dice un especialista?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Las estrategias argumentativas",
+          "texto": "Para que los argumentos convenzan, se usan **estrategias argumentativas**: formas de presentar las razones. Las más comunes son:\n\n• **Ejemplificación**: dar un caso concreto.\n• **Cita de autoridad**: usar lo que dijo un especialista o una institución reconocida.\n• **Datos y cifras**: números o estadísticas que se pueden comprobar.\n• **Comparación o analogía**: relacionar el tema con otra situación parecida.\n• **Pregunta retórica**: una pregunta que no espera respuesta, para hacer pensar al lector.\n• **Concesión**: aceptar una parte de lo que dice el otro, para después sostener la propia idea."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Estrategias en acción",
+          "texto": "Tesis: «Hay que reducir el uso del celular en clase».\n• **Dato**: «Según una encuesta escolar, 7 de cada 10 alumnos se distraen con notificaciones».\n• **Cita de autoridad**: «La UNESCO advirtió sobre el uso excesivo de pantallas en las escuelas».\n• **Pregunta retórica**: «¿Podemos prestar atención si el teléfono vibra cada dos minutos?».\n• **Concesión**: «Es cierto que el celular puede ser útil para buscar información; sin embargo, sin reglas termina distrayendo»."
+        },
+        {
+          "t": "destacado",
+          "titulo": "La refutación",
+          "texto": "En un texto argumentativo también se puede **refutar**: presentar una idea contraria y mostrar por qué no es correcta. Por ejemplo: «Algunos dicen que leer en papel ya no sirve, pero los estudios muestran que se recuerda mejor lo leído en papel»."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Los conectores argumentativos",
+          "columnas": [
+            "Para…",
+            "Conectores"
+          ],
+          "filas": [
+            [
+              "Agregar una razón",
+              "además, también, asimismo"
+            ],
+            [
+              "Oponer una idea",
+              "pero, sin embargo, no obstante"
+            ],
+            [
+              "Mostrar una causa",
+              "porque, ya que, dado que"
+            ],
+            [
+              "Mostrar una consecuencia",
+              "por eso, por lo tanto, en consecuencia"
+            ],
+            [
+              "Concluir",
+              "en conclusión, para terminar, en síntesis"
+            ]
+          ]
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Qué estrategia usa cada frase?",
+          "categorias": [
+            "Dato",
+            "Cita de autoridad",
+            "Pregunta retórica"
+          ],
+          "items": [
+            {
+              "texto": "El 40 % de los jóvenes duerme menos de 7 horas",
+              "cat": "Dato"
+            },
+            {
+              "texto": "Uno de cada tres alumnos llega tarde los lunes",
+              "cat": "Dato"
+            },
+            {
+              "texto": "La Organización Mundial de la Salud recomienda una hora diaria de actividad física",
+              "cat": "Cita de autoridad"
+            },
+            {
+              "texto": "Según el Ministerio de Educación, leer en voz alta mejora la comprensión",
+              "cat": "Cita de autoridad"
+            },
+            {
+              "texto": "¿Quién puede estudiar con hambre?",
+              "cat": "Pregunta retórica"
+            },
+            {
+              "texto": "¿Acaso no merecemos una plaza limpia?",
+              "cat": "Pregunta retórica"
+            }
+          ],
+          "explicacion": "Los datos son números que se pueden comprobar; la cita de autoridad usa la palabra de alguien reconocido; la pregunta retórica no espera respuesta: hace pensar."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "«Es cierto que el uniforme es incómodo; sin embargo, evita diferencias entre los alumnos». ¿Qué estrategia es?",
+          "opciones": [
+            "Concesión",
+            "Dato",
+            "Ejemplificación",
+            "Cita de autoridad"
+          ],
+          "correcta": 0,
+          "explicacion": "Primero acepta una parte de la idea contraria (es incómodo) y después sostiene la propia.",
+          "pista": "Releé la última estrategia de la lista."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá con un conector que oponga ideas: «El viaje es caro; ______, vale la pena».",
+          "respuesta": "sin embargo",
+          "explicacion": "«Sin embargo», «no obstante» y «pero» oponen una idea a la anterior.",
+          "pista": "Mirá la fila «Oponer una idea» de la tabla de conectores.",
+          "formato": "Escribí solo el conector.",
+          "acepta": [
+            "sin embargo",
+            "no obstante",
+            "pero",
+            "aun asi",
+            "igualmente"
+          ]
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená este párrafo argumentativo para que tenga sentido.",
+          "items": [
+            "Los recreos deberían ser más largos.",
+            "En primer lugar, los alumnos necesitan descansar para volver a concentrarse.",
+            "Además, el recreo es un momento para compartir con los compañeros.",
+            "Es cierto que se pierde tiempo de clase; sin embargo, se aprovecha mejor el que queda.",
+            "Por lo tanto, alargar el recreo beneficiaría a todos."
+          ],
+          "explicacion": "Empieza con la tesis, siguen los argumentos unidos por conectores, una concesión y la conclusión.",
+          "pista": "Fijate en los conectores: «en primer lugar», «además», «por lo tanto»."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué estrategias se usan para convencer en un texto argumentativo y para qué sirven los conectores. Describí al menos cuatro estrategias con un ejemplo de cada una, explicá qué es la refutación y nombrá conectores de cada tipo.",
+        "guia": [
+          "¿Qué es una estrategia argumentativa?",
+          "¿Cómo funcionan el dato, la cita de autoridad, la pregunta retórica y la concesión?",
+          "¿Qué es refutar?",
+          "¿Qué conectores sirven para agregar, oponer, mostrar causas y consecuencias y concluir?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "estrategia"
+            ],
+            "p": "qué son las estrategias"
+          },
+          {
+            "k": [
+              "ejemplo",
+              "dato",
+              "cifra",
+              "cita",
+              "autoridad"
+            ],
+            "p": "estrategias como el dato o la cita"
+          },
+          {
+            "k": [
+              "retorica",
+              "concesion",
+              "comparacion",
+              "analogia"
+            ],
+            "p": "otras estrategias (pregunta retórica, concesión…)"
+          },
+          {
+            "k": [
+              "refut"
+            ],
+            "p": "la refutación"
+          },
+          {
+            "k": [
+              "conector",
+              "sin embargo",
+              "ademas",
+              "por lo tanto",
+              "porque"
+            ],
+            "p": "los conectores"
+          }
+        ],
+        "referencia": "Estrategias: ejemplificación, cita de autoridad, datos y cifras, comparación, pregunta retórica, concesión. Refutar es presentar una idea contraria y mostrar por qué no es correcta. Conectores: además (agregar), sin embargo (oponer), porque (causa), por lo tanto (consecuencia), en conclusión (concluir).",
+        "minPalabras": 45
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "La cita de autoridad usa lo que dijo un especialista o una institución reconocida.",
+          "respuesta": true,
+          "explicacion": "Da peso al argumento."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Una pregunta retórica espera que el lector la responda por escrito.",
+          "respuesta": false,
+          "explicacion": "No espera respuesta: busca hacer pensar."
+        },
+        {
+          "tipo": "vf",
+          "texto": "«Sin embargo» es un conector que opone ideas.",
+          "respuesta": true,
+          "explicacion": "Igual que «pero» y «no obstante»."
+        },
+        {
+          "tipo": "vf",
+          "texto": "«Por lo tanto» introduce una causa.",
+          "respuesta": false,
+          "explicacion": "Introduce una consecuencia."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La concesión acepta una parte de la idea contraria.",
+          "respuesta": true,
+          "explicacion": "Para después sostener la propia."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Refutar es repetir la tesis con otras palabras.",
+          "respuesta": false,
+          "explicacion": "Refutar es mostrar por qué una idea contraria no es correcta."
+        },
+        {
+          "tipo": "vf",
+          "texto": "«Además» sirve para agregar una razón.",
+          "respuesta": true,
+          "explicacion": "Igual que «también» y «asimismo»."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "«El 40 % de los jóvenes duerme poco». ¿Qué estrategia es?",
+          "opciones": [
+            "Dato",
+            "Pregunta retórica",
+            "Concesión",
+            "Analogía"
+          ],
+          "correcta": 0,
+          "explicacion": "Es una cifra que se puede comprobar."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué conector muestra una causa?",
+          "opciones": [
+            "Porque",
+            "Sin embargo",
+            "En conclusión",
+            "Además"
+          ],
+          "correcta": 0,
+          "explicacion": "También «ya que» y «dado que»."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué estrategia es «¿Quién puede estudiar con hambre?»?",
+          "opciones": [
+            "Pregunta retórica",
+            "Dato",
+            "Cita de autoridad",
+            "Refutación"
+          ],
+          "correcta": 0,
+          "explicacion": "No espera respuesta: hace pensar."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué conector sirve para concluir?",
+          "opciones": [
+            "En síntesis",
+            "Pero",
+            "Ya que",
+            "También"
+          ],
+          "correcta": 0,
+          "explicacion": "También «en conclusión» y «para terminar»."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es refutar?",
+          "opciones": [
+            "Mostrar por qué una idea contraria no es correcta",
+            "Dar un ejemplo",
+            "Citar a un especialista",
+            "Hacer una pregunta"
+          ],
+          "correcta": 0,
+          "explicacion": "Se presenta la idea contraria y se la discute."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "«Así como cuidamos la casa, hay que cuidar la escuela». ¿Qué estrategia es?",
+          "opciones": [
+            "Comparación o analogía",
+            "Dato",
+            "Concesión",
+            "Cita de autoridad"
+          ],
+          "correcta": 0,
+          "explicacion": "Relaciona el tema con una situación parecida."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "CONCESIÓN",
+          "pista": "Estrategia que acepta una parte de la idea contraria."
+        },
+        {
+          "palabra": "REFUTAR",
+          "pista": "Mostrar por qué una idea contraria no es correcta."
+        },
+        {
+          "palabra": "CONECTOR",
+          "pista": "Palabra que une ideas, como «sin embargo» o «además»."
+        },
+        {
+          "palabra": "AUTORIDAD",
+          "pista": "Cita de ___: palabra de un especialista reconocido."
+        },
+        {
+          "palabra": "RETÓRICA",
+          "pista": "Pregunta que no espera respuesta."
+        },
+        {
+          "palabra": "ESTRATEGIA",
+          "pista": "Forma de presentar las razones para convencer."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué conector completa mejor «Estudié mucho; ______, me fue bien»?",
+          "opciones": [
+            "Por lo tanto",
+            "Sin embargo",
+            "Porque",
+            "Aunque"
+          ],
+          "correcta": 0,
+          "explicacion": "Lo segundo es consecuencia de lo primero: hace falta un conector de consecuencia."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "«Algunos dicen que el reciclaje no sirve, pero cada tonelada reciclada ahorra recursos». ¿Qué hace esta frase?",
+          "opciones": [
+            "Refuta una idea contraria",
+            "Hace una pregunta retórica",
+            "Da una cita de autoridad",
+            "Concluye el texto"
+          ],
+          "correcta": 0,
+          "explicacion": "Presenta lo que dicen otros y muestra por qué no es correcto."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Una cita de autoridad convence porque se apoya en alguien reconocido en el tema.",
+          "respuesta": true,
+          "explicacion": "Por eso hay que nombrar la fuente."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "El ensayo y el debate",
+      "tiempo": "35 a 40 min",
+      "recordas": "¿Participaste alguna vez de un debate en la escuela o viste uno por televisión? ¿Qué reglas tenía?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "El ensayo: pensar por escrito",
+          "texto": "El **ensayo** es un texto en el que un autor reflexiona sobre un tema y da **su punto de vista personal**, con argumentos. No busca agotar el tema como un manual, sino **invitar a pensar**.\n\nTiene tono personal (el autor puede escribir en primera persona), usa ejemplos, citas y comparaciones, y suele tener una estructura libre, aunque siempre defiende una idea. Por eso se dice que el ensayo pertenece a la **literatura de ideas**."
+        },
+        {
+          "t": "dato",
+          "titulo": "Dos ensayos latinoamericanos famosos",
+          "texto": "• **Domingo F. Sarmiento** publicó _Facundo_ en **1845**. Allí plantea la oposición entre «civilización y barbarie» para pensar la Argentina de su época.\n• **José Martí**, escritor cubano, publicó _Nuestra América_ en **1891**. Allí pide a los países latinoamericanos que conozcan su propia realidad y no copien modelos extranjeros."
+        },
+        {
+          "t": "texto",
+          "titulo": "El debate: argumentar en voz alta",
+          "texto": "El **debate** es una discusión **oral y organizada** entre personas o grupos que tienen posturas distintas sobre un tema. Cada participante defiende su **tesis** con argumentos y **refuta** los de los demás.\n\nEn un debate hay un **moderador**, que presenta el tema, da la palabra, controla los tiempos y hace que se respeten los turnos. El público escucha y, al final, puede sacar sus propias conclusiones."
+        },
+        {
+          "t": "pasos",
+          "titulo": "Cómo se organiza un debate",
+          "pasos": [
+            {
+              "titulo": "Presentación",
+              "texto": "El moderador presenta el tema y a los participantes."
+            },
+            {
+              "titulo": "Exposición de posturas",
+              "texto": "Cada uno expone su tesis y sus argumentos principales, en un tiempo fijo."
+            },
+            {
+              "titulo": "Réplica",
+              "texto": "Cada participante refuta los argumentos del otro y responde las críticas."
+            },
+            {
+              "titulo": "Cierre",
+              "texto": "Cada uno resume su postura. El moderador cierra el debate."
+            }
+          ]
+        },
+        {
+          "t": "comparar",
+          "titulo": "El ensayo y el debate",
+          "columnas": [
+            "",
+            "Ensayo",
+            "Debate"
+          ],
+          "filas": [
+            [
+              "Forma",
+              "Escrito",
+              "Oral"
+            ],
+            [
+              "Quiénes participan",
+              "Un autor",
+              "Dos o más personas y un moderador"
+            ],
+            [
+              "Qué hace",
+              "Reflexiona sobre un tema desde un punto de vista personal",
+              "Enfrenta posturas distintas con argumentos y refutaciones"
+            ],
+            [
+              "Ejemplo",
+              "Facundo, de Sarmiento",
+              "Un debate de candidatos o en la escuela"
+            ]
+          ]
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada rasgo es del ensayo o del debate?",
+          "categorias": [
+            "Ensayo",
+            "Debate"
+          ],
+          "items": [
+            {
+              "texto": "Es un texto escrito",
+              "cat": "Ensayo"
+            },
+            {
+              "texto": "Un autor reflexiona en primera persona",
+              "cat": "Ensayo"
+            },
+            {
+              "texto": "Forma parte de la literatura de ideas",
+              "cat": "Ensayo"
+            },
+            {
+              "texto": "Tiene un moderador",
+              "cat": "Debate"
+            },
+            {
+              "texto": "Los participantes respetan turnos",
+              "cat": "Debate"
+            },
+            {
+              "texto": "Hay una instancia de réplica",
+              "cat": "Debate"
+            }
+          ],
+          "explicacion": "Los dos argumentan, pero el ensayo es escrito y personal; el debate es oral, con turnos y moderador."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Cuál es la función del moderador en un debate?",
+          "opciones": [
+            "Presentar el tema, dar la palabra y controlar los tiempos",
+            "Ganar el debate",
+            "Defender una de las posturas",
+            "Escribir un ensayo sobre el tema"
+          ],
+          "correcta": 0,
+          "explicacion": "El moderador no opina: organiza la discusión.",
+          "pista": "Releé el texto sobre el debate."
+        },
+        {
+          "t": "verificar",
+          "consigna": "¿En qué año publicó Sarmiento el Facundo?",
+          "respuesta": "1845",
+          "explicacion": "Sarmiento publicó Facundo en 1845; Martí publicó Nuestra América en 1891.",
+          "pista": "Buscalo en el recuadro de ensayos latinoamericanos.",
+          "formato": "Escribí solo el año, con números.",
+          "acepta": [
+            "1845"
+          ]
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué es un ensayo y qué es un debate. Contá sus características, en qué se parecen y en qué se diferencian, nombrá un ensayo latinoamericano con su autor y describí cómo se organiza un debate y qué hace el moderador.",
+        "guia": [
+          "¿Qué hace un autor en un ensayo y por qué se habla de literatura de ideas?",
+          "¿Qué plantearon Sarmiento en Facundo y Martí en Nuestra América?",
+          "¿Qué es un debate y quiénes participan?",
+          "¿Cuáles son las etapas de un debate?",
+          "¿En qué se parecen y en qué se diferencian el ensayo y el debate?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "ensayo"
+            ],
+            "p": "qué es un ensayo"
+          },
+          {
+            "k": [
+              "personal",
+              "reflexion",
+              "punto de vista",
+              "primera persona",
+              "ideas"
+            ],
+            "p": "las características del ensayo"
+          },
+          {
+            "k": [
+              "sarmiento",
+              "facundo",
+              "marti",
+              "nuestra america"
+            ],
+            "p": "un ensayo latinoamericano"
+          },
+          {
+            "k": [
+              "debate",
+              "oral"
+            ],
+            "p": "qué es un debate"
+          },
+          {
+            "k": [
+              "moderador",
+              "turno",
+              "replica"
+            ],
+            "p": "cómo se organiza el debate"
+          },
+          {
+            "k": [
+              "parecen",
+              "diferencia",
+              "en cambio",
+              "ambos",
+              "los dos"
+            ],
+            "p": "la comparación entre ensayo y debate"
+          }
+        ],
+        "referencia": "Ensayo: texto escrito en el que un autor reflexiona con su punto de vista personal; literatura de ideas (Facundo, Sarmiento, 1845: civilización y barbarie; Nuestra América, Martí, 1891). Debate: discusión oral y organizada con moderador, turnos, exposición, réplica y cierre. Los dos argumentan; uno es escrito y personal, el otro oral y con varias posturas.",
+        "minPalabras": 45
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El ensayo expresa el punto de vista personal de un autor.",
+          "respuesta": true,
+          "explicacion": "Por eso puede escribirse en primera persona."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El debate es un texto escrito.",
+          "respuesta": false,
+          "explicacion": "Es oral y organizado."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Sarmiento escribió Facundo.",
+          "respuesta": true,
+          "explicacion": "En 1845, con la idea de «civilización y barbarie»."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Nuestra América fue escrito por Sarmiento.",
+          "respuesta": false,
+          "explicacion": "Lo escribió el cubano José Martí, en 1891."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En un debate, el moderador defiende una de las posturas.",
+          "respuesta": false,
+          "explicacion": "El moderador organiza; no opina."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la réplica, cada participante refuta los argumentos del otro.",
+          "respuesta": true,
+          "explicacion": "Es una etapa del debate."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El ensayo forma parte de la literatura de ideas.",
+          "respuesta": true,
+          "explicacion": "Invita a pensar sobre un tema."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué idea plantea Sarmiento en Facundo?",
+          "opciones": [
+            "La oposición entre civilización y barbarie",
+            "Que hay que copiar modelos extranjeros",
+            "La independencia de Cuba",
+            "La tragedia griega"
+          ],
+          "correcta": 0,
+          "explicacion": "Con esa idea pensó la Argentina de su época."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué pedía Martí en Nuestra América?",
+          "opciones": [
+            "Conocer la propia realidad latinoamericana y no copiar modelos extranjeros",
+            "Imitar a Europa",
+            "Volver a la colonia",
+            "Prohibir los ensayos"
+          ],
+          "correcta": 0,
+          "explicacion": "Lo publicó en 1891."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quién da la palabra en un debate?",
+          "opciones": [
+            "El moderador",
+            "El público",
+            "El participante que habla más fuerte",
+            "Nadie"
+          ],
+          "correcta": 0,
+          "explicacion": "También controla los tiempos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué tienen en común el ensayo y el debate?",
+          "opciones": [
+            "Los dos argumentan para defender una idea",
+            "Los dos son orales",
+            "Los dos tienen moderador",
+            "Los dos son tragedias"
+          ],
+          "correcta": 0,
+          "explicacion": "Uno escrito y personal, el otro oral y con varias posturas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la última etapa de un debate?",
+          "opciones": [
+            "El cierre",
+            "La réplica",
+            "La exposición",
+            "La presentación"
+          ],
+          "correcta": 0,
+          "explicacion": "Cada uno resume su postura y el moderador cierra."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿De qué país era José Martí?",
+          "opciones": [
+            "Cuba",
+            "Argentina",
+            "México",
+            "Chile"
+          ],
+          "correcta": 0,
+          "explicacion": "Escritor cubano."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "ENSAYO",
+          "pista": "Texto en que un autor reflexiona desde su punto de vista."
+        },
+        {
+          "palabra": "DEBATE",
+          "pista": "Discusión oral y organizada entre posturas distintas."
+        },
+        {
+          "palabra": "MODERADOR",
+          "pista": "Quien da la palabra y controla los tiempos en un debate."
+        },
+        {
+          "palabra": "RÉPLICA",
+          "pista": "Etapa del debate en la que se refutan los argumentos del otro."
+        },
+        {
+          "palabra": "SARMIENTO",
+          "pista": "Autor de Facundo."
+        },
+        {
+          "palabra": "MARTÍ",
+          "pista": "Autor de Nuestra América."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué el ensayo pertenece a la «literatura de ideas»?",
+          "opciones": [
+            "Porque reflexiona sobre un tema e invita a pensar desde un punto de vista",
+            "Porque cuenta una historia inventada",
+            "Porque está escrito en verso",
+            "Porque tiene moderador"
+          ],
+          "correcta": 0,
+          "explicacion": "No narra ni rima: piensa un tema con argumentos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "En un debate, ¿qué etapa sirve para responder a los argumentos del otro?",
+          "opciones": [
+            "La réplica",
+            "La presentación",
+            "El cierre",
+            "El aplauso"
+          ],
+          "correcta": 0,
+          "explicacion": "En la réplica se refuta y se responden críticas."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Facundo (1845) y Nuestra América (1891) son ensayos que piensan la realidad latinoamericana.",
+          "respuesta": true,
+          "explicacion": "Son dos clásicos de la literatura de ideas."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Tesis",
+      "definicion": "Idea u opinión principal que se defiende."
+    },
+    {
+      "palabra": "Argumento",
+      "definicion": "Razón que sostiene la tesis."
+    },
+    {
+      "palabra": "Concesión",
+      "definicion": "Aceptar una parte de la idea contraria para después sostener la propia."
+    },
+    {
+      "palabra": "Refutación",
+      "definicion": "Mostrar por qué una idea contraria no es correcta."
+    },
+    {
+      "palabra": "Conector",
+      "definicion": "Palabra o expresión que une ideas y muestra su relación."
+    },
+    {
+      "palabra": "Ensayo",
+      "definicion": "Texto escrito en que un autor reflexiona sobre un tema desde su punto de vista."
+    },
+    {
+      "palabra": "Moderador",
+      "definicion": "Quien organiza un debate: da la palabra y controla los tiempos."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "Confundir la tesis con un argumento.",
+      "aclaracion": "La tesis es lo que se defiende; el argumento responde «¿por qué?»."
+    },
+    {
+      "error": "Usar «por lo tanto» para dar una causa.",
+      "aclaracion": "«Por lo tanto» introduce una consecuencia; para la causa se usa «porque» o «ya que»."
+    },
+    {
+      "error": "Pensar que en el ensayo no hay que argumentar porque es personal.",
+      "aclaracion": "Es personal, pero siempre defiende una idea con razones."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "¿Sobre qué tema de tu escuela o de tu ciudad te gustaría organizar un debate? ¿Qué tesis defenderías?",
+    "conexion": "Con Antígona: podés pensar el conflicto de la obra como un debate entre Antígona y Creonte, con sus argumentos."
+  }
+}

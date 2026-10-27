@@ -1,0 +1,444 @@
+{
+  "espacio": "lengua-extranjera",
+  "titulo": "Mi trabajo práctico de Inglés",
+  "intro": "En tu trabajo práctico de Inglés vas a mostrar dos cosas: que entendés cómo funcionan los tiempos que estudiaste (lo explicás en castellano) y que sabés usarlos (escribís y leés en voz alta oraciones y textos en inglés). Practicá la pronunciación con el botón 🔊 de las clases: probablemente te pidan leer en voz alta.",
+  "claves_contenido": {
+    "e1": [
+      "past simple",
+      "pasado simple",
+      "ed",
+      "irregular",
+      "was",
+      "were",
+      "didn t",
+      "did",
+      "born",
+      "invented",
+      "biograf"
+    ],
+    "e2": [
+      "used to",
+      "use to",
+      "habito",
+      "antes",
+      "now",
+      "nowadays",
+      "there used to be",
+      "presente simple"
+    ]
+  },
+  "portada": {
+    "instruccion": "Escribí la introducción de tu trabajo (en castellano): presentá los temas de inglés que incluye, en qué orden los vas a presentar y para qué sirve saber hablar del pasado en inglés.",
+    "guia": [
+      "¿Qué temas incluye tu trabajo?",
+      "¿En qué orden los vas a presentar?",
+      "¿Para qué te sirve contar hechos y hábitos del pasado en inglés?"
+    ],
+    "claves": [
+      {
+        "k": [
+          "trabajo trata",
+          "este trabajo",
+          "trata sobre",
+          "presento",
+          "voy a"
+        ],
+        "p": "de qué trata el trabajo"
+      },
+      {
+        "k": [
+          "pasado",
+          "past",
+          "used to",
+          "biograf"
+        ],
+        "p": "los temas que incluye"
+      },
+      {
+        "k": [
+          "porque",
+          "importante",
+          "sirve",
+          "permite",
+          "ayuda"
+        ],
+        "p": "por qué es importante"
+      }
+    ],
+    "referencia": "Temas incluidos en orden y para qué sirven.",
+    "minPalabras": 25
+  },
+  "desarrollo": {
+    "e1": {
+      "instruccion": "Explicá en castellano cómo se forma el pasado simple: los verbos regulares (escritura y pronunciación de -ed), los irregulares, was y were, y las negaciones y preguntas con did. Incluí ejemplos en inglés y una biografía breve escrita por vos.",
+      "guia": [
+        "¿Para qué se usa el pasado simple?",
+        "¿Cómo se escribe y cómo se pronuncia -ed?",
+        "¿Qué verbos irregulares sabés? (went, had, made, became…)",
+        "¿Cómo se arman la negación y la pregunta con did?",
+        "¿Qué biografía escribiste? (was born, invented, became…)"
+      ],
+      "claves": [
+        {
+          "k": [
+            "terminad",
+            "past simple",
+            "pasado simple"
+          ],
+          "p": "para qué se usa el pasado simple"
+        },
+        {
+          "k": [
+            "ed"
+          ],
+          "p": "los verbos regulares (-ed)"
+        },
+        {
+          "k": [
+            "irregular",
+            "went",
+            "had",
+            "made",
+            "became",
+            "wrote"
+          ],
+          "p": "los verbos irregulares"
+        },
+        {
+          "k": [
+            "was",
+            "were"
+          ],
+          "p": "was y were"
+        },
+        {
+          "k": [
+            "didn t",
+            "didnt",
+            "did not",
+            "did "
+          ],
+          "p": "la negación y la pregunta con did"
+        },
+        {
+          "k": [
+            "was born",
+            "born"
+          ],
+          "p": "una biografía en inglés"
+        }
+      ],
+      "referencia": "Pasado simple: acciones terminadas, igual para todas las personas. Regulares: -ed (worked), -d (lived), -ied (studied), duplicación (stopped); pronunciación /t/, /d/, /ɪd/. Irregulares: went, had, made, found, became, won, wrote, built. Be: was/were. Negación: didn't + base; pregunta: Did + persona + base? Biografía: was born in…, moved, invented, became, finally.",
+      "minPalabras": 60
+    },
+    "e2": {
+      "instruccion": "Explicá en castellano qué expresa used to y cómo se forma (afirmativo, negativo y pregunta), cómo se combina con el presente simple para comparar antes y ahora, y qué significa there used to be. Incluí ejemplos en inglés y tu texto «Then and now».",
+      "guia": [
+        "¿Qué expresa used to? ¿Cómo se dice en castellano?",
+        "¿Cómo se arman el negativo y la pregunta?",
+        "¿Cómo se compara antes y ahora? ¿Qué palabras ayudan?",
+        "¿Qué significa there used to be?",
+        "¿Qué escribiste en tu texto «Then and now»?"
+      ],
+      "claves": [
+        {
+          "k": [
+            "habito",
+            "costumbre",
+            "solia",
+            "ya no"
+          ],
+          "p": "qué expresa used to"
+        },
+        {
+          "k": [
+            "used to"
+          ],
+          "p": "ejemplos con used to"
+        },
+        {
+          "k": [
+            "didn t use",
+            "didnt use",
+            "did not use",
+            "use to"
+          ],
+          "p": "el negativo o la pregunta"
+        },
+        {
+          "k": [
+            "presente simple",
+            "now",
+            "nowadays"
+          ],
+          "p": "la comparación con el presente"
+        },
+        {
+          "k": [
+            "there used to be",
+            "habia"
+          ],
+          "p": "there used to be"
+        }
+      ],
+      "referencia": "Used to + base: hábitos o situaciones del pasado que ya no ocurren (solía, -aba). Negativo: didn't use to; pregunta: Did you use to…? Comparar: used to (antes) + presente simple (ahora: she sends), con in the past, now, nowadays, but. There used to be: antes había. Texto propio «Then and now».",
+      "minPalabras": 60
+    }
+  },
+  "integracion": {
+    "intro": "Integrar es mostrar cómo se relacionan los temas: en inglés, el pasado simple y used to se usan juntos para contar historias de vida. Las preguntas de abajo relacionan **solo los contenidos que elegiste**.",
+    "intro_uno": "Elegiste un solo contenido. Integrar, en este caso, es mostrar cómo se conectan sus partes: la regla, los ejemplos y tu texto.",
+    "pares": {
+      "e1|e2": "¿En qué se diferencian «I walked to school yesterday» y «I used to walk to school»? Explicá cuándo usás el pasado simple y cuándo used to. Después escribí en inglés tres o cuatro oraciones sobre una persona de tu familia que combinen los dos: un hecho puntual (was born, moved…) y un hábito (used to…)."
+    },
+    "individual": {
+      "e1": [
+        "¿Qué diferencia hay entre un verbo regular y uno irregular?",
+        "¿Por qué después de didn't el verbo va en forma base?",
+        "¿Cómo se organiza una biografía en inglés?"
+      ],
+      "e2": [
+        "¿Por qué used to se usa para algo que ya no ocurre?",
+        "¿Qué cambia entre «Did you use to…?» y «I used to…»?",
+        "¿Cómo combinás used to y el presente simple para comparar?"
+      ]
+    },
+    "generales": [
+      "¿Qué tienen en común los temas que estudiaste?",
+      "¿Qué errores aprendiste a evitar?",
+      "¿Cómo usarías lo que aprendiste para contar tu propia historia en inglés?"
+    ],
+    "referencia": "Texto que relaciona los contenidos elegidos con ejemplos en inglés.",
+    "minPalabras": 50
+  },
+  "realidad": {
+    "intro": "Relacionar con la realidad es mostrar dónde te sirve el inglés que aprendiste. Para cada contenido que elegiste tenés una pregunta y algunas ideas: elegí un ejemplo concreto.",
+    "por_contenido": {
+      "e1": {
+        "pregunta": "¿Dónde encontrás biografías o relatos en pasado en inglés en tu vida cotidiana?",
+        "ideas": [
+          "La biografía de un deportista o un músico que te gusta.",
+          "Inventos que usás todos los días (la birome, el teléfono, internet).",
+          "Videos o series en inglés que cuentan historias reales."
+        ]
+      },
+      "e2": {
+        "pregunta": "¿Qué cambió en tu familia, tu barrio o tu ciudad, y cómo lo contarías en inglés?",
+        "ideas": [
+          "Cómo se comunicaban tus abuelos y cómo te comunicás vos.",
+          "Un lugar de tu ciudad que antes era distinto.",
+          "Juegos o costumbres de tu infancia que ya no tenés."
+        ]
+      }
+    },
+    "referencia": "Un ejemplo actual por cada contenido, con alguna oración en inglés.",
+    "minPalabras_por_contenido": 20
+  },
+  "conclusion": {
+    "instruccion": "Escribí la conclusión de tu trabajo (en castellano, y si querés agregá una oración en inglés): contá qué aprendiste, qué une a los temas y para qué te sirve hoy.",
+    "guia": [
+      "¿Qué es lo más importante que aprendiste?",
+      "¿Qué une a tus temas (hablar del pasado, contar historias de vida)?",
+      "¿Para qué te va a servir el inglés fuera de la escuela?"
+    ],
+    "claves": [
+      {
+        "k": [
+          "aprendi",
+          "entendi",
+          "descubri",
+          "conoci"
+        ],
+        "p": "qué aprendiste"
+      },
+      {
+        "k": [
+          "une",
+          "relacion",
+          "conecta",
+          "en comun",
+          "pasado",
+          "todos"
+        ],
+        "p": "qué une a tus temas"
+      },
+      {
+        "k": [
+          "hoy",
+          "sirve",
+          "importante",
+          "permite",
+          "vida"
+        ],
+        "p": "para qué te sirve hoy"
+      }
+    ],
+    "referencia": "Aprendizajes, idea que une los temas e importancia para el presente.",
+    "minPalabras": 35
+  },
+  "practica": {
+    "intro": "En la presentación es probable que tu docente te pida **completar oraciones, conjugar verbos o leer en voz alta**. Estos ejercicios son del tipo que suelen pedirse. Resolvelos acá, tocá 🔊 para escuchar cómo suenan y practicá leerlos en voz alta.",
+    "consejos": [
+      "Antes de responder, pensá qué tiempo pide la oración: ¿un hecho puntual, un hábito o el presente?",
+      "Fijate si hay did o didn't: después va el verbo base.",
+      "Leé las oraciones en voz alta después de escucharlas con 🔊.",
+      "Si no te sale una palabra, explicá en castellano la regla que estás usando: eso también muestra lo que aprendiste."
+    ],
+    "por_contenido": {
+      "e1": [
+        {
+          "t": "verificar",
+          "consigna": "Escribí el pasado simple de «stop».",
+          "respuesta": "stopped",
+          "explicacion": "Corto, consonante + vocal + consonante: se duplica la p → stopped.",
+          "pista": "Revisá la regla de duplicación.",
+          "formato": "Escribí solo el verbo en inglés.",
+          "acepta": [
+            "stopped"
+          ]
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá con el pasado de «go»: «Yesterday we ______ to the park».",
+          "respuesta": "went",
+          "explicacion": "Go es irregular: went.",
+          "pista": "Es un verbo irregular.",
+          "formato": "Escribí solo el verbo en inglés.",
+          "acepta": [
+            "went"
+          ]
+        },
+        {
+          "t": "verificar",
+          "consigna": "Pasá a negativo: «She won the prize» → «She didn't ______ the prize».",
+          "respuesta": "win",
+          "explicacion": "Después de didn't, el verbo va en forma base: win.",
+          "pista": "Pensá en la forma base del verbo.",
+          "formato": "Escribí solo el verbo en inglés.",
+          "acepta": [
+            "win"
+          ]
+        },
+        {
+          "t": "opcion",
+          "pregunta": "Elegí la pregunta correcta.",
+          "opciones": [
+            "Did he invent the telephone?",
+            "Did he invented the telephone?",
+            "Does he invented the telephone?",
+            "He did invent the telephone?"
+          ],
+          "correcta": 0,
+          "explicacion": "Did + persona + verbo base.",
+          "pista": "Después de did, el verbo va en forma base."
+        }
+      ],
+      "e2": [
+        {
+          "t": "verificar",
+          "consigna": "Completá: «My grandfather ______ to work on a farm» (antes trabajaba en una granja).",
+          "respuesta": "used",
+          "explicacion": "Afirmativo: used to + verbo base.",
+          "pista": "Hábito del pasado que ya no ocurre.",
+          "formato": "Escribí solo una palabra en inglés.",
+          "acepta": [
+            "used"
+          ]
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá la pregunta: «Did you ______ to play football?»",
+          "respuesta": "use",
+          "explicacion": "Con did se escribe use to, sin d.",
+          "pista": "Revisá cómo se forma la pregunta.",
+          "formato": "Escribí solo una palabra en inglés.",
+          "acepta": [
+            "use"
+          ]
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá con el presente simple de «have»: «Now my town ______ a big supermarket».",
+          "respuesta": "has",
+          "explicacion": "Con it (my town), el presente de have es has.",
+          "pista": "Pensá en el presente con he, she o it.",
+          "formato": "Escribí solo el verbo en inglés.",
+          "acepta": [
+            "has"
+          ]
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Qué oración dice «Antes había un cine en mi ciudad»?",
+          "opciones": [
+            "There used to be a cinema in my town.",
+            "There is a cinema in my town.",
+            "There use to be a cinema in my town.",
+            "There used to is a cinema in my town."
+          ],
+          "correcta": 0,
+          "explicacion": "There used to be = antes había.",
+          "pista": "Revisá there used to be."
+        }
+      ]
+    }
+  },
+  "preguntas": [
+    {
+      "id": "q-e1-1",
+      "contenido": "e1",
+      "nivel": "Básica",
+      "pregunta": "¿Cómo se forma el pasado simple de los verbos regulares y cómo se pronuncia -ed?",
+      "orientacion": "Se agrega -ed (worked), -d si termina en e (lived), -ied si termina en consonante + y (studied) y se duplica la consonante en verbos cortos (stopped). Se pronuncia /t/ (worked), /d/ (played) o /ɪd/ (wanted)."
+    },
+    {
+      "id": "q-e1-2",
+      "contenido": "e1",
+      "nivel": "Media",
+      "pregunta": "¿Cómo se arman la negación y la pregunta en pasado simple? Dá ejemplos.",
+      "orientacion": "Negación: didn't + verbo base (She didn't win the prize). Pregunta: Did + persona + verbo base (Did he invent the telephone?). Con be se usa wasn't/weren't y Was/Were…?"
+    },
+    {
+      "id": "q-e1-3",
+      "contenido": "e1",
+      "nivel": "Media",
+      "pregunta": "Contá en inglés la biografía de un inventor o una inventora.",
+      "orientacion": "Por ejemplo: Ladislao Biro was born in Hungary in 1899. He moved to Argentina. In 1943 he patented the ballpoint pen. Usá was born, verbos en pasado, fechas y palabras para ordenar."
+    },
+    {
+      "id": "q-e2-1",
+      "contenido": "e2",
+      "nivel": "Básica",
+      "pregunta": "¿Qué expresa used to y cómo se forma?",
+      "orientacion": "Hábitos o situaciones del pasado que ya no ocurren: I used to play with toy cars. Negativo: I didn't use to… Pregunta: Did you use to…?"
+    },
+    {
+      "id": "q-e2-2",
+      "contenido": "e2",
+      "nivel": "Media",
+      "pregunta": "Compará en inglés cómo se comunicaba la gente antes y cómo ahora.",
+      "orientacion": "People used to write letters, but now they send messages. People used to call from public phones; nowadays everybody has a mobile phone."
+    },
+    {
+      "id": "q-e2-3",
+      "contenido": "e2",
+      "nivel": "Media",
+      "pregunta": "¿Cómo cambió tu ciudad o tu familia? Contalo en inglés.",
+      "orientacion": "There used to be a cinema in my town; now there is a supermarket. My grandmother used to walk to school; now I take the bus."
+    },
+    {
+      "id": "q-g-1",
+      "contenido": "general",
+      "nivel": "Integradora",
+      "pregunta": "¿Cuándo usás el pasado simple y cuándo used to?",
+      "orientacion": "El pasado simple cuenta un hecho puntual (I walked to school yesterday); used to cuenta un hábito que ya no existe (I used to walk to school)."
+    },
+    {
+      "id": "q-g-2",
+      "contenido": "general",
+      "nivel": "Integradora",
+      "pregunta": "¿Para qué te sirve lo que aprendiste fuera de la escuela?",
+      "orientacion": "Un ejemplo concreto: contar tu historia o la de tu familia, entender biografías y relatos en inglés, presentarte en una entrevista."
+    }
+  ]
+}

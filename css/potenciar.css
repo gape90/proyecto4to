@@ -398,3 +398,8 @@ select:disabled{background-color:#F4F1FA;color:var(--tinta-suave);cursor:not-all
 .paso-rec.repaso{background:#EEF4FF;box-shadow:none;border:2px dashed var(--sf-azul)}
 .organiza ul{margin:0;padding-left:20px}
 .organiza li{margin-bottom:4px}
+/* ---------- Pronunciación (inglés) ---------- */
+.en{font-style:italic}
+.hablar{border:0;background:var(--lavanda);border-radius:999px;padding:1px 7px;margin-left:4px;font-size:.85em;cursor:pointer;vertical-align:baseline;line-height:1.4}
+.hablar:hover{background:var(--lavanda-2)}
+.aviso-voz{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--tinta);color:#fff;padding:10px 16px;border-radius:12px;z-index:90;font-size:.9rem}
