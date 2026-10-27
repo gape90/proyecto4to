@@ -15,7 +15,7 @@
       "id": "c1",
       "titulo": "¿Qué es argumentar? Tesis, argumentos y conclusión",
       "tiempo": "30 a 40 min",
-      "recordas": "¿Alguna vez tuviste que convencer a alguien de algo (a tu familia, a un profesor, a un amigo)? ¿Qué le dijiste para convencerlo?",
+      "recordas": "¿Alguna vez tuviste que convencer a alguien de algo (a tu familia, a un profesor o profesora, a alguien de tu grupo de amistades)? ¿Qué le dijiste para convencer a esa persona?",
       "bloques": [
         {
           "t": "texto",
@@ -30,7 +30,7 @@
         {
           "t": "ejemplo",
           "titulo": "Un texto breve, parte por parte",
-          "texto": "**Tesis:** «Las escuelas deberían tener más horas de educación física».\n**Argumento 1:** «La actividad física mejora la concentración en las otras materias».\n**Argumento 2:** «Muchos chicos no tienen otro lugar donde hacer deporte».\n**Conclusión:** «Por eso, sumar horas de educación física no es perder tiempo de estudio, sino ganarlo»."
+          "texto": "**Tesis:** «Las escuelas deberían tener más horas de educación física».\n**Argumento 1:** «La actividad física mejora la concentración en las otras materias».\n**Argumento 2:** «Muchos chicos y chicas no tienen otro lugar donde hacer deporte».\n**Conclusión:** «Por eso, sumar horas de educación física no es perder tiempo de estudio, sino ganarlo»."
         },
         {
           "t": "comparar",
@@ -48,7 +48,7 @@
             ],
             [
               "Ejemplo",
-              "«La escuela tiene 300 alumnos»",
+              "«La escuela tiene 300 estudiantes»",
               "«La escuela es demasiado grande»"
             ],
             [
@@ -99,7 +99,7 @@
           "opciones": [
             "Las escuelas deberían tener más horas de educación física",
             "La actividad física mejora la concentración",
-            "Muchos chicos no tienen otro lugar donde hacer deporte",
+            "Muchos chicos y chicas no tienen otro lugar donde hacer deporte",
             "Sumar horas no es perder tiempo de estudio"
           ],
           "correcta": 0,
@@ -121,7 +121,7 @@
         {
           "t": "revelar",
           "pregunta": "Pensá una tesis sobre tu escuela y dos argumentos para defenderla.",
-          "respuesta": "Por ejemplo: Tesis: «La escuela debería tener un espacio para estudiar después de clase». Argumento 1: «Muchos alumnos no tienen un lugar tranquilo en su casa». Argumento 2: «Así se podrían preparar mejor para los exámenes». Fijate que los argumentos responden a la pregunta «¿por qué?»."
+          "respuesta": "Por ejemplo: Tesis: «La escuela debería tener un espacio para estudiar después de clase». Argumento 1: «Muchos estudiantes no tienen un lugar tranquilo en su casa». Argumento 2: «Así se podrían preparar mejor para los exámenes». Fijate que los argumentos responden a la pregunta «¿por qué?»."
         }
       ],
       "carpeta": {
@@ -195,7 +195,7 @@
         },
         {
           "tipo": "vf",
-          "texto": "«La escuela tiene 300 alumnos» es una opinión.",
+          "texto": "«La escuela tiene 300 estudiantes» es una opinión.",
           "respuesta": false,
           "explicacion": "Es un hecho: se puede comprobar."
         },
@@ -363,7 +363,7 @@
         {
           "t": "ejemplo",
           "titulo": "Estrategias en acción",
-          "texto": "Tesis: «Hay que reducir el uso del celular en clase».\n• **Dato**: «Según una encuesta escolar, 7 de cada 10 alumnos se distraen con notificaciones».\n• **Cita de autoridad**: «La UNESCO advirtió sobre el uso excesivo de pantallas en las escuelas».\n• **Pregunta retórica**: «¿Podemos prestar atención si el teléfono vibra cada dos minutos?».\n• **Concesión**: «Es cierto que el celular puede ser útil para buscar información; sin embargo, sin reglas termina distrayendo»."
+          "texto": "Tesis: «Hay que reducir el uso del celular en clase».\n• **Dato**: «Según una encuesta escolar, 7 de cada 10 estudiantes se distraen con notificaciones».\n• **Cita de autoridad**: «La UNESCO advirtió sobre el uso excesivo de pantallas en las escuelas».\n• **Pregunta retórica**: «¿Podemos prestar atención si el teléfono vibra cada dos minutos?».\n• **Concesión**: «Es cierto que el celular puede ser útil para buscar información; sin embargo, sin reglas termina distrayendo»."
         },
         {
           "t": "destacado",
@@ -414,7 +414,7 @@
               "cat": "Dato"
             },
             {
-              "texto": "Uno de cada tres alumnos llega tarde los lunes",
+              "texto": "Uno de cada tres estudiantes llega tarde los lunes",
               "cat": "Dato"
             },
             {
@@ -438,7 +438,7 @@
         },
         {
           "t": "opcion",
-          "pregunta": "«Es cierto que el uniforme es incómodo; sin embargo, evita diferencias entre los alumnos». ¿Qué estrategia es?",
+          "pregunta": "«Es cierto que el uniforme es incómodo; sin embargo, evita diferencias entre estudiantes». ¿Qué estrategia es?",
           "opciones": [
             "Concesión",
             "Dato",
@@ -469,10 +469,10 @@
           "consigna": "Ordená este párrafo argumentativo para que tenga sentido.",
           "items": [
             "Los recreos deberían ser más largos.",
-            "En primer lugar, los alumnos necesitan descansar para volver a concentrarse.",
-            "Además, el recreo es un momento para compartir con los compañeros.",
+            "En primer lugar, los estudiantes necesitan descansar para volver a concentrarse.",
+            "Además, el recreo es un momento para compartir con compañeros y compañeras.",
             "Es cierto que se pierde tiempo de clase; sin embargo, se aprovecha mejor el que queda.",
-            "Por lo tanto, alargar el recreo beneficiaría a todos."
+            "Por lo tanto, alargar el recreo beneficiaría a toda la escuela."
           ],
           "explicacion": "Empieza con la tesis, siguen los argumentos unidos por conectores, una concesión y la conclusión.",
           "pista": "Fijate en los conectores: «en primer lugar», «además», «por lo tanto»."

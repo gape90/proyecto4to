@@ -124,7 +124,7 @@ export function montarClase(root, clase) {
       <div class="capsula-titulo"><div class="chip-icono">${i + 1}</div><div><h2 style="margin:0">${esc(cap.titulo)}</h2><span class="tiempo">${esc(cap.tiempo || '')}</span></div></div>
       <div class="subrayado"></div>
       <div class="recordas"><h3>🧠 Antes de empezar: ¿qué recordás?</h3>
-        <p>Este tema ya lo trabajaste en clase. Antes de leer, escribí lo que te acuerdes, aunque sea poco o no estés seguro. No se corrige: sirve para que conectes lo que ya sabés con lo que vas a aprender.</p>
+        <p>Este tema ya lo trabajaste en clase. Antes de leer, escribí lo que te acuerdes, aunque sea poco o tengas dudas. No se corrige: sirve para que conectes lo que ya sabés con lo que vas a aprender.</p>
         <p class="consigna-principal"><b>${esc(cap.recordas)}</b></p>
         <textarea id="rec" placeholder="Escribí lo que recuerdes…" style="min-height:100px"></textarea>
         <div class="acciones"><button class="btn" id="rec-ok">Listo, empezar</button><button class="btn sec chico" id="rec-no">No me acuerdo: empezar igual</button></div></div></div>`;

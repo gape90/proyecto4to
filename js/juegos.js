@@ -205,7 +205,7 @@ function juegoAutos(ui, cap) {
   ui.limpiar.push(() => clearInterval(tictac));
   const final = () => {
     terminado = true; clearInterval(tictac);
-    const res = yo > rival ? '🏁 ¡Ganaste la carrera!' : yo === rival ? '🤝 ¡Empate! Llegaron juntos.' : '🚙 Esta vez el rival llegó más lejos.';
+    const res = yo > rival ? '🏁 ¡Ganaste la carrera!' : yo === rival ? '🤝 ¡Empate! Llegaron a la par.' : '🚙 Esta vez el rival llegó más lejos.';
     ui.final(aciertos, items.length, `<p><b>${res}</b></p>`);
   };
   const pregunta = () => {
