@@ -1,0 +1,1131 @@
+{
+  "id": "mat-4-01",
+  "espacio": "matematica",
+  "eje": "Números y operaciones",
+  "titulo": "Números irracionales y aproximaciones",
+  "intro": "Hay números que no se pueden escribir como fracción. Vas a aprender a reconocerlos, a aproximarlos y a medir cuánto te equivocás al hacerlo.",
+  "tp_aporte": "Para tu trabajo práctico ya tenés: la definición de racional e irracional, cómo reconocer raíces exactas y no exactas, la diferencia entre redondear y truncar, y cómo acotar el error.",
+  "sugerencias_asistente": [
+    "¿Por qué √2 es irracional?",
+    "¿Cuándo una raíz es exacta?",
+    "¿Qué es el error absoluto?"
+  ],
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "Racionales e irracionales",
+      "tiempo": "12 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Dos familias de números",
+          "texto": "Un número **racional** es el que se puede escribir como una fracción de dos números enteros, con denominador distinto de cero. Por ejemplo, 3/4, −5, 0,25 o 1/3.\n\nSi lo escribís como decimal, un racional tiene **decimales finitos** (0,25) o **periódicos** (1/3 = 0,333…). Siempre aparece un final o un período que se repite."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Número irracional",
+          "texto": "Un número **irracional** NO se puede escribir como fracción de enteros. Su escritura decimal tiene **infinitos decimales que no se repiten en ningún período**. Ejemplos: √2, √3, π."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Para comparar",
+          "columnas": [
+            "",
+            "Racional",
+            "Irracional"
+          ],
+          "filas": [
+            [
+              "Se escribe como fracción",
+              "Sí",
+              "No"
+            ],
+            [
+              "Decimales",
+              "Finitos o periódicos",
+              "Infinitos y sin período"
+            ],
+            [
+              "Ejemplos",
+              "3/4; −5; 0,25; 0,333…",
+              "√2; √3; π"
+            ]
+          ]
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿0,333… es racional o irracional? ¿Por qué, si tiene infinitos decimales?",
+          "respuesta": "Es racional: aunque tiene infinitos decimales, se repite el período 3 y equivale a la fracción 1/3. Para ser irracional no alcanza con tener infinitos decimales: tienen que no repetirse."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada número es racional o irracional? Pensá si se puede escribir como fracción.",
+          "categorias": [
+            "Racional",
+            "Irracional"
+          ],
+          "items": [
+            {
+              "texto": "√9",
+              "cat": "Racional"
+            },
+            {
+              "texto": "√2",
+              "cat": "Irracional"
+            },
+            {
+              "texto": "0,75",
+              "cat": "Racional"
+            },
+            {
+              "texto": "π",
+              "cat": "Irracional"
+            },
+            {
+              "texto": "0,121212…",
+              "cat": "Racional"
+            },
+            {
+              "texto": "√7",
+              "cat": "Irracional"
+            }
+          ],
+          "explicacion": "√9 = 3 es entero, 0,75 = 3/4 y 0,121212… = 4/33 son racionales. √2, √7 y π no se pueden escribir como fracción."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Cuál de estas afirmaciones es correcta?",
+          "opciones": [
+            "Todo número con infinitos decimales es irracional.",
+            "Un irracional tiene infinitos decimales sin período.",
+            "Los irracionales son números muy grandes.",
+            "Un irracional se puede escribir como 1/n."
+          ],
+          "correcta": 1,
+          "explicacion": "Lo que define a un irracional es que no se puede escribir como fracción: sus decimales son infinitos y no periódicos.",
+          "pista": "Pensá en 0,333…: tiene infinitos decimales y es racional."
+        },
+        {
+          "t": "dato",
+          "texto": "Con las computadoras ya se calcularon más de 100 billones de decimales de π, y nunca apareció un período. Para la navegación interplanetaria más precisa, el Jet Propulsion Laboratory de la NASA usa solo 15 decimales."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá la diferencia entre un número racional y un número irracional, y cómo se distinguen mirando sus decimales. Incluí un ejemplo de cada uno.",
+        "claves": [
+          {
+            "k": [
+              "fraccion",
+              "cociente",
+              "razon"
+            ],
+            "p": "cómo se escribe un racional (fracción de enteros)"
+          },
+          {
+            "k": [
+              "periodic",
+              "finit"
+            ],
+            "p": "cómo son los decimales de un racional"
+          },
+          {
+            "k": [
+              "infinit"
+            ],
+            "p": "los infinitos decimales del irracional"
+          },
+          {
+            "k": [
+              "no periodic",
+              "sin periodo",
+              "no se repit",
+              "no tiene periodo",
+              "no repite"
+            ],
+            "p": "que en el irracional los decimales no se repiten"
+          },
+          {
+            "k": [
+              "√",
+              "raiz",
+              "pi",
+              "π"
+            ],
+            "p": "un ejemplo de irracional (por ejemplo una raíz o π)"
+          }
+        ],
+        "referencia": "Racional: fracción de enteros; decimales finitos o periódicos. Irracional: no es fracción; infinitos decimales sin período. Ejemplos: 3/4 y √2.",
+        "guia": [
+          "¿Qué número se puede escribir como fracción de enteros?",
+          "¿Cómo son los decimales de un racional? ¿Y los de un irracional?",
+          "¿Por qué 0,333… es racional aunque tenga infinitos decimales?",
+          "¿Qué ejemplo de irracional conocés?"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El número 0,25 es racional.",
+          "respuesta": true,
+          "explicacion": "0,25 = 1/4."
+        },
+        {
+          "tipo": "vf",
+          "texto": "√2 se puede escribir como fracción de dos enteros.",
+          "respuesta": false,
+          "explicacion": "√2 es irracional: no existe esa fracción."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Si un número tiene infinitos decimales, siempre es irracional.",
+          "respuesta": false,
+          "explicacion": "0,333… tiene infinitos decimales y es racional (1/3), porque se repite."
+        },
+        {
+          "tipo": "vf",
+          "texto": "π es un número irracional.",
+          "respuesta": true,
+          "explicacion": "Sus decimales son infinitos y no tienen período."
+        },
+        {
+          "tipo": "vf",
+          "texto": "√16 es irracional.",
+          "respuesta": false,
+          "explicacion": "√16 = 4, que es entero."
+        },
+        {
+          "tipo": "vf",
+          "texto": "0,121212… es un número racional.",
+          "respuesta": true,
+          "explicacion": "Tiene período 12 y equivale a 4/33."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estos números es irracional?",
+          "opciones": [
+            "√25",
+            "√3",
+            "0,5",
+            "7/9"
+          ],
+          "correcta": 1,
+          "explicacion": "√25 = 5, 0,5 = 1/2 y 7/9 son racionales; √3 no es exacta."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "Un número racional escrito en decimal tiene…",
+          "opciones": [
+            "decimales finitos o periódicos",
+            "infinitos decimales sin período",
+            "solo un decimal",
+            "siempre parte entera cero"
+          ],
+          "correcta": 0,
+          "explicacion": "Finitos (0,25) o periódicos (0,333…)."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estas es una fracción equivalente a 0,75?",
+          "opciones": [
+            "3/4",
+            "7/5",
+            "1/75",
+            "5/7"
+          ],
+          "correcta": 0,
+          "explicacion": "0,75 = 75/100 = 3/4."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "Un número irracional es aquel que…",
+          "opciones": [
+            "no se puede escribir como fracción de enteros",
+            "es negativo",
+            "es muy grande",
+            "tiene un solo decimal"
+          ],
+          "correcta": 0,
+          "explicacion": "Esa es la definición."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es racional?",
+          "opciones": [
+            "π",
+            "√5",
+            "√81",
+            "√10"
+          ],
+          "correcta": 2,
+          "explicacion": "√81 = 9."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "0,666… es igual a…",
+          "opciones": [
+            "2/3",
+            "6/10",
+            "1/6",
+            "irracional"
+          ],
+          "correcta": 0,
+          "explicacion": "Es periódico puro de período 6: equivale a 2/3."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "IRRACIONAL",
+          "pista": "Número que no se puede escribir como fracción de enteros."
+        },
+        {
+          "palabra": "RACIONAL",
+          "pista": "Número que se puede escribir como fracción de dos enteros."
+        },
+        {
+          "palabra": "PERIÓDICO",
+          "pista": "Decimal en el que se repite un grupo de cifras, como 0,333…"
+        },
+        {
+          "palabra": "FRACCIÓN",
+          "pista": "Forma a/b en la que se puede escribir todo número racional."
+        },
+        {
+          "palabra": "DECIMALES",
+          "pista": "En un irracional son infinitos y no se repiten."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Raíces enésimas: exactas o no",
+      "tiempo": "12 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Qué es una raíz enésima",
+          "texto": "La raíz cuadrada √a busca un número que elevado al cuadrado dé a. La **raíz enésima** generaliza la idea: ∛a (raíz cúbica) busca un número que elevado al cubo dé a; ∜a (raíz cuarta), uno que elevado a la 4 dé a; y así."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Raíces exactas",
+          "texto": "√49 = 7 porque 7² = 49.\n∛27 = 3 porque 3³ = 27.\n∜16 = 2 porque 2⁴ = 16.\nEn estos casos la raíz es un número **entero**, así que es racional."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Raíz no exacta",
+          "texto": "Si el número no es potencia perfecta, la raíz es **irracional**. Por ejemplo √50 (no hay ningún entero que al cuadrado dé 50) o ∛10."
+        },
+        {
+          "t": "pasos",
+          "titulo": "¿√a es racional o irracional?",
+          "pasos": [
+            {
+              "titulo": "Buscá cuadrados perfectos cercanos",
+              "texto": "Para √50: 7² = 49 y 8² = 64."
+            },
+            {
+              "titulo": "Compará",
+              "texto": "50 está entre 49 y 64, y no es ninguno de los dos."
+            },
+            {
+              "titulo": "Concluí",
+              "texto": "Como 50 no es un cuadrado perfecto, √50 no es exacta: es **irracional** y vale entre 7 y 8."
+            }
+          ]
+        },
+        {
+          "t": "verificar",
+          "consigna": "Calculá ∛125 (la raíz cúbica de 125).",
+          "respuesta": "5",
+          "explicacion": "5³ = 125.",
+          "pista": "Buscá un número que multiplicado tres veces por sí mismo dé 125."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿La raíz es exacta (racional) o no exacta (irracional)? Calculala o buscá entre qué enteros está.",
+          "categorias": [
+            "Exacta (racional)",
+            "No exacta (irracional)"
+          ],
+          "items": [
+            {
+              "texto": "√144",
+              "cat": "Exacta (racional)"
+            },
+            {
+              "texto": "√50",
+              "cat": "No exacta (irracional)"
+            },
+            {
+              "texto": "∛8",
+              "cat": "Exacta (racional)"
+            },
+            {
+              "texto": "∛10",
+              "cat": "No exacta (irracional)"
+            },
+            {
+              "texto": "∜81",
+              "cat": "Exacta (racional)"
+            },
+            {
+              "texto": "√20",
+              "cat": "No exacta (irracional)"
+            }
+          ],
+          "explicacion": "√144 = 12, ∛8 = 2 y ∜81 = 3 son exactas. √50, ∛10 y √20 no lo son."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "√50 es un número que está…",
+          "opciones": [
+            "entre 6 y 7",
+            "entre 7 y 8",
+            "entre 8 y 9",
+            "entre 25 y 26"
+          ],
+          "correcta": 1,
+          "explicacion": "7² = 49 y 8² = 64, así que √50 está entre 7 y 8 (vale unos 7,07).",
+          "pista": "Elevá al cuadrado los números enteros y mirá entre cuáles queda el 50."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá cómo te das cuenta de si una raíz es exacta o no, y por qué una raíz exacta es racional y una no exacta es irracional. Usá un ejemplo de cada caso.",
+        "claves": [
+          {
+            "k": [
+              "exacta",
+              "entero"
+            ],
+            "p": "que la exacta da un número entero"
+          },
+          {
+            "k": [
+              "potencia perfecta",
+              "cuadrado perfecto",
+              "cubo perfecto",
+              "elevad",
+              "al cuadrado",
+              "al cubo",
+              "²",
+              "³"
+            ],
+            "p": "cómo comprobás con una potencia"
+          },
+          {
+            "k": [
+              "irracional"
+            ],
+            "p": "que la raíz no exacta es irracional"
+          },
+          {
+            "k": [
+              "racional"
+            ],
+            "p": "que la exacta es racional"
+          }
+        ],
+        "referencia": "∛27 = 3 porque 3³ = 27 (racional). √50 no es exacta: está entre 7 y 8 porque 50 no es cuadrado perfecto (irracional).",
+        "guia": [
+          "¿Qué tiene que pasar con el radicando para que la raíz sea exacta?",
+          "¿Cómo comprobás una raíz con una potencia? (por ejemplo, ∛27 = 3 porque…)",
+          "¿Entre qué enteros está √50 y cómo te diste cuenta?",
+          "¿Qué tipo de número es cada una de tus raíces?"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "∛27 = 3.",
+          "respuesta": true,
+          "explicacion": "3 · 3 · 3 = 27."
+        },
+        {
+          "tipo": "vf",
+          "texto": "√50 es un número entero.",
+          "respuesta": false,
+          "explicacion": "Está entre 7 y 8: es irracional."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Si el radicando es un cuadrado perfecto, la raíz cuadrada es racional.",
+          "respuesta": true,
+          "explicacion": "Por ejemplo √36 = 6."
+        },
+        {
+          "tipo": "vf",
+          "texto": "∜16 = 4.",
+          "respuesta": false,
+          "explicacion": "∜16 = 2 porque 2⁴ = 16."
+        },
+        {
+          "tipo": "vf",
+          "texto": "∛10 es racional.",
+          "respuesta": false,
+          "explicacion": "10 no es un cubo perfecto."
+        },
+        {
+          "tipo": "vf",
+          "texto": "√(9/4) = 3/2.",
+          "respuesta": true,
+          "explicacion": "(3/2)² = 9/4, así que la raíz es racional."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuánto vale ∛64?",
+          "opciones": [
+            "4",
+            "8",
+            "16",
+            "21"
+          ],
+          "correcta": 0,
+          "explicacion": "4³ = 64."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "√20 está entre…",
+          "opciones": [
+            "3 y 4",
+            "4 y 5",
+            "5 y 6",
+            "9 y 10"
+          ],
+          "correcta": 1,
+          "explicacion": "4² = 16 y 5² = 25."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es irracional?",
+          "opciones": [
+            "√100",
+            "∛27",
+            "√30",
+            "∜1"
+          ],
+          "correcta": 2,
+          "explicacion": "30 no es cuadrado perfecto."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuánto vale ⁵√32?",
+          "opciones": [
+            "2",
+            "4",
+            "6",
+            "16"
+          ],
+          "correcta": 0,
+          "explicacion": "2⁵ = 32."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estas raíces es exacta?",
+          "opciones": [
+            "√15",
+            "∛9",
+            "√64",
+            "∜10"
+          ],
+          "correcta": 2,
+          "explicacion": "√64 = 8."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "Para saber si √a es exacta conviene…",
+          "opciones": [
+            "buscar si a es un cuadrado perfecto",
+            "dividir a por 2",
+            "sumar las cifras de a",
+            "mirar si a es par"
+          ],
+          "correcta": 0,
+          "explicacion": "Si a es cuadrado perfecto, la raíz es un entero."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "EXACTA",
+          "pista": "Raíz que da un número entero, como √49."
+        },
+        {
+          "palabra": "CÚBICA",
+          "pista": "Raíz que busca un número que, elevado al cubo, dé el radicando."
+        },
+        {
+          "palabra": "ENÉSIMA",
+          "pista": "Raíz que generaliza a la cuadrada y a la cúbica."
+        },
+        {
+          "palabra": "CUADRADO PERFECTO",
+          "pista": "Número como 49 o 64, que es el cuadrado de un entero."
+        },
+        {
+          "palabra": "POTENCIA",
+          "pista": "Si el número no es una ___ perfecta, la raíz es irracional."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Aproximar: redondear y truncar",
+      "tiempo": "14 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "¿Para qué aproximamos?",
+          "texto": "Como un irracional tiene infinitos decimales, en la práctica trabajamos con una **aproximación**: usamos una cantidad de decimales que alcance para lo que necesitamos. Hay dos maneras de aproximar."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Dos formas de aproximar",
+          "columnas": [
+            "",
+            "Truncar",
+            "Redondear"
+          ],
+          "filas": [
+            [
+              "Qué hace",
+              "Corta y descarta las cifras que siguen",
+              "Mira la cifra siguiente: si es 5 o más, sube la última cifra"
+            ],
+            [
+              "π a 3 decimales",
+              "3,141",
+              "3,142"
+            ],
+            [
+              "√5 a 2 decimales",
+              "2,23",
+              "2,24"
+            ]
+          ]
+        },
+        {
+          "t": "ecuacion",
+          "titulo": "Valores que vas a usar",
+          "formula": "√2 = 1,41421356…   π = 3,14159265…   √5 = 2,23606797…",
+          "texto": "Fijate en π: después de 3,141 viene un 5, por eso al redondear a 3 decimales sube a 3,142."
+        },
+        {
+          "t": "sim",
+          "sim": "aproximador",
+          "titulo": "Probá con distintos decimales",
+          "numeros": [
+            "raiz2",
+            "pi",
+            "raiz5"
+          ]
+        },
+        {
+          "t": "verificar",
+          "consigna": "Redondeá π a 3 decimales. (π = 3,14159265…)",
+          "respuesta": "3.142",
+          "tolerancia": 1e-05,
+          "explicacion": "La cifra siguiente es 5, así que el 1 sube a 2.",
+          "pista": "Mirá la cuarta cifra decimal: si es 5 o más, la anterior sube."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Truncá √5 a 2 decimales. (√5 = 2,23606797…)",
+          "respuesta": "2.23",
+          "tolerancia": 1e-05,
+          "explicacion": "Truncar es cortar: se descartan las cifras que siguen sin mirar.",
+          "pista": "Cortá después del segundo decimal."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "√5 = 2,23606797… Al redondear a 2 decimales se obtiene 2,24 y al truncar 2,23. ¿Por qué cambia?",
+          "opciones": [
+            "Al redondear se mira la cifra siguiente (6) y se sube la última",
+            "Porque truncar siempre baja 1 centésimo",
+            "Porque √5 cambia de valor",
+            "Es un error de la calculadora"
+          ],
+          "correcta": 0,
+          "explicacion": "Al redondear, como la cifra que sigue (6) es 5 o más, el 3 pasa a 4. Al truncar se corta sin mirar."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá la diferencia entre truncar y redondear, y mostrala aproximando √5 = 2,23606797… a 2 decimales con cada método.",
+        "claves": [
+          {
+            "k": [
+              "cort",
+              "descart",
+              "sin mirar",
+              "elimin"
+            ],
+            "p": "qué hace truncar (corta sin mirar la cifra siguiente)"
+          },
+          {
+            "k": [
+              "cifra siguiente",
+              "siguiente",
+              "5 o mas",
+              "mayor o igual a 5",
+              "sube",
+              "aument"
+            ],
+            "p": "qué hace redondear (mira la cifra siguiente)"
+          },
+          {
+            "k": [
+              "2.23",
+              "2,23"
+            ],
+            "p": "el resultado de truncar √5 a 2 decimales"
+          },
+          {
+            "k": [
+              "2.24",
+              "2,24"
+            ],
+            "p": "el resultado de redondear √5 a 2 decimales"
+          }
+        ],
+        "referencia": "Truncar: se corta sin mirar. √5 ≈ 2,23. Redondear: se mira la cifra siguiente; si es 5 o más, sube. √5 ≈ 2,24.",
+        "guia": [
+          "¿Por qué tenemos que aproximar los números irracionales?",
+          "¿Qué hacés con las cifras que siguen cuando truncás?",
+          "¿Qué cifra mirás para redondear y qué regla usás?",
+          "¿Qué resultado da cada método con √5?"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Truncar √5 a 2 decimales da 2,23.",
+          "respuesta": true,
+          "explicacion": "√5 = 2,236…: se corta después del 3."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Redondear π a 3 decimales da 3,141.",
+          "respuesta": false,
+          "explicacion": "Da 3,142: la cifra siguiente es 5 y sube."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Al redondear se mira la cifra siguiente a la que se conserva.",
+          "respuesta": true,
+          "explicacion": "Si es 5 o más, la última cifra sube una unidad."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Truncar y redondear siempre dan el mismo resultado.",
+          "respuesta": false,
+          "explicacion": "Pueden coincidir, pero no siempre, como en π con 3 decimales."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con más decimales llegás al valor exacto de √2.",
+          "respuesta": false,
+          "explicacion": "Te acercás cada vez más, pero nunca llegás: √2 tiene infinitos decimales."
+        },
+        {
+          "tipo": "vf",
+          "texto": "√2 redondeado a 2 decimales es 1,41.",
+          "respuesta": true,
+          "explicacion": "√2 = 1,414…: la cifra siguiente es 4."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo queda π = 3,14159265… redondeado a 2 decimales?",
+          "opciones": [
+            "3,14",
+            "3,15",
+            "3,141",
+            "3,1"
+          ],
+          "correcta": 0,
+          "explicacion": "La cifra siguiente es 1: no sube."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo queda √5 redondeado a 1 decimal? (√5 = 2,236…)",
+          "opciones": [
+            "2,2",
+            "2,3",
+            "2,24",
+            "2,4"
+          ],
+          "correcta": 0,
+          "explicacion": "La cifra siguiente es 3: no sube."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "Truncar significa…",
+          "opciones": [
+            "cortar las cifras que siguen",
+            "sumar 1 a la última cifra",
+            "elevar al cuadrado",
+            "pasar a fracción"
+          ],
+          "correcta": 0,
+          "explicacion": "Se descartan las demás cifras sin mirarlas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "√3 = 1,7320508… Redondeado a 3 decimales es…",
+          "opciones": [
+            "1,732",
+            "1,733",
+            "1,73",
+            "1,7321"
+          ],
+          "correcta": 0,
+          "explicacion": "La cifra siguiente es 0."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la mejor aproximación de π con 2 decimales?",
+          "opciones": [
+            "3,14",
+            "3,12",
+            "3,41",
+            "3,24"
+          ],
+          "correcta": 0,
+          "explicacion": "π = 3,14159…"
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "Si la cifra siguiente es 5 o más, al redondear…",
+          "opciones": [
+            "la última cifra conservada sube 1",
+            "la última cifra queda igual",
+            "se borra el número",
+            "se pasa a fracción"
+          ],
+          "correcta": 0,
+          "explicacion": "Esa es la regla del redondeo."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "TRUNCAR",
+          "pista": "Cortar el número y descartar las cifras que siguen."
+        },
+        {
+          "palabra": "REDONDEAR",
+          "pista": "Aproximar mirando la cifra siguiente: si es 5 o más, sube la última."
+        },
+        {
+          "palabra": "APROXIMACIÓN",
+          "pista": "Valor cercano que usamos porque un irracional tiene infinitos decimales."
+        },
+        {
+          "palabra": "CINCO",
+          "pista": "Si la cifra siguiente es ___ o más, la última cifra sube al redondear."
+        },
+        {
+          "palabra": "CIFRA",
+          "pista": "Cada uno de los dígitos de un número."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "titulo": "Acotar el error",
+      "tiempo": "14 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "¿Cuánto me equivoco?",
+          "texto": "Cuando aproximás, te equivocás un poquito. Esa diferencia se llama **error absoluto**: es la distancia entre el valor real y el aproximado."
+        },
+        {
+          "t": "ecuacion",
+          "titulo": "Error absoluto",
+          "formula": "error = | valor real − valor aproximado |",
+          "texto": "Se usa el valor absoluto para que el error nunca sea negativo."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Ejemplo con π",
+          "texto": "π = 3,14159265… y lo aproximamos por 3,14.\nError = | 3,14159265… − 3,14 | = 0,00159265…\nPodemos **acotar**: 3,14 < π < 3,15. Es decir, π está entre dos valores conocidos."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Cuántos decimales usar",
+          "texto": "El error al truncar es menor que una unidad del último decimal que dejás. Si truncás a 3 decimales, el error es menor que 0,001. Elegís los decimales según **cuánta precisión pide la situación**."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Calculá el error absoluto al aproximar √2 = 1,41421356… por 1,41. Escribilo con 4 decimales.",
+          "respuesta": "0.0042",
+          "tolerancia": 6e-05,
+          "explicacion": "| 1,41421356… − 1,41 | = 0,00421356…, que con 4 decimales es 0,0042.",
+          "pista": "Restá el valor aproximado al real: 1,41421356 − 1,41."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "Querés cortar el lado diagonal de un cuadrado de 1 m de lado (mide √2 m) con un error menor a 1 mm (0,001 m). Si truncás, ¿cuántos decimales (en metros) necesitás como mínimo?",
+          "opciones": [
+            "1 decimal",
+            "2 decimales",
+            "3 decimales",
+            "6 decimales"
+          ],
+          "correcta": 2,
+          "explicacion": "Al truncar a 3 decimales (1,414 m) el error es menor que 0,001 m = 1 mm.",
+          "pista": "1 mm es 0,001 m: es la unidad del tercer decimal."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Con la calculadora, √2 ≈ 1,414213562. Truncada a 3 decimales da 1,414. ¿Cuál es el error aproximado en milímetros? (error en metros × 1000, redondeá a 1 decimal)",
+          "respuesta": "0.2",
+          "tolerancia": 0.051,
+          "explicacion": "El error es 0,000213… m, o sea unos 0,2 mm: menor a 1 mm, como se pedía.",
+          "pista": "Restá 1,414213562 − 1,414 y pasalo de metros a milímetros."
+        },
+        {
+          "t": "dato",
+          "texto": "La calculadora no te da √2 exacto: te muestra una aproximación con los decimales que entran en su pantalla. Por eso es importante entender cuánto error estás aceptando."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué es el error absoluto, cómo se calcula y cómo se eligen los decimales según la precisión que pide una situación. Usá el ejemplo de √2 aproximado por 1,41.",
+        "claves": [
+          {
+            "k": [
+              "diferencia",
+              "distancia",
+              "resta",
+              "real",
+              "aproximado"
+            ],
+            "p": "que el error es la diferencia entre el valor real y el aproximado"
+          },
+          {
+            "k": [
+              "absoluto",
+              "| ",
+              "|"
+            ],
+            "p": "el valor absoluto del error"
+          },
+          {
+            "k": [
+              "0.0042",
+              "0,0042",
+              "0.004",
+              "0,004"
+            ],
+            "p": "el resultado del ejemplo con √2"
+          },
+          {
+            "k": [
+              "acot",
+              "entre",
+              "<"
+            ],
+            "p": "qué es acotar"
+          },
+          {
+            "k": [
+              "3 decimales",
+              "tres decimales",
+              "0.001",
+              "0,001"
+            ],
+            "p": "cuántos decimales para un error menor que 0,001"
+          }
+        ],
+        "referencia": "Error absoluto = |real − aproximado|. |√2 − 1,41| ≈ 0,0042. Acotar: 3,14 < π < 3,15. Para un error menor que 0,001 se truncan 3 decimales.",
+        "guia": [
+          "¿Qué fórmula usás para el error absoluto y por qué lleva valor absoluto?",
+          "¿Cuánto da el error al aproximar √2 por 1,41?",
+          "¿Qué significa acotar un número? Mostralo con π.",
+          "Si necesitás un error menor que 0,001, ¿cuántos decimales usás al truncar?"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El error absoluto se calcula como |valor real − valor aproximado|.",
+          "respuesta": true,
+          "explicacion": "Es la distancia entre ambos valores."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El error absoluto puede ser negativo.",
+          "respuesta": false,
+          "explicacion": "Se usa valor absoluto: siempre es mayor o igual que 0."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Al truncar a 3 decimales el error es menor que 0,001.",
+          "respuesta": true,
+          "explicacion": "Se descartan cifras que suman menos que una milésima."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con 3,14 como aproximación de π, vale que 3,14 < π < 3,15.",
+          "respuesta": true,
+          "explicacion": "π = 3,14159…"
+        },
+        {
+          "tipo": "vf",
+          "texto": "Usar más decimales siempre hace falta, aunque la situación no lo pida.",
+          "respuesta": false,
+          "explicacion": "Se eligen los decimales según la precisión que necesita la situación."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Lo que muestra la calculadora de √2 es el valor exacto.",
+          "respuesta": false,
+          "explicacion": "Es una aproximación: √2 tiene infinitos decimales."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "Si √2 ≈ 1,414 y el valor real es 1,41421356…, ¿el error es aproximadamente…?",
+          "opciones": [
+            "0,0002",
+            "0,02",
+            "0,2",
+            "0,0000002"
+          ],
+          "correcta": 0,
+          "explicacion": "1,41421356 − 1,414 = 0,00021356."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "Acotar un número significa…",
+          "opciones": [
+            "encontrar valores entre los que está",
+            "redondearlo a entero",
+            "pasarlo a fracción",
+            "elevarlo al cuadrado"
+          ],
+          "correcta": 0,
+          "explicacion": "Por ejemplo 3,14 < π < 3,15."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "Para un error menor que 0,01 al truncar, usás…",
+          "opciones": [
+            "2 decimales",
+            "1 decimal",
+            "5 decimales",
+            "ninguno"
+          ],
+          "correcta": 0,
+          "explicacion": "El error al truncar a 2 decimales es menor que 0,01."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "El error absoluto de aproximar π (3,14159…) por 3,14 es…",
+          "opciones": [
+            "0,00159…",
+            "0,159…",
+            "0,0159…",
+            "3,14"
+          ],
+          "correcta": 0,
+          "explicacion": "3,14159… − 3,14 = 0,00159…"
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "En la barra de la calculadora ves √3 = 1,732050808. ¿Qué es eso?",
+          "opciones": [
+            "Una aproximación",
+            "El valor exacto",
+            "Un número racional exacto",
+            "Un error de cálculo"
+          ],
+          "correcta": 0,
+          "explicacion": "√3 tiene infinitos decimales: la pantalla muestra solo algunos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estas aproximaciones de √2 tiene menor error?",
+          "opciones": [
+            "1,4142",
+            "1,41",
+            "1,4",
+            "1"
+          ],
+          "correcta": 0,
+          "explicacion": "Tiene más decimales correctos: está más cerca del valor real."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "ERROR",
+          "pista": "Diferencia entre el valor real y el valor aproximado."
+        },
+        {
+          "palabra": "ABSOLUTO",
+          "pista": "Valor ___: hace que el error nunca sea negativo."
+        },
+        {
+          "palabra": "ACOTAR",
+          "pista": "Encontrar dos valores entre los que está un número."
+        },
+        {
+          "palabra": "PRECISIÓN",
+          "pista": "Elegís cuántos decimales usar según la ___ que pide la situación."
+        },
+        {
+          "palabra": "MILÍMETRO",
+          "pista": "Unidad que equivale a 0,001 m."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Racional",
+      "definicion": "Número que se puede escribir como fracción de dos enteros. Sus decimales son finitos o periódicos."
+    },
+    {
+      "palabra": "Irracional",
+      "definicion": "Número que no se puede escribir como fracción. Tiene infinitos decimales sin período."
+    },
+    {
+      "palabra": "Raíz enésima",
+      "definicion": "Número que elevado a la n da el radicando. Por ejemplo, ∛27 = 3."
+    },
+    {
+      "palabra": "Truncar",
+      "definicion": "Cortar un número en cierto decimal, descartando las cifras que siguen."
+    },
+    {
+      "palabra": "Redondear",
+      "definicion": "Aproximar mirando la cifra siguiente: si es 5 o más, sube la última cifra."
+    },
+    {
+      "palabra": "Error absoluto",
+      "definicion": "Distancia entre el valor real y el aproximado: |real − aproximado|."
+    },
+    {
+      "palabra": "Acotar",
+      "definicion": "Encontrar dos valores entre los cuales está un número."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "Si tiene infinitos decimales, es irracional.",
+      "aclaracion": "0,333… tiene infinitos decimales y es racional. El irracional además no repite ningún período."
+    },
+    {
+      "error": "Redondear y truncar son lo mismo.",
+      "aclaracion": "Truncar corta sin mirar; redondear mira la cifra siguiente."
+    },
+    {
+      "error": "La calculadora da el valor exacto de √2.",
+      "aclaracion": "Da una aproximación con los decimales que entran en pantalla."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "Si √2 es irracional y la diagonal de un cuadrado de 1 m de lado mide exactamente √2 m, ¿se puede medir con una regla esa diagonal con total exactitud? Pensá qué es medir en la práctica y qué es la medida en matemática.",
+    "conexion": "Eso se conecta con el próximo tema: números reales e inconmensurabilidad."
+  }
+}

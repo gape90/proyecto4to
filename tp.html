@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mi trabajo práctico · Potenciar</title>
+<link rel="stylesheet" href="css/potenciar.css">
+</head>
+<body>
+<div id="cab"></div>
+<main class="contenedor ancho"><div id="tp"><p class="ayuda">Cargando…</p></div></main>
+<script type="module">
+import { cargarJSON, cabecera, esc, leer } from './js/estado.js';
+import { montarTP } from './js/tp.js';
+import { montarAsistente } from './js/asistente.js';
+
+document.getElementById('cab').innerHTML = cabecera({ volver: { href: 'recorrido.html', texto: 'Mi recorrido' } });
+try {
+  const e = leer();
+  const esp = new URLSearchParams(location.search).get('e') || e.espacio;
+  if (!/^[a-z0-9-]+$/.test(esp || '')) throw new Error('Espacio no válido');
+  const [tp, oral, cat] = await Promise.all([cargarJSON(`contenidos/tp/${esp}.json`), cargarJSON('contenidos/tp/oral.json'), cargarJSON('contenidos/catalogo.json')]);
+  const contenidos = (cat.contenidos[esp] || []).filter(c => e.seleccion.includes(c.id) && c.activo);
+  if (!contenidos.length) throw new Error('Primero elegí los contenidos que querés trabajar.');
+  // Clases de los contenidos elegidos: el TP muestra lo que el alumno ya escribió en su carpeta
+  const clases = {};
+  for (const c of contenidos) if (c.clase) { try { clases[c.id] = await cargarJSON(`contenidos/clases/${c.clase}.json`); } catch {} }
+  montarTP({ root: document.getElementById('tp'), tp, oral, contenidos, clases, espacio: esp });
+  montarAsistente({
+    contexto: `Estás ayudando con el trabajo práctico de ${tp.titulo}. Contenidos del estudiante: ${contenidos.map(c => c.titulo + ' (' + c.desglose.join('; ') + ')').join(' | ')}. Orientá sobre cómo armar un buen trabajo práctico y cómo prepararse para presentarlo y defenderlo, y explicá conceptos de esos contenidos. No escribas partes del trabajo por él.`,
+    vocabulario: [],
+    sugerencias: ['¿Cómo empiezo la introducción?', '¿Cómo me preparo para defender mi trabajo?', '¿Qué es integrar contenidos?'],
+  });
+} catch (err) {
+  document.getElementById('tp').innerHTML = `<div class="tarjeta"><b>No se pudo abrir el trabajo práctico.</b><br>${esc(err.message)}<br><a href="recorrido.html">Volver a mi recorrido</a></div>`;
+}
+</script>
+</body>
+</html>

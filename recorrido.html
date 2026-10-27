@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mi recorrido · Potenciar</title>
+<link rel="stylesheet" href="css/potenciar.css">
+</head>
+<body>
+<div id="cab"></div>
+<main class="contenedor">
+  <div id="cuerpo"></div>
+</main>
+<div class="pie">Potenciar · Tu avance se guarda solo en este dispositivo. No se envía nada a tu docente: el trabajo lo presentás y lo defendés vos.</div>
+<script type="module">
+import { leer, actualizar, reiniciar, esc, cargarJSON, cabecera, progresoClase, dudas, tpDe } from './js/estado.js';
+import { AJUSTES } from './js/config.js';
+
+const e = leer();
+if (!e.alumno.nombre || !e.espacio || !e.seleccion.length) location.replace('index.html');
+document.getElementById('cab').innerHTML = cabecera({ volver: { href: 'index.html', texto: 'Cambiar mis datos' } });
+
+const cat = await cargarJSON('contenidos/catalogo.json');
+const espacio = cat.espacios.find(s => s.id === e.espacio);
+const contenidos = cat.contenidos[e.espacio].filter(c => e.seleccion.includes(c.id) && c.clase);
+const clases = [];
+for (const c of contenidos) {
+  try { clases.push({ c, clase: await cargarJSON(`contenidos/clases/${c.clase}.json`) }); }
+  catch { clases.push({ c, clase: null }); }
+}
+
+let todoCompleto = true, html = '';
+clases.forEach(({ c, clase }, i) => {
+  if (!clase) { html += `<div class="paso-rec bloqueado"><div class="num">${i + 1}</div><div><h3>${esc(c.titulo)}</h3><p>Esta clase todavía no está disponible.</p></div></div>`; todoCompleto = false; return; }
+  const p = progresoClase(e, clase);
+  if (p.pct < 100) todoCompleto = false;
+  const estado = p.pct === 100 ? 'completo' : '';
+  html += `<div class="paso-rec ${estado}">
+    <div class="num">${p.pct === 100 ? '✓' : i + 1}</div>
+    <div><h3>${esc(c.titulo)}</h3><p>${esc(c.eje)} · ${p.total} cápsulas · ${p.hechas} de ${p.total} hechas</p>
+    <div class="barra"><i style="width:${p.pct}%"></i></div></div>
+    <a class="btn" href="clase.html?c=${c.clase}">${p.pct === 100 ? 'Repasar' : p.hechas ? 'Seguir' : 'Empezar'}</a></div>`;
+});
+
+const tpAbierto = todoCompleto || AJUSTES.TP_LIBRE;
+const secc = tpDe(e, e.espacio).secciones;
+const tpTotal = 8 + contenidos.length + (e.espacio === 'matematica' ? 1 : 0);
+const tpHechas = Object.entries(secc).filter(([k, s]) => k !== 'final' && (s.estado === 'ok' || s.estado === 'duda')).length;
+const tpEmpezado = Object.values(secc).some(s => s.texto || s.estado === 'ok');
+html += `<div class="paso-rec tp ${tpAbierto ? '' : 'bloqueado'}">
+  <div class="num">★</div>
+  <div><h3>Mi trabajo práctico y la defensa</h3>
+  <p>${tpAbierto ? 'Armás tu trabajo práctico completo, lo relacionás con la realidad y te preparás para presentarlo y defenderlo.' : 'Se habilita cuando termines todas las clases de arriba.'}</p>
+  ${tpEmpezado ? `<div class="barra"><i style="width:${Math.min(100, Math.round(tpHechas / tpTotal * 100))}%"></i></div>` : ''}</div>
+  ${tpAbierto ? `<a class="btn" href="tp.html?e=${e.espacio}">${tpEmpezado ? 'Seguir' : 'Empezar'}</a>` : '<span class="ayuda">🔒</span>'}
+</div>`;
+
+const dd = dudas(e);
+const dudasHtml = dd.length ? `<div class="tarjeta lavanda"><h3>📌 Para llevar a la consulta de febrero</h3>
+  <p class="ayuda">Estas partes te costaron. Anotalas en tu carpeta y consultalas con tu profesor o profesora en las clases de consulta presenciales.</p>
+  <ul>${dd.map(x => `<li>${esc(x.nombre)}</li>`).join('')}</ul></div>` : '';
+
+document.getElementById('cuerpo').innerHTML = `
+  <div class="clase-cab"><div class="eje-nombre">${esc(espacio.nombre)} · 4.º año</div>
+  <h1>Hola, ${esc(e.alumno.nombre.split(' ')[0])}. Este es tu recorrido</h1>
+  <p>Completá las clases en orden. En cada cápsula aprendés, practicás y anotás en tu carpeta. Al final armás el trabajo práctico que vas a presentar y defender.</p></div>
+  <div class="recorrido">${html}</div>
+  <div style="margin-top:24px">${dudasHtml}</div>
+  <div class="acciones no-print"><button class="btn suave chico" id="reset">Borrar mi avance en este dispositivo</button></div>`;
+
+document.getElementById('reset').onclick = () => {
+  if (confirm('¿Seguro? Se borra todo tu avance guardado en este dispositivo.')) { reiniciar(); location.href = 'index.html'; }
+};
+</script>
+</body>
+</html>

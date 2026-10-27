@@ -1,0 +1,180 @@
+{
+  "espacio": "historia",
+  "titulo": "Mi trabajo práctico de Historia",
+  "intro": "En un buen trabajo práctico de Historia no alcanza con enumerar fechas: tenés que explicar por qué pasaron las cosas, quiénes participaron, qué cambió y qué continuó, y relacionarlo con el presente. Eso es lo que vas a presentar y defender.",
+  "claves_contenido": {
+    "h1": ["saenz pena", "1912", "yrigoyen", "alvear", "radical", "ucr", "sectores medios", "semana tragica", "reforma universitaria", "primera guerra", "1916"],
+    "h2": ["nacionalis", "fascis", "nazis", "mussolini", "hitler", "liga patriotica", "lugones", "forja", "entreguerras", "autoritar"],
+    "h3": ["1929", "gran depresion", "wall street", "1930", "golpe", "decada infame", "fraude", "industrializacion", "sustitu", "isi", "migraci", "banco central"],
+    "h4": ["peron", "peronismo", "17 de octubre", "1946", "secretaria de trabajo", "aguinaldo", "vacaciones", "voto femenino", "eva", "planes quinquenales", "nacionaliz", "democracia de masas", "justicia social", "1955"]
+  },
+  "portada": {
+    "instruccion": "Escribí la introducción de tu trabajo: presentá el período de la historia argentina que abarca, los temas que incluye y por qué te parece importante conocerlos.",
+    "guia": [
+      "¿Entre qué años transcurre lo que vas a contar?",
+      "¿Qué temas incluye tu trabajo y en qué orden los vas a presentar?",
+      "¿Por qué sirve conocer este período para entender la Argentina de hoy?"
+    ],
+    "claves": [
+      { "k": ["trabajo trata", "este trabajo", "trata sobre", "presento", "voy a"], "p": "de qué trata el trabajo" },
+      { "k": ["1912", "1916", "1930", "1946", "1955", "siglo xx", "periodo", "etapa", "entre"], "p": "el período que abarca" },
+      { "k": ["porque", "importante", "permite", "ayuda a entender", "sirve"], "p": "por qué es importante" }
+    ],
+    "referencia": "Período (entre 1912 y 1955, según los temas), temas incluidos en orden y por qué es importante conocerlos.",
+    "minPalabras": 25
+  },
+  "desarrollo": {
+    "h1": {
+      "instruccion": "Explicá cómo se amplió la participación política entre 1912 y 1930. Contá qué cambió con la Ley Sáenz Peña, quiénes llegaron al gobierno con la UCR, qué hechos y conflictos marcaron esos años, qué límites tuvo esa democracia y cómo influyó la Primera Guerra Mundial.",
+      "guia": [
+        "¿Cómo eran las elecciones antes de 1912 y qué cambió con la ley?",
+        "¿A qué sectores sociales representaba la UCR y quiénes gobernaron entre 1916 y 1930?",
+        "¿Qué hechos de participación y qué conflictos sociales hubo en esos años?",
+        "¿Por qué decimos que esa democracia tuvo límites?",
+        "¿Cómo afectó la Primera Guerra Mundial a la economía argentina?"
+      ],
+      "claves": [
+        { "k": ["saenz pena", "1912"], "p": "la Ley Sáenz Peña" },
+        { "k": ["secreto", "obligatorio"], "p": "cómo pasó a ser el voto" },
+        { "k": ["yrigoyen", "alvear", "ucr", "radical"], "p": "los gobiernos radicales" },
+        { "k": ["sectores medios", "clase media", "hijos de inmigrantes"], "p": "los sectores medios" },
+        { "k": ["semana tragica", "patagonia", "reforma universitaria", "ypf"], "p": "un hecho o conflicto del período" },
+        { "k": ["mujer", "reprim", "limite"], "p": "los límites de esa democracia" },
+        { "k": ["guerra", "neutral", "exporta", "importa"], "p": "la influencia de la Primera Guerra Mundial" }
+      ],
+      "referencia": "Ley Sáenz Peña (1912): voto secreto, universal masculino y obligatorio; antes había fraude y voto público. Yrigoyen (1916-22 y 1928-30) y Alvear (1922-28), con apoyo de sectores medios. Reforma Universitaria (1918), Semana Trágica (1919), huelgas en la Patagonia, YPF (1922). Límites: no votaban mujeres ni extranjeros; represión. Primera Guerra: neutralidad, comercio alterado, algo de industria local.",
+      "minPalabras": 60
+    },
+    "h2": {
+      "instruccion": "Explicá qué fueron los nacionalismos del período de entreguerras: por qué crecieron, qué rasgos tenían, cómo fueron el fascismo y el nazismo y qué formas tomó el nacionalismo en la Argentina y en América Latina.",
+      "guia": [
+        "¿Qué problemas de la época (guerra, crisis, Revolución Rusa) ayudaron a que crecieran?",
+        "¿Qué rasgos tenía un nacionalismo autoritario?",
+        "¿Quiénes lideraron el fascismo y el nazismo, cuándo llegaron al poder y qué los diferenciaba?",
+        "¿Qué ejemplos de nacionalismo autoritario y de nacionalismo popular hubo en la Argentina?",
+        "¿Qué pasó en Brasil con Vargas?"
+      ],
+      "claves": [
+        { "k": ["nacion", "patria"], "p": "la exaltación de la nación" },
+        { "k": ["lider", "partido unico", "autoritar"], "p": "los rasgos autoritarios" },
+        { "k": ["crisis", "versalles", "revolucion rusa", "guerra"], "p": "por qué crecieron" },
+        { "k": ["fascis", "mussolini"], "p": "el fascismo" },
+        { "k": ["nazis", "hitler"], "p": "el nazismo" },
+        { "k": ["liga patriotica", "lugones", "uriburu", "forja", "jauretche", "scalabrini"], "p": "ejemplos en la Argentina" },
+        { "k": ["vargas", "brasil", "estado novo"], "p": "un ejemplo de América Latina" }
+      ],
+      "referencia": "Crecieron por la posguerra, el Tratado de Versalles, la Revolución Rusa y la crisis de 1929. Rasgos: exaltación de la nación, líder fuerte, partido único, rechazo al liberalismo y al comunismo. Fascismo: Mussolini, 1922. Nazismo: Hitler, 1933, racismo y antisemitismo (Holocausto). Argentina: Liga Patriótica, Lugones, Uriburu (autoritarios) y FORJA (popular). Brasil: Vargas, Estado Novo (1937).",
+      "minPalabras": 60
+    },
+    "h3": {
+      "instruccion": "Explicá cómo la crisis de 1929 cambió la Argentina: cómo llegó la crisis al país, qué pasó en 1930 y durante la Década Infame, cómo cambió el rol del Estado y qué fue la industrialización sustitutiva de importaciones, con sus cambios en el trabajo y las ciudades.",
+      "guia": [
+        "¿Qué pasó en 1929 y por qué afectó tanto a un país agroexportador?",
+        "¿Qué ocurrió el 6 de septiembre de 1930 y cómo fue la Década Infame?",
+        "¿Qué hizo el Estado para intervenir en la economía?",
+        "¿Qué es la industrialización sustitutiva de importaciones y por qué se aceleró con la Segunda Guerra?",
+        "¿Cómo cambiaron el trabajo y las ciudades?"
+      ],
+      "claves": [
+        { "k": ["1929", "wall street", "bolsa", "gran depresion"], "p": "la crisis de 1929" },
+        { "k": ["exporta", "agroexport", "precio", "divisas"], "p": "cómo afectó a la Argentina" },
+        { "k": ["1930", "uriburu", "golpe"], "p": "el golpe de 1930" },
+        { "k": ["decada infame", "fraude"], "p": "la Década Infame" },
+        { "k": ["estado", "banco central", "juntas", "interven"], "p": "el nuevo rol del Estado" },
+        { "k": ["industri", "sustitu", "isi"], "p": "la industrialización sustitutiva" },
+        { "k": ["migrac", "ciudad", "obrer"], "p": "los cambios sociales" }
+      ],
+      "referencia": "Crac de Wall Street (1929): cayeron la demanda y los precios; entraron menos divisas. Golpe de Uriburu (6/9/1930) contra Yrigoyen; Década Infame (1930-1943) con fraude. El Estado interviene: control de cambios, juntas reguladoras, Banco Central (1935). ISI: fabricar lo que antes se importaba, acelerada en la Segunda Guerra. Crece la clase obrera urbana y hay migraciones internas.",
+      "minPalabras": 60
+    },
+    "h4": {
+      "instruccion": "Explicá qué fue el peronismo entre 1943 y 1955: cómo llegó Perón al gobierno, qué derechos se ampliaron, qué papel tuvo el Estado en la economía, quiénes lo apoyaron y por qué se habla de democracia de masas con límites. Contá también cómo terminó esa etapa.",
+      "guia": [
+        "¿Qué hizo Perón desde la Secretaría de Trabajo y qué pasó el 17 de octubre de 1945?",
+        "¿Qué derechos laborales, políticos y sociales se ampliaron?",
+        "¿Cómo intervino el Estado en la economía y quiénes apoyaron ese modelo?",
+        "¿Por qué se habla de democracia de masas y cuáles fueron sus límites?",
+        "¿Cómo terminó el gobierno de Perón?"
+      ],
+      "claves": [
+        { "k": ["secretaria de trabajo", "1943"], "p": "la Secretaría de Trabajo" },
+        { "k": ["17 de octubre", "plaza de mayo", "movilizacion"], "p": "el 17 de octubre de 1945" },
+        { "k": ["1946", "elecciones"], "p": "la llegada al gobierno en 1946" },
+        { "k": ["aguinaldo", "vacaciones", "voto femenino", "indemnizacion", "gratuidad"], "p": "derechos ampliados" },
+        { "k": ["planes quinquenales", "nacionaliz", "iapi", "planific"], "p": "el Estado en la economía" },
+        { "k": ["democracia de masas", "oposicion", "prensa", "limite"], "p": "la democracia de masas y sus límites" },
+        { "k": ["1955", "golpe"], "p": "el final en 1955" }
+      ],
+      "referencia": "Desde la Secretaría de Trabajo (1943) Perón se acercó a los sindicatos; detenido el 9/10/1945, el 17 de octubre una movilización pidió su liberación; ganó en 1946. Derechos: aguinaldo, vacaciones pagas, indemnizaciones, voto femenino (1947, primera votación 1951), gratuidad universitaria (1949). Estado planificador: planes quinquenales, nacionalización de ferrocarriles (1948), IAPI. Apoyo de trabajadores y empresarios industriales. Democracia de masas con restricciones a la oposición y control de la prensa. Golpe de 1955.",
+      "minPalabras": 60
+    }
+  },
+  "integracion": {
+    "intro": "Integrar es mostrar que los procesos históricos se conectan: unos causan otros, se parecen o se oponen. Las preguntas de abajo relacionan **solo los contenidos que elegiste**.",
+    "intro_uno": "Elegiste un solo contenido. Integrar, en este caso, es mostrar cómo se conectan sus partes: qué causó qué y qué cambió.",
+    "pares": {
+      "h1|h2": "La Liga Patriótica surgió después de la Semana Trágica de 1919. ¿Qué relación hay entre los conflictos obreros de los años radicales y el crecimiento del nacionalismo autoritario en la Argentina?",
+      "h1|h3": "Yrigoyen llegó al gobierno gracias a la Ley Sáenz Peña y fue derrocado en 1930. ¿Qué tuvo que ver la crisis de 1929 con su caída? ¿Qué pasó con el voto secreto durante la Década Infame?",
+      "h1|h4": "Compará 1912 y el peronismo: ¿qué grupos se incorporaron a la política con la Ley Sáenz Peña y cuáles con el peronismo? ¿Quiénes seguían afuera en cada etapa?",
+      "h2|h3": "¿Qué relación hay entre la crisis de 1929, las ideas nacionalistas de entreguerras y el golpe de Uriburu de 1930? ¿Por qué en tiempos de crisis crecieron los líderes autoritarios?",
+      "h2|h4": "Estudiaste un nacionalismo autoritario (Liga Patriótica, Uriburu) y uno popular (FORJA). ¿Con cuál tiene más puntos en común el peronismo? Justificalo pensando en quiénes participaban, qué lugar tenían los trabajadores y qué pensaban de la dependencia económica.",
+      "h3|h4": "¿Cómo la industrialización sustitutiva y las migraciones internas prepararon el surgimiento del peronismo? Relacioná la crisis de 1929, el crecimiento de la clase obrera urbana y el apoyo de los trabajadores a Perón."
+    },
+    "individual": {
+      "h1": ["¿Cómo se relaciona la Ley Sáenz Peña con la llegada de Yrigoyen al gobierno en 1916?", "¿Por qué se habla de ampliación de la democracia si también hubo represión (Semana Trágica, huelgas en la Patagonia)?", "¿Cómo afectó la Primera Guerra Mundial a un país agroexportador como la Argentina?"],
+      "h2": ["¿Qué tienen en común los nacionalismos europeos y los de la Argentina? ¿En qué se diferencian?", "¿Por qué la crisis económica y la Revolución Rusa ayudaron a que crecieran estos movimientos?", "¿Por qué no hubo un solo nacionalismo en la Argentina?"],
+      "h3": ["¿Cómo se encadenan la crisis de 1929, la caída de las exportaciones y la industrialización?", "¿Qué relación hay entre la crisis económica y el golpe de 1930?", "¿Cómo cambió la vida en las ciudades con la industria?"],
+      "h4": ["¿Cómo se relaciona el trabajo de Perón en la Secretaría de Trabajo con el 17 de octubre de 1945?", "¿Qué relación hay entre los derechos laborales, el aumento del consumo y la industria?", "¿Por qué se habla de democracia de masas y cuáles fueron sus límites?"]
+    },
+    "generales": [
+      "¿Qué cambió y qué continuó a lo largo del período que estudiaste?",
+      "¿Qué hecho de uno de tus temas fue causa o consecuencia de un hecho de otro?",
+      "¿Qué actores sociales (trabajadores, sectores medios, militares, el Estado) aparecen en más de uno de tus temas y qué papel tuvieron en cada uno?"
+    ],
+    "referencia": "Texto que relaciona los contenidos elegidos con causas, consecuencias, cambios y continuidades.",
+    "minPalabras": 60
+  },
+  "realidad": {
+    "intro": "Relacionar con la realidad es mostrar cómo el pasado está presente hoy. Para cada contenido que elegiste tenés una pregunta y algunas ideas: elegí un ejemplo concreto (de tu familia, tu barrio, tu ciudad o el país).",
+    "por_contenido": {
+      "h1": { "pregunta": "¿Cómo se vota hoy en la Argentina y qué tiene que ver con la Ley Sáenz Peña?", "ideas": ["Desde 2012 los jóvenes de 16 y 17 años pueden votar: ¿vos ya votaste o vas a votar?", "Las elecciones del centro de estudiantes de tu escuela.", "Los reclamos estudiantiles de hoy y la Reforma Universitaria."] },
+      "h2": { "pregunta": "¿Dónde aparecen hoy discursos que ponen a la nación por encima de las libertades o que culpan a un grupo de los problemas? ¿Cómo los reconocés?", "ideas": ["Discursos de odio contra inmigrantes o minorías.", "La diferencia entre querer a tu país y apoyar a un líder autoritario.", "Por qué importa defender la libertad de prensa y la división de poderes."] },
+      "h3": { "pregunta": "¿Qué industrias de tu zona, o qué historias de tu familia, te ayudan a entender lo que pasó después de 1929?", "ideas": ["Fábricas o talleres de tu ciudad: qué producen y desde cuándo.", "Productos que hoy se importan y otros que se fabrican en el país.", "Familiares que se mudaron del campo a la ciudad para trabajar."] },
+      "h4": { "pregunta": "¿Qué derechos de los trabajadores y de las mujeres existen hoy y cómo cambiaría la vida de una familia si no existieran?", "ideas": ["El aguinaldo y las vacaciones pagas de alguien de tu familia.", "El voto de las mujeres de tu familia.", "La universidad pública y gratuita."] }
+    },
+    "referencia": "Un ejemplo actual por cada contenido y el proceso histórico que lo explica.",
+    "minPalabras_por_contenido": 20
+  },
+  "conclusion": {
+    "instruccion": "Escribí la conclusión de tu trabajo: contá qué aprendiste sobre este período, qué idea une a los temas que estudiaste y por qué es importante conocerlos hoy.",
+    "guia": [
+      "¿Qué es lo más importante que aprendiste?",
+      "¿Qué idea o proceso une a todos tus temas (participación, rol del Estado, trabajadores, democracia…)?",
+      "¿Por qué sirve conocer este período para entender el presente?",
+      "¿Qué te gustaría que recuerde quien escucha tu trabajo?"
+    ],
+    "claves": [
+      { "k": ["aprendi", "entendi", "conoci", "descubri"], "p": "qué aprendiste" },
+      { "k": ["une", "relacion", "conecta", "en comun", "todos", "proceso", "a lo largo"], "p": "qué une a tus temas" },
+      { "k": ["hoy", "presente", "actual", "importante", "sirve", "permite"], "p": "por qué es importante hoy" }
+    ],
+    "referencia": "Aprendizajes, idea que une los temas e importancia para el presente.",
+    "minPalabras": 35
+  },
+  "preguntas": [
+    { "id": "q-h1-1", "contenido": "h1", "nivel": "Básica", "pregunta": "¿Qué cambió con la Ley Sáenz Peña y por qué fue importante?", "orientacion": "Desde 1912 el voto pasó a ser secreto, universal para los varones argentinos mayores de 18 años y obligatorio. Antes había fraude y voto público. Con la nueva ley, en 1916 ganó Yrigoyen, de la UCR." },
+    { "id": "q-h1-2", "contenido": "h1", "nivel": "Media", "pregunta": "¿Quiénes apoyaron a la UCR y por qué se habla de ampliación de la democracia? ¿Qué límites tuvo?", "orientacion": "La apoyaban sobre todo los sectores medios, muchos hijos de inmigrantes. Participó más gente, pero las mujeres y los extranjeros no votaban, y conflictos como la Semana Trágica fueron reprimidos." },
+    { "id": "q-h1-3", "contenido": "h1", "nivel": "Media", "pregunta": "¿Cómo influyó la Primera Guerra Mundial en la Argentina?", "orientacion": "El país fue neutral, pero como vendía carnes y granos a Europa y compraba productos industriales, la guerra desordenó su comercio: faltaron importaciones y se empezaron a fabricar algunas cosas en el país." },
+    { "id": "q-h2-1", "contenido": "h2", "nivel": "Básica", "pregunta": "¿Qué ideas defendían los nacionalismos autoritarios de entreguerras?", "orientacion": "Ponían a la nación por encima de todo, querían un líder con mucho poder y un partido único, rechazaban el liberalismo y el comunismo y desconfiaban de la democracia. Ejemplos: el fascismo y el nazismo." },
+    { "id": "q-h2-2", "contenido": "h2", "nivel": "Media", "pregunta": "¿Cómo se expresó el nacionalismo en la Argentina?", "orientacion": "Hubo un nacionalismo autoritario (la Liga Patriótica, Lugones con «La hora de la espada», el golpe de Uriburu) y otro popular y antiimperialista (FORJA, que criticaba la dependencia del Reino Unido)." },
+    { "id": "q-h3-1", "contenido": "h3", "nivel": "Básica", "pregunta": "¿Qué fue la crisis de 1929 y cómo afectó a la Argentina?", "orientacion": "Empezó con la caída de la Bolsa de Nueva York y se extendió al mundo. La Argentina vivía de exportar carnes y granos: cayeron la demanda y los precios, entraron menos divisas y creció la desocupación." },
+    { "id": "q-h3-2", "contenido": "h3", "nivel": "Media", "pregunta": "¿Qué es la industrialización sustitutiva de importaciones y por qué se dio en esos años?", "orientacion": "Es fabricar en el país lo que antes se importaba. Se dio porque después de 1929 faltaban divisas para importar, y se aceleró con la Segunda Guerra Mundial." },
+    { "id": "q-h3-3", "contenido": "h3", "nivel": "Media", "pregunta": "¿Qué pasó en 1930 y qué consecuencias tuvo para la democracia?", "orientacion": "El 6 de septiembre de 1930 el general Uriburu derrocó a Yrigoyen: fue el primer golpe del siglo XX. Siguió la Década Infame, con fraude electoral, hasta el golpe de 1943." },
+    { "id": "q-h4-1", "contenido": "h4", "nivel": "Básica", "pregunta": "¿Qué pasó el 17 de octubre de 1945?", "orientacion": "Perón había sido detenido el 9 de octubre. El 17, miles de trabajadores llegaron a la Plaza de Mayo y reclamaron su liberación. Al año siguiente ganó las elecciones." },
+    { "id": "q-h4-2", "contenido": "h4", "nivel": "Media", "pregunta": "¿Qué derechos y medidas se asocian al peronismo?", "orientacion": "Derechos laborales (aguinaldo, vacaciones pagas, indemnización), el voto femenino (ley de 1947), la gratuidad universitaria, los planes quinquenales y la nacionalización de los ferrocarriles." },
+    { "id": "q-h4-3", "contenido": "h4", "nivel": "Integradora", "pregunta": "¿Por qué se habla de democracia de masas en el peronismo y qué límites tuvo?", "orientacion": "Porque se incorporaron a la política grandes sectores populares, como los trabajadores y las mujeres. Pero la oposición sufrió restricciones y la prensa estuvo bajo control del Estado." },
+    { "id": "q-g-1", "contenido": "general", "nivel": "Integradora", "pregunta": "Elegí dos temas de tu trabajo y explicá cómo se relacionan.", "orientacion": "Por ejemplo: la crisis de 1929 debilitó al gobierno de Yrigoyen y facilitó el golpe de 1930; o la industrialización hizo crecer la clase obrera que después apoyó a Perón." },
+    { "id": "q-g-2", "contenido": "general", "nivel": "Integradora", "pregunta": "¿Qué cambió y qué continuó en el período que estudiaste?", "orientacion": "Cambiaron la participación política, el rol del Estado y el peso de la industria. Continuaron la dependencia del comercio exterior y las tensiones entre sectores sociales." },
+    { "id": "q-g-3", "contenido": "general", "nivel": "Integradora", "pregunta": "¿Qué parte de lo que estudiaste ves hoy en la realidad?", "orientacion": "Un ejemplo concreto, como el voto secreto y obligatorio, el aguinaldo o una industria de la ciudad, y el proceso histórico que lo explica." }
+  ]
+}

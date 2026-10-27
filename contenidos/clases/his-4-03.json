@@ -1,0 +1,970 @@
+{
+  "id": "his-4-03",
+  "espacio": "historia",
+  "eje": "Crisis, Estado e industrialización",
+  "titulo": "La crisis de 1929, la Segunda Guerra y la Argentina",
+  "intro": "Una crisis que empezó en Estados Unidos cambió la economía, la política y la sociedad argentinas. Vas a ver qué pasó en 1929 y en 1930, cómo cambió el rol del Estado y cómo creció la industria.",
+  "tp_aporte": "Para tu trabajo práctico ya tenés: causas y efectos de la crisis de 1929, el golpe de 1930 y la Década Infame, el nuevo rol del Estado y la industrialización sustitutiva de importaciones con sus cambios sociales.",
+  "sugerencias_asistente": [
+    "¿Qué fue la crisis de 1929?",
+    "¿Qué es la industrialización sustitutiva?",
+    "¿Qué fue la Década Infame?"
+  ],
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "La crisis de 1929",
+      "tiempo": "12 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "El crac de Wall Street",
+          "texto": "En octubre de 1929 se derrumbó la Bolsa de Nueva York. Bancos y empresas quebraron, la gente perdió sus ahorros y el consumo se desplomó. Fue el comienzo de la **Gran Depresión**, una crisis que se extendió por todo el mundo capitalista.\n\nLos países cerraron sus mercados para proteger su producción (**proteccionismo**) y el comercio mundial cayó fuertemente."
+        },
+        {
+          "t": "destacado",
+          "titulo": "¿Por qué le afectó tanto a la Argentina?",
+          "texto": "La Argentina vivía de **exportar carnes y granos** y de **importar productos industriales**. Cuando cayó la demanda mundial y los precios de lo que vendía, entraron menos dólares y libras al país."
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená esta cadena de causas y efectos, desde lo que pasó en Estados Unidos hasta sus consecuencias en la Argentina.",
+          "items": [
+            "Se derrumba la Bolsa de Nueva York.",
+            "Los países compran menos y los precios de los productos agrícolas bajan.",
+            "Caen las exportaciones argentinas y entran menos divisas.",
+            "Aumentan la desocupación y los problemas sociales en el país."
+          ],
+          "explicacion": "La crisis llegó a la Argentina por el comercio exterior: el país dependía de vender al mundo.",
+          "pista": "Releé el primer texto y el recuadro «¿Por qué le afectó tanto a la Argentina?»."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Un cambio de ideas sobre el Estado",
+          "columnas": [
+            "",
+            "Antes de 1929",
+            "Después de 1929"
+          ],
+          "filas": [
+            [
+              "Idea dominante",
+              "El mercado se regula solo: el Estado interviene poco",
+              "El Estado debe intervenir para evitar nuevas crisis"
+            ],
+            [
+              "Comercio",
+              "Libre comercio",
+              "Más controles y proteccionismo"
+            ],
+            [
+              "Ejemplo en el mundo",
+              "—",
+              "En Estados Unidos, el «New Deal» (desde 1933) con obras públicas y regulación"
+            ]
+          ]
+        },
+        {
+          "t": "verificar",
+          "consigna": "Según la tabla «Un cambio de ideas sobre el Estado», ¿cómo se llamó el programa con obras públicas y regulación con el que respondió Estados Unidos a la crisis?",
+          "respuesta": "New Deal",
+          "acepta": [
+            "new deal",
+            "el new deal",
+            "nuevo trato"
+          ],
+          "explicacion": "El «New Deal», aplicado desde 1933, es un ejemplo de la nueva idea: el Estado interviene para evitar nuevas crisis.",
+          "pista": "Mirá la última fila de la tabla, en la columna «Después de 1929».",
+          "placeholder": "Escribí el nombre"
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Por qué la caída del comercio mundial le pegó tan fuerte a la Argentina?",
+          "opciones": [
+            "Porque dependía de exportar productos del campo",
+            "Porque no tenía campo",
+            "Porque no comerciaba con nadie",
+            "Porque tenía una industria enorme"
+          ],
+          "correcta": 0,
+          "explicacion": "Su economía agroexportadora dependía de los mercados externos.",
+          "pista": "Pensá en qué vendía la Argentina."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué fue la crisis de 1929 y cómo llegó hasta la Argentina. Contá la cadena de causas y efectos desde Nueva York hasta la economía argentina y explicá por qué cambió la idea sobre el papel del Estado.",
+        "guia": [
+          "¿Qué pasó en octubre de 1929 en Nueva York y qué siguió después?",
+          "¿Qué hicieron los países para proteger su producción?",
+          "¿Por qué a la Argentina le afectó tanto? ¿Qué pasó con lo que vendía y con las divisas?",
+          "¿Qué se pensaba del Estado antes de 1929 y qué se empezó a pensar después? ¿Qué hizo Estados Unidos?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "1929",
+              "wall street",
+              "bolsa",
+              "crac",
+              "crack"
+            ],
+            "p": "la caída de la Bolsa de Nueva York en 1929"
+          },
+          {
+            "k": [
+              "proteccion",
+              "cerraron sus mercados"
+            ],
+            "p": "el proteccionismo"
+          },
+          {
+            "k": [
+              "exporta",
+              "agroexport",
+              "carne",
+              "granos"
+            ],
+            "p": "que la Argentina vivía de exportar productos del campo"
+          },
+          {
+            "k": [
+              "precio",
+              "demanda"
+            ],
+            "p": "la caída de precios o de la demanda"
+          },
+          {
+            "k": [
+              "desocupacion",
+              "desempleo",
+              "divisas"
+            ],
+            "p": "los efectos (menos divisas, desocupación)"
+          },
+          {
+            "k": [
+              "estado",
+              "interven",
+              "new deal"
+            ],
+            "p": "el cambio en el rol del Estado"
+          }
+        ],
+        "referencia": "En octubre de 1929 se derrumbó la Bolsa de Nueva York: Gran Depresión mundial. Los países se protegieron (proteccionismo) y cayó el comercio. La Argentina agroexportadora vio caer la demanda y los precios: menos divisas y más desocupación. Se pasó de pensar que el mercado se regula solo a que el Estado debe intervenir (New Deal).",
+        "minPalabras": 35
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "La crisis de 1929 empezó con el derrumbe de la Bolsa de Nueva York.",
+          "respuesta": true,
+          "explicacion": "Fue en octubre de 1929."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Gran Depresión afectó solo a Estados Unidos.",
+          "respuesta": false,
+          "explicacion": "Se extendió por todo el mundo capitalista."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Después de 1929 los países cerraron sus mercados para proteger su producción.",
+          "respuesta": true,
+          "explicacion": "Eso se llama proteccionismo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Argentina vivía de exportar carnes y granos y de importar productos industriales.",
+          "respuesta": true,
+          "explicacion": "Por eso la crisis le pegó tan fuerte."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Antes de 1929 la idea dominante era que el Estado debía intervenir mucho en la economía.",
+          "respuesta": false,
+          "explicacion": "Se pensaba que el mercado se regulaba solo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con la crisis, a la Argentina entraron menos divisas.",
+          "respuesta": true,
+          "explicacion": "Vendía menos y más barato."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El New Deal fue la respuesta de Estados Unidos a la crisis, con obras públicas y regulación.",
+          "respuesta": true,
+          "explicacion": "Se aplicó desde 1933."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se llamó la crisis que empezó en 1929?",
+          "opciones": [
+            "Gran Depresión",
+            "Década Infame",
+            "Primera Guerra Mundial",
+            "Semana Trágica"
+          ],
+          "correcta": 0,
+          "explicacion": "Se extendió por todo el mundo capitalista."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es el proteccionismo?",
+          "opciones": [
+            "Cerrar los mercados para proteger la producción propia",
+            "Abrir todas las fronteras al comercio",
+            "Que el Estado no intervenga",
+            "Exportar más"
+          ],
+          "correcta": 0,
+          "explicacion": "Muchos países lo aplicaron después de 1929."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué entraron menos divisas a la Argentina?",
+          "opciones": [
+            "Porque cayeron la demanda y los precios de lo que vendía",
+            "Porque dejó de importar",
+            "Porque no tenía campo",
+            "Porque entró en una guerra"
+          ],
+          "correcta": 0,
+          "explicacion": "Vendía menos y más barato."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué consecuencia social tuvo la crisis en la Argentina?",
+          "opciones": [
+            "Aumentaron la desocupación y los problemas sociales",
+            "Bajó la desocupación",
+            "Se terminaron las huelgas",
+            "Crecieron las exportaciones"
+          ],
+          "correcta": 0,
+          "explicacion": "Es el último eslabón de la cadena de causas y efectos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "Después de 1929 se empezó a pensar que…",
+          "opciones": [
+            "el Estado debía intervenir para evitar nuevas crisis",
+            "el mercado se regula solo",
+            "no había que comerciar",
+            "el Estado debía desaparecer"
+          ],
+          "correcta": 0,
+          "explicacion": "Así lo muestra la tabla sobre el Estado."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué cayó fuertemente en el mundo después de 1929?",
+          "opciones": [
+            "El comercio mundial",
+            "La población",
+            "La industria argentina",
+            "El número de países"
+          ],
+          "correcta": 0,
+          "explicacion": "Los países cerraron sus mercados."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "DEPRESIÓN",
+          "pista": "La Gran ___ fue la crisis mundial iniciada en 1929."
+        },
+        {
+          "palabra": "PROTECCIONISMO",
+          "pista": "Cerrar los mercados para proteger la producción propia."
+        },
+        {
+          "palabra": "DIVISAS",
+          "pista": "Monedas extranjeras, como dólares y libras, que entraban al país por exportar."
+        },
+        {
+          "palabra": "BOLSA",
+          "pista": "En octubre de 1929 se derrumbó la ___ de Nueva York."
+        },
+        {
+          "palabra": "DESOCUPACIÓN",
+          "pista": "Problema social que aumentó en la Argentina con la crisis."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "1930: golpe y Década Infame",
+      "tiempo": "14 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "El primer golpe del siglo XX",
+          "texto": "El 6 de septiembre de 1930, el general **José F. Uriburu** derrocó al presidente **Hipólito Yrigoyen**, que atravesaba su segundo gobierno. Fue el **primer golpe de Estado** del siglo XX en la Argentina y abrió una etapa de **inestabilidad democrática**.\n\nEl gobierno estaba debilitado por la crisis económica, la oposición política y críticas de sectores poderosos."
+        },
+        {
+          "t": "linea",
+          "titulo": "La Década Infame (1930-1943)",
+          "eventos": [
+            {
+              "anio": "1930",
+              "titulo": "Golpe de Uriburu",
+              "texto": "Cae Yrigoyen y comienza el período de gobiernos conservadores."
+            },
+            {
+              "anio": "1932",
+              "titulo": "Asume Agustín P. Justo",
+              "texto": "Llega a la presidencia en elecciones con fraude."
+            },
+            {
+              "anio": "1933",
+              "titulo": "Pacto Roca-Runciman",
+              "texto": "Acuerdo comercial con el Reino Unido para asegurar la venta de carnes; muy criticado por su desigualdad."
+            },
+            {
+              "anio": "1935",
+              "titulo": "Banco Central",
+              "texto": "El Estado crea el Banco Central para regular la moneda y el crédito."
+            },
+            {
+              "anio": "1943",
+              "titulo": "Nuevo golpe de Estado",
+              "texto": "Los militares derrocan al gobierno conservador."
+            }
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "Por qué «infame»",
+          "texto": "Se llama **Década Infame** porque predominó el **fraude electoral** («fraude patriótico»), con elecciones manipuladas por los conservadores, y se denunciaron casos de corrupción. También se limitó la participación política de los radicales."
+        },
+        {
+          "t": "texto",
+          "titulo": "Un Estado que interviene en la economía",
+          "texto": "Para enfrentar la crisis, los gobiernos de esos años empezaron a **intervenir en la economía**. En 1931 se estableció el **control de cambios**, que regula la compra de monedas extranjeras. Se crearon **juntas reguladoras** de granos y de carnes para ordenar la producción y los precios. Y en 1935 se creó el **Banco Central**."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Qué muestra cada hecho de esos años: un Estado que interviene en la economía o una democracia debilitada?",
+          "categorias": [
+            "Intervención del Estado en la economía",
+            "Debilidad de la democracia"
+          ],
+          "items": [
+            {
+              "texto": "Creación del Banco Central",
+              "cat": "Intervención del Estado en la economía"
+            },
+            {
+              "texto": "Juntas reguladoras de granos y carnes",
+              "cat": "Intervención del Estado en la economía"
+            },
+            {
+              "texto": "Control de cambios",
+              "cat": "Intervención del Estado en la economía"
+            },
+            {
+              "texto": "Golpe de Uriburu",
+              "cat": "Debilidad de la democracia"
+            },
+            {
+              "texto": "«Fraude patriótico»",
+              "cat": "Debilidad de la democracia"
+            },
+            {
+              "texto": "Elección de Justo con fraude",
+              "cat": "Debilidad de la democracia"
+            }
+          ],
+          "explicacion": "El Estado creó instituciones para regular la economía, pero la política estuvo marcada por golpes y fraude."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Aunque se la llama «década», ¿cuántos años duró en realidad la Década Infame?",
+          "respuesta": "13",
+          "explicacion": "Fue de 1930 a 1943: 13 años, desde el golpe de Uriburu hasta el golpe de 1943.",
+          "pista": "Buscá el año de inicio y el de fin en la línea de tiempo y restá."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Qué consecuencia tuvo el golpe de 1930 para la democracia?",
+          "opciones": [
+            "Abrió una etapa de fraude e inestabilidad",
+            "Instauró el voto femenino",
+            "Eliminó los partidos conservadores",
+            "Aumentó el control de la oposición sobre el gobierno"
+          ],
+          "correcta": 0,
+          "explicacion": "Se interrumpió la democracia y siguieron años de fraude.",
+          "pista": "Pensá en por qué se llama «Infame» a la década."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué pasó en 1930 y por qué se habla de una «Década Infame». Incluí quién fue derrocado y por quién, por qué ese gobierno estaba debilitado, cómo fue la política en esos años y qué medidas tomó el Estado en la economía.",
+        "guia": [
+          "¿Qué pasó el 6 de septiembre de 1930 y por qué es un hecho importante?",
+          "¿Por qué estaba debilitado el gobierno de Yrigoyen?",
+          "¿Por qué se llama «infame» a esa etapa y cuándo terminó?",
+          "¿Qué medidas económicas tomó el Estado entre 1931 y 1935?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "uriburu"
+            ],
+            "p": "Uriburu"
+          },
+          {
+            "k": [
+              "yrigoyen"
+            ],
+            "p": "Yrigoyen derrocado"
+          },
+          {
+            "k": [
+              "golpe"
+            ],
+            "p": "que fue un golpe de Estado"
+          },
+          {
+            "k": [
+              "fraude"
+            ],
+            "p": "el fraude electoral"
+          },
+          {
+            "k": [
+              "banco central",
+              "juntas",
+              "control de cambios",
+              "roca-runciman",
+              "roca runciman",
+              "interven"
+            ],
+            "p": "una medida económica del período"
+          },
+          {
+            "k": [
+              "crisis",
+              "debilit",
+              "oposicion"
+            ],
+            "p": "por qué estaba debilitado el gobierno"
+          }
+        ],
+        "referencia": "El 6/9/1930 Uriburu derrocó a Yrigoyen, debilitado por la crisis, la oposición y las críticas de sectores poderosos: primer golpe del siglo XX. Década Infame (1930-1943): fraude electoral («fraude patriótico»), Justo (1932), Pacto Roca-Runciman (1933). El Estado interviene: control de cambios (1931), juntas reguladoras, Banco Central (1935). Termina con el golpe de 1943.",
+        "minPalabras": 35
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El 6 de septiembre de 1930, el general Uriburu derrocó a Yrigoyen.",
+          "respuesta": true,
+          "explicacion": "Yrigoyen estaba en su segundo gobierno."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El golpe de 1930 fue el primer golpe de Estado del siglo XX en la Argentina.",
+          "respuesta": true,
+          "explicacion": "Abrió una etapa de inestabilidad democrática."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Década Infame se caracterizó por elecciones limpias.",
+          "respuesta": false,
+          "explicacion": "Predominó el fraude electoral."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Agustín P. Justo llegó a la presidencia en 1932 en elecciones con fraude.",
+          "respuesta": true,
+          "explicacion": "Así lo muestra la línea de tiempo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Pacto Roca-Runciman fue un acuerdo con Estados Unidos.",
+          "respuesta": false,
+          "explicacion": "Fue con el Reino Unido, en 1933."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En 1935 el Estado creó el Banco Central para regular la moneda y el crédito.",
+          "respuesta": true,
+          "explicacion": "Fue una de las formas de intervenir en la economía."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Década Infame terminó con un nuevo golpe de Estado en 1943.",
+          "respuesta": true,
+          "explicacion": "Los militares derrocaron al gobierno conservador."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quién encabezó el golpe de 1930?",
+          "opciones": [
+            "José F. Uriburu",
+            "Agustín P. Justo",
+            "Marcelo T. de Alvear",
+            "Hipólito Yrigoyen"
+          ],
+          "correcta": 0,
+          "explicacion": "Era general del Ejército."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Entre qué años transcurrió la Década Infame?",
+          "opciones": [
+            "1930-1943",
+            "1916-1930",
+            "1912-1922",
+            "1943-1955"
+          ],
+          "correcta": 0,
+          "explicacion": "Entre el golpe de Uriburu y el de 1943."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Para qué se firmó el Pacto Roca-Runciman?",
+          "opciones": [
+            "Para asegurar la venta de carnes al Reino Unido",
+            "Para crear el Banco Central",
+            "Para que votaran las mujeres",
+            "Para terminar con el fraude"
+          ],
+          "correcta": 0,
+          "explicacion": "Fue muy criticado por su desigualdad."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué estaba debilitado el gobierno de Yrigoyen en 1930?",
+          "opciones": [
+            "Por la crisis económica, la oposición y las críticas de sectores poderosos",
+            "Porque acababa de ganar con fraude",
+            "Porque había creado el Banco Central",
+            "Porque la Argentina estaba en guerra"
+          ],
+          "correcta": 0,
+          "explicacion": "Así lo explica el primer texto de la cápsula."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es el «fraude patriótico»?",
+          "opciones": [
+            "La manipulación de las elecciones por los conservadores",
+            "Una ley que limpió las elecciones",
+            "Un acuerdo con el Reino Unido",
+            "Un impuesto a las carnes"
+          ],
+          "correcta": 0,
+          "explicacion": "Por eso se habla de una década «infame»."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué medida muestra al Estado interviniendo en la economía?",
+          "opciones": [
+            "El control de cambios",
+            "El fraude electoral",
+            "El golpe de 1930",
+            "La caída de Yrigoyen"
+          ],
+          "correcta": 0,
+          "explicacion": "También las juntas reguladoras y el Banco Central."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "INFAME",
+          "pista": "Así se llamó a la década 1930-1943, marcada por el fraude."
+        },
+        {
+          "palabra": "FRAUDE",
+          "pista": "Manipulación de las elecciones que predominó en esos años."
+        },
+        {
+          "palabra": "JUSTO",
+          "pista": "Agustín P. ___, presidente desde 1932."
+        },
+        {
+          "palabra": "BANCO CENTRAL",
+          "pista": "Institución creada en 1935 para regular la moneda y el crédito."
+        },
+        {
+          "palabra": "GOLPE",
+          "pista": "Lo que hicieron los militares en 1930 y otra vez en 1943."
+        },
+        {
+          "palabra": "JUNTAS",
+          "pista": "Organismos reguladores de granos y de carnes que creó el Estado."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Industria, ciudades y Segunda Guerra",
+      "tiempo": "14 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Producir en el país lo que antes se importaba",
+          "texto": "Después de la crisis de 1929 llegaban menos dólares y libras al país y era difícil importar. Entonces la Argentina empezó a **fabricar en el país** productos que antes compraba afuera: textiles, alimentos, metalúrgicos, electrodomésticos simples…\n\nEste proceso se llama **industrialización sustitutiva de importaciones (ISI)**. Se aceleró durante la **Segunda Guerra Mundial** (1939-1945), cuando las importaciones se hicieron aún más difíciles."
+        },
+        {
+          "t": "pasos",
+          "titulo": "Cómo funcionó la ISI",
+          "pasos": [
+            {
+              "titulo": "Falta de divisas",
+              "texto": "Con la crisis, cae lo que el país gana exportando y se puede importar menos."
+            },
+            {
+              "titulo": "Se produce adentro",
+              "texto": "Surgen fábricas que abastecen el mercado interno."
+            },
+            {
+              "titulo": "Crece el empleo industrial",
+              "texto": "Se necesitan más obreros en las fábricas, sobre todo en Buenos Aires y otras ciudades."
+            },
+            {
+              "titulo": "Migraciones internas",
+              "texto": "Miles de personas se trasladan del campo y de provincias del interior hacia las ciudades."
+            }
+          ]
+        },
+        {
+          "t": "comparar",
+          "titulo": "Dos modelos económicos",
+          "columnas": [
+            "",
+            "Modelo agroexportador",
+            "Con ISI"
+          ],
+          "filas": [
+            [
+              "Motor de la economía",
+              "Exportar productos del campo",
+              "Producir para el mercado interno"
+            ],
+            [
+              "Quiénes trabajan",
+              "Peones, chacareros, estancias",
+              "Cada vez más obreros industriales"
+            ],
+            [
+              "Dónde vive la gente",
+              "Mucha población rural",
+              "Crecen las ciudades"
+            ]
+          ]
+        },
+        {
+          "t": "dato",
+          "titulo": "La Argentina durante la Segunda Guerra Mundial",
+          "texto": "La Argentina se mantuvo **neutral** durante casi toda la guerra: recién en marzo de 1945 declaró la guerra a Alemania y Japón. En plena guerra, en junio de **1943**, un nuevo golpe militar terminó con los gobiernos conservadores de la Década Infame."
+        },
+        {
+          "t": "verificar",
+          "consigna": "La ISI empezó con la crisis de 1929 y se aceleró con la Segunda Guerra Mundial. ¿Cuántos años pasaron entre el comienzo de la crisis y el final de esa guerra?",
+          "respuesta": "16",
+          "explicacion": "De 1929 a 1945 pasaron 16 años, en los que la industria argentina creció mucho.",
+          "pista": "El final de la guerra está en el primer texto de esta cápsula: (1939-1945)."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Por qué la Segunda Guerra Mundial aceleró la industrialización?",
+          "opciones": [
+            "Porque importar se hizo aún más difícil",
+            "Porque la Argentina combatió en Europa",
+            "Porque llegaron muchas fábricas desde Europa",
+            "Porque subieron las exportaciones de productos industriales"
+          ],
+          "correcta": 0,
+          "explicacion": "Si es todavía más difícil comprar afuera, hay más motivos para fabricar en el país.",
+          "pista": "Pensá en qué pasaba con el comercio cuando las potencias estaban en guerra."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cuáles fueron causas de la industrialización y cuáles fueron sus consecuencias?",
+          "categorias": [
+            "Causa",
+            "Consecuencia"
+          ],
+          "items": [
+            {
+              "texto": "Falta de divisas por la crisis",
+              "cat": "Causa"
+            },
+            {
+              "texto": "Dificultad para importar durante la guerra",
+              "cat": "Causa"
+            },
+            {
+              "texto": "Crecimiento de la clase obrera urbana",
+              "cat": "Consecuencia"
+            },
+            {
+              "texto": "Migraciones internas hacia las ciudades",
+              "cat": "Consecuencia"
+            },
+            {
+              "texto": "Crecimiento de las ciudades",
+              "cat": "Consecuencia"
+            }
+          ],
+          "explicacion": "La falta de importaciones empujó a producir adentro, y eso transformó el mundo del trabajo y las ciudades."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué es la industrialización sustitutiva de importaciones y cómo transformó la sociedad argentina. Incluí por qué empezó, por qué se aceleró con la Segunda Guerra Mundial y qué cambios produjo en el trabajo y en las ciudades.",
+        "guia": [
+          "¿Qué significa «sustituir importaciones»? ¿Qué se empezó a fabricar?",
+          "¿Por qué empezó después de la crisis de 1929?",
+          "¿Qué pasó con las importaciones durante la Segunda Guerra? ¿Qué actitud tuvo la Argentina en esa guerra?",
+          "¿Quiénes trabajaban en el modelo agroexportador y quiénes con la ISI?",
+          "¿Por qué miles de personas se fueron del campo y del interior a las ciudades?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "sustitu",
+              "producir en el pais",
+              "fabricar",
+              "isi"
+            ],
+            "p": "producir en el país lo que antes se importaba"
+          },
+          {
+            "k": [
+              "importa"
+            ],
+            "p": "las importaciones"
+          },
+          {
+            "k": [
+              "crisis",
+              "divisas",
+              "1929"
+            ],
+            "p": "por qué empezó"
+          },
+          {
+            "k": [
+              "guerra",
+              "1939",
+              "neutral"
+            ],
+            "p": "el papel de la Segunda Guerra Mundial"
+          },
+          {
+            "k": [
+              "obrer",
+              "trabajador",
+              "empleo",
+              "fabrica"
+            ],
+            "p": "el crecimiento del trabajo industrial"
+          },
+          {
+            "k": [
+              "migrac",
+              "ciudad",
+              "interior",
+              "campo"
+            ],
+            "p": "las migraciones hacia las ciudades"
+          }
+        ],
+        "referencia": "ISI: fabricar en el país lo que antes se importaba (textiles, alimentos, metalúrgicos). Empezó por la falta de divisas tras 1929 y se aceleró en la Segunda Guerra (1939-1945), en la que la Argentina fue neutral hasta 1945. Creció la clase obrera urbana y hubo migraciones internas del campo y del interior hacia las ciudades.",
+        "minPalabras": 35
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "ISI significa industrialización sustitutiva de importaciones.",
+          "respuesta": true,
+          "explicacion": "Fabricar en el país lo que antes se compraba afuera."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La ISI se aceleró durante la Segunda Guerra Mundial, porque importar era aún más difícil.",
+          "respuesta": true,
+          "explicacion": "La guerra fue de 1939 a 1945."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con la ISI creció la población rural y se vaciaron las ciudades.",
+          "respuesta": false,
+          "explicacion": "Pasó al revés: crecieron las ciudades."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Argentina se mantuvo neutral en la Segunda Guerra hasta marzo de 1945.",
+          "respuesta": true,
+          "explicacion": "Ahí declaró la guerra a Alemania y Japón."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Las fábricas de la ISI producían sobre todo para vender a Europa.",
+          "respuesta": false,
+          "explicacion": "Producían para el mercado interno."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con la ISI aumentó la cantidad de obreros industriales.",
+          "respuesta": true,
+          "explicacion": "Sobre todo en Buenos Aires y otras ciudades."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En 1943 un golpe militar terminó con los gobiernos de la Década Infame.",
+          "respuesta": true,
+          "explicacion": "Fue en junio de 1943, en plena guerra."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué falta impulsó la ISI?",
+          "opciones": [
+            "Divisas para importar",
+            "Trabajadores",
+            "Tierras",
+            "Ciudades"
+          ],
+          "correcta": 0,
+          "explicacion": "Con la crisis cayó lo que el país ganaba exportando."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué productos se empezaron a fabricar en el país?",
+          "opciones": [
+            "Textiles, alimentos, metalúrgicos y electrodomésticos simples",
+            "Solo carnes y granos",
+            "Solo petróleo",
+            "Aviones y barcos de guerra"
+          ],
+          "correcta": 0,
+          "explicacion": "Así lo dice el primer texto de la cápsula."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Hacia dónde se trasladó mucha gente del campo y del interior?",
+          "opciones": [
+            "Hacia las ciudades",
+            "Hacia el exterior",
+            "Hacia el campo",
+            "Hacia la Patagonia"
+          ],
+          "correcta": 0,
+          "explicacion": "Eso se llama migración interna."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "En el modelo agroexportador, ¿cuál era el motor de la economía?",
+          "opciones": [
+            "Exportar productos del campo",
+            "Producir para el mercado interno",
+            "Fabricar electrodomésticos",
+            "Importar alimentos"
+          ],
+          "correcta": 0,
+          "explicacion": "Con la ISI, el motor pasó a ser el mercado interno."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es una consecuencia de la ISI?",
+          "opciones": [
+            "El crecimiento de la clase obrera urbana",
+            "La falta de divisas",
+            "La dificultad para importar",
+            "La crisis de 1929"
+          ],
+          "correcta": 0,
+          "explicacion": "Las otras tres opciones son causas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuándo declaró la Argentina la guerra a Alemania y Japón?",
+          "opciones": [
+            "En marzo de 1945",
+            "En septiembre de 1939",
+            "En junio de 1943",
+            "Nunca"
+          ],
+          "correcta": 0,
+          "explicacion": "Hasta entonces fue neutral."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "SUSTITUCIÓN",
+          "pista": "Industrialización por ___ de importaciones."
+        },
+        {
+          "palabra": "MIGRACIONES",
+          "pista": "Traslados de personas del campo y del interior hacia las ciudades."
+        },
+        {
+          "palabra": "OBREROS",
+          "pista": "Trabajadores industriales que crecieron con la ISI."
+        },
+        {
+          "palabra": "NEUTRAL",
+          "pista": "Actitud de la Argentina durante casi toda la Segunda Guerra."
+        },
+        {
+          "palabra": "TEXTILES",
+          "pista": "Uno de los tipos de productos que se empezaron a fabricar en el país."
+        },
+        {
+          "palabra": "MERCADO INTERNO",
+          "pista": "Para quién producían las fábricas de la ISI."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Gran Depresión",
+      "definicion": "Crisis económica mundial iniciada en 1929."
+    },
+    {
+      "palabra": "Proteccionismo",
+      "definicion": "Política de proteger la producción nacional limitando las importaciones."
+    },
+    {
+      "palabra": "Década Infame",
+      "definicion": "Período 1930-1943 marcado por el fraude electoral y la inestabilidad democrática."
+    },
+    {
+      "palabra": "ISI",
+      "definicion": "Industrialización sustitutiva de importaciones: producir en el país lo que antes se importaba."
+    },
+    {
+      "palabra": "Divisas",
+      "definicion": "Monedas extranjeras que un país necesita para importar."
+    },
+    {
+      "palabra": "Migración interna",
+      "definicion": "Traslado de personas dentro de un país, por ejemplo del campo a la ciudad."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "La crisis de 1929 solo afectó a Estados Unidos.",
+      "aclaracion": "Fue mundial y afectó mucho a países agroexportadores como la Argentina."
+    },
+    {
+      "error": "La ISI terminó con el modelo agroexportador.",
+      "aclaracion": "Convivieron: el campo siguió siendo clave, pero creció la industria."
+    },
+    {
+      "error": "La Argentina entró a la Segunda Guerra en 1939.",
+      "aclaracion": "Se mantuvo neutral hasta marzo de 1945."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "Si en tu ciudad o en tu familia hubo trabajadores que se mudaron del campo a la ciudad para trabajar en una fábrica, ¿qué razones habrán tenido? Preguntale a algún familiar mayor y anotá lo que cuente.",
+    "conexion": "Con la próxima clase: esos trabajadores serán protagonistas del peronismo."
+  }
+}

@@ -1,0 +1,865 @@
+{
+  "id": "mat-4-04",
+  "espacio": "matematica",
+  "eje": "Álgebra y funciones",
+  "titulo": "Sucesiones aritméticas y geométricas",
+  "intro": "Muchas situaciones siguen un patrón: ahorrar un poco más cada mes, o que algo se duplique. Vas a descubrir regularidades y a escribir fórmulas para calcular cualquier término.",
+  "tp_aporte": "Para tu trabajo práctico ya tenés: cómo reconocer una sucesión aritmética o geométrica, las dos fórmulas del término general y ejemplos propios de cada una.",
+  "sugerencias_asistente": [
+    "¿Cómo sé si es aritmética o geométrica?",
+    "¿Cómo se arma la fórmula de aₙ?",
+    "¿Qué pasa si no es ninguna de las dos?"
+  ],
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "Regularidades y sucesiones",
+      "tiempo": "12 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Qué es una sucesión",
+          "texto": "Una **sucesión** es una lista de números ordenados. Cada uno es un **término**: a₁ es el primero, a₂ el segundo, y aₙ el que está en la posición n.\n\nPara estudiarla, buscamos una **regularidad**: qué se repite de un término al siguiente."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Dos regularidades típicas",
+          "columnas": [
+            "",
+            "Aritmética",
+            "Geométrica"
+          ],
+          "filas": [
+            [
+              "Cómo se pasa de un término al siguiente",
+              "Se **suma** siempre el mismo número (diferencia d)",
+              "Se **multiplica** siempre por el mismo número (razón r)"
+            ],
+            [
+              "Ejemplo",
+              "5, 8, 11, 14… (d = 3)",
+              "3, 6, 12, 24… (r = 2)"
+            ],
+            [
+              "Cómo se ve",
+              "Crece (o decrece) de a saltos iguales",
+              "Crece (o decrece) cada vez más rápido o más lento"
+            ]
+          ]
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Qué tipo de sucesión es cada una? Fijate qué pasa de un término al siguiente.",
+          "categorias": [
+            "Aritmética",
+            "Geométrica",
+            "Ninguna de las dos"
+          ],
+          "items": [
+            {
+              "texto": "7, 11, 15, 19…",
+              "cat": "Aritmética"
+            },
+            {
+              "texto": "20, 17, 14, 11…",
+              "cat": "Aritmética"
+            },
+            {
+              "texto": "2, 6, 18, 54…",
+              "cat": "Geométrica"
+            },
+            {
+              "texto": "80, 40, 20, 10…",
+              "cat": "Geométrica"
+            },
+            {
+              "texto": "1, 1, 2, 3, 5, 8…",
+              "cat": "Ninguna de las dos"
+            },
+            {
+              "texto": "1, 4, 9, 16…",
+              "cat": "Ninguna de las dos"
+            }
+          ],
+          "explicacion": "7, 11, 15… suma 4; 20, 17, 14… suma −3; 2, 6, 18… multiplica por 3; 80, 40, 20… multiplica por 1/2. Fibonacci y los cuadrados no tienen ni diferencia ni razón constante."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Calculá el término que sigue en 5, 9, 13, 17, …",
+          "respuesta": "21",
+          "explicacion": "Es aritmética con diferencia 4: 17 + 4 = 21.",
+          "pista": "Restá dos términos consecutivos para ver cuánto aumenta."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "En la sucesión 2, 4, 8, 16, … ¿cómo pasamos de un término al siguiente?",
+          "opciones": [
+            "Sumando 2",
+            "Multiplicando por 2",
+            "Sumando 4",
+            "Elevando al cuadrado"
+          ],
+          "correcta": 1,
+          "explicacion": "4 = 2 · 2, 8 = 4 · 2, 16 = 8 · 2: es geométrica con razón 2.",
+          "pista": "Compará 2 con 4 y 4 con 8."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá cómo reconocés si una sucesión es aritmética, geométrica o ninguna de las dos. Incluí un ejemplo de cada tipo, con su diferencia o su razón.",
+        "claves": [
+          {
+            "k": [
+              "suma",
+              "diferencia",
+              "resta"
+            ],
+            "p": "que en la aritmética se suma siempre lo mismo (diferencia)"
+          },
+          {
+            "k": [
+              "multiplic",
+              "razon",
+              "cociente",
+              "divid"
+            ],
+            "p": "que en la geométrica se multiplica siempre por lo mismo (razón)"
+          },
+          {
+            "k": [
+              "aritmetica"
+            ],
+            "p": "la sucesión aritmética"
+          },
+          {
+            "k": [
+              "geometrica"
+            ],
+            "p": "la sucesión geométrica"
+          },
+          {
+            "k": [
+              "d =",
+              "d=",
+              "r =",
+              "r=",
+              "diferencia es",
+              "razon es",
+              "diferencia de",
+              "razon de"
+            ],
+            "p": "el valor de la diferencia o de la razón en tus ejemplos"
+          }
+        ],
+        "referencia": "Aritmética: diferencia constante (5, 8, 11… d = 3). Geométrica: razón constante (3, 6, 12… r = 2).",
+        "guia": [
+          "¿Qué es una sucesión y qué indica aₙ?",
+          "¿Qué pasa de un término al siguiente en una aritmética? ¿Y en una geométrica?",
+          "¿Cómo calculás la diferencia y la razón?",
+          "¿Qué ejemplo de sucesión no es ni aritmética ni geométrica?"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "En una sucesión aritmética se suma siempre el mismo número.",
+          "respuesta": true,
+          "explicacion": "Ese número es la diferencia d."
+        },
+        {
+          "tipo": "vf",
+          "texto": "3, 6, 12, 24… es aritmética.",
+          "respuesta": false,
+          "explicacion": "Es geométrica de razón 2."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En una sucesión geométrica se multiplica siempre por el mismo número.",
+          "respuesta": true,
+          "explicacion": "Ese número es la razón r."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Toda sucesión es aritmética o geométrica.",
+          "respuesta": false,
+          "explicacion": "Fibonacci no es ninguna de las dos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "20, 17, 14, 11… es una sucesión aritmética decreciente.",
+          "respuesta": true,
+          "explicacion": "La diferencia es −3."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En 1, 4, 9, 16… la diferencia entre términos es constante.",
+          "respuesta": false,
+          "explicacion": "Las diferencias son 3, 5, 7: no son constantes."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la diferencia de 2, 9, 16, 23…?",
+          "opciones": [
+            "7",
+            "9",
+            "2",
+            "14"
+          ],
+          "correcta": 0,
+          "explicacion": "9 − 2 = 7."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la razón de 100, 50, 25…?",
+          "opciones": [
+            "1/2",
+            "2",
+            "50",
+            "−50"
+          ],
+          "correcta": 0,
+          "explicacion": "50 ÷ 100 = 1/2."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "El término que sigue en 3, 9, 27, … es…",
+          "opciones": [
+            "81",
+            "36",
+            "54",
+            "30"
+          ],
+          "correcta": 0,
+          "explicacion": "Razón 3: 27 · 3 = 81."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "En a₅, el número 5 indica…",
+          "opciones": [
+            "la posición del término",
+            "el valor del término",
+            "la razón",
+            "la diferencia"
+          ],
+          "correcta": 0,
+          "explicacion": "a₅ es el quinto término."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es aritmética?",
+          "opciones": [
+            "4, 10, 16, 22…",
+            "4, 8, 16, 32…",
+            "1, 2, 4, 7…",
+            "2, 3, 5, 8…"
+          ],
+          "correcta": 0,
+          "explicacion": "Suma 6 cada vez."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el término que sigue en 1, 1, 2, 3, 5, 8…?",
+          "opciones": [
+            "13",
+            "11",
+            "16",
+            "10"
+          ],
+          "correcta": 0,
+          "explicacion": "Es Fibonacci: 5 + 8 = 13."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "SUCESIÓN",
+          "pista": "Lista de números ordenados: a₁, a₂, a₃…"
+        },
+        {
+          "palabra": "TÉRMINO",
+          "pista": "Cada uno de los números de una sucesión."
+        },
+        {
+          "palabra": "DIFERENCIA",
+          "pista": "Número que se suma siempre en una sucesión aritmética."
+        },
+        {
+          "palabra": "RAZÓN",
+          "pista": "Número por el que se multiplica siempre en una sucesión geométrica."
+        },
+        {
+          "palabra": "REGULARIDAD",
+          "pista": "Lo que se repite de un término al siguiente."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Sucesiones aritméticas",
+      "tiempo": "14 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Una fórmula para cualquier término",
+          "texto": "En la sucesión aritmética 5, 8, 11, 14… el primer término es a₁ = 5 y la diferencia es d = 3. Para llegar al término n, **sumamos (n − 1) veces la diferencia** al primero."
+        },
+        {
+          "t": "ecuacion",
+          "titulo": "Término general de una aritmética",
+          "formula": "aₙ = a₁ + (n − 1) · d",
+          "texto": "a₁ es el primer término, d la diferencia y n la posición."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Ejemplo",
+          "texto": "En 5, 8, 11, 14…, el término 20 es a₂₀ = 5 + (20 − 1) · 3 = 5 + 57 = 62. No hace falta escribir los 20 términos."
+        },
+        {
+          "t": "sim",
+          "sim": "sucesion",
+          "tipo": "aritmetica",
+          "titulo": "Jugá con a₁, d y n"
+        },
+        {
+          "t": "verificar",
+          "consigna": "En una aritmética con a₁ = 4 y d = 6, calculá a₁₀.",
+          "respuesta": "58",
+          "explicacion": "a₁₀ = 4 + 9 · 6 = 58.",
+          "pista": "Usá aₙ = a₁ + (n − 1) · d con n = 10."
+        },
+        {
+          "t": "verificar",
+          "consigna": "En 2, 5, 8, 11, … ¿qué posición ocupa el número 98?",
+          "respuesta": "33",
+          "explicacion": "98 = 2 + (n − 1) · 3 → 96 = (n − 1) · 3 → n − 1 = 32 → n = 33.",
+          "pista": "Igualá la fórmula a 98 y despejá n."
+        },
+        {
+          "t": "pasos",
+          "titulo": "Cómo se arma la fórmula desde la tabla",
+          "pasos": [
+            {
+              "titulo": "Escribí los primeros términos",
+              "texto": "a₁ = 5, a₂ = 8, a₃ = 11, a₄ = 14."
+            },
+            {
+              "titulo": "Buscá la regularidad",
+              "texto": "Cada término es el anterior más 3: d = 3."
+            },
+            {
+              "titulo": "Fijate cuántas veces sumás d",
+              "texto": "a₂ = 5 + 1·3, a₃ = 5 + 2·3, a₄ = 5 + 3·3: sumás (n − 1) veces."
+            },
+            {
+              "titulo": "Generalizá",
+              "texto": "aₙ = 5 + (n − 1) · 3, o simplificado, aₙ = 3n + 2."
+            }
+          ]
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá la fórmula del término general de una sucesión aritmética y qué significa cada letra. Inventá una sucesión aritmética propia y calculá su término 15.",
+        "claves": [
+          {
+            "k": [
+              "n-1",
+              "n - 1",
+              "n−1",
+              "n 1",
+              "primer termino"
+            ],
+            "p": "la fórmula aₙ = a₁ + (n − 1)·d"
+          },
+          {
+            "k": [
+              "diferencia",
+              "d es",
+              "d:",
+              "d ="
+            ],
+            "p": "qué es d (la diferencia)"
+          },
+          {
+            "k": [
+              "posicion",
+              "n es",
+              "n:",
+              "n ="
+            ],
+            "p": "qué es n (la posición)"
+          },
+          {
+            "k": [
+              "a15",
+              "a₁₅",
+              "termino 15",
+              "15"
+            ],
+            "p": "el cálculo del término 15"
+          }
+        ],
+        "referencia": "aₙ = a₁ + (n − 1)·d. a₁ = primer término, d = diferencia, n = posición. Ejemplo propio con a₁₅ calculado.",
+        "guia": [
+          "¿Cuál es la fórmula y por qué se suma (n − 1) veces la diferencia?",
+          "¿Qué representan a₁, d y n?",
+          "¿Cuál es tu sucesión? ¿Cuánto vale a₁₅?",
+          "¿Cómo encontrás la posición de un número dentro de la sucesión?"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "La fórmula del término general de una aritmética es aₙ = a₁ + (n − 1)·d.",
+          "respuesta": true,
+          "explicacion": "Se suma (n − 1) veces la diferencia."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En 5, 8, 11, 14… el término 20 vale 62.",
+          "respuesta": true,
+          "explicacion": "5 + 19 · 3 = 62."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En una aritmética con d negativa, la sucesión decrece.",
+          "respuesta": true,
+          "explicacion": "Por ejemplo 20, 17, 14… con d = −3."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Para calcular a₅₀ hay que escribir los 50 términos.",
+          "respuesta": false,
+          "explicacion": "La fórmula permite calcularlo directamente."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En 3, 7, 11, 15… la diferencia es 4.",
+          "respuesta": true,
+          "explicacion": "7 − 3 = 4."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En 2, 5, 8, 11… el término 10 vale 29.",
+          "respuesta": true,
+          "explicacion": "2 + 9 · 3 = 29."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "En 4, 7, 10, … ¿cuánto vale a₁₀?",
+          "opciones": [
+            "31",
+            "34",
+            "28",
+            "40"
+          ],
+          "correcta": 0,
+          "explicacion": "4 + 9 · 3 = 31."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "En 10, 8, 6, … la diferencia es…",
+          "opciones": [
+            "−2",
+            "2",
+            "8",
+            "−10"
+          ],
+          "correcta": 0,
+          "explicacion": "8 − 10 = −2."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "En aₙ = 3n + 2, ¿cuánto vale a₄?",
+          "opciones": [
+            "14",
+            "12",
+            "11",
+            "10"
+          ],
+          "correcta": 0,
+          "explicacion": "3 · 4 + 2 = 14."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "Si a₁ = 7 y d = 5, ¿cuánto vale a₈?",
+          "opciones": [
+            "42",
+            "47",
+            "40",
+            "35"
+          ],
+          "correcta": 0,
+          "explicacion": "7 + 7 · 5 = 42."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "En la fórmula aₙ = a₁ + (n − 1)·d, la letra n representa…",
+          "opciones": [
+            "la posición del término",
+            "la diferencia",
+            "el primer término",
+            "la razón"
+          ],
+          "correcta": 0,
+          "explicacion": "n es la posición."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué posición ocupa el 17 en 2, 5, 8, 11, 14, 17…?",
+          "opciones": [
+            "6",
+            "5",
+            "7",
+            "17"
+          ],
+          "correcta": 0,
+          "explicacion": "2 + (n − 1) · 3 = 17 → n = 6."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "POSICIÓN",
+          "pista": "Lo que indica n en aₙ."
+        },
+        {
+          "palabra": "FÓRMULA",
+          "pista": "Expresión que permite calcular cualquier término sin escribir todos."
+        },
+        {
+          "palabra": "GENERAL",
+          "pista": "Término ___: fórmula para calcular cualquier término."
+        },
+        {
+          "palabra": "DECRECE",
+          "pista": "Lo que hace una aritmética cuando la diferencia es negativa."
+        },
+        {
+          "palabra": "PRIMER TÉRMINO",
+          "pista": "Lo que representa a₁."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Sucesiones geométricas",
+      "tiempo": "14 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Multiplicar siempre por lo mismo",
+          "texto": "En 3, 6, 12, 24… el primer término es a₁ = 3 y la razón es r = 2. Para llegar al término n, **multiplicamos (n − 1) veces por la razón**, es decir, usamos una potencia."
+        },
+        {
+          "t": "ecuacion",
+          "titulo": "Término general de una geométrica",
+          "formula": "aₙ = a₁ · r^(n − 1)",
+          "texto": "a₁ es el primer término, r la razón y n la posición."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Ejemplo",
+          "texto": "En 3, 6, 12, 24…, el término 8 es a₈ = 3 · 2⁷ = 3 · 128 = 384."
+        },
+        {
+          "t": "sim",
+          "sim": "sucesion",
+          "tipo": "geometrica",
+          "titulo": "Jugá con a₁, r y n"
+        },
+        {
+          "t": "verificar",
+          "consigna": "En una geométrica con a₁ = 5 y r = 2, calculá a₆.",
+          "respuesta": "160",
+          "explicacion": "a₆ = 5 · 2⁵ = 5 · 32 = 160.",
+          "pista": "Usá aₙ = a₁ · r^(n−1) con n = 6."
+        },
+        {
+          "t": "verificar",
+          "consigna": "¿Cuál es la razón de 100, 50, 25, …? Escribila como decimal.",
+          "respuesta": "0.5",
+          "acepta": [
+            "0.5",
+            "1/2"
+          ],
+          "explicacion": "50 ÷ 100 = 0,5.",
+          "pista": "Dividí un término por el anterior."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Aritmética vs. geométrica",
+          "columnas": [
+            "",
+            "Aritmética",
+            "Geométrica"
+          ],
+          "filas": [
+            [
+              "Regularidad",
+              "suma d",
+              "multiplica por r"
+            ],
+            [
+              "Término general",
+              "aₙ = a₁ + (n−1)·d",
+              "aₙ = a₁ · r^(n−1)"
+            ],
+            [
+              "Ejemplo",
+              "2, 5, 8, 11…",
+              "2, 6, 18, 54…"
+            ],
+            [
+              "Crecimiento",
+              "constante (lineal)",
+              "cada vez más rápido (exponencial) si r > 1"
+            ]
+          ]
+        },
+        {
+          "t": "opcion",
+          "pregunta": "Una colonia de bacterias se duplica cada hora y empieza con 100. ¿Cuántas habrá después de 3 horas?",
+          "opciones": [
+            "800",
+            "300",
+            "600",
+            "1000"
+          ],
+          "correcta": 0,
+          "explicacion": "Es geométrica de razón 2: 100 → 200 → 400 → 800 (a₄ = 100 · 2³ = 800).",
+          "pista": "Cada hora se multiplica por 2."
+        },
+        {
+          "t": "dato",
+          "titulo": "Lineal vs. exponencial",
+          "texto": "Imaginá dos formas de ahorrar: sumar $1000 más cada mes (aritmética, con a₁ = 1000) o duplicar cada mes lo que ahorraste el mes anterior, empezando con $1 (geométrica). En el mes 21, la aritmética da a₂₁ = 1000 + 20 · 1000 = $21.000, pero la geométrica da a₂₁ = 2²⁰ = $1.048.576. La que se multiplica termina ganando por mucho."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá la fórmula del término general de una sucesión geométrica y qué significa cada letra. Inventá una sucesión geométrica propia, calculá su término 6 y compará cómo crece con una aritmética.",
+        "claves": [
+          {
+            "k": [
+              "r^",
+              "n-1",
+              "n - 1",
+              "n−1",
+              "potencia",
+              "elevad"
+            ],
+            "p": "la fórmula con la potencia de la razón"
+          },
+          {
+            "k": [
+              "razon",
+              "r es",
+              "r:",
+              "r ="
+            ],
+            "p": "qué es r (la razón)"
+          },
+          {
+            "k": [
+              "multiplic"
+            ],
+            "p": "que en la geométrica se multiplica"
+          },
+          {
+            "k": [
+              "a6",
+              "a₆",
+              "termino 6"
+            ],
+            "p": "el cálculo del término 6"
+          },
+          {
+            "k": [
+              "suma",
+              "aritmetica"
+            ],
+            "p": "la comparación con la aritmética (se suma)"
+          }
+        ],
+        "referencia": "aₙ = a₁·r^(n−1). r = razón. Ejemplo propio con a₆ calculado. La aritmética suma d; la geométrica multiplica por r.",
+        "guia": [
+          "¿Cuál es la fórmula y por qué aparece una potencia?",
+          "¿Qué representa r?",
+          "¿Cuál es tu sucesión? ¿Cuánto vale a₆?",
+          "¿Cuál crece más rápido a largo plazo, una aritmética o una geométrica con r > 1? ¿Por qué?"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "La fórmula de una geométrica es aₙ = a₁ · r^(n−1).",
+          "respuesta": true,
+          "explicacion": "Se multiplica (n − 1) veces por la razón."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En 3, 6, 12, 24… el término 8 vale 384.",
+          "respuesta": true,
+          "explicacion": "3 · 2⁷ = 384."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Una geométrica con razón 1/2 decrece.",
+          "respuesta": true,
+          "explicacion": "Cada término es la mitad del anterior."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La razón de 2, 6, 18, 54… es 4.",
+          "respuesta": false,
+          "explicacion": "La razón es 3."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El crecimiento de una geométrica con r > 1 es cada vez más rápido.",
+          "respuesta": true,
+          "explicacion": "Es exponencial."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Fibonacci es una sucesión geométrica.",
+          "respuesta": false,
+          "explicacion": "Los cocientes no son constantes."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "En a₁ = 2 y r = 3, ¿cuánto vale a₄?",
+          "opciones": [
+            "54",
+            "24",
+            "18",
+            "162"
+          ],
+          "correcta": 0,
+          "explicacion": "2 · 3³ = 54."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la razón de 81, 27, 9, 3…?",
+          "opciones": [
+            "1/3",
+            "3",
+            "−54",
+            "27"
+          ],
+          "correcta": 0,
+          "explicacion": "27 ÷ 81 = 1/3."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "En 5, 10, 20, 40, … ¿cuál es el término 7?",
+          "opciones": [
+            "320",
+            "280",
+            "160",
+            "640"
+          ],
+          "correcta": 0,
+          "explicacion": "5 · 2⁶ = 320."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "Una población de 200 individuos se triplica cada año. ¿Cuántos habrá al segundo año (a₃)?",
+          "opciones": [
+            "1800",
+            "600",
+            "1200",
+            "5400"
+          ],
+          "correcta": 0,
+          "explicacion": "200 · 3² = 1800."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es geométrica?",
+          "opciones": [
+            "1, 5, 25, 125…",
+            "1, 5, 9, 13…",
+            "1, 2, 4, 7…",
+            "2, 3, 5, 8…"
+          ],
+          "correcta": 0,
+          "explicacion": "Razón 5."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "En aₙ = a₁ · r^(n−1), el exponente n − 1 indica…",
+          "opciones": [
+            "cuántas veces se multiplica por r",
+            "la razón",
+            "el primer término",
+            "la diferencia"
+          ],
+          "correcta": 0,
+          "explicacion": "Del primero al n-ésimo hay n − 1 pasos."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "GEOMÉTRICA",
+          "pista": "Sucesión en la que se multiplica siempre por el mismo número."
+        },
+        {
+          "palabra": "POTENCIA",
+          "pista": "En la fórmula aₙ = a₁ · r^(n−1), la razón aparece como una…"
+        },
+        {
+          "palabra": "EXPONENCIAL",
+          "pista": "Crecimiento cada vez más rápido de una geométrica con r > 1."
+        },
+        {
+          "palabra": "LINEAL",
+          "pista": "Crecimiento de a saltos iguales, como el de una aritmética."
+        },
+        {
+          "palabra": "BACTERIAS",
+          "pista": "Colonia que se duplica cada hora en un ejemplo de la cápsula."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Sucesión",
+      "definicion": "Lista de números ordenados: a₁, a₂, a₃…"
+    },
+    {
+      "palabra": "Término general",
+      "definicion": "Fórmula que da el término aₙ en función de su posición n."
+    },
+    {
+      "palabra": "Diferencia (d)",
+      "definicion": "Número que se suma siempre en una sucesión aritmética."
+    },
+    {
+      "palabra": "Razón (r)",
+      "definicion": "Número por el que se multiplica siempre en una sucesión geométrica."
+    },
+    {
+      "palabra": "Regularidad",
+      "definicion": "Patrón que se repite de un término al siguiente."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "Toda sucesión con patrón es aritmética o geométrica.",
+      "aclaracion": "Fibonacci y los cuadrados tienen patrón, pero no tienen diferencia ni razón constante."
+    },
+    {
+      "error": "aₙ = a₁ + n·d",
+      "aclaracion": "Se suma (n − 1) veces la diferencia, no n veces."
+    },
+    {
+      "error": "aₙ = a₁ · r · n",
+      "aclaracion": "Es una potencia: a₁ · r^(n−1)."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "Pensá en una situación de tu vida diaria que siga un patrón aritmético (por ejemplo, una tarifa que sube siempre lo mismo) y otra geométrica (algo que se duplica, o un porcentaje que se aplica siempre). ¿Cuál crece más rápido a largo plazo y por qué?",
+    "conexion": "Esto lo vas a poder usar en tu trabajo práctico: un problema de ahorro con dos sucesiones."
+  }
+}

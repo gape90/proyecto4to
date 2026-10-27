@@ -1,0 +1,55 @@
+{
+  "consejos": [
+    { "titulo": "Antes de presentar el Trabajo Práctico", "icono": "🗓️", "items": [
+      "Leé tu trabajo en voz alta dos o tres veces, en el orden en que lo escribiste. No lo memorices palabra por palabra: aprendete el orden de las ideas.",
+      "Para cada parte, pensá cuál es la idea más importante y un ejemplo. Si te acordás de eso, el resto sale solo.",
+      "Contáselo a alguien de tu casa o grabate con el celular: así te das cuenta de qué partes todavía no te salen claras.",
+      "Tené la carpeta completa y ordenada. Consultá con tu escuela qué materiales podés llevar."
+    ] },
+    { "titulo": "Cómo empezar", "icono": "🎤", "items": [
+      "Saludá y presentá tu trabajo con naturalidad: «Buenos días, mi trabajo trata sobre…».",
+      "Contá desde el principio qué contenidos incluye: así quien te escucha sabe a dónde vas.",
+      "Empezá por lo que mejor te sale: arrancar con algo que dominás te da confianza para seguir."
+    ] },
+    { "titulo": "Mientras explicás", "icono": "🗣️", "items": [
+      "Seguí el orden de tu trabajo: introducción, desarrollo de cada contenido, integración, relación con la realidad y conclusión.",
+      "Mirá a quienes te escuchan. La carpeta es un apoyo, no un texto para leer de corrido.",
+      "Usá ejemplos: «por ejemplo…», «esto sirve para…». Demuestran que entendiste.",
+      "Mostrá cómo pensás: el paso a paso, las causas y las consecuencias.",
+      "Usá el vocabulario de la materia que anotaste en tu carpeta.",
+      "Hablá con un ritmo tranquilo, como cuando le explicás algo a un compañero."
+    ] },
+    { "titulo": "Voz y postura", "icono": "🧍", "items": [
+      "Hablá con un volumen que se escuche bien en el aula.",
+      "Postura cómoda y derecha. Podés señalar en tu carpeta lo que estás explicando.",
+      "Evitá las muletillas («eh», «tipo», «como que»): una pausa corta queda mejor."
+    ] },
+    { "titulo": "Si te preguntan algo que no sabés", "icono": "❓", "items": [
+      "Repetí la pregunta con tus palabras: ganás tiempo y chequeás que la entendiste.",
+      "Decí lo que sí sabés relacionado: «Eso exacto no lo recuerdo, pero sé que…».",
+      "Pedí que te la repitan o la expliquen de otra manera. No inventes: es mejor ser honesto.",
+      "Si te equivocás, corregite con calma: «perdón, lo digo de nuevo». Corregirte también suma."
+    ] },
+    { "titulo": "Al terminar", "icono": "🤝", "items": [
+      "Cerrá con tu conclusión y agradecé.",
+      "Escuchá la devolución con atención: te sirve para seguir aprendiendo."
+    ] }
+  ],
+  "que_observan": [
+    "Que entiendas los contenidos, no solo que los repitas.",
+    "Que expliques con claridad y con tus palabras.",
+    "Que puedas dar ejemplos propios.",
+    "Que relaciones los contenidos entre sí y con la realidad.",
+    "Que tu carpeta esté completa y prolija.",
+    "Que uses el vocabulario de la materia."
+  ],
+  "antes_de_presentar": [
+    "Tengo la carpeta completa y ordenada.",
+    "Pasé a mi carpeta todo lo que escribí en pantalla (clases y trabajo práctico).",
+    "Leí mi trabajo en voz alta, en orden, al menos dos veces.",
+    "Sé cuál es la idea principal y un ejemplo de cada parte de mi trabajo.",
+    "Ensayé las preguntas del simulacro con mis palabras.",
+    "Consulté con mi docente lo que quedó marcado como duda.",
+    "Sé el día, la hora y el lugar donde presento el trabajo."
+  ]
+}

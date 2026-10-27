@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Potenciar · Preparate para febrero</title>
+<link rel="stylesheet" href="css/potenciar.css">
+</head>
+<body>
+<div id="cab"></div>
+<main class="contenedor">
+  <section class="hero">
+    <h1>Potenciar</h1>
+    <p>Preparate para febrero: aprendé los contenidos que te faltan, practicá con juegos y armá paso a paso el trabajo práctico que vas a presentar y defender.</p>
+  </section>
+
+  <section class="tarjeta">
+    <div class="titulo-seccion"><div class="chip-icono">✎</div><h2>Tus datos</h2></div>
+    <div class="subrayado"></div>
+    <div class="form-grid">
+      <div class="campo-full"><label class="campo" for="nombre">Tu nombre</label>
+        <input type="text" id="nombre" autocomplete="given-name" placeholder="Por ejemplo: Sofía"></div>
+      <div><label class="campo" for="modalidad">Modalidad</label>
+        <select id="modalidad"><option value="">Elegí…</option></select></div>
+      <div><label class="campo" for="curso">Curso</label>
+        <select id="curso" disabled><option value="">Primero elegí la modalidad</option></select></div>
+      <div class="campo-full"><label class="campo" for="espacio">Espacio curricular que te llevás a febrero</label>
+        <select id="espacio" disabled><option value="">Primero elegí el curso</option></select></div>
+    </div>
+    <p class="ayuda" id="aviso" style="margin-top:10px">Por ahora están habilitados Matemática e Historia de 4.º año de escuela orientada.</p>
+
+    <div id="bloque-cont" class="oculto">
+      <h3 style="margin-top:22px">Marcá los contenidos que tenés que recuperar</h3>
+      <p class="ayuda">Tu profesor o profesora te dijo qué contenidos tenés que preparar. Marcá solo esos: vas a ver las clases de lo que elijas.</p>
+      <div class="acciones" style="margin:0 0 14px"><button class="btn suave chico" id="todos">Marcar todos los disponibles</button><button class="btn suave chico" id="ninguno">Desmarcar</button><span class="ayuda" id="cuenta"></span></div>
+      <div id="contenidos"></div>
+    </div>
+    <div class="acciones"><button class="btn" id="empezar" disabled>Empezar mi recorrido →</button><span class="ayuda" id="falta"></span></div>
+  </section>
+</main>
+<div class="pie">Potenciar · Programa del Ministerio de Educación de la Provincia de Santa Fe · Tu avance se guarda solo en este dispositivo.</div>
+
+<script type="module">
+import { leer, actualizar, esc, cargarJSON, cabecera } from './js/estado.js';
+import { MODALIDADES } from './js/config.js';
+
+document.getElementById('cab').innerHTML = cabecera();
+const $ = id => document.getElementById(id);
+let cat;
+const e = leer();
+
+function opcionesModalidad() {
+  $('modalidad').innerHTML = '<option value="">Elegí…</option>' + Object.entries(MODALIDADES).map(([k, m]) =>
+    `<option value="${k}" ${e.alumno.modalidad === k ? 'selected' : ''}>${m.nombre}</option>`).join('');
+}
+function opcionesCurso() {
+  const m = MODALIDADES[e.alumno.modalidad];
+  $('curso').disabled = !m;
+  if (!m) { $('curso').innerHTML = '<option value="">Primero elegí la modalidad</option>'; return; }
+  $('curso').innerHTML = '<option value="">Elegí…</option>' + m.cursos.map(c => {
+    const hab = m.habilitado.includes(c);
+    return `<option value="${c}" ${hab ? '' : 'disabled'} ${String(e.alumno.curso) === String(c) ? 'selected' : ''}>${c}.º año${hab ? '' : ' (próximamente)'}</option>`;
+  }).join('');
+}
+function opcionesEspacio() {
+  const ok = !!e.alumno.modalidad && !!e.alumno.curso;
+  $('espacio').disabled = !ok;
+  if (!ok) { $('espacio').innerHTML = '<option value="">Primero elegí el curso</option>'; return; }
+  const orientadaOk = e.alumno.modalidad === 'orientada' && Number(e.alumno.curso) === 4;
+  const lista = cat.espacios.filter(s => s.modalidades.includes(e.alumno.modalidad));
+  $('espacio').innerHTML = '<option value="">Elegí…</option>' + lista.map(s => {
+    const hab = s.habilitado && orientadaOk;
+    return `<option value="${s.id}" ${hab ? '' : 'disabled'} ${e.espacio === s.id && hab ? 'selected' : ''}>${esc(s.nombre)}${hab ? '' : ' (próximamente)'}</option>`;
+  }).join('');
+  if (!$('espacio').value) e.espacio = '';
+  $('aviso').textContent = orientadaOk ? 'Por ahora están habilitados Matemática e Historia.'
+    : 'Los espacios de esta modalidad y curso todavía no están habilitados: por ahora funciona 4.º año de escuela orientada.';
+}
+function pintarContenidos() {
+  const lista = (cat.contenidos[e.espacio] || []);
+  $('bloque-cont').classList.toggle('oculto', !e.espacio);
+  if (!e.espacio) { validar(); return; }
+  e.seleccion = e.seleccion.filter(id => lista.some(c => c.id === id && c.activo));
+  const ejes = [...new Set(lista.map(c => c.eje))];
+  $('contenidos').innerHTML = ejes.map(eje => `<div class="eje"><h3>${esc(eje)}</h3>` +
+    lista.filter(c => c.eje === eje).map(c => {
+      const sel = e.seleccion.includes(c.id);
+      return `<label class="contenido ${c.activo ? '' : 'inactivo'} ${sel ? 'sel' : ''}">
+        <input type="checkbox" value="${c.id}" ${c.activo ? '' : 'disabled'} ${sel ? 'checked' : ''}>
+        <div><div class="t">${esc(c.titulo)}${c.activo ? '' : '<span class="pronto">Próximamente</span>'}</div>
+        <ul>${c.desglose.map(d => `<li>${esc(d)}</li>`).join('')}</ul></div></label>`;
+    }).join('') + '</div>').join('');
+  validar();
+}
+function validar() {
+  const n = e.seleccion.length;
+  $('cuenta').textContent = n ? `${n} contenido${n > 1 ? 's' : ''} elegido${n > 1 ? 's' : ''}` : 'Todavía no elegiste ninguno';
+  const faltan = [];
+  if ($('nombre').value.trim().length < 2) faltan.push('tu nombre');
+  if (!e.alumno.modalidad) faltan.push('la modalidad');
+  if (!e.alumno.curso) faltan.push('el curso');
+  if (!e.espacio) faltan.push('el espacio curricular');
+  else if (!n) faltan.push('al menos un contenido');
+  $('empezar').disabled = faltan.length > 0;
+  $('falta').textContent = faltan.length ? 'Falta: ' + faltan.join(', ') + '.' : '';
+}
+
+$('nombre').addEventListener('input', () => { e.alumno.nombre = $('nombre').value.trim(); validar(); });
+$('modalidad').onchange = () => { e.alumno.modalidad = $('modalidad').value; e.alumno.curso = ''; e.espacio = ''; e.seleccion = []; opcionesCurso(); opcionesEspacio(); pintarContenidos(); };
+$('curso').onchange = () => { e.alumno.curso = $('curso').value; e.espacio = ''; e.seleccion = []; opcionesEspacio(); pintarContenidos(); };
+$('espacio').onchange = () => { if (e.espacio !== $('espacio').value) e.seleccion = []; e.espacio = $('espacio').value; pintarContenidos(); };
+$('contenidos').addEventListener('change', ev => {
+  const i = ev.target; if (i.type !== 'checkbox') return;
+  e.seleccion = i.checked ? [...new Set([...e.seleccion, i.value])] : e.seleccion.filter(x => x !== i.value);
+  i.closest('.contenido').classList.toggle('sel', i.checked);
+  validar();
+});
+$('todos').onclick = () => { e.seleccion = (cat.contenidos[e.espacio] || []).filter(c => c.activo).map(c => c.id); pintarContenidos(); };
+$('ninguno').onclick = () => { e.seleccion = []; pintarContenidos(); };
+$('empezar').onclick = () => {
+  e.alumno.nombre = $('nombre').value.trim();
+  actualizar(x => { x.alumno = e.alumno; x.espacio = e.espacio; x.seleccion = e.seleccion; });
+  location.href = 'recorrido.html';
+};
+
+cargarJSON('contenidos/catalogo.json').then(c => {
+  cat = c;
+  $('nombre').value = e.alumno.nombre || '';
+  opcionesModalidad(); opcionesCurso(); opcionesEspacio(); pintarContenidos();
+}).catch(err => {
+  document.querySelector('main').insertAdjacentHTML('afterbegin',
+    `<div class="tarjeta"><b>No se pudo cargar el catálogo.</b><br>Abrí la plataforma desde un servidor web (iniciar.bat o GitHub Pages), no haciendo doble clic en el archivo.<br><small>${esc(err.message)}</small></div>`);
+});
+</script>
+</body>
+</html>

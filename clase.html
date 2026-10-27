@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Clase · Potenciar</title>
+<link rel="stylesheet" href="css/potenciar.css">
+</head>
+<body>
+<div id="cab"></div>
+<main class="contenedor"><div id="clase"><p class="ayuda">Cargando la clase…</p></div></main>
+<script type="module">
+import { cargarJSON, cabecera, esc, leer } from './js/estado.js';
+import { montarClase } from './js/motor.js';
+import { montarAsistente, contextoDeClase } from './js/asistente.js';
+
+document.getElementById('cab').innerHTML = cabecera({ volver: { href: 'recorrido.html', texto: 'Mi recorrido' } });
+const id = new URLSearchParams(location.search).get('c');
+try {
+  if (!/^[a-z0-9-]+$/.test(id || '')) throw new Error('Clase no válida');
+  const clase = await cargarJSON(`contenidos/clases/${id}.json`);
+  document.title = `${clase.titulo} · Potenciar`;
+  montarClase(document.getElementById('clase'), clase);
+  montarAsistente({
+    contexto: contextoDeClase(clase), vocabulario: clase.vocabulario || [],
+    sugerencias: clase.sugerencias_asistente || ['¿Me lo explicás con otro ejemplo?', '¿Cómo empiezo?'],
+  });
+} catch (err) {
+  document.getElementById('clase').innerHTML = `<div class="tarjeta"><b>No se pudo abrir la clase.</b><br>${esc(err.message)}<br><a href="recorrido.html">Volver a mi recorrido</a></div>`;
+}
+</script>
+</body>
+</html>

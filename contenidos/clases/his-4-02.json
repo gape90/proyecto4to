@@ -1,0 +1,944 @@
+{
+  "id": "his-4-02",
+  "espacio": "historia",
+  "eje": "Democracia ampliada y primera posguerra",
+  "titulo": "Los nacionalismos del período de entreguerras",
+  "intro": "Entre las dos guerras mundiales (1918-1939) crecieron en el mundo ideas que ponían a la nación por encima de todo. Vas a ver qué eran, cómo llegaron al poder en Europa y cómo aparecieron en América Latina y en la Argentina.",
+  "tp_aporte": "Para tu trabajo práctico ya tenés: qué es un nacionalismo autoritario, cómo se desarrollaron el fascismo y el nazismo, y qué formas tomó el nacionalismo en la Argentina y en América Latina.",
+  "sugerencias_asistente": [
+    "¿Qué es un nacionalismo?",
+    "¿Qué diferencia hay entre fascismo y nazismo?",
+    "¿Qué fue la Liga Patriótica?"
+  ],
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "Qué es un nacionalismo autoritario",
+      "tiempo": "12 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Un mundo en crisis",
+          "texto": "Después de la Primera Guerra Mundial (1914-1918), Europa quedó destruida y endeudada. Los tratados de paz (como el de Versalles, 1919) dejaron resentimientos. Se sumaron la Revolución Rusa de 1917, que asustaba a las clases dirigentes, y la crisis económica de 1929.\n\nEn ese clima, muchos grupos buscaron respuestas en el **nacionalismo**: la idea de que la nación es lo más importante."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Rasgos de los nacionalismos autoritarios",
+          "texto": "• Exaltan la **nación** y su supuesta grandeza.\n• Un **líder** con mucho poder y un **partido único**.\n• Rechazan el **liberalismo** (libertades, parlamento) y el **comunismo**.\n• Exaltan lo militar y la violencia política.\n• Desconfían de la democracia."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿A qué modelo corresponde cada rasgo? Releé el recuadro de los rasgos: lo que no está ahí es propio de la democracia liberal.",
+          "categorias": [
+            "Nacionalismo autoritario",
+            "Democracia liberal"
+          ],
+          "items": [
+            {
+              "texto": "Un líder con poder casi absoluto",
+              "cat": "Nacionalismo autoritario"
+            },
+            {
+              "texto": "Elecciones libres con varios partidos",
+              "cat": "Democracia liberal"
+            },
+            {
+              "texto": "Partido único",
+              "cat": "Nacionalismo autoritario"
+            },
+            {
+              "texto": "Libertad de prensa",
+              "cat": "Democracia liberal"
+            },
+            {
+              "texto": "División de poderes",
+              "cat": "Democracia liberal"
+            },
+            {
+              "texto": "Culto a la patria y al ejército",
+              "cat": "Nacionalismo autoritario"
+            }
+          ],
+          "explicacion": "Los nacionalismos autoritarios concentran el poder y limitan las libertades; la democracia liberal las garantiza."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Cuál de estos hechos NO aparece en la cápsula como causa del crecimiento de los nacionalismos?",
+          "opciones": [
+            "La Reforma Universitaria",
+            "La crisis económica de 1929",
+            "La Revolución Rusa de 1917",
+            "Los resentimientos que dejó el Tratado de Versalles"
+          ],
+          "correcta": 0,
+          "explicacion": "La cápsula nombra la destrucción y las deudas de la Primera Guerra, el Tratado de Versalles, la Revolución Rusa y la crisis de 1929. La Reforma Universitaria fue un hecho argentino de 1918 sobre las universidades.",
+          "pista": "Releé el primer texto, «Un mundo en crisis»."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué en tiempos de crisis económica algunas personas aceptan líderes autoritarios que prometen orden?",
+          "respuesta": "Porque la crisis genera miedo, desempleo y desconfianza en los gobiernos existentes. Un líder que promete soluciones rápidas y un culpable atrae a quienes se sienten perdidos, aunque pida renunciar a libertades."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Cuál de estas NO es una característica típica de los nacionalismos autoritarios de entreguerras?",
+          "opciones": [
+            "Respeto a la oposición y alternancia de partidos",
+            "Culto al líder",
+            "Partido único",
+            "Rechazo al comunismo y al liberalismo"
+          ],
+          "correcta": 0,
+          "explicacion": "Los nacionalismos autoritarios eliminaban o perseguían a la oposición.",
+          "pista": "Pensá qué modelo defiende la alternancia de partidos."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué es un nacionalismo autoritario y por qué creció entre las dos guerras mundiales. Incluí al menos tres de sus rasgos y dos causas (hechos o problemas de la época).",
+        "guia": [
+          "¿Qué es lo más importante para un nacionalismo?",
+          "¿Quién concentra el poder, cuántos partidos hay y qué rechazan estos regímenes?",
+          "¿Cómo quedó Europa después de la Primera Guerra Mundial?",
+          "¿Qué otros hechos de la época (1917, 1929) empujaron a mucha gente a buscar líderes fuertes?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "nacion",
+              "patria"
+            ],
+            "p": "la exaltación de la nación"
+          },
+          {
+            "k": [
+              "lider",
+              "jefe"
+            ],
+            "p": "el poder concentrado en un líder"
+          },
+          {
+            "k": [
+              "partido unico"
+            ],
+            "p": "el partido único"
+          },
+          {
+            "k": [
+              "comunis",
+              "liberal"
+            ],
+            "p": "el rechazo al comunismo o al liberalismo"
+          },
+          {
+            "k": [
+              "crisis",
+              "guerra",
+              "versalles",
+              "revolucion rusa",
+              "desemple"
+            ],
+            "p": "las causas: guerra, crisis, Revolución Rusa…"
+          }
+        ],
+        "referencia": "Ideología que exalta la nación, con un líder fuerte y partido único, que rechaza el liberalismo y el comunismo, exalta lo militar y desconfía de la democracia. Creció por la destrucción de la posguerra, el Tratado de Versalles, la Revolución Rusa y la crisis de 1929.",
+        "minPalabras": 30
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Los nacionalismos autoritarios defendían las libertades y el parlamento.",
+          "respuesta": false,
+          "explicacion": "Rechazaban el liberalismo, es decir, las libertades y el parlamento."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Estos nacionalismos rechazaban tanto el liberalismo como el comunismo.",
+          "respuesta": true,
+          "explicacion": "Así lo dice el recuadro de los rasgos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Después de la Primera Guerra Mundial, Europa quedó destruida y endeudada.",
+          "respuesta": true,
+          "explicacion": "Y los tratados de paz dejaron resentimientos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Un rasgo de estos nacionalismos era tener varios partidos que se alternaban en el gobierno.",
+          "respuesta": false,
+          "explicacion": "Tenían un partido único."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La crisis económica de 1929 fue una de las causas del crecimiento de estos movimientos.",
+          "respuesta": true,
+          "explicacion": "Se sumó a la posguerra y a la Revolución Rusa."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los nacionalismos autoritarios exaltaban lo militar y la violencia política.",
+          "respuesta": true,
+          "explicacion": "Es uno de sus rasgos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La libertad de prensa es un rasgo de los nacionalismos autoritarios.",
+          "respuesta": false,
+          "explicacion": "Es propia de la democracia liberal."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué hecho de 1917 asustaba a las clases dirigentes?",
+          "opciones": [
+            "La Revolución Rusa",
+            "La crisis de 1929",
+            "El Tratado de Versalles",
+            "La Reforma Universitaria"
+          ],
+          "correcta": 0,
+          "explicacion": "Así lo dice el texto «Un mundo en crisis»."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué idea está en el centro del nacionalismo?",
+          "opciones": [
+            "Que la nación es lo más importante",
+            "Que todas las naciones son iguales",
+            "Que no deben existir fronteras",
+            "Que el parlamento decide todo"
+          ],
+          "correcta": 0,
+          "explicacion": "Por eso exaltan la nación y su supuesta grandeza."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es un rasgo típico del nacionalismo autoritario?",
+          "opciones": [
+            "Un líder con mucho poder",
+            "La división de poderes",
+            "La libertad de prensa",
+            "Elecciones libres con varios partidos"
+          ],
+          "correcta": 0,
+          "explicacion": "Junto con el partido único."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué rasgo corresponde a una democracia liberal?",
+          "opciones": [
+            "Elecciones libres con varios partidos",
+            "Partido único",
+            "Culto a la patria y al ejército",
+            "Un líder con poder casi absoluto"
+          ],
+          "correcta": 0,
+          "explicacion": "La democracia liberal garantiza libertades y alternancia."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué en tiempos de crisis algunas personas aceptan líderes autoritarios?",
+          "opciones": [
+            "Porque prometen soluciones rápidas y orden",
+            "Porque garantizan más libertades",
+            "Porque respetan a la oposición",
+            "Porque bajan la violencia política"
+          ],
+          "correcta": 0,
+          "explicacion": "La crisis genera miedo y desconfianza en los gobiernos existentes."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué tratado de paz de 1919 dejó resentimientos?",
+          "opciones": [
+            "El Tratado de Versalles",
+            "El Pacto Roca-Runciman",
+            "La Ley Sáenz Peña",
+            "El New Deal"
+          ],
+          "correcta": 0,
+          "explicacion": "Se firmó al terminar la Primera Guerra Mundial."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "NACIONALISMO",
+          "pista": "Idea de que la nación es lo más importante."
+        },
+        {
+          "palabra": "VERSALLES",
+          "pista": "Tratado de paz de 1919 que dejó resentimientos."
+        },
+        {
+          "palabra": "LIBERALISMO",
+          "pista": "Ideas de libertades y parlamento que rechazaban los nacionalismos autoritarios."
+        },
+        {
+          "palabra": "COMUNISMO",
+          "pista": "Además del liberalismo, estos nacionalismos rechazaban el…"
+        },
+        {
+          "palabra": "LÍDER",
+          "pista": "Persona que concentra mucho poder en estos regímenes."
+        },
+        {
+          "palabra": "PARTIDO ÚNICO",
+          "pista": "En estos regímenes no había varios partidos, sino un…"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Fascismo y nazismo",
+      "tiempo": "14 min",
+      "bloques": [
+        {
+          "t": "linea",
+          "titulo": "Camino hacia la guerra",
+          "eventos": [
+            {
+              "anio": "1919",
+              "titulo": "Tratado de Versalles",
+              "texto": "Alemania queda obligada a pagar reparaciones y pierde territorios."
+            },
+            {
+              "anio": "1922",
+              "titulo": "Marcha sobre Roma",
+              "texto": "Benito Mussolini, líder del fascismo italiano, llega al gobierno de Italia."
+            },
+            {
+              "anio": "1929",
+              "titulo": "Crisis mundial",
+              "texto": "La crisis económica aumenta el desempleo, sobre todo en Alemania."
+            },
+            {
+              "anio": "1933",
+              "titulo": "Hitler, canciller",
+              "texto": "Adolf Hitler, líder del partido nazi, es designado canciller de Alemania y poco después concentra todo el poder."
+            },
+            {
+              "anio": "1939",
+              "titulo": "Comienza la Segunda Guerra Mundial",
+              "texto": "Alemania invade Polonia."
+            }
+          ]
+        },
+        {
+          "t": "comparar",
+          "titulo": "Fascismo y nazismo",
+          "columnas": [
+            "",
+            "Fascismo italiano",
+            "Nazismo alemán"
+          ],
+          "filas": [
+            [
+              "Líder",
+              "Benito Mussolini (el Duce)",
+              "Adolf Hitler (el Führer)"
+            ],
+            [
+              "Llegada al poder",
+              "1922",
+              "1933"
+            ],
+            [
+              "Rasgos en común",
+              "Nacionalismo extremo, partido único, culto al líder, violencia política",
+              "Nacionalismo extremo, partido único, culto al líder, violencia política"
+            ],
+            [
+              "Rasgo distintivo",
+              "Idea de un Estado fuerte que lo controla todo",
+              "Racismo y antisemitismo como política de Estado, que llevó al Holocausto"
+            ]
+          ]
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená estos hechos de más antiguo a más reciente. Los años no están: buscalos en la línea de tiempo.",
+          "items": [
+            "Se firma el Tratado de Versalles",
+            "Mussolini llega al gobierno de Italia",
+            "Una crisis económica mundial aumenta el desempleo",
+            "Hitler es designado canciller de Alemania",
+            "Alemania invade Polonia"
+          ],
+          "explicacion": "1919: Versalles; 1922: Mussolini; 1929: crisis mundial; 1933: Hitler canciller; 1939: invasión de Polonia y comienzo de la Segunda Guerra Mundial.",
+          "pista": "Buscá cada hecho en la línea «Camino hacia la guerra»."
+        },
+        {
+          "t": "verificar",
+          "consigna": "¿Cuántos años pasaron entre la llegada de Mussolini al gobierno de Italia y la designación de Hitler como canciller de Alemania?",
+          "respuesta": "11",
+          "explicacion": "Mussolini llegó en 1922 y Hitler en 1933: pasaron 11 años.",
+          "pista": "Buscá los dos años en la línea de tiempo o en la tabla, y restá."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Qué rasgo distingue especialmente al nazismo?",
+          "opciones": [
+            "El racismo y el antisemitismo como política de Estado",
+            "La libertad de prensa",
+            "El respeto al Parlamento",
+            "La neutralidad"
+          ],
+          "correcta": 0,
+          "explicacion": "Esa política llevó a la persecución y al exterminio de millones de personas (el Holocausto).",
+          "pista": "Pensá en lo que diferencia al nazismo del fascismo italiano."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué es importante estudiar estos regímenes hoy?",
+          "respuesta": "Porque muestran cómo se puede perder la democracia y los derechos paso a paso, y a qué consecuencias lleva el odio y la violencia política. Conocerlos ayuda a reconocer señales de peligro."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Compará el fascismo italiano y el nazismo alemán. Incluí quiénes los lideraron y cuándo llegaron al poder, qué tenían en común, qué rasgo distingue al nazismo y cómo se llegó a la Segunda Guerra Mundial.",
+        "guia": [
+          "¿Quién lideró cada régimen y en qué año llegó al poder?",
+          "¿Qué rasgos compartían?",
+          "¿Qué rasgo distingue al nazismo y a qué llevó?",
+          "¿Qué hechos hubo entre el Tratado de Versalles y 1939?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "mussolini",
+              "italia"
+            ],
+            "p": "Mussolini y el fascismo italiano"
+          },
+          {
+            "k": [
+              "hitler",
+              "alemania"
+            ],
+            "p": "Hitler y el nazismo alemán"
+          },
+          {
+            "k": [
+              "1922",
+              "1933"
+            ],
+            "p": "los años de llegada al poder"
+          },
+          {
+            "k": [
+              "en comun",
+              "ambos",
+              "los dos",
+              "partido unico",
+              "lider",
+              "violencia"
+            ],
+            "p": "los rasgos en común"
+          },
+          {
+            "k": [
+              "racis",
+              "antisemit",
+              "holocausto"
+            ],
+            "p": "el racismo y el antisemitismo del nazismo"
+          },
+          {
+            "k": [
+              "1939",
+              "polonia",
+              "segunda guerra"
+            ],
+            "p": "el comienzo de la Segunda Guerra Mundial"
+          }
+        ],
+        "referencia": "Fascismo: Mussolini, 1922 (Marcha sobre Roma), Estado fuerte que controla todo. Nazismo: Hitler, canciller en 1933, racismo y antisemitismo como política de Estado (Holocausto). En común: nacionalismo extremo, partido único, culto al líder y violencia política. Versalles (1919), crisis de 1929 y en 1939 Alemania invade Polonia: comienza la Segunda Guerra.",
+        "minPalabras": 35
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Mussolini llegó al gobierno de Italia en 1922, con la Marcha sobre Roma.",
+          "respuesta": true,
+          "explicacion": "Era el líder del fascismo italiano."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Hitler fue designado canciller de Alemania en 1933.",
+          "respuesta": true,
+          "explicacion": "Poco después concentró todo el poder."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Segunda Guerra Mundial comenzó cuando Alemania invadió Polonia, en 1939.",
+          "respuesta": true,
+          "explicacion": "Así cierra la línea «Camino hacia la guerra»."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El racismo y el antisemitismo eran política de Estado en el nazismo.",
+          "respuesta": true,
+          "explicacion": "Llevaron al Holocausto."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Fascismo y nazismo no tenían rasgos en común.",
+          "respuesta": false,
+          "explicacion": "Compartían nacionalismo extremo, partido único, culto al líder y violencia política."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con el Tratado de Versalles, Alemania quedó obligada a pagar reparaciones y perdió territorios.",
+          "respuesta": true,
+          "explicacion": "Eso dejó resentimientos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La crisis de 1929 aumentó el desempleo, sobre todo en Alemania.",
+          "respuesta": true,
+          "explicacion": "Fue parte del camino hacia la guerra."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quién era el líder del fascismo italiano?",
+          "opciones": [
+            "Benito Mussolini",
+            "Adolf Hitler",
+            "Getúlio Vargas",
+            "José F. Uriburu"
+          ],
+          "correcta": 0,
+          "explicacion": "Lo llamaban «el Duce»."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué cargo recibió Hitler en 1933?",
+          "opciones": [
+            "Canciller de Alemania",
+            "Rey de Alemania",
+            "Presidente de Italia",
+            "General del Ejército"
+          ],
+          "correcta": 0,
+          "explicacion": "Lo llamaban «el Führer»."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué hecho de 1939 inició la Segunda Guerra Mundial?",
+          "opciones": [
+            "La invasión alemana a Polonia",
+            "La Marcha sobre Roma",
+            "El Tratado de Versalles",
+            "La crisis mundial"
+          ],
+          "correcta": 0,
+          "explicacion": "Alemania invadió Polonia."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué rasgo distingue al nazismo del fascismo italiano?",
+          "opciones": [
+            "El racismo y el antisemitismo como política de Estado",
+            "El partido único",
+            "El culto al líder",
+            "El nacionalismo extremo"
+          ],
+          "correcta": 0,
+          "explicacion": "Los otros tres rasgos los compartían."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué idea distintiva tenía el fascismo italiano?",
+          "opciones": [
+            "Un Estado fuerte que lo controla todo",
+            "La libertad de prensa",
+            "La neutralidad",
+            "El respeto al parlamento"
+          ],
+          "correcta": 0,
+          "explicacion": "Así aparece en la tabla «Fascismo y nazismo»."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué es importante estudiar estos regímenes hoy?",
+          "opciones": [
+            "Porque muestran cómo se pueden perder la democracia y los derechos paso a paso",
+            "Porque todavía gobiernan en Europa",
+            "Porque fueron democráticos",
+            "Porque no tuvieron consecuencias"
+          ],
+          "correcta": 0,
+          "explicacion": "Conocerlos ayuda a reconocer señales de peligro."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "MUSSOLINI",
+          "pista": "Líder del fascismo italiano, llamado «el Duce»."
+        },
+        {
+          "palabra": "HITLER",
+          "pista": "Líder del partido nazi, canciller de Alemania desde 1933."
+        },
+        {
+          "palabra": "HOLOCAUSTO",
+          "pista": "Persecución y exterminio de millones de personas al que llevó el racismo nazi."
+        },
+        {
+          "palabra": "POLONIA",
+          "pista": "País invadido por Alemania en 1939."
+        },
+        {
+          "palabra": "CANCILLER",
+          "pista": "Cargo para el que fue designado Hitler en 1933."
+        },
+        {
+          "palabra": "FASCISMO",
+          "pista": "Régimen nacionalista autoritario de Italia."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "En América Latina y en la Argentina",
+      "tiempo": "14 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Un nacionalismo con muchas caras",
+          "texto": "En América Latina también hubo nacionalismos. Algunos se parecían a los europeos, pero no fueron todos iguales. Había **nacionalismos autoritarios y conservadores** y también **nacionalismos populares y antiimperialistas**, que criticaban la dependencia económica de potencias como el Reino Unido."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Un ejemplo en América Latina",
+          "texto": "En **Brasil**, Getúlio Vargas instauró en 1937 el **Estado Novo**, un régimen autoritario con fuerte intervención del Estado en la economía. También existió allí un movimiento de tipo fascista, el Integralismo."
+        },
+        {
+          "t": "linea",
+          "titulo": "El nacionalismo en la Argentina",
+          "eventos": [
+            {
+              "anio": "1919",
+              "titulo": "Liga Patriótica Argentina",
+              "texto": "Surge tras la Semana Trágica; grupos civiles armados reprimen a obreros y a inmigrantes."
+            },
+            {
+              "anio": "1924",
+              "titulo": "«La hora de la espada»",
+              "texto": "El poeta Leopoldo Lugones pide en un discurso que el Ejército tome el control del país."
+            },
+            {
+              "anio": "1930",
+              "titulo": "Golpe de Uriburu",
+              "texto": "El general José F. Uriburu derroca a Yrigoyen; admiraba ideas corporativistas y autoritarias."
+            },
+            {
+              "anio": "1935",
+              "titulo": "FORJA",
+              "texto": "Un grupo de radicales, con Arturo Jauretche y Raúl Scalabrini Ortiz, defiende un nacionalismo popular y antiimperialista."
+            }
+          ]
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Qué tipo de nacionalismo representa cada ejemplo? Si no te acordás qué fue cada uno, buscalo en la línea de tiempo.",
+          "categorias": [
+            "Nacionalismo autoritario o conservador",
+            "Nacionalismo popular o antiimperialista"
+          ],
+          "items": [
+            {
+              "texto": "Liga Patriótica Argentina",
+              "cat": "Nacionalismo autoritario o conservador"
+            },
+            {
+              "texto": "«La hora de la espada» de Lugones",
+              "cat": "Nacionalismo autoritario o conservador"
+            },
+            {
+              "texto": "Golpe de Uriburu",
+              "cat": "Nacionalismo autoritario o conservador"
+            },
+            {
+              "texto": "FORJA",
+              "cat": "Nacionalismo popular o antiimperialista"
+            },
+            {
+              "texto": "Críticas a la dependencia económica del Reino Unido",
+              "cat": "Nacionalismo popular o antiimperialista"
+            }
+          ],
+          "explicacion": "El primer grupo apelaba a la fuerza y al orden; el segundo, a la defensa de los intereses económicos nacionales frente a las potencias."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Por qué no se puede decir que «el nacionalismo argentino» fue uno solo?",
+          "opciones": [
+            "Porque hubo corrientes autoritarias y corrientes populares con objetivos distintos",
+            "Porque solo existió en Europa",
+            "Porque nunca tuvo apoyo",
+            "Porque todos eran iguales"
+          ],
+          "correcta": 0,
+          "explicacion": "Hay que mirar quiénes eran, qué querían y qué proponían.",
+          "pista": "Pensá en la Liga Patriótica y en FORJA."
+        },
+        {
+          "t": "verificar",
+          "consigna": "La Liga Patriótica surgió después de un hecho que estudiaste en la clase de los gobiernos radicales. ¿Cuál fue ese hecho?",
+          "respuesta": "Semana Trágica",
+          "acepta": [
+            "semana tragica",
+            "la semana tragica"
+          ],
+          "explicacion": "La Liga Patriótica surgió en 1919, tras la Semana Trágica.",
+          "pista": "Mirá el primer hecho de la línea «El nacionalismo en la Argentina».",
+          "placeholder": "Escribí el nombre del hecho"
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá cómo se expresó el nacionalismo en América Latina y en la Argentina entre 1919 y 1937. Diferenciá el nacionalismo autoritario del popular con un ejemplo argentino de cada uno, y sumá un ejemplo de otro país latinoamericano.",
+        "guia": [
+          "¿Qué tipos de nacionalismo hubo en América Latina?",
+          "¿Qué hicieron la Liga Patriótica, Lugones y Uriburu?",
+          "¿Qué fue FORJA y qué criticaba?",
+          "¿Qué pasó en Brasil con Getúlio Vargas?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "liga patriotica",
+              "lugones",
+              "uriburu",
+              "hora de la espada"
+            ],
+            "p": "un ejemplo de nacionalismo autoritario"
+          },
+          {
+            "k": [
+              "forja",
+              "jauretche",
+              "scalabrini"
+            ],
+            "p": "un ejemplo de nacionalismo popular (FORJA)"
+          },
+          {
+            "k": [
+              "autoritar",
+              "conservador",
+              "ejercito",
+              "reprim"
+            ],
+            "p": "las características del nacionalismo autoritario"
+          },
+          {
+            "k": [
+              "popular",
+              "antiimperialis",
+              "dependencia",
+              "reino unido"
+            ],
+            "p": "las características del nacionalismo popular"
+          },
+          {
+            "k": [
+              "brasil",
+              "vargas",
+              "estado novo"
+            ],
+            "p": "un ejemplo de otro país (Brasil, Vargas)"
+          }
+        ],
+        "referencia": "Autoritario: Liga Patriótica (1919, reprime a obreros e inmigrantes), Lugones y «La hora de la espada» (1924), golpe de Uriburu (1930). Popular y antiimperialista: FORJA (1935, Jauretche y Scalabrini Ortiz), crítica a la dependencia del Reino Unido. Brasil: Vargas y el Estado Novo (1937).",
+        "minPalabras": 35
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "La Liga Patriótica Argentina surgió tras la Semana Trágica de 1919.",
+          "respuesta": true,
+          "explicacion": "Grupos civiles armados reprimían a obreros e inmigrantes."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En «La hora de la espada», Lugones pidió que el Ejército tomara el control del país.",
+          "respuesta": true,
+          "explicacion": "Fue un discurso de 1924."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la Argentina hubo un solo tipo de nacionalismo.",
+          "respuesta": false,
+          "explicacion": "Hubo corrientes autoritarias y corrientes populares."
+        },
+        {
+          "tipo": "vf",
+          "texto": "FORJA defendía un nacionalismo popular y antiimperialista.",
+          "respuesta": true,
+          "explicacion": "La formaron radicales como Jauretche y Scalabrini Ortiz."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Uriburu derrocó a Yrigoyen en 1930.",
+          "respuesta": true,
+          "explicacion": "Admiraba ideas corporativistas y autoritarias."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En Brasil, Getúlio Vargas instauró en 1937 el Estado Novo.",
+          "respuesta": true,
+          "explicacion": "Fue un régimen autoritario con fuerte intervención del Estado."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los nacionalismos populares defendían la dependencia económica del Reino Unido.",
+          "respuesta": false,
+          "explicacion": "La criticaban."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quién pronunció «La hora de la espada» en 1924?",
+          "opciones": [
+            "Leopoldo Lugones",
+            "Arturo Jauretche",
+            "Hipólito Yrigoyen",
+            "Getúlio Vargas"
+          ],
+          "correcta": 0,
+          "explicacion": "Era poeta."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué grupo formaron radicales como Jauretche y Scalabrini Ortiz en 1935?",
+          "opciones": [
+            "FORJA",
+            "La Liga Patriótica",
+            "El Estado Novo",
+            "El Integralismo"
+          ],
+          "correcta": 0,
+          "explicacion": "Defendía un nacionalismo popular."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué hacía la Liga Patriótica?",
+          "opciones": [
+            "Grupos civiles armados reprimían a obreros e inmigrantes",
+            "Defendía la dependencia del Reino Unido",
+            "Organizaba elecciones limpias",
+            "Construía universidades"
+          ],
+          "correcta": 0,
+          "explicacion": "Surgió en 1919."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se llamó el régimen de Vargas en Brasil?",
+          "opciones": [
+            "Estado Novo",
+            "Integralismo",
+            "FORJA",
+            "Década Infame"
+          ],
+          "correcta": 0,
+          "explicacion": "Lo instauró en 1937."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué criticaban los nacionalismos populares y antiimperialistas?",
+          "opciones": [
+            "La dependencia económica de potencias como el Reino Unido",
+            "La existencia de la nación",
+            "El voto",
+            "La industria"
+          ],
+          "correcta": 0,
+          "explicacion": "Defendían los intereses económicos nacionales."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se llamaba el movimiento de tipo fascista que existió en Brasil?",
+          "opciones": [
+            "Integralismo",
+            "Estado Novo",
+            "Liga Patriótica",
+            "FORJA"
+          ],
+          "correcta": 0,
+          "explicacion": "Así lo dice el recuadro sobre Brasil."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "LUGONES",
+          "pista": "Poeta que en 1924 pidió que el Ejército tomara el control del país."
+        },
+        {
+          "palabra": "FORJA",
+          "pista": "Grupo de radicales que en 1935 defendió un nacionalismo popular."
+        },
+        {
+          "palabra": "URIBURU",
+          "pista": "General que derrocó a Yrigoyen en 1930."
+        },
+        {
+          "palabra": "VARGAS",
+          "pista": "Presidente de Brasil que instauró el Estado Novo."
+        },
+        {
+          "palabra": "ANTIIMPERIALISTA",
+          "pista": "Tipo de nacionalismo que criticaba la dependencia económica de las potencias."
+        },
+        {
+          "palabra": "INTEGRALISMO",
+          "pista": "Movimiento de tipo fascista que existió en Brasil."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Nacionalismo",
+      "definicion": "Ideología que pone a la nación en el centro. Puede ser autoritario o popular."
+    },
+    {
+      "palabra": "Fascismo",
+      "definicion": "Régimen nacionalista autoritario surgido en Italia con Mussolini en 1922."
+    },
+    {
+      "palabra": "Nazismo",
+      "definicion": "Régimen alemán de Hitler (1933-1945), basado también en el racismo y el antisemitismo."
+    },
+    {
+      "palabra": "Totalitarismo",
+      "definicion": "Régimen donde el Estado intenta controlar toda la vida pública y privada."
+    },
+    {
+      "palabra": "Antiimperialismo",
+      "definicion": "Oposición a la dominación económica o política de las potencias extranjeras."
+    },
+    {
+      "palabra": "Entreguerras",
+      "definicion": "Período entre la Primera y la Segunda Guerra Mundial (1918-1939)."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "Todos los nacionalismos son iguales.",
+      "aclaracion": "Hubo nacionalismos autoritarios y otros populares y antiimperialistas."
+    },
+    {
+      "error": "Fascismo y nazismo son exactamente lo mismo.",
+      "aclaracion": "Se parecen, pero el nazismo hizo del racismo y el antisemitismo una política de Estado."
+    },
+    {
+      "error": "El nacionalismo solo existió en Europa.",
+      "aclaracion": "También aparecieron en América Latina y en la Argentina."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "Hoy también existen discursos que dicen defender «a la nación». ¿Cómo se puede distinguir un patriotismo democrático de un nacionalismo que busca limitar libertades? Pensá qué preguntas harías.",
+    "conexion": "Con la clase de la crisis de 1929: muchas de estas ideas crecieron en tiempos de crisis."
+  }
+}

@@ -1,0 +1,943 @@
+{
+  "id": "his-4-04",
+  "espacio": "historia",
+  "eje": "Crisis, Estado e industrialización",
+  "titulo": "El peronismo y los gobiernos populares latinoamericanos",
+  "intro": "Entre 1946 y 1955, Juan Domingo Perón gobernó la Argentina con el apoyo de los trabajadores y del Estado como protagonista de la economía. Vas a ver cómo llegó al poder, qué derechos se ampliaron y cómo terminó esa etapa.",
+  "tp_aporte": "Para tu trabajo práctico ya tenés: cómo llegó Perón al gobierno, qué derechos y medidas se asocian al peronismo, qué rol tuvo el Estado en la economía y por qué se habla de democracia de masas, con sus límites.",
+  "sugerencias_asistente": [
+    "¿Qué fue el 17 de octubre de 1945?",
+    "¿Qué derechos se ampliaron?",
+    "¿Por qué se habla de gobiernos populares?"
+  ],
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "Cómo llegó Perón al gobierno",
+      "tiempo": "12 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "De coronel a presidente",
+          "texto": "Tras el golpe militar de 1943, el coronel **Juan Domingo Perón** fue designado al frente de la **Secretaría de Trabajo y Previsión**. Desde ahí se acercó a los sindicatos y promovió medidas a favor de los trabajadores, como mejoras salariales y derechos laborales.\n\nEsto le dio un fuerte apoyo entre los obreros, y también generó oposición entre sectores conservadores, empresarios y militares."
+        },
+        {
+          "t": "linea",
+          "titulo": "Hacia 1946",
+          "eventos": [
+            {
+              "anio": "1943",
+              "titulo": "Golpe militar",
+              "texto": "Perón es designado en la Secretaría de Trabajo y Previsión."
+            },
+            {
+              "anio": "1945 (9 de octubre)",
+              "titulo": "Perón es detenido",
+              "texto": "Presionado por sectores opositores, es obligado a renunciar y queda detenido."
+            },
+            {
+              "anio": "1945 (17 de octubre)",
+              "titulo": "Movilización popular",
+              "texto": "Una multitud de trabajadores llega a la Plaza de Mayo y reclama su liberación."
+            },
+            {
+              "anio": "1946",
+              "titulo": "Elecciones",
+              "texto": "Perón gana las elecciones del 24 de febrero y asume la presidencia el 4 de junio."
+            }
+          ]
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená estos hechos de más antiguo a más reciente. Las fechas no están: buscalas en la línea de tiempo.",
+          "items": [
+            "Golpe militar y Perón al frente de la Secretaría de Trabajo y Previsión",
+            "Perón es obligado a renunciar y queda detenido",
+            "Una multitud de trabajadores llega a la Plaza de Mayo y reclama su liberación",
+            "Perón gana las elecciones presidenciales"
+          ],
+          "explicacion": "El 17 de octubre se convirtió en una fecha clave para el peronismo.",
+          "pista": "Buscá cada hecho en la línea «Hacia 1946»."
+        },
+        {
+          "t": "verificar",
+          "consigna": "¿Cuántos días pasaron entre la detención de Perón y la movilización a la Plaza de Mayo?",
+          "respuesta": "8",
+          "explicacion": "Perón fue detenido el 9 de octubre de 1945 y la movilización fue el 17 de octubre: pasaron 8 días.",
+          "pista": "Las dos fechas son de octubre de 1945 y están en la línea de tiempo."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Por qué los trabajadores apoyaron a Perón?",
+          "opciones": [
+            "Porque desde la Secretaría de Trabajo promovió derechos y mejoras",
+            "Porque eliminó los sindicatos",
+            "Porque bajó los salarios",
+            "Porque cerró las fábricas"
+          ],
+          "correcta": 0,
+          "explicacion": "Su vínculo con los sindicatos y sus medidas le dieron una base social muy fuerte.",
+          "pista": "Pensá en lo que hacía la Secretaría de Trabajo."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué crees que el 17 de octubre se considera tan importante en la historia argentina?",
+          "respuesta": "Porque fue la primera vez que miles de trabajadores se movilizaron masivamente para defender a un líder político y reclamar su lugar en la política. Mostró el peso de los sectores populares y marcó el nacimiento del peronismo como movimiento político."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá cómo llegó Perón a la presidencia. Contá qué cargo ocupó después del golpe de 1943 y qué hizo desde ahí, por qué generó apoyos y oposición, qué pasó en octubre de 1945 y qué ocurrió en 1946.",
+        "guia": [
+          "¿Qué cargo ocupó Perón después del golpe de 1943?",
+          "¿Qué medidas promovió desde allí y con quiénes se acercó?",
+          "¿Quiénes lo apoyaron y quiénes se le opusieron?",
+          "¿Qué pasó entre el 9 y el 17 de octubre de 1945?",
+          "¿Qué pasó en febrero y en junio de 1946?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "secretaria de trabajo",
+              "trabajo y prevision"
+            ],
+            "p": "la Secretaría de Trabajo y Previsión"
+          },
+          {
+            "k": [
+              "sindic",
+              "salari",
+              "derechos laborales"
+            ],
+            "p": "las medidas a favor de los trabajadores"
+          },
+          {
+            "k": [
+              "oposicion",
+              "conservador",
+              "empresari",
+              "militares"
+            ],
+            "p": "la oposición que generó"
+          },
+          {
+            "k": [
+              "17 de octubre",
+              "plaza de mayo",
+              "movilizacion"
+            ],
+            "p": "la movilización del 17 de octubre de 1945"
+          },
+          {
+            "k": [
+              "detenido",
+              "renunciar",
+              "detencion"
+            ],
+            "p": "la detención de Perón"
+          },
+          {
+            "k": [
+              "1946",
+              "elecciones"
+            ],
+            "p": "la elección de 1946"
+          }
+        ],
+        "referencia": "Tras el golpe de 1943, Perón estuvo al frente de la Secretaría de Trabajo y Previsión: se acercó a los sindicatos y promovió mejoras salariales y derechos laborales. Tuvo apoyo obrero y oposición de conservadores, empresarios y militares. El 9/10/1945 fue obligado a renunciar y detenido; el 17 de octubre una multitud reclamó su liberación en Plaza de Mayo. Ganó las elecciones del 24/2/1946 y asumió el 4 de junio.",
+        "minPalabras": 35
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Después del golpe de 1943, Perón quedó al frente de la Secretaría de Trabajo y Previsión.",
+          "respuesta": true,
+          "explicacion": "Desde ahí se acercó a los sindicatos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Desde la Secretaría de Trabajo, Perón se alejó de los sindicatos.",
+          "respuesta": false,
+          "explicacion": "Se acercó a ellos y promovió medidas a favor de los trabajadores."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El 9 de octubre de 1945 Perón fue obligado a renunciar y quedó detenido.",
+          "respuesta": true,
+          "explicacion": "Lo presionaron sectores opositores."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El 17 de octubre de 1945 una multitud de trabajadores reclamó su liberación en la Plaza de Mayo.",
+          "respuesta": true,
+          "explicacion": "Esa fecha se volvió clave para el peronismo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Perón llegó a la presidencia por un golpe de Estado en 1946.",
+          "respuesta": false,
+          "explicacion": "Ganó las elecciones del 24 de febrero de 1946."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Las medidas de Perón generaron oposición entre sectores conservadores, empresarios y militares.",
+          "respuesta": true,
+          "explicacion": "Así lo dice el primer texto de la cápsula."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Perón asumió la presidencia el 4 de junio de 1946.",
+          "respuesta": true,
+          "explicacion": "Después de ganar las elecciones de febrero."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué cargo ocupó Perón desde 1943?",
+          "opciones": [
+            "Secretario de Trabajo y Previsión",
+            "Presidente",
+            "Jefe de la Liga Patriótica",
+            "Director de YPF"
+          ],
+          "correcta": 0,
+          "explicacion": "Desde ahí construyó su apoyo entre los obreros."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué medidas promovía desde la Secretaría de Trabajo?",
+          "opciones": [
+            "Mejoras salariales y derechos laborales",
+            "Bajar los salarios",
+            "Cerrar los sindicatos",
+            "Prohibir las huelgas"
+          ],
+          "correcta": 0,
+          "explicacion": "Por eso tuvo un fuerte apoyo obrero."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Dónde se reunió la multitud el 17 de octubre de 1945?",
+          "opciones": [
+            "En la Plaza de Mayo",
+            "En el Congreso",
+            "En Córdoba",
+            "En la Secretaría de Trabajo"
+          ],
+          "correcta": 0,
+          "explicacion": "Reclamaba la liberación de Perón."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuándo ganó Perón las elecciones?",
+          "opciones": [
+            "El 24 de febrero de 1946",
+            "El 17 de octubre de 1945",
+            "El 4 de junio de 1943",
+            "El 9 de octubre de 1945"
+          ],
+          "correcta": 0,
+          "explicacion": "Asumió el 4 de junio de 1946."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué el 17 de octubre se considera tan importante?",
+          "opciones": [
+            "Porque miles de trabajadores se movilizaron para defender a un líder y reclamar su lugar en la política",
+            "Porque fue un golpe de Estado",
+            "Porque ese día votaron las mujeres",
+            "Porque se creó la Secretaría de Trabajo"
+          ],
+          "correcta": 0,
+          "explicacion": "Marcó el nacimiento del peronismo como movimiento político."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quiénes se opusieron a Perón?",
+          "opciones": [
+            "Sectores conservadores, empresarios y militares",
+            "Los sindicatos",
+            "Los obreros",
+            "Los trabajadores de la Plaza de Mayo"
+          ],
+          "correcta": 0,
+          "explicacion": "Su acercamiento a los obreros generó oposición."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "SECRETARÍA",
+          "pista": "Perón estuvo al frente de la ___ de Trabajo y Previsión."
+        },
+        {
+          "palabra": "SINDICATOS",
+          "pista": "Organizaciones de trabajadores a las que se acercó Perón."
+        },
+        {
+          "palabra": "MOVILIZACIÓN",
+          "pista": "Lo que hicieron los trabajadores el 17 de octubre de 1945."
+        },
+        {
+          "palabra": "PLAZA DE MAYO",
+          "pista": "Lugar donde la multitud reclamó la liberación de Perón."
+        },
+        {
+          "palabra": "OCTUBRE",
+          "pista": "Mes de 1945 en que Perón fue detenido y liberado."
+        },
+        {
+          "palabra": "CORONEL",
+          "pista": "Grado militar de Perón en 1943."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Derechos y medidas del peronismo",
+      "tiempo": "14 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Una ampliación de derechos",
+          "texto": "Durante el primer peronismo se ampliaron derechos laborales, sociales y políticos. Muchos de ellos se asocian hoy a la idea de **justicia social**: que el Estado garantice condiciones de vida y de trabajo dignas."
+        },
+        {
+          "t": "texto",
+          "titulo": "Medidas y derechos",
+          "texto": "Entre las medidas más recordadas están el **aguinaldo** (establecido a fines de 1945), las **vacaciones pagas** y la **indemnización por despido**, que protegen a los trabajadores en su empleo. En 1949 se estableció la **gratuidad universitaria**.\n\nLa **Fundación Eva Perón**, creada en 1948, brindaba ayuda social y construyó escuelas, hospitales y hogares."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Qué tipo de derecho amplía cada medida?",
+          "categorias": [
+            "Derechos laborales",
+            "Derechos políticos y sociales"
+          ],
+          "items": [
+            {
+              "texto": "Aguinaldo",
+              "cat": "Derechos laborales"
+            },
+            {
+              "texto": "Vacaciones pagas",
+              "cat": "Derechos laborales"
+            },
+            {
+              "texto": "Voto femenino",
+              "cat": "Derechos políticos y sociales"
+            },
+            {
+              "texto": "Gratuidad universitaria",
+              "cat": "Derechos políticos y sociales"
+            },
+            {
+              "texto": "Indemnización por despido",
+              "cat": "Derechos laborales"
+            }
+          ],
+          "explicacion": "Algunas medidas protegían a los trabajadores en su empleo; otras ampliaron la ciudadanía y el acceso a servicios."
+        },
+        {
+          "t": "destacado",
+          "titulo": "El voto femenino",
+          "texto": "En 1947 se sancionó la **ley 13.010**, que reconoció el derecho al voto de las mujeres. Eva Perón tuvo un rol muy importante en esa lucha, que venía de décadas de reclamos de organizaciones feministas. Las mujeres votaron por primera vez en elecciones nacionales en **1951**."
+        },
+        {
+          "t": "verificar",
+          "consigna": "¿Cuántos años pasaron entre la sanción de la ley del voto femenino y la primera vez que las mujeres votaron en elecciones nacionales?",
+          "respuesta": "4",
+          "explicacion": "La ley es de 1947 y la primera votación nacional fue en 1951: pasaron 4 años.",
+          "pista": "Las dos fechas están en el recuadro «El voto femenino»."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Qué papel tuvo la Fundación Eva Perón (1948)?",
+          "opciones": [
+            "Brindó ayuda social y construyó escuelas y hospitales",
+            "Fue un partido político opositor",
+            "Fue un banco privado",
+            "Fue un sindicato patronal"
+          ],
+          "correcta": 0,
+          "explicacion": "Entregaba ayuda social y construyó obras como escuelas, hospitales y hogares.",
+          "pista": "Pensá en que fue una obra social."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Antes y durante el peronismo",
+          "columnas": [
+            "",
+            "Antes de 1946",
+            "Durante el primer peronismo"
+          ],
+          "filas": [
+            [
+              "Voto de las mujeres",
+              "No votaban",
+              "Reconocido en 1947; primera votación en 1951"
+            ],
+            [
+              "Derechos laborales",
+              "Limitados y muy desiguales",
+              "Ampliados: aguinaldo, vacaciones pagas, indemnizaciones"
+            ],
+            [
+              "Rol del Estado",
+              "Poco presente en lo social",
+              "Garante de derechos y de servicios"
+            ]
+          ]
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué derechos se ampliaron durante el primer peronismo y qué significa la idea de justicia social. Incluí derechos laborales, derechos políticos o sociales, el voto femenino con sus fechas y el papel de Eva Perón.",
+        "guia": [
+          "¿Qué significa «justicia social»?",
+          "¿Qué derechos protegían a los trabajadores en su empleo?",
+          "¿Qué derechos políticos y sociales se ampliaron?",
+          "¿Cuándo se sancionó la ley del voto femenino y cuándo votaron las mujeres por primera vez?",
+          "¿Qué papel tuvieron Eva Perón y la Fundación Eva Perón?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "justicia social",
+              "condiciones dignas",
+              "vida digna"
+            ],
+            "p": "qué es la justicia social"
+          },
+          {
+            "k": [
+              "aguinaldo",
+              "vacaciones",
+              "indemnizacion"
+            ],
+            "p": "un derecho laboral"
+          },
+          {
+            "k": [
+              "voto femenino",
+              "voto de las mujeres",
+              "mujeres votaron",
+              "voto de la mujer"
+            ],
+            "p": "el voto femenino"
+          },
+          {
+            "k": [
+              "1947",
+              "1951"
+            ],
+            "p": "las fechas del voto femenino"
+          },
+          {
+            "k": [
+              "eva",
+              "evita"
+            ],
+            "p": "el rol de Eva Perón"
+          },
+          {
+            "k": [
+              "universi",
+              "fundacion",
+              "escuela",
+              "hospital"
+            ],
+            "p": "un derecho o una medida social"
+          }
+        ],
+        "referencia": "Justicia social: que el Estado garantice condiciones de vida y trabajo dignas. Derechos laborales: aguinaldo (fines de 1945), vacaciones pagas, indemnización. Voto femenino: ley 13.010 (1947), primera votación nacional en 1951, con rol importante de Eva Perón y décadas de reclamos feministas. Gratuidad universitaria (1949). Fundación Eva Perón (1948): ayuda social, escuelas y hospitales.",
+        "minPalabras": 35
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "La ley 13.010, de 1947, reconoció el voto de las mujeres.",
+          "respuesta": true,
+          "explicacion": "Las mujeres votaron por primera vez en 1951."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Las mujeres votaron por primera vez en elecciones nacionales en 1951.",
+          "respuesta": true,
+          "explicacion": "Cuatro años después de la ley."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El reclamo por el voto femenino empezó recién con el peronismo.",
+          "respuesta": false,
+          "explicacion": "Venía de décadas de reclamos de organizaciones feministas."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El aguinaldo, las vacaciones pagas y la indemnización por despido son derechos laborales.",
+          "respuesta": true,
+          "explicacion": "Protegen a los trabajadores en su empleo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La gratuidad universitaria se estableció en 1949.",
+          "respuesta": true,
+          "explicacion": "Es un derecho social."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Fundación Eva Perón fue un partido político opositor.",
+          "respuesta": false,
+          "explicacion": "Brindaba ayuda social y construyó escuelas, hospitales y hogares."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Antes de 1946 el Estado estaba muy presente en lo social.",
+          "respuesta": false,
+          "explicacion": "Según la tabla, antes de 1946 estaba poco presente en lo social."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué ley de 1947 amplió los derechos políticos?",
+          "opciones": [
+            "La del voto femenino",
+            "La Ley Sáenz Peña",
+            "La del aguinaldo",
+            "La de gratuidad universitaria"
+          ],
+          "correcta": 0,
+          "explicacion": "Es la ley 13.010."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estos es un derecho laboral?",
+          "opciones": [
+            "Las vacaciones pagas",
+            "El voto femenino",
+            "La gratuidad universitaria",
+            "La Fundación Eva Perón"
+          ],
+          "correcta": 0,
+          "explicacion": "También el aguinaldo y la indemnización por despido."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué hacía la Fundación Eva Perón?",
+          "opciones": [
+            "Brindaba ayuda social y construía escuelas, hospitales y hogares",
+            "Organizaba elecciones",
+            "Regulaba el comercio exterior",
+            "Dirigía los sindicatos"
+          ],
+          "correcta": 0,
+          "explicacion": "Fue creada en 1948."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué significa «justicia social»?",
+          "opciones": [
+            "Que el Estado garantice condiciones de vida y de trabajo dignas",
+            "Que haya más tribunales",
+            "Que el Estado no intervenga",
+            "Que solo voten los trabajadores"
+          ],
+          "correcta": 0,
+          "explicacion": "Es una idea asociada a esta etapa."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quién tuvo un rol muy importante en la conquista del voto femenino?",
+          "opciones": [
+            "Eva Perón",
+            "Roque Sáenz Peña",
+            "Hipólito Yrigoyen",
+            "Agustín P. Justo"
+          ],
+          "correcta": 0,
+          "explicacion": "Junto con décadas de reclamos de organizaciones feministas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "Según la tabla, ¿qué rol pasó a tener el Estado durante el primer peronismo?",
+          "opciones": [
+            "Garante de derechos y de servicios",
+            "Poco presente en lo social",
+            "Solo controlar las elecciones",
+            "Ninguno"
+          ],
+          "correcta": 0,
+          "explicacion": "Antes de 1946 estaba poco presente en lo social."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "AGUINALDO",
+          "pista": "Derecho laboral establecido a fines de 1945."
+        },
+        {
+          "palabra": "JUSTICIA SOCIAL",
+          "pista": "Idea de que el Estado garantice condiciones de vida y de trabajo dignas."
+        },
+        {
+          "palabra": "INDEMNIZACIÓN",
+          "pista": "Pago que protege al trabajador cuando lo despiden."
+        },
+        {
+          "palabra": "FEMENINO",
+          "pista": "Voto ___: reconocido por ley en 1947."
+        },
+        {
+          "palabra": "GRATUIDAD",
+          "pista": "La ___ universitaria se estableció en 1949."
+        },
+        {
+          "palabra": "FUNDACIÓN",
+          "pista": "La ___ Eva Perón brindaba ayuda social."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "El Estado, la economía y el final",
+      "tiempo": "14 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Un Estado protagonista",
+          "texto": "En el primer peronismo el Estado tuvo un rol central en la economía. Impulsó la **industrialización** para el mercado interno, **nacionalizó** servicios (como los ferrocarriles, en 1948), regulaba el comercio exterior con el IAPI y planificó con **planes quinquenales** (planes económicos para cinco años).\n\nEl modelo buscó redistribuir ingresos hacia los trabajadores y fortalecer el mercado interno. También recibió apoyo de empresarios industriales que se beneficiaban de la protección del Estado."
+        },
+        {
+          "t": "pasos",
+          "titulo": "Cómo funcionaba el modelo",
+          "pasos": [
+            {
+              "titulo": "El Estado interviene",
+              "texto": "Planifica la economía y controla áreas clave (comercio exterior, servicios)."
+            },
+            {
+              "titulo": "Se protege la industria",
+              "texto": "La industria produce para el mercado interno, con créditos y protección."
+            },
+            {
+              "titulo": "Suben los salarios",
+              "texto": "Los trabajadores tienen más poder de compra y derechos."
+            },
+            {
+              "titulo": "Crece el consumo",
+              "texto": "Más consumo impulsa más producción industrial."
+            }
+          ]
+        },
+        {
+          "t": "comparar",
+          "titulo": "Otros gobiernos populares de América Latina",
+          "columnas": [
+            "País",
+            "Líder",
+            "Rasgos en común"
+          ],
+          "filas": [
+            [
+              "Argentina",
+              "Juan D. Perón",
+              "Apoyo de los trabajadores, Estado fuerte en la economía, derechos sociales, liderazgo personal"
+            ],
+            [
+              "Brasil",
+              "Getúlio Vargas",
+              "Apoyo de los trabajadores urbanos, industrialización, derechos laborales"
+            ],
+            [
+              "México",
+              "Lázaro Cárdenas",
+              "Reforma agraria, nacionalización del petróleo (1938) y apoyo de sectores populares"
+            ]
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "Democracia de masas, pero con límites",
+          "texto": "Se habla de **democracia de masas** porque grandes sectores populares (trabajadores, mujeres) se incorporaron a la política. Pero hubo **tensiones**: la oposición sufrió restricciones, la prensa estuvo bajo control del Estado, y las diferencias políticas eran muy duras."
+        },
+        {
+          "t": "texto",
+          "titulo": "El final de la etapa",
+          "texto": "En sus últimos años, el gobierno enfrentó dificultades económicas y fuertes conflictos con la oposición y con sectores de la Iglesia y de las Fuerzas Armadas. El **16 de septiembre de 1955** un golpe de Estado, que se autodenominó **«Revolución Libertadora»**, derrocó a Perón, que estaba en su segundo gobierno."
+        },
+        {
+          "t": "verificar",
+          "consigna": "¿Cuántos años duraron en total los gobiernos de Perón, desde que asumió en 1946 hasta el golpe que lo derrocó?",
+          "respuesta": "9",
+          "explicacion": "Asumió en 1946 y fue derrocado en 1955: 9 años, en dos gobiernos.",
+          "pista": "El año en que asumió está en la primera cápsula; el del golpe, en «El final de la etapa»."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Por qué algunos empresarios industriales apoyaron al peronismo?",
+          "opciones": [
+            "Porque la protección y el mercado interno favorecían a la industria",
+            "Porque se eliminaron las industrias",
+            "Porque se bajaron todos los precios",
+            "Porque se prohibió la producción"
+          ],
+          "correcta": 0,
+          "explicacion": "El modelo de industrialización protegida les convenía.",
+          "pista": "Pensá en quién producía para el mercado interno."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá cómo intervino el Estado en la economía durante el peronismo y qué tipo de democracia hubo en esos años. Incluí dos medidas económicas, quiénes apoyaron el modelo y por qué, los límites de esa democracia, cómo terminó la etapa y un ejemplo de otro gobierno popular de América Latina.",
+        "guia": [
+          "¿Qué hizo el Estado con la industria, los servicios y el comercio exterior?",
+          "¿Cómo funcionaba el modelo: qué pasaba con los salarios, el consumo y la producción?",
+          "¿Quiénes apoyaron este modelo y por qué?",
+          "¿Por qué se habla de democracia de masas y qué límites tuvo?",
+          "¿Cómo y cuándo terminó el gobierno de Perón?",
+          "¿Qué otros gobiernos populares hubo en América Latina?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "estado"
+            ],
+            "p": "el rol del Estado"
+          },
+          {
+            "k": [
+              "nacionaliz",
+              "plan quinquenal",
+              "planes quinquenales",
+              "iapi",
+              "ferrocarril",
+              "planific"
+            ],
+            "p": "medidas del Estado en la economía"
+          },
+          {
+            "k": [
+              "trabajador",
+              "obrero",
+              "empresari",
+              "industrial"
+            ],
+            "p": "quiénes apoyaron el modelo"
+          },
+          {
+            "k": [
+              "democracia de masas",
+              "masas",
+              "oposicion",
+              "prensa",
+              "limite"
+            ],
+            "p": "la democracia de masas y sus límites"
+          },
+          {
+            "k": [
+              "1955",
+              "golpe",
+              "libertadora"
+            ],
+            "p": "el final: el golpe de 1955"
+          },
+          {
+            "k": [
+              "vargas",
+              "cardenas",
+              "brasil",
+              "mexico"
+            ],
+            "p": "otro gobierno popular de América Latina"
+          }
+        ],
+        "referencia": "El Estado impulsó la industria para el mercado interno, nacionalizó servicios (ferrocarriles, 1948), reguló el comercio exterior (IAPI) y planificó (planes quinquenales). Subían los salarios, crecía el consumo y la producción. Lo apoyaron trabajadores y empresarios industriales. Democracia de masas con restricciones a la oposición y control de la prensa. Golpe del 16/9/1955 («Revolución Libertadora»). Otros: Vargas (Brasil), Cárdenas (México).",
+        "minPalabras": 40
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "En el primer peronismo el Estado planificó la economía con planes quinquenales.",
+          "respuesta": true,
+          "explicacion": "Eran planes económicos para cinco años."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los ferrocarriles se nacionalizaron en 1948.",
+          "respuesta": true,
+          "explicacion": "Pasaron a manos del Estado."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El IAPI regulaba el comercio exterior.",
+          "respuesta": true,
+          "explicacion": "Era una de las áreas clave que controlaba el Estado."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Durante el peronismo la oposición y la prensa tuvieron plena libertad.",
+          "respuesta": false,
+          "explicacion": "La oposición sufrió restricciones y la prensa estuvo bajo control del Estado."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Perón fue derrocado por un golpe de Estado el 16 de septiembre de 1955.",
+          "respuesta": true,
+          "explicacion": "El golpe se autodenominó «Revolución Libertadora»."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Lázaro Cárdenas nacionalizó el petróleo en México en 1938.",
+          "respuesta": true,
+          "explicacion": "Fue otro gobierno popular de América Latina."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El modelo peronista buscaba bajar los salarios.",
+          "respuesta": false,
+          "explicacion": "Buscaba redistribuir ingresos hacia los trabajadores."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué eran los planes quinquenales?",
+          "opciones": [
+            "Planes económicos del Estado para cinco años",
+            "Planes de vacaciones",
+            "Planes de estudio",
+            "Elecciones cada cinco años"
+          ],
+          "correcta": 0,
+          "explicacion": "Con ellos el Estado planificó la economía."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué significa «democracia de masas»?",
+          "opciones": [
+            "Que grandes sectores populares se incorporan a la política",
+            "Que vota solo una élite",
+            "Que no hay elecciones",
+            "Que no hay conflictos"
+          ],
+          "correcta": 0,
+          "explicacion": "Trabajadores y mujeres se incorporaron a la política."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué sectores apoyaron el modelo peronista?",
+          "opciones": [
+            "Trabajadores y empresarios industriales",
+            "Solo los terratenientes",
+            "Solo la Iglesia",
+            "Ninguno"
+          ],
+          "correcta": 0,
+          "explicacion": "La industria protegida beneficiaba a los empresarios industriales."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "Según el paso a paso, ¿qué pasa cuando suben los salarios?",
+          "opciones": [
+            "Crece el consumo y eso impulsa más producción industrial",
+            "Baja el consumo",
+            "Cierran las fábricas",
+            "Se exporta todo"
+          ],
+          "correcta": 0,
+          "explicacion": "Más consumo impulsa más producción."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué gobierno popular de Brasil tuvo rasgos en común con el peronismo?",
+          "opciones": [
+            "El de Getúlio Vargas",
+            "El de Benito Mussolini",
+            "El de Lázaro Cárdenas",
+            "El de José F. Uriburu"
+          ],
+          "correcta": 0,
+          "explicacion": "Cárdenas gobernó México."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se autodenominó el golpe que derrocó a Perón en 1955?",
+          "opciones": [
+            "«Revolución Libertadora»",
+            "«Década Infame»",
+            "«Estado Novo»",
+            "«Marcha sobre Roma»"
+          ],
+          "correcta": 0,
+          "explicacion": "Fue el 16 de septiembre de 1955."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "QUINQUENALES",
+          "pista": "Planes de cinco años con los que el Estado planificó la economía."
+        },
+        {
+          "palabra": "FERROCARRILES",
+          "pista": "Servicio que se nacionalizó en 1948."
+        },
+        {
+          "palabra": "CÁRDENAS",
+          "pista": "Presidente de México que nacionalizó el petróleo en 1938."
+        },
+        {
+          "palabra": "LIBERTADORA",
+          "pista": "«Revolución ___»: así se autodenominó el golpe de 1955."
+        },
+        {
+          "palabra": "MASAS",
+          "pista": "Democracia de ___: cuando grandes sectores populares entran en la política."
+        },
+        {
+          "palabra": "NACIONALIZACIÓN",
+          "pista": "Pasar al Estado una empresa o un servicio que era privado."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Peronismo",
+      "definicion": "Movimiento político liderado por Juan Domingo Perón, con apoyo de los trabajadores."
+    },
+    {
+      "palabra": "Justicia social",
+      "definicion": "Idea de que el Estado debe garantizar condiciones de vida y trabajo dignas."
+    },
+    {
+      "palabra": "Nacionalización",
+      "definicion": "Pasar al Estado una empresa o un servicio que era privado."
+    },
+    {
+      "palabra": "Planes quinquenales",
+      "definicion": "Planes económicos del Estado para cinco años."
+    },
+    {
+      "palabra": "Democracia de masas",
+      "definicion": "Etapa en que grandes sectores populares participan de la política."
+    },
+    {
+      "palabra": "Gobiernos populares",
+      "definicion": "Gobiernos latinoamericanos de mediados del siglo XX con apoyo de los trabajadores y un Estado fuerte."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "Perón llegó al gobierno por un golpe.",
+      "aclaracion": "Participó del gobierno militar de 1943, pero llegó a la presidencia ganando las elecciones de 1946."
+    },
+    {
+      "error": "Las mujeres votaron desde 1912.",
+      "aclaracion": "La ley es de 1947 y votaron por primera vez en 1951."
+    },
+    {
+      "error": "El peronismo no tuvo oposición.",
+      "aclaracion": "Tuvo mucha oposición y hubo tensiones fuertes en esos años."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "Hoy muchos derechos laborales (vacaciones, aguinaldo) nos parecen «normales». ¿Cómo cambiaría la vida de una familia si no existieran? Pensá en alguien de tu entorno que trabaje.",
+    "conexion": "Con tu trabajo práctico: ahí vas a relacionar este tema con un ejemplo del presente."
+  }
+}

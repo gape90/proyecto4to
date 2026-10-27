@@ -1,0 +1,1011 @@
+{
+  "id": "his-4-01",
+  "espacio": "historia",
+  "eje": "Democracia ampliada y primera posguerra",
+  "titulo": "Los gobiernos radicales (1916-1930)",
+  "intro": "Entre 1916 y 1930 más argentinos pudieron votar y llegó al gobierno un partido que representaba a los sectores medios. Vas a ver cómo cambió la política, qué conflictos hubo y cómo influyó el mundo de esos años.",
+  "tp_aporte": "Para tu trabajo práctico ya tenés: qué cambió con la Ley Sáenz Peña, quiénes llegaron al gobierno en 1916, qué hechos importantes marcaron los años radicales y cómo influyó la Primera Guerra Mundial.",
+  "sugerencias_asistente": [
+    "¿Quiénes podían votar antes de 1912?",
+    "¿Quién era Yrigoyen?",
+    "¿Qué fue la Semana Trágica?"
+  ],
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "La Ley Sáenz Peña (1912)",
+      "tiempo": "12 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "El punto de partida: el régimen conservador",
+          "texto": "A fines del siglo XIX y principios del XX gobernaba en la Argentina un grupo reducido de familias, que controlaba la política y la economía agroexportadora. Era un **régimen oligárquico o conservador**.\n\nLas elecciones tenían **fraude**: el voto era público (no secreto) y era fácil presionar a los votantes. Muy pocas personas participaban de verdad."
+        },
+        {
+          "t": "linea",
+          "titulo": "Camino hacia el cambio",
+          "eventos": [
+            {
+              "anio": "1891",
+              "titulo": "Se funda la Unión Cívica Radical",
+              "texto": "Un partido opositor que reclamaba elecciones limpias."
+            },
+            {
+              "anio": "1905",
+              "titulo": "Revolución radical",
+              "texto": "La UCR intenta tomar el poder por las armas, sin éxito, para exigir cambios en el sistema electoral."
+            },
+            {
+              "anio": "1912",
+              "titulo": "Ley Sáenz Peña",
+              "texto": "El presidente Roque Sáenz Peña impulsa una ley que cambia las reglas del voto."
+            },
+            {
+              "anio": "1916",
+              "titulo": "Primeras elecciones con la nueva ley",
+              "texto": "Hipólito Yrigoyen, de la UCR, gana la presidencia."
+            }
+          ]
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená estos hechos de más antiguo a más reciente.",
+          "items": [
+            "Se funda la Unión Cívica Radical",
+            "La UCR intenta tomar el poder por las armas para exigir cambios electorales",
+            "El presidente Roque Sáenz Peña impulsa una ley que cambia las reglas del voto",
+            "Hipólito Yrigoyen gana la presidencia"
+          ],
+          "explicacion": "1891: se funda la UCR; 1905: revolución radical; 1912: Ley Sáenz Peña; 1916: gana Yrigoyen.",
+          "pista": "Los años están en la línea de tiempo «Camino hacia el cambio»."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Qué estableció la ley",
+          "texto": "El voto pasó a ser **secreto**, **universal** (para todos los varones argentinos mayores de 18 años) y **obligatorio**. Se armó un padrón de votantes basado en el padrón militar."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Antes y después de la ley",
+          "columnas": [
+            "",
+            "Antes de 1912",
+            "Después de 1912"
+          ],
+          "filas": [
+            [
+              "Voto",
+              "Público, con fraude y presiones",
+              "Secreto"
+            ],
+            [
+              "Quién votaba",
+              "Muy poca gente, con mucha manipulación",
+              "Todos los varones argentinos de 18 años o más"
+            ],
+            [
+              "Obligación",
+              "No era obligatorio",
+              "Obligatorio"
+            ],
+            [
+              "Quedaban afuera",
+              "Mujeres y extranjeros",
+              "Mujeres y extranjeros"
+            ]
+          ]
+        },
+        {
+          "t": "verificar",
+          "consigna": "¿Cuántos años pasaron entre la sanción de la Ley Sáenz Peña y las primeras elecciones presidenciales en las que se aplicó?",
+          "respuesta": "4",
+          "explicacion": "La ley es de 1912 y se aplicó por primera vez en las elecciones de 1916: pasaron 4 años.",
+          "pista": "Buscá en la línea de tiempo el año de la ley y el de las primeras elecciones con la nueva ley, y restá."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "Mirá la tabla «Antes y después de la ley». ¿Qué NO cambió con la Ley Sáenz Peña?",
+          "opciones": [
+            "Que las mujeres y los extranjeros quedaban afuera",
+            "Que el voto fuera público",
+            "Que votar no fuera obligatorio",
+            "Que votara muy poca gente"
+          ],
+          "correcta": 0,
+          "explicacion": "Antes y después de 1912, las mujeres y los extranjeros no podían votar. Lo que cambió fue cómo se votaba y cuántos varones votaban.",
+          "pista": "Buscá en la tabla la fila que dice lo mismo en las dos columnas."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué un voto secreto y obligatorio ayuda a que haya menos fraude?",
+          "respuesta": "Si el voto es secreto, nadie puede presionarte ni comprarte según lo que votás; y si es obligatorio, vota mucha más gente y es más difícil manipular a un grupo chico."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué fue la Ley Sáenz Peña y por qué cambió la política argentina. Contá cómo eran las elecciones antes de 1912, qué estableció la ley, quiénes siguieron sin poder votar y qué pasó en las primeras elecciones presidenciales con la nueva ley.",
+        "guia": [
+          "¿Cómo eran las elecciones durante el régimen conservador?",
+          "¿Qué estableció la ley de 1912 sobre el voto?",
+          "¿Quiénes seguían sin poder votar?",
+          "¿Qué partido reclamaba elecciones limpias y quién ganó en 1916?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "1912"
+            ],
+            "p": "el año de la ley"
+          },
+          {
+            "k": [
+              "secreto"
+            ],
+            "p": "que el voto pasó a ser secreto"
+          },
+          {
+            "k": [
+              "obligatorio"
+            ],
+            "p": "que el voto pasó a ser obligatorio"
+          },
+          {
+            "k": [
+              "fraude",
+              "oligarqu",
+              "conservador",
+              "publico"
+            ],
+            "p": "cómo eran las elecciones antes (fraude, voto público)"
+          },
+          {
+            "k": [
+              "mujer",
+              "extranjer"
+            ],
+            "p": "quiénes seguían sin votar"
+          },
+          {
+            "k": [
+              "ucr",
+              "radical",
+              "yrigoyen",
+              "1916"
+            ],
+            "p": "la UCR y la elección de 1916"
+          }
+        ],
+        "referencia": "Antes había un régimen conservador con fraude y voto público. La Ley Sáenz Peña (1912) estableció el voto secreto, universal para los varones argentinos mayores de 18 años y obligatorio. Mujeres y extranjeros siguieron sin votar. La UCR reclamaba elecciones limpias; en 1916 ganó Yrigoyen.",
+        "minPalabras": 30
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "La Ley Sáenz Peña se sancionó en 1912.",
+          "respuesta": true,
+          "explicacion": "Se aplicó por primera vez en las elecciones presidenciales de 1916."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con la ley, el voto pasó a ser secreto, universal para los varones y obligatorio.",
+          "respuesta": true,
+          "explicacion": "Eso dice el recuadro «Qué estableció la ley»."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con la Ley Sáenz Peña las mujeres empezaron a votar.",
+          "respuesta": false,
+          "explicacion": "Las mujeres siguieron sin votar, igual que los extranjeros."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Antes de 1912 el voto era público y había fraude.",
+          "respuesta": true,
+          "explicacion": "Era fácil presionar a los votantes."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Unión Cívica Radical se fundó en 1891 y reclamaba elecciones limpias.",
+          "respuesta": true,
+          "explicacion": "Era un partido opositor al régimen conservador."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En 1905 la UCR llegó al gobierno ganando elecciones.",
+          "respuesta": false,
+          "explicacion": "En 1905 intentó tomar el poder por las armas, sin éxito."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con la nueva ley, los extranjeros que vivían en el país podían votar.",
+          "respuesta": false,
+          "explicacion": "Los extranjeros quedaban afuera antes y después de la ley."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quién ganó las primeras elecciones presidenciales con la nueva ley, en 1916?",
+          "opciones": [
+            "Hipólito Yrigoyen",
+            "Roque Sáenz Peña",
+            "Marcelo T. de Alvear",
+            "José F. Uriburu"
+          ],
+          "correcta": 0,
+          "explicacion": "Yrigoyen era el candidato de la UCR."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se llama el régimen que gobernaba antes de 1912?",
+          "opciones": [
+            "Régimen oligárquico o conservador",
+            "Democracia de masas",
+            "Gobierno radical",
+            "Gobierno militar"
+          ],
+          "correcta": 0,
+          "explicacion": "Lo controlaba un grupo reducido de familias."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué reclamaba la UCR?",
+          "opciones": [
+            "Elecciones limpias",
+            "El voto de las mujeres",
+            "Un gobierno militar",
+            "Cerrar las universidades"
+          ],
+          "correcta": 0,
+          "explicacion": "Por eso en 1905 intentó una revolución."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quiénes podían votar con la ley de 1912?",
+          "opciones": [
+            "Los varones argentinos de 18 años o más",
+            "Todas las personas mayores de 18",
+            "Solo los propietarios",
+            "Varones y mujeres argentinos"
+          ],
+          "correcta": 0,
+          "explicacion": "Mujeres y extranjeros quedaban afuera."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué el voto secreto ayuda a que haya menos fraude?",
+          "opciones": [
+            "Porque nadie puede presionarte según lo que votás",
+            "Porque vota menos gente",
+            "Porque los votos los cuentan los militares",
+            "Porque se vota a mano alzada"
+          ],
+          "correcta": 0,
+          "explicacion": "Si nadie sabe qué votaste, no te pueden presionar ni comprar el voto."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué pasó primero?",
+          "opciones": [
+            "La revolución radical",
+            "La Ley Sáenz Peña",
+            "La victoria de Yrigoyen",
+            "Las primeras elecciones con voto secreto"
+          ],
+          "correcta": 0,
+          "explicacion": "La revolución radical fue en 1905; la ley, en 1912; las elecciones, en 1916."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "SECRETO",
+          "pista": "Así pasó a ser el voto con la ley de 1912: nadie puede ver qué votás."
+        },
+        {
+          "palabra": "FRAUDE",
+          "pista": "Manipulación de las elecciones que había durante el régimen conservador."
+        },
+        {
+          "palabra": "OBLIGATORIO",
+          "pista": "Con la ley, votar dejó de ser algo opcional: pasó a ser…"
+        },
+        {
+          "palabra": "YRIGOYEN",
+          "pista": "Candidato de la UCR que ganó la presidencia en 1916."
+        },
+        {
+          "palabra": "CONSERVADOR",
+          "pista": "Otra forma de llamar al régimen oligárquico que gobernaba antes de 1912."
+        },
+        {
+          "palabra": "RADICAL",
+          "pista": "Unión Cívica ___: partido fundado en 1891."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Yrigoyen, Alvear y los sectores medios",
+      "tiempo": "14 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Quién apoyaba a la UCR",
+          "texto": "El radicalismo representaba sobre todo a los **sectores medios**: hijos de inmigrantes que habían prosperado, comerciantes, profesionales, empleados, pequeños productores. Querían participar de la política, que hasta entonces estaba cerrada.\n\nLos gobiernos radicales de esta etapa fueron tres: **Hipólito Yrigoyen** (1916-1922), **Marcelo T. de Alvear** (1922-1928) y de nuevo Yrigoyen (1928-1930)."
+        },
+        {
+          "t": "linea",
+          "titulo": "Hechos importantes",
+          "eventos": [
+            {
+              "anio": "1916",
+              "titulo": "Asume Yrigoyen",
+              "texto": "Primer presidente elegido con la Ley Sáenz Peña."
+            },
+            {
+              "anio": "1918",
+              "titulo": "Reforma Universitaria",
+              "texto": "Estudiantes de Córdoba reclaman universidades más abiertas, con autonomía y participación estudiantil; el movimiento se extiende a toda América Latina."
+            },
+            {
+              "anio": "1919",
+              "titulo": "Semana Trágica",
+              "texto": "En Buenos Aires, una huelga obrera termina con una fuerte represión y muchos muertos."
+            },
+            {
+              "anio": "1920-1922",
+              "titulo": "Huelgas en la Patagonia",
+              "texto": "Peones rurales de Santa Cruz hacen huelga y son reprimidos por el Ejército."
+            },
+            {
+              "anio": "1922",
+              "titulo": "Se crea YPF",
+              "texto": "El Estado crea una empresa petrolera; Enrique Mosconi fue su primer director."
+            }
+          ]
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿A qué tema corresponde cada hecho? Si no te acordás de qué fue cada uno, buscalo en la línea de tiempo.",
+          "categorias": [
+            "Participación y educación",
+            "Conflictos sociales",
+            "Economía y Estado"
+          ],
+          "items": [
+            {
+              "texto": "Reforma Universitaria",
+              "cat": "Participación y educación"
+            },
+            {
+              "texto": "Semana Trágica",
+              "cat": "Conflictos sociales"
+            },
+            {
+              "texto": "Huelgas de peones en Santa Cruz",
+              "cat": "Conflictos sociales"
+            },
+            {
+              "texto": "Creación de YPF",
+              "cat": "Economía y Estado"
+            },
+            {
+              "texto": "Ley Sáenz Peña",
+              "cat": "Participación y educación"
+            }
+          ],
+          "explicacion": "La ley y la reforma ampliaron la participación; la Semana Trágica y las huelgas de la Patagonia fueron conflictos reprimidos; YPF muestra al Estado interviniendo en la economía."
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená estos hechos de más antiguo a más reciente. Los años no están: buscalos en la cápsula.",
+          "items": [
+            "Se sanciona la Ley Sáenz Peña",
+            "Yrigoyen asume por primera vez",
+            "Estudiantes de Córdoba reclaman universidades más abiertas",
+            "Una huelga obrera en Buenos Aires termina con fuerte represión",
+            "Asume Marcelo T. de Alvear"
+          ],
+          "explicacion": "1912: Ley Sáenz Peña; 1916: asume Yrigoyen; 1918: Reforma Universitaria; 1919: Semana Trágica; 1922: asume Alvear.",
+          "pista": "Buscá cada hecho en la línea de tiempo «Hechos importantes» y en la cápsula anterior."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Un partido con tensiones internas",
+          "columnas": [
+            "",
+            "Yrigoyen",
+            "Alvear"
+          ],
+          "filas": [
+            [
+              "Años de gobierno",
+              "1916-1922 y 1928-1930",
+              "1922-1928"
+            ],
+            [
+              "Cómo era visto",
+              "Líder popular, muy personalista",
+              "Más cercano a sectores acomodados del partido"
+            ],
+            [
+              "Dentro del partido",
+              "Grupo de los «personalistas»",
+              "Grupo de los «antipersonalistas»"
+            ]
+          ]
+        },
+        {
+          "t": "verificar",
+          "consigna": "¿Cuántos años gobernó en total Hipólito Yrigoyen, sumando sus dos presidencias?",
+          "respuesta": "8",
+          "explicacion": "De 1916 a 1922 son 6 años y de 1928 a 1930 son 2: en total, 8 años.",
+          "pista": "Buscá en el primer texto los años de cada gobierno de Yrigoyen, calculá cuánto duró cada uno y sumalos."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Por qué se dice que en los años radicales se «amplió la democracia»?",
+          "opciones": [
+            "Porque más varones votaban y sectores medios llegaron al gobierno",
+            "Porque votaban todas las personas, incluidas las mujeres",
+            "Porque se prohibió el fraude para siempre",
+            "Porque desaparecieron los conflictos sociales"
+          ],
+          "correcta": 0,
+          "explicacion": "La participación creció, pero no era total: las mujeres no votaban y los conflictos obreros fueron reprimidos.",
+          "pista": "Pensá en los límites que aprendiste."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Caracterizá los gobiernos radicales entre 1916 y 1930. Incluí a quiénes representaba la UCR, quiénes gobernaron, al menos un hecho de participación y uno de conflicto social, el papel del Estado en el petróleo y por qué esa ampliación de la democracia tuvo límites.",
+        "guia": [
+          "¿Qué sectores sociales apoyaban a la UCR?",
+          "¿Quiénes fueron presidentes y en qué años?",
+          "¿Qué reclamaba la Reforma Universitaria?",
+          "¿Qué pasó en la Semana Trágica y en la Patagonia?",
+          "¿Qué hizo el Estado en 1922?",
+          "¿Por qué decimos que esa democracia tuvo límites?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "sectores medios",
+              "clase media",
+              "hijos de inmigrantes"
+            ],
+            "p": "los sectores medios como base de apoyo"
+          },
+          {
+            "k": [
+              "yrigoyen"
+            ],
+            "p": "Yrigoyen"
+          },
+          {
+            "k": [
+              "alvear"
+            ],
+            "p": "Alvear"
+          },
+          {
+            "k": [
+              "reforma universitaria",
+              "autonomia"
+            ],
+            "p": "la Reforma Universitaria"
+          },
+          {
+            "k": [
+              "semana tragica",
+              "patagonia",
+              "huelga"
+            ],
+            "p": "un conflicto social"
+          },
+          {
+            "k": [
+              "ypf",
+              "petrol",
+              "mosconi"
+            ],
+            "p": "la creación de YPF"
+          },
+          {
+            "k": [
+              "mujer",
+              "limite",
+              "reprim",
+              "no todos"
+            ],
+            "p": "los límites de esa democracia"
+          }
+        ],
+        "referencia": "La UCR representaba a los sectores medios. Presidentes: Yrigoyen (1916-22 y 1928-30) y Alvear (1922-28). Reforma Universitaria (1918): autonomía y participación estudiantil. Semana Trágica (1919) y huelgas en la Patagonia (1920-22), reprimidas. YPF (1922), empresa del Estado. Límites: las mujeres no votaban y hubo represión.",
+        "minPalabras": 40
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Yrigoyen gobernó dos veces: de 1916 a 1922 y de 1928 a 1930.",
+          "respuesta": true,
+          "explicacion": "Entre sus dos gobiernos gobernó Alvear."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Reforma Universitaria empezó en Córdoba en 1918.",
+          "respuesta": true,
+          "explicacion": "El movimiento se extendió a toda América Latina."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Semana Trágica fue una huelga obrera en Buenos Aires que terminó con una fuerte represión.",
+          "respuesta": true,
+          "explicacion": "Ocurrió en 1919."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Alvear gobernó entre 1916 y 1922.",
+          "respuesta": false,
+          "explicacion": "Alvear gobernó de 1922 a 1928."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la Patagonia hicieron huelga peones rurales de Santa Cruz, y el Ejército los reprimió.",
+          "respuesta": true,
+          "explicacion": "Fue entre 1920 y 1922."
+        },
+        {
+          "tipo": "vf",
+          "texto": "YPF se creó como una empresa privada.",
+          "respuesta": false,
+          "explicacion": "La creó el Estado en 1922; su primer director fue Enrique Mosconi."
+        },
+        {
+          "tipo": "vf",
+          "texto": "A los seguidores de Alvear dentro de la UCR se los llamaba «antipersonalistas».",
+          "respuesta": true,
+          "explicacion": "Los de Yrigoyen eran los «personalistas»."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿A qué sectores representaba sobre todo la UCR?",
+          "opciones": [
+            "A los sectores medios",
+            "A los grandes terratenientes",
+            "A los militares",
+            "Solo a los peones rurales"
+          ],
+          "correcta": 0,
+          "explicacion": "Hijos de inmigrantes que habían prosperado, comerciantes, profesionales, empleados…"
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué reclamaban los estudiantes en la Reforma Universitaria?",
+          "opciones": [
+            "Universidades más abiertas, con autonomía y participación estudiantil",
+            "Que se cerraran las universidades",
+            "El voto obligatorio",
+            "La creación de una empresa petrolera"
+          ],
+          "correcta": 0,
+          "explicacion": "El movimiento empezó en Córdoba en 1918."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quién fue el primer director de YPF?",
+          "opciones": [
+            "Enrique Mosconi",
+            "Marcelo T. de Alvear",
+            "Hipólito Yrigoyen",
+            "Roque Sáenz Peña"
+          ],
+          "correcta": 0,
+          "explicacion": "YPF se creó en 1922."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quién gobernó entre 1922 y 1928?",
+          "opciones": [
+            "Marcelo T. de Alvear",
+            "Hipólito Yrigoyen",
+            "Roque Sáenz Peña",
+            "José F. Uriburu"
+          ],
+          "correcta": 0,
+          "explicacion": "Alvear también era de la UCR."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué se dice que la democracia se amplió, pero con límites?",
+          "opciones": [
+            "Porque votaban más varones, pero las mujeres no votaban y hubo represión de huelgas",
+            "Porque votaban todas las personas",
+            "Porque no hubo ningún conflicto",
+            "Porque se prohibió la UCR"
+          ],
+          "correcta": 0,
+          "explicacion": "La participación creció, pero no era total."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo era visto Yrigoyen?",
+          "opciones": [
+            "Como un líder popular, muy personalista",
+            "Como alguien cercano a los sectores acomodados del partido",
+            "Como un líder militar",
+            "Como un opositor a la UCR"
+          ],
+          "correcta": 0,
+          "explicacion": "Alvear, en cambio, era más cercano a los sectores acomodados."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "ALVEAR",
+          "pista": "Presidente radical entre 1922 y 1928."
+        },
+        {
+          "palabra": "REFORMA",
+          "pista": "La ___ Universitaria de 1918 empezó en Córdoba."
+        },
+        {
+          "palabra": "MOSCONI",
+          "pista": "Primer director de YPF."
+        },
+        {
+          "palabra": "PATAGONIA",
+          "pista": "Región donde peones rurales de Santa Cruz hicieron huelga entre 1920 y 1922."
+        },
+        {
+          "palabra": "PERSONALISTAS",
+          "pista": "Así se llamaba al grupo de la UCR que seguía a Yrigoyen."
+        },
+        {
+          "palabra": "SEMANA TRÁGICA",
+          "pista": "Huelga obrera de 1919 en Buenos Aires que terminó con una fuerte represión."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "El mundo y la Argentina: la Primera Guerra",
+      "tiempo": "12 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Una guerra lejana que llegó a la Argentina",
+          "texto": "La **Primera Guerra Mundial** (1914-1918) enfrentó en Europa a las grandes potencias. La Argentina **se mantuvo neutral** durante toda la guerra.\n\nPero la guerra afectó su economía: el país vendía carnes y granos a Europa y compraba productos industriales, sobre todo ingleses. Con los barcos y los puertos ocupados en la guerra, el comercio se desordenó."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Cómo cambió la economía",
+          "columnas": [
+            "",
+            "Durante la guerra",
+            "Después de la guerra"
+          ],
+          "filas": [
+            [
+              "Importaciones",
+              "Faltan productos industriales de Europa",
+              "Se normalizan de a poco"
+            ],
+            [
+              "Exportaciones",
+              "Alteradas por la falta de barcos y el comercio de guerra",
+              "Se recuperan; crece el peso de Estados Unidos"
+            ],
+            [
+              "Industria local",
+              "Se estimula producir algunas cosas en el país",
+              "Compite con los productos importados"
+            ]
+          ]
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: si un país vive de vender carne y trigo a Europa, ¿qué pasa cuando Europa está en guerra?",
+          "respuesta": "Se complica su comercio: cambian los precios, faltan barcos y compradores se concentran en lo urgente. Un país agroexportador depende mucho de lo que pasa en el mundo."
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená esta cadena de hechos.",
+          "items": [
+            "Empieza la Primera Guerra Mundial en Europa.",
+            "Se desordena el comercio por mar.",
+            "Faltan en la Argentina muchos productos importados.",
+            "Algunas industrias locales empiezan a producir en el país."
+          ],
+          "explicacion": "La guerra distante afectó la economía argentina por su dependencia del comercio exterior.",
+          "pista": "Empezá por lo que ocurre primero: la guerra."
+        },
+        {
+          "t": "dato",
+          "titulo": "Otro hecho del mundo en 1917",
+          "texto": "En 1917 triunfó la Revolución Rusa. Sus ideas llegaron a la Argentina y preocuparon a los sectores más conservadores, que veían una amenaza en las huelgas y los reclamos obreros de esos años."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Por qué la guerra estimuló que se produjeran algunas cosas en el país?",
+          "opciones": [
+            "Porque faltaban productos industriales que antes llegaban de Europa",
+            "Porque la Argentina entró en la guerra",
+            "Porque Europa empezó a comprar productos industriales argentinos",
+            "Porque se prohibió exportar carne"
+          ],
+          "correcta": 0,
+          "explicacion": "Con el comercio desordenado faltaban importaciones, y eso empujó a producir algunas cosas en el país.",
+          "pista": "Pensá qué compraba la Argentina a Europa antes de la guerra."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Según la tabla «Cómo cambió la economía», ¿qué país ganó peso en el comercio después de la guerra?",
+          "respuesta": "Estados Unidos",
+          "acepta": [
+            "estados unidos",
+            "eeuu",
+            "ee uu",
+            "ee.uu.",
+            "ee.uu",
+            "usa",
+            "los estados unidos"
+          ],
+          "explicacion": "Después de la guerra las exportaciones se recuperaron y creció el peso de Estados Unidos.",
+          "pista": "Mirá la fila «Exportaciones», en la columna «Después de la guerra»."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá cómo influyó la Primera Guerra Mundial en la Argentina, aunque el país no participó en ella. Incluí la relación con el modelo agroexportador, al menos dos cambios en la economía y otro hecho mundial de esos años que llegó al país.",
+        "guia": [
+          "¿Qué actitud tuvo la Argentina durante la guerra?",
+          "¿Qué le vendía el país a Europa y qué le compraba?",
+          "¿Qué pasó con las importaciones, las exportaciones y la industria local durante la guerra? ¿Y después?",
+          "¿Qué país empezó a pesar más en el comercio?",
+          "¿Qué pasó en Rusia en 1917 y por qué preocupó a los sectores conservadores?",
+          "¿Por qué un país agroexportador depende tanto de lo que pasa en el mundo?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "neutral"
+            ],
+            "p": "la neutralidad argentina"
+          },
+          {
+            "k": [
+              "exporta",
+              "agroexport",
+              "carne",
+              "granos"
+            ],
+            "p": "que el país exportaba carnes y granos"
+          },
+          {
+            "k": [
+              "importa",
+              "industria",
+              "producir",
+              "fabricar"
+            ],
+            "p": "el efecto sobre las importaciones o la industria"
+          },
+          {
+            "k": [
+              "europa",
+              "comercio",
+              "barcos"
+            ],
+            "p": "la dependencia del comercio con Europa"
+          },
+          {
+            "k": [
+              "estados unidos",
+              "eeuu"
+            ],
+            "p": "el mayor peso de Estados Unidos"
+          },
+          {
+            "k": [
+              "revolucion rusa",
+              "rusia",
+              "1917"
+            ],
+            "p": "la Revolución Rusa"
+          },
+          {
+            "k": [
+              "depend",
+              "vulnerable",
+              "afecta"
+            ],
+            "p": "por qué es vulnerable un país agroexportador"
+          }
+        ],
+        "referencia": "La Argentina fue neutral, pero vendía carnes y granos a Europa y compraba productos industriales: con la guerra se desordenó el comercio, faltaron importaciones y se estimuló producir algunas cosas en el país. Después creció el peso de Estados Unidos. En 1917 triunfó la Revolución Rusa, que preocupó a los conservadores.",
+        "minPalabras": 35
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "La Argentina se mantuvo neutral durante toda la Primera Guerra Mundial.",
+          "respuesta": true,
+          "explicacion": "No participó en la guerra."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Como la Argentina no peleó en la guerra, su economía no se vio afectada.",
+          "respuesta": false,
+          "explicacion": "El comercio con Europa se desordenó: faltaron barcos y productos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Durante la guerra faltaron en la Argentina productos industriales que venían de Europa.",
+          "respuesta": true,
+          "explicacion": "Por eso se estimuló producir algunas cosas en el país."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Después de la guerra creció el peso comercial de Estados Unidos.",
+          "respuesta": true,
+          "explicacion": "Lo muestra la tabla «Cómo cambió la economía»."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Revolución Rusa triunfó en 1917 y preocupó a los sectores conservadores argentinos.",
+          "respuesta": true,
+          "explicacion": "Veían una amenaza en las huelgas y los reclamos obreros."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Un país que vive de exportar productos del campo depende poco de lo que pasa en el mundo.",
+          "respuesta": false,
+          "explicacion": "Depende mucho: si cambian los compradores o los precios, se complica su economía."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Primera Guerra Mundial se desarrolló entre 1914 y 1918.",
+          "respuesta": true,
+          "explicacion": "Enfrentó en Europa a las grandes potencias."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué vendía la Argentina a Europa?",
+          "opciones": [
+            "Carnes y granos",
+            "Productos industriales",
+            "Petróleo",
+            "Barcos"
+          ],
+          "correcta": 0,
+          "explicacion": "Era un país agroexportador."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué compraba la Argentina, sobre todo a Inglaterra?",
+          "opciones": [
+            "Productos industriales",
+            "Carnes",
+            "Granos",
+            "Cueros"
+          ],
+          "correcta": 0,
+          "explicacion": "Por eso, con la guerra, faltaron esos productos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué se desordenó el comercio durante la guerra?",
+          "opciones": [
+            "Porque los barcos y los puertos estaban ocupados en la guerra",
+            "Porque la Argentina cerró sus puertos",
+            "Porque no había nada para vender",
+            "Porque la Argentina declaró la guerra"
+          ],
+          "correcta": 0,
+          "explicacion": "El comercio por mar se complicó."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué pasó con la industria local durante la guerra?",
+          "opciones": [
+            "Se estimuló producir algunas cosas en el país",
+            "Desapareció",
+            "Exportó a toda Europa",
+            "No cambió nada"
+          ],
+          "correcta": 0,
+          "explicacion": "Al faltar importaciones, se produjo más adentro."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué hecho de 1917 llevó nuevas ideas a los movimientos obreros?",
+          "opciones": [
+            "La Revolución Rusa",
+            "La Reforma Universitaria",
+            "El fin de la guerra",
+            "La Ley Sáenz Peña"
+          ],
+          "correcta": 0,
+          "explicacion": "Sus ideas llegaron a la Argentina."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "Según la tabla, ¿qué le pasó a la industria local después de la guerra?",
+          "opciones": [
+            "Tuvo que competir con los productos importados",
+            "Desapareció",
+            "Dejó de haber importaciones",
+            "Empezó a exportar a Europa"
+          ],
+          "correcta": 0,
+          "explicacion": "Cuando las importaciones se normalizaron, volvió la competencia."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "NEUTRALIDAD",
+          "pista": "Política de la Argentina durante la Primera Guerra Mundial: no tomar partido."
+        },
+        {
+          "palabra": "AGROEXPORTADOR",
+          "pista": "Modelo de un país que vive de vender productos del campo al exterior."
+        },
+        {
+          "palabra": "IMPORTACIONES",
+          "pista": "Compras al exterior que escasearon durante la guerra."
+        },
+        {
+          "palabra": "EUROPA",
+          "pista": "Continente donde se combatió y al que la Argentina vendía carnes y granos."
+        },
+        {
+          "palabra": "RUSIA",
+          "pista": "País donde triunfó una revolución en 1917."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Régimen oligárquico",
+      "definicion": "Gobierno controlado por un grupo reducido de familias poderosas."
+    },
+    {
+      "palabra": "Fraude electoral",
+      "definicion": "Manipulación de las elecciones para que gane quien está en el poder."
+    },
+    {
+      "palabra": "Voto universal",
+      "definicion": "Todos los ciudadanos habilitados pueden votar. En 1912 incluía solo a los varones."
+    },
+    {
+      "palabra": "Sectores medios",
+      "definicion": "Grupos sociales entre los más ricos y los más pobres: comerciantes, profesionales, empleados."
+    },
+    {
+      "palabra": "Agroexportador",
+      "definicion": "Modelo económico basado en vender productos del campo al exterior."
+    },
+    {
+      "palabra": "Neutralidad",
+      "definicion": "No tomar partido ni participar en una guerra."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "Con la Ley Sáenz Peña votaba toda la población.",
+      "aclaracion": "Votaban solo los varones argentinos mayores de 18. Las mujeres y los extranjeros quedaban afuera."
+    },
+    {
+      "error": "Yrigoyen gobernó una sola vez.",
+      "aclaracion": "Gobernó de 1916 a 1922 y de 1928 a 1930."
+    },
+    {
+      "error": "La Argentina peleó en la Primera Guerra Mundial.",
+      "aclaracion": "Fue neutral, aunque la guerra afectó su economía."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "En 1912 se amplió el voto, pero la mitad de la población (las mujeres) seguía afuera. ¿Qué otros derechos creés que se ampliaron después y cómo se logran esos cambios? Pensá en quiénes los reclamaron.",
+    "conexion": "Con la clase de peronismo: ahí vas a ver el voto femenino y otros derechos sociales."
+  }
+}

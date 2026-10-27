@@ -1,0 +1,207 @@
+{
+  "espacio": "matematica",
+  "titulo": "Mi trabajo práctico de Matemática",
+  "intro": "En un buen trabajo práctico de Matemática no alcanza con copiar definiciones: tenés que mostrar que entendés los conceptos, resolver con tus propios números y explicar tu razonamiento. Eso es lo que vas a presentar y defender, y probablemente también te pidan resolver algún ejercicio en el momento.",
+  "claves_contenido": {
+    "m1": ["irracional", "racional", "redonde", "trunc", "error", "aproxim", "decimal", "acot"],
+    "m2": ["real", "recta", "inconmensurable", "conmensurable", "aureo", "φ", "fibonacci", "diagonal"],
+    "m3": ["radical", "producto", "simplific", "racionaliz", "equivalente", "extraer", "factor"],
+    "m4": ["sucesion", "aritmetica", "geometrica", "razon", "diferencia", "termino"]
+  },
+  "portada": {
+    "instruccion": "Escribí la introducción de tu trabajo: contá de qué trata, qué contenidos de Matemática incluye y para qué sirve saberlos.",
+    "guia": [
+      "¿Qué contenidos incluye tu trabajo y en qué orden los vas a presentar?",
+      "¿Qué tienen en común esos contenidos?",
+      "¿Para qué sirve saberlos, dentro o fuera de la escuela?"
+    ],
+    "claves": [
+      { "k": ["trabajo trata", "este trabajo", "trata sobre", "presento", "voy a"], "p": "de qué trata el trabajo" },
+      { "k": ["numero", "sucesion", "radical", "irracional", "real", "raiz", "aureo"], "p": "los contenidos que incluye" },
+      { "k": ["porque", "importante", "sirve", "permite", "util", "para"], "p": "para qué sirven" }
+    ],
+    "referencia": "Presentación del trabajo, contenidos incluidos y para qué sirven.",
+    "minPalabras": 20
+  },
+  "desarrollo": {
+    "m1": {
+      "instruccion": "Explicá con tus palabras qué es un número irracional y cómo se reconoce, cuándo una raíz es exacta, cómo se aproxima un irracional y cómo se mide el error. Incluí un ejemplo resuelto con tus propios números.",
+      "guia": [
+        "¿Qué diferencia a un racional de un irracional? ¿Cómo lo ves en los decimales?",
+        "¿Cómo sabés si una raíz es exacta o no? Dá un ejemplo de cada una.",
+        "¿Qué diferencia hay entre truncar y redondear? Mostralo con √5 o con π.",
+        "¿Qué es el error absoluto y cómo elegís cuántos decimales usar?"
+      ],
+      "claves": [
+        { "k": ["irracional"], "p": "qué es un irracional" },
+        { "k": ["fraccion", "periodic", "sin periodo", "no se repit"], "p": "cómo se distingue de un racional" },
+        { "k": ["exacta", "cuadrado perfecto", "entero"], "p": "cuándo una raíz es exacta" },
+        { "k": ["redonde"], "p": "el redondeo" },
+        { "k": ["trunc"], "p": "el truncamiento" },
+        { "k": ["error"], "p": "el error de la aproximación" },
+        { "k": ["2.23", "2,23", "2.24", "2,24", "3.14", "3,14", "3.142", "3,142", "3.141", "3,141", "1.41", "1,41", "1.414", "1,414"], "p": "un ejemplo numérico" }
+      ],
+      "referencia": "Irracional: no es fracción, decimales infinitos sin período. Raíz exacta si el radicando es potencia perfecta. Truncar corta; redondear mira la cifra siguiente. Error = |real − aproximado|; se eligen los decimales según la precisión pedida.",
+      "minPalabras": 30
+    },
+    "m2": {
+      "instruccion": "Explicá qué son los números reales y cómo se ubica √2 en la recta, qué significa que dos segmentos sean inconmensurables y qué es el número áureo. Incluí ejemplos.",
+      "guia": [
+        "¿Qué números forman los reales y qué relación tienen con la recta numérica?",
+        "¿Cómo se ubica √2 en la recta con regla y compás?",
+        "¿Cuándo dos segmentos son conmensurables y cuándo inconmensurables? ¿Qué ejemplo conocés?",
+        "¿Qué es el número áureo, cuánto vale y qué tiene que ver con Fibonacci?"
+      ],
+      "claves": [
+        { "k": ["real"], "p": "qué son los números reales" },
+        { "k": ["recta", "compas", "diagonal"], "p": "cómo se ubica √2 en la recta" },
+        { "k": ["inconmensurable"], "p": "qué es inconmensurable" },
+        { "k": ["unidad", "cociente"], "p": "la unidad común o el cociente" },
+        { "k": ["aureo", "φ", "1.618", "1,618"], "p": "el número áureo" },
+        { "k": ["fibonacci"], "p": "la relación con Fibonacci" }
+      ],
+      "referencia": "Reales = racionales + irracionales, cubren la recta. √2: diagonal del cuadrado de lado 1 trasladada con compás. Inconmensurables: sin unidad común, cociente irracional (lado y diagonal). φ = (1+√5)/2 ≈ 1,618, límite de los cocientes de Fibonacci.",
+      "minPalabras": 30
+    },
+    "m3": {
+      "instruccion": "Explicá las propiedades de los radicales que aprendiste, cómo se extraen factores, cómo se racionaliza y cuál es la propiedad que NO vale. Resolvé paso a paso un ejemplo de cada procedimiento.",
+      "guia": [
+        "¿Qué dicen las propiedades del producto y del cociente? Mostrá un ejemplo con números.",
+        "¿Por qué √(a + b) no es igual a √a + √b? Dá un contraejemplo.",
+        "¿Cómo simplificás un radical como √50 o √72?",
+        "¿Cómo racionalizás 1/√2 y por qué el valor no cambia?"
+      ],
+      "claves": [
+        { "k": ["producto", "multiplic"], "p": "la propiedad del producto" },
+        { "k": ["cociente", "divis"], "p": "la propiedad del cociente" },
+        { "k": ["suma", "no vale", "no es igual", "≠"], "p": "que la raíz de una suma no se distribuye" },
+        { "k": ["5√2", "6√2", "7√2", "3√2", "2√3", "5 √2", "6 √2"], "p": "un radical simplificado" },
+        { "k": ["racionaliz", "denominador"], "p": "la racionalización" }
+      ],
+      "referencia": "√(a·b) = √a·√b; √(a/b) = √a/√b; √(a+b) ≠ √a + √b (9 y 16). √50 = 5√2. 1/√2 = √2/2, porque se multiplica por √2/√2 = 1.",
+      "minPalabras": 30
+    },
+    "m4": {
+      "instruccion": "Explicá cómo se reconoce una sucesión aritmética y una geométrica, escribí la fórmula del término general de cada una y resolvé un ejemplo propio de cada tipo. Cerrá comparando cómo crecen.",
+      "guia": [
+        "¿Cómo te das cuenta si una sucesión es aritmética, geométrica o ninguna de las dos?",
+        "¿Cuál es la fórmula de cada una y qué significa cada letra?",
+        "¿Cuánto vale un término lejano (por ejemplo a₁₀) en tus ejemplos?",
+        "¿Cuál crece más rápido a largo plazo y por qué?"
+      ],
+      "claves": [
+        { "k": ["diferencia", "se suma", "suma siempre"], "p": "la diferencia constante de la aritmética" },
+        { "k": ["razon", "se multiplica", "multiplica siempre"], "p": "la razón de la geométrica" },
+        { "k": ["n-1", "n - 1", "n−1"], "p": "la fórmula del término general" },
+        { "k": ["a10", "a₁₀", "termino", "a6", "a₆", "a15", "a₁₅"], "p": "el cálculo de un término" },
+        { "k": ["rapido", "crece", "exponencial", "lineal"], "p": "la comparación del crecimiento" }
+      ],
+      "referencia": "Aritmética: aₙ = a₁ + (n−1)·d. Geométrica: aₙ = a₁·r^(n−1). Ejemplos propios con un término calculado. Con r > 1 la geométrica crece cada vez más rápido.",
+      "minPalabras": 30
+    }
+  },
+  "integracion": {
+    "intro": "Integrar es mostrar que los contenidos se conectan: uno sirve para entender o resolver el otro. Las preguntas de abajo relacionan **solo los contenidos que elegiste**. Podés responder con cuentas y con palabras.",
+    "intro_uno": "Elegiste un solo contenido. Integrar, en este caso, es mostrar cómo se conectan sus partes: qué necesitás saber de una para entender la otra.",
+    "pares": {
+      "m1|m2": "La diagonal de un cuadrado de lado 1 mide √2. ¿Por qué ninguna regla puede medirla con exactitud? ¿Qué tiene que ver eso con aproximar y con el error?",
+      "m1|m3": "√50 se puede escribir como 5√2. Aproximá 5√2 usando √2 ≈ 1,414 y compará con √50 ≈ 7,0711 de la calculadora. ¿Por qué dan casi lo mismo y por qué no exactamente?",
+      "m1|m4": "En la sucesión geométrica 1, √2, 2, 2√2, 4…, ¿cuál es la razón? ¿Qué términos son racionales y cuáles irracionales? ¿Cómo aproximarías los irracionales?",
+      "m2|m3": "En los números reales que estudiaste aparecen radicales: √2 en la diagonal y √5 en el número áureo. ¿Por qué esos radicales hacen que los números sean irracionales? ¿Se pueden simplificar?",
+      "m2|m4": "Calculá algunos cocientes entre términos consecutivos de Fibonacci (8/5, 13/8, 21/13…). ¿A qué número se acercan? ¿Fibonacci es aritmética, geométrica o ninguna de las dos? ¿Por qué?",
+      "m3|m4": "En la geométrica 2, 2√2, 4, 4√2, 8…, ¿cuál es la razón? Usá la propiedad del producto de radicales para mostrar que 2√2 · √2 = 4."
+    },
+    "individual": {
+      "m1": ["¿Por qué √50 es irracional y entre qué enteros está?", "¿Cómo cambia el resultado si en vez de redondear truncás? ¿Y el error?", "¿Cuántos decimales usarías para medir algo con un error menor que 1 mm y por qué?"],
+      "m2": ["¿Qué relación hay entre los números reales y la recta numérica?", "¿Por qué el lado y la diagonal del cuadrado son inconmensurables?", "¿Por qué el número áureo es irracional?"],
+      "m3": ["¿Qué propiedad usás para simplificar un radical y por qué no vale para la suma?", "¿Cómo comprobás que dos radicales son equivalentes?", "¿Por qué racionalizar no cambia el valor de la fracción?"],
+      "m4": ["¿En qué se parecen y en qué se diferencian la fórmula aritmética y la geométrica?", "¿Por qué una geométrica de razón mayor que 1 termina superando a una aritmética?", "¿Cómo armás la fórmula de una sucesión a partir de sus primeros términos?"]
+    },
+    "generales": [
+      "¿Qué tenés que saber de un contenido para poder resolver algo del otro?",
+      "¿En qué problema podrías usar dos de tus contenidos a la vez?",
+      "¿Qué procedimientos se repiten en tus contenidos (aproximar, simplificar, generalizar, comprobar)?"
+    ],
+    "referencia": "Texto que relaciona los contenidos elegidos, con cálculos y explicaciones.",
+    "minPalabras": 35
+  },
+  "realidad": {
+    "intro": "Relacionar con la realidad es mostrar dónde aparece lo que aprendiste. Para cada contenido que elegiste tenés una pregunta y algunas ideas: elegí una situación concreta y explicá qué contenido se usa y cómo.",
+    "por_contenido": {
+      "m1": { "pregunta": "¿En qué situación de la vida diaria se usan aproximaciones y hay que decidir cuántos decimales usar?", "ideas": ["Medir y cortar madera, tela o caños.", "Los precios con centavos y el redondeo al pagar.", "La calculadora o el celular, que muestran solo algunos decimales de π o de √2."] },
+      "m2": { "pregunta": "¿Dónde aparecen números irracionales o el número áureo en objetos reales?", "ideas": ["La hoja A4: la razón entre sus lados es aproximadamente 1,414.", "El pentágono regular (estrellas, logos).", "La diagonal de una cancha, de una mesa o de una pantalla."] },
+      "m3": { "pregunta": "¿En qué situación aparece una raíz cuadrada que conviene simplificar o aproximar?", "ideas": ["La diagonal de un terreno cuadrado o rectangular.", "El lado de una baldosa cuadrada de la que conocés el área.", "Comparar dos medidas escritas con radicales."] },
+      "m4": { "pregunta": "¿Qué situación de la vida diaria sigue un patrón aritmético o geométrico?", "ideas": ["Un ahorro que aumenta siempre lo mismo cada mes.", "Algo que se duplica: mensajes reenviados, bacterias, seguidores.", "Una tarifa con un costo fijo más un monto por cada unidad."] }
+    },
+    "referencia": "Una situación real por cada contenido, el contenido que aparece y para qué sirve.",
+    "minPalabras_por_contenido": 15
+  },
+  "conclusion": {
+    "instruccion": "Escribí la conclusión de tu trabajo: contá qué aprendiste, qué tienen en común los contenidos que estudiaste y para qué te sirven.",
+    "guia": [
+      "¿Qué es lo más importante que aprendiste?",
+      "¿Qué une a tus contenidos (por ejemplo, que todos trabajan con números reales, con aproximaciones o con regularidades)?",
+      "¿Para qué te sirven fuera de la escuela?",
+      "¿Qué te gustaría que recuerde quien escucha tu trabajo?"
+    ],
+    "claves": [
+      { "k": ["aprendi", "entendi", "conoci", "descubri"], "p": "qué aprendiste" },
+      { "k": ["une", "relacion", "conecta", "en comun", "todos", "los dos"], "p": "qué une a tus contenidos" },
+      { "k": ["sirve", "util", "permite", "uso", "usar", "hoy", "vida"], "p": "para qué sirven" }
+    ],
+    "referencia": "Aprendizajes, qué une los contenidos y para qué sirven.",
+    "minPalabras": 25
+  },
+  "practica": {
+    "intro": "Además de presentar tu trabajo, es probable que tu docente te pida **resolver algún ejercicio en el momento**. Estos ejercicios son del tipo que suelen pedirse. Resolvelos acá y también en tu carpeta, con todo el procedimiento.",
+    "consejos": [
+      "Leé el enunciado dos veces y anotá los datos.",
+      "Antes de calcular, decí qué propiedad o fórmula vas a usar.",
+      "Mostrá todos los pasos: el procedimiento vale tanto como el resultado.",
+      "Comprobá el resultado con la calculadora o reemplazando en la fórmula.",
+      "Si te trabás, contá en voz alta lo que sí sabés: eso también muestra lo que aprendiste."
+    ],
+    "por_contenido": {
+      "m1": [
+        { "t": "verificar", "consigna": "Truncá π = 3,14159265… a 4 decimales.", "respuesta": "3.1415", "tolerancia": 1e-6, "explicacion": "Truncar es cortar: 3,1415|9265… queda 3,1415.", "pista": "Cortá después de la cuarta cifra decimal, sin mirar la que sigue." },
+        { "t": "verificar", "consigna": "Redondeá √3 = 1,7320508… a 2 decimales.", "respuesta": "1.73", "tolerancia": 1e-6, "explicacion": "La cifra siguiente es 2 (menor que 5): queda 1,73.", "pista": "Mirá la tercera cifra decimal." },
+        { "t": "verificar", "consigna": "Calculá el error absoluto al aproximar π = 3,14159265… por 3,142. Escribilo con 5 decimales.", "respuesta": "0.00041", "tolerancia": 1.1e-5, "explicacion": "|3,14159265 − 3,142| = 0,00040735…, que con 5 decimales es 0,00041.", "pista": "Restá el número más chico al más grande: 3,142 − 3,14159265." },
+        { "t": "opcion", "pregunta": "¿Entre qué dos números enteros está √70?", "opciones": ["Entre 8 y 9", "Entre 7 y 8", "Entre 9 y 10", "Entre 35 y 36"], "correcta": 0, "explicacion": "8² = 64 y 9² = 81, y 70 está entre 64 y 81.", "pista": "Buscá los cuadrados perfectos más cercanos a 70." }
+      ],
+      "m2": [
+        { "t": "verificar", "consigna": "¿Cuánto mide la diagonal de un cuadrado de lado 3? Escribila con un radical simplificado (por ejemplo, 4√2).", "respuesta": "3√2", "acepta": ["3√2", "3 √2", "3 raiz de 2", "3raiz2", "√18", "raiz de 18"], "explicacion": "d² = 3² + 3² = 18, entonces d = √18 = 3√2.", "pista": "Usá Pitágoras: d² = 3² + 3².", "placeholder": "Por ejemplo: 4√2" },
+        { "t": "opcion", "pregunta": "Dos segmentos miden 12 cm y 8 cm. ¿Son conmensurables?", "opciones": ["Sí: con una unidad de 4 cm, uno mide 3 unidades y el otro 2", "No: porque 12 no es múltiplo de 8", "No: porque su cociente es irracional", "Solo si se miden con regla"], "correcta": 0, "explicacion": "12/8 = 3/2 es racional, así que existe una unidad común (4 cm).", "pista": "Calculá el cociente 12/8: ¿es racional?" },
+        { "t": "verificar", "consigna": "Calculá 34/21 (dos términos consecutivos de Fibonacci) con 3 decimales, redondeando.", "respuesta": "1.619", "tolerancia": 6e-4, "explicacion": "34 ÷ 21 = 1,6190…: muy cerca de φ ≈ 1,618.", "pista": "Dividí 34 por 21." }
+      ],
+      "m3": [
+        { "t": "verificar", "consigna": "Simplificá √45. Escribilo con la forma 3√2 (por ejemplo).", "respuesta": "3√5", "acepta": ["3√5", "3 √5", "3 raiz de 5", "3raiz5"], "explicacion": "45 = 9 · 5, entonces √45 = √9 · √5 = 3√5.", "pista": "Buscá el cuadrado perfecto más grande que divide a 45.", "placeholder": "Por ejemplo: 2√7" },
+        { "t": "verificar", "consigna": "Calculá √8 · √2.", "respuesta": "4", "explicacion": "√8 · √2 = √16 = 4.", "pista": "Usá la propiedad del producto: multiplicá los radicandos." },
+        { "t": "verificar", "consigna": "Racionalizá 4/√2 y simplificá. Escribilo con la forma 3√5 (por ejemplo).", "respuesta": "2√2", "acepta": ["2√2", "2 √2", "2 raiz de 2", "2raiz2"], "explicacion": "4/√2 = 4√2/2 = 2√2.", "pista": "Multiplicá arriba y abajo por √2 y después simplificá 4/2.", "placeholder": "Por ejemplo: 3√5" },
+        { "t": "opcion", "pregunta": "¿Cuánto vale √(16 + 9)?", "opciones": ["5", "7", "√16 + √9", "25"], "correcta": 0, "explicacion": "Primero se suma: √25 = 5. No es √16 + √9 = 7: la raíz no se distribuye sobre la suma.", "pista": "Resolvé primero lo que está dentro de la raíz." }
+      ],
+      "m4": [
+        { "t": "verificar", "consigna": "En la sucesión 7, 12, 17, 22, …, calculá a₂₀.", "respuesta": "102", "explicacion": "Es aritmética con d = 5: a₂₀ = 7 + 19 · 5 = 102.", "pista": "Usá aₙ = a₁ + (n − 1) · d." },
+        { "t": "verificar", "consigna": "En la sucesión 4, 12, 36, …, calculá a₆.", "respuesta": "972", "explicacion": "Es geométrica con r = 3: a₆ = 4 · 3⁵ = 4 · 243 = 972.", "pista": "Usá aₙ = a₁ · r^(n − 1)." },
+        { "t": "verificar", "consigna": "En una sucesión aritmética, a₁ = 3 y a₅ = 23. ¿Cuánto vale la diferencia d?", "respuesta": "5", "explicacion": "a₅ = a₁ + 4d → 23 = 3 + 4d → d = 5.", "pista": "Del primer término al quinto se suma 4 veces la diferencia." },
+        { "t": "opcion", "pregunta": "¿Cuál es el término general de 2, 6, 18, 54, …?", "opciones": ["aₙ = 2 · 3^(n − 1)", "aₙ = 2 + 4 · (n − 1)", "aₙ = 3 · 2^(n − 1)", "aₙ = 2 · 3 · n"], "correcta": 0, "explicacion": "Es geométrica con a₁ = 2 y r = 3.", "pista": "¿Se suma o se multiplica siempre lo mismo?" }
+      ]
+    }
+  },
+  "preguntas": [
+    { "id": "q-m1-1", "contenido": "m1", "nivel": "Básica", "pregunta": "¿Qué diferencia hay entre un número racional y uno irracional?", "orientacion": "Un racional se puede escribir como fracción de enteros y sus decimales son finitos o periódicos. Un irracional no se puede escribir como fracción: tiene infinitos decimales sin período, como √2 o π." },
+    { "id": "q-m1-2", "contenido": "m1", "nivel": "Media", "pregunta": "¿Por qué la calculadora no te da el valor exacto de √2? ¿Cómo sabés cuánto te equivocás?", "orientacion": "Porque √2 tiene infinitos decimales y la pantalla muestra solo algunos: es una aproximación. El error absoluto es la distancia entre el valor real y el aproximado." },
+    { "id": "q-m1-3", "contenido": "m1", "nivel": "Media", "pregunta": "Aproximá π a 3 decimales redondeando y truncando. ¿Coinciden? ¿Por qué?", "orientacion": "π = 3,14159…: truncado da 3,141 y redondeado 3,142. No coinciden porque la cifra siguiente es 5 y al redondear sube." },
+    { "id": "q-m2-1", "contenido": "m2", "nivel": "Básica", "pregunta": "¿Qué son los números reales?", "orientacion": "Son todos los racionales y los irracionales juntos. Cada punto de la recta numérica es un número real y la recta no tiene huecos." },
+    { "id": "q-m2-2", "contenido": "m2", "nivel": "Media", "pregunta": "¿Qué significa que el lado y la diagonal de un cuadrado sean inconmensurables?", "orientacion": "Que no existe ninguna unidad que entre una cantidad entera de veces en los dos, porque el cociente diagonal sobre lado es √2, que es irracional." },
+    { "id": "q-m2-3", "contenido": "m2", "nivel": "Media", "pregunta": "¿Qué es el número áureo y cuánto vale aproximadamente?", "orientacion": "Es φ = (1 + √5)/2, aproximadamente 1,618. Es irracional porque depende de √5, y los cocientes de términos consecutivos de Fibonacci se acercan a él." },
+    { "id": "q-m3-1", "contenido": "m3", "nivel": "Básica", "pregunta": "Simplificá √50 y explicá los pasos.", "orientacion": "Como 50 = 25 · 2, por la propiedad del producto √50 = √25 · √2 = 5√2." },
+    { "id": "q-m3-2", "contenido": "m3", "nivel": "Media", "pregunta": "¿Es cierto que √9 + √16 = √25? Mostralo.", "orientacion": "No: √9 + √16 = 3 + 4 = 7, pero √25 = 5. La raíz no se distribuye sobre la suma." },
+    { "id": "q-m3-3", "contenido": "m3", "nivel": "Integradora", "pregunta": "Escribí 1/√2 sin radical en el denominador y explicá por qué es equivalente.", "orientacion": "Se multiplica arriba y abajo por √2: queda √2/2. Es equivalente porque se multiplicó por √2/√2, que vale 1." },
+    { "id": "q-m4-1", "contenido": "m4", "nivel": "Básica", "pregunta": "¿Cómo reconocés si una sucesión es aritmética o geométrica?", "orientacion": "En la aritmética se suma siempre el mismo número (la diferencia). En la geométrica se multiplica siempre por el mismo número (la razón)." },
+    { "id": "q-m4-2", "contenido": "m4", "nivel": "Media", "pregunta": "En la sucesión 5, 8, 11, 14…, ¿cuál es el término 20? Explicá cómo lo calculás.", "orientacion": "Es aritmética con diferencia 3. Con la fórmula del término general: 5 + 19 · 3 = 62." },
+    { "id": "q-m4-3", "contenido": "m4", "nivel": "Media", "pregunta": "En la sucesión 3, 6, 12, 24…, ¿cuál es el término 8?", "orientacion": "Es geométrica con razón 2. Con la fórmula: 3 · 2⁷ = 3 · 128 = 384." },
+    { "id": "q-g-1", "contenido": "general", "nivel": "Integradora", "pregunta": "Contame cómo se relacionan dos de los contenidos de tu trabajo.", "orientacion": "Por ejemplo: la diagonal del cuadrado se escribe con un radical (√2), que es un número irracional; para medirla hay que aproximarla y elegir cuántos decimales usar según el error aceptable." },
+    { "id": "q-g-2", "contenido": "general", "nivel": "Integradora", "pregunta": "¿Dónde usarías lo que aprendiste en la vida cotidiana?", "orientacion": "Una situación concreta, como medir y cortar un material, comparar formas de ahorro o calcular una diagonal, diciendo qué contenido se usa y para qué." },
+    { "id": "q-g-3", "contenido": "general", "nivel": "Integradora", "pregunta": "¿Qué parte de tu trabajo te resultó más difícil y cómo la resolviste?", "orientacion": "Una respuesta sincera, con un ejemplo de lo que hiciste para entenderlo: releer la cápsula, practicar con ejercicios, usar los juegos o consultar." }
+  ]
+}

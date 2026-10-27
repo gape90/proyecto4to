@@ -1,0 +1,812 @@
+{
+  "id": "mat-4-02",
+  "espacio": "matematica",
+  "eje": "Números y operaciones",
+  "titulo": "Números reales y número áureo",
+  "intro": "Con los racionales y los irracionales completás la recta numérica. Vas a ubicar un irracional en ella, entender por qué hay segmentos que no se pueden medir con la misma unidad y conocer el famoso número áureo.",
+  "tp_aporte": "Para tu trabajo práctico ya tenés: qué son los números reales, cómo ubicar √2 en la recta, qué significa que dos segmentos sean inconmensurables y qué es el número áureo.",
+  "sugerencias_asistente": [
+    "¿Qué son los números reales?",
+    "¿Qué quiere decir inconmensurable?",
+    "¿Por qué φ es irracional?"
+  ],
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "Los reales y la recta numérica",
+      "tiempo": "12 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Un solo conjunto para todos",
+          "texto": "Los **números reales** son todos los racionales y todos los irracionales juntos. Se escriben con la letra ℝ.\n\nCada punto de la recta numérica corresponde a un número real, y cada número real tiene su punto. En la recta no quedan huecos."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "Cada número pertenece a varios conjuntos. Ubicalo en el más chico que lo describe.",
+          "categorias": [
+            "Natural",
+            "Entero (no natural)",
+            "Racional (no entero)",
+            "Irracional"
+          ],
+          "items": [
+            {
+              "texto": "7",
+              "cat": "Natural"
+            },
+            {
+              "texto": "−3",
+              "cat": "Entero (no natural)"
+            },
+            {
+              "texto": "2/5",
+              "cat": "Racional (no entero)"
+            },
+            {
+              "texto": "√3",
+              "cat": "Irracional"
+            },
+            {
+              "texto": "−10",
+              "cat": "Entero (no natural)"
+            },
+            {
+              "texto": "π",
+              "cat": "Irracional"
+            },
+            {
+              "texto": "0,5",
+              "cat": "Racional (no entero)"
+            }
+          ],
+          "explicacion": "Los naturales (1, 2, 3…) están dentro de los enteros, estos dentro de los racionales y todos dentro de los reales. √3 y π no entran en ninguno de los anteriores."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Cómo ubicar √2 en la recta",
+          "texto": "Se puede **construir con regla y compás**. Dibujás un cuadrado de lado 1 apoyado sobre la recta, desde el 0. Por Pitágoras, su diagonal mide √2 (porque 1² + 1² = 2). Con el compás llevás esa diagonal sobre la recta."
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená los pasos para ubicar √2 en la recta numérica.",
+          "items": [
+            "Dibujar un cuadrado de lado 1 que apoye en el 0 de la recta.",
+            "Trazar la diagonal del cuadrado desde el 0.",
+            "Con el compás en el 0, abrir hasta el extremo de la diagonal.",
+            "Girar el compás hasta cortar la recta: ese punto es √2."
+          ],
+          "explicacion": "El punto que obtenés queda entre 1 y 2, cerca de 1,41.",
+          "pista": "Primero se dibuja la figura, después se usa la diagonal."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Si la diagonal d de un cuadrado de lado 1 cumple d² = 1² + 1², ¿cuánto vale d²?",
+          "respuesta": "2",
+          "explicacion": "d² = 1 + 1 = 2, entonces d = √2.",
+          "pista": "Sumá los cuadrados de los dos lados."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Entre qué dos enteros consecutivos queda el punto √2 en la recta?",
+          "opciones": [
+            "Entre 0 y 1",
+            "Entre 1 y 2",
+            "Entre 2 y 3",
+            "Entre 3 y 4"
+          ],
+          "correcta": 1,
+          "explicacion": "1² = 1 y 2² = 4, y 2 está entre 1 y 4: √2 está entre 1 y 2.",
+          "pista": "Elevá al cuadrado 1 y 2."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué son los números reales y cómo se ubica √2 en la recta numérica con regla y compás.",
+        "claves": [
+          {
+            "k": [
+              "racional"
+            ],
+            "p": "que incluyen a los racionales"
+          },
+          {
+            "k": [
+              "irracional"
+            ],
+            "p": "que incluyen a los irracionales"
+          },
+          {
+            "k": [
+              "recta"
+            ],
+            "p": "la relación con la recta numérica"
+          },
+          {
+            "k": [
+              "diagonal",
+              "pitagoras"
+            ],
+            "p": "la diagonal del cuadrado / Pitágoras"
+          },
+          {
+            "k": [
+              "cuadrado",
+              "compas"
+            ],
+            "p": "el cuadrado de lado 1 o el compás"
+          }
+        ],
+        "referencia": "ℝ = racionales + irracionales; cada punto de la recta es un real. √2: cuadrado de lado 1, diagonal por Pitágoras, se traslada con compás.",
+        "guia": [
+          "¿Qué conjuntos de números forman los reales?",
+          "¿Qué relación hay entre los números reales y los puntos de la recta?",
+          "¿Por qué la diagonal de un cuadrado de lado 1 mide √2?",
+          "¿Cuáles son los pasos para llevar esa diagonal a la recta?"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Los números reales incluyen a los racionales y a los irracionales.",
+          "respuesta": true,
+          "explicacion": "Son la unión de ambos conjuntos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El número π es un número real.",
+          "respuesta": true,
+          "explicacion": "Es real e irracional."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la recta numérica hay huecos donde van los irracionales.",
+          "respuesta": false,
+          "explicacion": "Los irracionales ocupan sus propios puntos: la recta real no tiene huecos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La diagonal de un cuadrado de lado 1 mide √2.",
+          "respuesta": true,
+          "explicacion": "Por Pitágoras: 1² + 1² = 2."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Todo número entero es también un número racional.",
+          "respuesta": true,
+          "explicacion": "Por ejemplo 5 = 5/1."
+        },
+        {
+          "tipo": "vf",
+          "texto": "√2 está entre 2 y 3.",
+          "respuesta": false,
+          "explicacion": "Está entre 1 y 2."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estos números NO es real?",
+          "opciones": [
+            "π",
+            "−4",
+            "√2",
+            "Todos son reales"
+          ],
+          "correcta": 3,
+          "explicacion": "Todos los números que conocés hasta acá son reales."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Con qué herramienta se puede ubicar √2 en la recta?",
+          "opciones": [
+            "Regla y compás",
+            "Solo una calculadora",
+            "Un transportador",
+            "No se puede ubicar"
+          ],
+          "correcta": 0,
+          "explicacion": "Construyendo la diagonal del cuadrado de lado 1."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "−3 es un número…",
+          "opciones": [
+            "entero",
+            "natural",
+            "irracional",
+            "ninguno de los anteriores"
+          ],
+          "correcta": 0,
+          "explicacion": "Es entero (negativo); también es racional y real."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es racional?",
+          "opciones": [
+            "√2",
+            "π",
+            "0,25",
+            "√3"
+          ],
+          "correcta": 2,
+          "explicacion": "0,25 = 1/4."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué teorema justifica que la diagonal del cuadrado de lado 1 mide √2?",
+          "opciones": [
+            "Pitágoras",
+            "Tales",
+            "Bayes",
+            "Euclides"
+          ],
+          "correcta": 0,
+          "explicacion": "En el triángulo rectángulo de catetos 1 y 1, la hipotenusa cumple d² = 2."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "REALES",
+          "pista": "Conjunto formado por todos los racionales y todos los irracionales."
+        },
+        {
+          "palabra": "RECTA",
+          "pista": "Línea en la que cada punto corresponde a un número real."
+        },
+        {
+          "palabra": "COMPÁS",
+          "pista": "Instrumento con el que se lleva la diagonal hasta la recta."
+        },
+        {
+          "palabra": "PITÁGORAS",
+          "pista": "Teorema que justifica que la diagonal del cuadrado de lado 1 mide √2."
+        },
+        {
+          "palabra": "DIAGONAL",
+          "pista": "Segmento que une vértices opuestos del cuadrado."
+        },
+        {
+          "palabra": "ENTERO",
+          "pista": "−3 es un número ___ que no es natural."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Inconmensurabilidad",
+      "tiempo": "14 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "¿Se puede medir todo con la misma unidad?",
+          "texto": "Dos segmentos son **conmensurables** si existe una unidad de medida que entra una cantidad **entera** de veces en ambos. Por ejemplo, segmentos de 6 cm y 4 cm: con una unidad de 2 cm, uno mide 3 unidades y el otro 2. Su cociente 6/4 = 3/2 es un número racional.\n\nSi **no existe** esa unidad común, los segmentos son **inconmensurables**: su cociente es irracional."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Lado y diagonal del cuadrado",
+          "texto": "En un cuadrado de lado 1, la diagonal mide √2. El cociente diagonal/lado es √2, que es irracional. Entonces **lado y diagonal son inconmensurables**: no hay ninguna unidad, por chica que sea, que entre un número entero de veces en los dos."
+        },
+        {
+          "t": "dato",
+          "titulo": "Una historia de la matemática",
+          "texto": "Según la tradición, el descubrimiento de la inconmensurabilidad se les atribuye a los pitagóricos de la Grecia antigua (se suele mencionar a Hipaso de Metaponto). Ellos creían que todo se podía expresar con números racionales, y esto les mostró que no era así. Los detalles de la historia son discutidos entre los historiadores."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Medir en la práctica vs. medida matemática",
+          "texto": "Cuando medís con una regla, siempre obtenés un valor aproximado con pocos decimales: es un **acto empírico**, con error. En la **noción matemática**, la diagonal mide exactamente √2, aunque ninguna regla pueda mostrarlo con exactitud."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Estos pares de segmentos son conmensurables o inconmensurables? Pensá si su cociente es racional o irracional.",
+          "categorias": [
+            "Conmensurables",
+            "Inconmensurables"
+          ],
+          "items": [
+            {
+              "texto": "Segmentos de 6 cm y 9 cm",
+              "cat": "Conmensurables"
+            },
+            {
+              "texto": "Lado y diagonal de un cuadrado",
+              "cat": "Inconmensurables"
+            },
+            {
+              "texto": "Segmentos de 0,5 m y 2 m",
+              "cat": "Conmensurables"
+            },
+            {
+              "texto": "Circunferencia y su diámetro",
+              "cat": "Inconmensurables"
+            },
+            {
+              "texto": "Dos segmentos de 7 cm",
+              "cat": "Conmensurables"
+            },
+            {
+              "texto": "Lado y diagonal de un pentágono regular",
+              "cat": "Inconmensurables"
+            }
+          ],
+          "explicacion": "Los primeros tienen cociente racional (6/9 = 2/3; 0,5/2 = 1/4; 7/7 = 1). En los otros el cociente es irracional: √2, π y el número áureo."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Los segmentos de 6 cm y 4 cm son conmensurables. ¿Cuál es el cociente 6/4 escrito como decimal?",
+          "respuesta": "1.5",
+          "explicacion": "6/4 = 1,5 = 3/2, un racional.",
+          "pista": "Dividí 6 por 4."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: con una regla bien medida, ¿podés decir que la diagonal mide exactamente 1,41 m? ¿Por qué?",
+          "respuesta": "No: 1,41 es una aproximación. Como √2 tiene infinitos decimales, ninguna medida con un número finito de decimales es exacta. En la práctica elegimos la precisión que necesitamos."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué significa que dos segmentos sean conmensurables o inconmensurables, y qué diferencia hay entre medir con una regla y la medida en matemática. Usá un ejemplo de cada caso.",
+        "claves": [
+          {
+            "k": [
+              "unidad",
+              "medida comun",
+              "unidad comun"
+            ],
+            "p": "la unidad de medida común"
+          },
+          {
+            "k": [
+              "cociente",
+              "razon",
+              "relacion"
+            ],
+            "p": "el cociente entre los segmentos"
+          },
+          {
+            "k": [
+              "irracional"
+            ],
+            "p": "que en los inconmensurables el cociente es irracional"
+          },
+          {
+            "k": [
+              "diagonal",
+              "lado",
+              "cuadrado"
+            ],
+            "p": "el ejemplo del lado y la diagonal del cuadrado"
+          },
+          {
+            "k": [
+              "regla",
+              "aproxim",
+              "empiric",
+              "error"
+            ],
+            "p": "que medir con regla da una aproximación"
+          }
+        ],
+        "referencia": "Conmensurables: existe una unidad común, cociente racional. Inconmensurables: no existe, cociente irracional (lado y diagonal, √2). Regla: aproximación empírica; matemática: valor exacto.",
+        "guia": [
+          "¿Qué tiene que existir para que dos segmentos sean conmensurables? ¿Cómo es su cociente?",
+          "¿Por qué el lado y la diagonal del cuadrado son inconmensurables?",
+          "¿Qué obtenés siempre cuando medís con una regla?",
+          "¿Cuánto mide exactamente la diagonal en la noción matemática?"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Dos segmentos son conmensurables si existe una unidad que entra un número entero de veces en ambos.",
+          "respuesta": true,
+          "explicacion": "Esa es la definición."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El lado y la diagonal de un cuadrado son conmensurables.",
+          "respuesta": false,
+          "explicacion": "Su cociente es √2, irracional: son inconmensurables."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Si el cociente de dos segmentos es un número racional, los segmentos son conmensurables.",
+          "respuesta": true,
+          "explicacion": "Se puede encontrar una unidad común."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con una regla se puede medir exactamente la diagonal de un cuadrado de lado 1.",
+          "respuesta": false,
+          "explicacion": "La regla da una aproximación."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El cociente entre la circunferencia y su diámetro es un número racional.",
+          "respuesta": false,
+          "explicacion": "Es π, irracional."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Medir con una regla es un acto empírico: tiene error.",
+          "respuesta": true,
+          "explicacion": "Siempre se obtiene un valor aproximado."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "Dos segmentos de 6 cm y 9 cm son…",
+          "opciones": [
+            "conmensurables",
+            "inconmensurables",
+            "iguales",
+            "irracionales"
+          ],
+          "correcta": 0,
+          "explicacion": "La unidad de 3 cm entra 2 y 3 veces."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "El cociente diagonal/lado de un cuadrado es…",
+          "opciones": [
+            "√2",
+            "2",
+            "1,5",
+            "π"
+          ],
+          "correcta": 0,
+          "explicacion": "Es √2 ≈ 1,414."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "Inconmensurables significa que…",
+          "opciones": [
+            "no existe una unidad común de medida",
+            "miden lo mismo",
+            "son muy largos",
+            "son paralelos"
+          ],
+          "correcta": 0,
+          "explicacion": "Su cociente es irracional."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quiénes, según la tradición, descubrieron la inconmensurabilidad?",
+          "opciones": [
+            "Los pitagóricos",
+            "Los romanos",
+            "Los egipcios",
+            "Los mayas"
+          ],
+          "correcta": 0,
+          "explicacion": "Se atribuye a la escuela pitagórica, aunque los detalles son discutidos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "En la noción matemática, la diagonal de un cuadrado de lado 1 mide…",
+          "opciones": [
+            "exactamente √2",
+            "1,41 exacto",
+            "1,5",
+            "1,4142 exacto"
+          ],
+          "correcta": 0,
+          "explicacion": "Los decimales son solo aproximaciones."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "CONMENSURABLES",
+          "pista": "Segmentos que tienen una unidad de medida común."
+        },
+        {
+          "palabra": "INCONMENSURABLES",
+          "pista": "Segmentos sin unidad común: su cociente es irracional."
+        },
+        {
+          "palabra": "PITAGÓRICOS",
+          "pista": "Escuela griega a la que se atribuye el descubrimiento de la inconmensurabilidad."
+        },
+        {
+          "palabra": "EMPÍRICO",
+          "pista": "Medir con una regla es un acto ___: siempre tiene error."
+        },
+        {
+          "palabra": "UNIDAD",
+          "pista": "Medida común que entra un número entero de veces en dos segmentos conmensurables."
+        },
+        {
+          "palabra": "COCIENTE",
+          "pista": "Resultado de dividir: en el lado y la diagonal del cuadrado es √2."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "El número áureo",
+      "tiempo": "14 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Una proporción famosa",
+          "texto": "Dos segmentos a y b (con a > b) están en **proporción áurea** cuando el total a + b es a a lo que a es a b. Esa razón es siempre la misma y se llama **número áureo**, con la letra griega φ (fi)."
+        },
+        {
+          "t": "ecuacion",
+          "titulo": "Valor del número áureo",
+          "formula": "φ = (1 + √5) / 2 ≈ 1,6180339…",
+          "texto": "Como √5 es irracional, φ también es irracional."
+        },
+        {
+          "t": "sim",
+          "sim": "aureo",
+          "titulo": "Fibonacci y el número áureo"
+        },
+        {
+          "t": "texto",
+          "texto": "La **sucesión de Fibonacci** es 1, 1, 2, 3, 5, 8, 13, 21… cada término es la suma de los dos anteriores. Si dividís cada término por el anterior (8/5, 13/8, 21/13…), los cocientes **se acercan** cada vez más a φ."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Calculá 13/8 con 3 decimales.",
+          "respuesta": "1.625",
+          "tolerancia": 0.0006,
+          "explicacion": "13 ÷ 8 = 1,625. Ya está cerca de φ ≈ 1,618.",
+          "pista": "Dividí 13 por 8."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Calculá (1 + √5)/2 usando √5 ≈ 2,236. Redondeá a 2 decimales.",
+          "respuesta": "1.62",
+          "tolerancia": 0.006,
+          "explicacion": "(1 + 2,236)/2 = 1,618 → 1,62.",
+          "pista": "Sumá 1 y 2,236 y dividí por 2."
+        },
+        {
+          "t": "dato",
+          "titulo": "Cuidado con los mitos",
+          "texto": "Suele decirse que el número áureo está en el Partenón o en obras de Leonardo da Vinci, pero muchos de esos casos son discutidos por historiadores del arte. Lo que sí es seguro: aparece en el pentágono regular (la razón entre su diagonal y su lado es φ) y en el límite de los cocientes de Fibonacci."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Por qué el número áureo es irracional?",
+          "opciones": [
+            "Porque se calcula con √5, que es irracional",
+            "Porque es mayor que 1",
+            "Porque aparece en la naturaleza",
+            "Porque tiene 3 decimales"
+          ],
+          "correcta": 0,
+          "explicacion": "φ = (1 + √5)/2: si √5 fuera racional, φ también lo sería; pero √5 no es exacta.",
+          "pista": "Mirá de qué número depende su fórmula."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué es el número áureo, cómo se escribe y cuánto vale, qué relación tiene con la sucesión de Fibonacci y por qué es irracional.",
+        "claves": [
+          {
+            "k": [
+              "1+√5",
+              "1 + √5",
+              "(1+√5)/2",
+              "raiz de 5"
+            ],
+            "p": "la fórmula con √5"
+          },
+          {
+            "k": [
+              "1.618",
+              "1,618",
+              "1.62",
+              "1,62"
+            ],
+            "p": "el valor aproximado (1,618…)"
+          },
+          {
+            "k": [
+              "fibonacci"
+            ],
+            "p": "la sucesión de Fibonacci"
+          },
+          {
+            "k": [
+              "cociente",
+              "dividir",
+              "division",
+              "se acerca",
+              "se aproxim",
+              "tiende"
+            ],
+            "p": "que los cocientes se acercan a φ"
+          },
+          {
+            "k": [
+              "irracional"
+            ],
+            "p": "que es irracional"
+          }
+        ],
+        "referencia": "φ = (1+√5)/2 ≈ 1,618. Los cocientes de términos consecutivos de Fibonacci se acercan a φ. Es irracional porque √5 lo es.",
+        "guia": [
+          "¿Cuándo dos segmentos están en proporción áurea?",
+          "¿Cuál es la fórmula de φ y cuánto vale aproximadamente?",
+          "¿Cómo se arma la sucesión de Fibonacci y qué pasa con los cocientes entre términos consecutivos?",
+          "¿Por qué φ es irracional?",
+          "¿Dónde aparece seguro el número áureo y qué casos son discutidos?"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El número áureo vale aproximadamente 1,618.",
+          "respuesta": true,
+          "explicacion": "φ = (1 + √5)/2 ≈ 1,6180339…"
+        },
+        {
+          "tipo": "vf",
+          "texto": "El número áureo es racional.",
+          "respuesta": false,
+          "explicacion": "Depende de √5, que es irracional."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En Fibonacci, cada término es la suma de los dos anteriores.",
+          "respuesta": true,
+          "explicacion": "1, 1, 2, 3, 5, 8, 13…"
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los cocientes de términos consecutivos de Fibonacci se acercan a φ.",
+          "respuesta": true,
+          "explicacion": "Por ejemplo 21/13 ≈ 1,615."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Está comprobado que el Partenón se diseñó usando el número áureo.",
+          "respuesta": false,
+          "explicacion": "Es un caso discutido por los historiadores del arte."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En un pentágono regular, la razón entre diagonal y lado es φ.",
+          "respuesta": true,
+          "explicacion": "Es una propiedad geométrica del pentágono regular."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el término que sigue en 1, 1, 2, 3, 5, 8, …?",
+          "opciones": [
+            "13",
+            "11",
+            "16",
+            "12"
+          ],
+          "correcta": 0,
+          "explicacion": "5 + 8 = 13."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuánto da 8/5?",
+          "opciones": [
+            "1,6",
+            "1,5",
+            "1,8",
+            "0,625"
+          ],
+          "correcta": 0,
+          "explicacion": "8 ÷ 5 = 1,6."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "La letra griega que representa al número áureo es…",
+          "opciones": [
+            "φ (fi)",
+            "π (pi)",
+            "Σ (sigma)",
+            "Δ (delta)"
+          ],
+          "correcta": 0,
+          "explicacion": "φ es fi."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la fórmula del número áureo?",
+          "opciones": [
+            "(1 + √5)/2",
+            "(1 + √2)/2",
+            "√5 − 1",
+            "1/√5"
+          ],
+          "correcta": 0,
+          "explicacion": "φ = (1 + √5)/2."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "13 y 21 son términos consecutivos de Fibonacci. 21/13 es aproximadamente…",
+          "opciones": [
+            "1,615",
+            "1,3",
+            "2,1",
+            "0,619"
+          ],
+          "correcta": 0,
+          "explicacion": "21 ÷ 13 ≈ 1,6154."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "El número áureo es…",
+          "opciones": [
+            "un número real irracional",
+            "un número entero",
+            "un racional con 3 decimales",
+            "un natural"
+          ],
+          "correcta": 0,
+          "explicacion": "Es irracional."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "ÁUREO",
+          "pista": "Número φ, que vale aproximadamente 1,618."
+        },
+        {
+          "palabra": "FIBONACCI",
+          "pista": "Sucesión 1, 1, 2, 3, 5, 8…"
+        },
+        {
+          "palabra": "PENTÁGONO",
+          "pista": "Figura regular en la que la razón entre diagonal y lado es φ."
+        },
+        {
+          "palabra": "PARTENÓN",
+          "pista": "Edificio griego donde suele decirse, sin pruebas firmes, que está el número áureo."
+        },
+        {
+          "palabra": "PROPORCIÓN",
+          "pista": "___ áurea: el total es a la parte mayor lo que la mayor es a la menor."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Números reales",
+      "definicion": "Todos los racionales y los irracionales juntos: ocupan todos los puntos de la recta numérica."
+    },
+    {
+      "palabra": "Conmensurables",
+      "definicion": "Segmentos que tienen una unidad de medida común: su cociente es un número racional."
+    },
+    {
+      "palabra": "Inconmensurables",
+      "definicion": "Segmentos sin unidad común: su cociente es irracional."
+    },
+    {
+      "palabra": "Número áureo (φ)",
+      "definicion": "Número irracional ≈ 1,618, igual a (1 + √5)/2."
+    },
+    {
+      "palabra": "Sucesión de Fibonacci",
+      "definicion": "1, 1, 2, 3, 5, 8…: cada término es la suma de los dos anteriores."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "Los irracionales no están en la recta numérica.",
+      "aclaracion": "Sí están: √2, por ejemplo, se ubica con regla y compás."
+    },
+    {
+      "error": "Si mido con una regla bien, obtengo el valor exacto.",
+      "aclaracion": "Medir da una aproximación; el valor matemático exacto puede ser irracional."
+    },
+    {
+      "error": "El número áureo está en todo el arte y la naturaleza.",
+      "aclaracion": "Muchos casos son discutidos; lo seguro está en el pentágono y en Fibonacci."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "Buscá una hoja A4: la razón entre su lado largo y su lado corto es aproximadamente 1,414. ¿Con qué número se relaciona? Pensá por qué se la diseñó así (podés doblarla a la mitad y comparar las proporciones).",
+    "conexion": "Con la próxima clase: radicales, porque √2 aparece una y otra vez."
+  }
+}
