@@ -1,4 +1,4 @@
-# POTENCIAR - servidor local (usa PowerShell, que ya viene con Windows)
+# TUTORIAS VIRTUALES - servidor local (usa PowerShell, que ya viene con Windows)
 $raiz = [IO.Path]::GetFullPath($PSScriptRoot).TrimEnd([IO.Path]::DirectorySeparatorChar) + [IO.Path]::DirectorySeparatorChar
 $tipos = @{
   '.html'='text/html; charset=utf-8'; '.js'='text/javascript; charset=utf-8'; '.css'='text/css; charset=utf-8';
@@ -7,15 +7,15 @@ $tipos = @{
   '.txt'='text/plain; charset=utf-8'; '.md'='text/plain; charset=utf-8'; '.mp3'='audio/mpeg'; '.woff2'='font/woff2'
 }
 $listener = $null
-foreach ($p in 8421..8440) {
+foreach ($p in 8765..8784) {
   $l = New-Object System.Net.HttpListener
   $l.Prefixes.Add("http://localhost:$p/")
   try { $l.Start(); $listener = $l; $puerto = $p; break } catch { $l.Close() }
 }
-if (-not $listener) { Write-Host 'No se encontro un puerto libre (8421-8440).'; exit 1 }
+if (-not $listener) { Write-Host 'No se encontro un puerto libre (8765-8784).'; exit 1 }
 $url = "http://localhost:$puerto/index.html"
 Write-Host ''
-Write-Host "  POTENCIAR funcionando en $url"
+Write-Host "  TUTORIAS VIRTUALES funcionando en $url"
 Write-Host '  No cierres esta ventana mientras uses la plataforma.'
 Write-Host ''
 try { Start-Process $url } catch { Write-Host '  Abri esa direccion en el navegador.' }

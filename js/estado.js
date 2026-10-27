@@ -1,4 +1,4 @@
-// POTENCIAR · estado del alumno (solo en su navegador; nada se envía al docente)
+// TUTORÍAS VIRTUALES · estado del alumno (solo en su navegador; nada se envía al docente)
 const CLAVE = 'potenciar4.estado.v1';
 
 const base = () => ({
@@ -79,11 +79,7 @@ export function cabecera({ volver } = {}) {
   const alumno = e.alumno.nombre ? `<span class="alumno">${esc(e.alumno.nombre)}</span>` : '';
   const v = volver ? `<a class="volver" href="${volver.href}">← ${esc(volver.texto)}</a>` : '';
   return `<header class="cabecera">
-    <div class="marca">
-      <img src="img/logo-santafe-blanco.png" alt="Santa Fe Provincia" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'logo-texto',innerHTML:'Santa Fe<small>PROVINCIA</small>'}))">
-      <span class="sep"></span>
-      <span class="programa">Ministerio<br>de Educación</span>
-    </div>
+    <div class="marca"><span class="titulo-app">Tutorías Virtuales</span></div>
     <div class="derecha">${alumno}${v}</div>
   </header>`;
 }

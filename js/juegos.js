@@ -1,4 +1,4 @@
-// POTENCIAR · juegos de práctica (se habilitan al terminar cada cápsula)
+// TUTORÍAS VIRTUALES · juegos de práctica (se habilitan al terminar cada cápsula)
 // Banco por cápsula:
 //   juegos:   [{tipo:'vf', texto, respuesta:true|false, explicacion}, {tipo:'mc', pregunta, opciones:[], correcta:0, explicacion}]
 //   palabras: [{palabra, pista}]  (para «Palabra oculta» y «Memotest»)

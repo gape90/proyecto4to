@@ -1,4 +1,4 @@
-// POTENCIAR · simulaciones interactivas de Matemática
+// TUTORÍAS VIRTUALES · simulaciones interactivas de Matemática
 import { esc } from './estado.js';
 
 const NUMS = {

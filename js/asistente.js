@@ -1,7 +1,7 @@
-// POTENCIAR · Asistente: explica y orienta, nunca hace el trabajo. Sin robot: ícono neutro.
+// TUTORÍAS VIRTUALES · Asistente: explica y orienta, nunca hace el trabajo. Sin robot: ícono neutro.
 import { esc, norm } from './estado.js';
 import { NOMBRE_ASISTENTE } from './config.js';
-import { hayIA, pedirClave, preguntarAsistente } from './ia.js';
+import { hayIA, preguntarAsistente } from './ia.js';
 
 // Solo el material de enseñanza: nunca las respuestas de las actividades ni de la carpeta.
 export function contextoDeClase(clase) {
@@ -43,21 +43,16 @@ export function montarAsistente({ contexto, vocabulario = [], sugerencias = [] }
   function local(q) {
     const nq = norm(q);
     const hit = vocabulario.find(v => nq.includes(norm(v.palabra)));
-    if (hit) return `${hit.palabra}: ${hit.definicion}\n\nSi querés una explicación más completa con ejemplos, activá la IA.`;
-    return 'Sin IA solo puedo ayudarte con el vocabulario de la clase. Probá preguntarme por una palabra (por ejemplo, un término de la cápsula) o activá la IA para conversar.';
+    if (hit) return `${hit.palabra}: ${hit.definicion}`;
+    return 'Ahora no me puedo conectar. Mientras tanto te ayudo con el vocabulario de la clase: preguntame por una palabra de la cápsula, o probá de nuevo en un rato.';
   }
   async function enviar(q) {
     if (!q.trim()) return;
     agregar('yo', q);
-    if (!hayIA()) {
-      const r = local(q); agregar('bot', r);
-      const b = document.createElement('button'); b.className = 'btn chico suave'; b.textContent = 'Activar IA';
-      b.onclick = async () => { await pedirClave(); b.remove(); }; msgs.appendChild(b);
-      return;
-    }
+    if (!hayIA()) { agregar('bot', local(q)); return; }
     const esp = agregar('bot', 'Pensando…');
     try { const r = await preguntarAsistente({ pregunta: q, historial: hist.slice(0, -2), contexto }); esp.textContent = r || 'No pude responder. Probá de nuevo.'; hist[hist.length - 1].texto = esp.textContent; }
-    catch { esp.textContent = 'No pude conectarme. Revisá tu conexión o tu clave de IA.'; }
+    catch { esp.textContent = local(q); }
   }
   panel.querySelector('form').onsubmit = ev => { ev.preventDefault(); const i = panel.querySelector('input'); const v = i.value; i.value = ''; enviar(v); };
   return { enviar };

@@ -379,3 +379,4 @@ select:disabled{background-color:#F4F1FA;color:var(--tinta-suave);cursor:not-all
   .tp-layout{display:block}
   .hoja-tp{border:0;padding:0}
 }
+.cabecera .titulo-app{font-weight:800;font-size:1.35rem;letter-spacing:-.01em}

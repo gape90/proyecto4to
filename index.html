@@ -3,14 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Potenciar · Preparate para febrero</title>
+<title>Tutorías Virtuales · Preparate para febrero</title>
 <link rel="stylesheet" href="css/potenciar.css">
 </head>
 <body>
 <div id="cab"></div>
 <main class="contenedor">
   <section class="hero">
-    <h1>Potenciar</h1>
+    <h1>Tutorías Virtuales</h1>
     <p>Preparate para febrero: aprendé los contenidos que te faltan, practicá con juegos y armá paso a paso el trabajo práctico que vas a presentar y defender.</p>
   </section>
 
@@ -19,7 +19,7 @@
     <div class="subrayado"></div>
     <div class="form-grid">
       <div class="campo-full"><label class="campo" for="nombre">Tu nombre</label>
-        <input type="text" id="nombre" autocomplete="given-name" placeholder="Por ejemplo: Sofía"></div>
+        <input type="text" id="nombre" autocomplete="given-name" placeholder=""></div>
       <div><label class="campo" for="modalidad">Modalidad</label>
         <select id="modalidad"><option value="">Elegí…</option></select></div>
       <div><label class="campo" for="curso">Curso</label>
@@ -27,7 +27,6 @@
       <div class="campo-full"><label class="campo" for="espacio">Espacio curricular que te llevás a febrero</label>
         <select id="espacio" disabled><option value="">Primero elegí el curso</option></select></div>
     </div>
-    <p class="ayuda" id="aviso" style="margin-top:10px">Por ahora están habilitados Matemática e Historia de 4.º año de escuela orientada.</p>
 
     <div id="bloque-cont" class="oculto">
       <h3 style="margin-top:22px">Marcá los contenidos que tenés que recuperar</h3>
@@ -38,7 +37,7 @@
     <div class="acciones"><button class="btn" id="empezar" disabled>Empezar mi recorrido →</button><span class="ayuda" id="falta"></span></div>
   </section>
 </main>
-<div class="pie">Potenciar · Programa del Ministerio de Educación de la Provincia de Santa Fe · Tu avance se guarda solo en este dispositivo.</div>
+<div class="pie">Tutorías Virtuales · Programa del Ministerio de Educación de la Provincia de Santa Fe · Tu avance se guarda solo en este dispositivo.</div>
 
 <script type="module">
 import { leer, actualizar, esc, cargarJSON, cabecera } from './js/estado.js';
@@ -59,7 +58,7 @@ function opcionesCurso() {
   if (!m) { $('curso').innerHTML = '<option value="">Primero elegí la modalidad</option>'; return; }
   $('curso').innerHTML = '<option value="">Elegí…</option>' + m.cursos.map(c => {
     const hab = m.habilitado.includes(c);
-    return `<option value="${c}" ${hab ? '' : 'disabled'} ${String(e.alumno.curso) === String(c) ? 'selected' : ''}>${c}.º año${hab ? '' : ' (próximamente)'}</option>`;
+    return `<option value="${c}" ${hab ? '' : 'disabled'} ${String(e.alumno.curso) === String(c) ? 'selected' : ''}>${c}.º año</option>`;
   }).join('');
 }
 function opcionesEspacio() {
@@ -73,8 +72,6 @@ function opcionesEspacio() {
     return `<option value="${s.id}" ${hab ? '' : 'disabled'} ${e.espacio === s.id && hab ? 'selected' : ''}>${esc(s.nombre)}${hab ? '' : ' (próximamente)'}</option>`;
   }).join('');
   if (!$('espacio').value) e.espacio = '';
-  $('aviso').textContent = orientadaOk ? 'Por ahora están habilitados Matemática e Historia.'
-    : 'Los espacios de esta modalidad y curso todavía no están habilitados: por ahora funciona 4.º año de escuela orientada.';
 }
 function pintarContenidos() {
   const lista = (cat.contenidos[e.espacio] || []);

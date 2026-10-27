@@ -1,4 +1,4 @@
-// POTENCIAR · Trabajo práctico y preparación para presentarlo y defenderlo
+// TUTORÍAS VIRTUALES · Trabajo práctico y preparación para presentarlo y defenderlo
 // El alumno arma el TP parte por parte (primero en pantalla con aprobación, después en su carpeta).
 // Cada espacio curricular tiene su propio TP. Nada se envía al docente.
 import { leer, guardar, esc, md, tpDe, consignaHTML, diccionarioTildes } from './estado.js';
@@ -40,7 +40,6 @@ export function montarTP({ root, tp, oral, contenidos, clases = {}, espacio }) {
     const hechas = sec.filter(s => s.id !== 'final' && hecho(s.id)).length;
     root.innerHTML = `<div class="clase-cab"><div class="eje-nombre">Trabajo práctico · presentación y defensa</div><h1>${esc(tp.titulo)}</h1><p>${esc(tp.intro)}</p>
       <div class="barra" style="background:rgba(255,255,255,.35);max-width:100%"><i style="width:${Math.round(hechas / total * 100)}%;background:#fff"></i></div></div>
-      ${!hayIA() && AJUSTES.PERMITIR_SIN_IA ? `<div class="aviso-sin-ia no-print">Estás usando Potenciar sin IA: la corrección compara tu texto con los conceptos clave.</div>` : ''}
       <div class="tp-layout"><nav class="tp-menu no-print" aria-label="Partes del trabajo">${sec.map(s => {
         const h = hecho(s.id), d = T().secciones[s.id]?.estado === 'duda';
         return `<button data-id="${s.id}" class="${s.id === actual ? 'activo' : ''}"><span>${s.icono}</span><span>${esc(s.titulo)}</span><span class="estado">${d ? '⚑' : h ? '✓' : ''}</span></button>`;

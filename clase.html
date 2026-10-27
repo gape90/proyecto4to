@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Clase · Potenciar</title>
+<title>Clase · Tutorías Virtuales</title>
 <link rel="stylesheet" href="css/potenciar.css">
 </head>
 <body>
@@ -19,7 +19,7 @@ const id = new URLSearchParams(location.search).get('c');
 try {
   if (!/^[a-z0-9-]+$/.test(id || '')) throw new Error('Clase no válida');
   const clase = await cargarJSON(`contenidos/clases/${id}.json`);
-  document.title = `${clase.titulo} · Potenciar`;
+  document.title = `${clase.titulo} · Tutorías Virtuales`;
   montarClase(document.getElementById('clase'), clase);
   montarAsistente({
     contexto: contextoDeClase(clase), vocabulario: clase.vocabulario || [],

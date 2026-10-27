@@ -1,12 +1,12 @@
-// POTENCIAR · IA (Gemini) + corrección local de respaldo
+// TUTORÍAS VIRTUALES · IA (Gemini) + corrección local de respaldo
 // IMPORTANTE (producción): la clave NO debe ir en el navegador. Usar un proxy del Ministerio.
-import { MODELO_GEMINI, AJUSTES } from './config.js';
+import { MODELO_GEMINI, AJUSTES, URL_INTERMEDIARIO } from './config.js';
 import { norm, esc, esCopia, faltanTildes } from './estado.js';
 
 const K = 'potenciar4.gemini.clave';
 export const claveGuardada = () => { try { return localStorage.getItem(K) || ''; } catch { return ''; } };
 export const guardarClave = v => { try { v ? localStorage.setItem(K, v) : localStorage.removeItem(K); } catch {} };
-export const hayIA = () => !!claveGuardada();
+export const hayIA = () => !!URL_INTERMEDIARIO || !!claveGuardada();
 
 export function pedirClave() {
   return new Promise(res => {
@@ -26,14 +26,21 @@ export function pedirClave() {
 }
 
 export async function llamarGemini(prompt, maxTokens = 600, json = false) {
-  const clave = claveGuardada();
-  if (!clave) throw new Error('sin-clave');
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODELO_GEMINI}:generateContent`;
+  // Los modelos 3.x «piensan» antes de responder y eso consume tokens de salida: se deja un techo alto (no es un gasto fijo).
   const body = {
     contents: [{ role: 'user', parts: [{ text: prompt }] }],
-    generationConfig: { temperature: 0.3, maxOutputTokens: maxTokens, ...(json ? { responseMimeType: 'application/json' } : {}) },
+    generationConfig: { temperature: 0.3, maxOutputTokens: Math.max(maxTokens, 8192), ...(json ? { responseMimeType: 'application/json' } : {}) },
   };
-  const r = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json', 'x-goog-api-key': clave }, body: JSON.stringify(body) });
+  let r;
+  if (URL_INTERMEDIARIO) {
+    // El intermediario agrega la clave en secreto y le habla a Google
+    r = await fetch(URL_INTERMEDIARIO, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
+  } else {
+    const clave = claveGuardada();
+    if (!clave) throw new Error('sin-clave');
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODELO_GEMINI}:generateContent`;
+    r = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json', 'x-goog-api-key': clave }, body: JSON.stringify(body) });
+  }
   if (!r.ok) throw new Error('gemini-' + r.status);
   const j = await r.json();
   return (j.candidates?.[0]?.content?.parts || []).map(p => p.text || '').join('').trim();
@@ -92,14 +99,14 @@ Respondé SOLO un JSON: {"aprobado": true|false, "devolucion": "máximo 4 oracio
     const j = JSON.parse(t.replace(/^```json|```$/g, '').trim());
     return { ok: !!j.aprobado, mensaje: j.devolucion || (j.aprobado ? '¡Aprobado!' : 'Revisalo y probá de nuevo.'), origen: 'ia' };
   } catch {
-    return { ...local, mensaje: local.mensaje + ' (Corrección sin IA: no pude conectarme.)' };
+    return local; // si la IA no responde, corrige igual comparando con los conceptos clave
   }
 }
 
 /* ---------- Asistente: explica y orienta, nunca resuelve ---------- */
 export async function preguntarAsistente({ pregunta, historial = [], contexto = '' }) {
   const h = historial.slice(-6).map(m => `${m.rol === 'yo' ? 'Estudiante' : 'Asistente'}: ${m.texto}`).join('\n');
-  const prompt = `Sos el Asistente de Potenciar, un programa del Ministerio de Educación de Santa Fe para que estudiantes de 4.º año se preparen para rendir en febrero. Hablás en español rioplatense, claro y cálido, con "vos". Respondé en pocas oraciones.
+  const prompt = `Sos el Asistente de Tutorías Virtuales, un programa del Ministerio de Educación de Santa Fe para que estudiantes de 4.º año se preparen para rendir en febrero. Hablás en español rioplatense, claro y cálido, con "vos". Respondé en pocas oraciones.
 REGLAS ESTRICTAS:
 - Explicás, das ejemplos distintos a los de la clase y orientás con preguntas o pistas.
 - NUNCA resolvés las consignas de la cápsula, ni escribís el texto que el estudiante debe poner en su carpeta, ni hacés el trabajo práctico por él.

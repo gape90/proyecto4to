@@ -1,7 +1,10 @@
-// POTENCIAR · configuración general
-export const NOMBRE_PROYECTO = 'Potenciar';
+// TUTORÍAS VIRTUALES · configuración general
+export const NOMBRE_PROYECTO = 'Tutorías Virtuales';
 export const NOMBRE_ASISTENTE = 'Asistente';
 export const MODELO_GEMINI = 'gemini-3.1-flash-lite';
+// Intermediario de IA (el mismo Cloudflare Worker de LumAI): guarda la clave de Gemini en secreto,
+// así nunca queda en el navegador ni se le pide al alumno. Si se deja vacío (''), se pide la clave como antes.
+export const URL_INTERMEDIARIO = 'https://lumai-ia.gape90.workers.dev';
 
 export const AJUSTES = {
   // Piloto: el alumno puede usar la plataforma sin clave de IA (corrección local por palabras clave).

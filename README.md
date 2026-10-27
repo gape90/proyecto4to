@@ -1,4 +1,4 @@
-# POTENCIAR · Piloto 4.º año (Escuela Secundaria Orientada)
+# Tutorías Virtuales · Piloto 4.º año (Escuela Secundaria Orientada)
 
 Plataforma para que estudiantes que se llevan espacios curriculares a febrero se preparen en diciembre, enero y febrero. Piloto con **Matemática** e **Historia** (4 contenidos cada una) basado en el Diseño Curricular de Santa Fe (Res. 2630/14, Anexo III).
 
@@ -13,13 +13,14 @@ Plataforma para que estudiantes que se llevan espacios curriculares a febrero se
 **Nada se envía al docente**: todo el avance queda en el navegador del estudiante (localStorage).
 
 ## Cómo probarlo
-- **Local (Windows)**: doble clic en `iniciar.bat`. Levanta un servidor con PowerShell (viene con Windows, no hace falta instalar nada), busca un puerto libre desde el 8421 y abre el navegador. No cerrar la ventana negra mientras se usa. No abrir `index.html` con doble clic: necesita un servidor web.
+- **Local (Windows)**: doble clic en `iniciar.bat`. Levanta un servidor con PowerShell (viene con Windows, no hace falta instalar nada), busca un puerto libre desde el 8765 y abre el navegador. No cerrar la ventana negra mientras se usa. No abrir `index.html` con doble clic: necesita un servidor web.
 - **GitHub Pages**: subir esta carpeta tal cual a un repositorio y activar Pages (rama principal, raíz). Ya incluye `.nojekyll`.
 
-## Corrección con y sin IA
-- **Sin IA** (modo piloto, `PERMITIR_SIN_IA: true`): se compara el texto con los **conceptos clave** de cada consigna y se pide un mínimo de palabras. Funciona sin conexión y sin clave.
-- **Con IA** (Gemini): el estudiante pega su clave y la IA corrige, da pistas y orienta; si falla, vuelve a la corrección local.
-- ⚠️ **Producción**: la clave de IA no puede quedar en el navegador. Hace falta un **proxy del Ministerio** que guarde la clave y reciba las consultas. Cambiar `llamarGemini` en `js/ia.js` para apuntar al proxy y poner `PERMITIR_SIN_IA: false` si se exige IA.
+## IA
+La IA funciona sola, sin pedir clave: la plataforma le habla al **intermediario de LumAI** (Cloudflare Worker `https://lumai-ia.gape90.workers.dev`, configurado en `js/config.js` → `URL_INTERMEDIARIO`). El intermediario guarda la clave de Gemini en secreto y solo acepta pedidos desde `https://gape90.github.io` y desde la compu (`http://localhost:8765`, el puerto que usa `iniciar.bat`).
+- Si la IA no responde, la corrección sigue funcionando comparando con los conceptos clave, y el asistente responde con el vocabulario de la clase.
+- Si en el futuro se publica en otro sitio (por ejemplo, el Moodle del Ministerio), hay que agregar esa dirección a la lista `PERMITIDOS` del intermediario en Cloudflare.
+- Tutorías Virtuales y LumAI comparten la misma clave y el mismo cupo de uso de Gemini.
 
 ## Ajustes (`js/config.js`)
 | Ajuste | Valor piloto | Para producción |

@@ -1,4 +1,4 @@
-// POTENCIAR · motor de cápsulas
+// TUTORÍAS VIRTUALES · motor de cápsulas
 // Cada cápsula: enseña, hace practicar, pide registrar en la carpeta (primero en pantalla con aprobación, después en papel)
 // y, al terminar, habilita los juegos de práctica. Nada se envía al docente.
 import { leer, guardar, capsula, capHecha, progresoClase, esc, md, norm, consignaHTML, diccionarioTildes } from './estado.js';
@@ -48,13 +48,11 @@ export function montarClase(root, clase) {
       <div class="clase-cab"><div class="eje-nombre">${esc(clase.eje)}</div>
         <h1>${esc(clase.titulo)}</h1><p>${esc(clase.intro || '')}</p>
         <div class="barra" style="background:rgba(255,255,255,.35);max-width:100%"><i style="width:${p.pct}%;background:#fff"></i></div></div>
-      ${!hayIA() && AJUSTES.PERMITIR_SIN_IA ? `<div class="aviso-sin-ia no-print">Estás usando Potenciar sin IA: la corrección compara tu texto con los conceptos clave. <button class="btn suave chico" id="actia">Activar IA</button></div>` : ''}
       <div class="tabs-caps" role="tablist">${clase.capsulas.map((c, i) => {
         const h = capHecha(e, clase.id, c.id), d = disponible(i);
         return `<button class="tab-cap ${i === actual ? 'activa' : ''} ${h ? 'hecha' : ''} ${d ? '' : 'bloq'}" data-i="${i}" ${d ? '' : 'disabled'} role="tab">${h ? '✓' : d ? (i + 1) : '🔒'} ${esc(c.titulo)}</button>`;
       }).join('')}${p.pct === 100 ? `<button class="tab-cap ${actual === 'cierre' ? 'activa' : ''}" data-i="cierre">🎓 Cierre</button>` : ''}</div>
       <div id="cap"></div>`;
-    root.querySelector('#actia')?.addEventListener('click', async () => { await pedirClave(); pintar(); });
     root.querySelectorAll('.tab-cap').forEach(b => b.onclick = () => { actual = b.dataset.i === 'cierre' ? 'cierre' : +b.dataset.i; pintar(); window.scrollTo({ top: 0, behavior: 'smooth' }); });
     if (actual === 'cierre') cierre(root.querySelector('#cap')); else capsulaUI(root.querySelector('#cap'), actual);
   }
