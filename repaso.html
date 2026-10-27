@@ -23,19 +23,27 @@ try {
   const cat = await cargarJSON('contenidos/catalogo.json');
   const contenidos = (cat.contenidos[esp] || []).filter(c => e.seleccion.includes(c.id) && c.activo && c.clase);
   const integ = await cargarJSON(`contenidos/autoevaluacion/${esp}.json`).catch(() => ({ pares: {} }));
-  const preguntas = [];
-  // Dos preguntas de cada clase (distintas cada vez), y después las que relacionan los contenidos elegidos
+  // Entre 10 y 20 preguntas: algunas de cada clase (una de cada parte, distintas cada vez)
+  // y, sobre todo, preguntas que relacionan los contenidos elegidos entre sí.
+  const n = contenidos.length;
+  const porClase = n <= 3 ? 3 : 2;        // 2 clases: 6 · 3 clases: 9 · 4 clases: 8
+  const porPar = n === 2 ? 5 : n === 3 ? 3 : 2; // 2 clases: 5 · 3 clases: 9 · 4 clases: 12
+  const deClase = [], relacionan = [];
   for (const c of contenidos) {
     const clase = await cargarJSON(`contenidos/clases/${c.clase}.json`);
-    const banco = clase.capsulas.flatMap(k => k.autoevaluacion || []);
-    preguntas.push(...mezclar(banco).slice(0, 2).map(q => ({ ...q, parte: c.titulo })));
+    // primero una pregunta de cada parte, después el resto al azar
+    const porParte = clase.capsulas.map(k => mezclar(k.autoevaluacion || []));
+    const orden = [...porParte.map(x => x[0]), ...mezclar(porParte.flatMap(x => x.slice(1)))].filter(Boolean);
+    deClase.push(...orden.slice(0, porClase).map(q => ({ ...q, parte: c.titulo })));
   }
-  for (let a = 0; a < contenidos.length; a++) for (let b = a + 1; b < contenidos.length; b++) {
+  for (let a = 0; a < n; a++) for (let b = a + 1; b < n; b++) {
     const par = integ.pares[`${contenidos[a].id}|${contenidos[b].id}`] || integ.pares[`${contenidos[b].id}|${contenidos[a].id}`] || [];
-    preguntas.push(...par.map(q => ({ ...q, parte: `Relaciona: ${contenidos[a].titulo} y ${contenidos[b].titulo}` })));
+    relacionan.push(...mezclar(par).slice(0, porPar).map(q => ({ ...q, parte: `Relaciona: ${contenidos[a].titulo} y ${contenidos[b].titulo}` })));
   }
+  let preguntas = [...deClase, ...relacionan];
+  if (preguntas.length > 20) preguntas = [...deClase, ...relacionan.slice(0, 20 - deClase.length)];
   document.getElementById('cuerpo').innerHTML = `<div class="clase-cab"><div class="eje-nombre">Repaso de todos tus temas</div><h1>Autoevaluación general</h1>
-    <p>Terminaste las clases. Ahora repasá todos los contenidos juntos: algunas preguntas son de cada tema y otras los relacionan entre sí, como te pueden preguntar en febrero.</p></div>
+    <p>Terminaste las clases. Ahora repasá todos los contenidos juntos: son ${preguntas.length} preguntas. Algunas son de cada tema y otras —las que dicen «Relaciona»— los conectan entre sí, como te pueden preguntar en febrero.</p></div>
     <div class="tarjeta" id="ae"></div>
     <div class="acciones"><a class="btn" href="recorrido.html">Volver a mi recorrido →</a></div>`;
   montarAutoevaluacion(document.getElementById('ae'), preguntas, {

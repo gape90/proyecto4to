@@ -19,6 +19,36 @@
         "texto": "El número áureo, igual que √2 y π, es un número real irracional.",
         "respuesta": true,
         "explicacion": "Todos son reales y ninguno se puede escribir como fracción."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Por qué π es un número real irracional?",
+        "opciones": [
+          "Porque no se puede escribir como fracción: tiene infinitos decimales sin período",
+          "Porque es mayor que 3",
+          "Porque se usa en geometría",
+          "Porque se escribe con una letra"
+        ],
+        "correcta": 0,
+        "explicacion": "Ser irracional no depende del tamaño ni de cómo se escribe, sino de que no sea una fracción de enteros."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "√2 está en la recta numérica entre 1 y 2 (√2 = 1,41421…). ¿Cómo queda redondeado a 2 decimales?",
+        "opciones": [
+          "1,41",
+          "1,42",
+          "1,4",
+          "2"
+        ],
+        "correcta": 0,
+        "explicacion": "La cifra siguiente es 4 (menor que 5): no sube. Ubicar en la recta y aproximar son dos formas de trabajar con un irracional."
+      },
+      {
+        "tipo": "vf",
+        "texto": "13/8 = 1,625 es una aproximación racional del número áureo.",
+        "respuesta": true,
+        "explicacion": "Los cocientes de Fibonacci son racionales que se acercan a φ, que es irracional."
       }
     ],
     "m1|m3": [
@@ -39,6 +69,36 @@
         "texto": "Simplificar √50 como 5√2 cambia su valor.",
         "respuesta": false,
         "explicacion": "Son escrituras equivalentes: valen lo mismo."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Cuál de estos radicales es un número irracional?",
+        "opciones": [
+          "√12",
+          "√36",
+          "∛27",
+          "√(9/4)"
+        ],
+        "correcta": 0,
+        "explicacion": "√12 = 2√3 no es exacta. √36 = 6, ∛27 = 3 y √(9/4) = 3/2 son racionales."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "√8 = 2√2. Si √2 ≈ 1,41, ¿cuánto vale aproximadamente √8?",
+        "opciones": [
+          "2,82",
+          "4",
+          "1,41",
+          "8,82"
+        ],
+        "correcta": 0,
+        "explicacion": "2 · 1,41 = 2,82. Simplificar primero hace más fácil aproximar."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Racionalizar 1/√2 da √2/2, y su valor aproximado es 0,7071.",
+        "respuesta": true,
+        "explicacion": "1,41421… ÷ 2 = 0,7071…, igual que 1 ÷ 1,41421…"
       }
     ],
     "m1|m4": [
@@ -59,6 +119,36 @@
         "texto": "En la sucesión 1, √2, 2, 2√2, 4, … todos los términos son racionales.",
         "respuesta": false,
         "explicacion": "√2 y 2√2 son irracionales; 1, 2 y 4 son racionales."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "En la sucesión geométrica 3, 3√3, 9, 9√3, 27, …, ¿qué términos son racionales?",
+        "opciones": [
+          "3, 9 y 27",
+          "Todos",
+          "Ninguno",
+          "Solo 3√3 y 9√3"
+        ],
+        "correcta": 0,
+        "explicacion": "Los términos con √3 son irracionales; los demás son enteros."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "Una sucesión aritmética empieza en 0,5 y suma 0,25 cada vez. ¿Cómo son sus términos?",
+        "opciones": [
+          "Racionales: todos son decimales finitos",
+          "Irracionales",
+          "Algunos racionales y otros irracionales",
+          "No se puede saber"
+        ],
+        "correcta": 0,
+        "explicacion": "Sumando decimales finitos siempre se obtienen decimales finitos: 0,5; 0,75; 1; 1,25…"
+      },
+      {
+        "tipo": "vf",
+        "texto": "En la geométrica 1, √2, 2, 2√2, 4, …, el término a₅ = 4 es racional.",
+        "respuesta": true,
+        "explicacion": "Los términos de posición impar son racionales (1, 2, 4…) y los de posición par, irracionales."
       }
     ],
     "m2|m3": [
@@ -79,6 +169,36 @@
         "texto": "La diagonal de un cuadrado de lado 5 mide 5√2, que es lo mismo que √50.",
         "respuesta": true,
         "explicacion": "d² = 25 + 25 = 50, entonces d = √50 = 5√2."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "La diagonal de un cuadrado de lado 3 mide √18. ¿Cómo se escribe simplificada?",
+        "opciones": [
+          "3√2",
+          "2√3",
+          "9√2",
+          "6"
+        ],
+        "correcta": 0,
+        "explicacion": "18 = 9 · 2, entonces √18 = 3√2."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Cuál es el cociente entre la diagonal (3√2) y el lado (3) de ese cuadrado?",
+        "opciones": [
+          "√2",
+          "3",
+          "1",
+          "√18"
+        ],
+        "correcta": 0,
+        "explicacion": "3√2 ÷ 3 = √2, irracional: lado y diagonal son inconmensurables, para cualquier cuadrado."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Como √5 = 2,236…, el número áureo (1 + √5)/2 vale aproximadamente 1,618.",
+        "respuesta": true,
+        "explicacion": "(1 + 2,236) ÷ 2 = 1,618."
       }
     ],
     "m2|m4": [
@@ -99,6 +219,36 @@
         "texto": "La sucesión de Fibonacci es geométrica.",
         "respuesta": false,
         "explicacion": "No tiene razón constante (ni diferencia constante): no es ni aritmética ni geométrica."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tiene de particular la sucesión de Fibonacci?",
+        "opciones": [
+          "Cada término es la suma de los dos anteriores, y no es ni aritmética ni geométrica",
+          "Es aritmética de diferencia 1",
+          "Es geométrica de razón 2",
+          "Sus términos son irracionales"
+        ],
+        "correcta": 0,
+        "explicacion": "Sus términos son enteros, pero ni la diferencia ni el cociente son constantes."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué término de Fibonacci sigue a 21 y 34?",
+        "opciones": [
+          "55",
+          "68",
+          "47",
+          "42"
+        ],
+        "correcta": 0,
+        "explicacion": "21 + 34 = 55. Y 55/34 ≈ 1,618: muy cerca de φ."
+      },
+      {
+        "tipo": "vf",
+        "texto": "En una sucesión geométrica el cociente entre términos seguidos es siempre la razón, mientras que en Fibonacci los cocientes solo se acercan a φ.",
+        "respuesta": true,
+        "explicacion": "Esa es la diferencia entre una regularidad exacta y una que se aproxima a un valor."
       }
     ],
     "m3|m4": [
@@ -119,6 +269,36 @@
         "texto": "En la sucesión 3, 3√3, 9, 9√3, … la razón es √3.",
         "respuesta": true,
         "explicacion": "3√3 ÷ 3 = √3, y 9 ÷ 3√3 = √3."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "En la geométrica √2, 2, 2√2, 4, …, ¿qué término sigue a 4?",
+        "opciones": [
+          "4√2",
+          "8",
+          "6",
+          "4 + √2"
+        ],
+        "correcta": 0,
+        "explicacion": "La razón es √2: 4 · √2 = 4√2."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "En la aritmética √2, 2√2, 3√2, 4√2, …, ¿cuál es la diferencia?",
+        "opciones": [
+          "√2",
+          "2",
+          "√4",
+          "1"
+        ],
+        "correcta": 0,
+        "explicacion": "Cada término es el anterior más √2."
+      },
+      {
+        "tipo": "vf",
+        "texto": "En la aritmética √2, 2√2, 3√2, …, el término a₅ es 5√2, que es igual a √50.",
+        "respuesta": true,
+        "explicacion": "5√2 = √25 · √2 = √50."
       }
     ]
   }

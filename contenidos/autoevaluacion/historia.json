@@ -19,6 +19,36 @@
         "texto": "Tanto en Europa como en la Argentina, la Revolución Rusa (1917) preocupó a los sectores conservadores.",
         "respuesta": true,
         "explicacion": "En Europa asustaba a las clases dirigentes; en la Argentina, los conservadores veían una amenaza en las huelgas obreras."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "En 1924 Lugones pidió que el Ejército tomara el control del país. ¿Contra qué se dirigía esa idea?",
+        "opciones": [
+          "Contra la democracia ampliada por la Ley Sáenz Peña, que había llevado a la UCR al gobierno",
+          "Contra el gobierno de Perón",
+          "Contra el Estado Novo de Brasil",
+          "Contra la Revolución Rusa"
+        ],
+        "correcta": 0,
+        "explicacion": "En 1924 gobernaba Alvear (UCR), elegido con voto secreto. Los nacionalismos autoritarios desconfiaban de la democracia y de las elecciones."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué rasgo de los nacionalismos autoritarios se opone a lo que buscó la Ley Sáenz Peña?",
+        "opciones": [
+          "La desconfianza hacia la democracia y las elecciones",
+          "El interés por la economía",
+          "La neutralidad en la guerra",
+          "El apoyo a los sectores medios"
+        ],
+        "correcta": 0,
+        "explicacion": "La Ley Sáenz Peña amplió la participación con elecciones limpias; los nacionalismos autoritarios preferían un líder fuerte y desconfiaban de la democracia."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La Primera Guerra Mundial aparece en los dos temas: afectó la economía argentina y dejó a Europa en crisis, lo que ayudó al crecimiento de los nacionalismos.",
+        "respuesta": true,
+        "explicacion": "Es un mismo hecho mundial con consecuencias en los dos procesos."
       }
     ],
     "h1|h3": [
@@ -39,6 +69,36 @@
         "texto": "Durante la Década Infame se respetó plenamente el voto secreto establecido en 1912.",
         "respuesta": false,
         "explicacion": "Predominó el fraude electoral: la ley seguía, pero las elecciones se manipulaban."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tienen en común la Primera Guerra Mundial y la crisis de 1929 en sus efectos sobre la Argentina?",
+        "opciones": [
+          "Las dos alteraron el comercio exterior de un país que vivía de exportar productos del campo",
+          "Las dos fueron guerras en territorio argentino",
+          "Las dos terminaron con el voto secreto",
+          "Ninguna afectó a la Argentina"
+        ],
+        "correcta": 0,
+        "explicacion": "En los dos casos se vio lo vulnerable que es un país agroexportador a lo que pasa en el mundo."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "En tus dos temas aparece la industria local. ¿Qué tienen en común ambos momentos?",
+        "opciones": [
+          "Cuando faltaron productos importados, se empezó a fabricar en el país",
+          "La industria desapareció las dos veces",
+          "En los dos casos la industria exportó a Europa",
+          "En los dos casos se prohibió la industria"
+        ],
+        "correcta": 0,
+        "explicacion": "Durante la Primera Guerra y después de 1929 faltaron importaciones, y eso empujó a producir en el país; con la ISI ese proceso se hizo mucho más grande."
+      },
+      {
+        "tipo": "vf",
+        "texto": "YPF (1922) y el Banco Central (1935) son ejemplos de un Estado que interviene en la economía.",
+        "respuesta": true,
+        "explicacion": "Uno es de los años radicales y el otro de la Década Infame."
       }
     ],
     "h1|h4": [
@@ -59,6 +119,36 @@
         "texto": "Tanto la UCR en 1916 como el peronismo en 1946 llegaron al gobierno ganando elecciones.",
         "respuesta": true,
         "explicacion": "Yrigoyen ganó en 1916 y Perón en 1946."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué sectores sociales fueron la base de apoyo de la UCR y del peronismo?",
+        "opciones": [
+          "La UCR, los sectores medios; el peronismo, los trabajadores",
+          "Los dos, los grandes terratenientes",
+          "La UCR, los militares; el peronismo, la Iglesia",
+          "Los dos, los extranjeros"
+        ],
+        "correcta": 0,
+        "explicacion": "Cada etapa sumó a la política a un sector distinto: primero los sectores medios y después los trabajadores."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "La Semana Trágica (1919) y el 17 de octubre (1945) muestran a los trabajadores en la política. ¿Qué diferencia hay entre ambos hechos?",
+        "opciones": [
+          "En 1919 los obreros fueron reprimidos; en 1945 su movilización fue clave para que Perón llegara al gobierno",
+          "En los dos casos ganaron elecciones",
+          "En 1919 votaron las mujeres",
+          "No hay diferencias"
+        ],
+        "correcta": 0,
+        "explicacion": "Comparar los dos hechos muestra cómo cambió el lugar de los trabajadores en la política argentina."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Tanto la democracia ampliada de los gobiernos radicales como la democracia de masas del peronismo tuvieron límites.",
+        "respuesta": true,
+        "explicacion": "Con los radicales no votaban las mujeres y hubo represión; con el peronismo hubo restricciones a la oposición y control de la prensa."
       }
     ],
     "h2|h3": [
@@ -79,6 +169,36 @@
         "texto": "Uriburu, que encabezó el golpe de 1930, admiraba ideas autoritarias como las de los nacionalismos de entreguerras.",
         "respuesta": true,
         "explicacion": "Admiraba ideas corporativistas y autoritarias."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué conecta a la Liga Patriótica, a Lugones y al golpe de 1930?",
+        "opciones": [
+          "Todos expresan un nacionalismo autoritario que desconfiaba de la democracia",
+          "Todos defendían el voto femenino",
+          "Todos formaron parte de FORJA",
+          "Todos ocurrieron después de 1943"
+        ],
+        "correcta": 0,
+        "explicacion": "Son tres momentos del nacionalismo autoritario argentino; el último terminó con un gobierno elegido."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Por qué después de 1929 crecieron al mismo tiempo el proteccionismo y los nacionalismos?",
+        "opciones": [
+          "Porque ante la crisis muchos países priorizaron lo propio: su producción y su nación",
+          "Porque la crisis terminó con las naciones",
+          "Porque creció el comercio mundial",
+          "Porque desapareció el Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "La crisis llevó a cerrarse: en la economía, con proteccionismo; en la política, con nacionalismos."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La crisis de 1929 aparece en los dos temas: favoreció a los nacionalismos en Europa y afectó la economía argentina.",
+        "respuesta": true,
+        "explicacion": "Un mismo hecho mundial con consecuencias económicas y políticas."
       }
     ],
     "h2|h4": [
@@ -105,6 +225,36 @@
         ],
         "correcta": 0,
         "explicacion": "Pasar servicios al Estado buscaba que la economía dependiera menos de empresas y potencias extranjeras."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿En qué se diferenció el peronismo de los nacionalismos autoritarios europeos que estudiaste?",
+        "opciones": [
+          "Llegó al gobierno ganando elecciones y amplió el voto a las mujeres",
+          "Tuvo partido único y prohibió las elecciones",
+          "Hizo del racismo una política de Estado",
+          "No tuvo apoyo popular"
+        ],
+        "correcta": 0,
+        "explicacion": "Perón ganó las elecciones de 1946 y en 1947 se sancionó el voto femenino. El fascismo y el nazismo tenían partido único y no se sostenían en elecciones libres."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "Getúlio Vargas, Lázaro Cárdenas y Perón aparecen en tus temas. ¿Qué los une?",
+        "opciones": [
+          "Fueron gobiernos latinoamericanos con un Estado fuerte en la economía y apoyo de sectores populares",
+          "Fueron líderes fascistas europeos",
+          "Fundaron FORJA",
+          "Gobernaron la Argentina"
+        ],
+        "correcta": 0,
+        "explicacion": "Son los gobiernos populares latinoamericanos de mediados del siglo XX."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La democracia de masas peronista tuvo tensiones con la oposición y con la prensa.",
+        "respuesta": true,
+        "explicacion": "Por eso se habla de una democracia de masas con límites."
       }
     ],
     "h3|h4": [
@@ -125,6 +275,36 @@
         "texto": "El golpe de 1943, que terminó con la Década Infame, es el mismo después del cual Perón pasó a la Secretaría de Trabajo.",
         "respuesta": true,
         "explicacion": "Un mismo hecho cierra un tema y abre el otro."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tienen en común el Estado de la Década Infame y el del peronismo?",
+        "opciones": [
+          "Los dos intervinieron en la economía, aunque con objetivos distintos",
+          "Ninguno intervino en la economía",
+          "Los dos eliminaron las elecciones para siempre",
+          "Los dos cerraron el Banco Central"
+        ],
+        "correcta": 0,
+        "explicacion": "En la Década Infame el Estado reguló para enfrentar la crisis; con el peronismo planificó y buscó redistribuir ingresos hacia los trabajadores."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué hecho de 1943 une a tus dos temas?",
+        "opciones": [
+          "El golpe militar que terminó con la Década Infame y llevó a Perón a la Secretaría de Trabajo",
+          "La caída de la Bolsa de Nueva York",
+          "La Ley Sáenz Peña",
+          "La ley del voto femenino"
+        ],
+        "correcta": 0,
+        "explicacion": "Un mismo hecho cierra una etapa y abre la otra."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Las migraciones del campo y del interior hacia las ciudades ayudan a entender quiénes se movilizaron el 17 de octubre de 1945.",
+        "respuesta": true,
+        "explicacion": "Esos migrantes se convirtieron en obreros industriales, y fueron los trabajadores quienes llenaron la Plaza de Mayo."
       }
     ]
   }
