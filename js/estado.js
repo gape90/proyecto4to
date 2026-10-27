@@ -155,3 +155,51 @@ export function faltanTildes(texto, dic = {}) {
   }
   return out;
 }
+
+/* ---------- Escritura: palabras de la página mal escritas ---------- */
+// Referencia armada con los textos de la página: nombres propios y términos con tilde, tal como aparecen en el material.
+export function referenciaEscritura(...objetos) {
+  const todas = [];
+  const recorrer = o => {
+    if (typeof o === 'string') todas.push(...(o.match(/[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+/g) || []));
+    else if (Array.isArray(o)) o.forEach(recorrer);
+    else if (o && typeof o === 'object') for (const [k, v] of Object.entries(o)) { if (!['claves', 'acepta', 'k', 'id', 't', 'claves_contenido'].includes(k)) recorrer(v); }
+  };
+  objetos.forEach(recorrer);
+  const enMinuscula = new Set(todas.filter(w => w === w.toLowerCase()).map(w => w.toLowerCase()));
+  const palabras = new Set(todas.map(w => norm(w)));
+  const terminos = new Map();
+  for (const w of todas) {
+    if (w.length < 5) continue;
+    const propio = w[0] !== w[0].toLowerCase() && w.slice(1) === w.slice(1).toLowerCase() && !enMinuscula.has(w.toLowerCase());
+    if (propio || /[áéíóú]/.test(w)) terminos.set(norm(w), w);
+  }
+  return { palabras, terminos, dic: diccionarioTildes(...objetos) };
+}
+// Distancia entre dos palabras (cambiar, agregar, sacar o invertir dos letras seguidas)
+function distancia(a, b) {
+  if (Math.abs(a.length - b.length) > 1) return 9;
+  const d = Array.from({ length: a.length + 1 }, (_, i) => [i, ...Array(b.length).fill(0)]);
+  for (let j = 1; j <= b.length; j++) d[0][j] = j;
+  for (let i = 1; i <= a.length; i++) for (let j = 1; j <= b.length; j++) {
+    d[i][j] = Math.min(d[i - 1][j] + 1, d[i][j - 1] + 1, d[i - 1][j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+    if (i > 1 && j > 1 && a[i - 1] === b[j - 2] && a[i - 2] === b[j - 1]) d[i][j] = Math.min(d[i][j], d[i - 2][j - 2] + 1);
+  }
+  return d[a.length][b.length];
+}
+// Devuelve las palabras del alumno que hay que revisar (sin decir cómo se escriben)
+export function revisarEscritura(texto, ref) {
+  if (!ref) return [];
+  const out = [], vistos = new Set();
+  for (const w of (texto || '').match(/[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+/g) || []) {
+    const l = w.toLowerCase(), n = norm(w);
+    if (vistos.has(l)) continue;
+    // 1) le falta la tilde a una palabra que en el material la lleva
+    if (!/[áéíóú]/.test(l) && ref.dic[l] && ref.dic[l] !== l) { out.push(w); vistos.add(l); continue; }
+    // 2) se parece mucho a un nombre o término del material, pero está mal escrita
+    if (n.length >= 5 && !ref.palabras.has(n)) {
+      for (const [tn] of ref.terminos) if (tn[0] === n[0] && distancia(n, tn) === 1) { out.push(w); vistos.add(l); break; }
+    }
+  }
+  return out;
+}

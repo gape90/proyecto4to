@@ -18,23 +18,23 @@
       "bloques": [
         {
           "t": "texto",
-          "titulo": "Qué es un radical aritmético",
+          "titulo": "¿Qué es un radical aritmético?",
           "texto": "Un **radical aritmético** es una expresión como √a (índice 2) o ∛a (índice 3), donde el radicando a no es negativo y el resultado también es no negativo. En √a, a es el radicando; el 2 del índice no se escribe."
         },
         {
           "t": "destacado",
-          "titulo": "Dos propiedades que sí valen",
+          "titulo": "Propiedades de los radicales: producto y cociente",
           "texto": "**Producto:** √(a · b) = √a · √b\n\n**Cociente:** √(a / b) = √a / √b (con b distinto de 0)"
         },
         {
           "t": "ejemplo",
-          "titulo": "Con números",
+          "titulo": "Las propiedades de los radicales, con números",
           "texto": "√(4 · 25) = √100 = 10 y también √4 · √25 = 2 · 5 = 10. ✔\n√(36 / 9) = √4 = 2 y también √36 / √9 = 6 / 3 = 2. ✔"
         },
         {
           "t": "sim",
           "sim": "radical",
-          "titulo": "Probá cuáles propiedades valen"
+          "titulo": "Probá qué propiedades de los radicales valen"
         },
         {
           "t": "verificar",
@@ -250,6 +250,38 @@
           "palabra": "RADICAL",
           "pista": "Expresión con raíz, como √a o ∛a."
         }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estas igualdades es correcta?",
+          "opciones": [
+            "√(4 · 9) = √4 · √9",
+            "√(4 + 9) = √4 + √9",
+            "√(16 − 9) = √16 − √9",
+            "√4 + √9 = √13"
+          ],
+          "correcta": 0,
+          "explicacion": "La propiedad del producto vale: √36 = 6 y 2 · 3 = 6. La raíz no se distribuye sobre la suma ni sobre la resta."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuánto vale √(100/25)?",
+          "opciones": [
+            "2",
+            "4",
+            "5",
+            "75"
+          ],
+          "correcta": 0,
+          "explicacion": "√(100/25) = √4 = 2, o también √100/√25 = 10/5 = 2."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En √7, el 7 es el índice.",
+          "respuesta": false,
+          "explicacion": "El 7 es el radicando. El índice de la raíz cuadrada es 2 y no se escribe."
+        }
       ]
     },
     {
@@ -259,7 +291,7 @@
       "bloques": [
         {
           "t": "texto",
-          "titulo": "Escribir un radical de forma más simple",
+          "titulo": "Simplificar un radical extrayendo factores",
           "texto": "Si el radicando tiene un **factor que es cuadrado perfecto** (4, 9, 16, 25, 36…), se puede sacar de la raíz usando la propiedad del producto."
         },
         {
@@ -534,6 +566,38 @@
           "palabra": "CALCULADORA",
           "pista": "Herramienta con la que comprobás que √50 y 5√2 dan 7,0711."
         }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la forma simplificada de √18?",
+          "opciones": [
+            "3√2",
+            "2√3",
+            "9√2",
+            "6√3"
+          ],
+          "correcta": 0,
+          "explicacion": "18 = 9 · 2 y √9 = 3: √18 = 3√2."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué para simplificar √72 conviene usar 36 y no 4?",
+          "opciones": [
+            "Porque 36 es el mayor cuadrado perfecto que divide a 72: así queda lo más simple posible",
+            "Porque 4 no es un cuadrado perfecto",
+            "Porque 72 no se puede dividir por 4",
+            "Porque con 4 da otro valor"
+          ],
+          "correcta": 0,
+          "explicacion": "Con 4 queda 2√18, que todavía se puede simplificar. Con 36 queda directamente 6√2."
+        },
+        {
+          "tipo": "vf",
+          "texto": "√50 y 5√2 valen lo mismo.",
+          "respuesta": true,
+          "explicacion": "Son radicales equivalentes: los dos valen aproximadamente 7,0711."
+        }
       ]
     },
     {
@@ -543,17 +607,17 @@
       "bloques": [
         {
           "t": "texto",
-          "titulo": "Radicales que valen lo mismo",
+          "titulo": "Radicales equivalentes: valen lo mismo",
           "texto": "Dos radicales son **equivalentes** si valen lo mismo, aunque se escriban distinto. Una forma de verlo: si el índice y el exponente del radicando se pueden **dividir por el mismo número**, el radical no cambia."
         },
         {
           "t": "ejemplo",
-          "titulo": "Ejemplo",
+          "titulo": "Ejemplo de radicales equivalentes: ∜9 = √3",
           "texto": "∜9 = ∜(3²). Dividiendo el índice 4 y el exponente 2 por 2 queda √3. Entonces ∜9 = √3. Comprobación: ∜9 ≈ 1,7321 y √3 ≈ 1,7321."
         },
         {
           "t": "destacado",
-          "titulo": "Racionalizar",
+          "titulo": "¿Qué es racionalizar?",
           "texto": "Racionalizar es **escribir una fracción sin radical en el denominador**, multiplicando arriba y abajo por el mismo radical (o sea, por 1). Así el valor no cambia."
         },
         {
@@ -788,6 +852,38 @@
         {
           "palabra": "EQUIVALENTE",
           "pista": "Que vale lo mismo aunque esté escrito distinto."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué número multiplicás arriba y abajo para racionalizar 5/√3?",
+          "opciones": [
+            "Por √3",
+            "Por 3",
+            "Por 5",
+            "Por √5"
+          ],
+          "correcta": 0,
+          "explicacion": "Así el denominador queda √3 · √3 = 3, sin raíz: 5/√3 = 5√3/3."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué ∜9 = √3?",
+          "opciones": [
+            "Porque ∜9 = ∜(3²): dividiendo índice y exponente por 2 queda √3",
+            "Porque 9 dividido 4 da 3",
+            "Porque 4 − 1 = 3",
+            "No son iguales"
+          ],
+          "correcta": 0,
+          "explicacion": "Si el índice y el exponente se dividen por el mismo número, el radical no cambia."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Al racionalizar, el valor de la fracción cambia.",
+          "respuesta": false,
+          "explicacion": "Solo cambia la escritura: se multiplica por un número igual a 1, como √2/√2."
         }
       ]
     }

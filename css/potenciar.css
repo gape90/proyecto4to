@@ -380,3 +380,10 @@ select:disabled{background-color:#F4F1FA;color:var(--tinta-suave);cursor:not-all
   .hoja-tp{border:0;padding:0}
 }
 .cabecera .titulo-app{font-weight:800;font-size:1.35rem;letter-spacing:-.01em}
+.carpeta-intro{background:#fff;border-radius:12px;padding:10px 14px;font-size:.95rem;border-left:5px solid var(--sf-naranja)}
+.guia-nota{margin:8px 0 0;font-size:.9rem;color:var(--tinta-suave);font-style:italic}
+.nota-docente{margin:14px 0 0;font-size:.92rem;color:var(--tinta-suave);border-top:1px dashed var(--sf-naranja);padding-top:10px}
+.formato-resp{font-size:.92rem;color:var(--sf-violeta);font-weight:600;margin:-4px 0 10px}
+.autoev-q{border:2px solid var(--lavanda-2);border-radius:16px;padding:14px 16px;margin-bottom:12px;background:#fff}
+.autoev-q .q{font-weight:700;margin:4px 0 10px}
+.autoev-q .nivel{font-size:.72rem;font-weight:800;color:var(--sf-magenta);text-transform:uppercase;letter-spacing:.06em}

@@ -23,7 +23,7 @@ try {
   montarClase(document.getElementById('clase'), clase);
   montarAsistente({
     contexto: contextoDeClase(clase), vocabulario: clase.vocabulario || [],
-    sugerencias: clase.sugerencias_asistente || ['¿Me lo explicás con otro ejemplo?', '¿Cómo empiezo?'],
+    sugerencias: clase.sugerencias_asistente || ['No entiendo una palabra', '¿Me lo explicás con otro ejemplo?', '¿Cómo empiezo mi texto?'],
   });
 } catch (err) {
   document.getElementById('clase').innerHTML = `<div class="tarjeta"><b>No se pudo abrir la clase.</b><br>${esc(err.message)}<br><a href="recorrido.html">Volver a mi recorrido</a></div>`;

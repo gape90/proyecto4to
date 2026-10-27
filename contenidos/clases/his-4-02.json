@@ -18,7 +18,7 @@
       "bloques": [
         {
           "t": "texto",
-          "titulo": "Un mundo en crisis",
+          "titulo": "Europa después de la Primera Guerra: un mundo en crisis",
           "texto": "Después de la Primera Guerra Mundial (1914-1918), Europa quedó destruida y endeudada. Los tratados de paz (como el de Versalles, 1919) dejaron resentimientos. Se sumaron la Revolución Rusa de 1917, que asustaba a las clases dirigentes, y la crisis económica de 1929.\n\nEn ese clima, muchos grupos buscaron respuestas en el **nacionalismo**: la idea de que la nación es lo más importante."
         },
         {
@@ -72,7 +72,7 @@
           ],
           "correcta": 0,
           "explicacion": "El material nombra la destrucción y las deudas de la Primera Guerra, el Tratado de Versalles, la Revolución Rusa y la crisis de 1929. La Reforma Universitaria fue un hecho argentino de 1918 sobre las universidades.",
-          "pista": "Releé el primer texto, «Un mundo en crisis»."
+          "pista": "Releé el primer texto, «Europa después de la Primera Guerra: un mundo en crisis»."
         },
         {
           "t": "revelar",
@@ -197,7 +197,7 @@
             "La Reforma Universitaria"
           ],
           "correcta": 0,
-          "explicacion": "Así lo dice el texto «Un mundo en crisis»."
+          "explicacion": "Así lo dice el texto «Europa después de la Primera Guerra: un mundo en crisis»."
         },
         {
           "tipo": "mc",
@@ -285,6 +285,38 @@
           "palabra": "PARTIDO ÚNICO",
           "pista": "En estos regímenes no había varios partidos, sino un…"
         }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué la crisis de 1929 ayudó a que crecieran los nacionalismos autoritarios?",
+          "opciones": [
+            "Porque el desempleo y el miedo llevaron a mucha gente a aceptar líderes que prometían orden y soluciones rápidas",
+            "Porque la crisis fortaleció a los parlamentos",
+            "Porque la crisis terminó con la Revolución Rusa",
+            "Porque la economía europea mejoró mucho"
+          ],
+          "correcta": 0,
+          "explicacion": "La crisis genera miedo, desempleo y desconfianza en los gobiernos. Un líder que promete soluciones rápidas atrae a quienes se sienten perdidos, aunque pida renunciar a libertades."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estos rasgos NO corresponde a un nacionalismo autoritario?",
+          "opciones": [
+            "La división de poderes",
+            "El partido único",
+            "La exaltación de lo militar",
+            "El rechazo al comunismo"
+          ],
+          "correcta": 0,
+          "explicacion": "La división de poderes es propia de la democracia liberal. Los nacionalismos autoritarios concentraban el poder en un líder y un partido único."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los nacionalismos autoritarios desconfiaban de la democracia.",
+          "respuesta": true,
+          "explicacion": "Es uno de sus rasgos, junto con el rechazo al liberalismo y al comunismo."
+        }
       ]
     },
     {
@@ -294,7 +326,7 @@
       "bloques": [
         {
           "t": "linea",
-          "titulo": "Camino hacia la guerra",
+          "titulo": "Del Tratado de Versalles a la Segunda Guerra Mundial",
           "eventos": [
             {
               "anio": "1919",
@@ -325,7 +357,7 @@
         },
         {
           "t": "comparar",
-          "titulo": "Fascismo y nazismo",
+          "titulo": "Fascismo italiano y nazismo alemán: semejanzas y diferencias",
           "columnas": [
             "",
             "Fascismo italiano",
@@ -365,7 +397,7 @@
             "Alemania invade Polonia"
           ],
           "explicacion": "1919: Versalles; 1922: Mussolini; 1929: crisis mundial; 1933: Hitler canciller; 1939: invasión de Polonia y comienzo de la Segunda Guerra Mundial.",
-          "pista": "Buscá cada hecho en la línea «Camino hacia la guerra»."
+          "pista": "Buscá cada hecho en la línea «Del Tratado de Versalles a la Segunda Guerra Mundial»."
         },
         {
           "t": "verificar",
@@ -472,7 +504,7 @@
           "tipo": "vf",
           "texto": "La Segunda Guerra Mundial comenzó cuando Alemania invadió Polonia, en 1939.",
           "respuesta": true,
-          "explicacion": "Así cierra la línea «Camino hacia la guerra»."
+          "explicacion": "Así cierra la línea «Del Tratado de Versalles a la Segunda Guerra Mundial»."
         },
         {
           "tipo": "vf",
@@ -556,7 +588,7 @@
             "El respeto al parlamento"
           ],
           "correcta": 0,
-          "explicacion": "Así aparece en la tabla «Fascismo y nazismo»."
+          "explicacion": "Así aparece en la tabla «Fascismo italiano y nazismo alemán: semejanzas y diferencias»."
         },
         {
           "tipo": "mc",
@@ -596,6 +628,38 @@
           "palabra": "FASCISMO",
           "pista": "Régimen nacionalista autoritario de Italia."
         }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué tenían en común el fascismo italiano y el nazismo alemán?",
+          "opciones": [
+            "Nacionalismo extremo, partido único, culto al líder y violencia política",
+            "El respeto a la oposición",
+            "La neutralidad en las guerras",
+            "La libertad de prensa"
+          ],
+          "correcta": 0,
+          "explicacion": "Ambos fueron regímenes autoritarios con esos rasgos. Lo que distingue al nazismo es el racismo y el antisemitismo como política de Estado."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué hecho ocurrió entre la llegada de Mussolini (1922) y la de Hitler (1933)?",
+          "opciones": [
+            "La crisis económica mundial de 1929",
+            "El Tratado de Versalles",
+            "La invasión alemana a Polonia",
+            "La Revolución Rusa"
+          ],
+          "correcta": 0,
+          "explicacion": "La crisis de 1929 está entre 1922 y 1933. Versalles (1919) y la Revolución Rusa (1917) son anteriores, y la invasión de Polonia (1939), posterior."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El nazismo hizo del racismo y el antisemitismo una política de Estado, que llevó al Holocausto.",
+          "respuesta": true,
+          "explicacion": "Ese es el rasgo que lo distingue del fascismo italiano."
+        }
       ]
     },
     {
@@ -605,17 +669,17 @@
       "bloques": [
         {
           "t": "texto",
-          "titulo": "Un nacionalismo con muchas caras",
+          "titulo": "Los nacionalismos en América Latina: no todos iguales",
           "texto": "En América Latina también hubo nacionalismos. Algunos se parecían a los europeos, pero no fueron todos iguales. Había **nacionalismos autoritarios y conservadores** y también **nacionalismos populares y antiimperialistas**, que criticaban la dependencia económica de potencias como el Reino Unido."
         },
         {
           "t": "ejemplo",
-          "titulo": "Un ejemplo en América Latina",
+          "titulo": "Brasil: Getúlio Vargas y el Estado Novo",
           "texto": "En **Brasil**, Getúlio Vargas instauró en 1937 el **Estado Novo**, un régimen autoritario con fuerte intervención del Estado en la economía. También existió allí un movimiento de tipo fascista, el Integralismo."
         },
         {
           "t": "linea",
-          "titulo": "El nacionalismo en la Argentina",
+          "titulo": "El nacionalismo en la Argentina (1919-1935)",
           "eventos": [
             {
               "anio": "1919",
@@ -692,8 +756,9 @@
             "la semana tragica"
           ],
           "explicacion": "La Liga Patriótica surgió en 1919, tras la Semana Trágica.",
-          "pista": "Mirá el primer hecho de la línea «El nacionalismo en la Argentina».",
-          "placeholder": "Escribí el nombre del hecho"
+          "pista": "Mirá el primer hecho de la línea «El nacionalismo en la Argentina (1919-1935)».",
+          "placeholder": "Escribí el nombre del hecho",
+          "formato": "Escribí solo el nombre del hecho."
         }
       ],
       "carpeta": {
@@ -893,6 +958,38 @@
         {
           "palabra": "INTEGRALISMO",
           "pista": "Movimiento de tipo fascista que existió en Brasil."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué se diferenciaba FORJA de la Liga Patriótica?",
+          "opciones": [
+            "FORJA defendía un nacionalismo popular y antiimperialista; la Liga reprimía a obreros e inmigrantes",
+            "Las dos eran grupos civiles armados",
+            "FORJA apoyó el golpe de 1930 y la Liga no",
+            "No había diferencias entre ellas"
+          ],
+          "correcta": 0,
+          "explicacion": "La Liga Patriótica (1919) fue un nacionalismo autoritario. FORJA (1935), en cambio, criticaba la dependencia económica del Reino Unido: un nacionalismo popular."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué Uriburu se considera un ejemplo de nacionalismo autoritario?",
+          "opciones": [
+            "Porque derrocó a un presidente elegido y admiraba ideas corporativistas y autoritarias",
+            "Porque criticaba la dependencia del Reino Unido",
+            "Porque fundó FORJA",
+            "Porque ganó elecciones limpias"
+          ],
+          "correcta": 0,
+          "explicacion": "En 1930 derrocó a Yrigoyen, que había sido elegido, y admiraba ideas autoritarias."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En América Latina todos los nacionalismos fueron copias de los europeos.",
+          "respuesta": false,
+          "explicacion": "Hubo nacionalismos autoritarios y conservadores, pero también nacionalismos populares y antiimperialistas."
         }
       ]
     }

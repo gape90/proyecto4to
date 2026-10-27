@@ -18,7 +18,7 @@
       "bloques": [
         {
           "t": "texto",
-          "titulo": "Un solo conjunto para todos",
+          "titulo": "Los números reales: un solo conjunto para todos",
           "texto": "Los **números reales** son todos los racionales y todos los irracionales juntos. Se escriben con la letra ℝ.\n\nCada punto de la recta numérica corresponde a un número real, y cada número real tiene su punto. En la recta no quedan huecos."
         },
         {
@@ -268,6 +268,38 @@
           "palabra": "ENTERO",
           "pista": "−3 es un número ___ que no es natural."
         }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué conjunto más chico ubicás el número −4?",
+          "opciones": [
+            "Enteros",
+            "Naturales",
+            "Irracionales",
+            "En ninguno"
+          ],
+          "correcta": 0,
+          "explicacion": "−4 es entero (negativo): no es natural. También es racional y real, pero el conjunto más chico que lo describe es el de los enteros."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué la diagonal de un cuadrado de lado 1 mide √2?",
+          "opciones": [
+            "Porque, por Pitágoras, d² = 1² + 1² = 2",
+            "Porque la diagonal mide el doble del lado",
+            "Porque se mide con regla",
+            "Porque el cuadrado tiene 2 diagonales"
+          ],
+          "correcta": 0,
+          "explicacion": "La diagonal es la hipotenusa de un triángulo rectángulo de catetos 1 y 1: d² = 2, entonces d = √2."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La recta numérica real no tiene huecos: cada punto es un número real.",
+          "respuesta": true,
+          "explicacion": "Los racionales y los irracionales juntos ocupan todos los puntos de la recta."
+        }
       ]
     },
     {
@@ -277,17 +309,17 @@
       "bloques": [
         {
           "t": "texto",
-          "titulo": "¿Se puede medir todo con la misma unidad?",
+          "titulo": "¿Se pueden medir dos segmentos con la misma unidad?",
           "texto": "Dos segmentos son **conmensurables** si existe una unidad de medida que entra una cantidad **entera** de veces en ambos. Por ejemplo, segmentos de 6 cm y 4 cm: con una unidad de 2 cm, uno mide 3 unidades y el otro 2. Su cociente 6/4 = 3/2 es un número racional.\n\nSi **no existe** esa unidad común, los segmentos son **inconmensurables**: su cociente es irracional."
         },
         {
           "t": "ejemplo",
-          "titulo": "Lado y diagonal del cuadrado",
+          "titulo": "Ejemplo: lado y diagonal del cuadrado",
           "texto": "En un cuadrado de lado 1, la diagonal mide √2. El cociente diagonal/lado es √2, que es irracional. Entonces **lado y diagonal son inconmensurables**: no hay ninguna unidad, por chica que sea, que entre un número entero de veces en los dos."
         },
         {
           "t": "dato",
-          "titulo": "Una historia de la matemática",
+          "titulo": "La inconmensurabilidad en la historia de la matemática",
           "texto": "Según la tradición, el descubrimiento de la inconmensurabilidad se les atribuye a los pitagóricos de la Grecia antigua (se suele mencionar a Hipaso de Metaponto). Ellos creían que todo se podía expresar con números racionales, y esto les mostró que no era así. Los detalles de la historia son discutidos entre los historiadores."
         },
         {
@@ -518,6 +550,38 @@
           "palabra": "COCIENTE",
           "pista": "Resultado de dividir: en el lado y la diagonal del cuadrado es √2."
         }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "Dos segmentos miden 10 cm y 15 cm. ¿Son conmensurables?",
+          "opciones": [
+            "Sí: con una unidad de 5 cm, miden 2 y 3 unidades",
+            "No, porque 15 no es múltiplo de 10",
+            "No, porque su cociente es irracional",
+            "Solo si se miden con regla"
+          ],
+          "correcta": 0,
+          "explicacion": "15/10 = 3/2 es racional: existe una unidad común (5 cm)."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué ninguna regla puede medir exactamente √2?",
+          "opciones": [
+            "Porque √2 tiene infinitos decimales sin período y medir da siempre un valor aproximado",
+            "Porque las reglas son cortas",
+            "Porque √2 no existe",
+            "Porque √2 es negativo"
+          ],
+          "correcta": 0,
+          "explicacion": "Medir es un acto empírico, con error. En matemática la diagonal mide exactamente √2, pero ninguna medida con decimales finitos lo muestra."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Si el cociente entre dos segmentos es irracional, los segmentos son inconmensurables.",
+          "respuesta": true,
+          "explicacion": "No existe ninguna unidad que entre un número entero de veces en los dos."
+        }
       ]
     },
     {
@@ -527,7 +591,7 @@
       "bloques": [
         {
           "t": "texto",
-          "titulo": "Una proporción famosa",
+          "titulo": "El número áureo: una proporción famosa",
           "texto": "Dos segmentos a y b (con a > b) están en **proporción áurea** cuando el total a + b es a a lo que a es a b. Esa razón es siempre la misma y se llama **número áureo**, con la letra griega φ (fi)."
         },
         {
@@ -543,7 +607,8 @@
         },
         {
           "t": "texto",
-          "texto": "La **sucesión de Fibonacci** es 1, 1, 2, 3, 5, 8, 13, 21… cada término es la suma de los dos anteriores. Si dividís cada término por el anterior (8/5, 13/8, 21/13…), los cocientes **se acercan** cada vez más a φ."
+          "texto": "La **sucesión de Fibonacci** es 1, 1, 2, 3, 5, 8, 13, 21… cada término es la suma de los dos anteriores. Si dividís cada término por el anterior (8/5, 13/8, 21/13…), los cocientes **se acercan** cada vez más a φ.",
+          "titulo": "La sucesión de Fibonacci y el número áureo"
         },
         {
           "t": "verificar",
@@ -563,7 +628,7 @@
         },
         {
           "t": "dato",
-          "titulo": "Cuidado con los mitos",
+          "titulo": "Número áureo: cuidado con los mitos",
           "texto": "Suele decirse que el número áureo está en el Partenón o en obras de Leonardo da Vinci, pero muchos de esos casos son discutidos por historiadores del arte. Lo que sí es seguro: aparece en el pentágono regular (la razón entre su diagonal y su lado es φ) y en el límite de los cocientes de Fibonacci."
         },
         {
@@ -765,6 +830,38 @@
         {
           "palabra": "PROPORCIÓN",
           "pista": "___ áurea: el total es a la parte mayor lo que la mayor es a la menor."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué pasa con los cocientes de Fibonacci (8/5, 13/8, 21/13…)?",
+          "opciones": [
+            "Se acercan cada vez más al número áureo",
+            "Dan siempre 2",
+            "Son números enteros",
+            "Se alejan del número áureo"
+          ],
+          "correcta": 0,
+          "explicacion": "8/5 = 1,6; 13/8 = 1,625; 21/13 ≈ 1,615… se acercan a φ ≈ 1,618."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el término que sigue en 2, 3, 5, 8, 13, …?",
+          "opciones": [
+            "21",
+            "18",
+            "26",
+            "16"
+          ],
+          "correcta": 0,
+          "explicacion": "Cada término es la suma de los dos anteriores: 8 + 13 = 21."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El número áureo es racional porque vale 1,618.",
+          "respuesta": false,
+          "explicacion": "1,618 es solo una aproximación. φ = (1 + √5)/2 es irracional porque depende de √5."
         }
       ]
     }

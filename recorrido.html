@@ -66,11 +66,9 @@ document.getElementById('cuerpo').innerHTML = `
   <p>Completá las clases en orden. En cada parte de la clase aprendés, practicás y anotás en tu carpeta. Al final armás el trabajo práctico que vas a presentar y defender.</p></div>
   <div class="recorrido">${html}</div>
   <div style="margin-top:24px">${dudasHtml}</div>
-  <div class="acciones no-print"><button class="btn suave chico" id="reset">Borrar mi avance en este dispositivo</button></div>`;
+`;
 
-document.getElementById('reset').onclick = () => {
-  if (confirm('¿Seguro? Se borra todo tu avance guardado en este dispositivo.')) { reiniciar(); location.href = 'index.html'; }
-};
+
 </script>
 </body>
 </html>

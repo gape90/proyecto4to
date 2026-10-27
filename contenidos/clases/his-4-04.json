@@ -18,12 +18,12 @@
       "bloques": [
         {
           "t": "texto",
-          "titulo": "De coronel a presidente",
+          "titulo": "Perón: de coronel a presidente",
           "texto": "Tras el golpe militar de 1943, el coronel **Juan Domingo Perón** fue designado al frente de la **Secretaría de Trabajo y Previsión**. Desde ahí se acercó a los sindicatos y promovió medidas a favor de los trabajadores, como mejoras salariales y derechos laborales.\n\nEsto le dio un fuerte apoyo entre los obreros, y también generó oposición entre sectores conservadores, empresarios y militares."
         },
         {
           "t": "linea",
-          "titulo": "Hacia 1946",
+          "titulo": "El camino de Perón hacia la presidencia (1943-1946)",
           "eventos": [
             {
               "anio": "1943",
@@ -57,7 +57,7 @@
             "Perón gana las elecciones presidenciales"
           ],
           "explicacion": "El 17 de octubre se convirtió en una fecha clave para el peronismo.",
-          "pista": "Buscá cada hecho en la línea «Hacia 1946»."
+          "pista": "Buscá cada hecho en la línea «El camino de Perón hacia la presidencia (1943-1946)»."
         },
         {
           "t": "verificar",
@@ -288,6 +288,38 @@
           "palabra": "CORONEL",
           "pista": "Grado militar de Perón en 1943."
         }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué muchos trabajadores apoyaron a Perón?",
+          "opciones": [
+            "Porque desde la Secretaría de Trabajo promovió mejoras salariales y derechos laborales",
+            "Porque cerró los sindicatos",
+            "Porque se oponía a los militares",
+            "Porque bajó los salarios"
+          ],
+          "correcta": 0,
+          "explicacion": "Desde 1943 se acercó a los sindicatos y promovió medidas a favor de los trabajadores. Eso le dio una base social muy fuerte."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué demostró la movilización del 17 de octubre de 1945?",
+          "opciones": [
+            "El peso de los trabajadores en la política",
+            "Que los sindicatos no tenían importancia",
+            "Que Perón había dado un golpe de Estado",
+            "Que las mujeres ya votaban"
+          ],
+          "correcta": 0,
+          "explicacion": "Miles de trabajadores se movilizaron para defender a un líder y reclamar su lugar en la política."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Perón llegó a la presidencia en 1946 ganando elecciones.",
+          "respuesta": true,
+          "explicacion": "Ganó las elecciones del 24 de febrero de 1946 y asumió el 4 de junio."
+        }
       ]
     },
     {
@@ -297,12 +329,12 @@
       "bloques": [
         {
           "t": "texto",
-          "titulo": "Una ampliación de derechos",
+          "titulo": "El peronismo y la ampliación de derechos",
           "texto": "Durante el primer peronismo se ampliaron derechos laborales, sociales y políticos. Muchos de ellos se asocian hoy a la idea de **justicia social**: que el Estado garantice condiciones de vida y de trabajo dignas."
         },
         {
           "t": "texto",
-          "titulo": "Medidas y derechos",
+          "titulo": "Derechos laborales y sociales del primer peronismo",
           "texto": "Entre las medidas más recordadas están el **aguinaldo** (establecido a fines de 1945), las **vacaciones pagas** y la **indemnización por despido**, que protegen a los trabajadores en su empleo. En 1949 se estableció la **gratuidad universitaria**.\n\nLa **Fundación Eva Perón**, creada en 1948, brindaba ayuda social y construyó escuelas, hospitales y hogares."
         },
         {
@@ -338,7 +370,7 @@
         },
         {
           "t": "destacado",
-          "titulo": "El voto femenino",
+          "titulo": "El voto femenino (1947)",
           "texto": "En 1947 se sancionó la **ley 13.010**, que reconoció el derecho al voto de las mujeres. Eva Perón tuvo un rol muy importante en esa lucha, que venía de décadas de reclamos de organizaciones feministas. Las mujeres votaron por primera vez en elecciones nacionales en **1951**."
         },
         {
@@ -346,7 +378,7 @@
           "consigna": "¿Cuántos años pasaron entre la sanción de la ley del voto femenino y la primera vez que las mujeres votaron en elecciones nacionales?",
           "respuesta": "4",
           "explicacion": "La ley es de 1947 y la primera votación nacional fue en 1951: pasaron 4 años.",
-          "pista": "Las dos fechas están en el recuadro «El voto femenino»."
+          "pista": "Las dos fechas están en el recuadro «El voto femenino (1947)»."
         },
         {
           "t": "opcion",
@@ -363,7 +395,7 @@
         },
         {
           "t": "comparar",
-          "titulo": "Antes y durante el peronismo",
+          "titulo": "Los derechos antes y durante el peronismo",
           "columnas": [
             "",
             "Antes de 1946",
@@ -592,6 +624,38 @@
           "palabra": "FUNDACIÓN",
           "pista": "La ___ Eva Perón brindaba ayuda social."
         }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué diferencia hay entre un derecho laboral y un derecho político?",
+          "opciones": [
+            "El laboral protege al trabajador en su empleo, como el aguinaldo; el político permite participar, como votar",
+            "No hay diferencia",
+            "El laboral es votar y el político es cobrar aguinaldo",
+            "Los dos son solo para los empresarios"
+          ],
+          "correcta": 0,
+          "explicacion": "El aguinaldo, las vacaciones pagas y la indemnización protegen al trabajador. El voto femenino es un derecho político: permite participar en las elecciones."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué el voto femenino amplió la democracia?",
+          "opciones": [
+            "Porque incorporó a las mujeres, que hasta entonces no podían votar",
+            "Porque eliminó el voto secreto",
+            "Porque desde entonces votaron solo las mujeres",
+            "Porque bajó la edad para votar"
+          ],
+          "correcta": 0,
+          "explicacion": "Desde 1912 votaban solo los varones. Con la ley de 1947, las mujeres se sumaron, y votaron por primera vez en 1951."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El voto femenino fue solo obra del gobierno, sin reclamos previos.",
+          "respuesta": false,
+          "explicacion": "Organizaciones feministas lo reclamaban desde hacía décadas, y Eva Perón tuvo un rol muy importante."
+        }
       ]
     },
     {
@@ -601,12 +665,12 @@
       "bloques": [
         {
           "t": "texto",
-          "titulo": "Un Estado protagonista",
+          "titulo": "El Estado protagonista de la economía peronista",
           "texto": "En el primer peronismo el Estado tuvo un rol central en la economía. Impulsó la **industrialización** para el mercado interno, **nacionalizó** servicios (como los ferrocarriles, en 1948), regulaba el comercio exterior con el IAPI y planificó con **planes quinquenales** (planes económicos para cinco años).\n\nEl modelo buscó redistribuir ingresos hacia los trabajadores y fortalecer el mercado interno. También recibió apoyo de empresarios industriales que se beneficiaban de la protección del Estado."
         },
         {
           "t": "pasos",
-          "titulo": "Cómo funcionaba el modelo",
+          "titulo": "Cómo funcionaba el modelo económico peronista",
           "pasos": [
             {
               "titulo": "El Estado interviene",
@@ -654,12 +718,12 @@
         },
         {
           "t": "destacado",
-          "titulo": "Democracia de masas, pero con límites",
+          "titulo": "El peronismo: democracia de masas, pero con límites",
           "texto": "Se habla de **democracia de masas** porque grandes sectores populares (trabajadores, mujeres) se incorporaron a la política. Pero hubo **tensiones**: la oposición sufrió restricciones, la prensa estuvo bajo control del Estado, y las diferencias políticas eran muy duras."
         },
         {
           "t": "texto",
-          "titulo": "El final de la etapa",
+          "titulo": "El final del primer peronismo (1955)",
           "texto": "En sus últimos años, el gobierno enfrentó dificultades económicas y fuertes conflictos con la oposición y con sectores de la Iglesia y de las Fuerzas Armadas. El **16 de septiembre de 1955** un golpe de Estado, que se autodenominó **«Revolución Libertadora»**, derrocó a Perón, que estaba en su segundo gobierno."
         },
         {
@@ -667,7 +731,7 @@
           "consigna": "¿Cuántos años duraron en total los gobiernos de Perón, desde que asumió en 1946 hasta el golpe que lo derrocó?",
           "respuesta": "9",
           "explicacion": "Asumió en 1946 y fue derrocado en 1955: 9 años, en dos gobiernos.",
-          "pista": "El año en que asumió está en la primera parte de esta clase; el del golpe, en «El final de la etapa»."
+          "pista": "El año en que asumió está en la primera parte de esta clase; el del golpe, en «El final del primer peronismo (1955)»."
         },
         {
           "t": "opcion",
@@ -892,6 +956,38 @@
         {
           "palabra": "NACIONALIZACIÓN",
           "pista": "Pasar al Estado una empresa o un servicio que era privado."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo funcionaba el modelo económico peronista?",
+          "opciones": [
+            "El Estado protegía la industria, subían los salarios, crecía el consumo y eso impulsaba más producción",
+            "El Estado se retiraba y bajaban los salarios",
+            "Se exportaba toda la producción industrial",
+            "Se cerraban fábricas para importar más"
+          ],
+          "correcta": 0,
+          "explicacion": "Es la cadena del paso a paso: Estado que interviene → industria protegida → salarios más altos → más consumo → más producción."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué decimos que la democracia de masas del peronismo tuvo límites?",
+          "opciones": [
+            "Porque la oposición sufrió restricciones y la prensa estuvo bajo control del Estado",
+            "Porque los trabajadores no votaban",
+            "Porque no hubo elecciones",
+            "Porque las mujeres no podían votar"
+          ],
+          "correcta": 0,
+          "explicacion": "Trabajadores y mujeres se incorporaron a la política, pero hubo tensiones fuertes y restricciones a la oposición."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Getúlio Vargas en Brasil y Lázaro Cárdenas en México fueron otros gobiernos populares de América Latina.",
+          "respuesta": true,
+          "explicacion": "Como el peronismo, tuvieron apoyo de sectores populares y un Estado fuerte en la economía."
         }
       ]
     }

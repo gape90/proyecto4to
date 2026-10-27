@@ -15,7 +15,12 @@ export function contextoDeClase(clase) {
       if (b.t === 'comparar') out.push(b.filas.map(f => f.join(' — ')).join(' | '));
       if (b.t === 'linea') out.push(b.eventos.map(v => `${v.anio}: ${v.titulo}. ${v.texto}`).join(' | '));
       if (b.t === 'cita') out.push(`Fuente: “${b.texto}” (${b.autor || ''})`);
+      // Consignas de las actividades (sin respuestas): para poder explicar las palabras que aparecen en ellas
+      if (b.t === 'opcion') out.push(`Actividad (sin respuesta): ${b.pregunta} Opciones: ${b.opciones.join(' / ')}`);
+      if (b.t === 'verificar' || b.t === 'clasificar' || b.t === 'ordenar') out.push(`Actividad (sin respuesta): ${b.consigna}`);
+      if (b.t === 'revelar') out.push(`Pregunta para pensar: ${b.pregunta}`);
     }
+    if (c.carpeta) out.push(`Consigna de la carpeta: ${c.carpeta.instruccion} Preguntas guía: ${(c.carpeta.guia || []).join(' ')}`);
   }
   if (clase.vocabulario) out.push('\nVocabulario: ' + clase.vocabulario.map(v => `${v.palabra}: ${v.definicion}`).join(' | '));
   return out.join('\n');
@@ -32,7 +37,7 @@ export function montarAsistente({ contexto, vocabulario = [], sugerencias = [] }
   document.body.append(boton, panel);
   const msgs = panel.querySelector('.asist-msgs'), hist = [];
   const agregar = (rol, texto) => { const d = document.createElement('div'); d.className = 'msg ' + (rol === 'yo' ? 'yo' : 'bot'); d.textContent = texto; msgs.appendChild(d); msgs.scrollTop = msgs.scrollHeight; hist.push({ rol, texto }); return d; };
-  agregar('bot', 'Hola. Estoy para explicarte lo que no te quedó claro y darte pistas. Las respuestas de las consignas las tenés que construir vos, así llegás bien preparado o preparada a febrero.');
+  agregar('bot', 'Hola. Estoy para ayudarte: si no entendés un tema o una palabra que aparece en la página, preguntame y te lo explico con ejemplos. Las respuestas de las actividades las construís vos: así llegás bien preparado o preparada a febrero.');
   const sug = panel.querySelector('.sugerencias');
   sug.innerHTML = sugerencias.map(s => `<button type="button">${esc(s)}</button>`).join('');
   sug.querySelectorAll('button').forEach(b => b.onclick = () => enviar(b.textContent));

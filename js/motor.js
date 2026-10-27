@@ -1,7 +1,7 @@
 // TUTORÍAS VIRTUALES · motor de cápsulas
 // Cada cápsula: enseña, hace practicar, pide registrar en la carpeta (primero en pantalla con aprobación, después en papel)
 // y, al terminar, habilita los juegos de práctica. Nada se envía al docente.
-import { leer, guardar, capsula, capHecha, progresoClase, esc, md, norm, consignaHTML, diccionarioTildes } from './estado.js';
+import { leer, guardar, capsula, capHecha, progresoClase, esc, md, norm, consignaHTML, referenciaEscritura } from './estado.js';
 import { corregir, hayIA, pedirClave } from './ia.js';
 import { AJUSTES } from './config.js';
 import { montarSim } from './simulaciones.js';
@@ -24,8 +24,11 @@ export function textosDe(bloques = []) {
 }
 
 // Guía de preguntas de la carpeta (o el modelo viejo, si no hay preguntas)
+export const NOTA_DOCENTE = `<p class="nota-docente">✍️ Recordá copiar esta actividad en tu carpeta para que la corrija tu docente. La revisión de esta página te ayuda a mejorar tu texto, pero quien te va a confirmar si está correcto es tu profesor o profesora.</p>`;
+
 export function guiaHTML(cfg) {
-  if (cfg.guia?.length) return `<div class="guia"><b>Preguntas que te ayudan a armar tu texto:</b><ul>${cfg.guia.map(q => `<li>${md(q)}</li>`).join('')}</ul></div>`;
+  if (cfg.guia?.length) return `<div class="guia"><b>Preguntas que te ayudan a armar tu texto:</b><ul>${cfg.guia.map(q => `<li>${md(q)}</li>`).join('')}</ul>
+    <p class="guia-nota">Las preguntas son una guía: no las contestes una por una. Escribí un texto con oraciones completas, que se conecten entre sí y se entiendan de principio a fin.</p></div>`;
   if (cfg.modelo) return `<div class="guia"><b>Cómo podés organizarlo:</b><br>${md(cfg.modelo)}</div>`;
   return '';
 }
@@ -35,7 +38,7 @@ export function montarClase(root, clase) {
   let actual = 0;
   const ultimaPendiente = clase.capsulas.findIndex(c => !capHecha(e, clase.id, c.id));
   actual = ultimaPendiente === -1 ? 0 : ultimaPendiente;
-  const diccionario = diccionarioTildes(clase);
+  const refEscritura = referenciaEscritura(clase);
   const esMate = clase.espacio === 'matematica';
 
   const guardarE = () => guardar(e);
@@ -115,19 +118,21 @@ export function montarClase(root, clase) {
     const cp = cap.carpeta; if (!cp) { host.innerHTML = ''; return; }
     e = leer(); const est = capsula(e, clase.id, cap.id);
     if (falta > 0) {
-      host.innerHTML = `<div class="carpeta bloqueada"><p class="aviso-bloqueo"><span>🔒</span><span>Para desbloquear tu carpeta, resolvé las actividades de esta parte.<small>Te ${falta === 1 ? 'falta 1 actividad' : `faltan ${falta} actividades`}: están arriba, con fondo blanco. Las que ya resolviste quedan en verde.</small></span></p></div>`;
+      host.innerHTML = `<div class="carpeta bloqueada"><p class="aviso-bloqueo"><span>🔒</span><span>Para desbloquear la última sección, «Tu carpeta», resolvé las actividades propuestas.<small>Te ${falta === 1 ? 'falta 1 actividad' : `faltan ${falta} actividades`}: están arriba, con fondo blanco. Las que ya resolviste quedan en verde.</small></span></p></div>`;
       return;
     }
     const aprobado = est.estado === 'ok' || est.estado === 'duda';
     host.innerHTML = `<div class="carpeta">
-      <h3>📒 ${esc(cp.titulo || 'Anotá en tu carpeta')}</h3>
+      <h3>📒 Tu carpeta</h3>
+      <p class="carpeta-intro">Escribilo primero acá: la plataforma te ayuda a revisarlo. Después pasalo a tu carpeta, para que lo corrija tu profesor o profesora en febrero.</p>
       ${consignaHTML(cp.instruccion)}
       ${guiaHTML(cp)}
       <textarea id="txt" placeholder="Escribilo con tus palabras…" ${aprobado ? 'readonly' : ''}>${esc(est.texto || '')}</textarea>
       <div class="acciones"><button class="btn" id="corr" ${aprobado ? 'disabled' : ''}>Corregir</button>
         <button class="btn sec chico oculto" id="duda">Tengo una duda: seguir igual</button></div>
       <div class="fb-zona" id="fbc"></div>
-      <div class="copiado oculto" id="cop"><input type="checkbox" id="chk" ${est.copiado ? 'checked' : ''}><label for="chk">Ya lo copié en mi carpeta</label></div></div>`;
+      <div class="copiado oculto" id="cop"><input type="checkbox" id="chk" ${est.copiado ? 'checked' : ''}><label for="chk">Ya lo copié en mi carpeta</label></div>
+      ${NOTA_DOCENTE}</div>`;
     const q = s => host.querySelector(s);
     const mostrarFin = () => {
       q('#cop').classList.remove('oculto');
@@ -146,7 +151,7 @@ export function montarClase(root, clase) {
       const r = await corregir({
         consigna: cp.instruccion, respuesta: t, referencia: cp.referencia || '', claves: cp.claves || [],
         contexto: `${clase.titulo} — ${cap.titulo}`, minPalabras: cp.minPalabras ?? (esMate ? 0 : AJUSTES.MIN_PALABRAS),
-        diccionario, fuentes: textosDe(cap.bloques),
+        refEscritura, fuentes: textosDe(cap.bloques),
       });
       e = leer(); const c2 = capsula(e, clase.id, cap.id);
       c2.texto = t; c2.titulo = cap.titulo;
@@ -189,8 +194,50 @@ export function montarClase(root, clase) {
       ${clase.para_ir_mas_alla ? `<div class="destacado" style="margin-top:20px"><h4>Para ir más allá</h4><p>${md(clase.para_ir_mas_alla.pregunta)}</p>${clase.para_ir_mas_alla.conexion ? `<p class="ayuda">${md(clase.para_ir_mas_alla.conexion)}</p>` : ''}</div>` : ''}
     </div>
     <div class="tarjeta"><h3>📒 Lo que escribiste en esta clase</h3><p class="ayuda">Usalo para revisar que tengas todo en tu carpeta. Lo que quedó marcado como duda aparece en rojo: anotalo igual para consultarlo.</p>
-      ${textos.map(t => `<div class="cierre-texto ${t.d ? 'duda' : ''}"><h4>${esc(t.t)} ${t.d ? '<span class="duda-tag">duda</span>' : ''}</h4><div style="white-space:pre-wrap">${esc(t.x || '')}</div></div>`).join('')}
-      <div class="acciones no-print"><button class="btn sec" onclick="window.print()">🖨️ Imprimir</button><a class="btn" href="recorrido.html">Volver a mi recorrido →</a></div></div>`;
+      ${textos.map(t => `<div class="cierre-texto ${t.d ? 'duda' : ''}"><h4>${esc(t.t)} ${t.d ? '<span class="duda-tag">duda</span>' : ''}</h4><div style="white-space:pre-wrap">${esc(t.x || '')}</div></div>`).join('')}</div>
+    <div class="tarjeta no-print" id="autoev"></div>
+    <div class="acciones no-print"><button class="btn sec" onclick="window.print()">🖨️ Imprimir</button><a class="btn" href="recorrido.html">Volver a mi recorrido →</a></div>`;
+    autoevaluacion(host.querySelector('#autoev'));
+  }
+
+  /* ---------- autoevaluación (en el cierre, se puede repetir sin límite) ---------- */
+  function autoevaluacion(host) {
+    const preguntas = clase.capsulas.flatMap(c => (c.autoevaluacion || []).map(q => ({ ...q, parte: c.titulo })));
+    if (!preguntas.length) { host.remove(); return; }
+    const preparar = q => {
+      const ops = q.tipo === 'vf' ? ['Verdadero', 'Falso'] : q.opciones;
+      const correcta = q.tipo === 'vf' ? (q.respuesta ? 0 : 1) : q.correcta;
+      const orden = q.tipo === 'vf' ? [0, 1] : mezclar(ops.map((_, i) => i));
+      return { ...q, texto: q.tipo === 'vf' ? q.texto : q.pregunta, ops: orden.map(i => ops[i]), ok: orden.indexOf(correcta) };
+    };
+    const pintar = () => {
+      const qs = preguntas.map(preparar);
+      let respondidas = 0, bien = 0;
+      host.innerHTML = `<div class="titulo-seccion"><div class="chip-icono">✅</div><h2>Autoevaluación</h2></div><div class="subrayado"></div>
+        <p>Comprobá cuánto aprendiste en esta clase. No tiene nota y la podés hacer todas las veces que quieras. Si te equivocás, leé la explicación: también así se aprende.</p>
+        ${qs.map((q, n) => `<div class="autoev-q" data-n="${n}"><div class="nivel">${esc(q.parte)} · ${q.tipo === 'vf' ? 'Verdadero o falso' : 'Elegí la correcta'}</div>
+          <div class="q">${n + 1}. ${md(q.texto)}</div><div class="opc-lista">${q.ops.map((o, k) => `<button class="opc-btn" data-k="${k}">${md(o)}</button>`).join('')}</div><div class="fbz"></div></div>`).join('')}
+        <div class="fb info oculto" id="autoev-res"></div>
+        <div class="acciones"><button class="btn sec chico" id="autoev-otra">Volver a hacer la autoevaluación</button></div>`;
+      host.querySelectorAll('.autoev-q').forEach(d => {
+        const q = qs[+d.dataset.n];
+        d.querySelectorAll('.opc-btn').forEach(bt => bt.onclick = () => {
+          const k = +bt.dataset.k, acierto = k === q.ok;
+          d.querySelectorAll('.opc-btn').forEach(x => { x.disabled = true; if (+x.dataset.k === q.ok) x.classList.add('bien'); });
+          if (!acierto) bt.classList.add('mal');
+          d.querySelector('.fbz').innerHTML = acierto
+            ? `<div class="fb ok"><b>¡Bien respondido!</b> ${md(q.explicacion || '')}</div>`
+            : `<div class="fb mal"><b>No es correcta.</b> La respuesta correcta es «${md(q.ops[q.ok])}». ${md(q.explicacion || '')}</div>`;
+          respondidas++; if (acierto) bien++;
+          if (respondidas === qs.length) {
+            const r = host.querySelector('#autoev-res'); r.classList.remove('oculto');
+            r.innerHTML = `<b>Respondiste bien ${bien} de ${qs.length}.</b> ${bien === qs.length ? '¡Excelente! Tenés muy claros los temas de esta clase.' : bien >= qs.length * 0.7 ? 'Muy bien. Repasá en el material las preguntas que te costaron.' : 'Volvé a leer el material de las partes donde te equivocaste y hacé la autoevaluación otra vez.'}`;
+          }
+        });
+      });
+      host.querySelector('#autoev-otra').onclick = () => { pintar(); host.scrollIntoView({ behavior: 'smooth', block: 'start' }); };
+    };
+    pintar();
   }
 
   pintar();
@@ -249,19 +296,48 @@ function bOpcion(w, b, resuelto, marcar) {
   });
   return true;
 }
+// Cómo tiene que escribir la respuesta (se arma solo según el tipo de respuesta)
+function formatoDe(b) {
+  if (b.formato) return b.formato;
+  const r = String(b.respuesta);
+  if (r.includes('√')) return 'Escribí el resultado como número y raíz, por ejemplo 3√5. Para la raíz usá el botón √.';
+  if (/^-?\d+$/.test(r)) return 'Escribí solo el número, con cifras (por ejemplo: 12).';
+  if (/^-?\d*\.\d+$/.test(r)) return 'Escribí solo el número; usá coma para los decimales (por ejemplo: 0,25).';
+  return 'Escribí solo la respuesta, sin oraciones.';
+}
+// Lee lo que escribió el alumno con flexibilidad: «4», «4 años», «cuatro», «4 anos», «0,5»…
+const NUM_PAL = { cero: 0, uno: 1, una: 1, un: 1, dos: 2, tres: 3, cuatro: 4, cinco: 5, seis: 6, siete: 7, ocho: 8, nueve: 9, diez: 10, once: 11, doce: 12, trece: 13, catorce: 14, quince: 15, dieciseis: 16, diecisiete: 17, dieciocho: 18, diecinueve: 19, veinte: 20, veintiuno: 21, treinta: 30, cuarenta: 40, cincuenta: 50, sesenta: 60, setenta: 70, ochenta: 80, noventa: 90, cien: 100 };
+function numeroEn(v) {
+  const t = String(v).trim().replace(/(\d)\s+(?=\d{3}\b)/g, '$1');
+  const m = t.match(/-?\d+(?:[.,]\d+)?/g);
+  if (m && m.length === 1) return Number(m[0].replace(',', '.'));
+  if (m) return NaN;
+  const pal = norm(t).split(/\s+/).filter(w => w in NUM_PAL);
+  if (pal.length === 1) return NUM_PAL[pal[0]];
+  if (pal.length === 2 && NUM_PAL[pal[0]] >= 30 && NUM_PAL[pal[1]] < 10) return NUM_PAL[pal[0]] + NUM_PAL[pal[1]];
+  return NaN;
+}
+const compacto = s => norm(s).replace(/raiz\s*(cuadrada\s*)?(de\s*)?/g, '√').replace(/\s/g, '').replace(/[·*.]/g, '');
 function bVerificar(w, b, resuelto, marcar) {
   let fallos = 0;
+  const esRadical = String(b.respuesta).includes('√');
   w.innerHTML = `<div class="interactivo ${resuelto ? 'resuelto' : ''}"><div class="etq">${esc(b.etiqueta || 'Resolvé')}</div><div class="consigna">${md(b.consigna)}</div>
-    <div class="inline"><input type="text" id="r" placeholder="${esc(b.placeholder || 'Tu respuesta')}" autocomplete="off" ${resuelto ? 'disabled' : ''}><button class="btn chico" id="ok" ${resuelto ? 'disabled' : ''}>Comprobar</button></div><div class="fbz"></div></div>`;
+    <p class="formato-resp">✏️ ${esc(formatoDe(b))}</p>
+    <div class="inline">${esRadical ? '<button class="btn chico suave" id="raiz" type="button" title="Escribir el símbolo de raíz">√</button>' : ''}<input type="text" id="r" placeholder="${esc(b.placeholder || 'Tu respuesta')}" autocomplete="off" ${resuelto ? 'disabled' : ''}><button class="btn chico" id="ok" ${resuelto ? 'disabled' : ''}>Comprobar</button></div><div class="fbz"></div></div>`;
   const fb = w.querySelector('.fbz'), inp = w.querySelector('#r');
-  if (resuelto) fb.innerHTML = `<div class="fb ok">${md(b.explicacion || '')}</div>`;
+  w.querySelector('#raiz')?.addEventListener('click', () => { const p = inp.selectionStart ?? inp.value.length; inp.value = inp.value.slice(0, p) + '√' + inp.value.slice(p); inp.focus(); inp.setSelectionRange(p + 1, p + 1); });
+  if (resuelto) { inp.value = String(b.acepta?.[0] && isNaN(num(b.respuesta)) ? b.respuesta : b.respuesta).replace(/^(-?\d+)\.(\d+)$/, '$1,$2'); fb.innerHTML = `<div class="fb ok">${md(b.explicacion || '')}</div>`; w.querySelector('#raiz')?.setAttribute('disabled', ''); }
   const comprobar = () => {
     const v = inp.value.trim(); if (!v) return;
     const tol = b.tolerancia ?? 1e-6;
     const acepta = (b.acepta ?? [b.respuesta]).map(String);
-    const nv = num(v);
-    const ok = acepta.some(a => { const na = num(a); return !isNaN(na) && !isNaN(nv) ? Math.abs(na - nv) <= tol : norm(a).replace(/\s/g, '') === norm(v).replace(/\s/g, ''); });
-    if (ok) { inp.disabled = true; w.querySelector('#ok').disabled = true; w.firstChild.classList.add('resuelto'); fb.innerHTML = `<div class="fb ok"><b>¡Correcto!</b> ${md(b.explicacion || '')}</div>`; marcar(); }
+    const ok = acepta.some(a => {
+      const na = num(a);
+      if (!isNaN(na) && !a.includes('√')) { const nv = numeroEn(v); return !isNaN(nv) && Math.abs(na - nv) <= tol; }
+      const cv = compacto(v), ca = compacto(a);
+      return cv === ca || (ca.length >= 4 && cv.includes(ca));
+    });
+    if (ok) { inp.disabled = true; w.querySelector('#ok').disabled = true; w.querySelector('#raiz')?.setAttribute('disabled', ''); w.firstChild.classList.add('resuelto'); fb.innerHTML = `<div class="fb ok"><b>¡Correcto!</b> ${md(b.explicacion || '')}</div>`; marcar(); }
     else { fallos++; fb.innerHTML = `<div class="fb mal"><b>No es eso.</b> ${fallos >= 2 && b.pista ? md(b.pista) : (b.pista1 ? md(b.pista1) : 'Volvé a leer el material y probá de nuevo.')}</div>`; }
   };
   w.querySelector('#ok').onclick = comprobar; inp.onkeydown = ev => { if (ev.key === 'Enter') comprobar(); };

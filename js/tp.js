@@ -1,10 +1,10 @@
 // TUTORÍAS VIRTUALES · Trabajo práctico y preparación para presentarlo y defenderlo
 // El alumno arma el TP parte por parte (primero en pantalla con aprobación, después en su carpeta).
 // Cada espacio curricular tiene su propio TP. Nada se envía al docente.
-import { leer, guardar, esc, md, tpDe, consignaHTML, diccionarioTildes } from './estado.js';
+import { leer, guardar, esc, md, tpDe, consignaHTML, referenciaEscritura } from './estado.js';
 import { corregir, corregirOral, hayIA } from './ia.js';
 import { AJUSTES } from './config.js';
-import { renderBloque, guiaHTML, textosDe } from './motor.js';
+import { renderBloque, guiaHTML, textosDe, NOTA_DOCENTE } from './motor.js';
 
 const parr = s => (s || '').split(/\n\n+/).map(p => `<p>${md(p)}</p>`).join('');
 const CONECTORES = { k: ['porque', 'por eso', 'se relaciona', 'relacion', 'causa', 'consecuencia', 'gracias a', 'ambos', 'los dos', 'en cambio', 'mientras que', 'tambien', 'igual que', 'se conecta', 'lleva a', 'permite', 'sirve para', 'se usa'], p: 'cómo se relacionan (porque, por eso, en cambio, se relaciona con…)' };
@@ -14,7 +14,7 @@ export function montarTP({ root, tp, oral, contenidos, clases = {}, espacio }) {
   let e = leer();
   const sel = contenidos.map(c => c.id);
   const esMate = espacio === 'matematica';
-  const diccionario = diccionarioTildes(tp, ...Object.values(clases));
+  const refEscritura = referenciaEscritura(tp, ...Object.values(clases));
   const fuentes = Object.values(clases).flatMap(c => c.capsulas.flatMap(k => textosDe(k.bloques)));
   const sec = [
     { id: 'formato', tipo: 'info', icono: '🧭', titulo: 'Cómo es un buen trabajo práctico' },
@@ -65,7 +65,7 @@ export function montarTP({ root, tp, oral, contenidos, clases = {}, espacio }) {
       ${guiaHTML({ ...cfg, guia: guia ?? cfg.guia })}${extra}
       <textarea id="txt" style="min-height:190px" placeholder="Escribilo con tus palabras…" ${aprobado ? 'readonly' : ''}>${esc(st.texto || '')}</textarea>
       <div class="acciones"><button class="btn" id="corr" ${aprobado ? 'disabled' : ''}>Corregir</button><button class="btn sec chico oculto" id="duda">Tengo una duda: seguir igual</button></div>
-      <div id="fbc"></div><div class="copiado ${aprobado ? '' : 'oculto'}" id="cop"><input type="checkbox" id="chk" ${st.copiado ? 'checked' : ''}><label for="chk">Ya lo copié en mi carpeta</label></div></div>`;
+      <div id="fbc"></div><div class="copiado ${aprobado ? '' : 'oculto'}" id="cop"><input type="checkbox" id="chk" ${st.copiado ? 'checked' : ''}><label for="chk">Ya lo copié en mi carpeta</label></div>${NOTA_DOCENTE}</div>`;
     const q = s => host.querySelector(s);
     if (st.estado === 'ok') q('#fbc').innerHTML = `<div class="fb ok"><b>✔</b> ${esc(st.devolucion || 'Aprobado.')}</div>`;
     if (st.estado === 'duda') q('#fbc').innerHTML = `<div class="fb aviso"><span class="duda-tag">Duda para febrero</span> Anotala en tu carpeta y consultala con tu docente antes de presentar el trabajo.</div>`;
@@ -75,7 +75,7 @@ export function montarTP({ root, tp, oral, contenidos, clases = {}, espacio }) {
       const t = q('#txt').value.trim();
       if (!t) { q('#fbc').innerHTML = '<div class="fb aviso">Escribí tu respuesta primero.</div>'; return; }
       q('#corr').disabled = true; q('#fbc').innerHTML = '<div class="fb info">Revisando…</div>';
-      const r = await corregir({ consigna: ins, respuesta: t, referencia: cfg.referencia || '', claves: claves ?? cfg.claves ?? [], contexto: `${tp.titulo} — ${titulo}`, minPalabras: cfg.minPalabras, diccionario, fuentes, umbral });
+      const r = await corregir({ consigna: ins, respuesta: t, referencia: cfg.referencia || '', claves: claves ?? cfg.claves ?? [], contexto: `${tp.titulo} — ${titulo}`, minPalabras: cfg.minPalabras, refEscritura, fuentes, umbral });
       e = leer(); const s2 = ref(id); s2.texto = t; s2.titulo = titulo;
       if (r.ok) { s2.estado = 'ok'; s2.devolucion = r.mensaje; guardarE(); pintar(); return; }
       s2.intentos = (s2.intentos || 0) + 1; guardarE();
@@ -215,7 +215,7 @@ export function montarTP({ root, tp, oral, contenidos, clases = {}, espacio }) {
       d.querySelector('[data-a=rev]').onclick = async () => {
         if (!ta.value.trim()) { fz.innerHTML = '<div class="fb aviso">Escribí o dictá tu respuesta primero.</div>'; return; }
         fz.innerHTML = '<div class="fb info">Revisando…</div>';
-        const r = await corregirOral({ pregunta: p.pregunta, respuesta: ta.value, modelo: p.orientacion, contexto: tp.titulo, diccionario });
+        const r = await corregirOral({ pregunta: p.pregunta, respuesta: ta.value, modelo: p.orientacion, contexto: tp.titulo, refEscritura });
         fz.innerHTML = `<div class="fb ${r.ok ? 'ok' : 'mal'}">${esc(r.mensaje)}</div>`;
         guardarSim({ intento: true, texto: ta.value });
         d.querySelector('[data-a=ver]').classList.remove('oculto');

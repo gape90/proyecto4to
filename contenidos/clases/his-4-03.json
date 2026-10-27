@@ -18,12 +18,12 @@
       "bloques": [
         {
           "t": "texto",
-          "titulo": "El crac de Wall Street",
+          "titulo": "La crisis de 1929: el crac de Wall Street",
           "texto": "En octubre de 1929 se derrumbó la Bolsa de Nueva York. Bancos y empresas quebraron, la gente perdió sus ahorros y el consumo se desplomó. Fue el comienzo de la **Gran Depresión**, una crisis que se extendió por todo el mundo capitalista.\n\nLos países cerraron sus mercados para proteger su producción (**proteccionismo**) y el comercio mundial cayó fuertemente."
         },
         {
           "t": "destacado",
-          "titulo": "¿Por qué le afectó tanto a la Argentina?",
+          "titulo": "¿Por qué la crisis de 1929 afectó tanto a la Argentina?",
           "texto": "La Argentina vivía de **exportar carnes y granos** y de **importar productos industriales**. Cuando cayó la demanda mundial y los precios de lo que vendía, entraron menos dólares y libras al país."
         },
         {
@@ -36,11 +36,11 @@
             "Aumentan la desocupación y los problemas sociales en el país."
           ],
           "explicacion": "La crisis llegó a la Argentina por el comercio exterior: el país dependía de vender al mundo.",
-          "pista": "Releé el primer texto y el recuadro «¿Por qué le afectó tanto a la Argentina?»."
+          "pista": "Releé el primer texto y el recuadro «¿Por qué la crisis de 1929 afectó tanto a la Argentina?»."
         },
         {
           "t": "comparar",
-          "titulo": "Un cambio de ideas sobre el Estado",
+          "titulo": "Después de 1929: un cambio de ideas sobre el Estado",
           "columnas": [
             "",
             "Antes de 1929",
@@ -66,7 +66,7 @@
         },
         {
           "t": "verificar",
-          "consigna": "Según la tabla «Un cambio de ideas sobre el Estado», ¿cómo se llamó el programa con obras públicas y regulación con el que respondió Estados Unidos a la crisis?",
+          "consigna": "Según la tabla «Después de 1929: un cambio de ideas sobre el Estado», ¿cómo se llamó el programa con obras públicas y regulación con el que respondió Estados Unidos a la crisis?",
           "respuesta": "New Deal",
           "acepta": [
             "new deal",
@@ -75,7 +75,8 @@
           ],
           "explicacion": "El «New Deal», aplicado desde 1933, es un ejemplo de la nueva idea: el Estado interviene para evitar nuevas crisis.",
           "pista": "Mirá la última fila de la tabla, en la columna «Después de 1929».",
-          "placeholder": "Escribí el nombre"
+          "placeholder": "Escribí el nombre",
+          "formato": "Escribí solo el nombre del programa."
         },
         {
           "t": "opcion",
@@ -291,6 +292,38 @@
           "palabra": "DESOCUPACIÓN",
           "pista": "Problema social que aumentó en la Argentina con la crisis."
         }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el orden correcto de la cadena de la crisis?",
+          "opciones": [
+            "Cae la Bolsa → los países compran menos y bajan los precios → caen las exportaciones argentinas → aumenta la desocupación",
+            "Aumenta la desocupación → cae la Bolsa → suben las exportaciones",
+            "Caen las exportaciones argentinas → cae la Bolsa de Nueva York → bajan los precios",
+            "Bajan los precios → crece el comercio mundial → cae la Bolsa"
+          ],
+          "correcta": 0,
+          "explicacion": "La crisis empezó en Nueva York y llegó a la Argentina por el comercio exterior: cayeron la demanda y los precios, entraron menos divisas y creció la desocupación."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es el proteccionismo y por qué perjudicó a la Argentina?",
+          "opciones": [
+            "Cerrar los mercados para proteger la producción propia: la Argentina pudo vender menos",
+            "Abrir el comercio: la Argentina compró más",
+            "Que el Estado no intervenga: bajó la desocupación",
+            "Proteger a los trabajadores: subieron los salarios"
+          ],
+          "correcta": 0,
+          "explicacion": "Cuando los países cerraron sus mercados, un país que vivía de exportar vendió menos y más barato."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Después de 1929 se empezó a pensar que el mercado se regula solo y que el Estado no debe intervenir.",
+          "respuesta": false,
+          "explicacion": "Fue al revés: esa era la idea de antes. Después de 1929 se pensó que el Estado debía intervenir para evitar nuevas crisis, como con el New Deal."
+        }
       ]
     },
     {
@@ -300,7 +333,7 @@
       "bloques": [
         {
           "t": "texto",
-          "titulo": "El primer golpe del siglo XX",
+          "titulo": "1930: el primer golpe de Estado del siglo XX",
           "texto": "El 6 de septiembre de 1930, el general **José F. Uriburu** derrocó al presidente **Hipólito Yrigoyen**, que atravesaba su segundo gobierno. Fue el **primer golpe de Estado** del siglo XX en la Argentina y abrió una etapa de **inestabilidad democrática**.\n\nEl gobierno estaba debilitado por la crisis económica, la oposición política y críticas de sectores poderosos."
         },
         {
@@ -336,12 +369,12 @@
         },
         {
           "t": "destacado",
-          "titulo": "Por qué «infame»",
+          "titulo": "¿Por qué se la llama Década «Infame»?",
           "texto": "Se llama **Década Infame** porque predominó el **fraude electoral** («fraude patriótico»), con elecciones manipuladas por los conservadores, y se denunciaron casos de corrupción. También se limitó la participación política de los radicales."
         },
         {
           "t": "texto",
-          "titulo": "Un Estado que interviene en la economía",
+          "titulo": "Década Infame: un Estado que interviene en la economía",
           "texto": "Para enfrentar la crisis, los gobiernos de esos años empezaron a **intervenir en la economía**. En 1931 se estableció el **control de cambios**, que regula la compra de monedas extranjeras. Se crearon **juntas reguladoras** de granos y de carnes para ordenar la producción y los precios. Y en 1935 se creó el **Banco Central**."
         },
         {
@@ -598,6 +631,38 @@
           "palabra": "JUNTAS",
           "pista": "Organismos reguladores de granos y de carnes que creó el Estado."
         }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué la Década Infame se considera una etapa de democracia débil?",
+          "opciones": [
+            "Porque empezó con un golpe de Estado y hubo fraude electoral",
+            "Porque votaron las mujeres",
+            "Porque se creó el Banco Central",
+            "Porque gobernó Yrigoyen"
+          ],
+          "correcta": 0,
+          "explicacion": "Empezó con el golpe de Uriburu en 1930 y las elecciones fueron manipuladas con el «fraude patriótico». El Banco Central fue una medida económica, no un problema de la democracia."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estas medidas muestra al Estado interviniendo en la economía durante la Década Infame?",
+          "opciones": [
+            "La creación del Banco Central en 1935",
+            "El fraude patriótico",
+            "El golpe de 1930",
+            "La elección de Justo en 1932"
+          ],
+          "correcta": 0,
+          "explicacion": "El Banco Central regula la moneda y el crédito. Las otras opciones son hechos políticos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Cuando fue derrocado, el gobierno de Yrigoyen estaba debilitado por la crisis económica.",
+          "respuesta": true,
+          "explicacion": "También por la oposición política y las críticas de sectores poderosos."
+        }
       ]
     },
     {
@@ -607,12 +672,12 @@
       "bloques": [
         {
           "t": "texto",
-          "titulo": "Producir en el país lo que antes se importaba",
+          "titulo": "La industrialización: producir en el país lo que antes se importaba",
           "texto": "Después de la crisis de 1929 llegaban menos dólares y libras al país y era difícil importar. Entonces la Argentina empezó a **fabricar en el país** productos que antes compraba afuera: textiles, alimentos, metalúrgicos, electrodomésticos simples…\n\nEste proceso se llama **industrialización sustitutiva de importaciones (ISI)**. Se aceleró durante la **Segunda Guerra Mundial** (1939-1945), cuando las importaciones se hicieron aún más difíciles."
         },
         {
           "t": "pasos",
-          "titulo": "Cómo funcionó la ISI",
+          "titulo": "Cómo funcionó la industrialización sustitutiva (ISI)",
           "pasos": [
             {
               "titulo": "Falta de divisas",
@@ -634,7 +699,7 @@
         },
         {
           "t": "comparar",
-          "titulo": "Dos modelos económicos",
+          "titulo": "Dos modelos económicos: agroexportador e industrial",
           "columnas": [
             "",
             "Modelo agroexportador",
@@ -919,6 +984,38 @@
         {
           "palabra": "MERCADO INTERNO",
           "pista": "Para quién producían las fábricas de la ISI."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué la crisis de 1929 impulsó la industrialización?",
+          "opciones": [
+            "Porque entraban menos divisas y era difícil importar, entonces se fabricó en el país",
+            "Porque llegaron más productos de Europa",
+            "Porque aumentaron las exportaciones de carne",
+            "Porque la Argentina entró en la guerra"
+          ],
+          "correcta": 0,
+          "explicacion": "Sin divisas no se podía comprar afuera: había que producir adentro. Por eso se llama industrialización sustitutiva de importaciones."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué cambio social produjo la ISI?",
+          "opciones": [
+            "Crecieron las ciudades y la clase obrera, con migraciones desde el campo y el interior",
+            "Creció la población rural",
+            "Desaparecieron los trabajadores industriales",
+            "La gente se fue a vivir al exterior"
+          ],
+          "correcta": 0,
+          "explicacion": "Las fábricas necesitaban trabajadores: miles de personas se mudaron a las ciudades y creció la clase obrera urbana."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con la ISI, el motor de la economía pasó a ser producir para el mercado interno.",
+          "respuesta": true,
+          "explicacion": "En el modelo agroexportador, el motor era exportar productos del campo."
         }
       ]
     }

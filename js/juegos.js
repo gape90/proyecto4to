@@ -10,21 +10,24 @@ import { AJUSTES } from './config.js';
 const vfDe = cap => (cap.juegos || []).filter(b => b.tipo === 'vf');
 const mcDe = cap => (cap.juegos || []).filter(b => b.tipo === 'mc');
 
+const MAX = 4; // ningún juego tiene más de 4 preguntas, palabras o pares
+// El orden importa: se ofrecen 3 juegos seguidos de esta lista. V/F y «Atrapá la verdadera» (que se parecen)
+// están separados para que nunca aparezcan juntos en la misma parte.
 export const JUEGOS = [
   { id: 'vf', nombre: 'Verdadero o falso', icono: '✅', desc: 'Decidí si es cierto', puede: c => vfDe(c).length >= 3,
-    instr: 'Leé cada afirmación y tocá <b>Verdadero</b> o <b>Falso</b>. Después leé la explicación y pasá a la siguiente.' },
+    instr: 'Leé cada afirmación y tocá <b>Verdadero</b> o <b>Falso</b>. Después leé la explicación y pasá a la siguiente. Son 4 afirmaciones.' },
   { id: 'mc', nombre: 'Múltiple choice', icono: '🎯', desc: 'Elegí la correcta', puede: c => mcDe(c).length >= 3,
-    instr: 'Leé la pregunta y tocá la opción correcta. Solo una es la buena.' },
-  { id: 'basket', nombre: 'Básquet', icono: '🏀', desc: 'Respondé y encestá', puede: c => (c.juegos || []).length >= 4,
-    instr: 'Cada pregunta es un tiro: si elegís la respuesta correcta, la pelota entra y sumás 2 puntos.' },
-  { id: 'autos', nombre: 'Carrera de autos', icono: '🏎️', desc: 'Llegá primero a la meta', puede: c => (c.juegos || []).length >= 4,
-    instr: 'Cada respuesta correcta hace avanzar tu auto. Mientras pensás, el rival avanza solo: ¡llegá primero a la meta!' },
+    instr: 'Leé la pregunta y tocá la opción correcta. Solo una es la buena. Son 4 preguntas.' },
   { id: 'palabra', nombre: 'Palabra oculta', icono: '🔤', desc: 'Descubrí la palabra', puede: c => (c.palabras || []).length >= 4,
-    instr: 'Leé la pista y tocá letras para descubrir la palabra escondida. Tenés 6 vidas por palabra.' },
-  { id: 'memo', nombre: 'Memotest', icono: '🧠', desc: 'Uní palabra y pista', puede: c => (c.palabras || []).length >= 4,
-    instr: 'Tocá dos tarjetas para darlas vuelta. Encontrá cada palabra con la pista que le corresponde.' },
+    instr: 'Leé la pista y tocá letras para descubrir la palabra escondida. Tenés 6 intentos por palabra. Son 4 palabras.' },
   { id: 'atrapa', nombre: 'Atrapá la verdadera', icono: '🪂', desc: 'Antes de que caiga', puede: c => vfDe(c).length >= 4,
-    instr: 'Cae una afirmación. Si es <b>verdadera</b>, atrapala; si es <b>falsa</b>, dejala pasar. Tenés 3 vidas.' },
+    instr: 'Cae una afirmación. Si es <b>verdadera</b>, atrapala; si es <b>falsa</b>, dejala pasar. Son 4 afirmaciones y tenés 3 oportunidades.' },
+  { id: 'basket', nombre: 'Básquet', icono: '🏀', desc: 'Respondé y encestá', puede: c => (c.juegos || []).length >= 4,
+    instr: 'Cada pregunta es un tiro: si elegís la respuesta correcta, la pelota entra y sumás 2 puntos. Son 4 tiros.' },
+  { id: 'memo', nombre: 'Memotest', icono: '🧠', desc: 'Uní palabra y pista', puede: c => (c.palabras || []).length >= 4,
+    instr: 'Tocá dos tarjetas para darlas vuelta. Encontrá cada palabra con la pista que le corresponde. Son 4 pares.' },
+  { id: 'autos', nombre: 'Carrera de autos', icono: '🏎️', desc: 'Llegá primero a la meta', puede: c => (c.juegos || []).length >= 4,
+    instr: 'Son 4 preguntas. Cada respuesta correcta hace avanzar tu auto. Mientras pensás, el rival avanza solo: ¡llegá primero a la meta!' },
 ];
 
 // Tres juegos por cápsula, que van cambiando de una cápsula a otra
@@ -70,8 +73,8 @@ export function abrirJuego(tipo, cap, { onFin } = {}) {
       limpiar.splice(0).forEach(f => f());
       try { onFin?.(tipo, puntos, total); } catch {}
       const pct = total ? Math.round(puntos / total * 100) : 0;
-      const msg = pct === 100 ? '¡Perfecto! Dominás este tema.' : pct >= 70 ? '¡Muy bien! Repasá lo que te falló.' : 'Seguí practicando: volvé a leer el material y jugá otra vez cuando quieras.';
-      ui.cuerpo.innerHTML = `<div class="jg-final"><div class="grande">${pct >= 70 ? '🏆' : '💪'}</div><h3>${puntos} de ${total}</h3><p>${msg}</p>${extra}</div>`;
+      const msg = pct === 100 ? '¡Muy bien! Respondiste todo correctamente.' : pct >= 70 ? '¡Bien! Repasá lo que te costó.' : 'Seguí practicando: volvé a leer el material y jugá otra vez cuando quieras.';
+      ui.cuerpo.innerHTML = `<div class="jg-final"><div class="grande">${pct >= 70 ? '🏆' : '💪'}</div><h3>Respondiste bien ${puntos} de ${total}</h3>${extra}<p>${msg}</p></div>`;
       ui.fb('Terminaste el juego. Para volver a jugar, cerrá esta ventana y abrilo de nuevo.');
       btn.textContent = 'Cerrar'; btn.disabled = false; btn.onclick = cerrar;
     },
@@ -90,7 +93,7 @@ function responder(host, q, b) {
 
 /* ---------- Verdadero o falso ---------- */
 function juegoVF(ui, cap) {
-  const items = mezclar(vfDe(cap));
+  const items = mezclar(vfDe(cap)).slice(0, MAX);
   let i = 0, p = 0, racha = 0, mejor = 0;
   const paso = () => {
     if (i >= items.length) return ui.final(p, items.length, `<p class="ayuda">Mejor racha: ${mejor} 🔥</p>`);
@@ -113,7 +116,7 @@ function juegoVF(ui, cap) {
 
 /* ---------- Múltiple choice ---------- */
 function juegoMC(ui, cap) {
-  const items = mezclar(mcDe(cap)).map(aMC).map(preparar);
+  const items = mezclar(mcDe(cap)).slice(0, MAX).map(aMC).map(preparar);
   let i = 0, p = 0;
   const paso = () => {
     if (i >= items.length) return ui.final(p, items.length);
@@ -133,7 +136,7 @@ function juegoMC(ui, cap) {
 
 /* ---------- Básquet ---------- */
 function juegoBasket(ui, cap) {
-  const items = mezclar(cap.juegos).slice(0, 8).map(aMC).map(preparar);
+  const items = mezclar(cap.juegos).slice(0, MAX).map(aMC).map(preparar);
   let i = 0, p = 0, anim = 0;
   ui.limpiar.push(() => cancelAnimationFrame(anim));
   const W = 640, H = 230, SUELO = 205, ARO = { x: 520, y: 80 };
@@ -183,42 +186,44 @@ function juegoBasket(ui, cap) {
 }
 
 /* ---------- Carrera de autos ---------- */
+// 4 preguntas. Tu auto avanza con cada respuesta correcta; el rival avanza solo mientras pensás.
+// Gana quien llegue primero a la meta o, al terminar las 4 preguntas, quien esté más adelante.
 function juegoAutos(ui, cap) {
-  const META = 6;
-  let pool = mezclar(cap.juegos).map(aMC);
-  while (pool.length < META + 4) pool = pool.concat(mezclar(cap.juegos).map(aMC));
-  const items = pool.map(preparar);
-  let yo = 0, rival = 0, i = 0, aciertos = 0, intentos = 0, terminado = false, pensando = false;
-  ui.cuerpo.innerHTML = `<div class="pista"><div class="carril"><small>Vos</small><span class="auto" id="a1">🏎️</span><span class="meta"></span></div>
+  const items = mezclar(cap.juegos).slice(0, MAX).map(aMC).map(preparar);
+  const META = items.length;
+  let yo = 0, rival = 0, i = 0, aciertos = 0, terminado = false, pensando = false;
+  ui.cuerpo.innerHTML = `<div class="marcador"><span class="m-q"></span><span class="m-a">Correctas: 0</span></div>
+    <div class="pista"><div class="carril"><small>Vos</small><span class="auto" id="a1">🏎️</span><span class="meta"></span></div>
     <div class="carril"><small>Rival</small><span class="auto" id="a2">🚙</span><span class="meta"></span></div></div><div class="zona-q"></div>`;
-  const pos = n => `${(n / META) * (100 - 12)}%`;
+  const pos = n => `${(Math.min(n, META) / META) * (100 - 12)}%`;
   const mover = () => { ui.cuerpo.querySelector('#a1').style.left = pos(yo); ui.cuerpo.querySelector('#a2').style.left = pos(rival); };
   mover();
-  // El rival avanza solo mientras hay una pregunta abierta
   const tictac = setInterval(() => {
-    if (terminado || !pensando) return;
+    if (terminado || !pensando || rival >= META) return;
     rival++; mover();
-    if (rival >= META) final(false);
   }, AJUSTES.AUTOS_RIVAL_SEG * 1000);
   ui.limpiar.push(() => clearInterval(tictac));
-  const final = gano => {
+  const final = () => {
     terminado = true; clearInterval(tictac);
-    ui.final(aciertos, intentos || 1, `<p><b>${gano ? '🏁 ¡Ganaste la carrera!' : '🐢 Esta vez ganó el rival.'}</b></p>`);
+    const res = yo > rival ? '🏁 ¡Ganaste la carrera!' : yo === rival ? '🤝 ¡Empate! Llegaron juntos.' : '🚙 Esta vez el rival llegó más lejos.';
+    ui.final(aciertos, items.length, `<p><b>${res}</b></p>`);
   };
   const pregunta = () => {
     if (terminado) return;
-    const q = items[i % items.length];
+    if (i >= items.length) return final();
+    const q = items[i];
     pensando = true;
-    ui.fb('Respondé rápido: el rival avanza mientras pensás.'); ui.esperar();
+    ui.cuerpo.querySelector('.m-q').textContent = `Pregunta ${i + 1}/${items.length}`;
+    ui.fb('Respondé rápido: el rival avanza mientras pensás.'); ui.esperar(i + 1 < items.length ? 'Siguiente →' : 'Ver resultado');
     ui.cuerpo.querySelector('.zona-q').innerHTML = `<p style="font-weight:700">${md(q.pregunta)}</p>${opcionesHTML(q)}`;
     ui.cuerpo.querySelectorAll('.opc-btn').forEach(b => b.onclick = () => {
       if (terminado) return;
-      pensando = false; intentos++;
+      pensando = false;
       const ok = responder(ui.cuerpo, q, b);
       if (ok) { aciertos++; yo++; mover(); }
-      if (yo >= META) { ui.fb('<b>¡Cruzaste la meta!</b>', 'ok'); setTimeout(() => final(true), 700); return; }
+      ui.cuerpo.querySelector('.m-a').textContent = `Correctas: ${aciertos}`;
       ui.fb(`<span><b>${ok ? '¡Acelerás!' : 'Frenaste.'}</b> ${md(q.explicacion || '')}</span>`, ok ? 'ok' : 'mal');
-      ui.siguiente(() => { i++; pregunta(); });
+      ui.siguiente(() => { i++; pregunta(); }, i + 1 < items.length ? 'Siguiente →' : 'Ver resultado');
     });
   };
   pregunta();
@@ -227,7 +232,7 @@ function juegoAutos(ui, cap) {
 /* ---------- Palabra oculta ---------- */
 const sinTilde = s => s.normalize('NFD').replace(/[̀-̂̄-ͯ]/g, '').normalize('NFC'); // conserva la Ñ
 function juegoPalabra(ui, cap) {
-  const items = mezclar(cap.palabras).slice(0, 5);
+  const items = mezclar(cap.palabras).slice(0, MAX);
   const LETRAS = 'ABCDEFGHIJKLMNÑOPQRSTUVWXYZ'.split('');
   let i = 0, p = 0;
   const paso = () => {
@@ -237,7 +242,7 @@ function juegoPalabra(ui, cap) {
     ui.fb('Tocá una letra.'); ui.esperar(i + 1 < items.length ? 'Siguiente palabra →' : 'Ver resultado');
     const pintar = () => {
       const completa = [...base].every(ch => !/[A-ZÑ]/.test(ch) || usadas.has(ch));
-      ui.cuerpo.innerHTML = `<div class="marcador"><span>Palabra ${i + 1}/${items.length}</span><span>Puntos: ${p}</span><span class="vidas">${'❤️'.repeat(vidas)}${'🤍'.repeat(6 - vidas)}</span></div>
+      ui.cuerpo.innerHTML = `<div class="marcador"><span>Palabra ${i + 1}/${items.length}</span><span>Puntos: ${p}</span><span>Intentos: ${vidas}</span></div>
         <div class="pista-palabra">💡 ${md(it.pista)}</div>
         <div class="palabra">${[...pal].map((ch, k) => ch === ' ' ? '<span class="esp"></span>' : `<span>${usadas.has(base[k]) || listo || !/[A-ZÑ]/.test(base[k]) ? ch : ''}</span>`).join('')}</div>
         <div class="letras">${LETRAS.map(l => `<button data-l="${l}" ${usadas.has(l) || listo ? 'disabled' : ''} class="${usadas.has(l) && base.includes(l) ? 'si' : ''}">${l}</button>`).join('')}</div>`;
@@ -248,9 +253,9 @@ function juegoPalabra(ui, cap) {
         if (ok || vidas <= 0) {
           listo = true; if (ok) p++;
           pintar();
-          ui.fb(ok ? `<span><b>¡La descubriste!</b> La palabra es «${esc(pal)}».</span>` : `<span><b>Se terminaron las vidas.</b> La palabra era «${esc(pal)}».</span>`, ok ? 'ok' : 'mal');
+          ui.fb(ok ? `<span><b>¡La descubriste!</b> La palabra es «${esc(pal)}».</span>` : `<span>La palabra era «${esc(pal)}».</span>`, ok ? 'ok' : 'mal');
           ui.siguiente(() => { i++; paso(); }, i + 1 < items.length ? 'Siguiente palabra →' : 'Ver resultado');
-        } else { pintar(); ui.fb(base.includes(l) ? `¡Bien! La «${l}» está.` : `La «${l}» no está. Te quedan ${vidas} vidas.`); }
+        } else { pintar(); ui.fb(base.includes(l) ? `¡Bien! La «${l}» está.` : `La «${l}» no está. Te quedan ${vidas} intento${vidas === 1 ? '' : 's'}.`); }
       });
       return completa;
     };
@@ -261,7 +266,7 @@ function juegoPalabra(ui, cap) {
 
 /* ---------- Memotest ---------- */
 function juegoMemo(ui, cap) {
-  const pares = mezclar(cap.palabras).slice(0, 4);
+  const pares = mezclar(cap.palabras).slice(0, MAX);
   const cartas = mezclar(pares.flatMap((x, k) => [{ k, txt: x.palabra, tipo: 'palabra-c' }, { k, txt: x.pista, tipo: 'pista-c' }]));
   let abiertas = [], encontradas = 0, intentos = 0, ocupado = false;
   ui.esperar(); ui.fb('Tocá una tarjeta para empezar.');
@@ -289,16 +294,16 @@ function juegoMemo(ui, cap) {
 
 /* ---------- Atrapá la verdadera ---------- */
 function juegoAtrapa(ui, cap) {
-  const items = mezclar(vfDe(cap)).slice(0, 8);
+  const items = mezclar(vfDe(cap)).slice(0, MAX);
   const DUR = 11000;
   let i = 0, p = 0, vidas = 3, anim = 0;
   ui.limpiar.push(() => cancelAnimationFrame(anim));
   const paso = () => {
-    if (i >= items.length || vidas <= 0) return ui.final(p, Math.min(items.length, i), vidas <= 0 ? '<p class="ayuda">Te quedaste sin vidas.</p>' : '');
+    if (i >= items.length || vidas <= 0) return ui.final(p, items.length);
     const it = items[i];
     let decidido = false;
     ui.fb('Decidí antes de que llegue al piso.'); ui.esperar(i + 1 < items.length ? 'Siguiente →' : 'Ver resultado');
-    ui.cuerpo.innerHTML = `<div class="marcador"><span>${i + 1}/${items.length}</span><span>Atrapadas bien: ${p}</span><span class="vidas">${'❤️'.repeat(vidas)}${'🤍'.repeat(3 - vidas)}</span></div>
+    ui.cuerpo.innerHTML = `<div class="marcador"><span>${i + 1}/${items.length}</span><span>Atrapadas bien: ${p}</span><span class="vidas">Oportunidades: ${vidas}</span></div>
       <div class="caida"><div class="carta">${md(it.texto)}</div><div class="suelo"></div></div>
       <div class="vf-botones" style="margin-top:12px"><button class="v">✋ ¡Atrapar! (verdadera)</button><button class="f">👋 Dejar pasar (falsa)</button></div>`;
     const carta = ui.cuerpo.querySelector('.carta'), area = ui.cuerpo.querySelector('.caida');
@@ -314,7 +319,7 @@ function juegoAtrapa(ui, cap) {
       ui.cuerpo.querySelectorAll('.vf-botones button').forEach(b => b.disabled = true);
       const ok = atrapa === it.respuesta;
       if (ok) p++; else vidas--;
-      ui.cuerpo.querySelector('.vidas').textContent = '❤️'.repeat(Math.max(vidas, 0)) + '🤍'.repeat(3 - Math.max(vidas, 0));
+      ui.cuerpo.querySelector('.vidas').textContent = 'Oportunidades: ' + Math.max(vidas, 0);
       ui.fb(`<span><b>${ok ? '¡Bien!' : tiempo ? 'Llegó al piso.' : 'Uy.'}</b> Era ${it.respuesta ? 'verdadera' : 'falsa'}. ${md(it.explicacion || '')}</span>`, ok ? 'ok' : 'mal');
       ui.siguiente(() => { i++; paso(); }, i + 1 < items.length && vidas > 0 ? 'Siguiente →' : 'Ver resultado');
     };
