@@ -1,0 +1,1199 @@
+{
+  "id": "geo-3-03",
+  "espacio": "geografia",
+  "eje": "Ambiente y territorio",
+  "titulo": "Las precipitaciones y los fenómenos meteorológicos especiales",
+  "mini_test": true,
+  "intro": "No llueve igual en todo el país ni los vientos son iguales en todos lados. Vas a ver qué anticiclones influyen sobre el territorio, por qué llueve tanto en un lado de los Andes y poco en el otro y qué vientos locales cambian el tiempo.",
+  "objetivos": [
+    "Reconocer los dos anticiclones que actúan sobre la Argentina y dónde descarga su humedad cada uno.",
+    "Explicar cómo se producen las lluvias orográficas.",
+    "Diferenciar el pampero, la sudestada y el zonda."
+  ],
+  "tp_aporte": "Para la evaluación ya tenés: los vientos permanentes, las lluvias orográficas y los vientos locales con sus características.",
+  "capsulas": [
+    {
+      "id": "geo-3-03-1",
+      "titulo": "Los vientos permanentes y los dos anticiclones",
+      "tiempo": "30 a 40 min",
+      "recordas": "En la Argentina hay lugares muy húmedos y lugares muy secos. ¿De dónde creés que viene la humedad que llega al país?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Dos anticiclones, dos zonas",
+          "texto": "Sobre el territorio argentino actúan dos grandes anticiclones, que producen **vientos permanentes**: el **anticiclón del Atlántico** y el **anticiclón del Pacífico Sur**.\n\nEl río **Colorado** sirve de referencia: marca hasta dónde llega la influencia de cada uno."
+        },
+        {
+          "t": "animacion",
+          "nombre": "anticiclones",
+          "titulo": "Los dos anticiclones",
+          "alt": "Esquema de la Argentina: al norte del río Colorado predominan los vientos del anticiclón del Atlántico y al sur los del anticiclón del Pacífico Sur",
+          "leyenda": "Las flechas naranjas son los vientos del Atlántico, que van de este a oeste. Las violetas son los del Pacífico. Es un esquema, no un mapa a escala."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Los dos anticiclones",
+          "columnas": [
+            "",
+            "Anticiclón del Atlántico",
+            "Anticiclón del Pacífico Sur"
+          ],
+          "filas": [
+            [
+              "Dónde actúa",
+              "Al norte del río Colorado",
+              "Al sur del río Colorado"
+            ],
+            [
+              "Dónde descarga su humedad",
+              "De este a oeste: sobre el este y el centro del país",
+              "Sobre la cordillera de los Andes"
+            ]
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "**Atlántico**: al norte del Colorado, descarga su humedad de este a oeste.\n\n**Pacífico Sur**: al sur del Colorado, descarga su humedad en la cordillera."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Pensalo así",
+          "texto": "Pensá en el río Colorado como una línea en el piso. De un lado de la línea, la humedad llega desde el Atlántico. Del otro lado, llega desde el Pacífico."
+        },
+        {
+          "t": "verificar",
+          "consigna": "¿Qué río sirve como límite entre la zona del anticiclón del Atlántico y la del Pacífico Sur?",
+          "respuesta": "Colorado",
+          "explicacion": "El río Colorado separa los dos anticiclones: el Atlántico, al norte, y el Pacífico Sur, al sur.",
+          "pista": "Mirá la ilustración: el río está dibujado en azul.",
+          "formato": "Escribí solo el nombre del río.",
+          "acepta": [
+            "colorado",
+            "rio colorado",
+            "el colorado",
+            "el rio colorado"
+          ]
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿A qué anticiclón corresponde cada dato?",
+          "categorias": [
+            "Atlántico",
+            "Pacífico Sur"
+          ],
+          "items": [
+            {
+              "texto": "Actúa al norte del río Colorado",
+              "cat": "Atlántico"
+            },
+            {
+              "texto": "Descarga su humedad en la cordillera",
+              "cat": "Pacífico Sur"
+            },
+            {
+              "texto": "Su humedad avanza de este a oeste",
+              "cat": "Atlántico"
+            },
+            {
+              "texto": "Actúa al sur del río Colorado",
+              "cat": "Pacífico Sur"
+            }
+          ],
+          "explicacion": "El Atlántico actúa al norte del Colorado y avanza de este a oeste. El Pacífico Sur actúa al sur y descarga en la cordillera."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Qué anticiclón descarga su humedad sobre la cordillera de los Andes?",
+          "opciones": [
+            "El del Pacífico Sur",
+            "El del Atlántico",
+            "Los dos por igual",
+            "Ninguno"
+          ],
+          "correcta": 0,
+          "explicacion": "El anticiclón del Pacífico Sur actúa al sur del Colorado y descarga su humedad en la cordillera.",
+          "pista": "Releé la tabla de arriba."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "🔍 Encontrá el error. ¿Qué frase es falsa?",
+          "opciones": [
+            "El río Colorado es referencia para los dos anticiclones.",
+            "El anticiclón del Atlántico actúa al norte del Colorado.",
+            "El anticiclón del Pacífico Sur actúa al norte del Colorado.",
+            "Los anticiclones producen vientos permanentes."
+          ],
+          "correcta": 2,
+          "explicacion": "El error es la tercera: el Pacífico Sur actúa al sur del río Colorado.",
+          "pista": "Fijate de qué lado del río está cada flecha."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensalo antes de mirar: si el anticiclón del Atlántico lleva humedad de este a oeste, ¿qué zona del país recibe esa humedad primero?",
+          "respuesta": "La zona del **este**: la humedad entra por el Atlántico y avanza hacia el oeste."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué anticiclones actúan sobre la Argentina y dónde descarga su humedad cada uno.",
+        "guia": [
+          "¿Cuáles son los dos anticiclones?",
+          "¿Qué río sirve de referencia?",
+          "¿Dónde actúa el anticiclón del Atlántico?",
+          "¿Hacia dónde avanza su humedad?",
+          "¿Dónde actúa el del Pacífico Sur y dónde descarga su humedad?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "atlantico"
+            ],
+            "p": "el anticiclón del Atlántico"
+          },
+          {
+            "k": [
+              "pacifico"
+            ],
+            "p": "el anticiclón del Pacífico Sur"
+          },
+          {
+            "k": [
+              "colorado"
+            ],
+            "p": "el río Colorado"
+          },
+          {
+            "k": [
+              "norte"
+            ],
+            "p": "que el Atlántico actúa al norte"
+          },
+          {
+            "k": [
+              "este a oeste",
+              "este hacia el oeste"
+            ],
+            "p": "que su humedad va de este a oeste"
+          },
+          {
+            "k": [
+              "sur"
+            ],
+            "p": "que el Pacífico actúa al sur"
+          },
+          {
+            "k": [
+              "cordillera",
+              "andes"
+            ],
+            "p": "que descarga su humedad en la cordillera"
+          }
+        ],
+        "referencia": "Los dos anticiclones son el del Atlántico y el del Pacífico Sur. El río Colorado marca el límite. El Atlántico actúa al norte del Colorado y descarga su humedad de este a oeste. El Pacífico Sur actúa al sur y descarga su humedad en la cordillera de los Andes.",
+        "minPalabras": 40
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Dos anticiclones actúan sobre el territorio argentino.",
+          "respuesta": true,
+          "explicacion": "El Atlántico y el Pacífico Sur."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El anticiclón del Atlántico actúa al sur del río Colorado.",
+          "respuesta": false,
+          "explicacion": "Actúa al norte."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El anticiclón del Pacífico Sur descarga su humedad en la cordillera.",
+          "respuesta": true,
+          "explicacion": "Al sur del Colorado."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La humedad del anticiclón del Atlántico va de oeste a este.",
+          "respuesta": false,
+          "explicacion": "Va de este a oeste."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El río Colorado sirve de referencia entre los dos anticiclones.",
+          "respuesta": true,
+          "explicacion": "Marca hasta dónde llega cada uno."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los anticiclones producen vientos permanentes.",
+          "respuesta": true,
+          "explicacion": "Siempre soplan en la misma dirección general."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué río sirve de límite?",
+          "opciones": [
+            "Colorado",
+            "Paraná",
+            "Uruguay",
+            "Negro"
+          ],
+          "correcta": 0,
+          "explicacion": "El Colorado."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Dónde actúa el anticiclón del Atlántico?",
+          "opciones": [
+            "Al norte del río Colorado",
+            "Al sur del río Colorado",
+            "Solo en la cordillera",
+            "Solo en el mar"
+          ],
+          "correcta": 0,
+          "explicacion": "Al norte."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Dónde descarga su humedad el del Pacífico Sur?",
+          "opciones": [
+            "En la cordillera de los Andes",
+            "En el litoral atlántico",
+            "En la plataforma",
+            "En el río de la Plata"
+          ],
+          "correcta": 0,
+          "explicacion": "En los Andes."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Hacia dónde avanza la humedad del Atlántico?",
+          "opciones": [
+            "De este a oeste",
+            "De oeste a este",
+            "De norte a sur",
+            "De sur a norte"
+          ],
+          "correcta": 0,
+          "explicacion": "De este a oeste."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se llaman los vientos que soplan siempre en el mismo sentido general?",
+          "opciones": [
+            "Vientos permanentes",
+            "Vientos locales",
+            "Tormentas",
+            "Brisas del río"
+          ],
+          "correcta": 0,
+          "explicacion": "Permanentes."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuántos anticiclones influyen en el clima argentino?",
+          "opciones": [
+            "Dos",
+            "Uno",
+            "Cinco",
+            "Ninguno"
+          ],
+          "correcta": 0,
+          "explicacion": "Dos."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "ANTICICLÓN",
+          "pista": "Zona de alta presión que produce vientos permanentes."
+        },
+        {
+          "palabra": "COLORADO",
+          "pista": "Río que sirve de límite entre los dos anticiclones."
+        },
+        {
+          "palabra": "ATLÁNTICO",
+          "pista": "Anticiclón que actúa al norte del Colorado."
+        },
+        {
+          "palabra": "PACÍFICO",
+          "pista": "Anticiclón que descarga su humedad en la cordillera."
+        },
+        {
+          "palabra": "PERMANENTES",
+          "pista": "Vientos que soplan siempre en el mismo sentido general."
+        },
+        {
+          "palabra": "CORDILLERA",
+          "pista": "Lugar donde descarga su humedad el Pacífico Sur."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué río sirve de referencia entre los dos anticiclones?",
+          "opciones": [
+            "Colorado",
+            "Paraná",
+            "Salado",
+            "Bermejo"
+          ],
+          "correcta": 0,
+          "explicacion": "El Colorado."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El anticiclón del Pacífico Sur descarga su humedad en los Andes.",
+          "respuesta": true,
+          "explicacion": "Al sur del Colorado."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Hacia dónde va la humedad del Atlántico?",
+          "opciones": [
+            "De este a oeste",
+            "De oeste a este",
+            "Hacia el sur",
+            "Se queda en el mar"
+          ],
+          "correcta": 0,
+          "explicacion": "De este a oeste."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál actúa al sur del Colorado?",
+          "opciones": [
+            "El del Pacífico Sur",
+            "El del Atlántico",
+            "Los dos",
+            "Ninguno"
+          ],
+          "correcta": 0,
+          "explicacion": "El Pacífico Sur."
+        }
+      ]
+    },
+    {
+      "id": "geo-3-03-2",
+      "titulo": "Las lluvias orográficas",
+      "tiempo": "30 a 40 min",
+      "recordas": "Si una montaña muy alta frena el viento húmedo, ¿qué creés que pasa de un lado y del otro de la montaña?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Cuando el viento choca con una montaña",
+          "texto": "Los vientos húmedos del **Pacífico** llegan a la **cordillera de los Andes**. La montaña los obliga a subir.\n\nLas lluvias que se producen por ese ascenso se llaman **lluvias orográficas**. En la Argentina son típicas de los **Andes patagónico-fueguinos**."
+        },
+        {
+          "t": "animacion",
+          "nombre": "orografica",
+          "titulo": "Las lluvias orográficas",
+          "alt": "Esquema de las lluvias orográficas: el viento húmedo sube por la ladera, se enfría y llueve; del otro lado baja seco",
+          "leyenda": "El viento húmedo sube por la montaña, se enfría y deja las lluvias en el lado del Pacífico. Del otro lado baja seco."
+        },
+        {
+          "t": "pasos",
+          "titulo": "Qué le pasa al aire, paso por paso",
+          "pasos": [
+            {
+              "titulo": "El viento llega",
+              "texto": "El aire húmedo del Pacífico llega a los Andes."
+            },
+            {
+              "titulo": "Sube",
+              "texto": "La montaña lo obliga a subir por la ladera."
+            },
+            {
+              "titulo": "Se enfría",
+              "texto": "Al subir, el aire se enfría."
+            },
+            {
+              "titulo": "Se condensa",
+              "texto": "El vapor de agua se condensa y forma nubes."
+            },
+            {
+              "titulo": "Llueve",
+              "texto": "Llueve sobre el lado occidental, el del Pacífico."
+            },
+            {
+              "titulo": "Baja seco",
+              "texto": "El aire sigue hacia el este y llega mucho más seco."
+            }
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "**Lado occidental** (Pacífico): muchas lluvias.\n\n**Lado oriental** (meseta patagónica): más seco, porque el aire llega sin humedad."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Pensalo así",
+          "texto": "Imaginá una esponja mojada que apretás al pasar por un obstáculo: del lado donde la apretás cae el agua, y del otro lado sale seca. La montaña hace algo parecido con el aire húmedo."
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená lo que le pasa al aire húmedo que llega a los Andes:",
+          "items": [
+            "El aire húmedo llega a la cordillera",
+            "Sube por la ladera",
+            "Se enfría",
+            "El vapor se condensa",
+            "Llueve en el lado occidental"
+          ],
+          "explicacion": "Primero llega, después sube, se enfría, el vapor se condensa y finalmente llueve.",
+          "pista": "Pensá en lo que le pasa al aire cuando sube: primero sube y después se enfría."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "Una ciudad ubicada al este de los Andes patagónicos recibe menos lluvia que una ubicada al oeste. ¿Por qué?",
+          "opciones": [
+            "Porque la cordillera frena al aire húmedo y este llega seco",
+            "Porque está más cerca del mar",
+            "Porque tiene más relieve que el lado oeste",
+            "Porque el Pacífico no llega a la Argentina"
+          ],
+          "correcta": 0,
+          "explicacion": "El aire húmedo descarga sus lluvias al subir la cordillera. Al pasar al lado oriental llega mucho más seco.",
+          "pista": "Pensá qué pasa con el aire después de subir la montaña."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Qué lado de la cordillera tiene cada rasgo?",
+          "categorias": [
+            "Lado occidental",
+            "Lado oriental"
+          ],
+          "items": [
+            {
+              "texto": "Recibe muchas lluvias",
+              "cat": "Lado occidental"
+            },
+            {
+              "texto": "Queda del lado del Pacífico",
+              "cat": "Lado occidental"
+            },
+            {
+              "texto": "El aire llega seco",
+              "cat": "Lado oriental"
+            },
+            {
+              "texto": "Es más seco",
+              "cat": "Lado oriental"
+            }
+          ],
+          "explicacion": "En el lado del Pacífico llueve mucho porque el aire sube y se condensa. En el oriental llega seco."
+        },
+        {
+          "t": "verificar",
+          "consigna": "¿Cómo se llaman las lluvias que se producen porque una montaña obliga a subir al aire húmedo?",
+          "respuesta": "orográficas",
+          "explicacion": "Las lluvias orográficas se producen cuando el aire sube por una montaña y se enfría.",
+          "pista": "Está en el primer texto de esta parte.",
+          "formato": "Escribí una sola palabra.",
+          "acepta": [
+            "orograficas",
+            "orográficas",
+            "lluvias orograficas",
+            "lluvias orográficas",
+            "orografica",
+            "orográfica"
+          ]
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensalo antes de mirar: ¿qué diferencia hay entre el aire que sube y el que baja de la cordillera?",
+          "respuesta": "El que **sube** es húmedo y se enfría, así que forma nubes y lluvias. El que **baja** hacia el este llega **seco**."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá cómo se producen las lluvias orográficas en los Andes patagónico-fueguinos.",
+        "guia": [
+          "¿De dónde viene el viento húmedo?",
+          "¿Qué le pasa al llegar a la cordillera?",
+          "¿Qué le pasa al aire cuando sube?",
+          "¿Dónde llueve y dónde llega seco?",
+          "¿Cómo se llaman estas lluvias?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "pacifico"
+            ],
+            "p": "que el viento viene del Pacífico"
+          },
+          {
+            "k": [
+              "subir",
+              "sube",
+              "ascen"
+            ],
+            "p": "que la montaña obliga al aire a subir"
+          },
+          {
+            "k": [
+              "enfria",
+              "enfri"
+            ],
+            "p": "que el aire se enfría"
+          },
+          {
+            "k": [
+              "condensa",
+              "nube"
+            ],
+            "p": "que el vapor se condensa"
+          },
+          {
+            "k": [
+              "lluvia",
+              "precipitacion"
+            ],
+            "p": "que llueve"
+          },
+          {
+            "k": [
+              "occidental",
+              "oeste"
+            ],
+            "p": "el lado occidental"
+          },
+          {
+            "k": [
+              "seco",
+              "oriental",
+              "este"
+            ],
+            "p": "que el lado oriental queda más seco"
+          },
+          {
+            "k": [
+              "orografica"
+            ],
+            "p": "que se llaman orográficas"
+          }
+        ],
+        "referencia": "El viento húmedo del Pacífico llega a los Andes y sube por la ladera. Al subir se enfría, el vapor se condensa y llueve en el lado occidental. Hacia el este llega más seco. Son las lluvias orográficas.",
+        "minPalabras": 40
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Las lluvias orográficas se producen cuando el aire sube por una montaña.",
+          "respuesta": true,
+          "explicacion": "Al subir se enfría y llueve."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El aire que baja hacia el este llega muy húmedo.",
+          "respuesta": false,
+          "explicacion": "Llega más seco."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los vientos húmedos que llegan a los Andes vienen del Pacífico.",
+          "respuesta": true,
+          "explicacion": "Descargan en la cordillera."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Al subir, el aire se calienta.",
+          "respuesta": false,
+          "explicacion": "Se enfría."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El lado occidental recibe más lluvia que el oriental.",
+          "respuesta": true,
+          "explicacion": "Ahí es donde se condensa el vapor."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la Argentina estas lluvias son típicas de los Andes patagónico-fueguinos.",
+          "respuesta": true,
+          "explicacion": "Son lluvias de montaña."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se llaman las lluvias que se producen cuando una montaña obliga a subir al aire?",
+          "opciones": [
+            "Orográficas",
+            "Fluviales",
+            "Costeras",
+            "Marinas"
+          ],
+          "correcta": 0,
+          "explicacion": "Son orográficas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué le pasa al aire cuando sube por la ladera?",
+          "opciones": [
+            "Se enfría",
+            "Se calienta",
+            "Se detiene",
+            "Desaparece"
+          ],
+          "correcta": 0,
+          "explicacion": "Se enfría."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué se forma cuando el vapor se condensa?",
+          "opciones": [
+            "Nubes",
+            "Dunas",
+            "Acantilados",
+            "Montañas"
+          ],
+          "correcta": 0,
+          "explicacion": "El vapor forma nubes."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿De qué océano viene el viento húmedo que llega a los Andes?",
+          "opciones": [
+            "Pacífico",
+            "Atlántico",
+            "Índico",
+            "Ártico"
+          ],
+          "correcta": 0,
+          "explicacion": "Del Pacífico."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo llega el aire al lado oriental de la cordillera?",
+          "opciones": [
+            "Seco",
+            "Muy húmedo",
+            "Con tormentas",
+            "Con nieve"
+          ],
+          "correcta": 0,
+          "explicacion": "Seco."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué lado de la cordillera llueve más?",
+          "opciones": [
+            "En el occidental",
+            "En el oriental",
+            "Igual en los dos",
+            "En ninguno"
+          ],
+          "correcta": 0,
+          "explicacion": "En el occidental."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "OROGRÁFICA",
+          "pista": "Lluvia que se produce cuando una montaña obliga a subir al aire."
+        },
+        {
+          "palabra": "CORDILLERA",
+          "pista": "Cadena de montañas que frena el viento húmedo."
+        },
+        {
+          "palabra": "CONDENSAR",
+          "pista": "Pasar del vapor de agua a gotitas."
+        },
+        {
+          "palabra": "OCCIDENTAL",
+          "pista": "Lado de la cordillera donde llueve más."
+        },
+        {
+          "palabra": "ORIENTAL",
+          "pista": "Lado de la cordillera donde el aire llega seco."
+        },
+        {
+          "palabra": "ASCENSO",
+          "pista": "Subida del aire por la ladera."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué hay lluvias orográficas en la cordillera?",
+          "opciones": [
+            "Porque la montaña obliga a subir al aire húmedo, que se enfría y se condensa",
+            "Porque el mar está lejos",
+            "Porque el aire baja",
+            "Porque no hay viento"
+          ],
+          "correcta": 0,
+          "explicacion": "El ascenso del aire produce las lluvias."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo llega el aire al lado oriental?",
+          "opciones": [
+            "Más seco",
+            "Más húmedo",
+            "Igual",
+            "Con más lluvia"
+          ],
+          "correcta": 0,
+          "explicacion": "Ya descargó su humedad."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El aire húmedo se enfría al subir por la montaña.",
+          "respuesta": true,
+          "explicacion": "Y por eso el vapor se condensa."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué lado de los Andes patagónicos llueve más?",
+          "opciones": [
+            "En el occidental",
+            "En el oriental",
+            "Igual en ambos",
+            "No llueve"
+          ],
+          "correcta": 0,
+          "explicacion": "Del lado del Pacífico."
+        }
+      ]
+    },
+    {
+      "id": "geo-3-03-3",
+      "titulo": "Los vientos locales: pampero, sudestada y zonda",
+      "tiempo": "30 a 40 min",
+      "recordas": "¿Te pasó alguna vez de que la temperatura cambie de golpe de un día para otro? ¿Qué creés que lo provocó?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Cuando la temperatura cambia de repente",
+          "texto": "En muchos lugares del país la temperatura puede cambiar de un día para el otro. Buena parte de esos cambios los provocan los **vientos locales**, que soplan en zonas más chicas y traen su propio tiempo.\n\nTres son los más importantes: el **pampero**, la **sudestada** y el **zonda**."
+        },
+        {
+          "t": "animacion",
+          "nombre": "vientos",
+          "titulo": "Tres vientos locales",
+          "alt": "Esquema de la Argentina con tres vientos locales: el pampero del sudoeste, la sudestada del Atlántico y el zonda de la cordillera",
+          "leyenda": "Cada flecha muestra de dónde viene cada viento. Es un esquema, no un mapa a escala."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Los tres vientos locales",
+          "columnas": [
+            "Viento",
+            "De dónde viene",
+            "Cómo es"
+          ],
+          "filas": [
+            [
+              "Pampero",
+              "Del sudoeste hacia el nordeste",
+              "Frío y seco. Suele traer tormentas"
+            ],
+            [
+              "Sudestada",
+              "Del sudeste, desde el Atlántico",
+              "Frío y húmedo. Trae llovizna persistente"
+            ],
+            [
+              "Zonda",
+              "Baja de la cordillera, en Cuyo",
+              "Cálido y seco, después de dejar la nieve en la montaña"
+            ]
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "**Pampero**: sudoeste, frío, seco, tormentas.\n\n**Sudestada**: sudeste, frío, húmedo, llovizna.\n\n**Zonda**: baja de los Andes, cálido y seco."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Pensalo así",
+          "texto": "Los tres nombres tienen una pista. La sudestada viene del _sudeste_. El pampero llega desde la _pampa_, en dirección al nordeste. El zonda baja de la _cordillera_."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿A qué viento corresponde cada descripción?",
+          "categorias": [
+            "Pampero",
+            "Sudestada",
+            "Zonda"
+          ],
+          "items": [
+            {
+              "texto": "Viene del sudoeste",
+              "cat": "Pampero"
+            },
+            {
+              "texto": "Trae llovizna persistente",
+              "cat": "Sudestada"
+            },
+            {
+              "texto": "Es cálido y seco",
+              "cat": "Zonda"
+            },
+            {
+              "texto": "Suele traer tormentas",
+              "cat": "Pampero"
+            },
+            {
+              "texto": "Viene del Atlántico, desde el sudeste",
+              "cat": "Sudestada"
+            },
+            {
+              "texto": "Baja de la cordillera en Cuyo",
+              "cat": "Zonda"
+            }
+          ],
+          "explicacion": "El pampero es frío y seco, la sudestada es fría y húmeda y el zonda es cálido y seco."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "🗣️ ¿Quién lo diría? (frase inventada) «Hace tres días que cae una llovizna fina y hace frío; el viento viene del Atlántico.»",
+          "opciones": [
+            "Alguien afectado por la sudestada",
+            "Alguien afectado por el zonda",
+            "Alguien afectado por el pampero",
+            "Nadie: eso no existe"
+          ],
+          "correcta": 0,
+          "explicacion": "La llovizna persistente, el frío y la humedad del Atlántico son rasgos de la sudestada.",
+          "pista": "Fijate qué viento es húmedo y viene del sudeste."
+        },
+        {
+          "t": "verificar",
+          "consigna": "¿Cómo se llama el viento cálido y seco que baja de la cordillera en Cuyo?",
+          "respuesta": "zonda",
+          "explicacion": "El zonda baja de la cordillera, cálido y seco, después de dejar su humedad en la montaña.",
+          "pista": "Mirá la tabla de los vientos locales.",
+          "formato": "Escribí solo el nombre del viento.",
+          "acepta": [
+            "zonda",
+            "el zonda"
+          ]
+        },
+        {
+          "t": "opcion",
+          "pregunta": "📰 Elegí el titular que describiría un día con pampero:",
+          "opciones": [
+            "Frío, aire seco y tormentas por la llegada del viento del sudoeste",
+            "Calor seco por el viento que baja de los Andes",
+            "Llovizna fina durante varios días desde el Atlántico",
+            "Cielo despejado y tiempo estable todo el mes"
+          ],
+          "correcta": 0,
+          "explicacion": "El pampero viene del sudoeste, es frío y seco y suele traer tormentas.",
+          "pista": "Buscá el viento que viene del sudoeste."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensalo antes de mirar: ¿cuál de los tres vientos aumenta la temperatura en lugar de bajarla?",
+          "respuesta": "El **zonda**: es cálido y seco. El pampero y la sudestada son fríos."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Compará el pampero, la sudestada y el zonda.",
+        "guia": [
+          "¿De dónde viene el pampero y cómo es?",
+          "¿De dónde viene la sudestada y cómo es?",
+          "¿De dónde viene el zonda y cómo es?",
+          "¿Cuál es cálido y cuáles son fríos?",
+          "¿Cuál trae llovizna persistente y cuál tormentas?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "pampero"
+            ],
+            "p": "el pampero"
+          },
+          {
+            "k": [
+              "sudoeste",
+              "suroeste"
+            ],
+            "p": "que el pampero viene del sudoeste"
+          },
+          {
+            "k": [
+              "tormenta"
+            ],
+            "p": "que trae tormentas"
+          },
+          {
+            "k": [
+              "sudestada"
+            ],
+            "p": "la sudestada"
+          },
+          {
+            "k": [
+              "sudeste",
+              "atlantico"
+            ],
+            "p": "que viene del sudeste"
+          },
+          {
+            "k": [
+              "llovizna",
+              "humed"
+            ],
+            "p": "que trae llovizna y humedad"
+          },
+          {
+            "k": [
+              "zonda"
+            ],
+            "p": "el zonda"
+          },
+          {
+            "k": [
+              "cordillera",
+              "cuyo"
+            ],
+            "p": "que baja de la cordillera en Cuyo"
+          },
+          {
+            "k": [
+              "calido"
+            ],
+            "p": "que el zonda es cálido"
+          }
+        ],
+        "referencia": "Pampero: viene del sudoeste, es frío y seco, trae tormentas. Sudestada: viene del sudeste, desde el Atlántico, es fría y húmeda, trae llovizna persistente. Zonda: baja de la cordillera en Cuyo, es cálido y seco.",
+        "minPalabras": 35
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El pampero viene del sudoeste.",
+          "respuesta": true,
+          "explicacion": "Va hacia el nordeste."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La sudestada es un viento cálido y seco.",
+          "respuesta": false,
+          "explicacion": "Es frío y húmedo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El zonda baja de la cordillera en Cuyo.",
+          "respuesta": true,
+          "explicacion": "Es cálido y seco."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La sudestada trae llovizna persistente.",
+          "respuesta": true,
+          "explicacion": "Viene del Atlántico, desde el sudeste."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El pampero es cálido y húmedo.",
+          "respuesta": false,
+          "explicacion": "Es frío y seco."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los vientos locales pueden hacer que la temperatura cambie de repente.",
+          "respuesta": true,
+          "explicacion": "Cada uno trae su propio tiempo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué viento viene del sudoeste, es frío y seco y trae tormentas?",
+          "opciones": [
+            "Pampero",
+            "Zonda",
+            "Sudestada",
+            "Monzón"
+          ],
+          "correcta": 0,
+          "explicacion": "El pampero."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿De dónde viene la sudestada?",
+          "opciones": [
+            "Del sudeste, desde el Atlántico",
+            "De la cordillera",
+            "Del norte",
+            "Del oeste"
+          ],
+          "correcta": 0,
+          "explicacion": "Del sudeste."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué viento es cálido y seco?",
+          "opciones": [
+            "Zonda",
+            "Pampero",
+            "Sudestada",
+            "Ninguno"
+          ],
+          "correcta": 0,
+          "explicacion": "El zonda."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué trae la sudestada?",
+          "opciones": [
+            "Llovizna persistente y frío",
+            "Calor seco",
+            "Cielo despejado",
+            "Nieve en la Pampa"
+          ],
+          "correcta": 0,
+          "explicacion": "Llovizna y frío."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Dónde sopla el zonda?",
+          "opciones": [
+            "En la zona de Cuyo, al bajar de la cordillera",
+            "En el litoral marítimo",
+            "En la Antártida",
+            "En la plataforma continental"
+          ],
+          "correcta": 0,
+          "explicacion": "En Cuyo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Hacia qué dirección va el pampero?",
+          "opciones": [
+            "Hacia el nordeste",
+            "Hacia el sudoeste",
+            "Hacia el oeste",
+            "No se mueve"
+          ],
+          "correcta": 0,
+          "explicacion": "Del sudoeste al nordeste."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "PAMPERO",
+          "pista": "Viento del sudoeste, frío y seco."
+        },
+        {
+          "palabra": "SUDESTADA",
+          "pista": "Viento del sudeste, frío y húmedo, con llovizna."
+        },
+        {
+          "palabra": "ZONDA",
+          "pista": "Viento cálido y seco que baja de la cordillera."
+        },
+        {
+          "palabra": "LLOVIZNA",
+          "pista": "Lluvia fina y persistente de la sudestada."
+        },
+        {
+          "palabra": "CUYO",
+          "pista": "Zona donde sopla el zonda."
+        },
+        {
+          "palabra": "TORMENTA",
+          "pista": "Fenómeno que suele traer el pampero."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué viento es cálido y seco?",
+          "opciones": [
+            "Zonda",
+            "Pampero",
+            "Sudestada",
+            "Ninguno"
+          ],
+          "correcta": 0,
+          "explicacion": "El zonda."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿De dónde viene el pampero?",
+          "opciones": [
+            "Del sudoeste",
+            "Del sudeste",
+            "Del norte",
+            "De la cordillera"
+          ],
+          "correcta": 0,
+          "explicacion": "Del sudoeste."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La sudestada es un viento húmedo.",
+          "respuesta": true,
+          "explicacion": "Y trae llovizna."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál trae llovizna persistente?",
+          "opciones": [
+            "La sudestada",
+            "El zonda",
+            "El pampero",
+            "Ninguno"
+          ],
+          "correcta": 0,
+          "explicacion": "La sudestada."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Vientos permanentes",
+      "definicion": "Los que soplan siempre en el mismo sentido general, producidos por los anticiclones."
+    },
+    {
+      "palabra": "Anticiclón del Atlántico",
+      "definicion": "Actúa al norte del río Colorado y descarga su humedad de este a oeste."
+    },
+    {
+      "palabra": "Anticiclón del Pacífico Sur",
+      "definicion": "Actúa al sur del Colorado y descarga su humedad en la cordillera."
+    },
+    {
+      "palabra": "Lluvias orográficas",
+      "definicion": "Las que se producen cuando una montaña obliga a subir al aire húmedo."
+    },
+    {
+      "palabra": "Pampero",
+      "definicion": "Viento del sudoeste, frío y seco, que suele traer tormentas."
+    },
+    {
+      "palabra": "Sudestada",
+      "definicion": "Viento del sudeste, frío y húmedo, con llovizna persistente."
+    },
+    {
+      "palabra": "Zonda",
+      "definicion": "Viento cálido y seco que baja de la cordillera en Cuyo."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "Los dos anticiclones actúan en las mismas zonas.",
+      "aclaracion": "El Atlántico actúa al norte del río Colorado y el Pacífico Sur, al sur."
+    },
+    {
+      "error": "En los dos lados de los Andes llueve lo mismo.",
+      "aclaracion": "El aire húmedo descarga sus lluvias al subir. En el lado oriental llega seco."
+    },
+    {
+      "error": "El zonda es un viento frío y húmedo.",
+      "aclaracion": "El zonda es cálido y seco. Los fríos son el pampero y la sudestada."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "Si el aire del Pacífico llega seco al otro lado de la cordillera, ¿qué tipo de paisaje esperarías encontrar allí? ¿Por qué?",
+    "conexion": "Con la clase de tiempo y clima: el relieve y la distancia al mar son factores que explican estas diferencias."
+  }
+}

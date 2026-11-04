@@ -59,11 +59,12 @@
     {
       "id": "geografia",
       "nombre": "Geografía",
-      "habilitado": false,
+      "habilitado": true,
       "modalidades": [
-        "orientada",
-        "tecnica"
-      ]
+        "orientada"
+      ],
+      "curso": 3,
+      "sinTP": true
     },
     {
       "id": "quimica",
@@ -423,6 +424,45 @@
           "Mensajes, correos y publicaciones",
           "Netiqueta y uso responsable",
           "Vocabulario de la tecnología"
+        ]
+      }
+    ],
+    "geografia": [
+      {
+        "id": "g1",
+        "eje": "Ambiente y territorio",
+        "titulo": "El litoral marítimo argentino",
+        "activo": true,
+        "clase": "geo-3-01",
+        "desglose": [
+          "La línea de costas marítimas: dónde empieza y dónde termina",
+          "Litoral pampeano y litoral patagónico",
+          "La plataforma continental"
+        ]
+      },
+      {
+        "id": "g2",
+        "eje": "Ambiente y territorio",
+        "titulo": "Tiempo y clima: elementos y factores",
+        "activo": true,
+        "clase": "geo-3-02",
+        "desglose": [
+          "Tiempo meteorológico y clima",
+          "Elementos del clima",
+          "Factores: latitud, altitud y continentalidad",
+          "Anticiclones y ciclones"
+        ]
+      },
+      {
+        "id": "g3",
+        "eje": "Ambiente y territorio",
+        "titulo": "Las precipitaciones y los fenómenos meteorológicos especiales",
+        "activo": true,
+        "clase": "geo-3-03",
+        "desglose": [
+          "Vientos permanentes y anticiclones que afectan al territorio",
+          "Lluvias orográficas",
+          "Vientos locales: pampero, sudestada y zonda"
         ]
       }
     ]

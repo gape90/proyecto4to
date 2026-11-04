@@ -18,6 +18,7 @@ export function contextoDeClase(clase) {
       // Consignas de las actividades (sin respuestas): para poder explicar las palabras que aparecen en ellas
       if (b.t === 'opcion') out.push(`Actividad (sin respuesta): ${b.pregunta} Opciones: ${b.opciones.join(' / ')}`);
       if (b.t === 'verificar' || b.t === 'clasificar' || b.t === 'ordenar') out.push(`Actividad (sin respuesta): ${b.consigna}`);
+      if (b.t === 'animacion') out.push(`Ilustración: ${b.titulo || ''}. ${b.leyenda || ''}`);
       if (b.t === 'revelar') out.push(`Pregunta para pensar: ${b.pregunta}`);
     }
     if (c.carpeta) out.push(`Consigna de la carpeta: ${c.carpeta.instruccion} Preguntas guía: ${(c.carpeta.guia || []).join(' ')}`);

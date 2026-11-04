@@ -22,7 +22,7 @@ export const AJUSTES = {
 };
 
 export const MODALIDADES = {
-  orientada: { nombre: 'Orientada', cursos: [1, 2, 3, 4, 5], habilitado: [4] },
+  orientada: { nombre: 'Orientada', cursos: [1, 2, 3, 4, 5], habilitado: [3, 4] },
   tecnica: { nombre: 'Técnica', cursos: [1, 2, 3, 4, 5, 6], habilitado: [5] },
 };
 

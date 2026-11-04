@@ -29,6 +29,7 @@ for (const c of contenidos) {
   catch { clases.push({ c, clase: null }); }
 }
 
+const sinTP = !!espacio.sinTP, simu = sinTP;
 let todoCompleto = true, html = '';
 const totalPartes = clases.reduce((n, x) => n + (x.clase?.capsulas.length || 0), 0);
 clases.forEach(({ c, clase }, i) => {
@@ -43,24 +44,24 @@ clases.forEach(({ c, clase }, i) => {
     <a class="btn" href="clase.html?c=${c.clase}">${p.pct === 100 ? 'Repasar' : p.hechas ? 'Seguir' : 'Empezar'}</a></div>`;
 });
 
-const tpAbierto = todoCompleto || AJUSTES.TP_LIBRE;
+const tpAbierto = !sinTP && (todoCompleto || AJUSTES.TP_LIBRE);
 // Autoevaluación general: cuando hay más de una clase, repasa todos los contenidos juntos y relacionados
-if (clases.length >= 2) {
+if (clases.length >= 2 || sinTP) {
   const abierta = todoCompleto || AJUSTES.TP_LIBRE;
   const mejor = e.repaso?.[e.espacio];
   html += `<div class="paso-rec repaso ${abierta ? '' : 'bloqueado'}">
     <div class="num">✅</div>
-    <div><h3>Autoevaluación general</h3>
-    <p>${abierta ? 'Repasá todos tus temas juntos, con preguntas que los relacionan entre sí. La podés hacer todas las veces que quieras.' : 'Se habilita cuando termines todas las clases de arriba.'}${mejor ? ` Tu mejor resultado: ${mejor.bien} de ${mejor.total}.` : ''}</p></div>
+    <div><h3>${simu ? 'Simulación de evaluación' : 'Autoevaluación general'}</h3>
+    <p>${abierta ? (simu ? 'Practicá como si fuera la evaluación: preguntas de todos los temas juntos, incluso las que los relacionan entre sí. La podés hacer todas las veces que quieras.' : 'Repasá todos tus temas juntos, con preguntas que los relacionan entre sí. La podés hacer todas las veces que quieras.') : 'Se habilita cuando termines todas las clases de arriba.'}${mejor ? ` Tu mejor resultado: ${mejor.bien} de ${mejor.total}.` : ''}</p></div>
     ${abierta ? `<a class="btn" href="repaso.html?e=${e.espacio}">${mejor ? 'Volver a hacerla' : 'Empezar'}</a>` : '<span class="ayuda">🔒</span>'}
   </div>`;
 }
 
-const secc = tpDe(e, e.espacio).secciones;
+const secc = sinTP ? {} : tpDe(e, e.espacio).secciones;
 const tpTotal = 8 + contenidos.length + (e.espacio === 'matematica' ? 1 : 0);
 const tpHechas = Object.entries(secc).filter(([k, s]) => k !== 'final' && (s.estado === 'ok' || s.estado === 'duda')).length;
 const tpEmpezado = Object.values(secc).some(s => s.texto || s.estado === 'ok');
-html += `<div class="paso-rec tp ${tpAbierto ? '' : 'bloqueado'}">
+if (!sinTP) html += `<div class="paso-rec tp ${tpAbierto ? '' : 'bloqueado'}">
   <div class="num">★</div>
   <div><h3>Mi trabajo práctico y la defensa</h3>
   <p>${tpAbierto ? 'Armás tu trabajo práctico completo, lo relacionás con la realidad y te preparás para presentarlo y defenderlo.' : 'Se habilita cuando termines todas las clases de arriba.'}</p>
@@ -74,17 +75,22 @@ const dudasHtml = dd.length ? `<div class="tarjeta lavanda"><h3>📌 Para llevar
   <ul>${dd.map(x => `<li>${esc(x.nombre)}</li>`).join('')}</ul></div>` : '';
 
 document.getElementById('cuerpo').innerHTML = `
-  <div class="clase-cab"><div class="eje-nombre">${esc(espacio.nombre)} · 4.º año</div>
+  <div class="clase-cab"><div class="eje-nombre">${esc(espacio.nombre)} · ${esc(e.alumno.curso || 4)}.º año</div>
   <h1>Hola, ${esc(e.alumno.nombre.split(' ')[0])}. Este es tu recorrido</h1>
-  <p>Completá las clases en orden. En cada parte de la clase aprendés, practicás y anotás en tu carpeta. Al final armás el trabajo práctico que vas a presentar y defender.</p></div>
+  <p>Completá las clases en orden. En cada parte de la clase aprendés, practicás y anotás en tu carpeta. ${sinTP ? 'Al final te preparás para la evaluación con una simulación que junta todos los temas.' : 'Al final armás el trabajo práctico que vas a presentar y defender.'}</p></div>
   <div class="tarjeta lavanda organiza"><h3>📅 Organizá tus tiempos</h3>
-    <p>Este recorrido te prepara para presentarte en las instancias de examen de febrero: vas a aprender los temas que te faltan, practicarlos y armar el trabajo práctico que vas a presentar y defender. Tenés tiempo desde diciembre, pero no lo dejes para último momento: <b>es muy importante que organices tus tiempos</b>.</p>
+    ${sinTP ? `<p>Este recorrido te ayuda a <b>estudiar para la evaluación</b>: aprendés los temas de a poco, los practicás con actividades y juegos, y al final hacés una simulación de la evaluación.</p>
+    <ul>
+      <li>Tenés <b>${clases.length} clase${clases.length > 1 ? 's' : ''}</b> con <b>${totalPartes} partes</b> en total. Cada parte lleva entre 30 y 40 minutos.</li>
+      <li>Si hacés <b>una parte por día</b>, terminás en <b>${totalPartes} días</b>. Dejá un día para la simulación de la evaluación.</li>
+      <li>Trabajá en un lugar tranquilo, con tu carpeta a mano, y anotá tus dudas para preguntarlas en clase.</li>
+    </ul>` : `<p>Este recorrido te prepara para presentarte en las instancias de examen de febrero: vas a aprender los temas que te faltan, practicarlos y armar el trabajo práctico que vas a presentar y defender. Tenés tiempo desde diciembre, pero no lo dejes para último momento: <b>es muy importante que organices tus tiempos</b>.</p>
     <ul>
       <li>Tenés <b>${clases.length} clase${clases.length > 1 ? 's' : ''}</b> con <b>${totalPartes} partes</b> en total. Cada parte lleva entre 30 y 45 minutos.</li>
       <li>Si hacés <b>una parte por día, cinco días por semana</b>, terminás las clases en unas <b>${Math.max(1, Math.ceil(totalPartes / 5))} semana${Math.ceil(totalPartes / 5) > 1 ? 's' : ''}</b>.</li>
       <li>Dejá las últimas semanas antes de febrero para el trabajo práctico y para prepararte para defenderlo.</li>
       <li>Trabajá en un lugar tranquilo, con tu carpeta a mano, y anotá tus dudas para las clases de consulta.</li>
-    </ul></div>
+    </ul>`}</div>
   <div class="recorrido">${html}</div>
   <div style="margin-top:24px">${dudasHtml}</div>
 `;

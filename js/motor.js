@@ -1,6 +1,7 @@
 // TUTORÍAS VIRTUALES · motor de cápsulas
 // Cada cápsula: enseña, hace practicar, pide registrar en la carpeta (primero en pantalla con aprobación, después en papel)
 // y, al terminar, habilita los juegos de práctica. Nada se envía al docente.
+import { ANIMACIONES } from './animaciones.js';
 import { leer, guardar, capsula, capHecha, progresoClase, esc, md, norm, consignaHTML, referenciaEscritura, plano } from './estado.js';
 import { corregir, hayIA, pedirClave } from './ia.js';
 import { AJUSTES } from './config.js';
@@ -72,7 +73,7 @@ export function montarClase(root, clase) {
       ${cap.recordas && est.recuerdo ? `<details class="recuerdo-previo"><summary>🧠 Lo que recordabas al empezar</summary><p>${esc(est.recuerdo)}</p></details>` : ''}
       <div class="bloques"></div>
       <div class="carpeta-zona"></div></div>
-      <div class="juegos-zona"></div><div class="nav-zona"></div>`;
+      <div class="juegos-zona"></div><div class="minitest-zona"></div><div class="nav-zona"></div>`;
     const bh = host.querySelector('.bloques');
     const interactivos = [];
     (cap.bloques || []).forEach((b, k) => {
@@ -98,6 +99,13 @@ export function montarClase(root, clase) {
       const e2 = leer();
       const hecha = capHecha(e2, clase.id, cap.id);
       juegosUI(host.querySelector('.juegos-zona'), cap, i, hecha);
+      const mt = host.querySelector('.minitest-zona');
+      if (clase.mini_test && hecha && (cap.autoevaluacion || []).length) {
+        if (!mt.firstChild) {
+          mt.className = 'minitest-zona tarjeta no-print';
+          montarAutoevaluacion(mt, cap.autoevaluacion.map(q => ({ ...q, parte: cap.titulo })), { titulo: 'Mini test de esta parte', intro: 'Comprobá si te quedó claro lo que acabás de estudiar. No tiene nota y lo podés repetir todas las veces que quieras.' });
+        }
+      } else { mt.innerHTML = ''; mt.className = 'minitest-zona'; }
       const nav = host.querySelector('.nav-zona');
       if (hecha) {
         const ult = i === clase.capsulas.length - 1;
@@ -276,6 +284,16 @@ export function renderBloque(w, b, { resuelto, marcar }) {
     case 'texto': w.innerHTML = (b.titulo ? `<h3>${esc(b.titulo)}</h3>` : '') + parr(b.texto); return false;
     case 'destacado': w.innerHTML = `<div class="destacado"><h4>${esc(b.titulo || 'Para recordar')}</h4>${parr(b.texto)}</div>`; return false;
     case 'ejemplo': w.innerHTML = `<div class="ejemplo"><h4 style="margin:0 0 4px">${esc(b.titulo || 'Ejemplo')}</h4>${parr(b.texto)}</div>`; return false;
+    case 'animacion': {
+      const dibujar = () => {
+        const f = ANIMACIONES[b.nombre];
+        w.innerHTML = `<figure class="anim"><div class="anim-cab"><b>${esc(b.titulo || 'Ilustración')}</b><button type="button" class="btn chico suave anim-otra" aria-label="Ver la animación otra vez">↻ Ver otra vez</button></div>
+          <div class="anim-lienzo" role="img" aria-label="${esc(b.alt || b.titulo || 'Ilustración animada')}">${f ? f() : ''}</div>
+          ${b.leyenda ? `<figcaption>${md(b.leyenda)}</figcaption>` : ''}</figure>`;
+        w.querySelector('.anim-otra').onclick = dibujar;
+      };
+      dibujar(); return false;
+    }
     case 'dato': w.innerHTML = `<div class="dato"><span class="ic">💡</span><div><b>${esc(b.titulo || 'Dato curioso')}</b><br>${md(b.texto)}</div></div>`; return false;
     case 'cita': w.innerHTML = `<div class="cita"><div class="etq">${esc(b.etiqueta || 'Fuente')}</div><blockquote>“${md(b.texto)}”</blockquote><cite>${md(b.autor || '')}${b.contexto ? ' · ' + md(b.contexto) : ''}</cite></div>`; return false;
     case 'ecuacion': w.innerHTML = `${b.titulo ? `<div class="etq">${esc(b.titulo)}</div>` : ''}<div class="ecuacion">${esc(b.formula)}</div>${b.texto ? `<p class="ayuda">${md(b.texto)}</p>` : ''}`; return false;

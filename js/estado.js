@@ -51,7 +51,7 @@ export function tpDe(e, espacio) {
 }
 export function dudas(e) {
   const out = [];
-  const pref = { matematica: 'mat-', historia: 'his-', lengua: 'len-', 'lengua-extranjera': 'ing-' }[e.espacio] || '';
+  const pref = { matematica: 'mat-', historia: 'his-', lengua: 'len-', 'lengua-extranjera': 'ing-', geografia: 'geo-' }[e.espacio] || '';
   for (const [cid, cl] of Object.entries(e.clases)) if (cid.startsWith(pref))
     for (const [kid, c] of Object.entries(cl.caps))
       if (c.estado === 'duda') out.push({ clase: cid, cap: kid, nombre: c.titulo || kid, texto: '' });

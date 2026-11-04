@@ -1,0 +1,1154 @@
+{
+  "id": "geo-3-01",
+  "espacio": "geografia",
+  "eje": "Ambiente y territorio",
+  "titulo": "El litoral marítimo argentino",
+  "mini_test": true,
+  "intro": "La Argentina tiene una costa muy larga sobre el Océano Atlántico. Vas a ubicar dónde empieza y dónde termina, comparar sus dos tipos de costa y entender qué es la plataforma continental.",
+  "objetivos": [
+    "Ubicar el comienzo y el final del litoral marítimo argentino y su longitud.",
+    "Comparar el litoral pampeano y el litoral patagónico.",
+    "Explicar qué es la plataforma continental y reconocer sus datos principales."
+  ],
+  "tp_aporte": "Para la evaluación ya tenés: la ubicación y la longitud del litoral marítimo, las diferencias entre la costa pampeana y la patagónica y los datos de la plataforma continental.",
+  "capsulas": [
+    {
+      "id": "geo-3-01-1",
+      "titulo": "La línea de costa argentina",
+      "tiempo": "30 a 40 min",
+      "recordas": "¿Dónde termina la Argentina por el este? ¿Con qué mar o con qué océano limita?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Dónde empieza y dónde termina el litoral marítimo",
+          "texto": "El **litoral marítimo** es la franja donde el territorio argentino se encuentra con el mar. Por el este, la Argentina limita con el **Océano Atlántico**.\n\nLa línea de costa empieza en **Punta Rasa** (cabo San Antonio), en la provincia de **Buenos Aires**, y termina en la **Isla Grande de Tierra del Fuego**."
+        },
+        {
+          "t": "animacion",
+          "nombre": "costa",
+          "titulo": "Una costa de norte a sur",
+          "alt": "Esquema de la Argentina con la línea de costa marítima que va de Punta Rasa hasta la Isla Grande de Tierra del Fuego",
+          "leyenda": "La línea roja se dibuja de norte a sur, de Punta Rasa a Tierra del Fuego. Es un esquema: no está a escala."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "**Punta Rasa** (cabo San Antonio, Buenos Aires) es el comienzo del litoral marítimo. La **Isla Grande de Tierra del Fuego** es el final. En el medio hay **más de 4.000 km** de costa."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Pensalo así",
+          "texto": "Imaginá que recorrés el borde del mapa con el dedo, empezando en Buenos Aires y bajando hacia el sur. Todo el tiempo tenés el mar a tu izquierda. Ese recorrido es el litoral marítimo."
+        },
+        {
+          "t": "dato",
+          "titulo": "Si se suma el sector antártico",
+          "texto": "La longitud de la costa es de más de 4.000 km. Si se cuenta también el **sector antártico argentino**, llega a unos **16.000 km**."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Dónde comienza el litoral marítimo argentino?",
+          "opciones": [
+            "En Punta Rasa (cabo San Antonio), en Buenos Aires",
+            "En la Isla Grande de Tierra del Fuego",
+            "En el río Colorado",
+            "En la cordillera de los Andes"
+          ],
+          "correcta": 0,
+          "explicacion": "Comienza en Punta Rasa, en la provincia de Buenos Aires, y sigue hacia el sur.",
+          "pista": "Mirá el punto azul de arriba en la ilustración."
+        },
+        {
+          "t": "verificar",
+          "consigna": "¿Cuántos kilómetros de costa tiene, como mínimo, el litoral marítimo argentino sin contar el sector antártico?",
+          "respuesta": "4000",
+          "explicacion": "La costa tiene más de 4.000 km, de Punta Rasa a Tierra del Fuego.",
+          "pista": "Está en el recuadro «Para recordar».",
+          "formato": "Escribí solo el número, con cifras.",
+          "acepta": [
+            "4000",
+            "4.000",
+            "4 000",
+            "cuatro mil"
+          ],
+          "tolerancia": 0
+        },
+        {
+          "t": "opcion",
+          "pregunta": "🔍 Encontrá el error. Una de estas frases es falsa. ¿Cuál?",
+          "opciones": [
+            "La costa argentina da al Océano Atlántico.",
+            "La costa termina en la Isla Grande de Tierra del Fuego.",
+            "La costa empieza en Punta Rasa, en Buenos Aires.",
+            "La costa argentina da al Océano Pacífico."
+          ],
+          "correcta": 3,
+          "explicacion": "El error es que la costa argentina da al Pacífico: el litoral marítimo está sobre el Atlántico. El Pacífico queda del otro lado de la cordillera, en Chile.",
+          "pista": "Pensá en qué lado del continente queda el litoral que estamos estudiando."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿A qué medida corresponde cada dato?",
+          "categorias": [
+            "Costa sin el sector antártico",
+            "Costa con el sector antártico"
+          ],
+          "items": [
+            {
+              "texto": "Más de 4.000 km",
+              "cat": "Costa sin el sector antártico"
+            },
+            {
+              "texto": "Alrededor de 16.000 km",
+              "cat": "Costa con el sector antártico"
+            },
+            {
+              "texto": "De Punta Rasa a Tierra del Fuego",
+              "cat": "Costa sin el sector antártico"
+            },
+            {
+              "texto": "Incluye el sector antártico argentino",
+              "cat": "Costa con el sector antártico"
+            }
+          ],
+          "explicacion": "La costa «de Punta Rasa a Tierra del Fuego» mide más de 4.000 km. Al sumar el sector antártico, la longitud llega a unos 16.000 km."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensalo antes de mirar: si la costa va de norte a sur, ¿con qué punto cardinal limita el país por esa costa?",
+          "respuesta": "Con el **este**: el Océano Atlántico queda al este del territorio continental argentino."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá dónde empieza y dónde termina el litoral marítimo argentino y cuánto mide.",
+        "guia": [
+          "¿Con qué océano limita la Argentina por el este?",
+          "¿En qué lugar empieza la línea de costa?",
+          "¿En qué lugar termina?",
+          "¿Cuántos kilómetros mide, sin el sector antártico?",
+          "¿Y cuántos si se cuenta el sector antártico?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "atlantico"
+            ],
+            "p": "el océano con el que limita (Atlántico)"
+          },
+          {
+            "k": [
+              "punta rasa",
+              "san antonio"
+            ],
+            "p": "dónde empieza (Punta Rasa)"
+          },
+          {
+            "k": [
+              "tierra del fuego"
+            ],
+            "p": "dónde termina (Tierra del Fuego)"
+          },
+          {
+            "k": [
+              "4000",
+              "4.000",
+              "cuatro mil"
+            ],
+            "p": "la longitud (más de 4.000 km)"
+          },
+          {
+            "k": [
+              "16000",
+              "16.000",
+              "antartic"
+            ],
+            "p": "la medida con el sector antártico"
+          }
+        ],
+        "referencia": "El litoral marítimo argentino da al Océano Atlántico. Empieza en Punta Rasa (cabo San Antonio, Buenos Aires) y termina en la Isla Grande de Tierra del Fuego. Mide más de 4.000 km; con el sector antártico, unos 16.000 km.",
+        "minPalabras": 25
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El litoral marítimo argentino da al Océano Atlántico.",
+          "respuesta": true,
+          "explicacion": "Está en el este del país."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La costa empieza en la Isla Grande de Tierra del Fuego.",
+          "respuesta": false,
+          "explicacion": "Ahí termina. Empieza en Punta Rasa."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Punta Rasa también se conoce como cabo San Antonio.",
+          "respuesta": true,
+          "explicacion": "Está en la provincia de Buenos Aires."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La costa mide más de 4.000 km.",
+          "respuesta": true,
+          "explicacion": "Sin contar el sector antártico."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con el sector antártico, la longitud ronda los 16.000 km.",
+          "respuesta": true,
+          "explicacion": "Al sumar ese sector, la medida crece mucho."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El litoral marítimo argentino da al Océano Pacífico.",
+          "respuesta": false,
+          "explicacion": "Da al Atlántico."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Dónde comienza la línea de costa argentina?",
+          "opciones": [
+            "Punta Rasa (cabo San Antonio)",
+            "Ushuaia",
+            "Mar del Plata",
+            "El río Colorado"
+          ],
+          "correcta": 0,
+          "explicacion": "Empieza en Punta Rasa, en Buenos Aires."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Dónde termina?",
+          "opciones": [
+            "En la Isla Grande de Tierra del Fuego",
+            "En Punta Rasa",
+            "En el río de la Plata",
+            "En Chile"
+          ],
+          "correcta": 0,
+          "explicacion": "Termina en el extremo sur."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Con qué océano limita la Argentina por el este?",
+          "opciones": [
+            "Atlántico",
+            "Pacífico",
+            "Índico",
+            "Ártico"
+          ],
+          "correcta": 0,
+          "explicacion": "Es el Atlántico."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuánto mide la costa sin el sector antártico?",
+          "opciones": [
+            "Más de 4.000 km",
+            "Unos 400 km",
+            "Unos 40.000 km",
+            "Menos de 1.000 km"
+          ],
+          "correcta": 0,
+          "explicacion": "Más de 4.000 km."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuánto llega a medir si se suma el sector antártico?",
+          "opciones": [
+            "Unos 16.000 km",
+            "Unos 1.600 km",
+            "Unos 6.000 km",
+            "Unos 160 km"
+          ],
+          "correcta": 0,
+          "explicacion": "Alrededor de 16.000 km."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué provincia está Punta Rasa?",
+          "opciones": [
+            "Buenos Aires",
+            "Chubut",
+            "Santa Cruz",
+            "Río Negro"
+          ],
+          "correcta": 0,
+          "explicacion": "Está en Buenos Aires."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "LITORAL",
+          "pista": "Franja donde la tierra se encuentra con el mar."
+        },
+        {
+          "palabra": "ATLÁNTICO",
+          "pista": "Océano con el que limita la Argentina por el este."
+        },
+        {
+          "palabra": "COSTA",
+          "pista": "Línea donde termina la tierra y empieza el mar."
+        },
+        {
+          "palabra": "PUNTA RASA",
+          "pista": "Lugar donde empieza el litoral marítimo argentino."
+        },
+        {
+          "palabra": "TIERRA DEL FUEGO",
+          "pista": "Isla donde termina el litoral marítimo."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Dónde empieza el litoral marítimo argentino?",
+          "opciones": [
+            "En Punta Rasa (cabo San Antonio)",
+            "En Tierra del Fuego",
+            "En la Antártida",
+            "En el río Colorado"
+          ],
+          "correcta": 0,
+          "explicacion": "El comienzo es Punta Rasa, en Buenos Aires."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la longitud de la costa, sin contar el sector antártico?",
+          "opciones": [
+            "Más de 4.000 km",
+            "Unos 16.000 km",
+            "Unos 400 km",
+            "Unos 1.000 km"
+          ],
+          "correcta": 0,
+          "explicacion": "Con el sector antártico llega a unos 16.000 km."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El litoral marítimo argentino está sobre el Océano Pacífico.",
+          "respuesta": false,
+          "explicacion": "Está sobre el Atlántico."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Dónde termina la línea de costa?",
+          "opciones": [
+            "En la Isla Grande de Tierra del Fuego",
+            "En Punta Rasa",
+            "En Mar del Plata",
+            "En Bahía Blanca"
+          ],
+          "correcta": 0,
+          "explicacion": "Termina en el extremo sur del país."
+        }
+      ]
+    },
+    {
+      "id": "geo-3-01-2",
+      "titulo": "Costa pampeana y costa patagónica",
+      "tiempo": "30 a 40 min",
+      "recordas": "Pensá en una playa que conozcas o que hayas visto en fotos. ¿Es de arena y con pendiente suave, o tiene barrancas altas?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Dos tipos de costa",
+          "texto": "La costa argentina no es igual en todo su recorrido. Se distinguen dos grandes partes: el **litoral pampeano**, en el norte, y el **litoral patagónico**, en el sur.\n\nEn el cuadro de abajo las vas a poder comparar."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Las dos costas",
+          "columnas": [
+            "Aspecto",
+            "Litoral pampeano",
+            "Litoral patagónico"
+          ],
+          "filas": [
+            [
+              "Altura de la costa",
+              "Baja",
+              "Alta, con acantilados"
+            ],
+            [
+              "Pendiente",
+              "Suave: las playas suben despacio",
+              "Pronunciada: la costa cae de golpe al mar"
+            ],
+            [
+              "Qué se ve",
+              "Dunas de arena de origen marino",
+              "Acantilados de altura variable"
+            ],
+            [
+              "Rocas",
+              "Arena y dunas",
+              "Rocas blandas, que el agua desgasta"
+            ],
+            [
+              "Excepción",
+              "En algunos sectores de Buenos Aires hay más relieve",
+              "La amplitud de las mareas varía a lo largo de la costa"
+            ]
+          ]
+        },
+        {
+          "t": "animacion",
+          "nombre": "costas",
+          "titulo": "Cómo se ven las dos costas de costado",
+          "alt": "Perfil de dos costas: la pampeana con playas de pendiente suave y dunas, y la patagónica con acantilados",
+          "leyenda": "Arriba, la costa pampeana, baja y con dunas. Abajo, la patagónica, con acantilados que el mar va desgastando."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "**Pampeano** = costa baja, dunas y playas suaves.\n\n**Patagónico** = costa alta, acantilados y pendiente fuerte. Sus rocas son blandas y el mar las **erosiona**, sobre todo con las **mareas**."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Pensalo así",
+          "texto": "Pensá en una escalera. La costa pampeana es como una rampa larga y suave. La patagónica es como un escalón alto y recto, con el mar pegado a la pared."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "🗣️ ¿Quién lo diría? (frase inventada) «Desde acá arriba veo el mar al pie de una pared de roca.»",
+          "opciones": [
+            "Alguien en el litoral patagónico",
+            "Alguien en el litoral pampeano",
+            "Alguien en la cordillera",
+            "Alguien en Tierra del Fuego únicamente"
+          ],
+          "correcta": 0,
+          "explicacion": "Las paredes de roca que caen al mar son acantilados, típicos del litoral patagónico.",
+          "pista": "Buscá en el cuadro qué costa tiene acantilados."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿A qué costa corresponde cada rasgo?",
+          "categorias": [
+            "Litoral pampeano",
+            "Litoral patagónico"
+          ],
+          "items": [
+            {
+              "texto": "Dunas de arena de origen marino",
+              "cat": "Litoral pampeano"
+            },
+            {
+              "texto": "Acantilados",
+              "cat": "Litoral patagónico"
+            },
+            {
+              "texto": "Costa baja",
+              "cat": "Litoral pampeano"
+            },
+            {
+              "texto": "Pendiente pronunciada",
+              "cat": "Litoral patagónico"
+            },
+            {
+              "texto": "Playas de pendiente suave",
+              "cat": "Litoral pampeano"
+            },
+            {
+              "texto": "Rocas blandas desgastadas por el mar",
+              "cat": "Litoral patagónico"
+            }
+          ],
+          "explicacion": "El litoral pampeano es bajo, con dunas y playas suaves. El patagónico es alto, con acantilados y rocas blandas que el mar erosiona."
+        },
+        {
+          "t": "verificar",
+          "consigna": "¿Cómo se llama la forma de costa alta y vertical que predomina en el litoral patagónico?",
+          "respuesta": "acantilado",
+          "explicacion": "Los acantilados son paredes de roca que caen al mar.",
+          "pista": "Está en el cuadro, en la fila «Qué se ve».",
+          "formato": "Escribí una sola palabra.",
+          "acepta": [
+            "acantilado",
+            "acantilados",
+            "los acantilados"
+          ]
+        },
+        {
+          "t": "opcion",
+          "pregunta": "📰 Elegí el titular que describiría una playa del litoral pampeano:",
+          "opciones": [
+            "Dunas y playas de suave pendiente junto al mar",
+            "Acantilados de roca blanda frente a las olas",
+            "Montañas que bajan hasta la orilla",
+            "Un glaciar llega al mar"
+          ],
+          "correcta": 0,
+          "explicacion": "El litoral pampeano es bajo, de dunas y playas con pendiente suave.",
+          "pista": "Pensá qué costa es baja y de arena."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "🔍 Encontrá el error. ¿Qué frase es falsa?",
+          "opciones": [
+            "El litoral patagónico tiene acantilados.",
+            "Las dunas del litoral pampeano son de origen marino.",
+            "El mar erosiona las rocas blandas del litoral patagónico.",
+            "El litoral pampeano tiene acantilados de pendiente pronunciada."
+          ],
+          "correcta": 3,
+          "explicacion": "El error es la última: los acantilados son del litoral patagónico, no del pampeano.",
+          "pista": "Releé qué costa tiene dunas."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensalo antes de mirar: ¿por qué un acantilado de roca blanda cambia con el tiempo y una duna también?",
+          "respuesta": "Porque el mar y las mareas **desgastan** las rocas blandas del acantilado, mientras que las dunas se forman con arena de origen marino. En los dos casos el mar participa en la forma de la costa."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Compará el litoral pampeano y el litoral patagónico.",
+        "guia": [
+          "¿Cómo es la altura de cada costa?",
+          "¿Qué pendiente tiene cada una?",
+          "¿Qué se ve en cada una: dunas o acantilados?",
+          "¿Qué rocas tiene la costa patagónica y qué las desgasta?",
+          "¿Hay alguna excepción en la costa pampeana?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "baja",
+              "dunas",
+              "arena"
+            ],
+            "p": "el litoral pampeano (bajo, con dunas)"
+          },
+          {
+            "k": [
+              "acantilado",
+              "alta"
+            ],
+            "p": "el litoral patagónico (alto, con acantilados)"
+          },
+          {
+            "k": [
+              "suave"
+            ],
+            "p": "la pendiente suave del pampeano"
+          },
+          {
+            "k": [
+              "pronunciada",
+              "empinada",
+              "abrupta"
+            ],
+            "p": "la pendiente pronunciada del patagónico"
+          },
+          {
+            "k": [
+              "blanda",
+              "erosi",
+              "marea"
+            ],
+            "p": "las rocas blandas y la erosión del mar"
+          },
+          {
+            "k": [
+              "relieve",
+              "buenos aires"
+            ],
+            "p": "el sector con más relieve en Buenos Aires"
+          }
+        ],
+        "referencia": "Pampeano: costa baja, dunas de arena de origen marino, playas de pendiente suave, con algo más de relieve en sectores de Buenos Aires. Patagónico: costa alta, acantilados, pendiente pronunciada, rocas blandas erosionadas por el mar y las mareas.",
+        "minPalabras": 40
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El litoral pampeano es bajo y tiene dunas.",
+          "respuesta": true,
+          "explicacion": "Son de arena de origen marino."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los acantilados son típicos del litoral pampeano.",
+          "respuesta": false,
+          "explicacion": "Son típicos del patagónico."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Las playas del litoral pampeano tienen pendiente suave.",
+          "respuesta": true,
+          "explicacion": "Suben despacio desde el mar."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Las rocas del litoral patagónico son blandas.",
+          "respuesta": true,
+          "explicacion": "Por eso el mar las desgasta."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Las mareas no influyen en la costa patagónica.",
+          "respuesta": false,
+          "explicacion": "Las mareas son parte de lo que erosiona sus acantilados."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En algunos sectores de Buenos Aires la costa pampeana tiene más relieve.",
+          "respuesta": true,
+          "explicacion": "Es una excepción dentro del litoral pampeano."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué costa tiene acantilados?",
+          "opciones": [
+            "Patagónica",
+            "Pampeana",
+            "Las dos por igual",
+            "Ninguna"
+          ],
+          "correcta": 0,
+          "explicacion": "Los acantilados son del litoral patagónico."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿De qué origen son las dunas del litoral pampeano?",
+          "opciones": [
+            "Marino",
+            "Volcánico",
+            "Glaciar",
+            "Del viento de la cordillera"
+          ],
+          "correcta": 0,
+          "explicacion": "Se formaron con arena de origen marino."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo es la pendiente del litoral patagónico?",
+          "opciones": [
+            "Pronunciada",
+            "Suave",
+            "Siempre plana",
+            "No tiene pendiente"
+          ],
+          "correcta": 0,
+          "explicacion": "Cae de golpe al mar."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué desgasta las rocas blandas de la costa patagónica?",
+          "opciones": [
+            "Las aguas marinas, especialmente las mareas",
+            "La nieve",
+            "El viento del norte",
+            "Los ríos de la llanura"
+          ],
+          "correcta": 0,
+          "explicacion": "El mar, sobre todo con las mareas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo es la altura del litoral pampeano?",
+          "opciones": [
+            "Baja",
+            "Muy alta",
+            "Igual al patagónico",
+            "Montañosa"
+          ],
+          "correcta": 0,
+          "explicacion": "Es una costa baja."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estos rasgos es del litoral patagónico?",
+          "opciones": [
+            "Altura variable",
+            "Dunas de arena",
+            "Playas de pendiente suave",
+            "Costa siempre baja"
+          ],
+          "correcta": 0,
+          "explicacion": "Sus acantilados tienen altura variable."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "PAMPEANO",
+          "pista": "Litoral bajo con dunas y playas suaves."
+        },
+        {
+          "palabra": "PATAGÓNICO",
+          "pista": "Litoral alto con acantilados."
+        },
+        {
+          "palabra": "ACANTILADO",
+          "pista": "Pared de roca que cae al mar."
+        },
+        {
+          "palabra": "DUNA",
+          "pista": "Montículo de arena de origen marino."
+        },
+        {
+          "palabra": "MAREA",
+          "pista": "Subida y bajada del mar que desgasta la costa patagónica."
+        },
+        {
+          "palabra": "EROSIÓN",
+          "pista": "Desgaste de las rocas por el agua."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es una característica del litoral pampeano?",
+          "opciones": [
+            "Dunas y playas de pendiente suave",
+            "Acantilados altos",
+            "Rocas blandas erosionadas por el mar",
+            "Pendiente pronunciada"
+          ],
+          "correcta": 0,
+          "explicacion": "El pampeano es bajo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué forma el mar en el litoral patagónico?",
+          "opciones": [
+            "Acantilados, al desgastar rocas blandas",
+            "Dunas de arena",
+            "Montañas nevadas",
+            "Llanuras fluviales"
+          ],
+          "correcta": 0,
+          "explicacion": "Con la erosión, el mar forma acantilados."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La pendiente del litoral patagónico es suave.",
+          "respuesta": false,
+          "explicacion": "Es pronunciada."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué opción describe mejor la costa patagónica?",
+          "opciones": [
+            "Alta, de acantilados y pendiente fuerte",
+            "Baja, de dunas",
+            "Siempre de arena",
+            "Sin relieve"
+          ],
+          "correcta": 0,
+          "explicacion": "Alta, con acantilados."
+        }
+      ]
+    },
+    {
+      "id": "geo-3-01-3",
+      "titulo": "La plataforma continental",
+      "tiempo": "30 a 40 min",
+      "recordas": "Cuando entrás al mar desde la playa, ¿el fondo baja de golpe o poco a poco? ¿Hasta dónde creés que sigue el continente bajo el agua?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "El continente sigue bajo el agua",
+          "texto": "Debajo del mar, el fondo no cae de golpe. El continente sigue un buen tramo bajo el agua, con muy poca profundidad. Esa zona es la **plataforma continental**.\n\nEn la Argentina, la plataforma continental está cubierta por el **Mar Argentino**."
+        },
+        {
+          "t": "animacion",
+          "nombre": "plataforma",
+          "titulo": "La plataforma continental vista de costado",
+          "alt": "Corte del fondo marino: la plataforma continental es el fondo marino que continúa al continente, de unos 200 metros de profundidad",
+          "leyenda": "Es un corte de costado, no está a escala. La línea roja marca la plataforma continental, de unos 200 m de profundidad."
+        },
+        {
+          "t": "pasos",
+          "titulo": "Los datos de la plataforma, uno por uno",
+          "pasos": [
+            {
+              "titulo": "Profundidad",
+              "texto": "Tiene unos **200 metros** de profundidad."
+            },
+            {
+              "titulo": "Superficie",
+              "texto": "Ocupa más de **1.000.000 km²**."
+            },
+            {
+              "titulo": "Ancho",
+              "texto": "Hacia el sur llega a medir hasta **850 km** de ancho."
+            },
+            {
+              "titulo": "Islas",
+              "texto": "Incluye las islas **Malvinas**."
+            },
+            {
+              "titulo": "Mar",
+              "texto": "Sobre ella se extiende el **Mar Argentino**."
+            }
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "**Plataforma continental**: unos 200 m de profundidad, más de 1.000.000 km², hasta 850 km de ancho en el sur. Incluye las islas Malvinas y el Mar Argentino se extiende sobre ella."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Pensalo así",
+          "texto": "Pensá en una mesada baja que sale de la costa hacia el mar. Es larga y casi plana. Esa mesada es la plataforma, y el agua del Mar Argentino la cubre."
+        },
+        {
+          "t": "verificar",
+          "consigna": "¿Cuántos metros de profundidad tiene aproximadamente la plataforma continental argentina?",
+          "respuesta": "200",
+          "explicacion": "La plataforma tiene unos 200 m de profundidad.",
+          "pista": "Buscalo en el recuadro «Para recordar».",
+          "formato": "Escribí solo el número, con cifras.",
+          "acepta": [
+            "200",
+            "200 m",
+            "doscientos"
+          ],
+          "tolerancia": 0
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Cómo se llama el mar que se extiende sobre la plataforma continental argentina?",
+          "opciones": [
+            "Mar Argentino",
+            "Mar Caribe",
+            "Mar Mediterráneo",
+            "Mar Antártico"
+          ],
+          "correcta": 0,
+          "explicacion": "El Mar Argentino se extiende sobre la plataforma.",
+          "pista": "Fijate en la ilustración, en la parte azul."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "📰 Elegí el titular que daría una noticia correcta sobre la plataforma continental:",
+          "opciones": [
+            "La plataforma continental argentina ocupa más de un millón de km² y llega a 850 km de ancho en el sur",
+            "La plataforma continental argentina tiene 5.000 m de profundidad",
+            "La plataforma continental argentina termina en Punta Rasa",
+            "La plataforma continental argentina está cubierta por el Océano Pacífico"
+          ],
+          "correcta": 0,
+          "explicacion": "El titular correcto usa datos de la clase: más de 1.000.000 km² y hasta 850 km de ancho en el sur.",
+          "pista": "Compará cada titular con el recuadro «Para recordar»."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Qué dato describe a la plataforma continental y cuál no?",
+          "categorias": [
+            "Describe la plataforma",
+            "No la describe"
+          ],
+          "items": [
+            {
+              "texto": "Unos 200 m de profundidad",
+              "cat": "Describe la plataforma"
+            },
+            {
+              "texto": "Incluye las islas Malvinas",
+              "cat": "Describe la plataforma"
+            },
+            {
+              "texto": "Hasta 850 km de ancho en el sur",
+              "cat": "Describe la plataforma"
+            },
+            {
+              "texto": "Es una cadena de montañas",
+              "cat": "No la describe"
+            },
+            {
+              "texto": "Queda siempre a 5.000 m de profundidad",
+              "cat": "No la describe"
+            }
+          ],
+          "explicacion": "La plataforma es poco profunda, ancha en el sur e incluye las Malvinas. No es una montaña ni está a miles de metros de profundidad."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensalo antes de mirar: ¿en qué zona del país es más ancha la plataforma?",
+          "respuesta": "En el **sur**: ahí llega a medir hasta **850 km** de ancho."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué es la plataforma continental argentina y cuáles son sus datos principales.",
+        "guia": [
+          "¿Qué es la plataforma continental?",
+          "¿Qué profundidad tiene?",
+          "¿Cuántos km² ocupa?",
+          "¿Hasta cuántos km de ancho llega en el sur?",
+          "¿Qué mar se extiende sobre ella y qué islas incluye?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "200"
+            ],
+            "p": "la profundidad (unos 200 m)"
+          },
+          {
+            "k": [
+              "1.000.000",
+              "1000000",
+              "millon"
+            ],
+            "p": "la superficie (más de 1.000.000 km²)"
+          },
+          {
+            "k": [
+              "850"
+            ],
+            "p": "el ancho máximo (850 km)"
+          },
+          {
+            "k": [
+              "mar argentino"
+            ],
+            "p": "el mar sobre ella (Mar Argentino)"
+          },
+          {
+            "k": [
+              "malvinas"
+            ],
+            "p": "las islas que incluye (Malvinas)"
+          }
+        ],
+        "referencia": "Bajo el Mar Argentino, el continente sigue sumergido en una zona de poca profundidad: la plataforma continental. Allí el agua tiene alrededor de 200 m, la superficie supera el millón de km² (1.000.000 km²) y en el sur el ancho alcanza 850 km. En esa plataforma están las islas Malvinas.",
+        "minPalabras": 30
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "La plataforma continental tiene unos 200 m de profundidad.",
+          "respuesta": true,
+          "explicacion": "Es una zona de poca profundidad."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Ocupa menos de 100.000 km².",
+          "respuesta": false,
+          "explicacion": "Ocupa más de 1.000.000 km²."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En el sur llega a medir hasta 850 km de ancho.",
+          "respuesta": true,
+          "explicacion": "Es la zona más ancha."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Las islas Malvinas están incluidas en la plataforma continental.",
+          "respuesta": true,
+          "explicacion": "Forman parte de ella."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Mar Argentino se extiende sobre la plataforma.",
+          "respuesta": true,
+          "explicacion": "El agua cubre la plataforma."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La plataforma es una cadena de montañas.",
+          "respuesta": false,
+          "explicacion": "Es un fondo marino de poca profundidad."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué profundidad tiene aproximadamente la plataforma?",
+          "opciones": [
+            "200 m",
+            "2 m",
+            "20.000 m",
+            "2.000 m"
+          ],
+          "correcta": 0,
+          "explicacion": "Unos 200 m."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es su superficie?",
+          "opciones": [
+            "Más de 1.000.000 km²",
+            "Unos 1.000 km²",
+            "Menos de 10.000 km²",
+            "Unos 10 km²"
+          ],
+          "correcta": 0,
+          "explicacion": "Más de 1.000.000 km²."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Hasta cuántos km de ancho llega en el sur?",
+          "opciones": [
+            "850 km",
+            "85 km",
+            "8.500 km",
+            "8 km"
+          ],
+          "correcta": 0,
+          "explicacion": "Hasta 850 km."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué islas incluye?",
+          "opciones": [
+            "Malvinas",
+            "Galápagos",
+            "Canarias",
+            "Baleares"
+          ],
+          "correcta": 0,
+          "explicacion": "Incluye las Malvinas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué mar se extiende sobre la plataforma continental?",
+          "opciones": [
+            "Mar Argentino",
+            "Mar del Norte",
+            "Mar Rojo",
+            "Mar Negro"
+          ],
+          "correcta": 0,
+          "explicacion": "El Mar Argentino."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué zona es más ancha?",
+          "opciones": [
+            "En el sur",
+            "En el norte",
+            "En el centro",
+            "Es igual en todo el país"
+          ],
+          "correcta": 0,
+          "explicacion": "Hacia el sur."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "PLATAFORMA",
+          "pista": "Fondo marino de poca profundidad que continúa al continente."
+        },
+        {
+          "palabra": "PROFUNDIDAD",
+          "pista": "Distancia entre la superficie del agua y el fondo."
+        },
+        {
+          "palabra": "MALVINAS",
+          "pista": "Islas incluidas en la plataforma continental."
+        },
+        {
+          "palabra": "SUPERFICIE",
+          "pista": "Medida en km² de la plataforma."
+        },
+        {
+          "palabra": "MAR ARGENTINO",
+          "pista": "Mar que se extiende sobre la plataforma."
+        },
+        {
+          "palabra": "ANCHO",
+          "pista": "Medida que llega a 850 km en el sur."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es la plataforma continental?",
+          "opciones": [
+            "El fondo marino de poca profundidad que continúa al continente",
+            "Una cadena de montañas",
+            "Un río grande",
+            "Un lago"
+          ],
+          "correcta": 0,
+          "explicacion": "Es el fondo marino que sigue al continente."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Hasta cuántos km de ancho llega al sur?",
+          "opciones": [
+            "850 km",
+            "85 km",
+            "8.500 km",
+            "8 km"
+          ],
+          "correcta": 0,
+          "explicacion": "Hasta 850 km."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La plataforma continental incluye a las islas Malvinas.",
+          "respuesta": true,
+          "explicacion": "Están dentro de ella."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es su profundidad aproximada?",
+          "opciones": [
+            "200 m",
+            "20 m",
+            "2.000 m",
+            "20.000 m"
+          ],
+          "correcta": 0,
+          "explicacion": "Unos 200 m."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Litoral marítimo",
+      "definicion": "Franja donde el territorio se encuentra con el mar."
+    },
+    {
+      "palabra": "Punta Rasa",
+      "definicion": "Lugar de Buenos Aires donde empieza la costa argentina (cabo San Antonio)."
+    },
+    {
+      "palabra": "Litoral pampeano",
+      "definicion": "Costa baja, con dunas y playas de pendiente suave."
+    },
+    {
+      "palabra": "Litoral patagónico",
+      "definicion": "Costa alta, con acantilados y pendiente pronunciada."
+    },
+    {
+      "palabra": "Acantilado",
+      "definicion": "Pared de roca que cae al mar."
+    },
+    {
+      "palabra": "Plataforma continental",
+      "definicion": "Fondo marino de unos 200 m que continúa al continente."
+    },
+    {
+      "palabra": "Mar Argentino",
+      "definicion": "Mar que se extiende sobre la plataforma continental."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "La costa argentina da al Océano Pacífico.",
+      "aclaracion": "El litoral marítimo está sobre el Atlántico."
+    },
+    {
+      "error": "Los acantilados son típicos de la costa pampeana.",
+      "aclaracion": "Son del litoral patagónico. El pampeano es bajo y de dunas."
+    },
+    {
+      "error": "La plataforma continental es muy profunda.",
+      "aclaracion": "Tiene unos 200 m de profundidad: es el fondo marino de poca profundidad que sigue al continente."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "Si la costa del sur tiene acantilados y mareas fuertes, ¿qué diferencias esperarías en las actividades que se hacen en una playa pampeana y en una patagónica?",
+    "conexion": "Con la clase de tiempo y clima: la cercanía al mar es uno de los factores que cambian el clima de un lugar."
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "espacio": "geografia",
+  "pares": {
+    "g1|g2": [
+      {
+        "tipo": "mc",
+        "pregunta": "Una ciudad ubicada en el interior del país tiene mayor amplitud térmica que una ciudad costera. ¿Qué fenómeno lo explica?",
+        "opciones": [
+          "La continentalidad: lejos del mar, la diferencia entre la temperatura máxima y la mínima es mayor",
+          "La plataforma continental, que enfría el interior",
+          "Los acantilados, que frenan el calor",
+          "La sudestada, que ocurre solo en el interior"
+        ],
+        "correcta": 0,
+        "explicacion": "El mar modera las temperaturas. Lejos de él, la amplitud térmica es mayor: es la continentalidad."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "Una costa baja, con dunas de arena de origen marino, ¿a qué litoral pertenece y qué factor del clima se vincula con ella?",
+        "opciones": [
+          "Al pampeano; la cercanía al mar modera sus temperaturas",
+          "Al patagónico; la altitud baja su temperatura",
+          "Al pampeano; la altitud es su factor principal",
+          "Al patagónico; la latitud no influye"
+        ],
+        "correcta": 0,
+        "explicacion": "Las dunas son del litoral pampeano. Al estar junto al mar, el mar modera las temperaturas."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La plataforma continental y el Mar Argentino se relacionan porque el agua del mar se extiende sobre la plataforma.",
+        "respuesta": true,
+        "explicacion": "El Mar Argentino se extiende sobre la plataforma continental."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "Entre el litoral marítimo argentino y el clima de su costa, ¿qué factor explica que la costa tenga temperaturas más suaves que el interior?",
+        "opciones": [
+          "La cercanía al mar",
+          "La continentalidad",
+          "La altitud",
+          "El relieve montañoso"
+        ],
+        "correcta": 0,
+        "explicacion": "El mar modera las temperaturas de la costa."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La costa de más de 4.000 km del litoral marítimo tiene, hacia el sur, temperaturas más bajas por la latitud.",
+        "respuesta": true,
+        "explicacion": "Hacia el sur, la temperatura baja 1 °C cada 180 km."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué elemento del clima se mide con una estación meteorológica instalada en la costa?",
+        "opciones": [
+          "Temperatura, precipitaciones, humedad, presión y vientos",
+          "Solo la profundidad de la plataforma",
+          "Las dunas",
+          "La amplitud de las mareas únicamente"
+        ],
+        "correcta": 0,
+        "explicacion": "Las estaciones meteorológicas miden los elementos del clima."
+      }
+    ],
+    "g1|g3": [
+      {
+        "tipo": "mc",
+        "pregunta": "Un viento húmedo del Pacífico sube por la cordillera, se enfría y se condensa. ¿Qué ocurre del lado occidental y qué pasa en el oriental?",
+        "opciones": [
+          "Llueve en el lado occidental y el oriental queda más seco",
+          "Llueve más en el oriental",
+          "Llueve igual en los dos lados",
+          "No llueve en ningún lado"
+        ],
+        "correcta": 0,
+        "explicacion": "El aire descarga su humedad al subir. Después llega seco al otro lado: son lluvias orográficas."
+      },
+      {
+        "tipo": "vf",
+        "texto": "El litoral marítimo argentino está sobre el Atlántico, y el anticiclón del Atlántico descarga su humedad de este a oeste.",
+        "respuesta": true,
+        "explicacion": "Las dos ideas son correctas: la humedad entra desde el este."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La sudestada viene del Atlántico, desde el sudeste, y trae llovizna.",
+        "respuesta": true,
+        "explicacion": "Es fría y húmeda."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "Una sudestada llega a la costa desde el Atlántico. ¿Qué tiempo trae?",
+        "opciones": [
+          "Frío, humedad y llovizna persistente",
+          "Calor seco",
+          "Cielo despejado",
+          "Nieve en la pampa"
+        ],
+        "correcta": 0,
+        "explicacion": "La sudestada es fría y húmeda."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "Una ciudad al este de los Andes patagónicos es más seca que una al oeste. ¿Qué lluvia lo explica?",
+        "opciones": [
+          "Las orográficas",
+          "Las costeras",
+          "Las de ciclón",
+          "Las de sudestada"
+        ],
+        "correcta": 0,
+        "explicacion": "El aire descarga su humedad en el lado occidental."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Cuál de estos vientos baja de la cordillera, es cálido y seco?",
+        "opciones": [
+          "Zonda",
+          "Pampero",
+          "Sudestada",
+          "Ninguno"
+        ],
+        "correcta": 0,
+        "explicacion": "El zonda."
+      }
+    ],
+    "g2|g3": [
+      {
+        "tipo": "mc",
+        "pregunta": "Una ciudad ubicada en una región alejada del mar tiene mayor amplitud térmica que una ciudad costera. ¿Qué factor del clima la explica?",
+        "opciones": [
+          "La continentalidad",
+          "La sudestada",
+          "El zonda",
+          "Las lluvias orográficas"
+        ],
+        "correcta": 0,
+        "explicacion": "Lejos del mar, la distancia entre la temperatura máxima y la mínima es mayor."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "El aire húmedo del Pacífico sube por los Andes. ¿Qué tipo de zona de presión se asocia con que el aire suba y se formen nubes?",
+        "opciones": [
+          "Un ciclón: baja presión",
+          "Un anticiclón: alta presión",
+          "Ninguna",
+          "Una de presión fija"
+        ],
+        "correcta": 0,
+        "explicacion": "Cuando el aire sube, se enfría y se forman nubes y precipitaciones."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Una situación de anticiclón trae cielo despejado y tiempo estable.",
+        "respuesta": true,
+        "explicacion": "Es alta presión: el aire baja."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "Cuando llega un pampero, ¿qué cambia en un lugar?",
+        "opciones": [
+          "El tiempo de ese momento, no el clima del lugar",
+          "El clima del lugar para siempre",
+          "La latitud",
+          "La profundidad de la plataforma"
+        ],
+        "correcta": 0,
+        "explicacion": "Los vientos locales cambian el tiempo de un momento."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué elemento del clima es el viento?",
+        "opciones": [
+          "Es un elemento, junto con temperatura, precipitaciones, humedad y presión",
+          "Es un factor del clima",
+          "Es una estación meteorológica",
+          "Es un tipo de relieve"
+        ],
+        "correcta": 0,
+        "explicacion": "El viento es un elemento del clima."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué factor del clima interviene en las lluvias orográficas?",
+        "opciones": [
+          "El relieve",
+          "La corriente marina",
+          "La latitud únicamente",
+          "La amplitud térmica"
+        ],
+        "correcta": 0,
+        "explicacion": "El relieve frena el aire húmedo y lo obliga a subir."
+      }
+    ]
+  }
+}
