@@ -65,13 +65,10 @@ function opcionesEspacio() {
   const ok = !!e.alumno.modalidad && !!e.alumno.curso;
   $('espacio').disabled = !ok;
   if (!ok) { $('espacio').innerHTML = '<option value="">Primero elegí el curso</option>'; return; }
-  const curso = Number(e.alumno.curso);
-  let lista = cat.espacios.filter(s => s.modalidades.includes(e.alumno.modalidad));
-  // Materias de otros cursos (p. ej. Geografía de 3.º): en ese curso solo se muestran las que le corresponden
-  if (curso !== 4) lista = lista.filter(s => s.curso === curso);
-  else lista = lista.filter(s => !s.curso || s.curso === 4);
+  const orientadaOk = e.alumno.modalidad === 'orientada' && Number(e.alumno.curso) === 4;
+  const lista = cat.espacios.filter(s => s.modalidades.includes(e.alumno.modalidad));
   $('espacio').innerHTML = '<option value="">Elegí…</option>' + lista.map(s => {
-    const hab = s.habilitado && e.alumno.modalidad === 'orientada' && curso === (s.curso || 4);
+    const hab = s.habilitado && orientadaOk;
     return `<option value="${s.id}" ${hab ? '' : 'disabled'} ${e.espacio === s.id && hab ? 'selected' : ''}>${esc(s.nombre)}${hab ? '' : ' (próximamente)'}</option>`;
   }).join('');
   if (!$('espacio').value) e.espacio = '';

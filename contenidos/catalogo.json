@@ -57,6 +57,15 @@
       ]
     },
     {
+      "id": "geografia",
+      "nombre": "Geografía",
+      "habilitado": false,
+      "modalidades": [
+        "orientada",
+        "tecnica"
+      ]
+    },
+    {
       "id": "quimica",
       "nombre": "Química",
       "habilitado": false,
