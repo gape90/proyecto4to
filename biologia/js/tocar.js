@@ -45,7 +45,7 @@ export function bTocar(w, b, resuelto, marcar) {
     const sv = lienzo.querySelector('svg'); sv.setAttribute('preserveAspectRatio', 'xMidYMid meet'); if (b.vista) sv.setAttribute('viewBox', b.vista);
     const NS = 'http://www.w3.org/2000/svg', capa = document.createElementNS(NS, 'g');
     b.puntos.forEach(pt => {
-      const g = document.createElementNS(NS, 'g'); g.setAttribute('class', 'tc-punto'); g.setAttribute('transform', `translate(${pt.x} ${pt.y})`);
+      const g = document.createElementNS(NS, 'g'); g.setAttribute('class', 'tc-punto'); g.setAttribute('transform', `translate(${pt.x} ${pt.y})${b.escala ? ` scale(${b.escala})` : ''}`);
       g.setAttribute('tabindex', '0'); g.setAttribute('role', 'button'); g.setAttribute('aria-label', `Punto ${pt.orden || ''}`.trim());
       g.innerHTML = `<circle class="tc-area" r="${pt.r || 14}"/><circle class="tc-anillo" r="7"/><circle class="tc-centro" r="3.5"/>
         <text class="tc-nombre" y="${pt.arriba ? -12 : 19}" text-anchor="middle">${esc(pt.nombre)}</text>`;

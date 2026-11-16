@@ -402,8 +402,8 @@
      "titulo": "Dónde están los órganos del sistema urinario",
      "src": "img/clases/bio-4-04-urinario.svg",
      "tipo": "grafico",
-     "alt": "Ilustración del cuerpo humano de frente con el sistema urinario. A la altura de la cintura, a los dos lados de la columna, están los dos riñones; a cada riñón le llega sangre por una arteria y la sangre limpia sale por una vena. De cada riñón baja un uréter hasta la vejiga, en la parte baja del abdomen, y de la vejiga sale la uretra.",
-     "epigrafe": "Esquema elaborado para esta clase.",
+     "alt": "Ilustración del abdomen de una persona, vista de frente, con el sistema urinario. A los dos lados de la columna están los riñones; el de la derecha del dibujo está cortado al medio. A cada riñón llegan una arteria y sale una vena. De cada riñón baja un uréter hasta la vejiga, y de la vejiga sale la uretra. En transparencia se ven el hígado, el intestino grueso y los huesos de la cadera.",
+     "epigrafe": "Ilustración: Jordi March i Nogué, CC BY-SA 3.0, vía Wikimedia Commons. Adaptada para esta clase.",
      "src_movil": "img/clases/bio-4-04-urinario-movil.svg",
      "animacion": "svg",
      "_imagen": true
@@ -497,9 +497,10 @@
      "titulo": "La sangre antes y después de pasar por el riñón",
      "src": "img/clases/bio-4-04-rinon.svg",
      "tipo": "grafico",
-     "alt": "Dibujo en dos columnas. A la izquierda, la sangre que llega al riñón: lleva agua, sales, glucosa y urea. A la derecha, lo que sale del riñón por dos caminos: por la vena, la sangre limpia, con agua, sales y glucosa, y sin urea; por el uréter, la orina, con urea, agua y las sales que sobran.",
-     "epigrafe": "Ilustración elaborada para esta clase. Los órganos están simplificados y no respetan los tamaños reales.",
+     "alt": "Ilustración de un riñón cortado al medio. Por la arteria renal llega la sangre, que trae agua, sales, glucosa y urea. Por la vena renal sale la sangre limpia, con agua, sales y glucosa, y sin urea. Por el uréter baja la orina, con urea, agua y las sales que sobran. Unos puntos de colores recorren los tres caminos.",
+     "epigrafe": "Ilustración: Piotr Michał Jaworski, CC BY-SA 3.0, vía Wikimedia Commons. Adaptada para esta clase.",
      "src_movil": "img/clases/bio-4-04-rinon-movil.svg",
+     "animacion": "svg",
      "_imagen": true
     },
     {

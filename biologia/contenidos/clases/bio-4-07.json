@@ -40,8 +40,8 @@
      "titulo": "Las principales glándulas endocrinas",
      "src": "img/clases/bio-4-07-glandulas.svg",
      "tipo": "grafico",
-     "alt": "Ilustración de una persona de frente con sus principales glándulas endocrinas: en la cabeza, el hipotálamo y la hipófisis; en el cuello, la tiroides; sobre los riñones, las dos glándulas suprarrenales; detrás del estómago, el páncreas; y en la parte baja del abdomen, los ovarios o los testículos.",
-     "epigrafe": "Ilustración elaborada para esta clase. Las formas y los tamaños están simplificados.",
+     "alt": "Ilustración de dos personas de frente, una a cada lado, con sus glándulas endocrinas. En la cabeza, ampliados en un círculo, el hipotálamo y la hipófisis, debajo del encéfalo. En el cuello, ampliada en otro círculo, la tiroides. Sobre los riñones, las suprarrenales, y al lado, el páncreas. En la persona de la izquierda, los ovarios; en la de la derecha, los testículos.",
+     "epigrafe": "Ilustración: OpenStax, Tomáš Kebert y umimeto.org, CC BY-SA 4.0, vía Wikimedia Commons. Adaptada para esta clase.",
      "src_movil": "img/clases/bio-4-07-glandulas-movil.svg",
      "animacion": "svg",
      "_imagen": true
@@ -61,61 +61,59 @@
     {
      "t": "tocar",
      "svg": "img/clases/bio-4-07-tocar.svg",
-     "vista": "120 10 190 460",
+     "vista": "0 0 262.54 258.57",
+     "escala": 0.5,
      "consigna": "En este dibujo hay seis puntos marcados sobre las glándulas. Leé cada pregunta y tocá el punto que corresponde.",
-     "alt": "Ilustración del cuerpo humano con las glándulas endocrinas marcadas: una en la cabeza, una en el cuello, dos sobre los riñones, una detrás del estómago y una en la parte baja del abdomen.",
-     "fuente": "Ilustración elaborada para esta clase.",
+     "alt": "Ilustración de dos personas de frente con seis puntos marcados sobre glándulas: uno en la ampliación del encéfalo, uno en la ampliación del cuello, uno sobre un riñón, uno al lado del otro riñón y uno en la parte baja del abdomen de cada persona.",
+     "fuente": "Ilustración: OpenStax, Tomáš Kebert y umimeto.org, CC BY-SA 4.0, vía Wikimedia Commons. Adaptada para esta clase.",
      "puntos": [
       {
        "id": "hipofisis",
-       "x": 211,
-       "y": 62,
+       "x": 137.2,
+       "y": 44.3,
        "nombre": "Hipófisis",
        "articulo": "la hipófisis"
       },
       {
        "id": "tiroides",
-       "x": 211,
-       "y": 122,
+       "x": 129.6,
+       "y": 104,
        "nombre": "Tiroides",
        "articulo": "la tiroides"
       },
       {
-       "id": "supra_i",
-       "x": 190,
-       "y": 327,
-       "nombre": "Suprarrenal",
-       "articulo": "una suprarrenal"
-      },
-      {
-       "id": "supra_d",
-       "x": 232,
-       "y": 327,
+       "id": "supra",
+       "x": 49.2,
+       "y": 165.2,
        "nombre": "Suprarrenal",
        "articulo": "una suprarrenal"
       },
       {
        "id": "pancreas",
-       "x": 226,
-       "y": 358,
+       "x": 208,
+       "y": 170,
        "nombre": "Páncreas",
        "articulo": "el páncreas"
       },
       {
-       "id": "gonadas",
-       "x": 211,
-       "y": 436,
-       "nombre": "Ovarios o testículos",
-       "articulo": "los ovarios o los testículos"
+       "id": "ovario",
+       "x": 70.6,
+       "y": 208.4,
+       "nombre": "Ovario",
+       "articulo": "un ovario"
+      },
+      {
+       "id": "testiculo",
+       "x": 198.6,
+       "y": 233,
+       "nombre": "Testículo",
+       "articulo": "un testículo"
       }
      ],
      "preguntas": [
       {
        "pregunta": "Tocá una de las glándulas que fabrican la adrenalina que te dejó temblando con el ladrido del perro.",
-       "correcta": [
-        "supra_i",
-        "supra_d"
-       ],
+       "correcta": "supra",
        "explicacion": "Las suprarrenales están sobre los riñones y fabrican adrenalina.",
        "pista": "Su nombre dice sobre qué órgano están."
       },

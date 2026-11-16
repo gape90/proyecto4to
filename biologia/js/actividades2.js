@@ -55,7 +55,7 @@ export function bBrazo(w, b, resuelto, marcar) {
       <div class="br-paso br-p2 apagado"><div class="br-n">2</div><div><b>Observá.</b> Mové el control y mirá qué pasa con los dos músculos.
         <label class="br-ctrl"><span>Extendido</span><input type="range" min="0" max="100" value="0" disabled aria-label="Doblar el codo"><span>Doblado</span></label>
         <div class="br-estado" aria-live="polite"></div></div></div>
-      <div class="br-paso br-p3 apagado"><div class="br-n">3</div><div><b>Explicá.</b> <span class="br-exp"></span></div></div>
+      <div class="br-paso br-p3 apagado"><div class="br-n">3</div><div><b>Lo que comprobaste.</b> <span class="br-exp"></span></div></div>
     </div></div>`);
   const raiz = w.firstElementChild, sl = raiz.querySelector('input'), est = raiz.querySelector('.br-estado');
   const ante = raiz.querySelector('#br-ante'), bic = raiz.querySelector('#br-bic'), tri = raiz.querySelector('#br-tri');
@@ -264,7 +264,7 @@ export function bSimulador(w, b, resuelto, marcar) {
       avanzar(a.final, 32, () => {
         relato.insertAdjacentHTML('beforeend', `<p class="sm-paso sm-concl"><span>3</span><span>${md(a.paso3)}</span></p>`);
         ocupado = false; raiz.querySelectorAll('.sm-acc').forEach(x => x.disabled = false); hechas.add(a.boton);
-        if (hechas.size >= Math.min(2, b.acciones.length) && !raiz.classList.contains('resuelto')) { raiz.classList.add('resuelto'); marcar(); relato.insertAdjacentHTML('beforeend', `<div class="fb ok"><b>Explicá con tus palabras:</b> ${md(b.explicacion)}</div>`); }
+        if (hechas.size >= Math.min(2, b.acciones.length) && !raiz.classList.contains('resuelto')) { raiz.classList.add('resuelto'); marcar(); relato.insertAdjacentHTML('beforeend', `<div class="fb ok"><b>Lo que comprobaste:</b> ${md(b.explicacion)}</div>`); }
       });
     });
   };
