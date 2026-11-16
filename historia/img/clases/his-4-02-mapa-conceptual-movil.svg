@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 900" role="img" aria-label="Mapa conceptual: los rasgos de los nacionalismos autoritarios" font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect x="0" y="0" width="500" height="900" rx="28" fill="#F7F4FD"/>
+<text x="250" y="50" font-size="26" font-weight="800" fill="#1B1A4A" text-anchor="middle">Sus rasgos</text>
+<ellipse cx="250" cy="140" rx="190" ry="62" fill="#5B2A86"/>
+<text x="250" y="134" font-size="26" font-weight="800" fill="#fff" text-anchor="middle">Nacionalismos</text>
+<text x="250" y="166" font-size="26" font-weight="800" fill="#fff" text-anchor="middle">autoritarios</text>
+<line x1="250" y1="200" x2="250" y2="800" stroke="#5B2A86" stroke-width="4" stroke-dasharray="2 8" stroke-linecap="round"/>
+<rect x="50.0" y="220.0" width="400" height="100" rx="20" fill="#fff" stroke="#4B4FA3" stroke-width="4"/>
+<text x="250" y="262.7" font-size="22" font-weight="700" fill="#4B4FA3" text-anchor="middle">Exaltan la nación</text>
+<text x="250" y="291.3" font-size="22" font-weight="700" fill="#4B4FA3" text-anchor="middle">y su supuesta grandeza</text>
+<rect x="50.0" y="355.0" width="400" height="100" rx="20" fill="#fff" stroke="#B83A7A" stroke-width="4"/>
+<text x="250" y="397.7" font-size="22" font-weight="700" fill="#B83A7A" text-anchor="middle">Un líder con mucho poder</text>
+<text x="250" y="426.3" font-size="22" font-weight="700" fill="#B83A7A" text-anchor="middle">y un partido único</text>
+<rect x="50.0" y="490.0" width="400" height="100" rx="20" fill="#fff" stroke="#5B2A86" stroke-width="4"/>
+<text x="250" y="532.7" font-size="22" font-weight="700" fill="#5B2A86" text-anchor="middle">Rechazan el liberalismo</text>
+<text x="250" y="561.3000000000001" font-size="22" font-weight="700" fill="#5B2A86" text-anchor="middle">y el comunismo</text>
+<rect x="50.0" y="625.0" width="400" height="100" rx="20" fill="#fff" stroke="#E5194F" stroke-width="4"/>
+<text x="250" y="667.7" font-size="22" font-weight="700" fill="#E5194F" text-anchor="middle">Exaltan lo militar</text>
+<text x="250" y="696.3000000000001" font-size="22" font-weight="700" fill="#E5194F" text-anchor="middle">y la violencia política</text>
+<rect x="50.0" y="760.0" width="400" height="100" rx="20" fill="#fff" stroke="#B26A00" stroke-width="4"/>
+<text x="250" y="802.7" font-size="22" font-weight="700" fill="#B26A00" text-anchor="middle">Desconfían de</text>
+<text x="250" y="831.3000000000001" font-size="22" font-weight="700" fill="#B26A00" text-anchor="middle">la democracia</text>
+</svg>

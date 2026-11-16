@@ -1,0 +1,1150 @@
+{
+  "id": "his-4-09",
+  "espacio": "historia",
+  "eje": "Neoliberalismo y después",
+  "titulo": "La declinación del modelo neoliberal",
+  "intro": "A fines de la década de 1990, el modelo neoliberal entró en crisis en la Argentina y en América Latina. Vas a ver cómo fue la crisis de 2001, qué nuevos actores sociales surgieron, cómo cambió el rol del Estado y cómo avanzó la integración entre los países de la región.",
+  "tp_aporte": "Para tu trabajo práctico ya tenés: la crisis de la globalización financiera y la crisis de 2001, los nuevos actores sociales en la Argentina y en América Latina, el nuevo rol del Estado con su debate, y la integración regional (Mercosur, Unasur y CELAC).",
+  "objetivos": [
+    "Explicar cómo se llegó a la crisis de 2001 y qué relación tuvo con la globalización financiera.",
+    "Reconocer los nuevos actores sociales que surgieron en la Argentina y en América Latina.",
+    "Explicar la redefinición del rol del Estado, el debate que genera y el avance de la integración regional."
+  ],
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "La crisis de 2001",
+      "tiempo": "30 a 40 min",
+      "recordas": "¿Escuchaste hablar del \"corralito\" o de diciembre de 2001? ¿Qué te contaron en tu familia?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Crisis financieras en el mundo",
+          "texto": "En la década de 1990 el dinero empezó a moverse muy rápido entre países: es la **globalización financiera**. Cuando los inversores desconfiaban de un país, retiraban su dinero de golpe, y eso provocaba crisis. Pasó en **México** (1994), en varios países de **Asia** (1997), en **Rusia** (1998) y en **Brasil** (1999).\n\nLa Argentina, que dependía de la llegada de dólares para sostener la convertibilidad, entró en **recesión** en 1998: la economía dejó de crecer, cerraron empresas y aumentó la desocupación."
+        },
+        {
+          "t": "texto",
+          "titulo": "Diciembre de 2001",
+          "texto": "A fines de 2001, mucha gente quería retirar sus dólares de los bancos. El gobierno estableció el **\"corralito\"**: un límite a cuánto dinero se podía sacar de los bancos. Esto afectó a ahorristas, comercios y trabajadores.\n\nEl **19 y 20 de diciembre de 2001** hubo grandes protestas en todo el país; la represión dejó muertos. El presidente Fernando de la Rúa renunció y, en apenas dos semanas, la Argentina tuvo **cinco presidentes**. En enero de 2002 terminó la convertibilidad: el peso se **devaluó** y dejó de valer un dólar."
+        },
+        {
+          "t": "pasos",
+          "titulo": "Cómo se llegó a la crisis",
+          "pasos": [
+            {
+              "titulo": "Recesión",
+              "texto": "Desde 1998 la economía deja de crecer y aumenta la desocupación."
+            },
+            {
+              "titulo": "Desconfianza",
+              "texto": "Inversores y ahorristas temen que la convertibilidad no se pueda sostener."
+            },
+            {
+              "titulo": "Corralito",
+              "texto": "El gobierno limita cuánto dinero se puede sacar de los bancos."
+            },
+            {
+              "titulo": "Estallido",
+              "texto": "Protestas masivas en diciembre de 2001 y renuncia del presidente."
+            },
+            {
+              "titulo": "Fin del uno a uno",
+              "texto": "En enero de 2002 termina la convertibilidad y el peso se devalúa."
+            }
+          ]
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "📰 Elegí el titular",
+          "pregunta": "¿Qué titular resume mejor lo que pasó en la Argentina a fines de 2001?",
+          "opciones": [
+            "\"Corralito, protestas y renuncia\"",
+            "\"La economía argentina crece como nunca antes\"",
+            "\"Vuelve la hiperinflación de 1989 con más fuerza\"",
+            "\"El país firma hoy el Consenso de Washington\""
+          ],
+          "correcta": 0,
+          "explicacion": "La crisis de 2001 marcó el final de la convertibilidad.",
+          "pista": "Releé el texto \"Diciembre de 2001\"."
+        },
+        {
+          "t": "linea",
+          "titulo": "Crisis financieras y fin de la convertibilidad",
+          "eventos": [
+            {
+              "anio": "1994",
+              "titulo": "Crisis en México",
+              "texto": "Primera gran crisis financiera de la década en América Latina."
+            },
+            {
+              "anio": "1997",
+              "titulo": "Crisis en Asia",
+              "texto": "Afecta a varios países asiáticos."
+            },
+            {
+              "anio": "1998",
+              "titulo": "Recesión en la Argentina",
+              "texto": "La economía deja de crecer."
+            },
+            {
+              "anio": "2001",
+              "titulo": "Corralito y estallido",
+              "texto": "Protestas del 19 y 20 de diciembre y renuncia presidencial."
+            },
+            {
+              "anio": "2002",
+              "titulo": "Fin de la convertibilidad",
+              "texto": "El peso se devalúa."
+            }
+          ]
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá el texto con las palabras que corresponden.",
+          "texto": "Desde 1998 la Argentina estaba en [[recesión]]. A fines de 2001, el gobierno limitó cuánto dinero se podía sacar de los bancos: fue el [[corralito]]. En diciembre hubo grandes [[protestas]] y el presidente renunció. En 2002 terminó la [[convertibilidad]].",
+          "distractores": [
+            "hiperinflación",
+            "Cordobazo",
+            "elecciones",
+            "privatización"
+          ],
+          "explicacion": "Así se encadenó la crisis que cerró la etapa del \"uno a uno\".",
+          "pista": "Releé los textos y los pasos de esta parte."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Según el texto, ¿cuántos presidentes tuvo la Argentina en apenas dos semanas, entre diciembre de 2001 y enero de 2002?",
+          "respuesta": "5",
+          "explicacion": "En apenas dos semanas hubo cinco presidentes: una muestra de lo profunda que fue la crisis política.",
+          "pista": "Está en el texto \"Diciembre de 2001\"."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué una crisis financiera en otro país podía afectar a la Argentina?",
+          "respuesta": "Porque con la globalización financiera el dinero se mueve rápido entre países. Cuando hay una crisis en un lugar, los inversores desconfían también de otros países parecidos y retiran su dinero. La Argentina dependía de la llegada de dólares para sostener la convertibilidad, así que era muy sensible a esos movimientos."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá cómo se llegó a la crisis de 2001 en la Argentina. Contá qué es la globalización financiera y qué crisis hubo en otros países, qué fue el corralito, qué pasó en diciembre de 2001 y cómo terminó la convertibilidad.",
+        "guia": [
+          "¿Qué es la globalización financiera?",
+          "¿Qué crisis hubo en otros países en los años 90?",
+          "¿Qué pasaba con la economía argentina desde 1998?",
+          "¿Qué fue el corralito?",
+          "¿Qué pasó en diciembre de 2001 y en enero de 2002?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "globalizacion",
+              "financier"
+            ],
+            "p": "la globalización financiera"
+          },
+          {
+            "k": [
+              "mexico",
+              "asia",
+              "rusia",
+              "brasil"
+            ],
+            "p": "las crisis en otros países"
+          },
+          {
+            "k": [
+              "recesion",
+              "1998",
+              "desocup"
+            ],
+            "p": "la recesión"
+          },
+          {
+            "k": [
+              "corralito"
+            ],
+            "p": "el corralito"
+          },
+          {
+            "k": [
+              "2001",
+              "renunci",
+              "protesta"
+            ],
+            "p": "diciembre de 2001"
+          },
+          {
+            "k": [
+              "convertibilidad",
+              "devalu",
+              "2002"
+            ],
+            "p": "el fin de la convertibilidad"
+          }
+        ],
+        "referencia": "Con la globalización financiera el dinero se mueve rápido entre países y hubo crisis en México (1994), Asia (1997), Rusia (1998) y Brasil (1999). La Argentina entró en recesión en 1998. A fines de 2001 el corralito limitó la extracción de dinero de los bancos; el 19 y 20 de diciembre hubo protestas masivas, la represión dejó muertos, el presidente renunció y en dos semanas hubo cinco presidentes. En enero de 2002 terminó la convertibilidad y el peso se devaluó.",
+        "minPalabras": 40
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "En la década de 1990 hubo crisis financieras en México, Asia, Rusia y Brasil.",
+          "respuesta": true,
+          "explicacion": "Es parte de la globalización financiera."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Desde 1998 la economía argentina crecía a gran velocidad.",
+          "respuesta": false,
+          "explicacion": "Entró en recesión: dejó de crecer y aumentó la desocupación."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El corralito limitó cuánto dinero se podía sacar de los bancos.",
+          "respuesta": true,
+          "explicacion": "Fue a fines de 2001."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En diciembre de 2001 hubo grandes protestas en todo el país.",
+          "respuesta": true,
+          "explicacion": "El 19 y 20 de diciembre."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La convertibilidad siguió funcionando hasta 2010.",
+          "respuesta": false,
+          "explicacion": "Terminó en enero de 2002."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Entre diciembre de 2001 y enero de 2002, la Argentina tuvo cinco presidentes en apenas dos semanas.",
+          "respuesta": true,
+          "explicacion": "Fue una crisis política muy profunda."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Devaluar es que la moneda pierda valor frente a otras monedas.",
+          "respuesta": true,
+          "explicacion": "En 2002 el peso dejó de valer un dólar."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué fue el corralito?",
+          "opciones": [
+            "Un límite para sacar dinero de los bancos",
+            "Un plan de privatizaciones de empresas del Estado",
+            "Una protesta de obreros y estudiantes en Córdoba",
+            "Una ley electoral sancionada por el Congreso"
+          ],
+          "correcta": 0,
+          "explicacion": "Afectó a ahorristas, comercios y trabajadores."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es la globalización financiera?",
+          "opciones": [
+            "Que el dinero se mueve muy rápido entre países",
+            "Que cada país usa su propia moneda sin comerciar",
+            "Que hay un único impuesto mundial",
+            "Que los trabajadores se organizan en todo el mundo"
+          ],
+          "correcta": 0,
+          "explicacion": "Por eso una crisis en un país podía afectar a otros."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuándo terminó la convertibilidad?",
+          "opciones": [
+            "En enero de 2002",
+            "En abril de 1991, cuando se creó",
+            "En julio de 1989, con la hiperinflación",
+            "En 1995, con la crisis de México"
+          ],
+          "correcta": 0,
+          "explicacion": "El peso se devaluó."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué año entró en recesión la Argentina?",
+          "opciones": [
+            "En 1998",
+            "En 1991",
+            "En 2005",
+            "En 1983"
+          ],
+          "correcta": 0,
+          "explicacion": "La economía dejó de crecer."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estos países tuvo una crisis financiera en 1994?",
+          "opciones": [
+            "México",
+            "Chile",
+            "Uruguay",
+            "Paraguay"
+          ],
+          "correcta": 0,
+          "explicacion": "Después hubo crisis en Asia, Rusia y Brasil."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué pasó el 19 y 20 de diciembre de 2001?",
+          "opciones": [
+            "Protestas y renuncia del presidente",
+            "Se sancionó la ley de convertibilidad",
+            "Hubo elecciones",
+            "Se firmó el tratado que creó el Mercosur"
+          ],
+          "correcta": 0,
+          "explicacion": "Fue el estallido de la crisis."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "CORRALITO",
+          "pista": "Límite a cuánto dinero se podía sacar de los bancos (2001)."
+        },
+        {
+          "palabra": "RECESIÓN",
+          "pista": "Cuando la economía deja de crecer."
+        },
+        {
+          "palabra": "DEVALUACIÓN",
+          "pista": "Cuando la moneda pierde valor frente a otras."
+        },
+        {
+          "palabra": "GLOBALIZACIÓN",
+          "pista": "___ financiera: el dinero se mueve rápido entre países."
+        },
+        {
+          "palabra": "DICIEMBRE",
+          "pista": "Mes de 2001 en que hubo protestas masivas."
+        },
+        {
+          "palabra": "AHORRISTAS",
+          "pista": "Personas con dinero en los bancos, afectadas por el corralito."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué la Argentina era tan sensible a las crisis financieras de otros países?",
+          "opciones": [
+            "Dependía de que llegaran dólares",
+            "No comerciaba con ningún otro país del mundo",
+            "Todavía tenía la hiperinflación de 1989",
+            "No había bancos"
+          ],
+          "correcta": 0,
+          "explicacion": "Cuando los inversores desconfiaban, retiraban su dinero."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué consecuencia tuvo la crisis de 2001 sobre la convertibilidad?",
+          "opciones": [
+            "Terminó y el peso se devaluó",
+            "Se hizo más fuerte y duró varios años más",
+            "Se volvió a crear con un nuevo valor del peso",
+            "Ninguna"
+          ],
+          "correcta": 0,
+          "explicacion": "El peso dejó de valer un dólar."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El corralito afectó a ahorristas, comercios y trabajadores.",
+          "respuesta": true,
+          "explicacion": "Limitaba cuánto dinero se podía sacar de los bancos."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Nuevos actores sociales",
+      "tiempo": "30 a 40 min",
+      "recordas": "En clases anteriores viste a los sindicatos como actores principales. ¿Qué pasa cuando mucha gente queda sin trabajo y no tiene sindicato?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Nuevas formas de organizarse",
+          "texto": "Durante gran parte del siglo XX, los **sindicatos** fueron la principal forma de organización de los trabajadores. Pero en los años 90 y en la crisis de 2001, mucha gente **quedó sin trabajo** y, por lo tanto, sin sindicato.\n\nEntonces aparecieron **nuevos actores sociales**: grupos que se organizaron de otras maneras para reclamar, ayudarse y buscar salidas."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Algunos nuevos actores en la Argentina",
+          "columnas": [
+            "",
+            "Quiénes eran",
+            "Qué hacían"
+          ],
+          "filas": [
+            [
+              "Movimientos de trabajadores desocupados",
+              "Personas sin empleo organizadas",
+              "Reclamaban trabajo y ayuda; una forma de protesta fueron los cortes de ruta (\"piquetes\"), desde mediados de los años 90"
+            ],
+            [
+              "Asambleas barriales",
+              "Vecinos y vecinas de un barrio",
+              "Se reunían en plazas para debatir problemas y organizarse (2001-2002)"
+            ],
+            [
+              "Empresas recuperadas",
+              "Trabajadores de fábricas que habían cerrado",
+              "Volvieron a poner en marcha la fábrica, organizados en cooperativas"
+            ],
+            [
+              "Clubes de trueque",
+              "Personas de distintos barrios",
+              "Intercambiaban productos y servicios sin usar dinero"
+            ]
+          ]
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada nuevo actor con lo que hacía.",
+          "pares": [
+            {
+              "a": "Movimientos de desocupados",
+              "b": "Reclamaban trabajo, por ejemplo con cortes de ruta"
+            },
+            {
+              "a": "Asambleas barriales",
+              "b": "Vecinos que se reunían en plazas para debatir y organizarse"
+            },
+            {
+              "a": "Empresas recuperadas",
+              "b": "Trabajadores que pusieron en marcha una fábrica cerrada"
+            },
+            {
+              "a": "Clubes de trueque",
+              "b": "Intercambio de productos sin usar dinero"
+            }
+          ],
+          "explicacion": "Son formas nuevas de organizarse, distintas del sindicato tradicional.",
+          "pista": "Mirá la tabla de los nuevos actores."
+        },
+        {
+          "t": "texto",
+          "titulo": "En América Latina",
+          "texto": "En otros países de la región también surgieron nuevos actores. En **Brasil**, el **Movimiento de Trabajadores Rurales Sin Tierra** (1984) reclama tierra para trabajar. En **México**, en 1994, se dio a conocer el **Ejército Zapatista de Liberación Nacional**, en Chiapas, que reclamaba derechos para los pueblos indígenas. En **Bolivia** y **Ecuador**, las **organizaciones indígenas** ganaron un lugar importante en la política."
+        },
+        {
+          "t": "linea",
+          "titulo": "Nuevos actores en América Latina",
+          "eventos": [
+            {
+              "anio": "1984",
+              "titulo": "Movimiento Sin Tierra (Brasil)",
+              "texto": "Reclama tierra para trabajar."
+            },
+            {
+              "anio": "1994",
+              "titulo": "Zapatistas (México)",
+              "texto": "Reclaman derechos para los pueblos indígenas."
+            },
+            {
+              "anio": "1996",
+              "titulo": "Primeros grandes cortes de ruta (Argentina)",
+              "texto": "Desocupados de pueblos petroleros reclaman trabajo."
+            },
+            {
+              "anio": "2001",
+              "titulo": "Asambleas barriales y clubes de trueque",
+              "texto": "Vecinos se organizan en medio de la crisis."
+            }
+          ]
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada nuevo actor es de la Argentina o de otro país de América Latina?",
+          "categorias": [
+            "Argentina",
+            "Otro país de América Latina"
+          ],
+          "items": [
+            {
+              "texto": "Asambleas barriales",
+              "cat": "Argentina"
+            },
+            {
+              "texto": "Movimiento Sin Tierra",
+              "cat": "Otro país de América Latina"
+            },
+            {
+              "texto": "Empresas recuperadas",
+              "cat": "Argentina"
+            },
+            {
+              "texto": "Zapatistas de Chiapas",
+              "cat": "Otro país de América Latina"
+            },
+            {
+              "texto": "Clubes de trueque",
+              "cat": "Argentina"
+            }
+          ],
+          "explicacion": "En toda la región surgieron nuevas formas de organización."
+        },
+        {
+          "t": "vf",
+          "afirmaciones": [
+            {
+              "texto": "El Movimiento Sin Tierra surgió en Brasil.",
+              "v": true,
+              "explicacion": "Reclama tierra para trabajar."
+            },
+            {
+              "texto": "Los zapatistas reclamaban derechos para los pueblos indígenas.",
+              "v": true,
+              "explicacion": "Se dieron a conocer en 1994, en Chiapas, México."
+            },
+            {
+              "texto": "En los clubes de trueque se intercambiaban productos usando dólares.",
+              "v": false,
+              "explicacion": "Se intercambiaban productos y servicios **sin usar dinero**."
+            },
+            {
+              "texto": "Los primeros grandes cortes de ruta los hicieron desocupados de pueblos petroleros.",
+              "v": true,
+              "explicacion": "Fue en 1996, según la línea de tiempo."
+            }
+          ]
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "Chequeá",
+          "pregunta": "¿Por qué surgieron nuevos actores sociales, además de los sindicatos?",
+          "opciones": [
+            "Mucha gente quedó sin trabajo",
+            "Los sindicatos fueron prohibidos por ley en 2001",
+            "Nadie tenía problemas",
+            "Lo ordenaba el Consenso de Washington de 1989"
+          ],
+          "correcta": 0,
+          "explicacion": "Las personas desocupadas buscaron otras formas de organizarse.",
+          "pista": "Releé el primer texto de esta parte."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿qué tienen en común un club de trueque, una asamblea barrial y una empresa recuperada?",
+          "respuesta": "En los tres casos, personas comunes se organizaron por su cuenta para resolver problemas que los afectaban, en un momento de crisis. No dependían de un partido ni de un sindicato: se juntaron con vecinos o compañeros de trabajo para buscar salidas colectivas."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué son los nuevos actores sociales y por qué surgieron. Describí al menos tres de la Argentina y uno de otro país de América Latina, contando quiénes los formaban y qué hacían.",
+        "guia": [
+          "¿Por qué surgieron nuevas formas de organización además de los sindicatos?",
+          "¿Qué hacían los movimientos de desocupados?",
+          "¿Qué eran las asambleas barriales, las empresas recuperadas y los clubes de trueque?",
+          "¿Qué nuevos actores surgieron en otros países de América Latina?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "desocup",
+              "sin trabajo"
+            ],
+            "p": "por qué surgieron"
+          },
+          {
+            "k": [
+              "piquete",
+              "corte de ruta",
+              "movimientos de"
+            ],
+            "p": "los movimientos de desocupados"
+          },
+          {
+            "k": [
+              "asamblea"
+            ],
+            "p": "las asambleas barriales"
+          },
+          {
+            "k": [
+              "recuperad",
+              "cooperativa"
+            ],
+            "p": "las empresas recuperadas"
+          },
+          {
+            "k": [
+              "trueque"
+            ],
+            "p": "los clubes de trueque"
+          },
+          {
+            "k": [
+              "sin tierra",
+              "zapatist",
+              "indigena"
+            ],
+            "p": "un caso de América Latina"
+          }
+        ],
+        "referencia": "En los años 90 y en 2001 mucha gente quedó sin trabajo y sin sindicato, y surgieron nuevos actores sociales: movimientos de desocupados (con cortes de ruta desde mediados de los 90), asambleas barriales, empresas recuperadas por sus trabajadores (cooperativas) y clubes de trueque. En América Latina: el Movimiento Sin Tierra (Brasil, 1984), los zapatistas (México, 1994) y las organizaciones indígenas de Bolivia y Ecuador.",
+        "minPalabras": 35
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "En los años 90 y en 2001 mucha gente quedó sin trabajo y sin sindicato.",
+          "respuesta": true,
+          "explicacion": "Por eso surgieron nuevas formas de organización."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los clubes de trueque intercambiaban productos sin usar dinero.",
+          "respuesta": true,
+          "explicacion": "Crecieron mucho durante la crisis."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Las empresas recuperadas fueron fábricas cerradas que sus trabajadores volvieron a poner en marcha.",
+          "respuesta": true,
+          "explicacion": "Muchas se organizaron como cooperativas."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Las asambleas barriales se reunían en el Congreso.",
+          "respuesta": false,
+          "explicacion": "Vecinos y vecinas se reunían en plazas de sus barrios."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Movimiento Sin Tierra es de Brasil.",
+          "respuesta": true,
+          "explicacion": "Reclama tierra para trabajar."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los zapatistas surgieron en la Argentina.",
+          "respuesta": false,
+          "explicacion": "Se dieron a conocer en Chiapas, México, en 1994."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los cortes de ruta fueron una forma de protesta de los movimientos de desocupados.",
+          "respuesta": true,
+          "explicacion": "Se los conoció como \"piquetes\"."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué era una asamblea barrial?",
+          "opciones": [
+            "Vecinos reunidos en plazas",
+            "Una reunión de empresarios de la ciudad",
+            "Una sesión del Congreso abierta al público",
+            "Un sindicato de trabajadores de un barrio"
+          ],
+          "correcta": 0,
+          "explicacion": "Fueron muy comunes en 2001-2002."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es una empresa recuperada?",
+          "opciones": [
+            "Una fábrica que reabrieron sus trabajadores",
+            "Una empresa del Estado que se vendió a privados",
+            "Una empresa que siempre perteneció al Estado",
+            "Un banco del Estado"
+          ],
+          "correcta": 0,
+          "explicacion": "Se organizaban en cooperativas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué reclamaban los zapatistas en México?",
+          "opciones": [
+            "Derechos indígenas",
+            "La privatización del petróleo mexicano",
+            "Una moneda igual al dólar, como la convertibilidad",
+            "Abrir clubes de trueque en todo México"
+          ],
+          "correcta": 0,
+          "explicacion": "Se dieron a conocer en 1994, en Chiapas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué reclama el Movimiento Sin Tierra?",
+          "opciones": [
+            "Tierra para trabajar",
+            "Bajar los salarios",
+            "Cerrar las fábricas",
+            "Más importaciones"
+          ],
+          "correcta": 0,
+          "explicacion": "Surgió en Brasil en 1984."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estos NO es un nuevo actor social de esos años?",
+          "opciones": [
+            "La Sociedad Rural",
+            "Las asambleas barriales que se reunían en plazas",
+            "Los clubes de trueque donde se intercambiaban cosas",
+            "Las empresas recuperadas por sus trabajadores"
+          ],
+          "correcta": 0,
+          "explicacion": "La Sociedad Rural existe desde el siglo XIX."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué surgieron los nuevos actores sociales?",
+          "opciones": [
+            "Mucha gente quedó sin trabajo",
+            "Desaparecieron los barrios",
+            "En esos años todas las personas tenían trabajo",
+            "El gobierno prohibió usar dinero en efectivo"
+          ],
+          "correcta": 0,
+          "explicacion": "Los sindicatos representaban a quienes tenían empleo."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "ASAMBLEAS",
+          "pista": "Reuniones de vecinos en plazas (2001-2002)."
+        },
+        {
+          "palabra": "TRUEQUE",
+          "pista": "Intercambio de productos sin usar dinero."
+        },
+        {
+          "palabra": "COOPERATIVA",
+          "pista": "Forma en que se organizaron las empresas recuperadas."
+        },
+        {
+          "palabra": "PIQUETES",
+          "pista": "Cortes de ruta de los movimientos de desocupados."
+        },
+        {
+          "palabra": "ZAPATISTAS",
+          "pista": "Movimiento de Chiapas, México (1994)."
+        },
+        {
+          "palabra": "SIN TIERRA",
+          "pista": "Movimiento de Brasil que reclama tierra para trabajar."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué diferencia a los nuevos actores sociales de los sindicatos tradicionales?",
+          "opciones": [
+            "Incluían a personas sin empleo",
+            "Solo reunían a empresarios y dueños de fábricas",
+            "Eran partidos políticos que se presentaban a elecciones",
+            "Ninguna"
+          ],
+          "correcta": 0,
+          "explicacion": "Los sindicatos representaban sobre todo a quienes tenían empleo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estos es un nuevo actor de otro país de América Latina?",
+          "opciones": [
+            "El Movimiento Sin Tierra",
+            "La CGT, la central de los sindicatos argentinos",
+            "La Unión Industrial Argentina, de los empresarios",
+            "La Junta Militar que gobernó entre 1976 y 1983"
+          ],
+          "correcta": 0,
+          "explicacion": "También los zapatistas de México y las organizaciones indígenas de Bolivia y Ecuador."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la crisis de 2001 surgieron asambleas barriales y clubes de trueque.",
+          "respuesta": true,
+          "explicacion": "Vecinos y vecinas se organizaron para resolver problemas en común."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Un nuevo rol del Estado y la integración regional",
+      "tiempo": "30 a 40 min",
+      "recordas": "¿Qué recordás de lo que proponía el neoliberalismo sobre el papel del Estado?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "El Estado vuelve a intervenir",
+          "texto": "Después de las crisis, en la Argentina y en varios países de América Latina se **redefinió el rol del Estado**: volvió a intervenir más en la economía, con más regulaciones y programas sociales.\n\nEn la Argentina, por ejemplo, algunas empresas y servicios que habían sido privatizados volvieron a manos del Estado: los fondos de jubilación (2008), Aerolíneas Argentinas (2008) y la mayoría de las acciones de YPF (2012). También se crearon programas sociales como la **Asignación Universal por Hijo** (2009)."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Un debate abierto",
+          "texto": "Estos cambios generaron **debates** que siguen hasta hoy. Quienes los apoyan sostienen que el Estado recuperó herramientas para proteger a la población y orientar la economía. Quienes los critican sostienen que aumentaron el gasto público y la intervención más allá de lo conveniente.\n\nDesde entonces, los gobiernos de la región **alternaron distintas orientaciones**, y la discusión sobre cuánto debe intervenir el Estado sigue abierta."
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "🕵️ Encontrá el error",
+          "pregunta": "Una de estas afirmaciones es FALSA. ¿Cuál?",
+          "opciones": [
+            "El Estado dejó de intervenir por completo",
+            "Algunas empresas privatizadas volvieron a manos del Estado",
+            "La Asignación Universal por Hijo se creó en 2009",
+            "Sobre estos cambios hay un debate que sigue abierto"
+          ],
+          "correcta": 0,
+          "explicacion": "Es al revés: después de las crisis, el Estado volvió a intervenir más.",
+          "pista": "Releé el texto \"El Estado vuelve a intervenir\"."
+        },
+        {
+          "t": "texto",
+          "titulo": "La integración regional",
+          "texto": "Otro cambio importante fue el avance de la **integración regional**: los países de América Latina buscaron unirse para comerciar más y tener más fuerza en el mundo.\n\n• **Mercosur** (1991): Argentina, Brasil, Paraguay y Uruguay acordaron reducir las trabas al comercio entre ellos.\n• **Unasur** (2008): unión de los doce países de América del Sur.\n• **CELAC** (2011): reúne a los países de América Latina y el Caribe."
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "src": "img/clases/his-4-09-integracion.svg",
+          "src_movil": "img/clases/his-4-09-integracion-movil.svg",
+          "tipo": "grafico",
+          "alt": "Esquema de óvalos uno dentro de otro: el Mercosur (1991: Argentina, Brasil, Paraguay y Uruguay) está dentro de la Unasur (2008: los doce países de América del Sur), que está dentro de la CELAC (2011: países de América Latina y el Caribe).",
+          "epigrafe": "Los países del Mercosur también forman parte de la Unasur y de la CELAC. Esquema elaborado para esta clase.",
+          "animacion": "svg"
+        },
+        {
+          "t": "linea",
+          "titulo": "La integración regional",
+          "eventos": [
+            {
+              "anio": "1991",
+              "titulo": "Mercosur",
+              "texto": "Argentina, Brasil, Paraguay y Uruguay firman el Tratado de Asunción."
+            },
+            {
+              "anio": "2008",
+              "titulo": "Unasur",
+              "texto": "Se crea la unión de los doce países sudamericanos."
+            },
+            {
+              "anio": "2011",
+              "titulo": "CELAC",
+              "texto": "Se crea la comunidad de países de América Latina y el Caribe."
+            }
+          ]
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada organización con su descripción.",
+          "pares": [
+            {
+              "a": "Mercosur",
+              "b": "Argentina, Brasil, Paraguay y Uruguay reducen trabas al comercio (1991)"
+            },
+            {
+              "a": "Unasur",
+              "b": "Unión de los doce países de América del Sur (2008)"
+            },
+            {
+              "a": "CELAC",
+              "b": "Países de América Latina y el Caribe (2011)"
+            }
+          ],
+          "explicacion": "Son tres formas de integración regional.",
+          "pista": "Mirá el texto \"La integración regional\"."
+        },
+        {
+          "t": "verificar",
+          "etiqueta": "Contá en el texto",
+          "consigna": "Según el texto, ¿cuántos países crearon el Mercosur?",
+          "respuesta": "4",
+          "explicacion": "Lo crearon **cuatro** países: Argentina, Brasil, Paraguay y Uruguay.",
+          "pista": "Contá los países que aparecen junto al Mercosur."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Pensalo así",
+          "texto": "La integración regional es como cuando varios negocios de una misma calle se ponen de acuerdo para hacer una feria juntos: cada uno sigue siendo independiente, pero unidos atraen más gente y negocian mejor con los proveedores."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿qué ventajas puede tener para un país como la Argentina integrarse con sus vecinos?",
+          "respuesta": "Puede vender más productos a países cercanos, comprar con menos trabas, y negociar con más fuerza frente a potencias o bloques grandes. También facilita el trabajo, el estudio y el turismo entre países. Al mismo tiempo, integrarse implica acordar reglas comunes, y eso puede generar tensiones cuando los intereses de los países no coinciden."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá cómo se redefinió el rol del Estado después de las crisis y en qué consiste la integración regional. Contá qué medidas se tomaron en la Argentina, qué debate generaron, y qué son el Mercosur, la Unasur y la CELAC.",
+        "guia": [
+          "¿Qué cambió en el rol del Estado después de las crisis?",
+          "¿Qué empresas o servicios volvieron a manos del Estado en la Argentina?",
+          "¿Qué argumentos hay a favor y en contra de esos cambios?",
+          "¿Qué es la integración regional?",
+          "¿Qué son el Mercosur, la Unasur y la CELAC?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "rol del estado",
+              "intervenir",
+              "intervencion"
+            ],
+            "p": "el nuevo rol del Estado"
+          },
+          {
+            "k": [
+              "ypf",
+              "aerolineas",
+              "jubilacion",
+              "asignacion"
+            ],
+            "p": "las medidas en la Argentina"
+          },
+          {
+            "k": [
+              "debate",
+              "apoyan",
+              "critican"
+            ],
+            "p": "el debate"
+          },
+          {
+            "k": [
+              "integracion"
+            ],
+            "p": "la integración regional"
+          },
+          {
+            "k": [
+              "mercosur",
+              "unasur",
+              "celac"
+            ],
+            "p": "las organizaciones regionales"
+          }
+        ],
+        "referencia": "Después de las crisis, en la Argentina y en varios países de la región el Estado volvió a intervenir más. En la Argentina volvieron al Estado los fondos de jubilación y Aerolíneas (2008) y la mayoría de YPF (2012), y se creó la Asignación Universal por Hijo (2009). Quienes lo apoyan dicen que el Estado recuperó herramientas; quienes lo critican, que aumentaron el gasto y la intervención. El debate sigue abierto. La integración regional avanzó con el Mercosur (1991), la Unasur (2008) y la CELAC (2011).",
+        "minPalabras": 40
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Después de las crisis, en varios países de la región el Estado volvió a intervenir más en la economía.",
+          "respuesta": true,
+          "explicacion": "Con más regulaciones y programas sociales."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En 2012 la mayoría de las acciones de YPF volvieron a manos del Estado.",
+          "respuesta": true,
+          "explicacion": "Había sido privatizada en los años 90."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Sobre el nuevo rol del Estado todos opinan lo mismo.",
+          "respuesta": false,
+          "explicacion": "Hay un debate entre quienes lo apoyan y quienes lo critican."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Mercosur se creó en 1991.",
+          "respuesta": true,
+          "explicacion": "Con el Tratado de Asunción."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Unasur reunió a todos los países del mundo.",
+          "respuesta": false,
+          "explicacion": "Reunió a los doce países de América del Sur."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La CELAC reúne a los países de América Latina y el Caribe.",
+          "respuesta": true,
+          "explicacion": "Se creó en 2011."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Asignación Universal por Hijo se creó en 2009.",
+          "respuesta": true,
+          "explicacion": "Es un programa social."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué países formaron el Mercosur en 1991?",
+          "opciones": [
+            "Argentina, Brasil, Paraguay y Uruguay",
+            "Argentina, Chile, Perú y Bolivia",
+            "México, Estados Unidos y Canadá",
+            "Todos los países de América del Sur"
+          ],
+          "correcta": 0,
+          "explicacion": "Firmaron el Tratado de Asunción."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué volvió a manos del Estado en 2008 en la Argentina?",
+          "opciones": [
+            "Las jubilaciones y Aerolíneas",
+            "El Mercosur, que había sido privatizado",
+            "La CELAC, creada por empresas privadas",
+            "La convertibilidad, que volvió a regir"
+          ],
+          "correcta": 0,
+          "explicacion": "Y en 2012, la mayoría de YPF."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es la integración regional?",
+          "opciones": [
+            "Países que se unen para tener más fuerza",
+            "Que un país conquiste a otro",
+            "Que cada país cierre sus fronteras",
+            "Un tipo de privatización de empresas del Estado"
+          ],
+          "correcta": 0,
+          "explicacion": "Por ejemplo, el Mercosur."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué sostienen quienes apoyan el nuevo rol del Estado?",
+          "opciones": [
+            "Recuperó herramientas para proteger a la población",
+            "El Estado no debe intervenir nunca en la economía",
+            "Hay que privatizar todas las empresas que quedan",
+            "El Mercosur debe disolverse lo antes posible"
+          ],
+          "correcta": 0,
+          "explicacion": "Quienes lo critican sostienen que aumentó el gasto."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué sostienen quienes critican esos cambios?",
+          "opciones": [
+            "Aumentó demasiado el gasto público",
+            "El Estado intervino demasiado poco en la economía",
+            "No hubo cambios",
+            "Había que crear más organizaciones regionales"
+          ],
+          "correcta": 0,
+          "explicacion": "El debate sigue abierto."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuántos países reunió la Unasur?",
+          "opciones": [
+            "Doce",
+            "Cuatro",
+            "Treinta y tres",
+            "Dos"
+          ],
+          "correcta": 0,
+          "explicacion": "Los doce países de América del Sur."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "MERCOSUR",
+          "pista": "Acuerdo de 1991 entre Argentina, Brasil, Paraguay y Uruguay."
+        },
+        {
+          "palabra": "INTEGRACIÓN",
+          "pista": "___ regional: países que se unen para comerciar y tener más fuerza."
+        },
+        {
+          "palabra": "UNASUR",
+          "pista": "Unión de los doce países de América del Sur (2008)."
+        },
+        {
+          "palabra": "CELAC",
+          "pista": "Comunidad de países de América Latina y el Caribe (2011)."
+        },
+        {
+          "palabra": "ASUNCIÓN",
+          "pista": "Ciudad donde se firmó el tratado del Mercosur."
+        },
+        {
+          "palabra": "DEBATE",
+          "pista": "Lo que sigue abierto sobre cuánto debe intervenir el Estado."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo cambió el rol del Estado después de las crisis?",
+          "opciones": [
+            "Volvió a intervenir más",
+            "Dejó de intervenir por completo en la economía",
+            "Privatizó todas las empresas que le quedaban",
+            "Se disolvió"
+          ],
+          "correcta": 0,
+          "explicacion": "Es lo que el diseño curricular llama \"redefinición del rol del Estado\"."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es el Mercosur?",
+          "opciones": [
+            "Un acuerdo comercial regional de 1991",
+            "Un partido político",
+            "Una empresa del Estado que volvió a manos públicas",
+            "Un movimiento de personas desocupadas de la región"
+          ],
+          "correcta": 0,
+          "explicacion": "Se creó con el Tratado de Asunción."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La discusión sobre cuánto debe intervenir el Estado en la economía sigue abierta.",
+          "respuesta": true,
+          "explicacion": "Los gobiernos de la región alternaron distintas orientaciones."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Globalización financiera",
+      "definicion": "Movimiento muy rápido del dinero entre países, que puede provocar crisis cuando los inversores retiran sus fondos."
+    },
+    {
+      "palabra": "Recesión",
+      "definicion": "Período en que la economía deja de crecer, cierran empresas y aumenta la desocupación."
+    },
+    {
+      "palabra": "Corralito",
+      "definicion": "Límite a cuánto dinero se podía sacar de los bancos (fines de 2001)."
+    },
+    {
+      "palabra": "Devaluación",
+      "definicion": "Cuando la moneda de un país pierde valor frente a otras monedas."
+    },
+    {
+      "palabra": "Nuevos actores sociales",
+      "definicion": "Grupos que se organizaron de formas nuevas: movimientos de desocupados, asambleas, empresas recuperadas, clubes de trueque."
+    },
+    {
+      "palabra": "Integración regional",
+      "definicion": "Unión de países de una región para comerciar más y tener más fuerza en el mundo."
+    },
+    {
+      "palabra": "Mercosur",
+      "definicion": "Acuerdo de 1991 entre Argentina, Brasil, Paraguay y Uruguay."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "La crisis de 2001 fue solo un problema argentino.",
+      "aclaracion": "Fue parte de una serie de crisis financieras en México, Asia, Rusia y Brasil, en el marco de la globalización financiera."
+    },
+    {
+      "error": "Los nuevos actores sociales reemplazaron a los sindicatos.",
+      "aclaracion": "Los sindicatos siguieron existiendo; los nuevos actores organizaron, sobre todo, a quienes no tenían empleo o enfrentaban la crisis de otras formas."
+    },
+    {
+      "error": "El debate sobre el rol del Estado ya está resuelto.",
+      "aclaracion": "Sigue abierto: los gobiernos de la región alternaron distintas orientaciones."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "Preguntale a una persona adulta de tu familia cómo vivió la crisis de 2001: ¿qué cambió en su trabajo, sus ahorros o su barrio?",
+    "conexion": "Con tu trabajo práctico: ahí vas a relacionar este tema con un ejemplo del presente."
+  }
+}

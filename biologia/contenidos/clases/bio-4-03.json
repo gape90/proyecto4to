@@ -1,0 +1,1265 @@
+{
+ "id": "bio-4-03",
+ "espacio": "biologia",
+ "eje": "Los sistemas y funciones de nutrición",
+ "titulo": "Los sistemas digestivo y respiratorio",
+ "intro": "Para que los nutrientes y el oxígeno lleguen a tus células, dos sistemas hacen la primera parte del trabajo. En esta clase vas a ver cómo están formados el sistema digestivo y el respiratorio, cómo funcionan y qué pasa cuando algo falla.",
+ "objetivos": [
+  "Describir los órganos del sistema digestivo y explicar qué pasa en la digestión y en la absorción.",
+  "Explicar el camino del aire, el intercambio gaseoso en los alvéolos y cómo se producen la inspiración y la espiración.",
+  "Relacionar algunas afecciones frecuentes con el órgano que alteran y reconocer hábitos que ayudan a prevenirlas."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: cómo están formados y cómo funcionan los sistemas digestivo y respiratorio, y algunos ejemplos de funcionamiento patológico con su prevención.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "El sistema digestivo",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "En la clase anterior viste que la nutrición empieza cuando el alimento entra a la boca. Pero una milanesa no puede llegar entera a tus células. ¿Qué tiene que pasarle en el camino? Pensalo un momento y después seguí leyendo."
+    },
+    {
+     "t": "texto",
+     "titulo": "Un tubo y sus glándulas",
+     "texto": "El **sistema digestivo** parte los nutrientes de los alimentos en unidades más chicas y las hace pasar a la sangre. Tiene dos tipos de órganos.\n\nEl **tubo digestivo** es un conducto que va de la boca al ano. El alimento pasa, en orden, por la boca, la faringe, el esófago, el estómago, el intestino delgado y el intestino grueso.\n\nLas **glándulas anexas** están fuera del tubo y vuelcan en él sus jugos. Son las glándulas salivales, que fabrican la saliva; el **hígado**, que produce la bilis; y el **páncreas**, que fabrica el jugo pancreático."
+    },
+    {
+     "t": "imagen",
+     "titulo": "El sistema digestivo",
+     "src": "img/clases/bio-4-03-digestivo.svg",
+     "tipo": "grafico",
+     "alt": "Ilustración del sistema digestivo de una persona. Se señalan la boca, las glándulas salivales, la faringe, el esófago, el hígado, el estómago, el páncreas, el intestino delgado, el intestino grueso y el ano. El tubo digestivo va de la boca al ano; las glándulas salivales, el hígado y el páncreas son glándulas anexas que vuelcan sus jugos al tubo.",
+     "epigrafe": "Ilustración: Mariana Ruiz Villarreal (LadyofHats). Los rótulos y la animación se agregaron para esta clase.",
+     "src_movil": "img/clases/bio-4-03-digestivo-movil.svg",
+     "fuente": "Wikimedia Commons (dominio público).",
+     "animacion": "svg",
+     "_imagen": true
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🗣️ ¿Quién lo diría?",
+     "pregunta": "Esta frase es inventada: \"Yo no estoy en el camino de la comida, pero fabrico la bilis y la mando al intestino para ayudar con las grasas\". ¿Qué órgano podría decirla?",
+     "opciones": [
+      "El esófago",
+      "El hígado",
+      "El estómago",
+      "El intestino grueso"
+     ],
+     "correcta": 1,
+     "explicacion": "El hígado es una glándula anexa: no forma parte del tubo, pero produce la bilis, que ayuda a digerir las grasas.",
+     "pista": "Buscá en el texto qué órganos están fuera del tubo y qué fabrica cada uno."
+    },
+    {
+     "t": "texto",
+     "titulo": "Qué le pasa al alimento",
+     "texto": "En la boca, los dientes cortan y trituran el alimento. La saliva lo humedece y, con una de sus enzimas, empieza a digerir el almidón. Así se forma el **bolo alimenticio**, que se traga y baja por el esófago gracias a contracciones de sus paredes.\n\nLa **digestión** tiene dos partes. La **mecánica** rompe el alimento en pedazos más chicos: la masticación y los movimientos del estómago, que lo mezclan. La **química** la hacen las enzimas de los jugos digestivos, que parten las moléculas grandes en otras más chicas. En el estómago, el jugo gástrico empieza a digerir las proteínas.\n\nEn el **intestino delgado**, con la ayuda de la bilis y del jugo pancreático, termina la digestión. Sus paredes tienen muchos pliegues y pequeñas prolongaciones, las **vellosidades**, por donde los nutrientes pasan a la sangre: es la **absorción**. En el intestino grueso se absorbe agua y se forma la materia fecal, que se elimina por el ano."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cada frase describe digestión mecánica o química? Si no te acordás, releé el texto de arriba.",
+     "categorias": [
+      "Digestión mecánica",
+      "Digestión química"
+     ],
+     "items": [
+      {
+       "texto": "Los dientes trituran el alimento",
+       "cat": "Digestión mecánica"
+      },
+      {
+       "texto": "El estómago mezcla el alimento con sus movimientos",
+       "cat": "Digestión mecánica"
+      },
+      {
+       "texto": "El jugo gástrico empieza a digerir las proteínas",
+       "cat": "Digestión química"
+      },
+      {
+       "texto": "La saliva empieza a digerir el almidón",
+       "cat": "Digestión química"
+      },
+      {
+       "texto": "El jugo pancreático termina de partir las moléculas",
+       "cat": "Digestión química"
+      }
+     ],
+     "explicacion": "La mecánica rompe el alimento en pedazos sin cambiar sus moléculas; la química la hacen las enzimas de los jugos digestivos, que parten las moléculas grandes.",
+     "pista": "Preguntate si la frase habla de romper o mezclar el alimento, o de una enzima o un jugo que parte las moléculas."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Qué pasa en cada órgano",
+     "columnas": [
+      "Órgano",
+      "Qué pasa acá"
+     ],
+     "filas": [
+      [
+       "Boca",
+       "Se mastica y se mezcla con saliva"
+      ],
+      [
+       "Esófago",
+       "Lleva el bolo al estómago"
+      ],
+      [
+       "Estómago",
+       "Mezcla el alimento con jugo gástrico"
+      ],
+      [
+       "Hígado",
+       "Produce la bilis"
+      ],
+      [
+       "Intestino delgado",
+       "Termina la digestión y absorbe los nutrientes"
+      ],
+      [
+       "Intestino grueso",
+       "Absorbe agua y forma la materia fecal"
+      ]
+     ]
+    },
+    {
+     "t": "viaje",
+     "etiqueta": "🧭 De viaje por el tubo digestivo",
+     "svg": "img/clases/bio-4-03-viaje.svg",
+     "consigna": "Imaginá que sos un bocado de comida. Vas a recorrer el tubo digestivo de punta a punta. En cada parada, decí en qué órgano estás. Si no te acordás, mirá la tabla de arriba.",
+     "intro": "Acabás de entrar al cuerpo. Tocá el botón y seguí el bocado marrón: la vista te va a acompañar.",
+     "alt": "Ilustración del sistema digestivo de una persona. Se señalan la boca, las glándulas salivales, la faringe, el esófago, el hígado, el estómago, el páncreas, el intestino delgado, el intestino grueso y el ano. El tubo digestivo va de la boca al ano; las glándulas salivales, el hígado y el páncreas son glándulas anexas que vuelcan sus jugos al tubo.",
+     "fuente": "Ilustración: Mariana Ruiz Villarreal (LadyofHats), vía Wikimedia Commons (dominio público).",
+     "cierre": "Lo que el cuerpo no aprovechó salió como materia fecal. Por el camino, los nutrientes pasaron a la sangre en el intestino delgado.",
+     "paradas": [
+      {
+       "x": 126,
+       "y": 142,
+       "zoom": 260,
+       "camino": "Entrás al cuerpo…",
+       "opciones": [
+        "Boca",
+        "Faringe",
+        "Estómago"
+       ],
+       "correcta": 0,
+       "titulo": "Estás en la boca",
+       "texto": "Los dientes te cortan y te trituran, y la saliva te humedece y empieza a digerir tu almidón. Así te convertís en el **bolo alimenticio**.",
+       "pista": "Es el primer órgano del tubo digestivo, por donde entra el alimento."
+      },
+      {
+       "x": 180,
+       "y": 330,
+       "zoom": 300,
+       "camino": "Te tragan: pasás por la faringe y empezás a bajar…",
+       "opciones": [
+        "Esófago",
+        "Faringe",
+        "Intestino delgado"
+       ],
+       "correcta": 0,
+       "titulo": "Estás en el esófago",
+       "texto": "Las paredes de este tubo se contraen y te empujan hacia abajo, hasta el estómago.",
+       "pista": "Ya pasaste la faringe. Fijate en el texto qué órgano viene después."
+      },
+      {
+       "x": 248,
+       "y": 468,
+       "zoom": 280,
+       "camino": "Bajás por el esófago…",
+       "opciones": [
+        "Estómago",
+        "Hígado",
+        "Páncreas"
+       ],
+       "correcta": 0,
+       "titulo": "Estás en el estómago",
+       "texto": "Sus movimientos te mezclan con el **jugo gástrico**, que empieza a digerir las proteínas.",
+       "pista": "El hígado y el páncreas están fuera del tubo: el alimento no pasa por ellos."
+      },
+      {
+       "x": 200,
+       "y": 640,
+       "zoom": 300,
+       "camino": "Salís del estómago y entrás en un tubo largo y enrollado…",
+       "opciones": [
+        "Intestino delgado",
+        "Intestino grueso",
+        "Esófago"
+       ],
+       "correcta": 0,
+       "titulo": "Estás en el intestino delgado",
+       "texto": "Llegan la **bilis** del hígado y el **jugo pancreático**, y termina la digestión. Tus nutrientes atraviesan las vellosidades y pasan a la sangre: es la **absorción**.",
+       "pista": "Es el órgano que sigue al estómago en el tubo digestivo."
+      },
+      {
+       "x": 286,
+       "y": 640,
+       "zoom": 320,
+       "camino": "Ya quedan pocos nutrientes. Pasás a un tubo más ancho…",
+       "opciones": [
+        "Intestino grueso",
+        "Intestino delgado",
+        "Estómago"
+       ],
+       "correcta": 0,
+       "titulo": "Estás en el intestino grueso",
+       "texto": "Acá se absorbe agua y lo que queda de vos forma la **materia fecal**.",
+       "pista": "Ya saliste del intestino delgado. ¿Qué órgano viene después, según el texto?"
+      },
+      {
+       "x": 175,
+       "y": 805,
+       "zoom": 300,
+       "camino": "Llegás al final del recorrido…",
+       "opciones": [
+        "Ano",
+        "Boca",
+        "Intestino delgado"
+       ],
+       "correcta": 0,
+       "titulo": "Estás en el ano",
+       "texto": "Por acá se elimina la materia fecal. Es la salida del tubo digestivo.",
+       "pista": "Es el último órgano del tubo digestivo."
+      }
+     ]
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Pensalo así: un collar de cuentas",
+     "texto": "Si cortás un collar en tres tramos, tenés pedazos más chicos, pero siguen siendo collar: eso es la digestión **mecánica**. Si después soltás las cuentas una por una, ya no hay collar, hay cuentas sueltas: eso hacen las enzimas en la digestión **química** con las moléculas grandes. Por ejemplo, una proteína se suelta en sus aminoácidos, como viste en la clase 1."
+    },
+    {
+     "t": "esquema",
+     "etiqueta": "🧩 Completá el esquema",
+     "consigna": "Completá el esquema del sistema digestivo: ubicá en cada órgano lo que pasa ahí. Si no te acordás, mirá la tabla de arriba.",
+     "imagen": {
+      "src": "img/clases/bio-4-03-organos.svg",
+      "tipo": "grafico",
+      "alt": "Esquema con seis tarjetas, una por órgano: boca, esófago, estómago, hígado, intestino delgado e intestino grueso. Cada tarjeta tiene un casillero vacío para escribir qué pasa en ese órgano.",
+      "epigrafe": "Esquema elaborado para esta clase.",
+      "src_movil": "img/clases/bio-4-03-organos-movil.svg"
+     },
+     "huecos": [
+      {
+       "x": 3.8,
+       "y": 24.26,
+       "w": 27.4,
+       "h": 20.43,
+       "respuesta": "Se mastica y se mezcla con saliva",
+       "movil": {
+        "x": 6.92,
+        "y": 7.5,
+        "w": 86.15,
+        "h": 7.27
+       }
+      },
+      {
+       "x": 36.3,
+       "y": 24.26,
+       "w": 27.4,
+       "h": 20.43,
+       "respuesta": "Lleva el bolo al estómago",
+       "movil": {
+        "x": 6.92,
+        "y": 23.86,
+        "w": 86.15,
+        "h": 7.27
+       }
+      },
+      {
+       "x": 68.8,
+       "y": 24.26,
+       "w": 27.4,
+       "h": 20.43,
+       "respuesta": "Mezcla el alimento con jugo gástrico",
+       "movil": {
+        "x": 6.92,
+        "y": 40.23,
+        "w": 86.15,
+        "h": 7.27
+       }
+      },
+      {
+       "x": 3.8,
+       "y": 72.34,
+       "w": 27.4,
+       "h": 20.43,
+       "respuesta": "Produce la bilis",
+       "movil": {
+        "x": 6.92,
+        "y": 56.59,
+        "w": 86.15,
+        "h": 7.27
+       }
+      },
+      {
+       "x": 36.3,
+       "y": 72.34,
+       "w": 27.4,
+       "h": 20.43,
+       "respuesta": "Termina la digestión y absorbe los nutrientes",
+       "movil": {
+        "x": 6.92,
+        "y": 72.95,
+        "w": 86.15,
+        "h": 7.27
+       }
+      },
+      {
+       "x": 68.8,
+       "y": 72.34,
+       "w": 27.4,
+       "h": 20.43,
+       "respuesta": "Absorbe agua y forma la materia fecal",
+       "movil": {
+        "x": 6.92,
+        "y": 89.32,
+        "w": 86.15,
+        "h": 7.27
+       }
+      }
+     ],
+     "explicacion": "Es la misma información de la tabla: cada órgano cumple una parte del trabajo.",
+     "pista": "Cada tarjeta del esquema es una fila de la tabla Qué pasa en cada órgano."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "El sistema digestivo tiene un **tubo digestivo** (boca, faringe, esófago, estómago, intestino delgado, intestino grueso y ano) y **glándulas anexas** (salivales, hígado y páncreas). La **digestión** parte los nutrientes en unidades más chicas y la **absorción** las hace pasar a la sangre, sobre todo en el intestino delgado."
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Completá el dato",
+     "consigna": "¿Cómo se llama el paso en el que los nutrientes atraviesan la pared del intestino delgado y llegan a la sangre?",
+     "respuesta": "absorción",
+     "acepta": [
+      "absorción",
+      "absorcion",
+      "la absorción",
+      "la absorcion"
+     ],
+     "formato": "Escribí una sola palabra.",
+     "explicacion": "La absorción ocurre sobre todo en el intestino delgado, a través de las vellosidades.",
+     "pista1": "Pensá en lo que hacen las vellosidades del intestino delgado.",
+     "relee": "Releé el texto Qué le pasa al alimento."
+    },
+    {
+     "t": "dato",
+     "titulo": "¿Por qué hacen ruido las tripas?",
+     "texto": "Las paredes del tubo digestivo se contraen muchas veces por día para empujar el alimento, el agua y el aire que tragás. Cuando el estómago o el intestino tienen poco contenido, ese movimiento se escucha más: son los ruidos que aparecen cuando tenés hambre."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: si el intestino delgado no tuviera pliegues ni vellosidades, ¿qué pasaría con los nutrientes que comés?",
+     "respuesta": "Habría mucha menos superficie para la absorción. Aunque la digestión partiera bien los alimentos, una parte de los nutrientes no llegaría a pasar a la sangre y el cuerpo los perdería."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá cómo está formado el sistema digestivo y contá el recorrido de un alimento, desde la boca hasta el ano, diciendo qué pasa en cada órgano. Agregá qué hacen las glándulas anexas.",
+    "guia": [
+     "¿Qué órganos forman el tubo digestivo y cuáles son las glándulas anexas?",
+     "¿Qué diferencia hay entre la digestión mecánica y la química?",
+     "¿Qué pasa en la boca y en el estómago?",
+     "¿Por qué el intestino delgado es tan importante?",
+     "¿Qué hace el intestino grueso?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El hígado forma parte del tubo digestivo.",
+     "respuesta": false,
+     "explicacion": "Es una glándula anexa: el alimento no pasa por él."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La masticación es digestión mecánica.",
+     "respuesta": true,
+     "explicacion": "Rompe el alimento en pedazos más chicos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La mayor parte de los nutrientes se absorbe en el intestino delgado.",
+     "respuesta": true,
+     "explicacion": "Lo hace a través de las vellosidades."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El intestino grueso produce la bilis.",
+     "respuesta": false,
+     "explicacion": "La bilis la produce el hígado. El intestino grueso absorbe agua."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El bolo alimenticio se forma en la boca.",
+     "respuesta": true,
+     "explicacion": "Con el alimento masticado y la saliva."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las enzimas hacen la digestión química.",
+     "respuesta": true,
+     "explicacion": "Parten las moléculas grandes en otras más chicas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué órgano mezcla el alimento con el jugo gástrico?",
+     "opciones": [
+      "El esófago",
+      "El estómago",
+      "El páncreas",
+      "El intestino grueso"
+     ],
+     "correcta": 1,
+     "explicacion": "El jugo gástrico empieza a digerir las proteínas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos es una glándula anexa?",
+     "opciones": [
+      "El esófago",
+      "El intestino delgado",
+      "El páncreas",
+      "La faringe"
+     ],
+     "correcta": 2,
+     "explicacion": "El páncreas fabrica el jugo pancreático y lo vuelca en el intestino."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué son las vellosidades?",
+     "opciones": [
+      "Pliegues del estómago",
+      "Prolongaciones del intestino delgado",
+      "Glándulas de la boca",
+      "Glándulas del intestino grueso"
+     ],
+     "correcta": 1,
+     "explicacion": "Aumentan la superficie para la absorción."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por dónde baja el bolo hacia el estómago?",
+     "opciones": [
+      "Por la tráquea",
+      "Por el intestino",
+      "Por el esófago",
+      "Por el páncreas"
+     ],
+     "correcta": 2,
+     "explicacion": "Las contracciones del esófago lo empujan."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué se absorbe sobre todo en el intestino grueso?",
+     "opciones": [
+      "Agua",
+      "Proteínas",
+      "Bilis",
+      "Saliva"
+     ],
+     "correcta": 0,
+     "explicacion": "Allí también se forma la materia fecal."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hace la saliva?",
+     "opciones": [
+      "Absorbe los nutrientes y los hace pasar a la sangre",
+      "Produce la bilis que llega al intestino",
+      "Humedece el alimento y empieza a digerir el almidón",
+      "Forma la materia fecal"
+     ],
+     "correcta": 2,
+     "explicacion": "Con la masticación, ayuda a formar el bolo, y su enzima empieza la digestión química del almidón."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "ESÓFAGO",
+     "pista": "Conducto que lleva el bolo al estómago."
+    },
+    {
+     "palabra": "HÍGADO",
+     "pista": "Glándula anexa que produce la bilis."
+    },
+    {
+     "palabra": "PÁNCREAS",
+     "pista": "Glándula anexa que fabrica el jugo pancreático."
+    },
+    {
+     "palabra": "ABSORCIÓN",
+     "pista": "Paso de los nutrientes del intestino a la sangre."
+    },
+    {
+     "palabra": "VELLOSIDADES",
+     "pista": "Prolongaciones del intestino delgado que aumentan la superficie."
+    },
+    {
+     "palabra": "BOLO",
+     "pista": "Alimento masticado y mezclado con saliva."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué órgano termina la digestión y se absorbe la mayor parte de los nutrientes?",
+     "opciones": [
+      "En el intestino delgado",
+      "En el estómago",
+      "En el esófago",
+      "En el intestino grueso, al final"
+     ],
+     "correcta": 0,
+     "explicacion": "Con la bilis y el jugo pancreático termina la digestión, y las vellosidades absorben los nutrientes."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El páncreas y el hígado son glándulas anexas al tubo digestivo.",
+     "respuesta": true,
+     "explicacion": "Están fuera del tubo y vuelcan sus jugos en el intestino."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia hay entre la digestión mecánica y la química?",
+     "opciones": [
+      "La mecánica parte en pedazos; la química cambia moléculas",
+      "La mecánica ocurre en el intestino y la química en la boca",
+      "Son el mismo proceso, llamado con dos nombres distintos",
+      "La química la hacen los dientes y la mecánica, las enzimas"
+     ],
+     "correcta": 0,
+     "explicacion": "Masticar y mezclar es mecánico; las enzimas hacen la parte química."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "El sistema respiratorio",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "En la clase 1 viste que las células usan oxígeno en la respiración celular y producen dióxido de carbono. Pero tus células están adentro del cuerpo, lejos del aire. ¿Cómo les llega el oxígeno? ¿Y por dónde sale el dióxido de carbono?"
+    },
+    {
+     "t": "texto",
+     "titulo": "El camino del aire",
+     "texto": "El **sistema respiratorio** toma oxígeno del aire y elimina dióxido de carbono. El aire entra por las **fosas nasales**, donde se calienta, se humedece y se filtra. Después pasa por la **faringe** y la **laringe**, donde están las cuerdas vocales, y baja por la **tráquea**.\n\nLa tráquea se divide en dos **bronquios**, uno para cada **pulmón**. Dentro de los pulmones, los bronquios se ramifican en **bronquiolos** cada vez más finos, como las ramas de un árbol. Cada bronquiolo termina en pequeñas bolsitas llenas de aire: los **alvéolos**."
+    },
+    {
+     "t": "imagen",
+     "titulo": "El sistema respiratorio",
+     "src": "img/clases/bio-4-03-respiratorio.svg",
+     "tipo": "grafico",
+     "alt": "Ilustración del sistema respiratorio. El aire entra por las fosas nasales, pasa por la faringe y la laringe, baja por la tráquea, que se divide en dos bronquios, y estos en bronquiolos cada vez más finos dentro de los pulmones. Abajo está el diafragma. En un recuadro ampliado se ven los alvéolos rodeados de capilares, donde el oxígeno pasa a la sangre y el dióxido de carbono sale de ella.",
+     "epigrafe": "Ilustración: Mariana Ruiz Villarreal (LadyofHats). Los rótulos y la animación se agregaron para esta clase.",
+     "src_movil": "img/clases/bio-4-03-respiratorio-movil.svg",
+     "fuente": "Wikimedia Commons (dominio público).",
+     "animacion": "svg",
+     "_imagen": true
+    },
+    {
+     "t": "texto",
+     "titulo": "El intercambio en los alvéolos",
+     "texto": "Los alvéolos están rodeados de **capilares**, vasos sanguíneos muy finos. Las paredes de los dos son tan delgadas que los gases las atraviesan. El **oxígeno** pasa del aire del alvéolo a la sangre, y el **dióxido de carbono** pasa de la sangre al alvéolo para salir con el aire. Es el **intercambio gaseoso**. Después, la sangre lleva el oxígeno a todas las células, que lo usan en la respiración celular."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "El aire baja por la [[tráquea]], que se divide en dos [[bronquios]]. Estos se ramifican en bronquiolos que terminan en los [[alvéolos]]. Ahí el [[oxígeno]] pasa a la sangre y el dióxido de carbono sale con el aire.",
+     "explicacion": "Ese es el camino del aire hasta el lugar donde ocurre el intercambio gaseoso.",
+     "pista": "Mirá el dibujo del sistema respiratorio: las partes están en el orden en que pasa el aire."
+    },
+    {
+     "t": "texto",
+     "titulo": "Inspiración y espiración",
+     "texto": "Los pulmones no tienen músculos propios. El aire entra y sale gracias al **diafragma**, un músculo que está debajo de los pulmones, y a los músculos que hay entre las costillas. Ese movimiento se llama **ventilación pulmonar** y tiene dos momentos.\n\nEn la **inspiración**, el diafragma se contrae y baja, las costillas se elevan y el tórax se agranda: el aire entra. En la **espiración**, el diafragma se relaja y sube, el tórax se achica y el aire sale."
+    },
+    {
+     "t": "imagen",
+     "titulo": "Inspiración y espiración",
+     "src": "img/clases/bio-4-03-ventilacion.svg",
+     "tipo": "grafico",
+     "alt": "Dos dibujos del tórax, con las costillas y el diafragma. Inspiración: el diafragma se contrae y baja, las costillas suben, el tórax se agranda, los pulmones se expanden y el aire entra. Espiración: el diafragma se relaja y sube, el tórax se achica, los pulmones se reducen y el aire sale.",
+     "epigrafe": "Ilustración elaborada para esta clase. Los órganos están simplificados y no respetan los tamaños reales.",
+     "src_movil": "img/clases/bio-4-03-ventilacion-movil.svg",
+     "animacion": "svg",
+     "_imagen": true
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cada frase describe la inspiración o la espiración? Si no te acordás, mirá los dos dibujos de arriba.",
+     "categorias": [
+      "Inspiración",
+      "Espiración"
+     ],
+     "items": [
+      {
+       "texto": "El diafragma se contrae y baja",
+       "cat": "Inspiración"
+      },
+      {
+       "texto": "El tórax se agranda",
+       "cat": "Inspiración"
+      },
+      {
+       "texto": "Entra aire a los pulmones",
+       "cat": "Inspiración"
+      },
+      {
+       "texto": "El diafragma se relaja y sube",
+       "cat": "Espiración"
+      },
+      {
+       "texto": "El tórax se achica",
+       "cat": "Espiración"
+      },
+      {
+       "texto": "Sale aire de los pulmones",
+       "cat": "Espiración"
+      }
+     ],
+     "explicacion": "Cuando el diafragma baja, el tórax se agranda y entra aire; cuando sube, el tórax se achica y el aire sale.",
+     "pista": "Pensá en qué hace el diafragma en cada momento y qué le pasa al tamaño del tórax."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Pensalo así: una jeringa",
+     "texto": "Tirá del émbolo de una jeringa vacía: el espacio de adentro se agranda y entra aire por la punta. Si lo empujás, el espacio se achica y el aire sale. El diafragma funciona como ese émbolo: cuando baja, el tórax se agranda y el aire entra."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "El aire pasa por las fosas nasales, la faringe, la laringe, la tráquea, los bronquios y los bronquiolos hasta los **alvéolos**, donde ocurre el **intercambio gaseoso**: entra oxígeno a la sangre y sale dióxido de carbono. La **ventilación pulmonar** (inspiración y espiración) depende del **diafragma**."
+    },
+    {
+     "t": "vf",
+     "consigna": "Leé cada afirmación y marcá si es verdadera o falsa.",
+     "afirmaciones": [
+      {
+       "texto": "Los pulmones se mueven solos porque tienen músculos propios.",
+       "v": false,
+       "explicacion": "No tienen músculos propios: los mueven el diafragma y los músculos de entre las costillas."
+      },
+      {
+       "texto": "En los alvéolos el oxígeno pasa a la sangre.",
+       "v": true,
+       "explicacion": "Y el dióxido de carbono pasa de la sangre al alvéolo."
+      },
+      {
+       "texto": "Respirar con los pulmones y la respiración celular son exactamente lo mismo.",
+       "v": false,
+       "explicacion": "La ventilación lleva el aire a los pulmones; la respiración celular ocurre en las mitocondrias de cada célula. Están conectadas, pero son distintas."
+      },
+      {
+       "texto": "En las fosas nasales el aire se calienta, se humedece y se filtra.",
+       "v": true,
+       "explicacion": "Por eso conviene respirar por la nariz."
+      }
+     ]
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "📰 Elegí el titular",
+     "pregunta": "Una revista escolar quiere explicar en un titular qué pasa en los alvéolos. ¿Cuál es correcto?",
+     "opciones": [
+      "En los alvéolos, el oxígeno pasa a la sangre",
+      "Los alvéolos fabrican el oxígeno que usa el cuerpo",
+      "En los alvéolos, el aire se calienta y se filtra",
+      "Los alvéolos empujan el aire hacia afuera"
+     ],
+     "correcta": 0,
+     "explicacion": "Los alvéolos no fabrican ni digieren nada: ahí ocurre el intercambio gaseoso con la sangre de los capilares.",
+     "pista": "Releé el texto El intercambio en los alvéolos."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: cuando corrés, respirás más rápido y más profundo. ¿Para qué lo hace el cuerpo? Usá lo que viste en la clase 1.",
+     "respuesta": "Los músculos trabajan más y necesitan más energía. La obtienen con la respiración celular, que usa oxígeno y produce dióxido de carbono. Respirar más rápido trae más oxígeno y saca el dióxido de carbono extra. Es un ejemplo de homeostasis."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá el camino del aire desde las fosas nasales hasta los alvéolos y qué pasa en el intercambio gaseoso. Después contá cómo se producen la inspiración y la espiración.",
+    "guia": [
+     "¿Por qué estructuras pasa el aire, en orden?",
+     "¿Qué son los alvéolos y qué los rodea?",
+     "¿Qué gas pasa a la sangre y cuál sale con el aire?",
+     "¿Qué hace el diafragma en la inspiración y en la espiración?",
+     "¿Qué relación hay entre el sistema respiratorio y la respiración celular?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La tráquea se divide en dos bronquios.",
+     "respuesta": true,
+     "explicacion": "Uno para cada pulmón."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la inspiración el diafragma sube.",
+     "respuesta": false,
+     "explicacion": "Se contrae y baja; sube en la espiración."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El intercambio gaseoso ocurre en los alvéolos.",
+     "respuesta": true,
+     "explicacion": "Ahí el oxígeno pasa a la sangre."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las cuerdas vocales están en la laringe.",
+     "respuesta": true,
+     "explicacion": "Por eso la laringe participa en la voz."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los capilares que rodean a los alvéolos tienen paredes muy gruesas.",
+     "respuesta": false,
+     "explicacion": "Son muy delgadas: así los gases las atraviesan."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La sangre lleva el oxígeno desde los pulmones a todas las células.",
+     "respuesta": true,
+     "explicacion": "Lo usan en la respiración celular."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde terminan los bronquiolos?",
+     "opciones": [
+      "En la tráquea",
+      "En los alvéolos",
+      "En la laringe",
+      "En el diafragma"
+     ],
+     "correcta": 1,
+     "explicacion": "Los alvéolos son bolsitas llenas de aire."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué músculo permite la ventilación pulmonar?",
+     "opciones": [
+      "El corazón",
+      "Los músculos del cuello",
+      "El diafragma",
+      "Los músculos de la cara"
+     ],
+     "correcta": 2,
+     "explicacion": "Junto con los músculos de entre las costillas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué gas sale de la sangre hacia el alvéolo?",
+     "opciones": [
+      "El dióxido de carbono",
+      "El oxígeno",
+      "El nitrógeno",
+      "El vapor de agua"
+     ],
+     "correcta": 0,
+     "explicacion": "Lo producen las células en la respiración celular."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué pasa con el tórax en la espiración?",
+     "opciones": [
+      "Se agranda",
+      "Se achica",
+      "No cambia",
+      "Se llena de aire"
+     ],
+     "correcta": 1,
+     "explicacion": "Por eso el aire sale."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué le pasa al aire en las fosas nasales?",
+     "opciones": [
+      "Se convierte en oxígeno puro",
+      "Se calienta y se filtra",
+      "Pasa directo a la sangre",
+      "Se enfría y se seca"
+     ],
+     "correcta": 1,
+     "explicacion": "Llega en mejores condiciones a los pulmones."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En la jeringa del ejemplo, ¿qué representa el émbolo?",
+     "opciones": [
+      "La tráquea",
+      "Los alvéolos",
+      "Los bronquios",
+      "El diafragma"
+     ],
+     "correcta": 3,
+     "explicacion": "Cuando baja, el espacio se agranda y entra aire."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "TRÁQUEA",
+     "pista": "Tubo por el que baja el aire hasta los bronquios."
+    },
+    {
+     "palabra": "BRONQUIOS",
+     "pista": "Las dos ramas en las que se divide la tráquea."
+    },
+    {
+     "palabra": "ALVÉOLOS",
+     "pista": "Bolsitas donde ocurre el intercambio gaseoso."
+    },
+    {
+     "palabra": "DIAFRAGMA",
+     "pista": "Músculo que está debajo de los pulmones."
+    },
+    {
+     "palabra": "INSPIRACIÓN",
+     "pista": "Momento en que entra el aire."
+    },
+    {
+     "palabra": "CAPILARES",
+     "pista": "Vasos sanguíneos muy finos que rodean a los alvéolos."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué el oxígeno puede pasar del alvéolo a la sangre?",
+     "opciones": [
+      "Porque las paredes son muy delgadas",
+      "Porque el diafragma lo empuja hasta el corazón",
+      "Porque los bronquios lo fabrican",
+      "Porque la tráquea lo filtra antes"
+     ],
+     "correcta": 0,
+     "explicacion": "Las paredes finas permiten que los gases las atraviesen."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la inspiración el diafragma se contrae y baja, y el tórax se agranda.",
+     "respuesta": true,
+     "explicacion": "Así entra el aire a los pulmones."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué relación hay entre el sistema respiratorio y la respiración celular?",
+     "opciones": [
+      "Los pulmones consiguen el oxígeno que usan las células",
+      "No tienen ninguna relación",
+      "La respiración celular ocurre en los bronquios y en la tráquea",
+      "Las células fabrican el oxígeno del aire"
+     ],
+     "correcta": 0,
+     "explicacion": "Los pulmones toman el oxígeno, la sangre lo lleva y las células lo usan en sus mitocondrias."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Cuando algo no funciona bien",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "Seguramente alguna vez tuviste dolor de panza o una tos que no se iba. Cuando algo de estos sistemas no funciona bien, el cuerpo avisa. ¿Qué pasa por dentro en esos casos?"
+    },
+    {
+     "t": "texto",
+     "titulo": "Cuando algo no funciona bien",
+     "texto": "Hablamos de funcionamiento **normal** cuando los órganos cumplen su tarea y el medio interno se mantiene estable. Hablamos de funcionamiento **patológico** cuando una enfermedad altera esa tarea. Saber qué hace cada órgano ayuda a entender qué pasa cuando se enferma: si falla la absorción, faltan nutrientes; si los bronquios se cierran, llega menos aire a los alvéolos.\n\nEsta clase no sirve para diagnosticar a nadie. Si tenés síntomas que no se van, lo que corresponde es consultar en un centro de salud."
+    },
+    {
+     "t": "fichas",
+     "titulo": "Algunas afecciones frecuentes",
+     "rotulos": [
+      "Qué órgano afecta",
+      "Qué pasa",
+      "Qué ayuda a prevenirla o cuidarse"
+     ],
+     "items": [
+      {
+       "titulo": "Diarrea",
+       "filas": [
+        "El intestino (sistema digestivo)",
+        "El intestino no llega a absorber el agua y las deposiciones salen líquidas. Se pierden agua y sales, y hay riesgo de deshidratación.",
+        "Tomar agua segura, lavarse las manos y consultar si no mejora"
+       ]
+      },
+      {
+       "titulo": "Gastritis",
+       "filas": [
+        "El estómago (sistema digestivo)",
+        "Se inflama la capa que recubre el estómago por dentro. Aparecen dolor o ardor.",
+        "Consultar para conocer la causa y seguir las indicaciones del equipo de salud"
+       ]
+      },
+      {
+       "titulo": "Enfermedad celíaca",
+       "filas": [
+        "El intestino delgado (sistema digestivo)",
+        "En personas predispuestas, el gluten provoca una reacción de las defensas que daña las vellosidades del intestino delgado, y se absorben mal los nutrientes.",
+        "Una alimentación sin TACC (sin trigo, avena, cebada ni centeno) de por vida"
+       ]
+      },
+      {
+       "titulo": "Asma",
+       "filas": [
+        "Los bronquios (sistema respiratorio)",
+        "Los bronquios se inflaman y se estrechan. Cuesta que pase el aire y puede haber silbidos al respirar.",
+        "Seguir el tratamiento indicado y evitar lo que desencadena las crisis, como el humo"
+       ]
+      },
+      {
+       "titulo": "Bronquitis y neumonía",
+       "filas": [
+        "Los bronquios y los alvéolos (sistema respiratorio)",
+        "Los bronquios se inflaman (bronquitis) o se infectan los alvéolos (neumonía), casi siempre por virus o bacterias. Dan tos y a veces fiebre.",
+        "Lavarse las manos, ventilar los ambientes y consultar si hay fiebre o falta de aire"
+       ]
+      },
+      {
+       "titulo": "Daño por el humo del tabaco",
+       "filas": [
+        "Las vías respiratorias y los alvéolos (sistema respiratorio)",
+        "El humo irrita las vías respiratorias y daña los alvéolos. A largo plazo causa enfermedades como el enfisema y el cáncer de pulmón.",
+        "No fumar y evitar los ambientes con humo"
+       ]
+      }
+     ]
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/bio-4-03-habitos.webp",
+     "tipo": "ilustracion",
+     "animacion": "alejar",
+     "alt": "Ilustración con tres escenas: manos que se lavan con agua y jabón, la ventana abierta de un aula y un vaso de agua.",
+     "epigrafe": "Ilustración elaborada para esta clase.",
+     "_imagen": true
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada afección con lo que le pasa al cuerpo.",
+     "pares": [
+      {
+       "a": "Diarrea",
+       "b": "Se pierden agua y sales"
+      },
+      {
+       "a": "Enfermedad celíaca",
+       "b": "Se dañan las vellosidades del intestino delgado"
+      },
+      {
+       "a": "Asma",
+       "b": "Los bronquios se estrechan"
+      },
+      {
+       "a": "Neumonía",
+       "b": "Se infectan los alvéolos"
+      }
+     ],
+     "explicacion": "Cada afección altera la tarea de un órgano que ya conocés: absorber agua, absorber nutrientes, conducir el aire o hacer el intercambio gaseoso.",
+     "pista": "Buscá la ficha de cada afección y fijate en Qué pasa."
+    },
+    {
+     "t": "dato",
+     "titulo": "El sello \"Sin TACC\"",
+     "texto": "La Ley 26.588, sancionada en diciembre de 2009, declaró de interés nacional la atención de la enfermedad celíaca. Los alimentos aptos llevan la leyenda \"Libre de gluten\" y un símbolo oficial con las palabras \"Sin T.A.C.C.\", la sigla de trigo, avena, cebada y centeno, los cereales que tienen gluten. Buscalo en los envases la próxima vez que vayas al supermercado."
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Completá el dato",
+     "consigna": "¿Cómo se llama la proteína del trigo, la avena, la cebada y el centeno que daña el intestino de las personas celíacas?",
+     "respuesta": "gluten",
+     "acepta": [
+      "gluten",
+      "el gluten"
+     ],
+     "formato": "Escribí una sola palabra.",
+     "explicacion": "El gluten está en los cereales TACC. Por eso las personas celíacas comen alimentos sin TACC.",
+     "pista1": "Pensá en qué tienen en común los cuatro cereales que forman la sigla TACC.",
+     "relee": "Releé la ficha de la enfermedad celíaca y el dato sobre el sello."
+    },
+    {
+     "t": "texto",
+     "titulo": "Ambientes libres de humo",
+     "texto": "El humo del tabaco no afecta solo a quien fuma. Quienes están cerca también lo respiran. Por eso la Ley 26.687, sancionada en junio de 2011, prohíbe fumar en los lugares cerrados de acceso público, en los lugares de trabajo cerrados y en las escuelas de todos los niveles."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "En el funcionamiento **patológico**, una enfermedad altera la tarea de un órgano. Muchas afecciones de estos sistemas se previenen con hábitos simples: **agua segura**, lavarse las manos, ventilar los ambientes y **ambientes sin humo**. Ante síntomas que no se van, lo que corresponde es consultar en un **centro de salud**."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🔍 Encontrá el error",
+     "pregunta": "Una de estas frases sobre estos sistemas es falsa. ¿Cuál?",
+     "opciones": [
+      "El humo del tabaco solo perjudica a quien fuma.",
+      "En el asma, los bronquios se estrechan.",
+      "La diarrea puede causar deshidratación.",
+      "La enfermedad celíaca afecta el intestino delgado."
+     ],
+     "correcta": 0,
+     "explicacion": "El humo también lo respiran quienes están cerca. Por eso hay ambientes libres de humo.",
+     "pista": "Releé el texto Ambientes libres de humo."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "Elegí la mejor opción",
+     "pregunta": "Un compañero tiene diarrea desde ayer y se siente débil. Según lo que viste, ¿qué es lo más importante en ese momento?",
+     "opciones": [
+      "Que tome agua segura y consulte si no mejora",
+      "Que deje de tomar líquidos para que se le corte",
+      "Que coma mucho para recuperar fuerzas lo antes posible",
+      "Que espere varios días sin hacer nada"
+     ],
+     "correcta": 0,
+     "explicacion": "Con la diarrea se pierden agua y sales: lo más importante es reponer líquidos y consultar si no mejora.",
+     "pista": "Buscá en la ficha de la diarrea qué se pierde y qué ayuda a cuidarse."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: una persona celíaca que no sabe que lo es come normalmente, pero se siente cansada y le faltan nutrientes. ¿Cómo puede ser, si come bien?",
+     "respuesta": "El problema no está en lo que come sino en la absorción. El gluten provoca una reacción de las defensas que daña las vellosidades del intestino delgado, que dejan de funcionar bien y los nutrientes no llegan a pasar a la sangre. Comer bien no alcanza si el intestino no puede absorber."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué diferencia hay entre el funcionamiento normal y el patológico. Elegí una afección del sistema digestivo y una del respiratorio, y para cada una contá qué órgano afecta, qué le pasa y qué ayuda a prevenirla o cuidarse.",
+    "guia": [
+     "¿Qué quiere decir que un órgano funciona de manera normal o patológica?",
+     "¿Qué órgano afecta la afección digestiva que elegiste y qué le pasa?",
+     "¿Qué órgano afecta la afección respiratoria que elegiste y qué le pasa?",
+     "¿Qué hábitos ayudan a prevenirlas?",
+     "¿Qué conviene hacer ante síntomas que no se van?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Con la diarrea se pierden agua y sales.",
+     "respuesta": true,
+     "explicacion": "Por eso hay riesgo de deshidratación."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la gastritis se inflama el intestino grueso.",
+     "respuesta": false,
+     "explicacion": "Se inflama la capa que recubre el estómago por dentro."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La sigla TACC nombra al trigo, la avena, la cebada y el centeno.",
+     "respuesta": true,
+     "explicacion": "Son los cereales que tienen gluten."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el asma los bronquios se ensanchan.",
+     "respuesta": false,
+     "explicacion": "Se inflaman y se estrechan."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La neumonía es una infección de los alvéolos.",
+     "respuesta": true,
+     "explicacion": "La bronquitis afecta los bronquios."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Por la Ley 26.687 está prohibido fumar en las escuelas.",
+     "respuesta": true,
+     "explicacion": "También en lugares cerrados de acceso público y de trabajo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué daña el gluten en las personas celíacas?",
+     "opciones": [
+      "El intestino delgado",
+      "Los pulmones",
+      "El esófago",
+      "El estómago"
+     ],
+     "correcta": 0,
+     "explicacion": "Por eso se absorben mal los nutrientes."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué ayuda a prevenir la diarrea?",
+     "opciones": [
+      "Tomar agua segura y lavarse las manos",
+      "Respirar por la boca todo el tiempo",
+      "Comer más rápido",
+      "Dejar de tomar agua durante el día"
+     ],
+     "correcta": 0,
+     "explicacion": "Muchas diarreas se contagian por agua o manos sucias."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es el funcionamiento patológico?",
+     "opciones": [
+      "Cuando una enfermedad altera la tarea de un órgano",
+      "Cuando un órgano trabaja más rápido",
+      "Cuando se come sin gluten",
+      "Cuando el cuerpo mantiene estable el medio interno"
+     ],
+     "correcta": 0,
+     "explicacion": "Lo contrario es el funcionamiento normal."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué enfermedad puede causar el humo del tabaco a largo plazo?",
+     "opciones": [
+      "La enfermedad celíaca",
+      "La gastritis",
+      "El enfisema",
+      "La diarrea"
+     ],
+     "correcta": 2,
+     "explicacion": "El humo daña los alvéolos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué sello buscan en los envases las personas celíacas?",
+     "opciones": [
+      "Sin TACC",
+      "Sin sal",
+      "Light",
+      "Orgánico"
+     ],
+     "correcta": 0,
+     "explicacion": "La Ley 26.588 pide que los alimentos aptos lleven un símbolo oficial."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué conviene hacer si una tos con fiebre no se va?",
+     "opciones": [
+      "Esperar sin hacer nada",
+      "Consultar en un centro de salud",
+      "Tomar un jarabe que quedó en casa",
+      "Quedarse en un ambiente cerrado"
+     ],
+     "correcta": 1,
+     "explicacion": "Puede ser una infección que necesita atención."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "PATOLÓGICO",
+     "pista": "Funcionamiento alterado por una enfermedad."
+    },
+    {
+     "palabra": "GLUTEN",
+     "pista": "Proteína de los cereales TACC."
+    },
+    {
+     "palabra": "CELÍACA",
+     "pista": "Enfermedad en la que el gluten provoca un daño en el intestino delgado."
+    },
+    {
+     "palabra": "ASMA",
+     "pista": "Los bronquios se inflaman y se estrechan."
+    },
+    {
+     "palabra": "NEUMONÍA",
+     "pista": "Infección de los alvéolos."
+    },
+    {
+     "palabra": "DESHIDRATACIÓN",
+     "pista": "Pérdida de agua y sales del cuerpo."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué una persona celíaca sin tratamiento puede tener falta de nutrientes?",
+     "opciones": [
+      "Porque absorbe mal los nutrientes",
+      "Porque el estómago no produce jugo gástrico",
+      "Porque el intestino grueso no absorbe agua",
+      "Porque come demasiadas veces por día"
+     ],
+     "correcta": 0,
+     "explicacion": "El problema está en la absorción, en el intestino delgado."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el asma llega menos aire a los alvéolos porque los bronquios se estrechan.",
+     "respuesta": true,
+     "explicacion": "Por eso cuesta respirar."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos hábitos cuida al sistema respiratorio?",
+     "opciones": [
+      "Evitar los ambientes con humo de tabaco",
+      "Tomar agua sin potabilizar",
+      "Comer siempre lo mismo",
+      "Dormir con la ventana tapada todo el año"
+     ],
+     "correcta": 0,
+     "explicacion": "El humo irrita las vías respiratorias y daña los alvéolos."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Tubo digestivo",
+   "definicion": "Conducto que va de la boca al ano: boca, faringe, esófago, estómago, intestino delgado, intestino grueso y ano."
+  },
+  {
+   "palabra": "Glándulas anexas",
+   "definicion": "Órganos fuera del tubo digestivo que vuelcan en él sus jugos: glándulas salivales, hígado y páncreas."
+  },
+  {
+   "palabra": "Digestión",
+   "definicion": "Proceso que parte los nutrientes de los alimentos en unidades más chicas. Puede ser mecánica (en pedazos) o química (con enzimas)."
+  },
+  {
+   "palabra": "Absorción",
+   "definicion": "Paso de los nutrientes del intestino delgado a la sangre, a través de las vellosidades."
+  },
+  {
+   "palabra": "Alvéolo",
+   "definicion": "Bolsita al final de los bronquiolos, rodeada de capilares, donde ocurre el intercambio gaseoso."
+  },
+  {
+   "palabra": "Intercambio gaseoso",
+   "definicion": "Paso del oxígeno del alvéolo a la sangre y del dióxido de carbono de la sangre al alvéolo."
+  },
+  {
+   "palabra": "Ventilación pulmonar",
+   "definicion": "Entrada (inspiración) y salida (espiración) del aire de los pulmones, gracias al diafragma."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "La digestión ocurre solo en el estómago.",
+   "aclaracion": "Empieza en la boca y termina en el intestino delgado, donde además se absorben los nutrientes."
+  },
+  {
+   "error": "Al inspirar, el diafragma sube.",
+   "aclaracion": "Al inspirar, el diafragma se contrae y baja; sube en la espiración."
+  },
+  {
+   "error": "Respirar con los pulmones es lo mismo que la respiración celular.",
+   "aclaracion": "Los pulmones consiguen el oxígeno; la respiración celular lo usa dentro de las mitocondrias de cada célula."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "El oxígeno queda en la sangre de los pulmones y los nutrientes en la sangre del intestino. ¿Cómo llegan, desde ahí, a una célula de tu pie?",
+  "conexion": "Con la clase 4, sobre los sistemas circulatorio y excretor."
+ }
+}

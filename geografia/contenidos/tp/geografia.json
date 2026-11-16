@@ -1,0 +1,676 @@
+{
+ "espacio": "geografia",
+ "titulo": "Mi trabajo práctico de Geografía",
+ "intro": "En un buen trabajo práctico de Geografía no alcanza con ubicar lugares en el mapa: tenés que explicar por qué las cosas pasan donde pasan, quiénes intervienen, cómo se relacionan la sociedad y la naturaleza, y qué tiene que ver todo eso con el lugar donde vivís. Eso es lo que vas a presentar y defender.",
+ "portada": {
+  "instruccion": "Escribí la introducción de tu trabajo: presentá los temas que incluye, en qué regiones del mundo ocurren y por qué te parece importante conocerlos.",
+  "guia": [
+   "¿Qué temas incluye tu trabajo y en qué orden los vas a presentar?",
+   "¿En qué regiones del mundo ocurren?",
+   "¿Por qué sirve conocerlos para entender el mundo de hoy y la Argentina?"
+  ],
+  "modelo": "Este trabajo práctico trata sobre {temas}. Son temas que ocurren en …… (regiones del mundo).\n\nPrimero voy a presentar ……; después, ……; y por último, ……. Elegí este orden porque …….\n\nConocer estos temas es importante para entender el mundo de hoy y la Argentina porque ……."
+ },
+ "desarrollo": {
+  "g1": {
+   "instruccion": "Explicá qué son el Estado, el territorio y la frontera, y usalos para presentar el conflicto entre israelíes y palestinos. Contá cómo fue cambiando el mapa entre 1947 y 1995, qué reclama cada parte (sin tomar partido) y qué fue la Primavera Árabe.",
+   "guia": [
+    "¿Qué son el Estado, el territorio y la frontera?",
+    "¿Qué proponía el plan de la ONU de 1947 y qué pasó en 1948, 1949 y 1967?",
+    "¿Qué se acordó en Oslo y qué temas quedaron sin resolver?",
+    "¿Qué reclama cada parte sobre Jerusalén y las fronteras?",
+    "¿Qué fue la Primavera Árabe y qué relación tiene con el control del territorio?"
+   ],
+   "modelo": "Un Estado ejerce su autoridad sobre un territorio, que termina en ……. En Medio Oriente, israelíes y palestinos reclaman ……\n\nEn 1947 la ONU propuso ……, pero ……. En 1949 ……, y en 1967 ……. Con los Acuerdos de Oslo ……, aunque quedaron sin resolver …….\n\nQuienes defienden la posición israelí sostienen ……; quienes defienden la posición palestina sostienen …….\n\nEn el mundo árabe, la Primavera Árabe empezó en …… en 2010. En algunos países ……, y en otros el Estado ……."
+  },
+  "g2": {
+   "instruccion": "Explicá cómo el BRIC pasó de ser una sigla a ser un grupo de países, qué peso tiene en la economía mundial y cómo cambió el reparto del poder en el mundo. Presentá las dos miradas sobre el grupo.",
+   "guia": [
+    "¿Quién inventó la sigla BRIC, cuándo y qué es una economía emergente?",
+    "¿Cómo creció el grupo desde 2009 hasta hoy?",
+    "¿Qué porcentaje de la población, la producción y el comercio mundial reúne?",
+    "¿Qué diferencia hay entre un mundo bipolar, unipolar y multipolar?",
+    "¿Qué dicen quienes valoran el BRICS y quienes señalan sus límites?"
+   ],
+   "modelo": "En 2001, el economista …… inventó la sigla BRIC para ……, porque eran economías emergentes, es decir, …….\n\nEl grupo hizo su primera cumbre en ……. En 2010 se sumó ……, y desde 2024 entraron …….\n\nHoy el BRICS reúne casi …… de la población mundial y alrededor del …… de la producción. Cada miembro aporta algo distinto: …….\n\nEl mundo pasó de ser bipolar a …… y hoy se describe como ……. Quienes valoran el BRICS dicen ……; quienes señalan sus límites dicen ……."
+  },
+  "g3": {
+   "instruccion": "Explicá por qué existe el cinturón de fuego del Pacífico, qué diferencia hay entre amenaza, vulnerabilidad y riesgo, y cómo se puede reducir el daño de un sismo. Usá el caso de San Juan en 1944.",
+   "guia": [
+    "¿Qué es el cinturón de fuego y qué pasa entre las placas?",
+    "¿Qué son la amenaza, la vulnerabilidad y el riesgo?",
+    "¿Qué muestra la comparación entre Valdivia (1960) y San Juan (1944)?",
+    "¿Qué cambió en la Argentina después del terremoto de San Juan?",
+    "¿Cuáles son las etapas de la gestión del riesgo?"
+   ],
+   "modelo": "El cinturón de fuego del Pacífico es ……. Existe porque allí las placas ……, y eso produce …….\n\nLa amenaza es ……; la vulnerabilidad es ……; el riesgo aparece cuando …….\n\nEl sismo de Valdivia fue de magnitud ……, y el de San Juan, de cerca de ……. Sin embargo, en San Juan hubo más víctimas porque …….\n\nDespués de 1944 ……, y en 1972 se creó …….\n\nLa gestión del riesgo tiene tres etapas: ……, …… y ……. Reduce la …… y no la amenaza."
+  },
+  "g4": {
+   "instruccion": "Explicá qué es la desertización, por qué avanza en el Sahel y qué formas de producir y qué proyectos buscan frenarla. Usá el ciclo de la desertización.",
+   "guia": [
+    "¿Qué es la desertización y dónde está el Sahel?",
+    "¿Cuáles son las causas humanas y naturales?",
+    "¿Cuáles son los pasos del ciclo de la desertización?",
+    "¿Qué formas de producción hay en el Sahel y cuándo degradan la tierra?",
+    "¿Qué es la Gran Muralla Verde y qué meta tiene?"
+   ],
+   "modelo": "La desertización es ……. En África afecta sobre todo al Sahel, una franja …… que está al sur del …….\n\nSus causas humanas son ……, …… y ……. Su causa natural principal son …….\n\nEstas causas forman un ciclo: primero ……, después …… y al final ……, y el ciclo vuelve a empezar porque …….\n\nEn el Sahel se produce con ……. Una forma de producir degrada la tierra cuando …….\n\nDesde 2007, la Gran Muralla Verde busca ……."
+  },
+  "g5": {
+   "instruccion": "Explicá qué es el petróleo, dónde se encuentra, quiénes lo producen y lo consumen, y por qué su control genera disputas. Presentá el debate sobre Vaca Muerta sin tomar partido.",
+   "guia": [
+    "¿Qué es el petróleo y por qué es un recurso no renovable?",
+    "¿Qué diferencia hay entre el petróleo convencional y el no convencional?",
+    "¿Qué países tienen más reservas y cuál produce más? ¿Qué es un país exportador y uno importador?",
+    "¿Qué es la OPEP y qué pasó en 1973?",
+    "¿Qué tipos de disputas genera el petróleo? Da un ejemplo de cada una."
+   ],
+   "modelo": "El petróleo es un hidrocarburo que se formó ……. Es no renovable porque …….\n\nLas mayores reservas probadas están en ……, pero el mayor productor es ……. Un país es exportador cuando ……; por ejemplo, ……. Es importador cuando ……; por ejemplo, …….\n\nEn 1960 se fundó la OPEP para ……. En 1973 …….\n\nEl petróleo genera disputas entre Estados, como ……; por las rutas, como ……; y dentro de los países, como el debate sobre Vaca Muerta: quienes defienden ampliar la extracción dicen ……, y quienes advierten sobre sus riesgos dicen ……."
+  },
+  "g6": {
+   "instruccion": "Explicá qué es una ciudad global, cómo funciona la red de ciudades del mundo y qué significa que estas ciudades estén articuladas hacia afuera y fragmentadas por dentro.",
+   "guia": [
+    "¿Qué es una ciudad global y quién usó ese concepto?",
+    "¿Qué funciones y servicios se concentran en ella?",
+    "¿Qué flujos circulan por la red de ciudades?",
+    "¿Qué ciudades son las más conectadas según GaWC y dónde está Buenos Aires?",
+    "¿Qué son la articulación, la fragmentación y la polarización social?"
+   ],
+   "modelo": "Una ciudad global es ……. El concepto lo usó …… en 1991 para …….\n\nEn estas ciudades se concentran ……. Lo que las define no es su tamaño sino …….\n\nPor la red de ciudades circulan cuatro flujos: ……, ……, …… y …….\n\nSegún GaWC, en 2024 las ciudades más conectadas eran ……, y Buenos Aires está …….\n\nLas ciudades globales están articuladas, porque ……, pero también fragmentadas, porque ……."
+  },
+  "g7": {
+   "instruccion": "Explicá cómo la religión organiza el espacio en algunas ciudades de Asia, qué es una megalópolis y cómo se formó la japonesa, y qué papel cumple la tecnología en ella.",
+   "guia": [
+    "¿Qué es una ciudad sagrada y qué es una peregrinación?",
+    "¿Por qué Varanasi es sagrada y qué son los ghats?",
+    "¿Qué diferencia hay entre ciudad, área metropolitana y megalópolis?",
+    "¿Qué ciudades une la megalópolis japonesa y por qué está sobre la costa?",
+    "¿Qué es el Shinkansen y por qué es importante para la megalópolis?"
+   ],
+   "modelo": "En muchas ciudades de Asia, la religión organiza el espacio: …….\n\nUn ejemplo es Varanasi, ciudad sagrada del ……, a orillas del ……. Allí …….\n\nUna megalópolis es ……. La japonesa une …… y está sobre la costa del Pacífico porque …….\n\nLa tecnología ayuda a que funcione: el Shinkansen, inaugurado en ……, une Tokio y Osaka en ……. Japón también desarrolló ……."
+  },
+  "g8": {
+   "instruccion": "Explicá qué es la Unión Europea, por qué cada país se especializó en ciertas producciones y qué cambió dentro de cada país. Presentá el debate sobre la PAC sin tomar partido.",
+   "guia": [
+    "¿Qué es la Unión Europea y qué es un mercado común?",
+    "¿Cómo se formó, desde 1957 hasta hoy?",
+    "¿Qué es la especialización productiva? Da ejemplos de tres países.",
+    "¿Qué son los desequilibrios regionales y la reconversión productiva? ¿Qué pasó en el Ruhr?",
+    "¿Qué dicen quienes defienden la PAC y quienes la critican?"
+   ],
+   "modelo": "La Unión Europea es ……. En su mercado común circulan libremente …….\n\nNació en 1957 con ……, tomó su nombre actual en …… y hoy tiene …… miembros.\n\nEn un mercado común conviene especializarse, es decir, ……. Por ejemplo, Alemania ……, Países Bajos …… y España …….\n\nLa especialización genera desequilibrios regionales: ……. Un caso es el Ruhr, que …….\n\nSobre la PAC, quienes la defienden dicen ……; quienes la critican dicen ……."
+  },
+  "g9": {
+   "instruccion": "Explicá qué es un centro de innovación y desarrollo, cómo cambió la forma de producir y qué alcance mundial tiene lo que se crea en estos centros. Contá el caso de INVAP.",
+   "guia": [
+    "¿Qué es un centro de innovación y quiénes lo forman?",
+    "¿Qué es Silicon Valley y de dónde viene su nombre?",
+    "¿Cuáles son las etapas de la cadena de un producto tecnológico y dónde se hace cada una?",
+    "¿Qué otros centros de innovación hay en el mundo?",
+    "¿Qué hace INVAP y por qué decimos que la Argentina puede exportar conocimiento?"
+   ],
+   "modelo": "Un centro de innovación y desarrollo es ……. Lo forman ……, y su principal producción es …….\n\nEl más conocido es Silicon Valley, en ……. Su nombre viene del …….\n\nLa forma de producir cambió: la investigación y el diseño ……, mientras que la fabricación y el ensamblado ……. Por ejemplo, …….\n\nHay otros centros, como …… y ……. En la Argentina, INVAP, creado en ……, construye ……. Eso muestra que …….\n\nLa mayor parte de la ganancia suele quedar donde está ……."
+  },
+  "g10": {
+   "instruccion": "Explicá qué es la sobrepoblación, cómo se cultiva el arroz en Asia y cómo cambió la producción de alimentos con la revolución verde. Presentá las dos miradas sobre la revolución verde.",
+   "guia": [
+    "¿Qué porcentaje de la población mundial vive en Asia y qué país es el más poblado?",
+    "¿Qué es la sobrepoblación y de qué depende?",
+    "¿Cómo se cultiva el arroz y qué papel cumple el monzón?",
+    "¿Qué diferencia hay entre la agricultura intensiva y la extensiva?",
+    "¿Qué sostuvo Malthus y qué fue la revolución verde? ¿Qué dicen quienes la valoran y quienes señalan sus problemas?"
+   ],
+   "modelo": "En Asia vive el …… de la población mundial, y desde 2023 el país más poblado es …….\n\nLa sobrepoblación aparece cuando ……. No depende solo de ……, sino de …….\n\nEl arroz se cultiva en ……, con las lluvias del ……. Es agricultura intensiva porque ……, a diferencia de la región pampeana, donde …….\n\nEn 1798 Malthus sostuvo que ……. Desde la década de 1960, la revolución verde ……. Quienes la valoran dicen ……; quienes señalan sus problemas dicen ……."
+  },
+  "g11": {
+   "instruccion": "Explicá por qué se migra del norte de África a Europa, qué implicancias sociales tienen las migraciones y quiénes son los refugiados. Presentá el debate sobre las políticas migratorias sin tomar partido.",
+   "guia": [
+    "¿Qué es una migración? ¿Qué son los factores de expulsión y de atracción?",
+    "¿Por qué influyen la cercanía y la historia en las migraciones del norte de África a Europa?",
+    "¿Qué cambia en el lugar de origen y en el de destino?",
+    "¿Qué dicen quienes defienden políticas más abiertas y quienes defienden más controles?",
+    "¿Quién es un refugiado y en qué se diferencia de un migrante y de un desplazado interno?"
+   ],
+   "modelo": "Una migración es ……. Las personas migran por factores de expulsión, como ……, y de atracción, como …….\n\nDel norte de África a Europa influyen la cercanía (……) y la historia (……).\n\nEn el origen, las migraciones ……; en el destino, ……. La segunda generación …….\n\nSobre las políticas migratorias, unos dicen ……, y otros dicen …….\n\nUn refugiado es ……. A diferencia de un migrante, ……. A fines de 2025 había …… personas desplazadas por la fuerza en el mundo."
+  },
+  "g12": {
+   "instruccion": "Explicá qué es un movimiento social, cómo algunos movimientos se volvieron mundiales y cómo ocupan el espacio. Presentá el debate sobre el uso del espacio público sin tomar partido.",
+   "guia": [
+    "¿Qué es un movimiento social y en qué se diferencia de un partido político?",
+    "¿Qué formas de acción usan?",
+    "¿Qué logró el movimiento por los derechos civiles y por qué influyó en otros países?",
+    "¿Cómo un reclamo local se vuelve mundial? Usá el caso de Fridays for Future.",
+    "¿Qué dicen quienes priorizan el derecho a manifestarse y quienes priorizan el derecho a circular?"
+   ],
+   "modelo": "Un movimiento social es ……. Se diferencia de un partido político porque …….\n\nUsa formas de acción como ……. Un ejemplo de movimiento mundial es el que reclamó ……, que se logró en Nueva Zelanda en …… y en la Argentina en …….\n\nEl movimiento por los derechos civiles reclamó ……, con acción no violenta, y logró …… en 1964.\n\nCon las redes, un reclamo puede volverse mundial: por ejemplo, …….\n\nSobre el espacio público, unos priorizan ……, y otros, ……."
+  }
+ },
+ "integracion": {
+  "intro": "Integrar es mostrar que los temas se conectan: unos son causa de otros, se parecen o se oponen, ocurren en los mismos lugares o afectan a las mismas personas. Las preguntas de abajo relacionan **solo los contenidos que elegiste**.",
+  "intro_uno": "Elegiste un solo contenido. Integrar, en este caso, es mostrar cómo se conectan sus partes: qué causa qué y qué consecuencias tiene en el territorio.",
+  "pares": {
+   "g1|g2": "Irán y Egipto son miembros del BRICS desde 2024 y están en Medio Oriente. ¿Qué relación hay entre el peso de esa región en el mundo y su ingreso al grupo?",
+   "g1|g3": "Compará un conflicto territorial con una amenaza natural: ¿en cuál de los dos casos la causa principal son decisiones humanas?",
+   "g1|g4": "En Medio Oriente y en el Sahel el agua y la tierra son escasas. ¿Cómo puede la escasez de recursos sumar tensiones en un territorio?",
+   "g1|g5": "Las mayores reservas de petróleo están en el golfo Pérsico. ¿Cómo se relaciona eso con la importancia de Medio Oriente en el mundo?",
+   "g1|g6": "Jerusalén es una ciudad sagrada y disputada; Londres, una ciudad global. ¿Qué hace que una ciudad sea importante en cada caso?",
+   "g1|g7": "Jerusalén y Varanasi son ciudades sagradas. ¿En qué se parecen y en qué se diferencian como lugares que organizan el espacio?",
+   "g1|g8": "La Unión Europea unió a países que se habían enfrentado en guerras. ¿Qué diferencia hay con lo que pasó entre israelíes y palestinos?",
+   "g1|g9": "¿Por qué un conflicto territorial puede afectar la llegada de inversiones y el desarrollo de centros de innovación en una región?",
+   "g1|g10": "¿Cómo puede un conflicto afectar la producción de alimentos de una población?",
+   "g1|g11": "La guerra en Siria hizo que millones de personas dejaran el país, y los refugiados de 1948 son uno de los temas sin resolver en Medio Oriente. ¿Qué relación hay entre conflictos territoriales y refugiados?",
+   "g1|g12": "La Primavera Árabe empezó con protestas que se difundieron por redes. ¿Qué tiene en común con los movimientos sociales mundiales?",
+   "g2|g3": "China e India son miembros del BRICS. ¿Qué parte de esos países está en el cinturón de fuego, y qué te dice eso sobre la relación entre poder económico y vulnerabilidad?",
+   "g2|g4": "Egipto y Etiopía se sumaron al BRICS y están en África. ¿Qué relación hay entre la desertización y el desarrollo de los países africanos?",
+   "g2|g5": "Rusia, Irán y los Emiratos Árabes Unidos son grandes productores de petróleo y forman parte del BRICS. ¿Qué peso le da eso al grupo?",
+   "g2|g6": "Shanghái y São Paulo son ciudades globales de países del BRICS. ¿Qué muestra eso sobre el cambio en el mapa del poder?",
+   "g2|g7": "India y China forman parte del BRICS. ¿Qué tienen en común sus grandes ciudades con la megalópolis japonesa?",
+   "g2|g8": "Compará el BRICS con la Unión Europea: ¿cuál de los dos tiene un mercado común y moneda compartida? ¿Qué los diferencia?",
+   "g2|g9": "Bangalore y Shenzhen son centros de innovación de países del BRICS. ¿Qué dice eso sobre el lugar de los países emergentes en la economía del conocimiento?",
+   "g2|g10": "India y China son los países más poblados y forman parte del BRICS. ¿Cómo se relaciona su población con su peso en el grupo y con la producción de alimentos?",
+   "g2|g11": "¿Por qué el crecimiento económico de algunos países emergentes puede cambiar la dirección de las migraciones?",
+   "g2|g12": "Los movimientos sociales y los grupos de países buscan tener más voz. ¿En qué se parece y en qué se diferencia su forma de hacerlo?",
+   "g3|g4": "Los sismos y la desertización son procesos distintos. ¿En cuál influye más la acción humana y por qué en los dos importa la vulnerabilidad?",
+   "g3|g5": "Muchas zonas petroleras están en regiones sísmicas. ¿Qué riesgos tiene producir petróleo en una zona con sismos?",
+   "g3|g6": "¿Por qué una ciudad global en una zona sísmica, como Tokio, necesita una gestión del riesgo especial?",
+   "g3|g7": "Japón está en el cinturón de fuego y tiene una megalópolis. ¿Cómo se relacionan la amenaza sísmica y la tecnología sismorresistente japonesa?",
+   "g3|g8": "Compará las amenazas naturales de la zona andina con los desequilibrios regionales de la Unión Europea: ¿qué tienen en común como problemas que se gestionan con decisiones?",
+   "g3|g9": "¿Cómo puede la investigación (como la del INPRES) reducir la vulnerabilidad frente a los sismos?",
+   "g3|g10": "Muchos países de Asia con gran población están en el cinturón de fuego. ¿Por qué la densidad de población aumenta el riesgo?",
+   "g3|g11": "Un desastre natural también puede obligar a la gente a dejar su casa. ¿En qué se parece y en qué se diferencia de un refugiado?",
+   "g3|g12": "Después de un desastre, la comunidad se organiza para reclamar o reconstruir. ¿Qué relación tiene eso con los movimientos sociales?",
+   "g4|g5": "El petróleo y el suelo fértil son recursos. ¿Cuál es renovable y cuál no? ¿Qué pasa cuando se usan más rápido de lo que se reponen?",
+   "g4|g6": "¿Por qué la desertización puede empujar a la población rural a mudarse a las ciudades?",
+   "g4|g7": "En Japón la población se concentró en las llanuras de la costa; en el Sahel, la tierra fértil se degrada. ¿Qué muestran los dos casos sobre la relación entre población y tierra?",
+   "g4|g8": "La PAC apoya a los productores europeos y la Gran Muralla Verde busca recuperar tierras en África. ¿Qué tienen en común como políticas sobre la producción rural?",
+   "g4|g9": "¿Cómo podría la tecnología (satélites, semillas, riego) ayudar a frenar la desertización?",
+   "g4|g10": "Compará el Sahel y Asia: ¿qué tienen en común la presión de la población sobre la tierra y la forma de producir alimentos?",
+   "g4|g11": "¿Cómo puede la desertización convertirse en un factor de expulsión para las migraciones?",
+   "g4|g12": "La Gran Muralla Verde necesita a las comunidades locales. ¿Qué relación hay entre la participación de la gente y el cuidado del ambiente?",
+   "g5|g6": "Muchas sedes de las grandes petroleras están en ciudades globales. ¿Por qué el control del petróleo pasa también por esas ciudades?",
+   "g5|g7": "Japón casi no tiene petróleo y es una gran potencia industrial. ¿Cómo lo consigue y qué riesgos tiene depender de importaciones?",
+   "g5|g8": "Compará la OPEP con la Unión Europea: ¿qué busca cada una al coordinar a sus miembros?",
+   "g5|g9": "¿Cómo puede la innovación reducir la dependencia del petróleo?",
+   "g5|g10": "La revolución verde usa fertilizantes y maquinaria. ¿Qué relación tiene la producción de alimentos con el petróleo?",
+   "g5|g11": "¿Cómo pueden los conflictos por el petróleo generar desplazamientos de población?",
+   "g5|g12": "En el debate sobre Vaca Muerta hay grupos que advierten sobre el ambiente. ¿Qué relación tienen con los movimientos ambientalistas mundiales?",
+   "g6|g7": "Tokio es a la vez una ciudad global y el extremo de una megalópolis. ¿Qué diferencia hay entre esos dos conceptos?",
+   "g6|g8": "Bruselas y Londres son ciudades globales. ¿Qué relación tiene eso con la Unión Europea y con la salida del Reino Unido?",
+   "g6|g9": "Las sedes de las empresas tecnológicas forman parte de la red de ciudades. ¿Qué relación hay entre los centros de innovación y las ciudades globales?",
+   "g6|g10": "¿Por qué muchas personas de zonas rurales de Asia se mudan a las grandes ciudades?",
+   "g6|g11": "Muchos inmigrantes trabajan en servicios en las ciudades globales. ¿Cómo se relaciona eso con la polarización social?",
+   "g6|g12": "Las plazas centrales de las grandes ciudades son lugares de reclamo. ¿Por qué los movimientos sociales eligen esas ciudades?",
+   "g7|g8": "Compará la megalópolis japonesa con la especialización de las regiones europeas: ¿cómo se reparten la población y la producción en cada caso?",
+   "g7|g9": "Tokio concentra empresas de tecnología. ¿Qué tiene en común con Silicon Valley?",
+   "g7|g10": "Japón tiene poca tierra plana y Asia tiene mucha población. ¿Cómo se usa la tierra en cada caso?",
+   "g7|g11": "Las peregrinaciones son un tipo de movimiento de personas. ¿En qué se diferencian de las migraciones?",
+   "g7|g12": "¿Qué tienen en común una peregrinación y una marcha como formas de ocupar el espacio?",
+   "g8|g9": "Irlanda se especializó en tecnología dentro de la UE. ¿Cómo se relacionan la especialización productiva y los centros de innovación?",
+   "g8|g10": "Compará la agricultura de la UE (con la PAC) y la de Asia (con la revolución verde): ¿qué papel tuvo el Estado en cada caso?",
+   "g8|g11": "La Unión Europea permite circular libremente a las personas entre sus miembros. ¿Cómo se relaciona eso con las migraciones desde el norte de África?",
+   "g8|g12": "Algunos movimientos sociales europeos reclaman sobre la PAC o sobre las migraciones. ¿Por qué las políticas de la UE generan reclamos?",
+   "g9|g10": "La revolución verde fue resultado de la investigación (como la del IRRI). ¿Qué relación hay entre la innovación y la producción de alimentos?",
+   "g9|g11": "Los centros de innovación atraen profesionales de todo el mundo. ¿Es un factor de atracción? ¿Qué pasa en los países de origen?",
+   "g9|g12": "Las redes sociales nacieron en centros de innovación y hoy las usan los movimientos sociales. ¿Qué relación hay entre tecnología y participación?",
+   "g10|g11": "¿Cómo puede la falta de tierra o de alimentos convertirse en un factor de expulsión?",
+   "g10|g12": "Los campesinos de distintos países se organizan para defender sus formas de producir. ¿Qué relación tiene eso con los movimientos sociales?",
+   "g11|g12": "Hay movimientos sociales que defienden los derechos de los migrantes y refugiados. ¿Qué formas de acción podrían usar?"
+  },
+  "individual": {
+   "g1": [
+    "¿Por qué las líneas de 1949 no son fronteras reconocidas y qué consecuencias tiene eso?",
+    "¿Qué relación hay entre la guerra de 1967 y los reclamos actuales sobre Cisjordania y Jerusalén Este?",
+    "¿Cómo se relaciona la Primavera Árabe con la idea de que un Estado puede perder el control de su territorio?"
+   ],
+   "g2": [
+    "¿Por qué tener mucha población no alcanza para producir lo mismo que los países más ricos?",
+    "¿Cómo se relaciona el crecimiento del BRICS con el paso de un mundo unipolar a uno multipolar?",
+    "¿Qué diferencias hay entre el BRICS y el G7?"
+   ],
+   "g3": [
+    "¿Cómo se relacionan el movimiento de las placas y la existencia de los Andes?",
+    "¿Por qué la vulnerabilidad depende de decisiones de la sociedad?",
+    "¿Qué relación hay entre el terremoto de 1944 y la creación del INPRES?"
+   ],
+   "g4": [
+    "¿Cómo se relacionan el crecimiento de la población y el sobrepastoreo en el Sahel?",
+    "¿Por qué la desertización es un ciclo difícil de cortar?",
+    "¿Qué tiene que ver la forma de producir con la Gran Muralla Verde?"
+   ],
+   "g5": [
+    "¿Por qué el país con más reservas no es el que más produce?",
+    "¿Cómo se relaciona la crisis de 1973 con la dependencia de los países importadores?",
+    "¿Qué tienen en común el caso de Irak y Kuwait y el estrecho de Ormuz?"
+   ],
+   "g6": [
+    "¿Por qué una ciudad global no se define por su tamaño?",
+    "¿Cómo se relaciona la conectividad de una ciudad con los flujos que pasan por ella?",
+    "¿Cómo se relacionan la articulación hacia afuera y la fragmentación por dentro?"
+   ],
+   "g7": [
+    "¿Cómo se relaciona la forma del territorio japonés con la formación de su megalópolis?",
+    "¿Por qué el Shinkansen fue clave para que funcionara la megalópolis?",
+    "¿Qué tienen en común Varanasi y la megalópolis japonesa como formas de organizar el espacio?"
+   ],
+   "g8": [
+    "¿Por qué el mercado común favorece la especialización productiva?",
+    "¿Cómo se relacionan la especialización y los desequilibrios regionales?",
+    "¿Qué relación hay entre la PAC y los países exportadores de alimentos como la Argentina?"
+   ],
+   "g9": [
+    "¿Por qué el diseño suele quedar en el centro de innovación y la fabricación en otros países?",
+    "¿Cómo se relaciona la cercanía entre universidades y empresas con la innovación?",
+    "¿Qué muestra INVAP sobre lo que necesita un país para tener un centro de innovación?"
+   ],
+   "g10": [
+    "¿Por qué la sobrepoblación depende de los recursos y no solo de la cantidad de gente?",
+    "¿Cómo se relaciona la poca tierra disponible con la agricultura intensiva y las terrazas?",
+    "¿En qué tuvo razón Malthus y en qué no, después de la revolución verde?"
+   ],
+   "g11": [
+    "¿Cómo se combinan los factores de expulsión y de atracción en una misma migración?",
+    "¿Cómo se relacionan las remesas con el lugar de origen?",
+    "¿Por qué un refugiado no es lo mismo que un migrante?"
+   ],
+   "g12": [
+    "¿Por qué un reclamo sostenido en el tiempo tiene más fuerza que uno aislado?",
+    "¿Cómo se relaciona la acción no violenta con el éxito del movimiento por los derechos civiles?",
+    "¿Qué cambió en los movimientos sociales con la llegada de las redes?"
+   ]
+  },
+  "generales": [
+   "¿Qué relación entre la sociedad y la naturaleza aparece en más de uno de tus temas?",
+   "¿Qué hecho de uno de tus temas es causa o consecuencia de algo de otro?",
+   "¿Qué actores (Estados, empresas, organismos internacionales, movimientos, comunidades) aparecen en más de uno de tus temas y qué papel tienen en cada uno?"
+  ],
+  "modelo": "Los temas de mi trabajo se relacionan entre sí. Por ejemplo, …… y …… se conectan porque …….\n\nTambién, …… es una causa de ……, y …… es una consecuencia de ……. En cambio, …… y …… se diferencian en que …….",
+  "modelo_uno": "Las partes de este tema se relacionan entre sí. Primero ……, y eso lleva a ……. Por eso, …….\n\nTambién, …… se conecta con …… porque ……."
+ },
+ "realidad": {
+  "intro": "Relacionar con la realidad es mostrar cómo estos temas están presentes cerca tuyo. Para cada contenido que elegiste tenés una pregunta y algunas ideas: elegí un ejemplo concreto (de tu familia, tu barrio, tu ciudad o el país).",
+  "por_contenido": {
+   "g1": {
+    "pregunta": "¿Dónde aparecen en tu vida cotidiana noticias o debates sobre fronteras y territorios en disputa?",
+    "ideas": [
+     "Las noticias internacionales que ves en la televisión o en las redes.",
+     "Otros lugares del mundo donde dos Estados reclaman el mismo territorio.",
+     "Cómo se dibujan los límites en los mapas de tu escuela."
+    ]
+   },
+   "g2": {
+    "pregunta": "¿Qué productos de países del BRICS hay en tu casa o en tu ciudad?",
+    "ideas": [
+     "Las etiquetas de tu ropa, tu celular o tus electrodomésticos.",
+     "Lo que la Argentina le vende a Brasil o a China.",
+     "La decisión de la Argentina sobre el BRICS en 2023."
+    ]
+   },
+   "g3": {
+    "pregunta": "¿Qué amenazas naturales hay en tu ciudad o en tu región, y qué se hace para reducir la vulnerabilidad?",
+    "ideas": [
+     "Inundaciones, tormentas fuertes o sequías en tu zona.",
+     "Los simulacros de tu escuela.",
+     "Las reglas para construir o las obras que protegen a tu barrio."
+    ]
+   },
+   "g4": {
+    "pregunta": "¿Hay en la Argentina zonas que se degradan por el uso de la tierra?",
+    "ideas": [
+     "La Patagonia y el sobrepastoreo de ovejas.",
+     "Los suelos que se cansan por sembrar siempre lo mismo.",
+     "Las cortinas de árboles en los campos de tu región."
+    ]
+   },
+   "g5": {
+    "pregunta": "¿Cómo está presente el petróleo en tu vida diaria y en la economía del país?",
+    "ideas": [
+     "El precio de la nafta y del transporte.",
+     "Los plásticos y materiales derivados del petróleo que usás.",
+     "Vaca Muerta y el debate sobre su explotación."
+    ]
+   },
+   "g6": {
+    "pregunta": "¿Qué conexiones tiene tu ciudad con el mundo y qué diferencias hay entre sus barrios?",
+    "ideas": [
+     "Empresas, productos o personas de tu ciudad que se conectan con otros países.",
+     "Los barrios con más y menos servicios.",
+     "Cuánto tardan distintas personas en llegar al centro o al trabajo."
+    ]
+   },
+   "g7": {
+    "pregunta": "¿Conocés en la Argentina ciudades que crecieron hasta unirse, o lugares que reciben peregrinaciones?",
+    "ideas": [
+     "El Gran Rosario o el Gran Buenos Aires.",
+     "Peregrinaciones a santuarios de la Argentina.",
+     "Cómo cambiaría tu vida un tren rápido entre dos ciudades."
+    ]
+   },
+   "g8": {
+    "pregunta": "¿En qué se especializa la producción de tu región y qué relación tiene con el comercio mundial?",
+    "ideas": [
+     "Lo que produce tu zona: soja, maquinaria agrícola, alimentos.",
+     "Las comparaciones entre el Mercosur y la Unión Europea.",
+     "Regiones argentinas que tuvieron que cambiar su actividad principal."
+    ]
+   },
+   "g9": {
+    "pregunta": "¿Hay en tu región universidades, escuelas técnicas o empresas que investiguen o desarrollen tecnología?",
+    "ideas": [
+     "Las carreras técnicas y universitarias cercanas.",
+     "Empresas de software o de maquinaria de tu zona.",
+     "Los satélites argentinos y la empresa INVAP."
+    ]
+   },
+   "g10": {
+    "pregunta": "¿Cómo se producen los alimentos en tu región y para quién?",
+    "ideas": [
+     "La agricultura extensiva de la región pampeana.",
+     "Las huertas o la producción intensiva cerca de las ciudades.",
+     "Lo que la Argentina exporta para alimentar a otros países."
+    ]
+   },
+   "g11": {
+    "pregunta": "¿Conocés historias de migración en tu familia, tu escuela o tu ciudad?",
+    "ideas": [
+     "Abuelos o bisabuelos que llegaron de otro país.",
+     "Personas que llegaron hace poco de países vecinos.",
+     "Familiares o conocidos que se fueron a vivir afuera."
+    ]
+   },
+   "g12": {
+    "pregunta": "¿Qué reclamos colectivos conocés en tu escuela, tu barrio o tu ciudad?",
+    "ideas": [
+     "El centro de estudiantes y sus reclamos.",
+     "Vecinos que se organizan por una obra o un servicio.",
+     "Campañas que circulan por las redes."
+    ]
+   }
+  },
+  "modelo": "Hoy, el tema de …… está presente en ……. Por ejemplo, en …… (mi familia, mi ciudad o el país) …….\n\nEsto se relaciona con lo que estudié porque ……."
+ },
+ "conclusion": {
+  "instruccion": "Escribí la conclusión de tu trabajo: contá qué aprendiste, qué idea une a los temas que estudiaste y por qué es importante conocerlos hoy.",
+  "guia": [
+   "¿Qué es lo más importante que aprendiste?",
+   "¿Qué idea une a tus temas (la relación entre sociedad y naturaleza, el control del territorio, las conexiones entre lugares…)?",
+   "¿Por qué sirve conocer estos temas para entender el presente y el lugar donde vivís?",
+   "¿Qué te gustaría que recuerde quien escucha tu trabajo?"
+  ],
+  "modelo": "Con este trabajo aprendí que ……. La idea que une todos los temas es ……, porque …….\n\nConocer estos temas sirve para entender el presente porque ……. Lo que más me gustaría que recuerden de mi trabajo es ……."
+ },
+ "preguntas": [
+  {
+   "id": "q-g1-1",
+   "contenido": "g1",
+   "nivel": "Básica",
+   "pregunta": "¿Qué son el Estado, el territorio y la frontera?",
+   "orientacion": "El Estado gobierna y organiza una sociedad; ejerce su autoridad sobre un territorio, que termina en la frontera. Las fronteras las acuerdan o imponen las sociedades y pueden cambiar."
+  },
+  {
+   "id": "q-g1-2",
+   "contenido": "g1",
+   "nivel": "Media",
+   "pregunta": "¿Cómo cambió el mapa entre 1947 y 1995?",
+   "orientacion": "El plan de la ONU de 1947 no se aplicó. En 1948 se proclamó Israel; en 1949 hubo líneas de armisticio; en 1967 Israel pasó a controlar Cisjordania, Gaza, el Golán y el Sinaí; con Oslo se creó la Autoridad Palestina."
+  },
+  {
+   "id": "q-g1-3",
+   "contenido": "g1",
+   "nivel": "Integradora",
+   "pregunta": "¿Por qué el conflicto entre israelíes y palestinos sigue sin resolverse?",
+   "orientacion": "Porque quedaron pendientes las fronteras, Jerusalén y los refugiados, y cada parte tiene reclamos distintos sobre esos temas."
+  },
+  {
+   "id": "q-g2-1",
+   "contenido": "g2",
+   "nivel": "Básica",
+   "pregunta": "¿Qué es el BRICS y quiénes lo forman?",
+   "orientacion": "Es un grupo de economías emergentes: Brasil, Rusia, India, China y Sudáfrica, ampliado desde 2024 con Egipto, Etiopía, Irán, Emiratos e Indonesia."
+  },
+  {
+   "id": "q-g2-2",
+   "contenido": "g2",
+   "nivel": "Media",
+   "pregunta": "¿Qué peso tiene el BRICS en el mundo?",
+   "orientacion": "Según el gobierno de la India, reúne el 49,5 % de la población, el 40 % de la producción y el 26 % del comercio mundial."
+  },
+  {
+   "id": "q-g2-3",
+   "contenido": "g2",
+   "nivel": "Integradora",
+   "pregunta": "¿Por qué se dice que el mundo es multipolar?",
+   "orientacion": "Porque el poder ya no está en una o dos potencias: hay varios polos, como Estados Unidos, la Unión Europea, China y otros emergentes."
+  },
+  {
+   "id": "q-g3-1",
+   "contenido": "g3",
+   "nivel": "Básica",
+   "pregunta": "¿Por qué hay tantos sismos y volcanes en el cinturón de fuego?",
+   "orientacion": "Porque allí chocan placas y una se hunde bajo otra (subducción): se acumula tensión y sube magma."
+  },
+  {
+   "id": "q-g3-2",
+   "contenido": "g3",
+   "nivel": "Media",
+   "pregunta": "¿Qué diferencia hay entre amenaza y vulnerabilidad?",
+   "orientacion": "La amenaza es el fenómeno natural posible; la vulnerabilidad, lo que hace que una sociedad sufra más o menos daño, y depende de sus decisiones."
+  },
+  {
+   "id": "q-g3-3",
+   "contenido": "g3",
+   "nivel": "Integradora",
+   "pregunta": "¿Qué enseña el caso de San Juan de 1944?",
+   "orientacion": "Que un sismo menor puede causar más víctimas si la vulnerabilidad es alta, y que esa vulnerabilidad se puede reducir: después se dictaron reglas de construcción y se creó el INPRES."
+  },
+  {
+   "id": "q-g4-1",
+   "contenido": "g4",
+   "nivel": "Básica",
+   "pregunta": "¿Qué es la desertización?",
+   "orientacion": "La degradación de la tierra en zonas secas, que pierde su capacidad de producir."
+  },
+  {
+   "id": "q-g4-2",
+   "contenido": "g4",
+   "nivel": "Media",
+   "pregunta": "¿Cuáles son sus causas?",
+   "orientacion": "Humanas: sobrepastoreo, tala y cultivo sin descanso. Naturales: las sequías."
+  },
+  {
+   "id": "q-g4-3",
+   "contenido": "g4",
+   "nivel": "Integradora",
+   "pregunta": "¿Por qué la desertización es un ciclo?",
+   "orientacion": "Porque cuando la tierra produce menos, se la presiona más para seguir obteniendo alimento y leña, y eso la degrada todavía más."
+  },
+  {
+   "id": "q-g5-1",
+   "contenido": "g5",
+   "nivel": "Básica",
+   "pregunta": "¿Por qué el petróleo es un recurso no renovable?",
+   "orientacion": "Porque tarda millones de años en formarse y lo que se extrae no se repone."
+  },
+  {
+   "id": "q-g5-2",
+   "contenido": "g5",
+   "nivel": "Media",
+   "pregunta": "¿Qué diferencia hay entre un país exportador y uno importador de petróleo?",
+   "orientacion": "El exportador produce más de lo que consume, como Arabia Saudita; el importador consume más de lo que produce, como China."
+  },
+  {
+   "id": "q-g5-3",
+   "contenido": "g5",
+   "nivel": "Integradora",
+   "pregunta": "¿Por qué el petróleo genera disputas?",
+   "orientacion": "Porque es valioso y está repartido de forma desigual: hay disputas entre Estados, por las rutas y dentro de los países."
+  },
+  {
+   "id": "q-g6-1",
+   "contenido": "g6",
+   "nivel": "Básica",
+   "pregunta": "¿Qué es una ciudad global?",
+   "orientacion": "Una ciudad que concentra funciones de dirección de la economía mundial y está muy conectada con el resto del mundo."
+  },
+  {
+   "id": "q-g6-2",
+   "contenido": "g6",
+   "nivel": "Media",
+   "pregunta": "¿Qué flujos circulan por la red de ciudades?",
+   "orientacion": "Personas, capitales, información y mercancías."
+  },
+  {
+   "id": "q-g6-3",
+   "contenido": "g6",
+   "nivel": "Integradora",
+   "pregunta": "¿Qué significa que las ciudades globales estén articuladas y fragmentadas?",
+   "orientacion": "Están muy conectadas hacia afuera, pero por dentro tienen barrios con condiciones muy distintas; Sassen habló de polarización social."
+  },
+  {
+   "id": "q-g7-1",
+   "contenido": "g7",
+   "nivel": "Básica",
+   "pregunta": "¿Qué es una megalópolis?",
+   "orientacion": "Una franja urbana casi continua formada por varias áreas metropolitanas que crecieron hasta tocarse."
+  },
+  {
+   "id": "q-g7-2",
+   "contenido": "g7",
+   "nivel": "Media",
+   "pregunta": "¿Cómo organiza la religión el espacio en ciudades como Varanasi?",
+   "orientacion": "Los templos y los ghats ocupan lugares centrales, la vida de la ciudad mira al río sagrado y recibe peregrinaciones."
+  },
+  {
+   "id": "q-g7-3",
+   "contenido": "g7",
+   "nivel": "Integradora",
+   "pregunta": "¿Por qué la tecnología es clave en la megalópolis japonesa?",
+   "orientacion": "Porque permite mover rápido a la gente entre ciudades, como el Shinkansen, y reducir la vulnerabilidad frente a los sismos."
+  },
+  {
+   "id": "q-g8-1",
+   "contenido": "g8",
+   "nivel": "Básica",
+   "pregunta": "¿Qué es el mercado común de la UE?",
+   "orientacion": "Un espacio donde circulan libremente mercancías, servicios, personas y capitales entre 27 países."
+  },
+  {
+   "id": "q-g8-2",
+   "contenido": "g8",
+   "nivel": "Media",
+   "pregunta": "¿Qué es la especialización productiva?",
+   "orientacion": "Que cada país se concentra en lo que produce mejor y compra lo demás: Alemania en autos, Países Bajos en invernaderos, España en aceite de oliva y turismo."
+  },
+  {
+   "id": "q-g8-3",
+   "contenido": "g8",
+   "nivel": "Integradora",
+   "pregunta": "¿Qué efectos tiene la especialización dentro de cada país?",
+   "orientacion": "Genera desequilibrios regionales: hay regiones que ganan y otras que pierden y deben reconvertirse, como el Ruhr."
+  },
+  {
+   "id": "q-g9-1",
+   "contenido": "g9",
+   "nivel": "Básica",
+   "pregunta": "¿Qué es un centro de innovación y desarrollo?",
+   "orientacion": "Un lugar donde se concentran universidades, laboratorios, empresas tecnológicas e inversores, y donde se produce conocimiento."
+  },
+  {
+   "id": "q-g9-2",
+   "contenido": "g9",
+   "nivel": "Media",
+   "pregunta": "¿Dónde se hace cada etapa de un producto tecnológico?",
+   "orientacion": "La investigación y el diseño suelen quedar en el centro de innovación; la fabricación y el ensamblado muchas veces se hacen en otros países."
+  },
+  {
+   "id": "q-g9-3",
+   "contenido": "g9",
+   "nivel": "Integradora",
+   "pregunta": "¿Qué muestra el caso de INVAP?",
+   "orientacion": "Que un país como la Argentina puede exportar conocimiento, si sostiene durante años la formación, la investigación y la inversión."
+  },
+  {
+   "id": "q-g10-1",
+   "contenido": "g10",
+   "nivel": "Básica",
+   "pregunta": "¿Qué es la sobrepoblación?",
+   "orientacion": "Una situación en la que la población supera lo que pueden sostener los recursos del lugar."
+  },
+  {
+   "id": "q-g10-2",
+   "contenido": "g10",
+   "nivel": "Media",
+   "pregunta": "¿Qué diferencia hay entre la agricultura intensiva y la extensiva?",
+   "orientacion": "La intensiva usa poca tierra y mucho trabajo, como el arroz en Asia; la extensiva usa grandes superficies y máquinas, como en la región pampeana."
+  },
+  {
+   "id": "q-g10-3",
+   "contenido": "g10",
+   "nivel": "Integradora",
+   "pregunta": "¿Tenía razón Malthus?",
+   "orientacion": "En parte: la revolución verde mostró que la producción puede crecer mucho con tecnología, pero el agua, el suelo y los fertilizantes también tienen límites."
+  },
+  {
+   "id": "q-g11-1",
+   "contenido": "g11",
+   "nivel": "Básica",
+   "pregunta": "¿Qué son los factores de expulsión y de atracción?",
+   "orientacion": "Los de expulsión empujan a irse del lugar de origen (falta de empleo, salarios bajos); los de atracción llevan a elegir un destino (trabajo, familiares)."
+  },
+  {
+   "id": "q-g11-2",
+   "contenido": "g11",
+   "nivel": "Media",
+   "pregunta": "¿Qué implicancias tienen las migraciones en el origen y en el destino?",
+   "orientacion": "En el origen se van jóvenes y llegan remesas; en el destino las ciudades se vuelven más diversas y crece una segunda generación."
+  },
+  {
+   "id": "q-g11-3",
+   "contenido": "g11",
+   "nivel": "Integradora",
+   "pregunta": "¿Qué diferencia hay entre un migrante y un refugiado?",
+   "orientacion": "El migrante suele elegir irse; el refugiado fue forzado por persecución o guerra y no puede volver sin peligro. Lo protegen la Convención de 1951 y el ACNUR."
+  },
+  {
+   "id": "q-g12-1",
+   "contenido": "g12",
+   "nivel": "Básica",
+   "pregunta": "¿Qué es un movimiento social?",
+   "orientacion": "Un grupo de personas que se organiza de forma colectiva y sostenida para impulsar un cambio en la sociedad; no busca gobernar."
+  },
+  {
+   "id": "q-g12-2",
+   "contenido": "g12",
+   "nivel": "Media",
+   "pregunta": "¿Qué logró el movimiento por los derechos civiles?",
+   "orientacion": "Con acción no violenta (boicot de Montgomery, marcha de Washington) logró la Ley de Derechos Civiles de 1964."
+  },
+  {
+   "id": "q-g12-3",
+   "contenido": "g12",
+   "nivel": "Integradora",
+   "pregunta": "¿Cómo un reclamo local se vuelve mundial?",
+   "orientacion": "Se difunde por redes y medios, se suman otros lugares y se organizan jornadas mundiales, como hizo Fridays for Future desde 2018."
+  },
+  {
+   "id": "q-g-1",
+   "contenido": "general",
+   "nivel": "Integradora",
+   "pregunta": "Elegí dos temas de tu trabajo y explicá cómo se relacionan.",
+   "orientacion": "Por ejemplo: el petróleo del golfo Pérsico ayuda a entender la importancia de Medio Oriente; o la desertización puede ser un factor de expulsión para las migraciones."
+  },
+  {
+   "id": "q-g-2",
+   "contenido": "general",
+   "nivel": "Integradora",
+   "pregunta": "¿Qué relación hay entre la sociedad y la naturaleza en los temas que estudiaste?",
+   "orientacion": "La naturaleza ofrece recursos y amenazas, pero lo que pasa depende también de las decisiones de la sociedad: cómo se produce, dónde se construye, cómo se reparte."
+  },
+  {
+   "id": "q-g-3",
+   "contenido": "general",
+   "nivel": "Integradora",
+   "pregunta": "¿Por qué decimos que lo que pasa en un lugar del mundo afecta a otros lugares?",
+   "orientacion": "Porque el mundo está conectado por flujos de personas, mercancías, capitales e información: un conflicto, una política o una innovación se sienten lejos de donde ocurren."
+  }
+ ]
+}

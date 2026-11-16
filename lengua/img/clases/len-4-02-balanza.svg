@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" role="img" aria-label="Balanza en equilibrio: en un plato está Creonte, con la ley del Estado; en el otro, Antígona, con la ley de los dioses y la conciencia. Arriba dice: Los dos tienen sus razones." font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect width="1000" height="520" fill="#fff"/>
+
+<rect x="485" y="110" width="30" height="330" rx="10" fill="#4A4870"/><rect x="400" y="430" width="200" height="34" rx="14" fill="#4A4870"/>
+<g class="bz-brazo"><rect x="140" y="104" width="720" height="16" rx="8" fill="#4A4870"/></g><circle cx="500" cy="112" r="22" fill="#F0731E"/>
+<g class="bz-izq">
+<line x1="250" y1="112" x2="140" y2="250" stroke="#4A4870" stroke-width="3"/><line x1="250" y1="112" x2="360" y2="250" stroke="#4A4870" stroke-width="3"/>
+<path d="M110 250 H390 Q370 300 250 300 Q130 300 110 250Z" fill="#EFEAFB" stroke="#4B4FA3" stroke-width="4"/>
+<circle cx="250" cy="196" r="16.2" fill="#F3C9A5"/><rect x="230.2" y="214.2" width="39.6" height="57.6" rx="14.4" fill="#4B4FA3"/></g>
+<rect x="100" y="330" width="300" height="120" rx="22" fill="#fff" stroke="#4B4FA3" stroke-width="3"/>
+<text x="250" y="372" font-size="26" font-weight="800" fill="#4B4FA3" text-anchor="middle" >Creonte</text><text x="250" y="408" font-size="21" font-weight="600" fill="#1B1A4A" text-anchor="middle" >La ley</text><text x="250" y="434" font-size="21" font-weight="600" fill="#1B1A4A" text-anchor="middle" >del Estado</text>
+<g class="bz-der">
+<line x1="750" y1="112" x2="640" y2="250" stroke="#4A4870" stroke-width="3"/><line x1="750" y1="112" x2="860" y2="250" stroke="#4A4870" stroke-width="3"/>
+<path d="M610 250 H890 Q870 300 750 300 Q630 300 610 250Z" fill="#EFEAFB" stroke="#B83A7A" stroke-width="4"/>
+<circle cx="750" cy="196" r="16.2" fill="#F3C9A5"/><rect x="730.2" y="214.2" width="39.6" height="57.6" rx="14.4" fill="#B83A7A"/></g>
+<rect x="600" y="330" width="300" height="120" rx="22" fill="#fff" stroke="#B83A7A" stroke-width="3"/>
+<text x="750" y="372" font-size="26" font-weight="800" fill="#B83A7A" text-anchor="middle" >Antígona</text><text x="750" y="408" font-size="21" font-weight="600" fill="#1B1A4A" text-anchor="middle" >La ley de los dioses</text><text x="750" y="434" font-size="21" font-weight="600" fill="#1B1A4A" text-anchor="middle" >y la conciencia</text>
+<text x="500" y="60" font-size="28" font-weight="800" fill="#1B1A4A" text-anchor="middle" >Los dos tienen sus razones</text>
+</svg>

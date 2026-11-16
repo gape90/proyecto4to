@@ -1,0 +1,1123 @@
+{
+ "id": "len-4-01",
+ "espacio": "lengua",
+ "eje": "Lectura y escritura de textos literarios",
+ "titulo": "Cómo analizar una obra literaria",
+ "intro": "En esta clase vas a armar tu caja de herramientas para leer cualquier obra literaria: su contexto de producción, su género y su estética, quién la cuenta, sus personajes y su conflicto, y de qué trata en profundidad. Vamos a usar como ejemplo Antígona, de Sófocles. En tu carpeta vas a trabajar con la obra que leíste con tu docente.",
+ "objetivos": [
+  "Reconocer el contexto de producción de una obra y explicar cómo ayuda a entenderla.",
+  "Identificar el género, el subgénero y la estética de una obra.",
+  "Analizar quién cuenta, los personajes, el conflicto, el tiempo, el espacio y el tema de una obra."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés una ficha de análisis completa de la obra que trabajaste: contexto, género, narrador, personajes, conflicto, tiempo, espacio y tema.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "La obra y su contexto de producción",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Toda obra nace en un lugar y en un tiempo",
+     "texto": "Una obra literaria no aparece de la nada: la escribió **alguien**, en un **lugar** y en una **época** determinados. Todo eso es su **contexto de producción**.\n\nConocer el contexto ayuda a entender por qué los personajes piensan y actúan como lo hacen, qué problemas preocupaban a quienes leían la obra en ese momento y por qué el autor o la autora eligió contar esa historia."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Las preguntas del contexto de producción",
+     "texto": "• **¿Quién la escribió?** Algo de su vida que ayude a entender la obra.\n• **¿Cuándo y dónde?** La época y el lugar.\n• **¿Qué pasaba en esa sociedad?** Las costumbres, las creencias y los problemas de ese tiempo.\n• **¿Cómo circulaba?** Si se leía en un libro, en un diario o se representaba en un teatro."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Un ejemplo: Antígona",
+     "texto": "_Antígona_ es una tragedia escrita por **Sófocles** en **Atenas**, en el siglo V antes de Cristo. Se representaba en teatros al aire libre, en festivales en honor al dios Dioniso.\n\nEn la obra, el rey Creonte prohíbe enterrar a Polinices, y su hermana Antígona lo entierra igual. Para entender esa decisión ayuda el contexto: **para los griegos, dejar a un muerto sin sepultura era una ofensa grave a los dioses**. Con ese dato, la decisión de Antígona se entiende mucho mejor."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-01-teatro-dioniso.jpg",
+     "tipo": "foto",
+     "animacion": "acercar-izq",
+     "alt": "Fotografía de las ruinas de un teatro antiguo: gradas de piedra en semicírculo sobre una ladera, una fila de asientos de piedra con respaldo adelante y un piso de losas.",
+     "epigrafe": "Teatro de Dioniso, en Atenas, al pie de la Acrópolis: allí se representaban las tragedias de Sófocles. Las ruinas que se ven hoy son de una reconstrucción romana posterior. Foto de 1967.",
+     "fuente": "Foto: roger4336, CC BY-SA 2.0, vía Wikimedia Commons."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-01-contexto.svg",
+     "tipo": "grafico",
+     "alt": "Esquema con la obra Antígona en el centro y cuatro recuadros alrededor, uno por cada pregunta del contexto de producción, con su respuesta.",
+     "epigrafe": "Las cuatro preguntas del contexto de producción, respondidas para Antígona. Ilustración elaborada para esta clase."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Dos momentos de una obra",
+     "columnas": [
+      "",
+      "Contexto de producción",
+      "Contexto de lectura"
+     ],
+     "filas": [
+      [
+       "Qué es",
+       "Cuándo, dónde y cómo se escribió la obra",
+       "Cuándo, dónde y quién la lee hoy"
+      ],
+      [
+       "En Antígona",
+       "Atenas, siglo V antes de Cristo, teatro en festivales",
+       "Estudiantes de hoy, que la leen en la escuela"
+      ],
+      [
+       "Para qué sirve",
+       "Entender la obra en su tiempo",
+       "Pensar qué nos dice la obra a nosotros"
+      ]
+     ]
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cada dato es parte del contexto de producción o de la historia que cuenta la obra?",
+     "categorias": [
+      "Contexto de producción",
+      "Historia de la obra"
+     ],
+     "items": [
+      {
+       "texto": "Sófocles vivió en Atenas",
+       "cat": "Contexto de producción"
+      },
+      {
+       "texto": "La obra se representaba en festivales en honor a Dioniso",
+       "cat": "Contexto de producción"
+      },
+      {
+       "texto": "Para los griegos era grave no enterrar a un muerto",
+       "cat": "Contexto de producción"
+      },
+      {
+       "texto": "Antígona entierra a su hermano",
+       "cat": "Historia de la obra"
+      },
+      {
+       "texto": "Creonte prohíbe el entierro",
+       "cat": "Historia de la obra"
+      },
+      {
+       "texto": "Antígona desobedece al rey",
+       "cat": "Historia de la obra"
+      }
+     ],
+     "explicacion": "El contexto habla de cuándo, dónde y cómo se escribió la obra; la historia es lo que les pasa a los personajes."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Para qué sirve conocer el contexto de producción de una obra?",
+     "opciones": [
+      "Para entender por qué los personajes actúan así",
+      "Para saber cuántas páginas tiene antes de empezar",
+      "Para no tener que leerla completa",
+      "Para poder cambiarle el final a la historia"
+     ],
+     "correcta": 0,
+     "explicacion": "El contexto no reemplaza la lectura: la hace más clara.",
+     "pista": "Releé el primer texto de esta parte."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Cuál de estas afirmaciones sobre el contexto de producción es incorrecta?",
+     "opciones": [
+      "Es lo que les pasa a los personajes",
+      "Incluye quién escribió la obra",
+      "Incluye cuándo y dónde se escribió",
+      "Incluye cómo circulaba la obra en su época"
+     ],
+     "correcta": 0,
+     "explicacion": "Lo que les pasa a los personajes es la historia de la obra, no su contexto de producción.",
+     "pista": "Releé el recuadro de las preguntas del contexto de producción.",
+     "etiqueta": "🔍 Encontrá el error"
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "El contexto de [[producción]] responde a quién escribió la obra, cuándo y [[dónde]]. En el caso de Antígona, ayuda saber que para los griegos dejar a un muerto sin [[sepultura]] era una ofensa grave. El contexto de [[lectura]], en cambio, es el de quienes la leen hoy.",
+     "distractores": [
+      "escritura",
+      "cuántas",
+      "castigo"
+     ],
+     "explicacion": "Los dos contextos ayudan a leer una obra: el de entonces y el de ahora.",
+     "pista": "Todas las palabras están en los textos de esta parte.",
+     "_nuevo": true
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: si alguien lee dentro de cien años un mensaje que escribiste hoy, ¿qué necesitaría saber para entenderlo bien?",
+     "respuesta": "Necesitaría saber quién lo escribió, en qué momento, a quién se lo mandaba y qué estaba pasando. Sin eso, muchas cosas no se entenderían. Con las obras literarias pasa lo mismo: el contexto de producción ayuda a entenderlas."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Escribí el contexto de producción de tu obra. Hacelo con la obra que trabajaste con tu docente. Si no te indicaron ninguna, usá Antígona, el ejemplo de esta clase. Contá quién la escribió, cuándo y dónde, qué pasaba en esa sociedad y cómo circulaba. Cerrá con un dato del contexto que te ayude a entender algo de la obra.",
+    "guia": [
+     "¿Cómo se llama la obra y quién la escribió?",
+     "¿En qué época y en qué lugar se escribió?",
+     "¿Qué costumbres o problemas de esa sociedad aparecen en la obra?",
+     "¿Cómo circulaba: libro, diario, teatro?",
+     "¿Qué dato del contexto te ayuda a entender a un personaje o un hecho de la obra?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El contexto de producción incluye quién escribió la obra, cuándo y dónde.",
+     "respuesta": true,
+     "explicacion": "También qué pasaba en esa sociedad y cómo circulaba."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Antígona fue escrita por Sófocles.",
+     "respuesta": true,
+     "explicacion": "En Atenas, en el siglo V antes de Cristo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El contexto de producción es lo que les pasa a los personajes.",
+     "respuesta": false,
+     "explicacion": "Eso es la historia de la obra; el contexto es cuándo, dónde y cómo se escribió."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Para los griegos, dejar a un muerto sin sepultura era una ofensa grave.",
+     "respuesta": true,
+     "explicacion": "Ese dato ayuda a entender la decisión de Antígona."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El contexto de lectura es el de quienes leen la obra hoy.",
+     "respuesta": true,
+     "explicacion": "Por eso una obra antigua puede decirnos cosas nuevas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Para analizar una obra no hace falta leerla si se conoce el contexto.",
+     "respuesta": false,
+     "explicacion": "El contexto ayuda a entender la obra, pero no la reemplaza."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde escribió Sófocles Antígona?",
+     "opciones": [
+      "En Atenas",
+      "En Roma",
+      "En Buenos Aires",
+      "En Tebas"
+     ],
+     "correcta": 0,
+     "explicacion": "La obra transcurre en Tebas, pero Sófocles la escribió en Atenas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas preguntas es del contexto de producción?",
+     "opciones": [
+      "¿En qué época se escribió la obra?",
+      "¿Qué decide hacer Antígona con su hermano?",
+      "¿Cómo termina la historia de la obra?",
+      "¿Quién es Hemón dentro de la obra?"
+     ],
+     "correcta": 0,
+     "explicacion": "Las otras preguntas son sobre la historia de la obra."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo circulaban las tragedias griegas?",
+     "opciones": [
+      "Se representaban en teatros",
+      "Se publicaban por entregas en los diarios",
+      "Se leían en libros impresos",
+      "Se contaban en las escuelas"
+     ],
+     "correcta": 0,
+     "explicacion": "Se representaban en festivales en honor a Dioniso."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es el contexto de lectura?",
+     "opciones": [
+      "Cuándo y dónde alguien la lee",
+      "El lugar donde se guarda el libro",
+      "El índice con los capítulos del libro",
+      "La biografía de quien la escribió"
+     ],
+     "correcta": 0,
+     "explicacion": "Es el \"ahora\" de quien lee."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué conviene conocer el contexto de producción?",
+     "opciones": [
+      "Porque ayuda a entender a los personajes",
+      "Porque cambia el final que eligió el autor",
+      "Porque reemplaza la lectura de la obra",
+      "Porque dice cuántas páginas tiene la obra"
+     ],
+     "correcta": 0,
+     "explicacion": "Pensá en el ejemplo de Antígona y la sepultura."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos datos es de la historia de Antígona y no del contexto?",
+     "opciones": [
+      "Creonte prohíbe el entierro",
+      "Sófocles vivió en Atenas",
+      "Se representaba en festivales",
+      "Se escribió en el siglo V antes de Cristo"
+     ],
+     "correcta": 0,
+     "explicacion": "Es algo que pasa dentro de la obra."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "CONTEXTO",
+     "pista": "Lo que rodea a una obra: quién, cuándo, dónde y cómo se escribió."
+    },
+    {
+     "palabra": "SÓFOCLES",
+     "pista": "Autor griego de Antígona."
+    },
+    {
+     "palabra": "ATENAS",
+     "pista": "Ciudad donde se escribió Antígona."
+    },
+    {
+     "palabra": "ÉPOCA",
+     "pista": "Tiempo en el que se escribió una obra."
+    },
+    {
+     "palabra": "LECTURA",
+     "pista": "Contexto de ___: el de quienes leen la obra hoy."
+    },
+    {
+     "palabra": "SEPULTURA",
+     "pista": "Lo que Creonte le niega a Polinices."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Si una novela se escribió durante una guerra, ¿por qué te serviría saberlo al leerla?",
+     "opciones": [
+      "Porque puede explicar los miedos de los personajes",
+      "Porque la novela no se puede leer en tiempos de paz",
+      "Porque cambia la cantidad de capítulos que tiene",
+      "Porque así se sabe el final antes de leerla"
+     ],
+     "correcta": 0,
+     "explicacion": "El contexto de producción ayuda a entender lo que pasa en la obra."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia hay entre el contexto de producción y el contexto de lectura?",
+     "opciones": [
+      "Cuándo se escribió y cuándo se lee",
+      "Son dos nombres para lo mismo: la época de la obra",
+      "Uno es el título de la obra y el otro, su autor",
+      "Uno es el principio de la obra y el otro, el final"
+     ],
+     "correcta": 0,
+     "explicacion": "Una obra antigua se escribió en un contexto y hoy se lee en otro."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Saber qué pensaban los griegos sobre los muertos ayuda a entender a Antígona.",
+     "respuesta": true,
+     "explicacion": "Es un dato del contexto de producción."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Género y estética",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Los géneros literarios",
+     "texto": "Las obras literarias se agrupan en **géneros** según cómo están escritas y para qué. Los tres grandes géneros son el **narrativo**, el **lírico** y el **dramático**.\n\nCada género tiene sus propias **reglas** o **convenciones**: cosas que quien lee espera encontrar. Si sabés a qué género pertenece una obra, ya sabés qué buscar cuando la leés."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-01-quijote.jpg",
+     "tipo": "foto",
+     "animacion": "bajar",
+     "alt": "Portada de un libro antiguo con el título \"El ingenioso hidalgo don Quixote de la Mancha\", el nombre de Miguel de Cervantes, un grabado y el año 1605.",
+     "epigrafe": "Portada de la primera edición del Quijote, de Miguel de Cervantes (Madrid, 1605). Es una novela: pertenece al género narrativo.",
+     "fuente": "Juan de la Cuesta (impresor), vía Wikimedia Commons (dominio público)."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Los tres grandes géneros",
+     "columnas": [
+      "",
+      "Narrativo",
+      "Lírico",
+      "Dramático"
+     ],
+     "filas": [
+      [
+       "Cómo está escrito",
+       "En prosa, con un narrador que cuenta",
+       "En verso, con una voz que expresa lo que siente (el yo lírico)",
+       "Con diálogos entre personajes, para representar"
+      ],
+      [
+       "Para qué",
+       "Contar una historia",
+       "Expresar emociones e ideas",
+       "Ser representado en un escenario"
+      ],
+      [
+       "Ejemplos",
+       "Cuento, novela, leyenda",
+       "Poema, canción",
+       "Tragedia, comedia"
+      ]
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Subgéneros: reglas más específicas",
+     "texto": "Dentro de cada género hay **subgéneros** con reglas propias. Por ejemplo:\n• **Tragedia**: un conflicto grave y un final desgraciado.\n• **Épica**: las hazañas de un héroe.\n• **Policial**: un enigma que se resuelve razonando.\n• **Fantástico**: algo imposible aparece en un mundo como el nuestro."
+    },
+    {
+     "t": "dato",
+     "titulo": "La estética de una obra",
+     "texto": "La **estética** es la manera de hacer arte que comparte un grupo de artistas o una época. Por ejemplo, el **realismo** busca mostrar la realidad tal como es; en el **realismo mágico**, cosas maravillosas aparecen en la vida cotidiana como si fueran normales. Saber en qué estética se inscribe una obra ayuda a leerla."
+    },
+    {
+     "t": "observar",
+     "_imagen": true,
+     "etiqueta": "🔎 Mirá con atención",
+     "consigna": "Mirá los tres dibujos y pensá a qué gran género corresponde cada uno.",
+     "imagen": {
+      "src": "img/clases/len-4-01-generos.svg",
+      "tipo": "grafico",
+      "alt": "Tres dibujos: A, un libro abierto; B, una hoja con versos cortos, un corazón y una pluma; C, un escenario con telón y dos personajes que dialogan.",
+      "epigrafe": "Tres maneras de escribir literatura. Ilustración elaborada para esta clase."
+     },
+     "preguntas": [
+      {
+       "pregunta": "¿Qué género representa el dibujo A, un libro con un texto en prosa?",
+       "opciones": [
+        "Narrativo",
+        "Lírico",
+        "Dramático"
+       ],
+       "correcta": 0,
+       "explicacion": "El libro con prosa representa el género narrativo: un narrador cuenta una historia.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      },
+      {
+       "pregunta": "¿Qué género representa el dibujo B, con versos cortos y un corazón?",
+       "opciones": [
+        "Lírico",
+        "Narrativo",
+        "Dramático"
+       ],
+       "correcta": 0,
+       "explicacion": "Los versos y el corazón representan el género lírico: expresa emociones.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      },
+      {
+       "pregunta": "¿Qué género representa el dibujo C, un escenario con personajes que dialogan?",
+       "opciones": [
+        "Dramático",
+        "Narrativo",
+        "Lírico"
+       ],
+       "correcta": 0,
+       "explicacion": "El escenario y los diálogos representan el género dramático: se escribe para ser representado.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      }
+     ]
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada subgénero con su regla principal.",
+     "pares": [
+      {
+       "a": "Tragedia",
+       "b": "Un conflicto grave con final desgraciado"
+      },
+      {
+       "a": "Épica",
+       "b": "Las hazañas de un héroe"
+      },
+      {
+       "a": "Policial",
+       "b": "Un enigma que se resuelve razonando"
+      },
+      {
+       "a": "Fantástico",
+       "b": "Algo imposible en un mundo como el nuestro"
+      }
+     ],
+     "explicacion": "Cada subgénero tiene reglas que quien lee espera encontrar.",
+     "pista": "Releé el recuadro de los subgéneros.",
+     "_nuevo": true
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Por qué conviene saber a qué género pertenece una obra antes de analizarla?",
+     "opciones": [
+      "Porque cada género indica qué buscar",
+      "Porque así se sabe cómo termina antes de leerla",
+      "Porque el género cambia el título de la obra",
+      "Porque así no hace falta leerla completa"
+     ],
+     "correcta": 0,
+     "explicacion": "Si es una tragedia, vas a buscar el conflicto y el héroe trágico; si es un policial, el enigma y cómo se resuelve.",
+     "pista": "Releé el primer texto de esta parte."
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿A qué gran género pertenece una obra escrita con diálogos para ser representada en un escenario?",
+     "respuesta": "dramático",
+     "explicacion": "La tragedia y la comedia son obras del género dramático.",
+     "pista": "Buscalo en la tabla de los tres grandes géneros.",
+     "formato": "Escribí solo la palabra.",
+     "acepta": [
+      "dramatico",
+      "el dramatico",
+      "genero dramatico"
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué alguien que mira una película de terror ya espera sentir miedo antes de que empiece?",
+     "respuesta": "Porque conoce las reglas del género: sabe que va a haber suspenso, peligro y sustos. Con la literatura pasa lo mismo: cada género crea expectativas, y una parte del placer de leer es ver cómo la obra cumple esas reglas o juega con ellas."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá a qué género y subgénero pertenece tu obra y qué rasgos lo muestran. Hacelo con la obra que trabajaste con tu docente. Si no te indicaron ninguna, usá Antígona, el ejemplo de esta clase. Si sabés en qué estética se inscribe, nombrala y explicá por qué.",
+    "guia": [
+     "¿Es narrativa, lírica o dramática? ¿Cómo te das cuenta?",
+     "¿A qué subgénero pertenece (tragedia, épica, policial, fantástico, otro)?",
+     "¿Qué reglas de ese subgénero aparecen en tu obra?",
+     "¿En qué estética se inscribe, si la conocés?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Los tres grandes géneros literarios son el narrativo, el lírico y el dramático.",
+     "respuesta": true,
+     "explicacion": "Dentro de cada uno hay subgéneros."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El género lírico cuenta una historia con un narrador.",
+     "respuesta": false,
+     "explicacion": "Eso es el narrativo; el lírico expresa emociones, en general en verso."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Antígona pertenece al género dramático.",
+     "respuesta": true,
+     "explicacion": "Es una tragedia: se escribió para ser representada."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El policial es un subgénero en el que se resuelve un enigma razonando.",
+     "respuesta": true,
+     "explicacion": "Es una de sus reglas principales."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Todas las obras de un mismo género tienen la misma historia.",
+     "respuesta": false,
+     "explicacion": "Comparten reglas, no historias."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La estética es la manera de hacer arte de un grupo de artistas o de una época.",
+     "respuesta": true,
+     "explicacion": "Por ejemplo, el realismo o el realismo mágico."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es el yo lírico?",
+     "opciones": [
+      "La voz que expresa lo que siente en un poema",
+      "El narrador que cuenta la historia de una novela",
+      "El protagonista de una tragedia griega",
+      "Quien dirige la obra de teatro"
+     ],
+     "correcta": 0,
+     "explicacion": "Es propio del género lírico."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos es un subgénero narrativo?",
+     "opciones": [
+      "El cuento",
+      "La tragedia",
+      "La comedia",
+      "El poema"
+     ],
+     "correcta": 0,
+     "explicacion": "La tragedia y la comedia son dramáticas; el poema es lírico."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué regla tiene el fantástico?",
+     "opciones": [
+      "Algo imposible aparece en un mundo como el nuestro",
+      "Siempre termina bien para el protagonista y su familia",
+      "Siempre tiene un detective que resuelve un caso",
+      "Está escrito en verso, como un poema"
+     ],
+     "correcta": 0,
+     "explicacion": "Lo imposible irrumpe en lo cotidiano."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué busca el realismo?",
+     "opciones": [
+      "Mostrar la realidad tal como es",
+      "Contar hechos imposibles con naturalidad",
+      "Expresar emociones en versos cortos",
+      "Hacer reír criticando las costumbres"
+     ],
+     "correcta": 0,
+     "explicacion": "Es una estética."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Para qué se escribe una obra dramática?",
+     "opciones": [
+      "Para ser representada",
+      "Para ser cantada en la radio",
+      "Para que la cuente un narrador",
+      "Para dar instrucciones de uso"
+     ],
+     "correcta": 0,
+     "explicacion": "Por eso tiene diálogos entre personajes."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué son las convenciones de un género?",
+     "opciones": [
+      "Las reglas que quien lee espera encontrar",
+      "Los capítulos en que se divide un libro",
+      "Los nombres que tienen los personajes",
+      "Los datos que aparecen en la tapa del libro"
+     ],
+     "correcta": 0,
+     "explicacion": "Saberlas ayuda a analizar la obra."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "GÉNERO",
+     "pista": "Grupo de obras escritas de manera parecida y con reglas comunes."
+    },
+    {
+     "palabra": "LÍRICO",
+     "pista": "Género que expresa emociones, en general en verso."
+    },
+    {
+     "palabra": "DRAMÁTICO",
+     "pista": "Género escrito para ser representado."
+    },
+    {
+     "palabra": "NARRATIVO",
+     "pista": "Género que cuenta una historia con un narrador."
+    },
+    {
+     "palabra": "ESTÉTICA",
+     "pista": "Manera de hacer arte de un grupo o una época."
+    },
+    {
+     "palabra": "POLICIAL",
+     "pista": "Subgénero con un enigma que se resuelve razonando."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Leés un texto en verso en el que una voz cuenta cuánto extraña a alguien. ¿De qué género es?",
+     "opciones": [
+      "Lírico",
+      "Narrativo",
+      "Dramático",
+      "Policial"
+     ],
+     "correcta": 0,
+     "explicacion": "Expresa emociones con la voz del yo lírico."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué te dice saber que una obra es una tragedia?",
+     "opciones": [
+      "Que habrá un conflicto grave y un final triste",
+      "Que va a terminar bien para todos",
+      "Que hay un detective que resuelve un caso difícil",
+      "Que está escrita como un poema de amor"
+     ],
+     "correcta": 0,
+     "explicacion": "Cada subgénero crea expectativas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el realismo mágico, lo maravilloso aparece en la vida cotidiana como si fuera normal.",
+     "respuesta": true,
+     "explicacion": "Es una estética de la literatura latinoamericana."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Por dentro de la obra: quién cuenta, quiénes actúan, de qué trata",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Quién cuenta la historia",
+     "texto": "En las obras narrativas, la historia la cuenta un **narrador**. El narrador **no es el autor**: es una voz que el autor inventa para contar.\n\nPuede contar en **primera persona** (\"yo\", \"nosotros\"), como protagonista o como testigo, o en **tercera persona** (\"él\", \"ella\"). Desde dónde mira el narrador se llama **punto de vista**: no es lo mismo contar algo desde adentro de un personaje que desde afuera."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Los tipos de narrador",
+     "columnas": [
+      "Narrador",
+      "Persona",
+      "Cómo cuenta",
+      "Ejemplo"
+     ],
+     "filas": [
+      [
+       "Protagonista",
+       "Primera",
+       "Cuenta su propia historia",
+       "\"Esa noche yo no podía dormir.\""
+      ],
+      [
+       "Testigo",
+       "Primera",
+       "Cuenta lo que vio que le pasaba a otro",
+       "\"Desde mi ventana vi cómo el vecino escondía algo.\""
+      ],
+      [
+       "Omnisciente",
+       "Tercera",
+       "Sabe todo, incluso lo que piensan los personajes",
+       "\"Ana sonrió, aunque por dentro tenía miedo.\""
+      ]
+     ]
+    },
+    {
+     "t": "esquema",
+     "_imagen": true,
+     "consigna": "Completá el esquema con lo que viste en la tabla de arriba: ubicá cada descripción al lado de su narrador.",
+     "imagen": {
+      "src": "img/clases/len-4-01-narrador.svg",
+      "src_movil": "img/clases/len-4-01-narrador-movil.svg",
+      "tipo": "grafico",
+      "alt": "Esquema de tres filas: narrador protagonista, testigo y omnisciente, cada uno con un casillero vacío para su descripción.",
+      "epigrafe": "Esquema elaborado para esta clase."
+     },
+     "huecos": [
+      {
+       "x": 49.0,
+       "y": 21.83,
+       "w": 49.0,
+       "h": 20.3,
+       "respuesta": "Cuenta su propia historia, en primera persona",
+       "movil": {
+        "x": 4.0,
+        "y": 24.92,
+        "w": 92.0,
+        "h": 14.14
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 46.19,
+       "w": 49.0,
+       "h": 20.3,
+       "respuesta": "Cuenta lo que vio, en primera persona",
+       "movil": {
+        "x": 4.0,
+        "y": 53.2,
+        "w": 92.0,
+        "h": 14.14
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 70.56,
+       "w": 49.0,
+       "h": 20.3,
+       "respuesta": "Sabe todo y cuenta en tercera persona",
+       "movil": {
+        "x": 4.0,
+        "y": 81.48,
+        "w": 92.0,
+        "h": 14.14
+       }
+      }
+     ],
+     "distractores": [
+      "Es el autor de la obra",
+      "Cuenta en verso"
+     ],
+     "explicacion": "Es la misma información de la tabla. Recordá que el narrador no es el autor: es una voz inventada.",
+     "pista": "Volvé a mirar las columnas de la persona y de cómo cuenta cada narrador."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Los otros elementos para analizar",
+     "texto": "• **Personajes**: los **principales** llevan adelante la historia; los **secundarios** acompañan.\n• **Conflicto**: el problema o enfrentamiento que pone la historia en movimiento.\n• **Tiempo y espacio**: cuándo y dónde transcurre la historia (que puede no coincidir con el contexto de producción).\n• **Tema**: de qué trata la obra en profundidad. En _Antígona_, por ejemplo, el choque entre la ley del Estado y la conciencia."
+    },
+    {
+     "t": "dato",
+     "titulo": "Las obras dialogan con otras",
+     "texto": "Muchas obras retoman otras: las citan, las reescriben o las cuentan de nuevo en otro lugar y otra época. _Antígona_, por ejemplo, fue reescrita muchas veces. Esa relación entre textos se llama **intertextualidad**. Una obra también puede dialogar con otros discursos, como el periodismo, el cine o las canciones."
+    },
+    {
+     "t": "pasos",
+     "titulo": "Una guía para analizar cualquier obra",
+     "pasos": [
+      {
+       "titulo": "Contexto de producción",
+       "texto": "Quién la escribió, cuándo, dónde y qué pasaba en esa sociedad."
+      },
+      {
+       "titulo": "Género y estética",
+       "texto": "A qué género y subgénero pertenece, y qué reglas cumple."
+      },
+      {
+       "titulo": "Quién cuenta",
+       "texto": "Qué tipo de narrador tiene y desde qué punto de vista cuenta (o, en el teatro, cómo hablan los personajes)."
+      },
+      {
+       "titulo": "Personajes y conflicto",
+       "texto": "Quiénes son los principales y cuál es el problema que mueve la historia."
+      },
+      {
+       "titulo": "Tiempo y espacio",
+       "texto": "Cuándo y dónde transcurre la historia."
+      },
+      {
+       "titulo": "Tema y relaciones",
+       "texto": "De qué trata en profundidad y con qué otras obras o discursos dialoga."
+      }
+     ]
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Qué tipo de narrador tiene cada fragmento?",
+     "categorias": [
+      "Protagonista",
+      "Testigo",
+      "Omnisciente"
+     ],
+     "items": [
+      {
+       "texto": "\"Ese día yo decidí irme de mi pueblo.\"",
+       "cat": "Protagonista"
+      },
+      {
+       "texto": "\"Cuando abrí la carta, me temblaban las manos.\"",
+       "cat": "Protagonista"
+      },
+      {
+       "texto": "\"Vi a mi hermana salir corriendo, pero nunca supe adónde iba.\"",
+       "cat": "Testigo"
+      },
+      {
+       "texto": "\"Desde la vereda miré cómo el médico entraba a la casa.\"",
+       "cat": "Testigo"
+      },
+      {
+       "texto": "\"Pedro sonreía, pero pensaba en lo que había perdido.\"",
+       "cat": "Omnisciente"
+      },
+      {
+       "texto": "\"Los dos tenían miedo, aunque ninguno lo decía.\"",
+       "cat": "Omnisciente"
+      }
+     ],
+     "explicacion": "El protagonista cuenta lo que le pasa a él; el testigo, lo que vio; el omnisciente sabe incluso lo que piensan los personajes."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Es lo mismo el narrador que el autor de una obra?",
+     "opciones": [
+      "No: es una voz que inventa el autor",
+      "Sí: el narrador siempre es el autor",
+      "Solo son distintos en los poemas",
+      "Solo son distintos en las tragedias"
+     ],
+     "correcta": 0,
+     "explicacion": "Por eso un autor adulto puede crear un narrador niño, por ejemplo.",
+     "pista": "Releé el primer texto de esta parte."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los seis pasos de la guía para analizar una obra.",
+     "items": [
+      "Contexto de producción",
+      "Género y estética",
+      "Quién cuenta",
+      "Personajes y conflicto",
+      "Tiempo y espacio",
+      "Tema y relaciones"
+     ],
+     "explicacion": "Este es el orden de la guía: de lo que rodea a la obra a lo que trata en profundidad.",
+     "pista": "Releé el paso a paso de esta parte."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué una misma historia puede cambiar mucho si la cuenta otro narrador?",
+     "respuesta": "Porque cada narrador sabe y ve cosas distintas. Un protagonista cuenta lo que siente desde adentro; un testigo solo lo que ve desde afuera; un narrador omnisciente puede contar lo que piensan todos. Elegir el narrador es elegir qué va a saber quien lee."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Armá en tu carpeta una ficha de análisis de tu obra. Hacelo con la obra que trabajaste con tu docente. Si no te indicaron ninguna, usá Antígona, el ejemplo de esta clase. Usá la guía de los seis pasos: contexto, género, quién cuenta, personajes y conflicto, tiempo y espacio, tema y relaciones con otras obras.",
+    "guia": [
+     "¿Quién cuenta la historia y desde qué punto de vista? (En el teatro: ¿cómo hablan los personajes?)",
+     "¿Quiénes son los personajes principales y cuál es el conflicto?",
+     "¿Cuándo y dónde transcurre la historia?",
+     "¿De qué trata la obra en profundidad?",
+     "¿Con qué otra obra, película o canción la relacionarías? ¿Por qué?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El narrador y el autor de una obra son siempre la misma persona.",
+     "respuesta": false,
+     "explicacion": "El narrador es una voz que el autor inventa."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El narrador testigo cuenta lo que vio que le pasaba a otro.",
+     "respuesta": true,
+     "explicacion": "Cuenta en primera persona."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El narrador omnisciente sabe lo que piensan los personajes.",
+     "respuesta": true,
+     "explicacion": "Cuenta en tercera persona y lo sabe todo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El tema de una obra es el nombre del protagonista.",
+     "respuesta": false,
+     "explicacion": "El tema es de qué trata la obra en profundidad."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La intertextualidad es la relación entre una obra y otras obras.",
+     "respuesta": true,
+     "explicacion": "Por ejemplo, cuando una obra reescribe otra."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El conflicto es el problema que pone en movimiento la historia.",
+     "respuesta": true,
+     "explicacion": "Sin conflicto no hay historia."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "\"Esa noche yo no podía dormir.\" ¿Qué narrador es?",
+     "opciones": [
+      "Protagonista",
+      "Testigo",
+      "Omnisciente",
+      "No tiene narrador"
+     ],
+     "correcta": 0,
+     "explicacion": "Cuenta su propia historia en primera persona."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es el punto de vista?",
+     "opciones": [
+      "Desde dónde mira y cuenta el narrador",
+      "El título que eligió quien escribió la obra",
+      "La opinión de quien lee sobre la obra",
+      "El final que tiene la historia"
+     ],
+     "correcta": 0,
+     "explicacion": "No es lo mismo contar desde adentro de un personaje que desde afuera."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es el tema de Antígona?",
+     "opciones": [
+      "El choque entre la ley y la conciencia",
+      "Un viaje por el mar de regreso a casa",
+      "Un crimen que resuelve un detective",
+      "Una historia de amor con un final feliz"
+     ],
+     "correcta": 0,
+     "explicacion": "Es de qué trata la obra en profundidad."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué son los personajes secundarios?",
+     "opciones": [
+      "Los que acompañan a los principales",
+      "Los que nunca hablan en la obra",
+      "Los que aparecen dibujados en la tapa",
+      "Los que tienen el conflicto central"
+     ],
+     "correcta": 0,
+     "explicacion": "Los principales llevan adelante la historia."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es el primer paso de la guía para analizar una obra?",
+     "opciones": [
+      "El contexto de producción",
+      "El tema y las relaciones",
+      "El tiempo y el espacio",
+      "Quién cuenta la historia"
+     ],
+     "correcta": 0,
+     "explicacion": "Después vienen el género, quién cuenta, personajes y conflicto, tiempo y espacio, y tema."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué persona cuenta el narrador omnisciente?",
+     "opciones": [
+      "En tercera persona",
+      "En primera persona",
+      "En segunda persona",
+      "No cuenta"
+     ],
+     "correcta": 0,
+     "explicacion": "\"Él\", \"ella\", \"ellos\"."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "NARRADOR",
+     "pista": "Voz que cuenta la historia."
+    },
+    {
+     "palabra": "TESTIGO",
+     "pista": "Narrador que cuenta lo que vio."
+    },
+    {
+     "palabra": "OMNISCIENTE",
+     "pista": "Narrador que sabe todo."
+    },
+    {
+     "palabra": "CONFLICTO",
+     "pista": "Problema que mueve la historia."
+    },
+    {
+     "palabra": "TEMA",
+     "pista": "De qué trata la obra en profundidad."
+    },
+    {
+     "palabra": "INTERTEXTUALIDAD",
+     "pista": "Relación entre una obra y otras obras."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "En \"Vi a mi hermano entrar a la casa, pero no supe qué buscaba\", ¿por qué el narrador es testigo y no omnisciente?",
+     "opciones": [
+      "Porque no sabe lo que piensa el otro",
+      "Porque cuenta en tercera persona",
+      "Porque es la misma persona que el autor",
+      "Porque es el protagonista de la historia"
+     ],
+     "correcta": 0,
+     "explicacion": "El omnisciente sabría qué buscaba."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia hay entre el tiempo de la historia y el contexto de producción?",
+     "opciones": [
+      "Uno es cuándo pasa lo que se cuenta; el otro, cuándo se escribió",
+      "Son lo mismo: la época en que transcurre la obra que se lee",
+      "El contexto de producción es el final de la historia",
+      "El tiempo de la historia es cuánto tarda en leerse"
+     ],
+     "correcta": 0,
+     "explicacion": "Una novela escrita hoy puede contar algo que pasó hace cien años."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La guía de seis pasos sirve para analizar cualquier obra, no solo Antígona.",
+     "respuesta": true,
+     "explicacion": "Por eso la podés usar con la obra que leíste con tu docente."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Contexto de producción",
+   "definicion": "Quién escribió una obra, cuándo, dónde y qué pasaba en esa sociedad."
+  },
+  {
+   "palabra": "Género literario",
+   "definicion": "Grupo de obras con reglas comunes: narrativo, lírico o dramático."
+  },
+  {
+   "palabra": "Estética",
+   "definicion": "Manera de hacer arte que comparte un grupo de artistas o una época."
+  },
+  {
+   "palabra": "Narrador",
+   "definicion": "Voz que cuenta la historia; no es el autor."
+  },
+  {
+   "palabra": "Punto de vista",
+   "definicion": "Desde dónde mira y cuenta el narrador."
+  },
+  {
+   "palabra": "Conflicto",
+   "definicion": "Problema que pone en movimiento la historia."
+  },
+  {
+   "palabra": "Tema",
+   "definicion": "De qué trata una obra en profundidad."
+  },
+  {
+   "palabra": "Intertextualidad",
+   "definicion": "Relación entre una obra y otras obras que retoma, cita o reescribe."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Pensar que el narrador es el autor.",
+   "aclaracion": "El narrador es una voz inventada por el autor: puede ser un niño, un animal o alguien muy distinto de quien escribe."
+  },
+  {
+   "error": "Confundir el tiempo de la historia con el contexto de producción.",
+   "aclaracion": "Una novela escrita hoy puede contar algo que pasó hace cien años."
+  },
+  {
+   "error": "Decir que el tema es el resumen de la historia.",
+   "aclaracion": "El tema es de qué trata en profundidad: la amistad, el poder, la injusticia, la identidad."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Pensá en una película o una serie que te haya gustado: ¿quién cuenta la historia y de qué trata en profundidad?",
+  "conexion": "Con todas las clases de literatura: esta guía te sirve para analizar la tragedia, la épica, los relatos latinoamericanos y cualquier obra que leas."
+ }
+}

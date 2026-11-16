@@ -1,0 +1,1024 @@
+{
+ "id": "mat-4-03",
+ "espacio": "matematica",
+ "eje": "Números y operaciones",
+ "titulo": "Radicales aritméticos",
+ "intro": "Un mismo número se puede escribir con radicales de varias maneras, como √50 o 5√2. Vas a usar las propiedades de los radicales para transformar esas escrituras y para justificar cuándo dos de ellas son equivalentes.",
+ "objetivos": [
+  "Aplicar las propiedades del producto y del cociente de radicales, y reconocer que la raíz no se reparte en una suma.",
+  "Simplificar radicales extrayendo factores y sumar radicales semejantes.",
+  "Racionalizar denominadores y justificar por qué dos escrituras son equivalentes."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: las propiedades del producto y del cociente, el contraejemplo de la suma, cómo simplificar un radical, cómo sumar radicales semejantes y cómo racionalizar.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Propiedades de los radicales",
+   "tiempo": "35 a 45 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Producto y cociente",
+     "texto": "Con números positivos, la raíz de un producto es el producto de las raíces, y la raíz de un cociente es el cociente de las raíces. Por ejemplo, √(4 · 9) = √36 = 6, y también √4 · √9 = 2 · 3 = 6.\n\nEstas propiedades también se usan al revés: √2 · √8 = √16 = 4. Valen igual para raíces cúbicas o de otro índice, siempre que tengan el **mismo índice**."
+    },
+    {
+     "t": "ecuacion",
+     "titulo": "Propiedades del producto y del cociente",
+     "formula": "√(a · b) = √a · √b        √(a / b) = √a / √b",
+     "texto": "Con a y b positivos, y b distinto de 0 en el cociente."
+    },
+    {
+     "t": "destacado",
+     "texto": "La raíz **no se reparte en una suma ni en una resta**: √(a + b) no es igual a √a + √b. Basta un ejemplo para mostrarlo: √(9 + 16) = √25 = 5, pero √9 + √16 = 3 + 4 = 7."
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/mat-4-03-suma-raices.svg",
+     "src_movil": "img/clases/mat-4-03-suma-raices-movil.svg",
+     "tipo": "grafico",
+     "animacion": "svg",
+     "alt": "Un cuadrado de área 9 y uno de área 16, uno al lado del otro, miden 7 de largo. Un cuadrado de área 25 tiene lado 5.",
+     "epigrafe": "El ejemplo del recuadro, con cuadrados: la raíz de un área es la medida del lado. Esquema elaborado para esta clase."
+    },
+    {
+     "t": "sim",
+     "sim": "radical",
+     "titulo": "Probá las propiedades",
+     "inicial": {
+      "a": 2,
+      "b": 8
+     },
+     "consigna": "Mové los controles hasta que √a · √b dé exactamente 6, sin usar a = 1 ni b = 1.",
+     "objetivo": {
+      "cumple": {
+       "producto": 36,
+       "a": [
+        2,
+        50
+       ],
+       "b": [
+        2,
+        50
+       ]
+      },
+      "cerca": {
+       "producto": 36
+      },
+      "mensaje_cerca": "Da 6, pero buscá una combinación en la que ninguno de los dos valga 1."
+     },
+     "explicacion": "Sirve cualquier par con a · b = 36, como 4 y 9, 2 y 18 o 3 y 12, porque √a · √b = √(a · b) = √36 = 6. Fijate también en las dos últimas filas: √a + √b y √(a + b) nunca coinciden."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada cálculo con su resultado.",
+     "pares": [
+      {
+       "a": "√2 · √8",
+       "b": "4"
+      },
+      {
+       "a": "√50 / √2",
+       "b": "5"
+      },
+      {
+       "a": "√3 · √12",
+       "b": "6"
+      },
+      {
+       "a": "∛2 · ∛4",
+       "b": "2"
+      }
+     ],
+     "explicacion": "√2 · √8 = √16 = 4; √50 / √2 = √25 = 5; √3 · √12 = √36 = 6; ∛2 · ∛4 = ∛8 = 2.",
+     "pista": "Juntá todo en una sola raíz con la propiedad del producto o del cociente, y después calculá."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "√(4 · 25) = √4 · √25",
+       "v": true,
+       "explicacion": "Las dos dan 10: es la propiedad del producto."
+      },
+      {
+       "texto": "√(36 + 64) = √36 + √64",
+       "v": false,
+       "explicacion": "√100 = 10, pero 6 + 8 = 14. La raíz no se reparte en una suma.",
+       "pista": "Calculá los dos lados por separado."
+      },
+      {
+       "texto": "√(100 / 4) = √100 / √4",
+       "v": true,
+       "explicacion": "Las dos dan 5: es la propiedad del cociente."
+      },
+      {
+       "texto": "√(25 − 9) = √25 − √9",
+       "v": false,
+       "explicacion": "√16 = 4, pero 5 − 3 = 2. Tampoco se reparte en una resta.",
+       "pista": "Hacé primero la resta de adentro."
+      }
+     ]
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Desafío",
+     "consigna": "Calculá √18 · √2 sin calculadora.",
+     "respuesta": "6",
+     "explicacion": "√18 · √2 = √(18 · 2) = √36 = 6.",
+     "pista1": "Usá la propiedad del producto para escribir todo dentro de una sola raíz.",
+     "pista": "18 · 2 = 36. ¿Cuánto es √36?"
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Si √a + √b nunca da igual que √(a + b) cuando a y b son positivos, ¿cuál de los dos es más grande?",
+     "respuesta": "Siempre es más grande √a + √b. En el dibujo se ve: los lados 3 y 4 juntos miden 7, y el lado del cuadrado de 25 mide 5."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Escribí las propiedades del producto y del cociente de radicales, con un ejemplo de cada una, y mostrá con un contraejemplo que la raíz no se reparte en una suma.",
+    "guia": [
+     "¿Qué dicen las propiedades del producto y del cociente, y qué condición tienen que cumplir las raíces?",
+     "¿Por qué √(9 + 16) no es igual a √9 + √16?",
+     "¿Cuánto da √2 · √8 y cómo lo calculaste?",
+     "¿Cuánto da √48 ÷ √3 y cómo lo calculaste?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "√2 · √8 = 4.",
+     "respuesta": true,
+     "explicacion": "√16 = 4."
+    },
+    {
+     "tipo": "vf",
+     "texto": "√(9 + 16) = √9 + √16.",
+     "respuesta": false,
+     "explicacion": "√25 = 5, pero 3 + 4 = 7."
+    },
+    {
+     "tipo": "vf",
+     "texto": "√(a / b) = √a / √b, con a y b positivos.",
+     "respuesta": true,
+     "explicacion": "Es la propiedad del cociente."
+    },
+    {
+     "tipo": "vf",
+     "texto": "√3 · ∛3 = √9.",
+     "respuesta": false,
+     "explicacion": "Para multiplicar así, las raíces tienen que tener el mismo índice."
+    },
+    {
+     "tipo": "vf",
+     "texto": "√50 / √2 = 5.",
+     "respuesta": true,
+     "explicacion": "√(50 / 2) = √25 = 5."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La raíz se reparte en una resta.",
+     "respuesta": false,
+     "explicacion": "√(25 − 9) = 4, pero 5 − 3 = 2."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuánto da √3 · √27?",
+     "opciones": [
+      "√30",
+      "9",
+      "81",
+      "3√3"
+     ],
+     "correcta": 1,
+     "explicacion": "√81 = 9."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuánto da √(16 + 9)?",
+     "opciones": [
+      "7",
+      "25",
+      "5",
+      "√7"
+     ],
+     "correcta": 2,
+     "explicacion": "Primero se suma: √25 = 5."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "∛2 · ∛4 es igual a…",
+     "opciones": [
+      "2",
+      "∛6",
+      "8",
+      "√8"
+     ],
+     "correcta": 0,
+     "explicacion": "∛8 = 2."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "√72 / √2 es igual a…",
+     "opciones": [
+      "36",
+      "√70",
+      "√74",
+      "6"
+     ],
+     "correcta": 3,
+     "explicacion": "√(72 / 2) = √36 = 6."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Para multiplicar raíces juntándolas en una, tienen que tener…",
+     "opciones": [
+      "el mismo radicando",
+      "el mismo índice",
+      "el mismo resultado",
+      "un radicando par"
+     ],
+     "correcta": 1,
+     "explicacion": "Por ejemplo, dos raíces cuadradas, o dos cúbicas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué ejemplo muestra que la raíz no se reparte en una suma?",
+     "opciones": [
+      "√4 · √9 = 6",
+      "√36 / √4 = 3",
+      "√9 + √16 ≠ √25",
+      "√2 · √2 = 2"
+     ],
+     "correcta": 2,
+     "explicacion": "3 + 4 = 7 y √25 = 5."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "RADICAL",
+     "pista": "Expresión con una raíz, como √5."
+    },
+    {
+     "palabra": "PRODUCTO",
+     "pista": "Propiedad: √(a · b) = √a · √b."
+    },
+    {
+     "palabra": "COCIENTE",
+     "pista": "Propiedad: √(a / b) = √a / √b."
+    },
+    {
+     "palabra": "ÍNDICE",
+     "pista": "Número que indica qué raíz es: 2, 3, 4…"
+    },
+    {
+     "palabra": "CONTRAEJEMPLO",
+     "pista": "Un caso que muestra que una regla no vale."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas igualdades es falsa?",
+     "opciones": [
+      "√(4 · 9) = √4 · √9",
+      "√(36 / 4) = √36 / √4",
+      "√(9 + 16) = √9 + √16",
+      "√2 · √18 = 6"
+     ],
+     "correcta": 2,
+     "explicacion": "√25 = 5 y 3 + 4 = 7: la raíz no se reparte en una suma."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuánto da √5 · √20?",
+     "opciones": [
+      "√25",
+      "100",
+      "5√2",
+      "10"
+     ],
+     "correcta": 3,
+     "explicacion": "√(5 · 20) = √100 = 10."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Para mostrar que una propiedad no vale, alcanza con un contraejemplo.",
+     "respuesta": true,
+     "explicacion": "Un solo caso en el que no se cumple ya prueba que no vale siempre."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Simplificar radicales",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Extraer factores de la raíz",
+     "texto": "Para simplificar √50, buscá el **cuadrado perfecto más grande** que divide a 50. Es 25, porque 50 = 25 · 2. Con la propiedad del producto: √50 = √25 · √2 = **5√2**. Se dice que el 5 **se extrajo** de la raíz.\n\nCon raíces cúbicas se buscan cubos perfectos: ∛54 = ∛27 · ∛2 = 3∛2."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Cuadrados y cubos perfectos que conviene tener a mano",
+     "columnas": [
+      "Número",
+      "Al cuadrado",
+      "Al cubo"
+     ],
+     "filas": [
+      [
+       "2",
+       "4",
+       "8"
+      ],
+      [
+       "3",
+       "9",
+       "27"
+      ],
+      [
+       "4",
+       "16",
+       "64"
+      ],
+      [
+       "5",
+       "25",
+       "125"
+      ],
+      [
+       "6",
+       "36",
+       "216"
+      ],
+      [
+       "7",
+       "49",
+       "343"
+      ],
+      [
+       "10",
+       "100",
+       "1000"
+      ]
+     ]
+    },
+    {
+     "t": "pasos",
+     "titulo": "Simplificá √72",
+     "pasos": [
+      {
+       "titulo": "Buscá el cuadrado perfecto más grande que divide a 72",
+       "texto": "Mirá la tabla: 36 divide a 72, porque 72 = 36 · 2."
+      },
+      {
+       "titulo": "Separá la raíz",
+       "texto": "√72 = √36 · √2."
+      },
+      {
+       "titulo": "Calculá la raíz exacta",
+       "texto": "√36 = 6, entonces √72 = **6√2**."
+      }
+     ]
+    },
+    {
+     "t": "destacado",
+     "texto": "Dos radicales son **semejantes** si tienen el mismo índice y el mismo radicando, como 3√2 y 5√2. Se suman igual que cualquier cantidad: 3√2 + 5√2 = 8√2. A veces hay que simplificar primero para darse cuenta: √8 + √2 = 2√2 + √2 = 3√2."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Simplificá √45.",
+     "respuesta": "3√5",
+     "acepta": [
+      "3√5",
+      "3 √5",
+      "3 raiz de 5",
+      "3raiz5",
+      "3 raíz de 5"
+     ],
+     "placeholder": "Por ejemplo: 2√7",
+     "explicacion": "45 = 9 · 5, entonces √45 = √9 · √5 = 3√5.",
+     "pista1": "Buscá en la tabla el cuadrado perfecto más grande que divide a 45.",
+     "pista": "45 = 9 · 5. ¿Cuánto es √9?"
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cada radical se puede simplificar o ya está en su forma más simple?",
+     "categorias": [
+      "Se puede simplificar",
+      "Ya es la forma más simple"
+     ],
+     "items": [
+      {
+       "texto": "√12",
+       "cat": "Se puede simplificar"
+      },
+      {
+       "texto": "√15",
+       "cat": "Ya es la forma más simple"
+      },
+      {
+       "texto": "√18",
+       "cat": "Se puede simplificar"
+      },
+      {
+       "texto": "√21",
+       "cat": "Ya es la forma más simple"
+      },
+      {
+       "texto": "√48",
+       "cat": "Se puede simplificar"
+      },
+      {
+       "texto": "√35",
+       "cat": "Ya es la forma más simple"
+      }
+     ],
+     "explicacion": "12 = 4 · 3, 18 = 9 · 2 y 48 = 16 · 3 tienen un cuadrado perfecto como factor. 15, 21 y 35 no tienen ninguno, salvo el 1.",
+     "pista": "Para cada radicando, fijate si lo divide alguno de los cuadrados de la tabla: 4, 9, 16, 25…"
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada radical con su forma simplificada.",
+     "pares": [
+      {
+       "a": "√8",
+       "b": "2√2"
+      },
+      {
+       "a": "√27",
+       "b": "3√3"
+      },
+      {
+       "a": "√75",
+       "b": "5√3"
+      },
+      {
+       "a": "√98",
+       "b": "7√2"
+      }
+     ],
+     "explicacion": "8 = 4 · 2; 27 = 9 · 3; 75 = 25 · 3; 98 = 49 · 2.",
+     "pista": "El número que queda adelante es la raíz del cuadrado perfecto que encontraste."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🔍 Encontrá el error",
+     "pregunta": "Una de estas simplificaciones tiene un error. ¿Cuál es?",
+     "opciones": [
+      "√20 = 2√5",
+      "√32 = 4√2",
+      "√18 = 9√2",
+      "√12 = 2√3"
+     ],
+     "correcta": 2,
+     "explicacion": "18 = 9 · 2, así que √18 = √9 · √2 = 3√2. Lo que sale de la raíz es √9 = 3, no el 9.",
+     "pista": "Revisá cada una haciendo la cuenta al revés: elevá al cuadrado el número de adelante y multiplicalo por el radicando."
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Desafío",
+     "consigna": "Calculá √8 + √18. Escribí el resultado como un solo radical simplificado.",
+     "respuesta": "5√2",
+     "acepta": [
+      "5√2",
+      "5 √2",
+      "5 raiz de 2",
+      "5raiz2",
+      "5 raíz de 2"
+     ],
+     "placeholder": "Por ejemplo: 4√3",
+     "explicacion": "√8 = 2√2 y √18 = 3√2. Son semejantes: 2√2 + 3√2 = 5√2.",
+     "pista1": "Primero simplificá cada radical por separado.",
+     "pista": "√8 = 2√2. Hacé lo mismo con √18 y después sumá."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "¿Se puede sumar √2 + √3 y escribirlo como un solo radical?",
+     "respuesta": "No. No son semejantes, porque tienen distinto radicando, y no se pueden simplificar más. El resultado se deja como √2 + √3. Ojo: no es √5, porque la raíz no se reparte en una suma."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá cómo se simplifica un radical, con √72 como ejemplo, y cómo se suman radicales semejantes, con √8 + √18.",
+    "guia": [
+     "¿Qué buscás en el radicando para poder simplificar y qué propiedad usás?",
+     "Simplificá √72.",
+     "Simplificá √50.",
+     "¿Cuánto da √8 + √18 y por qué esos radicales son semejantes?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "√50 = 5√2.",
+     "respuesta": true,
+     "explicacion": "50 = 25 · 2."
+    },
+    {
+     "tipo": "vf",
+     "texto": "√15 se puede simplificar.",
+     "respuesta": false,
+     "explicacion": "15 no tiene cuadrados perfectos como factor, salvo el 1."
+    },
+    {
+     "tipo": "vf",
+     "texto": "3√2 + 5√2 = 8√2.",
+     "respuesta": true,
+     "explicacion": "Son semejantes: se suman los números de adelante."
+    },
+    {
+     "tipo": "vf",
+     "texto": "√2 + √3 = √5.",
+     "respuesta": false,
+     "explicacion": "No son semejantes y la raíz no se reparte en una suma."
+    },
+    {
+     "tipo": "vf",
+     "texto": "∛54 = 3∛2.",
+     "respuesta": true,
+     "explicacion": "54 = 27 · 2 y ∛27 = 3."
+    },
+    {
+     "tipo": "vf",
+     "texto": "√18 = 9√2.",
+     "respuesta": false,
+     "explicacion": "√18 = √9 · √2 = 3√2."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "√48 simplificado es…",
+     "opciones": [
+      "4√3",
+      "16√3",
+      "3√4",
+      "2√12"
+     ],
+     "correcta": 0,
+     "explicacion": "48 = 16 · 3, y √16 = 4. 2√12 se puede simplificar todavía."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es semejante a 4√5?",
+     "opciones": [
+      "4√3",
+      "5√4",
+      "√5",
+      "5√2"
+     ],
+     "correcta": 2,
+     "explicacion": "Mismo índice y mismo radicando: √5."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "2√3 + 7√3 es igual a…",
+     "opciones": [
+      "9√6",
+      "14√3",
+      "9√3",
+      "√90"
+     ],
+     "correcta": 2,
+     "explicacion": "Se suman 2 + 7 = 9."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "√75 simplificado es…",
+     "opciones": [
+      "3√5",
+      "5√3",
+      "25√3",
+      "15√5"
+     ],
+     "correcta": 1,
+     "explicacion": "75 = 25 · 3."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Para simplificar √a se busca…",
+     "opciones": [
+      "el divisor más chico de a",
+      "el cuadrado perfecto más grande que divide a a",
+      "la mitad de a",
+      "un número primo mayor que a"
+     ],
+     "correcta": 1,
+     "explicacion": "Ese cuadrado perfecto es el que sale de la raíz."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "√12 + √3 es igual a…",
+     "opciones": [
+      "√15",
+      "3√3",
+      "2√3",
+      "6"
+     ],
+     "correcta": 1,
+     "explicacion": "√12 = 2√3; 2√3 + √3 = 3√3."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "SIMPLIFICAR",
+     "pista": "Escribir un radical con el radicando más chico posible."
+    },
+    {
+     "palabra": "EXTRAER",
+     "pista": "Sacar un factor fuera de la raíz."
+    },
+    {
+     "palabra": "SEMEJANTES",
+     "pista": "Radicales con el mismo índice y el mismo radicando."
+    },
+    {
+     "palabra": "PERFECTO",
+     "pista": "Cuadrado ___: 4, 9, 16, 25…"
+    },
+    {
+     "palabra": "FACTOR",
+     "pista": "Cada número que se multiplica en un producto."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es la forma simplificada de √200?",
+     "opciones": [
+      "20√10",
+      "2√50",
+      "100√2",
+      "10√2"
+     ],
+     "correcta": 3,
+     "explicacion": "200 = 100 · 2 y √100 = 10."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuánto es √50 + √2?",
+     "opciones": [
+      "6√2",
+      "√52",
+      "5√2",
+      "2√13"
+     ],
+     "correcta": 0,
+     "explicacion": "√50 = 5√2, y 5√2 + √2 = 6√2."
+    },
+    {
+     "tipo": "vf",
+     "texto": "3√2 y 2√3 son radicales semejantes.",
+     "respuesta": false,
+     "explicacion": "Tienen distinto radicando: √2 y √3."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Racionalizar y argumentar equivalencias",
+   "tiempo": "35 a 45 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Dos escrituras del mismo número",
+     "texto": "Dos expresiones son **equivalentes** si representan el mismo número, aunque se escriban distinto. √50 y 5√2 son equivalentes; 1/√2 y √2/2, también.\n\n**Racionalizar** es transformar una fracción para que no quede una raíz en el denominador. Para 1/√2, se multiplica arriba y abajo por √2: 1/√2 = (1 · √2) / (√2 · √2) = √2/2."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Pensalo así",
+     "texto": "Multiplicar arriba y abajo por √2 es multiplicar por √2/√2, que vale 1. Es lo mismo que pasa con 1/2 = 2/4: cambia la escritura, pero el número es el mismo. Por eso racionalizar nunca cambia el valor."
+    },
+    {
+     "t": "pasos",
+     "titulo": "Racionalizá 6/√3",
+     "pasos": [
+      {
+       "titulo": "Multiplicá arriba y abajo por √3",
+       "texto": "6/√3 = (6 · √3) / (√3 · √3)."
+      },
+      {
+       "titulo": "Resolvé el denominador",
+       "texto": "√3 · √3 = √9 = 3, entonces queda 6√3 / 3."
+      },
+      {
+       "titulo": "Simplificá",
+       "texto": "6 / 3 = 2, entonces 6/√3 = **2√3**."
+      }
+     ]
+    },
+    {
+     "t": "destacado",
+     "texto": "Para **argumentar** que dos escrituras son equivalentes, mostrá los pasos que llevan de una a la otra, nombrando la propiedad que usás. También podés comprobarlo con la calculadora: si dan el mismo valor aproximado, es una buena señal, pero la prueba son los pasos."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los pasos para racionalizar 10/√5.",
+     "items": [
+      "Multiplicar arriba y abajo por √5",
+      "Escribir el denominador: √5 · √5 = 5",
+      "Queda 10√5 / 5",
+      "Simplificar: 10√5 / 5 = 2√5"
+     ],
+     "explicacion": "Primero se multiplica por √5/√5, después se resuelve el denominador y al final se simplifica la fracción.",
+     "pista": "Seguí el mismo orden del paso a paso de 6/√3."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Racionalizá 4/√2 y simplificá.",
+     "respuesta": "2√2",
+     "acepta": [
+      "2√2",
+      "2 √2",
+      "2 raiz de 2",
+      "2raiz2",
+      "2 raíz de 2"
+     ],
+     "placeholder": "Por ejemplo: 3√5",
+     "explicacion": "4/√2 = 4√2 / 2 = 2√2.",
+     "pista1": "Multiplicá arriba y abajo por √2.",
+     "pista": "Te queda 4√2 / 2. Simplificá 4 / 2."
+    },
+    {
+     "t": "vf",
+     "consigna": "¿Las dos escrituras son equivalentes? Marcá verdadero o falso.",
+     "afirmaciones": [
+      {
+       "texto": "1/√2 y √2/2",
+       "v": true,
+       "explicacion": "Se pasa de una a otra racionalizando."
+      },
+      {
+       "texto": "√12 y 2√3",
+       "v": true,
+       "explicacion": "√12 = √4 · √3 = 2√3."
+      },
+      {
+       "texto": "√2 + √3 y √5",
+       "v": false,
+       "explicacion": "La raíz no se reparte en una suma: √2 + √3 ≈ 3,15 y √5 ≈ 2,24.",
+       "pista": "Compará con la calculadora los dos valores."
+      },
+      {
+       "texto": "2√3 y √6",
+       "v": false,
+       "explicacion": "2√3 = √4 · √3 = √12, que no es √6.",
+       "pista": "Meté el 2 dentro de la raíz: 2 = √4."
+      }
+     ]
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Cuál de estas escrituras es equivalente a √18?",
+     "opciones": [
+      "9√2",
+      "2√3",
+      "6√3",
+      "3√2"
+     ],
+     "correcta": 3,
+     "explicacion": "√18 = √9 · √2 = 3√2.",
+     "pista": "Buscá el cuadrado perfecto más grande que divide a 18."
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Desafío",
+     "consigna": "Comprobá con la calculadora que 1/√2 y √2/2 son el mismo número. ¿Cuánto dan, con 3 decimales y redondeando?",
+     "respuesta": "0.707",
+     "tolerancia": 1e-06,
+     "explicacion": "1 / 1,41421… = 0,70710… y 1,41421… / 2 = 0,70710… Con 3 decimales, los dos dan 0,707.",
+     "pista1": "Calculá una de las dos expresiones con la calculadora.",
+     "pista": "√2 ≈ 1,41421. Dividilo por 2 y redondeá a 3 decimales."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Si 1/√2 y √2/2 son el mismo número, ¿para qué sirve escribirlo de la segunda forma?",
+     "respuesta": "Para calcular a mano es mucho más fácil dividir 1,414 por 2 que dividir 1 por 1,414. Y, sin raíces en el denominador, es más sencillo comparar y sumar radicales."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es racionalizar y por qué no cambia el valor de la fracción. Racionalizá 6/√3 paso a paso y justificá que 1/√2 y √2/2 son equivalentes.",
+    "guia": [
+     "¿Qué es racionalizar y por qué multiplicar por √3/√3 no cambia el número?",
+     "Racionalizá 6/√3 paso a paso.",
+     "Justificá que 1/√2 = √2/2.",
+     "Racionalizá 10/√5."
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "1/√2 = √2/2.",
+     "respuesta": true,
+     "explicacion": "Se racionaliza multiplicando por √2/√2."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Racionalizar cambia el valor de la fracción.",
+     "respuesta": false,
+     "explicacion": "Se multiplica por una expresión que vale 1."
+    },
+    {
+     "tipo": "vf",
+     "texto": "6/√3 = 2√3.",
+     "respuesta": true,
+     "explicacion": "6√3 / 3 = 2√3."
+    },
+    {
+     "tipo": "vf",
+     "texto": "√3 · √3 = 3.",
+     "respuesta": true,
+     "explicacion": "√9 = 3."
+    },
+    {
+     "tipo": "vf",
+     "texto": "2√3 y √6 son equivalentes.",
+     "respuesta": false,
+     "explicacion": "2√3 = √12."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Si dos expresiones dan igual en la calculadora, eso ya es una prueba completa.",
+     "respuesta": false,
+     "explicacion": "Es una buena señal; la prueba son los pasos con propiedades."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Racionalizar 1/√5 da…",
+     "opciones": [
+      "√5/5",
+      "5/√5",
+      "1/5",
+      "√5"
+     ],
+     "correcta": 0,
+     "explicacion": "Se multiplica arriba y abajo por √5."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Para racionalizar 3/√7 se multiplica arriba y abajo por…",
+     "opciones": [
+      "7",
+      "3",
+      "√3",
+      "√7"
+     ],
+     "correcta": 3,
+     "explicacion": "Así el denominador queda √49 = 7."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "10/√5 racionalizado y simplificado es…",
+     "opciones": [
+      "5√2",
+      "2√5",
+      "10√5",
+      "√50"
+     ],
+     "correcta": 1,
+     "explicacion": "10√5 / 5 = 2√5."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "√2/√2 vale…",
+     "opciones": [
+      "2",
+      "√2",
+      "1",
+      "0"
+     ],
+     "correcta": 2,
+     "explicacion": "Todo número distinto de 0 dividido por sí mismo da 1."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es equivalente a √12?",
+     "opciones": [
+      "3√2",
+      "2√3",
+      "4√3",
+      "6√2"
+     ],
+     "correcta": 1,
+     "explicacion": "√12 = √4 · √3 = 2√3."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "1/√2 con 3 decimales, redondeando, es…",
+     "opciones": [
+      "0,707",
+      "1,414",
+      "0,500",
+      "0,577"
+     ],
+     "correcta": 0,
+     "explicacion": "1 / 1,41421… = 0,7071…"
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "RACIONALIZAR",
+     "pista": "Sacar la raíz del denominador."
+    },
+    {
+     "palabra": "EQUIVALENTES",
+     "pista": "Escrituras distintas del mismo número."
+    },
+    {
+     "palabra": "DENOMINADOR",
+     "pista": "Parte de abajo de una fracción."
+    },
+    {
+     "palabra": "ARGUMENTAR",
+     "pista": "Justificar con pasos y propiedades."
+    },
+    {
+     "palabra": "UNO",
+     "pista": "Valor de √3/√3."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué racionalizar no cambia el valor de una fracción?",
+     "opciones": [
+      "Porque se multiplica por algo que vale 1",
+      "Porque se borra la raíz",
+      "Porque se suma lo mismo arriba",
+      "Porque el resultado se redondea"
+     ],
+     "correcta": 0,
+     "explicacion": "Multiplicar por √a/√a es multiplicar por 1."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuánto es 15/√5, racionalizado y simplificado?",
+     "opciones": [
+      "5√3",
+      "√75",
+      "3√5",
+      "15√5"
+     ],
+     "correcta": 2,
+     "explicacion": "15√5 / 5 = 3√5."
+    },
+    {
+     "tipo": "vf",
+     "texto": "√2/2 y 1/√2 son el mismo número.",
+     "respuesta": true,
+     "explicacion": "Se pasa de una escritura a la otra racionalizando."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Radical",
+   "definicion": "Expresión con una raíz, como √5 o ∛2."
+  },
+  {
+   "palabra": "Propiedad del producto",
+   "definicion": "√(a · b) = √a · √b, para raíces del mismo índice."
+  },
+  {
+   "palabra": "Propiedad del cociente",
+   "definicion": "√(a / b) = √a / √b, con b distinto de 0."
+  },
+  {
+   "palabra": "Extraer factores",
+   "definicion": "Sacar de la raíz la raíz de un cuadrado perfecto: √50 = 5√2."
+  },
+  {
+   "palabra": "Radicales semejantes",
+   "definicion": "Los que tienen el mismo índice y el mismo radicando. Se pueden sumar: 2√3 + 5√3 = 7√3."
+  },
+  {
+   "palabra": "Racionalizar",
+   "definicion": "Transformar una fracción para que no quede una raíz en el denominador."
+  },
+  {
+   "palabra": "Expresiones equivalentes",
+   "definicion": "Escrituras distintas que representan el mismo número."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "√(9 + 16) = √9 + √16.",
+   "aclaracion": "La raíz no se reparte en una suma: √25 = 5, pero 3 + 4 = 7."
+  },
+  {
+   "error": "√18 = 9√2.",
+   "aclaracion": "Del cuadrado perfecto sale su raíz: √18 = √9 · √2 = 3√2."
+  },
+  {
+   "error": "Al racionalizar, la fracción cambia de valor.",
+   "aclaracion": "Se multiplica por √a/√a, que vale 1: el número es el mismo."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "En la sucesión 1, √2, 2, 2√2, 4, … ¿por qué número se multiplica cada término para obtener el siguiente?",
+  "conexion": "Esto se conecta con la clase \"Sucesiones aritméticas y geométricas\"."
+ }
+}

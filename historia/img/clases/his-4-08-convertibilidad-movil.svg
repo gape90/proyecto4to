@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 820" role="img" aria-label="Infografía: en 1989 hubo hiperinflación y los precios cambiaban de un día para otro; en 1991 la convertibilidad estableció por ley que un peso valía un dólar, y la inflación bajó mucho" font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect x="0" y="0" width="500" height="820" rx="28" fill="#F7F4FD"/>
+<text x="250" y="46" font-size="24" font-weight="800" fill="#1B1A4A" text-anchor="middle">De la hiperinflación</text>
+<text x="250" y="76" font-size="24" font-weight="800" fill="#1B1A4A" text-anchor="middle">a la convertibilidad</text>
+<rect x="20" y="100" width="460" height="320" rx="24" fill="#FCEAEA"/>
+<text x="250" y="148" font-size="26" font-weight="800" fill="#E5194F" text-anchor="middle">1989 · Hiperinflación</text>
+<g transform="translate(175,176)"><rect x="0" y="0" width="150" height="96" rx="14" fill="#fff" stroke="#E5194F" stroke-width="3"/><polyline points="14,80 44,64 74,58 104,34 134,14" fill="none" stroke="#E5194F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M134 14 l-14 2 M134 14 l-2 14" stroke="#E5194F" stroke-width="5" stroke-linecap="round"/></g>
+<text x="250" y="320" font-size="19" font-weight="600" fill="#4A4870" text-anchor="middle">Los precios cambiaban de un día</text>
+<text x="250" y="346" font-size="19" font-weight="600" fill="#4A4870" text-anchor="middle">para otro y el dinero perdía</text>
+<text x="250" y="372" font-size="19" font-weight="600" fill="#4A4870" text-anchor="middle">su valor muy rápido.</text>
+<path d="M250 428 v26 l-12 -10 M250 454 l12 -10" fill="none" stroke="#5B2A86" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="20" y="464" width="460" height="336" rx="24" fill="#E4F6EE"/>
+<text x="250" y="512" font-size="26" font-weight="800" fill="#1F9D6B" text-anchor="middle">1991 · Convertibilidad</text>
+<g transform="translate(52,540)"><rect x="0" y="0" width="150" height="76" rx="10" fill="#fff" stroke="#4B4FA3" stroke-width="4"/><rect x="10" y="10" width="130" height="56" rx="6" fill="none" stroke="#4B4FA3" stroke-width="2" stroke-dasharray="4 4"/><text x="75" y="50" font-size="30" font-weight="800" fill="#4B4FA3" text-anchor="middle">$ 1</text></g>
+<text x="250" y="588" font-size="40" font-weight="800" fill="#1B1A4A" text-anchor="middle">=</text>
+<g transform="translate(298,540)"><rect x="0" y="0" width="150" height="76" rx="10" fill="#fff" stroke="#1F9D6B" stroke-width="4"/><rect x="10" y="10" width="130" height="56" rx="6" fill="none" stroke="#1F9D6B" stroke-width="2" stroke-dasharray="4 4"/><text x="75" y="50" font-size="30" font-weight="800" fill="#1F9D6B" text-anchor="middle">US$ 1</text></g>
+<text x="250" y="680" font-size="19" font-weight="600" fill="#4A4870" text-anchor="middle">Por ley, un peso valía un dólar</text>
+<text x="250" y="706" font-size="19" font-weight="600" fill="#4A4870" text-anchor="middle">("el uno a uno").</text>
+<text x="250" y="732" font-size="19" font-weight="600" fill="#4A4870" text-anchor="middle">La inflación bajó mucho.</text>
+</svg>

@@ -1,0 +1,1034 @@
+{
+ "id": "geo-4-10",
+ "espacio": "geografia",
+ "eje": "La circulación de las producciones",
+ "titulo": "La producción agrícola en Asia y la sobrepoblación",
+ "intro": "Más de la mitad de la población del mundo vive en Asia, y casi todo el arroz del planeta se produce allí. Vas a ver qué es la sobrepoblación, cómo se cultiva el arroz y cómo cambió la producción de alimentos con la revolución verde.",
+ "objetivos": [
+  "Explicar qué es la sobrepoblación y por qué depende de la relación entre población y recursos.",
+  "Comparar la agricultura intensiva del arroz en Asia con la agricultura extensiva pampeana.",
+  "Presentar el debate sobre población y alimentos, desde Malthus hasta la revolución verde."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: los datos de población de Asia, el concepto de sobrepoblación, las terrazas, el cultivo del arroz, la agricultura intensiva y extensiva, y el debate sobre la revolución verde.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Mucha gente, poca tierra",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Una pregunta para arrancar",
+     "texto": "Si en tu casa viven cuatro personas y de golpe pasan a vivir diez, ¿qué cambia? ¿Alcanza la comida, el espacio, el agua? Ahora pensalo a la escala de un continente."
+    },
+    {
+     "t": "infografia",
+     "titulo": "Asia en números",
+     "items": [
+      {
+       "num": "58,7 %",
+       "texto": "de la población mundial vive en Asia (2025)"
+      },
+      {
+       "num": "4.835 millones",
+       "texto": "de habitantes tiene Asia"
+      },
+      {
+       "num": "2023",
+       "texto": "año en que la India pasó a ser el país más poblado del mundo"
+      },
+      {
+       "num": "+90 %",
+       "texto": "del arroz del mundo se produce en Asia y el Pacífico"
+      }
+     ],
+     "nota": "Datos de población: Naciones Unidas. Dato del arroz: FAO (2014)."
+    },
+    {
+     "t": "texto",
+     "titulo": "Qué es la sobrepoblación",
+     "texto": "Se habla de **sobrepoblación** cuando la cantidad de personas que vive en un lugar es mayor que la que pueden sostener sus recursos: alimentos, agua, tierra para cultivar, vivienda y trabajo. No depende solo de cuánta gente hay, sino de la relación entre la **población** y los **recursos** disponibles, y de cómo se usan.\n\nPara medir cuánta gente vive en un lugar se usa la **densidad de población**: la cantidad de habitantes por kilómetro cuadrado."
+    },
+    {
+     "t": "texto",
+     "titulo": "Aprovechar cada ladera",
+     "texto": "En muchas zonas de Asia hay mucha población y poca tierra plana para cultivar. Por eso, desde hace siglos, los campesinos construyen **terrazas de cultivo**: escalones en las laderas de las montañas, con bordes que retienen el agua y el suelo. Así ganan tierra donde antes solo había pendiente."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-10-terrazas-sapa.jpg",
+     "tipo": "foto",
+     "alt": "Paisaje de montaña con un camino que baja entre árboles y, en primer plano, una ladera con escalones de cultivo en forma de curvas.",
+     "epigrafe": "Terrazas de arroz en Sapa (Vietnam), en 2019.",
+     "fuente": "Foto: Eerin25, CC0, vía Wikimedia Commons. Imagen reducida.",
+     "animacion": "bajar"
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "En **Asia** vive el **58,7 %** de la población mundial. La **sobrepoblación** no depende solo de cuánta gente hay, sino de la relación entre **población** y **recursos**. Para cultivar donde hay poca tierra plana, se construyen **terrazas** en las laderas."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada concepto con su significado.",
+     "pares": [
+      {
+       "a": "Sobrepoblación",
+       "b": "Más personas de las que pueden sostener los recursos del lugar"
+      },
+      {
+       "a": "Densidad de población",
+       "b": "Habitantes por kilómetro cuadrado"
+      },
+      {
+       "a": "Terrazas de cultivo",
+       "b": "Escalones en las laderas para cultivar"
+      },
+      {
+       "a": "Recursos",
+       "b": "Alimentos, agua, tierra, vivienda y trabajo"
+      }
+     ],
+     "explicacion": "Estos conceptos sirven para analizar cualquier región del mundo.",
+     "pista": "Releé los textos sobre la sobrepoblación y las terrazas."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "En Asia vive más de la [[mitad]] de la población mundial. Desde [[2023]], el país más poblado del mundo es la [[India]]. Para cultivar en las montañas se construyen [[terrazas]].",
+     "distractores": [
+      "cuarta parte",
+      "China",
+      "represas"
+     ],
+     "explicacion": "Así se resume la situación de Asia.",
+     "pista": "Mirá la infografía y releé el texto sobre las laderas."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🔍 Encontrá el error",
+     "pregunta": "Cuatro frases sobre el tema; una tiene un error. ¿Cuál es?",
+     "opciones": [
+      "En Asia vive el 58,7 % de la población mundial.",
+      "La sobrepoblación depende solo de la cantidad de habitantes.",
+      "Las terrazas retienen el agua y el suelo.",
+      "La densidad se mide en habitantes por kilómetro cuadrado."
+     ],
+     "correcta": 1,
+     "explicacion": "Depende de la relación entre la población y los recursos, y de cómo se usan.",
+     "pista": "Releé el texto sobre qué es la sobrepoblación."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "La India es el país más poblado del mundo desde 2023.",
+       "v": true,
+       "explicacion": "Pasó a China ese año."
+      },
+      {
+       "texto": "Asia y el Pacífico producen menos de la mitad del arroz del mundo.",
+       "v": false,
+       "explicacion": "Producen más del 90 %."
+      },
+      {
+       "texto": "Las terrazas permiten cultivar en laderas.",
+       "v": true,
+       "explicacion": "Como en la foto de Sapa."
+      },
+      {
+       "texto": "Asia tiene unos 4.835 millones de habitantes.",
+       "v": true,
+       "explicacion": "Según la infografía."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: un país con mucha población, ¿está siempre sobrepoblado?",
+     "respuesta": "No necesariamente. Si tiene suficiente tierra, agua, producción de alimentos y trabajo, o si puede comprar lo que le falta, puede sostener a mucha gente. La sobrepoblación aparece cuando los recursos, o la forma de usarlos, no alcanzan para esa población."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es la sobrepoblación y por qué depende de la relación entre población y recursos. Usá los datos de la infografía y contá para qué sirven las terrazas de cultivo.",
+    "guia": [
+     "¿Qué porcentaje de la población mundial vive en Asia?",
+     "¿Qué país es el más poblado desde 2023?",
+     "¿Qué es la sobrepoblación?",
+     "¿Qué es la densidad de población?",
+     "¿Para qué se construyen las terrazas?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "En Asia vive más de la mitad de la población mundial.",
+     "respuesta": true,
+     "explicacion": "El 58,7 % en 2025."
+    },
+    {
+     "tipo": "vf",
+     "texto": "China sigue siendo el país más poblado del mundo.",
+     "respuesta": false,
+     "explicacion": "Desde 2023 lo es la India."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La sobrepoblación es la relación entre población y recursos.",
+     "respuesta": true,
+     "explicacion": "No depende solo de la cantidad de gente."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las terrazas se construyen en terrenos planos.",
+     "respuesta": false,
+     "explicacion": "Se construyen en laderas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La densidad de población se mide en habitantes por kilómetro cuadrado.",
+     "respuesta": true,
+     "explicacion": "Indica cuánta gente vive en un lugar."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Asia y el Pacífico producen más del 90 % del arroz del mundo.",
+     "respuesta": true,
+     "explicacion": "Según la FAO."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué porcentaje de la población mundial vive en Asia?",
+     "opciones": [
+      "8,7 %",
+      "28,7 %",
+      "58,7 %",
+      "98,7 %"
+     ],
+     "correcta": 2,
+     "explicacion": "Más de la mitad."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué país es el más poblado del mundo?",
+     "opciones": [
+      "China",
+      "India",
+      "Estados Unidos",
+      "Indonesia"
+     ],
+     "correcta": 1,
+     "explicacion": "Desde 2023."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Para qué sirven las terrazas?",
+     "opciones": [
+      "Para ganar tierra cultivable en las laderas",
+      "Para construir casas",
+      "Para criar peces",
+      "Para hacer rutas"
+     ],
+     "correcta": 0,
+     "explicacion": "Retienen el agua y el suelo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿De qué depende la sobrepoblación?",
+     "opciones": [
+      "Solo del clima",
+      "De la relación entre población y recursos",
+      "Del idioma",
+      "De la religión"
+     ],
+     "correcta": 1,
+     "explicacion": "Y de cómo se usan los recursos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde se tomó la foto de las terrazas?",
+     "opciones": [
+      "Sapa, Vietnam",
+      "Bariloche",
+      "Varanasi",
+      "Tokio"
+     ],
+     "correcta": 0,
+     "explicacion": "En el norte de Vietnam."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué mide la densidad de población?",
+     "opciones": [
+      "La edad de la gente",
+      "Habitantes por kilómetro cuadrado",
+      "La cantidad de ciudades",
+      "La producción de arroz"
+     ],
+     "correcta": 1,
+     "explicacion": "Cuánta gente vive en un lugar."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "TERRAZAS",
+     "pista": "Escalones de cultivo en las laderas."
+    },
+    {
+     "palabra": "DENSIDAD",
+     "pista": "Habitantes por kilómetro cuadrado."
+    },
+    {
+     "palabra": "INDIA",
+     "pista": "País más poblado del mundo desde 2023."
+    },
+    {
+     "palabra": "RECURSOS",
+     "pista": "Alimentos, agua, tierra, vivienda y trabajo."
+    },
+    {
+     "palabra": "LADERA",
+     "pista": "Pendiente de una montaña."
+    },
+    {
+     "palabra": "VIETNAM",
+     "pista": "País donde está Sapa."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la sobrepoblación?",
+     "opciones": [
+      "Que haya muchas ciudades",
+      "Que la población supere lo que pueden sostener los recursos",
+      "Que haya mucha gente joven",
+      "Que no haya agua de mar"
+     ],
+     "correcta": 1,
+     "explicacion": "Es una relación entre población y recursos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué en Asia se construyen terrazas?",
+     "opciones": [
+      "Porque hay mucha población y poca tierra plana",
+      "Porque es más lindo",
+      "Porque no llueve",
+      "Porque está prohibido cultivar en llanuras"
+     ],
+     "correcta": 0,
+     "explicacion": "Ganan tierra en las laderas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué muestra la infografía?",
+     "opciones": [
+      "Que Asia tiene poca población",
+      "Que Asia concentra más de la mitad de la población y casi todo el arroz del mundo",
+      "Que el arroz se produce en Europa",
+      "Que la India tiene poca gente"
+     ],
+     "correcta": 1,
+     "explicacion": "Población y arroz van juntos."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "El arroz y la agricultura intensiva",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "El cereal de Asia",
+     "texto": "El **arroz** es la base de la alimentación de buena parte de Asia. Se cultiva en **arrozales**: campos que se inundan con agua de lluvia o de riego. En el sur y el sudeste de Asia, las lluvias dependen del **monzón**, un viento que trae lluvias muy fuertes durante una parte del año.\n\nEn muchas zonas, el arroz se planta a mano: primero se siembra en un almácigo, y después cada plantín se trasplanta al campo inundado. Es un trabajo que necesita mucha gente."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-10-arrozal.jpg",
+     "tipo": "foto",
+     "alt": "Un agricultor con gorra camina por un campo inundado arrastrando una lona naranja cargada de plantines verdes; hay montones de plantines sobre el agua y casas al fondo.",
+     "epigrafe": "Un agricultor traslada plantines de arroz para trasplantarlos en un campo inundado de Guiguinto (Filipinas), en 2022.",
+     "fuente": "Foto: FBenjr123, CC BY-SA 4.0, vía Wikimedia Commons. Imagen reducida.",
+     "animacion": "recorrer"
+    },
+    {
+     "t": "comparar",
+     "titulo": "Dos formas de cultivar",
+     "columnas": [
+      "",
+      "Agricultura intensiva (arroz en Asia)",
+      "Agricultura extensiva (cereales en la región pampeana)"
+     ],
+     "filas": [
+      [
+       "Tierra",
+       "Poca tierra por familia",
+       "Grandes superficies"
+      ],
+      [
+       "Trabajo",
+       "Mucha gente trabajando cada hectárea",
+       "Poca gente y muchas máquinas"
+      ],
+      [
+       "Producción por hectárea",
+       "Muy alta",
+       "Menor que en la intensiva"
+      ],
+      [
+       "Destino",
+       "Sobre todo, alimentar a la población local",
+       "Gran parte se exporta"
+      ]
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "En Asia predomina la **agricultura intensiva**: poca tierra, mucho trabajo y una producción alta por hectárea. El **arroz** se cultiva en **arrozales** inundados, con las lluvias del **monzón** o con riego. En la región pampeana, en cambio, predomina la **agricultura extensiva**."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los pasos del cultivo de arroz a mano.",
+     "items": [
+      "Se siembra el arroz en un almácigo",
+      "Se inunda el campo",
+      "Se trasplanta cada plantín al campo inundado",
+      "Se cosecha el arroz"
+     ],
+     "explicacion": "Así se cultiva el arroz en muchas zonas de Asia.",
+     "pista": "Releé el texto sobre el cereal de Asia y mirá la foto del agricultor."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Es una característica de la agricultura intensiva o de la extensiva? Si no te acordás, mirá la tabla.",
+     "categorias": [
+      "Intensiva",
+      "Extensiva"
+     ],
+     "items": [
+      {
+       "texto": "Mucha gente trabajando cada hectárea",
+       "cat": "Intensiva"
+      },
+      {
+       "texto": "Grandes superficies con muchas máquinas",
+       "cat": "Extensiva"
+      },
+      {
+       "texto": "Producción muy alta por hectárea",
+       "cat": "Intensiva"
+      },
+      {
+       "texto": "Gran parte se exporta",
+       "cat": "Extensiva"
+      }
+     ],
+     "explicacion": "Son dos formas de producir adaptadas a situaciones distintas.",
+     "pista": "Mirá la tabla de las dos formas de cultivar."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Completá el dato: ¿cómo se llama el viento que trae las lluvias fuertes en el sur y el sudeste de Asia?",
+     "respuesta": "monzón",
+     "acepta": [
+      "monzon",
+      "monzón",
+      "el monzón",
+      "el monzon"
+     ],
+     "explicacion": "El monzón trae lluvias muy fuertes durante una parte del año.",
+     "pista1": "Está en el texto sobre el cereal de Asia.",
+     "pista": "Empieza con \"mon\"."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🗣️ ¿Quién lo diría?",
+     "pregunta": "La frase es inventada: \"Con mi familia trabajamos una hectárea, y casi todo lo que cosechamos lo comemos nosotros\". ¿Quién la diría?",
+     "opciones": [
+      "Un productor de soja de la región pampeana",
+      "Una campesina arrocera de Asia",
+      "Un empresario de Silicon Valley",
+      "Un pastor del Sahel"
+     ],
+     "correcta": 1,
+     "explicacion": "Poca tierra, mucho trabajo familiar y producción para alimentarse: es agricultura intensiva.",
+     "pista": "Compará la frase con la tabla de las dos formas de cultivar."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué en Asia se usa tanta gente para cultivar, y en la región pampeana tantas máquinas?",
+     "respuesta": "Porque en muchas zonas de Asia hay mucha población y poca tierra, y conviene sacar el máximo de cada hectárea con mucho trabajo. En la región pampeana hay mucha tierra y menos población rural, y conviene usar máquinas para cubrir grandes superficies."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá cómo se cultiva el arroz en Asia y por qué es agricultura intensiva. Compará con la agricultura extensiva de la región pampeana usando la tabla.",
+    "guia": [
+     "¿Qué es un arrozal?",
+     "¿Qué es el monzón?",
+     "¿Cuáles son los pasos del cultivo de arroz a mano?",
+     "¿Qué diferencias hay entre la agricultura intensiva y la extensiva?",
+     "¿Por qué cada región usa una forma distinta?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El arroz se cultiva en campos inundados.",
+     "respuesta": true,
+     "explicacion": "Se llaman arrozales."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El monzón es un viento que trae lluvias fuertes.",
+     "respuesta": true,
+     "explicacion": "En el sur y el sudeste de Asia."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La agricultura intensiva usa mucha tierra y poca gente.",
+     "respuesta": false,
+     "explicacion": "Usa poca tierra y mucha gente."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la región pampeana predomina la agricultura extensiva.",
+     "respuesta": true,
+     "explicacion": "Grandes superficies y muchas máquinas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El arroz se trasplanta desde un almácigo al campo inundado.",
+     "respuesta": true,
+     "explicacion": "Como muestra la foto."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la agricultura extensiva la producción por hectárea es mayor que en la intensiva.",
+     "respuesta": false,
+     "explicacion": "Es menor."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es un arrozal?",
+     "opciones": [
+      "Un desierto",
+      "Un campo inundado donde se cultiva arroz",
+      "Una fábrica",
+      "Un puerto"
+     ],
+     "correcta": 1,
+     "explicacion": "Se inunda con lluvia o riego."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué caracteriza a la agricultura intensiva?",
+     "opciones": [
+      "Poca tierra y mucho trabajo",
+      "Mucha tierra y muchas máquinas",
+      "Sin trabajo",
+      "Solo exportación"
+     ],
+     "correcta": 0,
+     "explicacion": "Como el arroz en Asia."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde se tomó la foto del agricultor?",
+     "opciones": [
+      "Vietnam",
+      "India",
+      "Filipinas",
+      "Japón"
+     ],
+     "correcta": 2,
+     "explicacion": "En Guiguinto, Filipinas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es el monzón?",
+     "opciones": [
+      "Un río",
+      "Un viento que trae lluvias fuertes",
+      "Un tipo de arroz",
+      "Una máquina"
+     ],
+     "correcta": 1,
+     "explicacion": "Marca el calendario agrícola."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿A dónde va gran parte de la producción extensiva pampeana?",
+     "opciones": [
+      "Al consumo familiar",
+      "A la exportación",
+      "A la basura",
+      "A los arrozales"
+     ],
+     "correcta": 1,
+     "explicacion": "Se exporta."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es el primer paso del cultivo de arroz a mano?",
+     "opciones": [
+      "Cosechar",
+      "Trasplantar",
+      "Sembrar en un almácigo",
+      "Vender"
+     ],
+     "correcta": 2,
+     "explicacion": "Después se trasplanta."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "ARROZ",
+     "pista": "Cereal base de la alimentación en Asia."
+    },
+    {
+     "palabra": "ARROZAL",
+     "pista": "Campo inundado donde se cultiva arroz."
+    },
+    {
+     "palabra": "MONZÓN",
+     "pista": "Viento que trae lluvias fuertes."
+    },
+    {
+     "palabra": "INTENSIVA",
+     "pista": "Agricultura con poca tierra y mucho trabajo."
+    },
+    {
+     "palabra": "EXTENSIVA",
+     "pista": "Agricultura con mucha tierra y máquinas."
+    },
+    {
+     "palabra": "ALMÁCIGO",
+     "pista": "Lugar donde se siembra antes de trasplantar."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué el cultivo de arroz necesita mucha gente?",
+     "opciones": [
+      "Porque en muchas zonas se siembra y trasplanta a mano",
+      "Porque no usa agua",
+      "Porque se cultiva en el desierto",
+      "Porque lo prohíbe la ley"
+     ],
+     "correcta": 0,
+     "explicacion": "Es agricultura intensiva."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia principal hay entre la agricultura intensiva y la extensiva?",
+     "opciones": [
+      "La intensiva usa poca tierra y mucho trabajo; la extensiva, mucha tierra y máquinas",
+      "No hay diferencias",
+      "La extensiva solo cultiva arroz",
+      "La intensiva solo se hace en la Argentina"
+     ],
+     "correcta": 0,
+     "explicacion": "Cada una se adapta a su situación."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué papel cumple el monzón?",
+     "opciones": [
+      "Trae las lluvias que inundan los arrozales",
+      "Seca los campos",
+      "Transporta el arroz",
+      "Es un tipo de semilla"
+     ],
+     "correcta": 0,
+     "explicacion": "Marca el calendario del cultivo."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "¿Alcanzan los alimentos?",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Un debate de más de dos siglos",
+     "texto": "En 1798, el economista inglés Thomas Malthus sostuvo que la población crece más rápido que la producción de alimentos, y que tarde o temprano habría hambre. Otros pensadores respondieron que las sociedades encuentran formas de producir más cuando las necesitan: mejores semillas, riego, nuevas técnicas.\n\nLo que pasó en Asia en el siglo XX es parte de ese debate."
+    },
+    {
+     "t": "linea",
+     "titulo": "La revolución verde",
+     "eventos": [
+      {
+       "anio": "1960",
+       "titulo": "Nace el IRRI",
+       "texto": "Se crea en Filipinas el Instituto Internacional de Investigación del Arroz, para mejorar las variedades de arroz."
+      },
+      {
+       "anio": "1966",
+       "titulo": "Un arroz nuevo",
+       "texto": "El IRRI presenta una variedad de arroz de alto rendimiento, que produce mucho más por hectárea."
+      },
+      {
+       "anio": "1970",
+       "titulo": "Premio Nobel",
+       "texto": "Norman Borlaug, impulsor de las variedades de trigo de alto rendimiento, recibe el Premio Nobel de la Paz."
+      }
+     ]
+    },
+    {
+     "t": "texto",
+     "titulo": "Qué fue la revolución verde",
+     "texto": "Se llama **revolución verde** al conjunto de cambios que, desde la década de 1960, aumentaron mucho la producción de alimentos en Asia y otras regiones: **semillas de alto rendimiento**, **fertilizantes**, **plaguicidas** y **riego**. Varios países que antes sufrían escasez lograron producir buena parte de los cereales que consumían."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Dos miradas sobre la revolución verde",
+     "columnas": [
+      "Quienes la valoran",
+      "Quienes señalan sus problemas"
+     ],
+     "filas": [
+      [
+       "Permitió alimentar a muchos más millones de personas",
+       "Usa mucha agua y fertilizantes, que pueden contaminar suelos y ríos"
+      ],
+      [
+       "Mostró que la tecnología puede aumentar la producción",
+       "Muchos pequeños campesinos se endeudaron para comprar semillas y fertilizantes"
+      ],
+      [
+       "Redujo la escasez en varios países de Asia",
+       "Se dejaron de cultivar muchas variedades tradicionales"
+      ]
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "**Malthus** (1798) sostuvo que la población crece más rápido que los alimentos. La **revolución verde**, desde la década de 1960, aumentó mucho la producción con **semillas de alto rendimiento**, **fertilizantes** y **riego**. Quienes la valoran destacan que alimentó a millones; quienes señalan sus problemas, el uso de agua, la contaminación y el endeudamiento."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "📰 Elegí el titular",
+     "pregunta": "Es 1966. ¿Qué titular podría aparecer en un diario de Filipinas?",
+     "opciones": [
+      "\"Malthus publica su ensayo sobre la población\"",
+      "\"Presentan un arroz que produce mucho más por hectárea\"",
+      "\"La India pasa a ser el país más poblado\"",
+      "\"Se lanza el ARSAT-1\""
+     ],
+     "correcta": 1,
+     "explicacion": "En 1966 el IRRI presentó una variedad de arroz de alto rendimiento.",
+     "pista": "Buscá 1966 en la línea de tiempo."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada nombre con lo que le corresponde.",
+     "pares": [
+      {
+       "a": "Thomas Malthus",
+       "b": "Sostuvo en 1798 que la población crece más rápido que los alimentos"
+      },
+      {
+       "a": "IRRI",
+       "b": "Instituto de investigación del arroz creado en Filipinas en 1960"
+      },
+      {
+       "a": "Norman Borlaug",
+       "b": "Premio Nobel de la Paz en 1970"
+      },
+      {
+       "a": "Revolución verde",
+       "b": "Semillas de alto rendimiento, fertilizantes y riego"
+      }
+     ],
+     "explicacion": "Son los protagonistas del debate sobre población y alimentos.",
+     "pista": "Releé el texto del debate y la línea de tiempo."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "La revolución verde usó semillas de alto [[rendimiento]], fertilizantes y [[riego]]. Quienes señalan sus problemas dicen que usa mucha [[agua]] y que muchos campesinos se [[endeudaron]].",
+     "distractores": [
+      "costo",
+      "petróleo",
+      "enriquecieron"
+     ],
+     "explicacion": "Así se resumen la revolución verde y una de las miradas sobre ella.",
+     "pista": "Releé el texto sobre qué fue la revolución verde y la tabla de las dos miradas."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "Malthus escribió sobre la población en 1798.",
+       "v": true,
+       "explicacion": "Sostuvo que la población crece más rápido que los alimentos."
+      },
+      {
+       "texto": "La revolución verde redujo la producción de alimentos.",
+       "v": false,
+       "explicacion": "La aumentó mucho."
+      },
+      {
+       "texto": "El IRRI está en Filipinas.",
+       "v": true,
+       "explicacion": "Se creó en 1960."
+      },
+      {
+       "texto": "Todos están de acuerdo en que la revolución verde no tuvo problemas.",
+       "v": false,
+       "explicacion": "Hay quienes señalan problemas ambientales y sociales."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: después de lo que viste, ¿Malthus tenía razón?",
+     "respuesta": "En parte sí y en parte no. La revolución verde mostró que la producción de alimentos puede crecer mucho con tecnología, más de lo que Malthus imaginaba. Pero esa producción usa agua, suelo y fertilizantes que también tienen límites. Hoy el debate sigue, sobre todo pensando en cómo producir más sin dañar el ambiente."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá el debate sobre población y alimentos, desde Malthus hasta la revolución verde. Presentá las dos miradas sobre la revolución verde sin tomar partido.",
+    "guia": [
+     "¿Qué sostuvo Malthus en 1798?",
+     "¿Qué fue la revolución verde y qué técnicas usó?",
+     "¿Qué pasó en 1960, 1966 y 1970?",
+     "¿Qué dicen quienes valoran la revolución verde?",
+     "¿Qué dicen quienes señalan sus problemas?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Malthus sostuvo que la población crece más rápido que los alimentos.",
+     "respuesta": true,
+     "explicacion": "Lo escribió en 1798."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La revolución verde empezó en la década de 1960.",
+     "respuesta": true,
+     "explicacion": "Con semillas de alto rendimiento."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Norman Borlaug recibió el Premio Nobel de la Paz en 1970.",
+     "respuesta": true,
+     "explicacion": "Por impulsar el trigo de alto rendimiento."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La revolución verde no usó fertilizantes.",
+     "respuesta": false,
+     "explicacion": "Usó fertilizantes, plaguicidas y riego."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El IRRI se creó en la India.",
+     "respuesta": false,
+     "explicacion": "Se creó en Filipinas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Quienes señalan problemas de la revolución verde mencionan el uso de agua.",
+     "respuesta": true,
+     "explicacion": "Y la contaminación y el endeudamiento."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Quién sostuvo en 1798 que habría hambre por el crecimiento de la población?",
+     "opciones": [
+      "Borlaug",
+      "Malthus",
+      "Sassen",
+      "Gottmann"
+     ],
+     "correcta": 1,
+     "explicacion": "Thomas Malthus."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es una semilla de alto rendimiento?",
+     "opciones": [
+      "Una semilla que produce mucho más por hectárea",
+      "Una semilla más cara",
+      "Una semilla silvestre",
+      "Una semilla que no necesita agua"
+     ],
+     "correcta": 0,
+     "explicacion": "Fue clave en la revolución verde."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué presentó el IRRI en 1966?",
+     "opciones": [
+      "Un tractor",
+      "Una variedad de arroz de alto rendimiento",
+      "Un satélite",
+      "Un fertilizante"
+     ],
+     "correcta": 1,
+     "explicacion": "Producía mucho más por hectárea."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es un argumento de quienes valoran la revolución verde?",
+     "opciones": [
+      "Que contamina",
+      "Que endeudó campesinos",
+      "Que permitió alimentar a muchos más millones de personas",
+      "Que redujo las variedades"
+     ],
+     "correcta": 2,
+     "explicacion": "Es uno de sus argumentos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es un argumento de quienes señalan sus problemas?",
+     "opciones": [
+      "Que redujo la escasez",
+      "Que usa mucha agua y fertilizantes",
+      "Que alimentó a millones",
+      "Que mostró el poder de la tecnología"
+     ],
+     "correcta": 1,
+     "explicacion": "Es uno de sus argumentos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué recibió Borlaug en 1970?",
+     "opciones": [
+      "El Premio Nobel de la Paz",
+      "Una medalla olímpica",
+      "Un satélite",
+      "Un campo de arroz"
+     ],
+     "correcta": 0,
+     "explicacion": "Por su trabajo con el trigo."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "MALTHUS",
+     "pista": "Economista que en 1798 advirtió sobre población y alimentos."
+    },
+    {
+     "palabra": "BORLAUG",
+     "pista": "Premio Nobel de la Paz en 1970."
+    },
+    {
+     "palabra": "RENDIMIENTO",
+     "pista": "Cuánto se produce por hectárea."
+    },
+    {
+     "palabra": "FERTILIZANTE",
+     "pista": "Producto que se agrega al suelo para producir más."
+    },
+    {
+     "palabra": "RIEGO",
+     "pista": "Agua que se lleva a los cultivos."
+    },
+    {
+     "palabra": "IRRI",
+     "pista": "Instituto del arroz creado en Filipinas."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué sostuvo Malthus?",
+     "opciones": [
+      "Que la población crece más rápido que los alimentos",
+      "Que los alimentos sobran",
+      "Que la población no crece",
+      "Que el arroz es mejor que el trigo"
+     ],
+     "correcta": 0,
+     "explicacion": "Lo escribió en 1798."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué mostró la revolución verde?",
+     "opciones": [
+      "Que la producción de alimentos puede crecer mucho con tecnología",
+      "Que no se puede producir más",
+      "Que el arroz desapareció",
+      "Que no hace falta agua"
+     ],
+     "correcta": 0,
+     "explicacion": "Aunque con costos ambientales y sociales."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas frases presenta el debate sin tomar partido?",
+     "opciones": [
+      "La revolución verde fue perfecta",
+      "La revolución verde fue un desastre",
+      "Algunos destacan que alimentó a millones; otros, sus problemas ambientales y sociales",
+      "Nadie opina sobre la revolución verde"
+     ],
+     "correcta": 2,
+     "explicacion": "Presenta las dos miradas."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Sobrepoblación",
+   "definicion": "Situación en la que la población supera lo que pueden sostener los recursos de un lugar."
+  },
+  {
+   "palabra": "Densidad de población",
+   "definicion": "Cantidad de habitantes por kilómetro cuadrado."
+  },
+  {
+   "palabra": "Terrazas de cultivo",
+   "definicion": "Escalones construidos en las laderas para cultivar."
+  },
+  {
+   "palabra": "Agricultura intensiva",
+   "definicion": "Cultivo con poca tierra, mucho trabajo y alta producción por hectárea."
+  },
+  {
+   "palabra": "Agricultura extensiva",
+   "definicion": "Cultivo en grandes superficies, con poca gente y muchas máquinas."
+  },
+  {
+   "palabra": "Monzón",
+   "definicion": "Viento que trae lluvias fuertes en el sur y el sudeste de Asia."
+  },
+  {
+   "palabra": "Revolución verde",
+   "definicion": "Cambios desde la década de 1960 que aumentaron la producción con semillas de alto rendimiento, fertilizantes y riego."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Un país con mucha gente está siempre sobrepoblado.",
+   "aclaracion": "La sobrepoblación depende de la relación entre la población y los recursos, y de cómo se usan."
+  },
+  {
+   "error": "China es el país más poblado del mundo.",
+   "aclaracion": "Desde 2023 lo es la India."
+  },
+  {
+   "error": "La revolución verde solo tuvo efectos positivos.",
+   "aclaracion": "Aumentó la producción, pero también trajo problemas de agua, contaminación y endeudamiento de pequeños campesinos."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "La Argentina produce alimentos para muchas más personas de las que viven en el país. ¿Qué relación encontrás entre eso y lo que viste sobre Asia?",
+  "conexion": "Con la clase de la desertización africana: allí viste otra relación entre población, uso de la tierra y producción de alimentos."
+ }
+}

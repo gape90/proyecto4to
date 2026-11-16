@@ -1,0 +1,186 @@
+{
+  "version": "lengua-1",
+  "fuente": "Escuela orientada: Diseño Curricular de Educación Secundaria Orientada, Res. 2630/14, Anexo III, Ciclo Orientado (contenidos de 4.º y 5.º año; lecturas sugeridas de 4.º año). Escuela técnica: Diseño Curricular de la Modalidad Técnico Profesional, Formación General del Segundo Ciclo, 5.º año.",
+  "espacios": [
+    {
+      "id": "lengua",
+      "nombre": "Lengua y Literatura",
+      "habilitado": true,
+      "modalidades": [
+        "orientada",
+        "tecnica"
+      ]
+    }
+  ],
+  "contenidos": {
+    "lengua": [
+      {
+        "id": "l1",
+        "eje": "Lectura y escritura de textos literarios",
+        "titulo": "Cómo analizar una obra literaria",
+        "activo": true,
+        "clase": "len-4-01",
+        "desglose": [
+          "El contexto de producción: quién escribió la obra, cuándo y dónde",
+          "El género y la estética en los que se inscribe",
+          "Quién narra, personajes y conflicto",
+          "Tema y diálogos con otros textos"
+        ]
+      },
+      {
+        "id": "l2",
+        "eje": "Lectura y escritura de textos literarios",
+        "titulo": "La tragedia griega",
+        "activo": true,
+        "clase": "len-4-02",
+        "desglose": [
+          "El teatro griego y el género trágico",
+          "El argumento y los personajes (obra de ejemplo: Antígona, de Sófocles)",
+          "El conflicto trágico: la ley del Estado y la conciencia",
+          "La tragedia como expresión ética y estética"
+        ]
+      },
+      {
+        "id": "l3",
+        "eje": "Lectura y escritura de textos literarios",
+        "titulo": "La épica: el relato de los héroes",
+        "activo": true,
+        "clase": "len-4-03",
+        "desglose": [
+          "La épica como relato fundacional",
+          "El héroe épico y su viaje (obra de ejemplo: los textos homéricos)",
+          "Transformaciones de la épica en otros géneros"
+        ]
+      },
+      {
+        "id": "l4",
+        "eje": "Lectura y escritura de textos literarios",
+        "titulo": "Literatura latinoamericana y argentina",
+        "activo": true,
+        "clase": "len-4-04",
+        "desglose": [
+          "La construcción de verdad en el relato latinoamericano",
+          "Literatura de las regiones argentinas y construcción de identidad",
+          "Relato testimonial y crónica: literatura y periodismo"
+        ]
+      },
+      {
+        "id": "l5",
+        "eje": "Comprensión y producción oral y escrita",
+        "titulo": "El texto argumentativo: el ensayo y el debate",
+        "activo": true,
+        "clase": "len-4-05",
+        "desglose": [
+          "Tesis, argumentos y conclusión",
+          "Estrategias argumentativas y conectores",
+          "El ensayo como literatura de ideas",
+          "El debate: roles, turnos y refutación"
+        ]
+      },
+      {
+        "id": "l6",
+        "eje": "Comprensión y producción oral y escrita",
+        "titulo": "Textos para estudiar: resumen, notas e informe de lectura",
+        "activo": true,
+        "clase": "len-4-06",
+        "desglose": [
+          "Resumen y toma de notas",
+          "Diario de lector e informe de lectura",
+          "Exposición oral de un tema"
+        ]
+      },
+      {
+        "id": "l7",
+        "eje": "Lectura y escritura de textos literarios",
+        "titulo": "Mitos y leyendas: de Grecia a América",
+        "activo": true,
+        "clase": "len-4-07",
+        "desglose": [
+          "Cosmogonías griegas y precolombinas",
+          "Leyendas latinoamericanas: la resignificación del mito",
+          "La transculturación como operación cultural"
+        ],
+        "modalidad": "orientada"
+      },
+      {
+        "id": "l8",
+        "eje": "Reflexión sobre el lenguaje",
+        "titulo": "Tiempos verbales, puntuación y acentuación",
+        "activo": true,
+        "clase": "len-4-08",
+        "desglose": [
+          "Los tiempos verbales en la narración",
+          "Los signos de puntuación y la construcción de sentido",
+          "Reglas de acentuación",
+          "Parentescos léxicos para resolver dudas ortográficas"
+        ],
+        "modalidad": "orientada"
+      },
+      {
+        "id": "l9",
+        "eje": "Reflexión sobre el lenguaje",
+        "titulo": "Registros y variedades del lenguaje",
+        "activo": true,
+        "clase": "len-4-09",
+        "desglose": [
+          "El lenguaje de la región: de la oralidad a la escritura",
+          "Adecuación del registro a la situación comunicativa",
+          "Los discursos en la web"
+        ],
+        "modalidad": "orientada"
+      },
+      {
+        "id": "l10",
+        "eje": "Lectura y escritura de textos técnicos",
+        "titulo": "Los textos técnicos",
+        "activo": true,
+        "clase": "len-4-10",
+        "desglose": [
+          "Protocolo de procedimiento y memoria técnica",
+          "Informe técnico y fundamentación de un proyecto",
+          "Carta formal y currículum"
+        ],
+        "modalidad": "tecnica"
+      },
+      {
+        "id": "l11",
+        "eje": "Comprensión y producción oral y escrita",
+        "titulo": "Los discursos sociales",
+        "activo": true,
+        "clase": "len-4-11",
+        "desglose": [
+          "Los modos de decir: argumentar, explicar, describir",
+          "Discursos técnico y científico",
+          "Discursos periodístico, publicitario, político y jurídico"
+        ],
+        "modalidad": "tecnica"
+      },
+      {
+        "id": "l12",
+        "eje": "Lectura y escritura de textos literarios",
+        "titulo": "El policial y el pensamiento científico",
+        "activo": true,
+        "clase": "len-4-12",
+        "desglose": [
+          "El género policial y sus reglas",
+          "El detective que razona (obras de ejemplo: Poe y Conan Doyle)",
+          "Textos que mueven a resolver un problema: Borges y Walsh"
+        ],
+        "modalidad": "tecnica"
+      },
+      {
+        "id": "l13",
+        "eje": "Reflexión sobre el lenguaje",
+        "titulo": "La lengua como producto social",
+        "activo": true,
+        "clase": "len-4-13",
+        "desglose": [
+          "Variación lingüística: social, temporal y geográfica",
+          "Lengua y dialecto",
+          "Lengua e identidad: las lenguas en contacto"
+        ],
+        "modalidad": "tecnica"
+      }
+    ]
+  }
+}

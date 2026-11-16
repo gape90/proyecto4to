@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 470" role="img" aria-label="Una misma persona en tres momentos de una exposición oral, sobre una flecha: introducción, desarrollo y cierre, cada uno con una frase en un globo de diálogo." font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect width="1000" height="470" fill="#fff"/>
+<rect x="20" y="380" width="960" height="18" rx="9" fill="#E2DAF6"/><path d="M960 370 L990 389 L960 408Z" fill="#E2DAF6"/>
+
+<g class="a-ap" style="--d:0.0s"><circle cx="170" cy="250" r="19.8" fill="#F3C9A5"/><rect x="145.8" y="271.8" width="48.400000000000006" height="70.4" rx="17.6" fill="#4B4FA3"/>
+<path d="M30 40 h280 a18 18 0 0 1 18 18 v80 a18 18 0 0 1 -18 18 h-120 l-20 30 l-20 -30 h-120 a18 18 0 0 1 -18 -18 v-80 a18 18 0 0 1 18 -18z" fill="#fff" stroke="#4B4FA3" stroke-width="4"/>
+<text x="170" y="106" font-size="22" font-weight="600" fill="#1B1A4A" text-anchor="middle" >&quot;Hoy voy a explicar…&quot;</text>
+<circle cx="170" cy="389" r="18" fill="#4B4FA3"/><text x="170" y="446" font-size="26" font-weight="800" fill="#4B4FA3" text-anchor="middle" >Introducción</text></g>
+<g class="a-ap" style="--d:0.9s"><circle cx="500" cy="250" r="19.8" fill="#F3C9A5"/><rect x="475.8" y="271.8" width="48.400000000000006" height="70.4" rx="17.6" fill="#5B2A86"/>
+<path d="M360 40 h280 a18 18 0 0 1 18 18 v80 a18 18 0 0 1 -18 18 h-120 l-20 30 l-20 -30 h-120 a18 18 0 0 1 -18 -18 v-80 a18 18 0 0 1 18 -18z" fill="#fff" stroke="#5B2A86" stroke-width="4"/>
+<text x="500" y="106" font-size="22" font-weight="600" fill="#1B1A4A" text-anchor="middle" >&quot;Por ejemplo…&quot;</text>
+<circle cx="500" cy="389" r="18" fill="#5B2A86"/><text x="500" y="446" font-size="26" font-weight="800" fill="#5B2A86" text-anchor="middle" >Desarrollo</text></g>
+<g class="a-ap" style="--d:1.8s"><circle cx="830" cy="250" r="19.8" fill="#F3C9A5"/><rect x="805.8" y="271.8" width="48.400000000000006" height="70.4" rx="17.6" fill="#B83A7A"/>
+<path d="M690 40 h280 a18 18 0 0 1 18 18 v80 a18 18 0 0 1 -18 18 h-120 l-20 30 l-20 -30 h-120 a18 18 0 0 1 -18 -18 v-80 a18 18 0 0 1 18 -18z" fill="#fff" stroke="#B83A7A" stroke-width="4"/>
+<text x="830" y="92" font-size="22" font-weight="600" fill="#1B1A4A" text-anchor="middle" >&quot;¿Alguien tiene alguna</text><text x="830" y="122" font-size="22" font-weight="600" fill="#1B1A4A" text-anchor="middle" >pregunta?&quot;</text>
+<circle cx="830" cy="389" r="18" fill="#B83A7A"/><text x="830" y="446" font-size="26" font-weight="800" fill="#B83A7A" text-anchor="middle" >Cierre</text></g>
+</svg>

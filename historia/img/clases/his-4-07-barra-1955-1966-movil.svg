@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 820" role="img" aria-label="Barra de tiempo de 1955 a 1966: golpes de Estado en 1955, 1962 y 1966; presidentes elegidos en 1958 (Frondizi) y 1963 (Illia); el peronismo estuvo proscripto todo el período" font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect x="0" y="0" width="500" height="820" rx="28" fill="#F7F4FD"/>
+<text x="250" y="46" font-size="24" font-weight="800" fill="#1B1A4A" text-anchor="middle">Golpes y gobiernos</text>
+<text x="250" y="76" font-size="24" font-weight="800" fill="#1B1A4A" text-anchor="middle">elegidos, 1955-1966</text>
+<rect x="60" y="110" width="26" height="570" rx="10" fill="#E2DAF6"/>
+<line x1="150" y1="110" x2="150" y2="680" stroke="#4A4870" stroke-width="4"/>
+<g class="a-ap" style="--d:0.0s">
+<circle cx="150" cy="110.0" r="13" fill="#E5194F"/>
+<text x="180" y="117.0" font-size="20" font-weight="800" fill="#E5194F" text-anchor="start">1955</text>
+<text x="250" y="117.0" font-size="19" font-weight="800" fill="#E5194F" text-anchor="start">Golpe</text>
+</g>
+<g class="a-ap" style="--d:0.6s">
+<circle cx="150" cy="265.45454545454544" r="13" fill="#1F9D6B"/>
+<text x="180" y="272.45454545454544" font-size="20" font-weight="800" fill="#1F9D6B" text-anchor="start">1958</text>
+<text x="250" y="261.45454545454544" font-size="19" font-weight="800" fill="#1F9D6B" text-anchor="start">Asume Frondizi</text>
+<text x="250" y="283.45454545454544" font-size="19" font-weight="800" fill="#1F9D6B" text-anchor="start">(elegido)</text>
+</g>
+<g class="a-ap" style="--d:1.2s">
+<circle cx="150" cy="472.72727272727275" r="13" fill="#E5194F"/>
+<text x="180" y="479.72727272727275" font-size="20" font-weight="800" fill="#E5194F" text-anchor="start">1962</text>
+<text x="250" y="479.72727272727275" font-size="19" font-weight="800" fill="#E5194F" text-anchor="start">Golpe</text>
+</g>
+<g class="a-ap" style="--d:1.8s">
+<circle cx="150" cy="524.5454545454545" r="13" fill="#1F9D6B"/>
+<text x="180" y="531.5454545454545" font-size="20" font-weight="800" fill="#1F9D6B" text-anchor="start">1963</text>
+<text x="250" y="520.5454545454545" font-size="19" font-weight="800" fill="#1F9D6B" text-anchor="start">Asume Illia</text>
+<text x="250" y="542.5454545454545" font-size="19" font-weight="800" fill="#1F9D6B" text-anchor="start">(elegido)</text>
+</g>
+<g class="a-ap" style="--d:2.4s">
+<circle cx="150" cy="680.0" r="13" fill="#E5194F"/>
+<text x="180" y="687.0" font-size="20" font-weight="800" fill="#E5194F" text-anchor="start">1966</text>
+<text x="250" y="687.0" font-size="19" font-weight="800" fill="#E5194F" text-anchor="start">Golpe</text>
+</g>
+<text x="73" y="395.0" font-size="15" font-weight="700" fill="#5B2A86" text-anchor="middle" transform="rotate(-90 73 395.0)">Peronismo proscripto todo el período</text>
+<circle cx="68" cy="730" r="8" fill="#E5194F"/>
+<text x="84" y="736" font-size="17" font-weight="700" fill="#4A4870" text-anchor="start">Golpe de Estado</text>
+<circle cx="68" cy="770" r="8" fill="#1F9D6B"/>
+<text x="84" y="776" font-size="17" font-weight="700" fill="#4A4870" text-anchor="start">Asume un presidente elegido</text>
+</svg>

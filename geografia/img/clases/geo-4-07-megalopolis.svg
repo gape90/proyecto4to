@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 460" role="img" aria-label="Esquema en tres pasos: primero, seis ciudades separadas (Kobe, Osaka, Kioto, Nagoya, Yokohama y Tokio); después, cada una crece y forma un área metropolitana; al final, las áreas se tocan y forman una franja urbana continua, la megalópolis, recorrida por una línea de tren de alta velocidad." font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect width="960" height="460" rx="28" fill="#F7F4FD"/>
+<text x="40" y="52" font-size="22" font-weight="800" fill="#5B2A86">Cómo se forma una megalópolis</text>
+<g class="a-ap" style="--d:1.9s"><path d="M60 250 C 200 150, 330 140, 470 200 S 760 300, 900 190 L 910 260 C 770 360, 500 320, 400 270 S 180 300, 70 320 Z" fill="#E2DAF6" opacity=".9"/></g>
+<g class="a-ap" style="--d:0.80s"><ellipse cx="110" cy="250" rx="60" ry="36" fill="#B9AEDB" opacity=".55"/></g>
+<g class="a-ap" style="--d:0.92s"><ellipse cx="210" cy="240" rx="90" ry="54" fill="#B9AEDB" opacity=".55"/></g>
+<g class="a-ap" style="--d:1.04s"><ellipse cx="330" cy="190" rx="70" ry="42" fill="#B9AEDB" opacity=".55"/></g>
+<g class="a-ap" style="--d:1.16s"><ellipse cx="480" cy="230" rx="90" ry="54" fill="#B9AEDB" opacity=".55"/></g>
+<g class="a-ap" style="--d:1.28s"><ellipse cx="720" cy="270" rx="80" ry="48" fill="#B9AEDB" opacity=".55"/></g>
+<g class="a-ap" style="--d:1.40s"><ellipse cx="830" cy="210" rx="115" ry="69" fill="#B9AEDB" opacity=".55"/></g>
+<g class="a-ap" style="--d:2.5s"><path d="M110 250 L210 240 L330 190 L480 230 L720 270 L830 210" fill="none" stroke="#E5194F" stroke-width="5" stroke-dasharray="12 8" stroke-linecap="round"/></g>
+<g class="a-ap" style="--d:0.10s"><circle cx="110" cy="250" r="9" fill="#5B2A86" stroke="#fff" stroke-width="3"/><text paint-order="stroke" stroke="#F7F4FD" stroke-width="5" x="110" y="232" text-anchor="middle" font-size="17" font-weight="800" fill="#1B1A4A">Kobe</text></g>
+<g class="a-ap" style="--d:0.20s"><circle cx="210" cy="240" r="9" fill="#5B2A86" stroke="#fff" stroke-width="3"/><text paint-order="stroke" stroke="#F7F4FD" stroke-width="5" x="210" y="222" text-anchor="middle" font-size="17" font-weight="800" fill="#1B1A4A">Osaka</text></g>
+<g class="a-ap" style="--d:0.30s"><circle cx="330" cy="190" r="9" fill="#5B2A86" stroke="#fff" stroke-width="3"/><text paint-order="stroke" stroke="#F7F4FD" stroke-width="5" x="330" y="172" text-anchor="middle" font-size="17" font-weight="800" fill="#1B1A4A">Kioto</text></g>
+<g class="a-ap" style="--d:0.40s"><circle cx="480" cy="230" r="9" fill="#5B2A86" stroke="#fff" stroke-width="3"/><text paint-order="stroke" stroke="#F7F4FD" stroke-width="5" x="480" y="212" text-anchor="middle" font-size="17" font-weight="800" fill="#1B1A4A">Nagoya</text></g>
+<g class="a-ap" style="--d:0.50s"><circle cx="720" cy="270" r="9" fill="#5B2A86" stroke="#fff" stroke-width="3"/><text paint-order="stroke" stroke="#F7F4FD" stroke-width="5" x="720" y="252" text-anchor="middle" font-size="17" font-weight="800" fill="#1B1A4A">Yokohama</text></g>
+<g class="a-ap" style="--d:0.60s"><circle cx="830" cy="210" r="14" fill="#5B2A86" stroke="#fff" stroke-width="3"/><text paint-order="stroke" stroke="#F7F4FD" stroke-width="5" x="830" y="186" text-anchor="middle" font-size="20" font-weight="800" fill="#1B1A4A">Tokio</text></g>
+<g class="a-ap" style="--d:2.8s"><circle cx="60" cy="410" r="9" fill="#5B2A86"/><text x="78" y="416" font-size="15" fill="#1B1A4A">Ciudad</text><ellipse cx="180" cy="410" rx="20" ry="12" fill="#B9AEDB" opacity=".7"/><text x="208" y="416" font-size="15" fill="#1B1A4A">Área metropolitana</text><rect x="380" y="398" width="40" height="24" rx="8" fill="#E2DAF6"/><text x="430" y="416" font-size="15" fill="#1B1A4A">Megalópolis</text><line x1="560" y1="410" x2="600" y2="410" stroke="#E5194F" stroke-width="5" stroke-dasharray="12 8"/><text x="612" y="416" font-size="15" fill="#1B1A4A">Tren de alta velocidad (Shinkansen)</text></g>
+</svg>

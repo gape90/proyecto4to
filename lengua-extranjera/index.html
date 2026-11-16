@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Acompañamiento Pedagógico</title>
+<link rel="stylesheet" href="css/potenciar.css">
+<script>/* (clave: potenciar4.<materia>.v1; Historia usa potenciar4.estado.v1) si ya eligió sus contenidos, esta página no se muestra: pasa directo a "Mi recorrido" */
+try { var enAula = false; try { enAula = window.parent !== window && !!window.parent.TV; } catch (e) {}
+  if (!enAula && !location.search.includes('cambiar') && (JSON.parse(localStorage.getItem('potenciar4.lengua-extranjera.v1') || '{}').seleccion || []).length) document.documentElement.style.visibility = 'hidden'; } catch (e) {}</script>
+</head>
+<body>
+<div id="cab"></div>
+<main class="contenedor">
+  <section class="hero">
+    <h1 id="titulo-materia"></h1>
+    <p>Preparate para febrero: aprendé los contenidos que te faltan, practicá con juegos y armá paso a paso el trabajo práctico que vas a presentar y defender.</p>
+  </section>
+
+  <section class="tarjeta">
+    <div class="titulo-seccion"><div class="chip-icono">✎</div><h2>Tus contenidos</h2></div>
+    <div class="subrayado"></div>
+    <h3 style="margin-top:6px">Marcá los contenidos que tenés que recuperar</h3>
+    <p class="ayuda">Tu profesor o profesora te dijo qué contenidos tenés que preparar. Marcá solo esos: vas a ver las clases de lo que elijas.</p>
+    <div class="acciones" style="margin:0 0 14px"><button class="btn suave chico" id="todos">Marcar todos los disponibles</button><button class="btn suave chico" id="ninguno">Desmarcar</button><span class="ayuda" id="cuenta"></span></div>
+    <div id="contenidos"></div>
+  </section>
+
+  <section class="tarjeta" id="sec-pj">
+    <div class="titulo-seccion"><div class="chip-icono">☺</div><h2>Tu personaje</h2></div>
+    <div class="subrayado"></div>
+    <div id="pj"></div>
+  </section>
+
+  <div class="acciones"><button class="btn" id="empezar" disabled>Empezar mi recorrido →</button><span class="ayuda" id="falta"></span></div>
+</main>
+
+<script type="module">
+import { leer, actualizar, esc, md, cargarJSON, cabecera, ventana } from './js/estado.js';
+import './js/voz.js';
+import { ESPACIO, MATERIA, AJUSTES } from './js/config.js';
+document.title = `${MATERIA.nombre} · Acompañamiento Pedagógico`;
+document.getElementById('titulo-materia').textContent = `${MATERIA.nombre} - ${MATERIA.anio}`;
+
+document.getElementById('cab').innerHTML = cabecera();
+const $ = id => document.getElementById(id);
+let cat;
+const e = leer();
+// Si ya eligió sus contenidos, vuelve directo a su recorrido (salvo que haya pedido cambiarlos)
+if (e.seleccion.length && !new URLSearchParams(location.search).has('cambiar')) location.replace('recorrido.html');
+
+// Contenidos que el diseño curricular incluye solo en una modalidad
+const etiquetaModalidad = c => c.modalidad === 'tecnica' ? '<span class="etq-modalidad tecnica">Solo escuelas técnicas</span>'
+  : c.modalidad === 'orientada' ? '<span class="etq-modalidad orientada">Solo escuelas orientadas</span>' : '';
+function pintarContenidos() {
+  const lista = cat.contenidos[ESPACIO] || [];
+  e.seleccion = e.seleccion.filter(id => lista.some(c => c.id === id && c.activo));
+  // Si hay contenidos exclusivos de un tipo de escuela: primero los comunes y después un grupo por tipo de escuela. Si no, por eje.
+  const porModalidad = lista.some(c => c.modalidad);
+  const grupoDe = c => !porModalidad ? c.eje : c.modalidad === 'orientada' ? 'Solo escuelas orientadas' : c.modalidad === 'tecnica' ? 'Solo escuelas técnicas' : 'Para todas las escuelas';
+  const ejes = [...new Set(lista.map(grupoDe))];
+  $('contenidos').innerHTML = ejes.map(eje => `<div class="eje"><h3>${esc(eje)}</h3>` +
+    lista.filter(c => grupoDe(c) === eje).map(c => {
+      const sel = e.seleccion.includes(c.id);
+      return `<label class="contenido ${c.activo ? '' : 'inactivo'} ${sel ? 'sel' : ''}">
+        <input type="checkbox" value="${c.id}" ${c.activo ? '' : 'disabled'} ${sel ? 'checked' : ''}>
+        <div><div class="t">${esc(c.titulo)}${c.activo ? '' : '<span class="pronto">Próximamente</span>'}</div>${etiquetaModalidad(c)}
+        <ul>${c.desglose.map(d => `<li>${esc(d)}</li>`).join('')}</ul></div></label>`;
+    }).join('') + '</div>').join('');
+  validar();
+}
+// Inglés: después de marcar los contenidos se elige el personaje (una sola vez; no se puede cambiar)
+let pjs = null;
+function pintarPersonaje() {
+  const host = $('pj'); if (!pjs) return;
+  const n = e.seleccion.length;
+  const elegido = pjs.personajes.find(x => x.id === e.personaje);
+  $('sec-pj').querySelector('h2').textContent = elegido ? 'Tu personaje elegido' : 'Tu personaje';
+  if (elegido) {
+    // Se puede cambiar hasta empezar el recorrido (mientras no haya avance en las clases)
+    const empezo = Object.keys(leer().clases || {}).length > 0;
+    host.innerHTML = `<div class="pj-elegido"><img src="${elegido.img}" alt="${esc(elegido.alt)}">
+      <div><h3 class="pj-nombre">${esc(elegido.nombre)}</h3>
+      ${empezo ? '<p class="ayuda">Ya empezaste tu recorrido: el personaje no se puede cambiar.</p>'
+        : '<p><button class="btn sec chico" id="cambiar-pj">Cambiar personaje</button></p><p class="ayuda">Podés cambiarlo hasta que empieces el recorrido. Después ya no vas a poder.</p>'}</div></div>`;
+    host.querySelector('#cambiar-pj')?.addEventListener('click', () => {
+      window.speechSynthesis?.cancel();
+      e.personaje = null; actualizar(x => { x.personaje = null; }); pintarPersonaje(); validar();
+    });
+    return;
+  }
+  const j = pjs.presentador;
+  host.innerHTML = `<div class="${n ? '' : 'pj-apagado'}">
+    ${n ? '' : '<p class="aviso-fijo">🔒 Primero marcá tus contenidos. Después vas a poder elegir tu personaje.</p>'}
+    <div class="pj-intro">
+      <img class="pj-img" src="${j.img}" alt="Joaquín, un adolescente de pelo oscuro con camisa naranja, saluda con la mano.">
+      <div>
+        <p class="pj-habla" data-voz="joaquin">${md(j.texto)}</p>
+        <p class="pj-trad">${esc(j.traduccion)}</p>
+        <p>En cada clase vas a conocer un poco más de la vida del personaje que elijas: su rutina, sus gustos y mucho más. En las clases, el personaje te cuenta su vida en inglés. En tu trabajo práctico, vos vas a contar su historia.</p>
+        <p class="aviso-fijo">⚠️ Elegí con calma: <b>después no vas a poder cambiar de personaje</b>.</p>
+      </div>
+    </div>
+    <div class="pj-grilla">${pjs.personajes.map(p => `
+      <div class="tarjeta pj-card" data-id="${p.id}">
+        <img class="pj-img" src="${p.img}" alt="${esc(p.alt)}">
+        <h2>${esc(p.nombre)}</h2>
+        <p class="pj-lugar">16 años · ${esc(p.ciudad)}, ${esc(p.pais)}</p>
+        <p class="pj-habla" data-voz="${p.id}">${md(p.texto)}</p>
+        <p class="pj-trad">${esc(p.traduccion)}</p>
+        <button class="btn pj-elijo" ${n ? '' : 'disabled'}>Elijo a ${esc(p.nombre)}</button>
+      </div>`).join('')}
+    </div></div>`;
+  host.querySelectorAll('.pj-elijo').forEach(b => b.onclick = () => {
+    window.speechSynthesis?.cancel();   // si estaba hablando un personaje, se calla
+    const p = pjs.personajes.find(x => x.id === b.closest('.pj-card').dataset.id);
+    const c = ventana('pj-t');
+    c.innerHTML = `<div class="tarjeta">
+      <img class="pj-img chica" src="${p.img}" alt="">
+      <h2 id="pj-t">¿Elegís a ${esc(p.nombre)}?</h2>
+      <p>En cada clase vas a conocer un poco más de la vida de ${esc(p.nombre)} y, en tu trabajo práctico, vas a contar su historia en inglés. <b>Después no vas a poder cambiar de personaje.</b></p>
+      <div class="acciones"><button class="btn" id="si">Sí, elijo a ${esc(p.nombre)}</button><button class="btn sec" id="no">Volver a mirar</button></div></div>`;
+    c.querySelector('#no').onclick = () => { c.remove(); b.focus(); };
+    c.querySelector('#si').onclick = () => {
+      window.speechSynthesis?.cancel();
+      e.personaje = p.id;
+      actualizar(x => { x.espacio = ESPACIO; x.seleccion = e.seleccion; x.personaje = p.id; });
+      c.remove(); pintarPersonaje(); validar();
+      $('sec-pj').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    };
+    c.querySelector('#si').focus({ preventScroll: true });
+  });
+}
+function validar() {
+  const n = e.seleccion.length;
+  $('cuenta').textContent = n ? `${n} contenido${n > 1 ? 's' : ''} elegido${n > 1 ? 's' : ''}` : 'Todavía no elegiste ninguno';
+  const falta = !n ? 'Falta: al menos un contenido.' : (pjs && !e.personaje) ? 'Falta: elegir tu personaje.' : '';
+  $('empezar').disabled = !!falta;
+  $('falta').textContent = falta;
+  // si cambió de "ninguno" a "alguno" (o al revés), se habilita o se apaga la elección del personaje
+  const host = $('pj');
+  if (pjs && !e.personaje && (host.firstElementChild?.classList.contains('pj-apagado') ? n : !n)) pintarPersonaje();
+}
+$('contenidos').addEventListener('change', ev => {
+  const i = ev.target; if (i.type !== 'checkbox') return;
+  e.seleccion = i.checked ? [...new Set([...e.seleccion, i.value])] : e.seleccion.filter(x => x !== i.value);
+  i.closest('.contenido').classList.toggle('sel', i.checked);
+  validar();
+});
+$('todos').onclick = () => { e.seleccion = (cat.contenidos[ESPACIO] || []).filter(c => c.activo).map(c => c.id); pintarContenidos(); };
+$('ninguno').onclick = () => { e.seleccion = []; pintarContenidos(); };
+$('empezar').onclick = () => {
+  actualizar(x => { x.espacio = ESPACIO; x.seleccion = e.seleccion; if (e.personaje) x.personaje = e.personaje; });
+  location.href = 'recorrido.html';
+};
+
+cargarJSON('contenidos/personajes.json').then(p => { pjs = p; pintarPersonaje(); validar(); }).catch(() => { $('sec-pj').remove(); });
+cargarJSON('contenidos/catalogo.json').then(c => { cat = c; pintarContenidos(); }).catch(err => {
+  document.querySelector('main').insertAdjacentHTML('afterbegin',
+    `<div class="tarjeta"><b>No se pudo cargar el catálogo.</b><br>Abrí la plataforma desde un servidor web (iniciar.bat), no haciendo doble clic en el archivo.<br><small>${esc(err.message)}</small></div>`);
+});
+
+// MODO_PRUEBA (GitHub): se eligen solos todos los contenidos y se entra directo al recorrido
+if (AJUSTES.MODO_PRUEBA && !new URLSearchParams(location.search).has('cambiar')) {
+  cargarJSON('contenidos/catalogo.json').then(c => {
+    const ids = (c.contenidos[ESPACIO] || []).filter(x => x.activo).map(x => x.id);
+    if (!ids.length) return;
+    if (!e.seleccion.length) { e.seleccion = ids; actualizar(x => { x.espacio = ESPACIO; x.seleccion = ids; }); }
+    if (typeof pintarPersonaje === 'function') { if (cat) pintarContenidos(); }   // Inglés: falta elegir el personaje
+    else location.replace('recorrido.html');
+  });
+}
+</script>
+</body>
+</html>

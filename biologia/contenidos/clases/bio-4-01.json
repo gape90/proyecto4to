@@ -1,0 +1,1401 @@
+{
+ "id": "bio-4-01",
+ "espacio": "biologia",
+ "eje": "Los sistemas y funciones de nutrición",
+ "titulo": "La química de la vida: biomoléculas y metabolismo",
+ "intro": "Todos los seres vivos están hechos de los mismos materiales químicos, y los usan para conseguir energía y para armar su propio cuerpo. En esta clase vas a ver de qué están hechas las células, cómo mantiene estable su interior un organismo y qué reacciones químicas ocurren en cada célula.",
+ "objetivos": [
+  "Reconocer los bioelementos y las biomoléculas que forman a los seres vivos y qué función cumple cada grupo.",
+  "Explicar por qué un organismo es un sistema abierto y cómo mantiene estable su medio interno.",
+  "Diferenciar el anabolismo del catabolismo y ubicar en ellos la glucólisis, la respiración celular y la biosíntesis de proteínas."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: de qué están hechos los seres vivos, cómo mantiene estable su interior un organismo y en qué se diferencian el catabolismo y el anabolismo, con tres ejemplos.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "De qué estamos hechos: bioelementos y biomoléculas",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "Un pedazo de pan, una hoja de espinaca y tu músculo parecen muy distintos. Sin embargo, los tres están hechos de células, y esas células se construyen con los mismos materiales de base. ¿Cuáles serán? Pensalo un momento y después seguí leyendo."
+    },
+    {
+     "t": "texto",
+     "titulo": "Los bioelementos",
+     "texto": "Todo lo que existe está hecho de elementos químicos, y hay más de cien. Los seres vivos usan sobre todo unos pocos: son los **bioelementos**.\n\nSe agrupan según cuánto hace falta de cada uno. Cuatro de los principales (carbono, hidrógeno, oxígeno y nitrógeno) forman la gran mayoría de la materia de un organismo. El **carbono** es el que da la base: puede unirse con muchos otros átomos y armar cadenas largas."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Los tres grupos de bioelementos",
+     "columnas": [
+      "",
+      "Cuáles son",
+      "Cuánto hace falta",
+      "Para qué sirven (ejemplos)"
+     ],
+     "filas": [
+      [
+       "Principales",
+       "Carbono, hidrógeno, oxígeno, nitrógeno, fósforo y azufre",
+       "Son los más abundantes",
+       "Con ellos se arman las proteínas, los glúcidos, los lípidos y los ácidos nucleicos"
+      ],
+      [
+       "Secundarios",
+       "Calcio, sodio, potasio, magnesio y cloro",
+       "Menos que los principales",
+       "El calcio forma los huesos; el sodio y el potasio ayudan a que nervios y músculos funcionen"
+      ],
+      [
+       "Oligoelementos",
+       "Hierro, yodo y zinc, entre otros",
+       "Cantidades muy pequeñas",
+       "El hierro está en la hemoglobina de la sangre; el yodo, en las hormonas de la tiroides"
+      ]
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Los **bioelementos** son los elementos químicos que forman a los seres vivos. Los seis **principales** son carbono, hidrógeno, oxígeno, nitrógeno, fósforo y azufre. Los **oligoelementos** hacen falta en cantidades muy pequeñas, pero sin ellos el organismo no funciona bien."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿A qué grupo de bioelementos pertenece cada uno? Si no te acordás, buscalo en la tabla de arriba.",
+     "categorias": [
+      "Principales",
+      "Secundarios",
+      "Oligoelementos"
+     ],
+     "items": [
+      {
+       "texto": "Carbono",
+       "cat": "Principales"
+      },
+      {
+       "texto": "Azufre",
+       "cat": "Principales"
+      },
+      {
+       "texto": "Calcio",
+       "cat": "Secundarios"
+      },
+      {
+       "texto": "Potasio",
+       "cat": "Secundarios"
+      },
+      {
+       "texto": "Hierro",
+       "cat": "Oligoelementos"
+      },
+      {
+       "texto": "Yodo",
+       "cat": "Oligoelementos"
+      }
+     ],
+     "pista": "Fijate en la columna Cuánto hace falta de la tabla de arriba.",
+     "explicacion": "Los principales son los seis con los que se arman las biomoléculas orgánicas. El calcio y el potasio hacen falta en menor cantidad, y el hierro y el yodo, en cantidades muy pequeñas."
+    },
+    {
+     "t": "dato",
+     "titulo": "El yodo y el hierro en tus alimentos",
+     "texto": "Mirá el paquete de sal de tu casa: dice \"sal yodada\". Desde 1967, la ley 17.259 obliga a agregar yodo a la sal de consumo, porque el cuerpo lo necesita para fabricar las hormonas de la tiroides. Y desde 2002, por la ley 25.630, la harina de trigo que se vende en el país lleva hierro agregado."
+    },
+    {
+     "t": "texto",
+     "titulo": "Las biomoléculas",
+     "texto": "Los bioelementos se combinan entre sí y forman las **biomoléculas**: las moléculas que componen a los seres vivos. Hay dos grandes grupos. Las **inorgánicas** son el agua y las sales minerales. Las **orgánicas** son los glúcidos, los lípidos, las proteínas y los ácidos nucleicos, y todas tienen carbono."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "tipo": "grafico",
+     "src": "img/clases/bio-4-01-mapa-conceptual.svg",
+     "src_movil": "img/clases/bio-4-01-mapa-conceptual-movil.svg",
+     "alt": "Mapa conceptual. Los seres vivos están formados por bioelementos. Los bioelementos se combinan y forman biomoléculas. Las biomoléculas pueden ser inorgánicas (agua y sales minerales) u orgánicas, que tienen carbono (glúcidos, lípidos, proteínas y ácidos nucleicos).",
+     "epigrafe": "Esquema elaborado para esta clase.",
+     "animacion": "svg"
+    },
+    {
+     "t": "comparar",
+     "titulo": "Los seis grupos de biomoléculas",
+     "columnas": [
+      "",
+      "Se arma con",
+      "Función principal",
+      "Ejemplos"
+     ],
+     "filas": [
+      [
+       "Agua",
+       "Hidrógeno y oxígeno",
+       "Disolvente: en ella ocurren las reacciones y viajan las sustancias",
+       "Es lo que más hay dentro de las células"
+      ],
+      [
+       "Sales minerales",
+       "Minerales, como calcio, sodio y potasio",
+       "Forman huesos y ayudan a que nervios y músculos funcionen",
+       "El calcio de los huesos"
+      ],
+      [
+       "Glúcidos",
+       "Azúcares simples",
+       "Energía de uso inmediato",
+       "Glucosa, almidón de la papa, celulosa"
+      ],
+      [
+       "Lípidos",
+       "Ácidos grasos y glicerol",
+       "Reserva de energía a largo plazo",
+       "Aceite de cocina, manteca, grasa de la carne"
+      ],
+      [
+       "Proteínas",
+       "Aminoácidos",
+       "Estructura, enzimas y defensa",
+       "Colágeno, hemoglobina, anticuerpos"
+      ],
+      [
+       "Ácidos nucleicos",
+       "Nucleótidos",
+       "Guardan la información genética",
+       "ADN y ARN"
+      ]
+     ]
+    },
+    {
+     "t": "opcion",
+     "pregunta": "🔍 Encontrá el error: una de estas frases sobre las biomoléculas es falsa. ¿Cuál?",
+     "opciones": [
+      "Los lípidos guardan energía para usarla más adelante",
+      "Las proteínas están formadas por aminoácidos",
+      "Los glúcidos se arman con ácidos grasos y glicerol",
+      "El ADN guarda la información genética de la célula"
+     ],
+     "correcta": 2,
+     "explicacion": "Los ácidos grasos y el glicerol arman los lípidos. Los glúcidos se arman con azúcares simples, como la glucosa.",
+     "pista": "Revisá en la tabla de los seis grupos de biomoléculas con qué se arma cada grupo."
+    },
+    {
+     "t": "texto",
+     "titulo": "Qué hace cada grupo",
+     "texto": "El **agua** es el componente más abundante de las células. Como disuelve muchas sustancias, en ella ocurren las reacciones químicas y por ella viajan los materiales de un lugar a otro.\n\nLos **glúcidos** (también llamados hidratos de carbono) son el combustible que las células usan primero, y el más importante es la **glucosa**. Algunos son una reserva de corto plazo, como el almidón de las plantas y el glucógeno de los animales, y otros forman estructuras, como la celulosa de las paredes de las células vegetales. Los **lípidos** guardan energía para más adelante y forman las membranas de las células. No se disuelven en agua.\n\nLas **proteínas** dan estructura, transportan sustancias y defienden al organismo. Las que aceleran las reacciones químicas de la célula se llaman **enzimas**. Los **ácidos nucleicos** guardan la información para fabricar las proteínas: el **ADN** la conserva y el **ARN** participa en la fabricación."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada ejemplo con el grupo de biomoléculas al que pertenece.",
+     "pares": [
+      {
+       "a": "Almidón de la papa",
+       "b": "Glúcidos"
+      },
+      {
+       "a": "Un aceite de cocina",
+       "b": "Lípidos"
+      },
+      {
+       "a": "Hemoglobina",
+       "b": "Proteínas"
+      },
+      {
+       "a": "ADN",
+       "b": "Ácidos nucleicos"
+      }
+     ],
+     "explicacion": "Cada ejemplo se arma con las unidades de su grupo: azúcares simples, ácidos grasos y glicerol, aminoácidos o nucleótidos.",
+     "pista": "Los ejemplos están en la última columna de la tabla de los seis grupos de biomoléculas."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "Los bioelementos se combinan y forman [[biomoléculas]]. Las que tienen carbono se llaman [[orgánicas]]. Las proteínas están formadas por [[aminoácidos]], y las que aceleran las reacciones de la célula son las [[enzimas]]. El [[ADN]] guarda la información genética.",
+     "explicacion": "Así se relacionan los bioelementos, las biomoléculas y las proteínas.",
+     "pista": "Todas las palabras están en los textos de esta parte."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Pensalo así: las letras y las palabras",
+     "texto": "Con las 27 letras del abecedario se escriben miles de palabras, porque cambia cuáles letras se usan y en qué orden. Con las proteínas pasa algo parecido: las células combinan 20 aminoácidos distintos, en cadenas de distinto largo y orden, y así arman miles de proteínas diferentes."
+    },
+    {
+     "t": "esquema",
+     "_imagen": true,
+     "consigna": "Completá el esquema de las biomoléculas orgánicas: ubicá cada etiqueta en su casillero. Si no te acordás, mirá la tabla de los seis grupos de biomoléculas.",
+     "imagen": {
+      "src": "img/clases/bio-4-01-organicas.svg",
+      "tipo": "grafico",
+      "alt": "Esquema con cuatro tarjetas, una por cada biomolécula orgánica: glúcidos, lípidos, proteínas y ácidos nucleicos. Cada tarjeta tiene dos filas, \"Se arma con\" y \"Función principal\". Seis de esas ocho filas son casilleros vacíos para completar.",
+      "epigrafe": "Esquema elaborado para esta clase.",
+      "src_movil": "img/clases/bio-4-01-organicas-movil.svg"
+     },
+     "huecos": [
+      {
+       "x": 5.0,
+       "y": 17.19,
+       "w": 41.0,
+       "h": 10.62,
+       "respuesta": "Azúcares simples",
+       "fija": true,
+       "movil": {
+        "x": 7.69,
+        "y": 9.23,
+        "w": 84.62,
+        "h": 5.38
+       }
+      },
+      {
+       "x": 5.0,
+       "y": 34.38,
+       "w": 41.0,
+       "h": 10.62,
+       "respuesta": "Energía de uso inmediato",
+       "movil": {
+        "x": 7.69,
+        "y": 18.21,
+        "w": 84.62,
+        "h": 5.38
+       }
+      },
+      {
+       "x": 54.0,
+       "y": 17.19,
+       "w": 41.0,
+       "h": 10.62,
+       "respuesta": "Ácidos grasos y glicerol",
+       "movil": {
+        "x": 7.69,
+        "y": 33.85,
+        "w": 84.62,
+        "h": 5.38
+       }
+      },
+      {
+       "x": 54.0,
+       "y": 34.38,
+       "w": 41.0,
+       "h": 10.62,
+       "respuesta": "Reserva de energía a largo plazo",
+       "movil": {
+        "x": 7.69,
+        "y": 42.82,
+        "w": 84.62,
+        "h": 5.38
+       }
+      },
+      {
+       "x": 5.0,
+       "y": 65.62,
+       "w": 41.0,
+       "h": 10.62,
+       "respuesta": "Aminoácidos",
+       "movil": {
+        "x": 7.69,
+        "y": 58.46,
+        "w": 84.62,
+        "h": 5.38
+       }
+      },
+      {
+       "x": 5.0,
+       "y": 82.81,
+       "w": 41.0,
+       "h": 10.62,
+       "respuesta": "Estructura, enzimas y defensa",
+       "movil": {
+        "x": 7.69,
+        "y": 67.44,
+        "w": 84.62,
+        "h": 5.38
+       }
+      },
+      {
+       "x": 54.0,
+       "y": 65.62,
+       "w": 41.0,
+       "h": 10.62,
+       "respuesta": "Nucleótidos",
+       "movil": {
+        "x": 7.69,
+        "y": 83.08,
+        "w": 84.62,
+        "h": 5.38
+       }
+      },
+      {
+       "x": 54.0,
+       "y": 82.81,
+       "w": 41.0,
+       "h": 10.62,
+       "respuesta": "Guardan la información genética",
+       "fija": true,
+       "movil": {
+        "x": 7.69,
+        "y": 92.05,
+        "w": 84.62,
+        "h": 5.38
+       }
+      }
+     ],
+     "explicacion": "Es la misma información de la tabla, ahora en un esquema: cada biomolécula orgánica se arma con unas unidades y cumple una función.",
+     "pista": "Cada tarjeta es una fila de la tabla de los seis grupos de biomoléculas."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: tu cuerpo y una planta están hechos de los mismos grupos de biomoléculas. ¿Qué te dice eso sobre lo que comen los seres vivos?",
+     "respuesta": "Que los materiales con los que se arma un cuerpo no son exclusivos de cada especie. Cuando comés una planta o un animal, incorporás glúcidos, lípidos y proteínas que tu cuerpo puede aprovechar para fabricar los suyos. De eso trata la nutrición, que vas a ver en la clase 2."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá de qué están hechos los seres vivos: nombrá los bioelementos principales, contá qué son las biomoléculas y explicá qué función cumple cada grupo.",
+    "guia": [
+     "¿Cuáles son los seis bioelementos principales y qué son los oligoelementos?",
+     "¿Qué diferencia hay entre una biomolécula inorgánica y una orgánica?",
+     "¿Qué función cumplen el agua y las sales minerales?",
+     "¿Qué hacen los glúcidos y los lípidos con la energía?",
+     "¿Para qué sirven las proteínas y los ácidos nucleicos?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El carbono es uno de los seis bioelementos principales.",
+     "respuesta": true,
+     "explicacion": "Los otros cinco son hidrógeno, oxígeno, nitrógeno, fósforo y azufre."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El hierro es un oligoelemento.",
+     "respuesta": true,
+     "explicacion": "Hace falta en cantidades muy pequeñas. Por ejemplo, está en la hemoglobina de la sangre."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las sales minerales son biomoléculas orgánicas.",
+     "respuesta": false,
+     "explicacion": "Son inorgánicas, igual que el agua. Las orgánicas tienen carbono."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los glúcidos son la reserva de energía a largo plazo.",
+     "respuesta": false,
+     "explicacion": "Esa es la función de los lípidos. Los glúcidos dan energía de uso inmediato."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las proteínas están formadas por aminoácidos.",
+     "respuesta": true,
+     "explicacion": "Las células combinan 20 aminoácidos distintos para armar miles de proteínas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las enzimas son lípidos que aceleran las reacciones de la célula.",
+     "respuesta": false,
+     "explicacion": "Las enzimas son proteínas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué grupo de biomoléculas guarda la información para fabricar proteínas?",
+     "opciones": [
+      "Los ácidos nucleicos",
+      "Los glúcidos y el agua",
+      "Los lípidos de reserva",
+      "Las sales minerales"
+     ],
+     "correcta": 0,
+     "explicacion": "El ADN la conserva y el ARN participa en la fabricación."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué función principal cumple el agua en las células?",
+     "opciones": [
+      "Disolver sustancias para las reacciones",
+      "Guardar energía para más adelante",
+      "Armar las membranas de las células",
+      "Fabricar proteínas nuevas"
+     ],
+     "correcta": 0,
+     "explicacion": "Como disuelve muchas sustancias, en ella ocurren las reacciones y viajan los materiales."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Con qué se arman los lípidos?",
+     "opciones": [
+      "Con aminoácidos y glucosa",
+      "Con ácidos grasos y glicerol",
+      "Con nucleótidos y proteínas",
+      "Con azúcares simples y agua"
+     ],
+     "correcta": 1,
+     "explicacion": "Los ácidos grasos y el glicerol arman las grasas y los aceites."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos bioelementos es un oligoelemento?",
+     "opciones": [
+      "El carbono",
+      "El oxígeno",
+      "El yodo",
+      "El fósforo"
+     ],
+     "correcta": 2,
+     "explicacion": "El yodo hace falta en cantidades muy pequeñas y está en las hormonas de la tiroides."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo se llaman las proteínas que aceleran las reacciones químicas de la célula?",
+     "opciones": [
+      "Anticuerpos",
+      "Nucleótidos",
+      "Aminoácidos",
+      "Enzimas"
+     ],
+     "correcta": 3,
+     "explicacion": "Los anticuerpos defienden al organismo y los aminoácidos son las unidades de las proteínas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué grupo de biomoléculas es la fuente de energía de uso inmediato?",
+     "opciones": [
+      "Los lípidos",
+      "Los glúcidos",
+      "Las proteínas",
+      "Los ácidos nucleicos"
+     ],
+     "correcta": 1,
+     "explicacion": "La glucosa es el combustible que las células usan primero."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "BIOELEMENTOS",
+     "pista": "Elementos químicos que forman a los seres vivos."
+    },
+    {
+     "palabra": "GLUCOSA",
+     "pista": "El glúcido más importante: el combustible que las células usan primero."
+    },
+    {
+     "palabra": "ENZIMA",
+     "pista": "Proteína que acelera las reacciones químicas de la célula."
+    },
+    {
+     "palabra": "AMINOÁCIDO",
+     "pista": "Unidad con la que se arman las proteínas."
+    },
+    {
+     "palabra": "LÍPIDOS",
+     "pista": "Biomoléculas que guardan energía a largo plazo y forman las membranas."
+    },
+    {
+     "palabra": "OLIGOELEMENTO",
+     "pista": "Bioelemento que hace falta en cantidades muy pequeñas, como el yodo."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué decimos que el hierro y el yodo son oligoelementos?",
+     "opciones": [
+      "Porque hacen falta en cantidades muy pequeñas",
+      "Porque son los más abundantes en un organismo",
+      "Porque forman todas las biomoléculas orgánicas",
+      "Porque no los necesita el cuerpo humano"
+     ],
+     "correcta": 0,
+     "explicacion": "Se necesitan poco, pero sin ellos el organismo no funciona bien: el hierro está en la hemoglobina y el yodo, en las hormonas de la tiroides."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Un animal que hiberna pasa meses sin comer. ¿Qué biomolécula le sirvió para guardar energía durante tanto tiempo?",
+     "opciones": [
+      "Los lípidos",
+      "Las sales minerales",
+      "El agua",
+      "Los ácidos nucleicos"
+     ],
+     "correcta": 0,
+     "explicacion": "Los lípidos son la reserva de energía a largo plazo. Los glúcidos dan energía de uso inmediato."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Todas las biomoléculas orgánicas tienen carbono.",
+     "respuesta": true,
+     "explicacion": "El carbono es la base de los glúcidos, los lípidos, las proteínas y los ácidos nucleicos."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Un sistema abierto: materia, energía y medio interno",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "Corrés una cuadra y el cuerpo se calienta, pero a los pocos minutos tu temperatura vuelve a ser casi la misma. Afuera cambian el clima, la comida, la actividad. ¿Cómo hace el cuerpo para mantenerse estable por dentro?"
+    },
+    {
+     "t": "texto",
+     "titulo": "Un organismo es un sistema abierto",
+     "texto": "Un **sistema abierto** es el que intercambia materia y energía con su entorno. Los seres vivos lo son. Toman del ambiente alimentos, agua y oxígeno, y devuelven dióxido de carbono, desechos y calor. Si dejaran de intercambiar, no podrían seguir vivos."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "tipo": "grafico",
+     "titulo": "Lo que entra y lo que sale",
+     "src": "img/clases/bio-4-01-abierto.svg",
+     "src_movil": "img/clases/bio-4-01-abierto-movil.svg",
+     "animacion": "svg",
+     "alt": "Ilustración de una persona como sistema abierto. Del lado izquierdo, lo que entra al cuerpo desde el ambiente: alimentos, agua y oxígeno. Del lado derecho, lo que sale del cuerpo hacia el ambiente: dióxido de carbono, desechos y calor.",
+     "epigrafe": "Esquema elaborado para esta clase."
+    },
+    {
+     "t": "texto",
+     "titulo": "El medio interno",
+     "texto": "Cada célula de tu cuerpo está rodeada de líquido. Ese líquido y la parte líquida de la sangre forman el **medio interno**. De él las células toman lo que necesitan (agua, glucosa, oxígeno) y en él dejan sus desechos.\n\nLas células funcionan bien solo si el medio interno se mantiene dentro de ciertos valores: la temperatura del cuerpo (alrededor de 37 °C), la cantidad de agua y la cantidad de glucosa en la sangre."
+    },
+    {
+     "t": "texto",
+     "titulo": "La homeostasis",
+     "texto": "Aunque el ambiente cambie, el organismo mantiene estable su medio interno. A esa capacidad se la llama **homeostasis**. No significa que nada cambie: significa que, cuando algo se aleja de lo normal, el organismo lo detecta y responde para corregirlo. Cuando el valor vuelve a lo normal, la respuesta se frena. El esquema muestra los cuatro pasos, con el ejemplo de la temperatura."
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Completá el dato",
+     "consigna": "¿Cómo se llama la capacidad de un organismo de mantener estable su medio interno?",
+     "respuesta": "homeostasis",
+     "acepta": [
+      "homeostasis",
+      "la homeostasis"
+     ],
+     "formato": "Escribí una sola palabra.",
+     "explicacion": "La homeostasis es esa estabilidad: el organismo detecta los cambios y responde.",
+     "pista1": "Pensá en el nombre que recibe esta idea: el organismo detecta un cambio y responde para volver a sus valores normales.",
+     "relee": "Releé el texto La homeostasis."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "tipo": "grafico",
+     "src": "img/clases/bio-4-01-homeostasis.svg",
+     "src_movil": "img/clases/bio-4-01-homeostasis-movil.svg",
+     "alt": "Esquema circular de cuatro pasos: 1, cambia algo; 2, el cuerpo lo detecta; 3, el cuerpo responde; 4, vuelve al equilibrio. Una flecha lleva del último paso otra vez al primero. El ejemplo es la temperatura del cuerpo al correr.",
+     "epigrafe": "Esquema elaborado para esta clase.",
+     "animacion": "svg"
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Pensalo así: un aire acondicionado con termostato",
+     "texto": "Cuando la habitación se calienta de más, el aparato se enciende y la enfría. Cuando llega a la temperatura elegida, se apaga. Tu cuerpo hace algo parecido: una zona del cerebro registra la temperatura, y cuando se aleja del valor normal pone en marcha la respuesta."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "Una persona sube corriendo una escalera y su temperatura corporal aumenta un poco. ¿Qué respuesta ayuda a que vuelva a su valor normal?",
+     "opciones": [
+      "Transpirar para enfriar el cuerpo",
+      "Retener calor para conservar energía",
+      "Producir más calor para compensarlo",
+      "Frenar el intercambio con el ambiente"
+     ],
+     "correcta": 0,
+     "explicacion": "Al evaporarse, el sudor enfría la piel y baja la temperatura del cuerpo. Es la respuesta del tercer paso del ciclo.",
+     "pista": "Mirá el ejemplo que está en el tercer paso del esquema."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Un organismo es un **sistema abierto**: intercambia materia y energía con el ambiente. Su **medio interno** tiene que mantenerse dentro de ciertos valores. La **homeostasis** es esa estabilidad, y el organismo la logra detectando los cambios y respondiendo a ellos."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los pasos con los que el organismo recupera el equilibrio.",
+     "items": [
+      "Algo cambia en el medio interno",
+      "El organismo detecta el cambio",
+      "El organismo responde al cambio",
+      "El valor vuelve a la normalidad"
+     ],
+     "explicacion": "Cambia algo, se detecta, se responde y se recupera el equilibrio. Si algo vuelve a cambiar, el ciclo empieza otra vez.",
+     "pista": "Los cuatro pasos están numerados en el esquema circular."
+    },
+    {
+     "t": "dato",
+     "titulo": "¿Por qué te da sed después de correr?",
+     "texto": "Al transpirar perdés agua. La sed es una señal de tu cuerpo: te empuja a tomar agua para recuperar la que se fue y que el medio interno vuelva a sus valores normales."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "Un sistema abierto intercambia materia y energía con el ambiente.",
+       "v": true,
+       "explicacion": "Eso es lo que hacen los seres vivos: toman alimentos, agua y oxígeno, y devuelven dióxido de carbono, desechos y calor."
+      },
+      {
+       "texto": "Las células están rodeadas por el medio interno, del que toman lo que necesitan.",
+       "v": true,
+       "explicacion": "De ese líquido toman agua, glucosa y oxígeno, y en él dejan sus desechos."
+      },
+      {
+       "texto": "La homeostasis significa que el medio interno nunca cambia.",
+       "v": false,
+       "explicacion": "El medio interno cambia, pero el organismo detecta el cambio y responde para que vuelva a sus valores normales."
+      },
+      {
+       "texto": "Los seres vivos son sistemas cerrados porque no intercambian nada con el ambiente.",
+       "v": false,
+       "explicacion": "Son sistemas abiertos: intercambian materia y energía todo el tiempo."
+      }
+     ]
+    },
+    {
+     "t": "texto",
+     "titulo": "Mantener el equilibrio cuesta energía",
+     "texto": "Transpirar, mover la sangre o buscar agua son tareas que hacen las células, y todas gastan energía. Esa energía sale de las reacciones químicas que ocurren dentro de cada célula. Es el tema de la parte siguiente."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué un organismo necesita energía para mantener estable su medio interno?",
+     "respuesta": "Porque corregir un cambio exige trabajo: transpirar, mover la sangre, tomar agua. Todo eso lo hacen células que gastan energía. Por eso mantener la homeostasis y conseguir energía van de la mano."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá por qué un organismo es un sistema abierto y cómo mantiene estable su medio interno. Incluí un ejemplo de tu vida cotidiana.",
+    "guia": [
+     "¿Qué intercambia un organismo con su ambiente?",
+     "¿Qué es el medio interno?",
+     "¿Qué significa homeostasis?",
+     "¿Cuáles son los cuatro pasos con los que se recupera el equilibrio?",
+     "¿Qué ejemplo de tu vida diaria muestra una respuesta del cuerpo a un cambio?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Un sistema abierto intercambia materia y energía con su entorno.",
+     "respuesta": true,
+     "explicacion": "Eso hacen los seres vivos todo el tiempo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un organismo vivo es un sistema cerrado.",
+     "respuesta": false,
+     "explicacion": "Es un sistema abierto: toma alimentos, agua y oxígeno, y devuelve desechos y calor."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Al transpirar, el cuerpo ayuda a bajar su temperatura.",
+     "respuesta": true,
+     "explicacion": "El sudor, al evaporarse, enfría la piel."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La homeostasis ocurre solo cuando hace calor.",
+     "respuesta": false,
+     "explicacion": "Ocurre siempre que algo se aleja de lo normal, sea la temperatura, el agua o la glucosa."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Si cambia el medio interno, el organismo no puede responder.",
+     "respuesta": false,
+     "explicacion": "Puede detectar el cambio y responder para corregirlo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un organismo devuelve al ambiente dióxido de carbono y calor.",
+     "respuesta": true,
+     "explicacion": "También devuelve desechos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué intercambia con el ambiente un sistema abierto?",
+     "opciones": [
+      "Materia y energía",
+      "Únicamente materia",
+      "Únicamente energía",
+      "Ni materia ni energía"
+     ],
+     "correcta": 0,
+     "explicacion": "Un sistema abierto intercambia las dos cosas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es el medio interno?",
+     "opciones": [
+      "El espacio vacío dentro de las células",
+      "La capa de piel que protege al cuerpo",
+      "Los líquidos que bañan a las células",
+      "El conjunto de órganos del cuerpo"
+     ],
+     "correcta": 2,
+     "explicacion": "Es el líquido que rodea a las células y la parte líquida de la sangre."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es el primer paso del ciclo de la homeostasis?",
+     "opciones": [
+      "El organismo responde al cambio",
+      "El valor vuelve a la normalidad",
+      "El organismo detecta el cambio",
+      "Cambia algo en el medio interno"
+     ],
+     "correcta": 3,
+     "explicacion": "Primero cambia algo, después se detecta, se responde y se recupera el equilibrio."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Después de correr te da sed. ¿Qué función cumple esa señal?",
+     "opciones": [
+      "Indica que sobra agua en el cuerpo",
+      "Ayuda a recuperar el agua que se perdió",
+      "Sirve para subir la temperatura",
+      "Muestra que el cuerpo dejó de funcionar"
+     ],
+     "correcta": 1,
+     "explicacion": "Al transpirar perdiste agua, y la sed te empuja a reponerla."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué sale de un organismo hacia el ambiente?",
+     "opciones": [
+      "Alimentos, agua y oxígeno",
+      "Dióxido de carbono y calor",
+      "Únicamente oxígeno",
+      "Únicamente alimentos y oxígeno"
+     ],
+     "correcta": 1,
+     "explicacion": "Entran alimentos, agua y oxígeno; salen dióxido de carbono, desechos y calor."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hace falta para mantener la homeostasis?",
+     "opciones": [
+      "Detectar los cambios y responder a ellos",
+      "Evitar que el medio interno reciba cambios",
+      "Dejar de intercambiar con el ambiente",
+      "Que la temperatura suba siempre"
+     ],
+     "correcta": 0,
+     "explicacion": "El organismo detecta el cambio y responde para volver al equilibrio."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "HOMEOSTASIS",
+     "pista": "Capacidad de mantener estable el medio interno."
+    },
+    {
+     "palabra": "ABIERTO",
+     "pista": "Así se llama el sistema que intercambia materia y energía con su entorno."
+    },
+    {
+     "palabra": "MEDIO INTERNO",
+     "pista": "Líquidos que rodean a las células y parte líquida de la sangre."
+    },
+    {
+     "palabra": "TRANSPIRAR",
+     "pista": "Respuesta del cuerpo cuando sube la temperatura: el sudor enfría la piel."
+    },
+    {
+     "palabra": "EQUILIBRIO",
+     "pista": "Lo que se recupera en el cuarto paso del ciclo."
+    },
+    {
+     "palabra": "ENTORNO",
+     "pista": "El ambiente con el que un sistema abierto intercambia materia y energía."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Una persona pasa mucho tiempo al sol y transpira. ¿Qué ocurre con la homeostasis?",
+     "opciones": [
+      "El cuerpo responde para mantener su temperatura",
+      "El medio interno deja de tener valores normales",
+      "El cuerpo se vuelve un sistema cerrado",
+      "La temperatura sube hasta cualquier valor"
+     ],
+     "correcta": 0,
+     "explicacion": "Al transpirar, el cuerpo responde a un cambio de temperatura para que vuelva a su valor normal."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un organismo puede mantener estable su medio interno aunque el ambiente cambie.",
+     "respuesta": true,
+     "explicacion": "La homeostasis es justamente mantener estable el medio interno cuando el ambiente cambia."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué se dice que un organismo es un sistema abierto?",
+     "opciones": [
+      "Porque intercambia materia y energía con el ambiente",
+      "Porque no necesita alimentos ni oxígeno",
+      "Porque su medio interno nunca cambia",
+      "Porque guarda todo lo que recibe"
+     ],
+     "correcta": 0,
+     "explicacion": "Toma alimentos, agua y oxígeno, y devuelve dióxido de carbono, desechos y calor."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Metabolismo: construir y descomponer",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "Comés un pan y, unas horas después, tenés energía para jugar al fútbol. ¿Qué le pasó a ese alimento dentro de tu cuerpo para convertirse en energía?"
+    },
+    {
+     "t": "texto",
+     "titulo": "Metabolismo: construir y descomponer",
+     "texto": "El **metabolismo** es el conjunto de todas las reacciones químicas que ocurren en las células de un ser vivo. Tiene dos caras. El **catabolismo** descompone moléculas grandes en otras más chicas y libera energía. El **anabolismo** arma moléculas grandes a partir de otras más chicas y gasta energía.\n\nLa energía que libera el catabolismo se guarda en una molécula llamada **ATP**, y de ahí la toma la célula cuando la necesita."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Catabolismo y anabolismo",
+     "columnas": [
+      "",
+      "Catabolismo",
+      "Anabolismo"
+     ],
+     "filas": [
+      [
+       "Qué hace",
+       "Descompone moléculas grandes en otras más chicas",
+       "Arma moléculas grandes a partir de otras más chicas"
+      ],
+      [
+       "Energía",
+       "La libera",
+       "La gasta"
+      ],
+      [
+       "Ejemplos",
+       "Glucólisis y respiración celular",
+       "Biosíntesis de proteínas"
+      ]
+     ]
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Pensalo así: una pila recargable",
+     "texto": "El ATP funciona como una pila recargable. Se \"carga\" cuando se libera energía y se \"descarga\" cuando la célula la usa para armar moléculas o para cualquier otra tarea."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "📰 Elegí el titular: una periodista científica escribe sobre cómo obtienen energía las células. ¿Qué titular es correcto?",
+     "opciones": [
+      "Las células liberan energía al descomponer la glucosa",
+      "Las células crean energía de la nada al armar proteínas",
+      "Las células gastan energía al descomponer la glucosa",
+      "Las células guardan energía al partir las proteínas"
+     ],
+     "correcta": 0,
+     "explicacion": "Al descomponer la glucosa, el catabolismo libera energía. Armar proteínas, en cambio, gasta energía.",
+     "pista": "Fijate en la fila \"Energía\" de la tabla de catabolismo y anabolismo."
+    },
+    {
+     "t": "modelo3d",
+     "modelo": "celula-animal",
+     "titulo": "Una célula por dentro",
+     "consigna": "Las reacciones del metabolismo ocurren en distintas partes de la célula. Girá el modelo, acercate y tocá cada parte para saber qué es y qué hace.",
+     "alt": "Modelo 3D de una célula animal. Tiene una membrana que la rodea, un núcleo grande con un centro más oscuro, cinco mitocondrias alargadas de color naranja, un retículo rugoso formado por placas apiladas junto al núcleo y muchos puntos pequeños que son los ribosomas.",
+     "partes": [
+      {
+       "id": "membrana",
+       "nombre": "Membrana",
+       "texto": "Rodea la célula y controla qué entra y qué sale. Está formada sobre todo por **lípidos** y **proteínas**."
+      },
+      {
+       "id": "nucleo",
+       "nombre": "Núcleo",
+       "texto": "Guarda el **ADN**, que contiene la información para fabricar las proteínas."
+      },
+      {
+       "id": "ribosomas",
+       "nombre": "Ribosomas",
+       "texto": "Son los puntos pequeños donde se fabrican las **proteínas**, siguiendo las instrucciones que lleva el **ARN**."
+      },
+      {
+       "id": "reticulo",
+       "nombre": "Retículo rugoso",
+       "texto": "Son membranas apiladas con ribosomas pegados. Las proteínas que se fabrican ahí se envían después a otras partes de la célula o hacia afuera."
+      },
+      {
+       "id": "mitocondria",
+       "nombre": "Mitocondria",
+       "texto": "Ahí se completa la **respiración celular**, que libera la energía de la glucosa y la guarda en ATP."
+      }
+     ],
+     "tarea": {
+      "consigna": "Buscá en el modelo la estructura donde se completa la respiración celular y tocala.",
+      "correcta": "mitocondria",
+      "explicacion": "En las mitocondrias se completa la respiración celular y se libera mucha energía.",
+      "pistas": [
+       "Volvé a explorar: cada parte del modelo explica qué hace. Fijate cuál menciona la respiración celular.",
+       "Son las estructuras alargadas de color naranja."
+      ]
+     },
+     "pie": "Modelo 3D elaborado para esta clase. Es una representación simplificada: los tamaños y las posiciones no son reales."
+    },
+    {
+     "t": "pasos",
+     "titulo": "De la glucosa a la energía",
+     "pasos": [
+      {
+       "titulo": "Entra la glucosa",
+       "texto": "La glucosa llega a la célula desde la sangre."
+      },
+      {
+       "titulo": "Glucólisis",
+       "texto": "En el citoplasma, la glucosa se parte en moléculas más chicas. Se libera un poco de energía y se guarda en ATP."
+      },
+      {
+       "titulo": "Respiración celular",
+       "texto": "Con oxígeno, esas moléculas se terminan de descomponer en las mitocondrias. Se libera mucha más energía, también guardada en ATP, y se producen dióxido de carbono y agua."
+      },
+      {
+       "titulo": "Se usa la energía",
+       "texto": "El ATP aporta la energía para las tareas de la célula, como armar proteínas."
+      }
+     ]
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Completá el dato",
+     "consigna": "¿Cómo se llama la molécula donde las células guardan la energía que libera el catabolismo?",
+     "respuesta": "ATP",
+     "acepta": [
+      "ATP",
+      "el ATP",
+      "a t p"
+     ],
+     "formato": "Escribí la sigla de tres letras.",
+     "explicacion": "El ATP funciona como una pila recargable: se carga con la energía del catabolismo y se descarga cuando la célula la usa.",
+     "pista1": "Es la molécula que se compara con una pila recargable.",
+     "relee": "Releé el texto Metabolismo: construir y descomponer y el ejemplo de la pila recargable."
+    },
+    {
+     "t": "texto",
+     "titulo": "Biosíntesis de proteínas: un ejemplo de anabolismo",
+     "texto": "Las células también construyen. La información para fabricar una proteína está en el ADN, que se queda en el núcleo. Primero se copia en una molécula de ARN (**transcripción**). Ese ARN sale al citoplasma y llega a un **ribosoma**, que une aminoácidos en el orden que indica el ARN (**traducción**). El resultado es una proteína nueva.\n\nEs posible que ya lo hayas visto. Acá lo mirás como parte del metabolismo: se arma una molécula grande (la proteína) a partir de otras más chicas (los aminoácidos) y se gasta energía."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los pasos con los que una célula fabrica una proteína.",
+     "items": [
+      "El ADN queda en el núcleo",
+      "La información se copia en ARN",
+      "El ARN sale al citoplasma",
+      "El ribosoma une los aminoácidos",
+      "Queda armada la proteína"
+     ],
+     "explicacion": "Primero se copia la información del ADN en ARN (transcripción); después el ribosoma la lee y une los aminoácidos (traducción).",
+     "pista": "Releé el texto Biosíntesis de proteínas: los pasos aparecen en el orden en que ocurren."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Tres procesos del metabolismo",
+     "columnas": [
+      "",
+      "Dónde ocurre",
+      "Qué pasa con la energía",
+      "Tipo"
+     ],
+     "filas": [
+      [
+       "Glucólisis",
+       "Citoplasma",
+       "Libera un poco de energía",
+       "Catabolismo"
+      ],
+      [
+       "Respiración celular",
+       "Mitocondrias",
+       "Libera mucha más energía",
+       "Catabolismo"
+      ],
+      [
+       "Biosíntesis de proteínas",
+       "Ribosomas",
+       "Gasta energía",
+       "Anabolismo"
+      ]
+     ]
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cada proceso es catabolismo o anabolismo? Si no te acordás, mirá la tabla de arriba.",
+     "categorias": [
+      "Catabolismo",
+      "Anabolismo"
+     ],
+     "items": [
+      {
+       "texto": "Glucólisis",
+       "cat": "Catabolismo"
+      },
+      {
+       "texto": "Respiración celular",
+       "cat": "Catabolismo"
+      },
+      {
+       "texto": "Biosíntesis de proteínas",
+       "cat": "Anabolismo"
+      },
+      {
+       "texto": "Descomponer la glucosa para liberar energía",
+       "cat": "Catabolismo"
+      },
+      {
+       "texto": "Unir aminoácidos para armar una proteína",
+       "cat": "Anabolismo"
+      }
+     ],
+     "explicacion": "El catabolismo descompone y libera energía; el anabolismo construye y la gasta.",
+     "pista": "Preguntate si el proceso descompone una molécula o arma una más grande."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "El **metabolismo** reúne dos tipos de reacciones. El **catabolismo** descompone y libera energía; el **anabolismo** construye y gasta energía. La energía se guarda en el **ATP**. La glucólisis y la respiración celular son catabolismo, y la biosíntesis de proteínas es anabolismo."
+    },
+    {
+     "t": "esquema",
+     "_imagen": true,
+     "consigna": "Completá el esquema de los tres procesos: ubicá cada etiqueta en su casillero. Si no te acordás, mirá la tabla de arriba.",
+     "imagen": {
+      "src": "img/clases/bio-4-01-procesos.svg",
+      "tipo": "grafico",
+      "alt": "Esquema con tres filas, una por cada proceso: glucólisis, respiración celular y biosíntesis de proteínas. Cada fila tiene dos casilleros vacíos: \"Dónde ocurre\" y \"Qué pasa con la energía\".",
+      "epigrafe": "Esquema elaborado para esta clase.",
+      "src_movil": "img/clases/bio-4-01-procesos-movil.svg"
+     },
+     "huecos": [
+      {
+       "x": 29.0,
+       "y": 15.2,
+       "w": 31.0,
+       "h": 13.2,
+       "respuesta": "Citoplasma",
+       "movil": {
+        "x": 7.69,
+        "y": 12.5,
+        "w": 84.62,
+        "h": 6.25
+       }
+      },
+      {
+       "x": 63.0,
+       "y": 15.2,
+       "w": 31.0,
+       "h": 13.2,
+       "respuesta": "Libera un poco de energía",
+       "movil": {
+        "x": 7.69,
+        "y": 23.0,
+        "w": 84.62,
+        "h": 6.25
+       }
+      },
+      {
+       "x": 29.0,
+       "y": 46.8,
+       "w": 31.0,
+       "h": 13.2,
+       "respuesta": "Mitocondrias",
+       "movil": {
+        "x": 7.69,
+        "y": 45.25,
+        "w": 84.62,
+        "h": 6.25
+       }
+      },
+      {
+       "x": 63.0,
+       "y": 46.8,
+       "w": 31.0,
+       "h": 13.2,
+       "respuesta": "Libera mucha más energía",
+       "movil": {
+        "x": 7.69,
+        "y": 55.75,
+        "w": 84.62,
+        "h": 6.25
+       }
+      },
+      {
+       "x": 29.0,
+       "y": 78.4,
+       "w": 31.0,
+       "h": 13.2,
+       "respuesta": "Ribosomas",
+       "movil": {
+        "x": 7.69,
+        "y": 78.0,
+        "w": 84.62,
+        "h": 6.25
+       }
+      },
+      {
+       "x": 63.0,
+       "y": 78.4,
+       "w": 31.0,
+       "h": 13.2,
+       "respuesta": "Gasta energía",
+       "movil": {
+        "x": 7.69,
+        "y": 88.5,
+        "w": 84.62,
+        "h": 6.25
+       }
+      }
+     ],
+     "explicacion": "Es la información de la tabla en forma de esquema: cada proceso ocurre en un lugar de la célula y libera o gasta energía.",
+     "pista": "Cada fila del esquema es una fila de la tabla de los tres procesos."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: si el catabolismo libera energía y el anabolismo la gasta, ¿por qué una célula necesita hacer las dos cosas?",
+     "respuesta": "Porque se complementan. El catabolismo consigue la energía y las moléculas chicas que el anabolismo necesita para construir, por ejemplo proteínas para crecer o reparar tejidos. Sin una de las dos, la célula no podría mantenerse viva."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es el metabolismo y en qué se diferencian el catabolismo y el anabolismo. Contá en qué consisten la glucólisis, la respiración celular y la biosíntesis de proteínas.",
+    "guia": [
+     "¿Qué es el metabolismo?",
+     "¿Qué hace el catabolismo y qué pasa con la energía?",
+     "¿Qué hace el anabolismo y qué pasa con la energía?",
+     "¿Dónde ocurre cada uno de los tres procesos y qué logra?",
+     "¿Para qué sirve el ATP?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El catabolismo descompone moléculas grandes y libera energía.",
+     "respuesta": true,
+     "explicacion": "Es la parte del metabolismo que obtiene energía."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El anabolismo libera energía al descomponer moléculas.",
+     "respuesta": false,
+     "explicacion": "Es al revés: el anabolismo construye moléculas y gasta energía."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La glucólisis ocurre en el citoplasma.",
+     "respuesta": true,
+     "explicacion": "Ahí la glucosa se parte en moléculas más chicas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La respiración celular se completa en los ribosomas.",
+     "respuesta": false,
+     "explicacion": "Se completa en las mitocondrias. Los ribosomas arman proteínas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El ATP guarda la energía que libera el catabolismo.",
+     "respuesta": true,
+     "explicacion": "Funciona como una pila recargable."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La biosíntesis de proteínas es un ejemplo de catabolismo.",
+     "respuesta": false,
+     "explicacion": "Es un ejemplo de anabolismo: arma una molécula grande a partir de aminoácidos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es el metabolismo?",
+     "opciones": [
+      "Las reacciones químicas de las células",
+      "Los alimentos que come un organismo",
+      "La temperatura que tiene el cuerpo",
+      "Los líquidos que rodean a las células"
+     ],
+     "correcta": 0,
+     "explicacion": "Es el conjunto de todas las reacciones químicas que ocurren en las células."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué pasa con la energía en el anabolismo?",
+     "opciones": [
+      "Se libera por completo",
+      "Se gasta al construir",
+      "Se convierte en agua",
+      "Queda sin cambios"
+     ],
+     "correcta": 1,
+     "explicacion": "Armar moléculas grandes cuesta energía."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde se arman las proteínas?",
+     "opciones": [
+      "En la membrana",
+      "En el núcleo",
+      "En los ribosomas",
+      "En las mitocondrias"
+     ],
+     "correcta": 2,
+     "explicacion": "El ribosoma une los aminoácidos en el orden que indica el ARN."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué se produce en la respiración celular, además de energía?",
+     "opciones": [
+      "Aminoácidos y proteínas",
+      "Glucosa y oxígeno",
+      "ADN y ARN",
+      "Dióxido de carbono y agua"
+     ],
+     "correcta": 3,
+     "explicacion": "Con oxígeno, las moléculas se terminan de descomponer y se liberan dióxido de carbono y agua."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos procesos es catabolismo?",
+     "opciones": [
+      "La glucólisis",
+      "La transcripción del ADN",
+      "La traducción en el ribosoma",
+      "La biosíntesis de proteínas"
+     ],
+     "correcta": 0,
+     "explicacion": "La glucólisis descompone la glucosa y libera energía."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué molécula aporta energía para las tareas de la célula?",
+     "opciones": [
+      "El ADN",
+      "El ATP",
+      "El ARN",
+      "El piruvato"
+     ],
+     "correcta": 1,
+     "explicacion": "El ATP se carga con la energía del catabolismo y la entrega cuando la célula la necesita."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "METABOLISMO",
+     "pista": "Conjunto de todas las reacciones químicas de las células."
+    },
+    {
+     "palabra": "CATABOLISMO",
+     "pista": "Descompone moléculas grandes y libera energía."
+    },
+    {
+     "palabra": "ANABOLISMO",
+     "pista": "Arma moléculas grandes y gasta energía."
+    },
+    {
+     "palabra": "RIBOSOMA",
+     "pista": "Estructura de la célula donde se arman las proteínas."
+    },
+    {
+     "palabra": "MITOCONDRIA",
+     "pista": "Lugar de la célula donde se completa la respiración celular."
+    },
+    {
+     "palabra": "GLUCÓLISIS",
+     "pista": "Proceso en el citoplasma en el que la glucosa se parte en moléculas más chicas."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Una célula muscular necesita energía para contraerse. ¿Qué proceso le aporta esa energía?",
+     "opciones": [
+      "El catabolismo de la glucosa",
+      "El anabolismo de las proteínas",
+      "La transcripción del ADN",
+      "El intercambio con el medio"
+     ],
+     "correcta": 0,
+     "explicacion": "El catabolismo de la glucosa libera energía que se guarda en ATP y la célula usa."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El catabolismo y el anabolismo se complementan en una misma célula.",
+     "respuesta": true,
+     "explicacion": "El catabolismo consigue energía y moléculas chicas; el anabolismo las usa para construir."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas afirmaciones sobre la respiración celular es correcta?",
+     "opciones": [
+      "Se completa en las mitocondrias y libera mucha energía",
+      "Ocurre en los ribosomas y gasta mucha energía",
+      "Ocurre en el núcleo y arma proteínas nuevas",
+      "Ocurre en el citoplasma y no usa oxígeno"
+     ],
+     "correcta": 0,
+     "explicacion": "Se completa en las mitocondrias, con oxígeno, y libera mucha más energía que la glucólisis."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Bioelemento",
+   "definicion": "Elemento químico que forma parte de los seres vivos. Los principales son carbono, hidrógeno, oxígeno, nitrógeno, fósforo y azufre."
+  },
+  {
+   "palabra": "Biomolécula",
+   "definicion": "Molécula que forma parte de los seres vivos. Puede ser inorgánica (agua y sales minerales) u orgánica (glúcidos, lípidos, proteínas y ácidos nucleicos)."
+  },
+  {
+   "palabra": "Enzima",
+   "definicion": "Proteína que acelera las reacciones químicas de la célula."
+  },
+  {
+   "palabra": "Homeostasis",
+   "definicion": "Capacidad de un organismo de mantener estable su medio interno aunque el ambiente cambie."
+  },
+  {
+   "palabra": "Metabolismo",
+   "definicion": "Conjunto de todas las reacciones químicas que ocurren en las células."
+  },
+  {
+   "palabra": "Catabolismo",
+   "definicion": "Reacciones que descomponen moléculas grandes en otras más chicas y liberan energía."
+  },
+  {
+   "palabra": "Anabolismo",
+   "definicion": "Reacciones que arman moléculas grandes a partir de otras más chicas y gastan energía."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "El agua y las sales minerales son biomoléculas orgánicas.",
+   "aclaracion": "Son inorgánicas. Las orgánicas tienen carbono: son los glúcidos, los lípidos, las proteínas y los ácidos nucleicos."
+  },
+  {
+   "error": "La homeostasis es que el medio interno no cambia nunca.",
+   "aclaracion": "El medio interno cambia, pero el organismo detecta el cambio y responde para volver a sus valores normales."
+  },
+  {
+   "error": "El catabolismo gasta energía y el anabolismo la libera.",
+   "aclaracion": "Es al revés: el catabolismo descompone y libera energía, y el anabolismo construye y la gasta."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Los alimentos que comés tienen glúcidos, lípidos y proteínas. ¿Qué creés que tiene que pasar con ellos antes de que tus células puedan usarlos?",
+  "conexion": "Con la clase 2, sobre nutrición, y la clase 3, sobre los sistemas digestivo y respiratorio: ahí vas a ver cómo llegan esos materiales a las células."
+ }
+}

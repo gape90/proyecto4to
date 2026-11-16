@@ -1,0 +1,931 @@
+{
+ "id": "mat-4-08",
+ "espacio": "matematica",
+ "eje": "Geometría y medida",
+ "titulo": "Mediciones indirectas: teorema del seno y del coseno",
+ "intro": "Hay distancias que no se pueden medir con una cinta, como el ancho de un río o la altura de un barrilete. Vas a calcularlas a partir de ángulos y de otras distancias, primero en triángulos rectángulos y después en cualquier triángulo, con los teoremas del seno y del coseno.",
+ "objetivos": [
+  "Calcular medidas inaccesibles en triángulos rectángulos usando el seno y el coseno.",
+  "Usar el teorema del seno cuando se conocen dos ángulos y un lado de un triángulo.",
+  "Usar el teorema del coseno cuando se conocen dos lados y el ángulo entre ellos, o los tres lados."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: qué es una medición indirecta, cómo usar seno y coseno en un triángulo rectángulo, los teoremas del seno y del coseno, y cómo elegir cuál usar según los datos.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Medir sin llegar: triángulos rectángulos",
+   "tiempo": "35 a 45 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "¿Qué es una medición indirecta?",
+     "texto": "Una **medición indirecta** es calcular una medida sin medirla directamente: se miden otras cosas más accesibles, como un ángulo y una distancia, y se calcula lo que falta. Para medir ángulos en el terreno con mucha precisión se usa un instrumento llamado **teodolito**."
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/mat-4-08-teodolito.jpg",
+     "tipo": "foto",
+     "animacion": "acercar-izq",
+     "alt": "Fotografía en blanco y negro de un hombre que mira a través de un teodolito montado sobre un trípode, al aire libre.",
+     "epigrafe": "Medición de ángulos con un teodolito, julio de 1968.",
+     "fuente": "Queensland State Archives, vía Wikimedia Commons (dominio público)"
+    },
+    {
+     "t": "destacado",
+     "texto": "En un triángulo rectángulo, si conocés la **hipotenusa** y un ángulo agudo α:\n**cateto opuesto = hipotenusa · sen α**\n**cateto adyacente = hipotenusa · cos α**\nSalen de despejar las definiciones de seno y coseno. Usá la calculadora en modo grados (DEG)."
+    },
+    {
+     "t": "pasos",
+     "titulo": "¿A qué altura vuela un barrilete?",
+     "pasos": [
+      {
+       "titulo": "Identificá el triángulo",
+       "texto": "El hilo mide 50 m y forma un ángulo de 30° con el piso. El hilo es la hipotenusa; la altura es el cateto opuesto a 30°."
+      },
+      {
+       "titulo": "Elegí la razón",
+       "texto": "Opuesto e hipotenusa: se usa el seno. altura = 50 · sen 30°."
+      },
+      {
+       "titulo": "Calculá",
+       "texto": "sen 30° = 0,5, entonces altura = 50 · 0,5 = **25 m**. (Sin contar la altura de la mano que sostiene el hilo.)"
+      }
+     ]
+    },
+    {
+     "t": "verificar",
+     "consigna": "Una escalera de 5 m está apoyada en una pared y forma un ángulo de 60° con el piso. ¿A qué distancia de la pared está el pie de la escalera, en metros?",
+     "respuesta": "2.5",
+     "tolerancia": 1e-06,
+     "explicacion": "La distancia al pie es el cateto adyacente al ángulo de 60°: 5 · cos 60° = 5 · 0,5 = 2,5 m.",
+     "pista1": "Dibujá el triángulo: la escalera es la hipotenusa. ¿La distancia al pie es el cateto opuesto o el adyacente al ángulo del piso?",
+     "pista": "Es el adyacente: usá coseno. cos 60° = 0,5."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "En cada situación se conoce la hipotenusa y el ángulo con el piso. ¿Qué razón usás para calcular lo que se pide?",
+     "categorias": [
+      "Seno",
+      "Coseno"
+     ],
+     "items": [
+      {
+       "texto": "La altura a la que llega una escalera",
+       "cat": "Seno"
+      },
+      {
+       "texto": "La distancia del pie de la escalera a la pared",
+       "cat": "Coseno"
+      },
+      {
+       "texto": "La altura de un barrilete",
+       "cat": "Seno"
+      },
+      {
+       "texto": "Cuánto avanza en horizontal una rampa",
+       "cat": "Coseno"
+      },
+      {
+       "texto": "Cuánto sube una rampa",
+       "cat": "Seno"
+      },
+      {
+       "texto": "La sombra horizontal de un cable tendido",
+       "cat": "Coseno"
+      }
+     ],
+     "explicacion": "Las alturas son el cateto opuesto al ángulo del piso (seno). Las distancias horizontales son el cateto adyacente (coseno).",
+     "pista": "Pensá si lo que se pide está enfrente del ángulo del piso o pegado a él."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "Una rampa de 10 m forma un ángulo de 30° con el piso. ¿Cuánto sube?",
+     "opciones": [
+      "3 m",
+      "5 m",
+      "8,7 m",
+      "10 m"
+     ],
+     "correcta": 1,
+     "explicacion": "Lo que sube es el cateto opuesto: 10 · sen 30° = 10 · 0,5 = 5 m.",
+     "pista": "La rampa es la hipotenusa y lo que sube está enfrente del ángulo de 30°."
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Desafío",
+     "consigna": "Un cable de 20 m va desde el piso hasta la punta de un poste y forma un ángulo de 45° con el piso. ¿Qué altura tiene el poste? Redondeá a 1 decimal.",
+     "respuesta": "14.1",
+     "tolerancia": 0.051,
+     "explicacion": "altura = 20 · sen 45° ≈ 20 · 0,7071 = 14,14… ≈ 14,1 m.",
+     "pista1": "El cable es la hipotenusa y la altura es el cateto opuesto a 45°.",
+     "pista": "Calculá 20 · sen 45° con la calculadora en modo grados."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Si la escalera de 5 m forma un ángulo más grande con el piso, ¿llega más alto o más bajo en la pared?",
+     "respuesta": "Llega más alto. La altura es 5 · sen α, y el seno crece cuando el ángulo se acerca a 90°. Con 90° la escalera estaría parada contra la pared y llegaría a 5 m."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es una medición indirecta y resolvé el problema del barrilete y el de la escalera, con un dibujo de cada triángulo.",
+    "guia": [
+     "¿Qué es una medición indirecta y para qué sirve un teodolito?",
+     "¿Cómo decidís si usar seno o coseno y cuál es la hipotenusa en cada problema?",
+     "¿A qué altura vuela el barrilete?",
+     "¿A qué distancia de la pared está el pie de la escalera?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Una medición indirecta calcula una medida a partir de otras.",
+     "respuesta": true,
+     "explicacion": "Por ejemplo, un ángulo y una distancia."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El teodolito sirve para medir ángulos.",
+     "respuesta": true,
+     "explicacion": "Con mucha precisión."
+    },
+    {
+     "tipo": "vf",
+     "texto": "cateto opuesto = hipotenusa · cos α.",
+     "respuesta": false,
+     "explicacion": "Es hipotenusa · sen α."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un barrilete con 50 m de hilo a 30° vuela a 25 m de altura.",
+     "respuesta": true,
+     "explicacion": "50 · sen 30° = 25."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La distancia horizontal se calcula con el seno del ángulo del piso.",
+     "respuesta": false,
+     "explicacion": "Es el cateto adyacente: se usa el coseno."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Para calcular con sen 30° la calculadora tiene que estar en grados.",
+     "respuesta": true,
+     "explicacion": "En modo DEG."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Una escalera de 4 m forma 60° con el piso. ¿A qué distancia de la pared está su pie?",
+     "opciones": [
+      "2 m",
+      "3,46 m",
+      "4 m",
+      "1 m"
+     ],
+     "correcta": 0,
+     "explicacion": "4 · cos 60° = 2."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Para calcular una altura conociendo la hipotenusa y el ángulo con el piso se usa…",
+     "opciones": [
+      "el coseno",
+      "la suma",
+      "el seno",
+      "la resta"
+     ],
+     "correcta": 2,
+     "explicacion": "La altura es el cateto opuesto."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Una rampa de 8 m a 30° sube…",
+     "opciones": [
+      "4 m",
+      "6,9 m",
+      "8 m",
+      "2 m"
+     ],
+     "correcta": 0,
+     "explicacion": "8 · 0,5 = 4."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué mide un teodolito?",
+     "opciones": [
+      "Distancias",
+      "Pesos",
+      "Temperaturas",
+      "Ángulos"
+     ],
+     "correcta": 3,
+     "explicacion": "Mide ángulos horizontales y verticales."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "cateto adyacente = hipotenusa · …",
+     "opciones": [
+      "sen α",
+      "cos α",
+      "α",
+      "90°"
+     ],
+     "correcta": 1,
+     "explicacion": "Sale de cos α = adyacente / hipotenusa."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Si el ángulo con el piso crece, la escalera llega…",
+     "opciones": [
+      "más bajo",
+      "igual",
+      "más alto",
+      "a 0 m"
+     ],
+     "correcta": 2,
+     "explicacion": "El seno crece hasta 90°."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "INDIRECTA",
+     "pista": "Medición que se calcula a partir de otras medidas."
+    },
+    {
+     "palabra": "TEODOLITO",
+     "pista": "Instrumento para medir ángulos en el terreno."
+    },
+    {
+     "palabra": "ESCALERA",
+     "pista": "Ejemplo: apoyada en la pared, es la hipotenusa."
+    },
+    {
+     "palabra": "BARRILETE",
+     "pista": "Su hilo es la hipotenusa del triángulo."
+    },
+    {
+     "palabra": "GRADOS",
+     "pista": "Modo DEG de la calculadora."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Un hilo de 40 m forma 30° con el piso. ¿A qué altura está la punta?",
+     "opciones": [
+      "34,6 m",
+      "20 m",
+      "40 m",
+      "10 m"
+     ],
+     "correcta": 1,
+     "explicacion": "40 · sen 30° = 20 m."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué razón usás para calcular cuánto avanza en horizontal una rampa?",
+     "opciones": [
+      "El coseno del ángulo con el piso",
+      "El seno del ángulo con el piso",
+      "La suma de los ángulos",
+      "Ninguna razón"
+     ],
+     "correcta": 0,
+     "explicacion": "El avance horizontal es el cateto adyacente."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En un triángulo rectángulo, si conocés la hipotenusa y un ángulo agudo, podés calcular los dos catetos.",
+     "respuesta": true,
+     "explicacion": "Uno con el seno y otro con el coseno."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "El teorema del seno",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Cuando el triángulo no es rectángulo",
+     "texto": "En muchos problemas el triángulo no tiene un ángulo recto. Para esos casos sirve el **teorema del seno**. Se usa la notación de siempre: los lados a, b y c están **enfrente** de los ángulos A, B y C."
+    },
+    {
+     "t": "ecuacion",
+     "titulo": "Teorema del seno",
+     "formula": "a / sen A = b / sen B = c / sen C",
+     "texto": "Cada lado dividido por el seno del ángulo opuesto da siempre lo mismo. Sirve cuando conocés **dos ángulos y un lado**."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Pensalo así: el ancho del río",
+     "texto": "Dos personas están en una orilla, en A y en B, a 100 m de distancia. Del otro lado hay un árbol, C. Con un teodolito miden los ángulos: en A, 60°; en B, 75°. Como los ángulos de un triángulo suman 180°, C = 45°. Para saber la distancia de A al árbol: b / sen 75° = 100 / sen 45°, entonces b = 100 · sen 75° / sen 45° ≈ **136,6 m**."
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/mat-4-08-rio.svg",
+     "src_movil": "img/clases/mat-4-08-rio-movil.svg",
+     "tipo": "grafico",
+     "animacion": "svg",
+     "alt": "Dos puntos, A y B, en una orilla del río, separados por 100 m. Del otro lado hay un árbol, C. Los ángulos son 60° en A, 75° en B y 45° en C.",
+     "epigrafe": "El problema del río, en un dibujo. Esquema elaborado para esta clase."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los pasos para resolver el problema del río.",
+     "items": [
+      "Medir AB y los ángulos en A y en B",
+      "Calcular C = 180° − 60° − 75° = 45°",
+      "Plantear b / sen 75° = 100 / sen 45°",
+      "Despejar b = 100 · sen 75° / sen 45° ≈ 136,6 m"
+     ],
+     "explicacion": "Primero los datos, después el ángulo que falta, después el teorema y al final el despeje.",
+     "pista": "Releé el recuadro \"Pensalo así\" siguiendo el orden de las cuentas."
+    },
+    {
+     "t": "verificar",
+     "consigna": "En un triángulo, a = 10 cm, A = 30° y B = 45°. Calculá b con el teorema del seno y redondeá a 1 decimal.",
+     "respuesta": "14.1",
+     "tolerancia": 0.051,
+     "explicacion": "b / sen 45° = 10 / sen 30°, entonces b = 10 · 0,7071 / 0,5 ≈ 14,1 cm.",
+     "pista1": "Planteá b / sen B = a / sen A con los datos.",
+     "pista": "b = 10 · sen 45° / sen 30°. sen 30° = 0,5 y sen 45° ≈ 0,7071."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "Los ángulos de cualquier triángulo suman 180°.",
+       "v": true,
+       "explicacion": "Por eso, con dos ángulos se conoce el tercero."
+      },
+      {
+       "texto": "El teorema del seno solo sirve en triángulos rectángulos.",
+       "v": false,
+       "explicacion": "Sirve en cualquier triángulo.",
+       "pista": "Mirá el triángulo del río: ¿tiene un ángulo recto?"
+      },
+      {
+       "texto": "En el teorema del seno, cada lado se divide por el seno del ángulo opuesto.",
+       "v": true,
+       "explicacion": "a con A, b con B, c con C."
+      },
+      {
+       "texto": "Enfrente del ángulo más grande está el lado más corto.",
+       "v": false,
+       "explicacion": "Está el lado más largo.",
+       "pista": "En el río, el ángulo de 75° está enfrente del lado de 136,6 m."
+      }
+     ]
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Con cuál de estos datos se puede usar directamente el teorema del seno?",
+     "opciones": [
+      "Los tres lados",
+      "Dos lados y el ángulo entre ellos",
+      "Dos ángulos y un lado",
+      "Solo los tres ángulos"
+     ],
+     "correcta": 2,
+     "explicacion": "Con dos ángulos sale el tercero, y el lado conocido arma la primera razón. Con dos lados y el ángulo entre ellos, o con los tres lados, conviene el teorema del coseno.",
+     "pista": "Releé la ecuación del teorema: ¿qué hace falta para tener una fracción completa?"
+    },
+    {
+     "t": "revelar",
+     "pregunta": "¿Por qué con los tres ángulos solos no alcanza para conocer los lados?",
+     "respuesta": "Porque hay infinitos triángulos con los mismos ángulos, de distintos tamaños: son semejantes. Hace falta conocer al menos un lado para saber el tamaño."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Escribí el teorema del seno, explicá cuándo se usa y resolvé el problema del río con el dibujo y todos los pasos.",
+    "guia": [
+     "¿Qué dice el teorema del seno y qué datos hacen falta para usarlo?",
+     "¿Qué lado va con qué ángulo?",
+     "¿Cuánto mide el ángulo en C?",
+     "¿A qué distancia está el árbol del punto A?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "a / sen A = b / sen B.",
+     "respuesta": true,
+     "explicacion": "Es el teorema del seno."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el río, el ángulo en C es de 45°.",
+     "respuesta": true,
+     "explicacion": "180° − 60° − 75° = 45°."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El teorema del seno necesita un ángulo recto.",
+     "respuesta": false,
+     "explicacion": "Sirve en cualquier triángulo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El lado a está enfrente del ángulo A.",
+     "respuesta": true,
+     "explicacion": "Es la notación de siempre."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Con los tres ángulos se conocen los tres lados.",
+     "respuesta": false,
+     "explicacion": "Hace falta al menos un lado."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Enfrente del ángulo más grande está el lado más largo.",
+     "respuesta": true,
+     "explicacion": "Por eso en el río b es el lado mayor."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Si A = 50° y B = 70°, C vale…",
+     "opciones": [
+      "120°",
+      "60°",
+      "40°",
+      "90°"
+     ],
+     "correcta": 1,
+     "explicacion": "180° − 50° − 70° = 60°."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "El teorema del seno conviene cuando se conocen…",
+     "opciones": [
+      "dos ángulos y un lado",
+      "los tres lados",
+      "solo un ángulo",
+      "solo un lado"
+     ],
+     "correcta": 0,
+     "explicacion": "Así se arma una razón completa."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En a / sen A = b / sen B, si a = 10, A = 30° y B = 30°, b vale…",
+     "opciones": [
+      "5",
+      "20",
+      "15",
+      "10"
+     ],
+     "correcta": 3,
+     "explicacion": "Los ángulos son iguales: los lados también."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En el río, la distancia de A al árbol es aproximadamente…",
+     "opciones": [
+      "100 m",
+      "136,6 m",
+      "75 m",
+      "45 m"
+     ],
+     "correcta": 1,
+     "explicacion": "100 · sen 75° / sen 45° ≈ 136,6."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué ángulo está enfrente del lado c?",
+     "opciones": [
+      "A",
+      "B",
+      "C",
+      "Ninguno"
+     ],
+     "correcta": 2,
+     "explicacion": "Cada lado está enfrente de su ángulo con la misma letra."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Los ángulos de un triángulo suman…",
+     "opciones": [
+      "90°",
+      "360°",
+      "270°",
+      "180°"
+     ],
+     "correcta": 3,
+     "explicacion": "Siempre 180°."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "SENO",
+     "pista": "Teorema: a / sen A = b / sen B = c / sen C."
+    },
+    {
+     "palabra": "OPUESTO",
+     "pista": "Cada lado va con su ángulo ___."
+    },
+    {
+     "palabra": "RÍO",
+     "pista": "Ejemplo: medir su ancho sin cruzarlo."
+    },
+    {
+     "palabra": "TRIÁNGULO",
+     "pista": "Figura cuyos ángulos suman 180°."
+    },
+    {
+     "palabra": "ÁRBOL",
+     "pista": "Punto C del otro lado del río."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "En un triángulo, A = 40°, B = 60° y a = 8. ¿Qué planteo da b?",
+     "opciones": [
+      "b = 8 · sen 40° / sen 60°",
+      "b = 8 · sen 60° / sen 40°",
+      "b = 8 · cos 60°",
+      "b = 8 + 60 − 40"
+     ],
+     "correcta": 1,
+     "explicacion": "b / sen B = a / sen A, entonces b = a · sen B / sen A."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuánto vale C si A = 35° y B = 85°?",
+     "opciones": [
+      "50°",
+      "60°",
+      "120°",
+      "70°"
+     ],
+     "correcta": 1,
+     "explicacion": "180° − 35° − 85° = 60°."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El teorema del seno sirve para calcular distancias inaccesibles, como el ancho de un río.",
+     "respuesta": true,
+     "explicacion": "Con una base medida y dos ángulos."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "El teorema del coseno",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Dos lados y el ángulo entre ellos",
+     "texto": "Si conocés **dos lados y el ángulo que forman**, o los **tres lados**, el teorema del seno no alcanza, porque no hay ninguna fracción completa. Ahí se usa el **teorema del coseno**."
+    },
+    {
+     "t": "ecuacion",
+     "titulo": "Teorema del coseno",
+     "formula": "c² = a² + b² − 2 · a · b · cos C",
+     "texto": "C es el ángulo entre los lados a y b, y c es el lado opuesto a C. Si C = 90°, cos 90° = 0 y queda el teorema de Pitágoras: c² = a² + b²."
+    },
+    {
+     "t": "pasos",
+     "titulo": "Dos caminos que salen del mismo punto",
+     "pasos": [
+      {
+       "titulo": "Los datos",
+       "texto": "Desde un cruce salen dos caminos rectos que forman 60°. Por uno se recorren 3 km; por el otro, 5 km. ¿Qué distancia en línea recta hay entre los dos puntos de llegada?"
+      },
+      {
+       "titulo": "Planteá el teorema",
+       "texto": "c² = 3² + 5² − 2 · 3 · 5 · cos 60° = 9 + 25 − 30 · 0,5 = 19."
+      },
+      {
+       "titulo": "Sacá la raíz",
+       "texto": "c = √19 ≈ **4,36 km**."
+      }
+     ]
+    },
+    {
+     "t": "comparar",
+     "titulo": "¿Qué uso según los datos?",
+     "columnas": [
+      "Datos que conocés",
+      "Qué usar"
+     ],
+     "filas": [
+      [
+       "Triángulo rectángulo: hipotenusa y un ángulo",
+       "Seno y coseno: cateto = hipotenusa · sen α o · cos α"
+      ],
+      [
+       "Dos ángulos y un lado",
+       "Teorema del seno"
+      ],
+      [
+       "Dos lados y el ángulo entre ellos",
+       "Teorema del coseno"
+      ],
+      [
+       "Los tres lados",
+       "Teorema del coseno, para hallar un ángulo"
+      ]
+     ]
+    },
+    {
+     "t": "verificar",
+     "consigna": "Dos lados de un triángulo miden 4 cm y 6 cm, y el ángulo entre ellos es de 60°. ¿Cuánto mide el tercer lado? Redondeá a 2 decimales.",
+     "respuesta": "5.29",
+     "tolerancia": 0.006,
+     "explicacion": "c² = 16 + 36 − 2 · 4 · 6 · 0,5 = 52 − 24 = 28, entonces c = √28 ≈ 5,29 cm.",
+     "pista1": "Usá c² = a² + b² − 2 · a · b · cos C con a = 4, b = 6 y C = 60°.",
+     "pista": "c² = 28. Calculá √28 con la calculadora."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada situación con lo que conviene usar.",
+     "pares": [
+      {
+       "a": "Ancho de un río: base de 80 m y dos ángulos",
+       "b": "Teorema del seno"
+      },
+      {
+       "a": "Distancia entre dos barcos: dos distancias y el ángulo entre ellas",
+       "b": "Teorema del coseno"
+      },
+      {
+       "a": "Altura de una escalera: largo y ángulo con el piso",
+       "b": "Seno en el triángulo rectángulo"
+      },
+      {
+       "a": "Ángulo de un terreno triangular del que se conocen los tres lados",
+       "b": "Teorema del coseno, despejando el coseno"
+      }
+     ],
+     "explicacion": "Es lo que dice la tabla de arriba: la elección depende de qué datos conocés.",
+     "pista": "Para cada situación, anotá qué datos tenés y buscá esa fila en la tabla."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "Si C = 90°, el teorema del coseno se convierte en Pitágoras.",
+       "v": true,
+       "explicacion": "cos 90° = 0 y se anula el último término."
+      },
+      {
+       "texto": "En c² = a² + b² − 2ab cos C, el ángulo C está entre los lados a y b.",
+       "v": true,
+       "explicacion": "Y c es el lado opuesto a C."
+      },
+      {
+       "texto": "Con los tres lados de un triángulo no se puede calcular ningún ángulo.",
+       "v": false,
+       "explicacion": "Con el teorema del coseno se despeja cos C y se obtiene C.",
+       "pista": "Mirá la última fila de la tabla."
+      },
+      {
+       "texto": "En el problema de los caminos, la distancia es 8 km porque 3 + 5 = 8.",
+       "v": false,
+       "explicacion": "Los caminos no están alineados: la distancia es √19 ≈ 4,36 km.",
+       "pista": "Releé el paso a paso."
+      }
+     ]
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Desafío",
+     "consigna": "Un triángulo tiene lados de 5, 7 y 8 cm. ¿Cuánto mide, en grados, el ángulo opuesto al lado de 7 cm?",
+     "respuesta": "60",
+     "explicacion": "7² = 5² + 8² − 2 · 5 · 8 · cos C: 49 = 89 − 80 · cos C, entonces cos C = 40 / 80 = 0,5 y C = 60°.",
+     "pista1": "Usá el teorema con c = 7, a = 5 y b = 8, y despejá cos C.",
+     "pista": "Te queda 80 · cos C = 40. ¿Qué ángulo tiene coseno 0,5?"
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Si en el problema de los caminos el ángulo fuera de 90° en lugar de 60°, ¿la distancia sería mayor o menor que 4,36 km?",
+     "respuesta": "Mayor. Con 90°, por Pitágoras, c = √(9 + 25) = √34 ≈ 5,83 km. Cuanto más se abren los caminos, más lejos quedan los puntos de llegada."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Escribí el teorema del coseno, explicá qué relación tiene con Pitágoras y resolvé el problema de los caminos. Copiá la tabla para elegir qué usar según los datos.",
+    "guia": [
+     "¿Qué dice el teorema del coseno y qué ángulo va en la fórmula?",
+     "¿Qué pasa con la fórmula si el ángulo es de 90°?",
+     "¿Qué distancia hay entre los puntos de llegada de los caminos?",
+     "Con la tabla, decidí qué teorema usás cuando conocés dos lados y el ángulo que forman."
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "c² = a² + b² − 2ab · cos C.",
+     "respuesta": true,
+     "explicacion": "Es el teorema del coseno."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Con dos lados y el ángulo entre ellos conviene el teorema del seno.",
+     "respuesta": false,
+     "explicacion": "Conviene el del coseno."
+    },
+    {
+     "tipo": "vf",
+     "texto": "cos 90° = 0.",
+     "respuesta": true,
+     "explicacion": "Por eso aparece Pitágoras."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el problema de los caminos, c² = 19.",
+     "respuesta": true,
+     "explicacion": "9 + 25 − 15 = 19."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El teorema del coseno solo sirve para calcular lados.",
+     "respuesta": false,
+     "explicacion": "También sirve para hallar un ángulo si se conocen los tres lados."
+    },
+    {
+     "tipo": "vf",
+     "texto": "√19 ≈ 4,36.",
+     "respuesta": true,
+     "explicacion": "4,36² ≈ 19."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Con lados 3 y 4 y ángulo de 90° entre ellos, el tercer lado es…",
+     "opciones": [
+      "7",
+      "5",
+      "1",
+      "12"
+     ],
+     "correcta": 1,
+     "explicacion": "Pitágoras: √(9 + 16) = 5."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Si conocés los tres lados, para hallar un ángulo usás…",
+     "opciones": [
+      "el teorema del seno",
+      "la suma de ángulos",
+      "el teorema del coseno",
+      "el perímetro"
+     ],
+     "correcta": 2,
+     "explicacion": "Se despeja cos C."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En c² = a² + b² − 2ab · cos C, el lado c es…",
+     "opciones": [
+      "el opuesto a C",
+      "el más corto",
+      "el adyacente a C",
+      "siempre la hipotenusa"
+     ],
+     "correcta": 0,
+     "explicacion": "Está enfrente del ángulo C."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Lados 2 y 2 con 60° entre ellos: el tercer lado mide…",
+     "opciones": [
+      "4",
+      "√8",
+      "1",
+      "2"
+     ],
+     "correcta": 3,
+     "explicacion": "c² = 4 + 4 − 8 · 0,5 = 4."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Si cos C = 0,5, el ángulo C es…",
+     "opciones": [
+      "30°",
+      "45°",
+      "90°",
+      "60°"
+     ],
+     "correcta": 3,
+     "explicacion": "cos 60° = 0,5."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Con dos ángulos y un lado conviene…",
+     "opciones": [
+      "el teorema del coseno",
+      "el teorema del seno",
+      "Pitágoras",
+      "nada"
+     ],
+     "correcta": 1,
+     "explicacion": "Se arma una razón completa."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "COSENO",
+     "pista": "Teorema: c² = a² + b² − 2ab cos C."
+    },
+    {
+     "palabra": "PITÁGORAS",
+     "pista": "Caso del teorema del coseno con C = 90°."
+    },
+    {
+     "palabra": "CAMINOS",
+     "pista": "Ejemplo: dos que salen del mismo cruce."
+    },
+    {
+     "palabra": "LADOS",
+     "pista": "Con los tres se puede hallar un ángulo."
+    },
+    {
+     "palabra": "DATOS",
+     "pista": "Según cuáles tengas, elegís el teorema."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Dos lados miden 5 y 8, con 60° entre ellos. ¿Cuánto mide el tercero?",
+     "opciones": [
+      "13",
+      "7",
+      "√89",
+      "3"
+     ],
+     "correcta": 1,
+     "explicacion": "c² = 25 + 64 − 80 · 0,5 = 49, c = 7."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué conviene usar si conocés dos ángulos y un lado?",
+     "opciones": [
+      "El teorema del coseno",
+      "Pitágoras",
+      "El teorema del seno",
+      "Solo el seno de 90°"
+     ],
+     "correcta": 2,
+     "explicacion": "Con dos ángulos y un lado se arma una razón completa."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El teorema de Pitágoras es un caso particular del teorema del coseno.",
+     "respuesta": true,
+     "explicacion": "Cuando el ángulo es de 90°."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Medición indirecta",
+   "definicion": "Cálculo de una medida a partir de otras que sí se pueden medir, como ángulos y distancias."
+  },
+  {
+   "palabra": "Teodolito",
+   "definicion": "Instrumento que mide ángulos en el terreno con mucha precisión."
+  },
+  {
+   "palabra": "Teorema del seno",
+   "definicion": "a / sen A = b / sen B = c / sen C. Se usa con dos ángulos y un lado."
+  },
+  {
+   "palabra": "Teorema del coseno",
+   "definicion": "c² = a² + b² − 2ab · cos C. Se usa con dos lados y el ángulo entre ellos, o con los tres lados."
+  },
+  {
+   "palabra": "Lado opuesto",
+   "definicion": "El lado que está enfrente de un ángulo: a enfrente de A, b de B, c de C."
+  },
+  {
+   "palabra": "Suma de ángulos",
+   "definicion": "Los tres ángulos de un triángulo suman siempre 180°."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Los teoremas del seno y del coseno solo sirven en triángulos rectángulos.",
+   "aclaracion": "Sirven en cualquier triángulo. En los rectángulos alcanza con seno y coseno."
+  },
+  {
+   "error": "Si dos caminos miden 3 km y 5 km, sus extremos están a 8 km.",
+   "aclaracion": "Solo si van en línea recta. Si forman un ángulo, se usa el teorema del coseno: con 60°, la distancia es √19 ≈ 4,36 km."
+  },
+  {
+   "error": "Con los tres ángulos de un triángulo ya se pueden calcular sus lados.",
+   "aclaracion": "Hace falta conocer al menos un lado: con los mismos ángulos hay infinitos triángulos semejantes, de distintos tamaños."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Si medís varias veces el ancho del río con el teodolito y te dan valores un poco distintos, ¿cómo podrías saber cuánto varían esas mediciones?",
+  "conexion": "Esto se conecta con la clase \"Medidas de dispersión\"."
+ }
+}

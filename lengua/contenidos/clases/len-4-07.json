@@ -1,0 +1,1092 @@
+{
+ "id": "len-4-07",
+ "espacio": "lengua",
+ "eje": "Lectura y escritura de textos literarios",
+ "titulo": "Mitos y leyendas: de Grecia a América",
+ "intro": "Los pueblos siempre contaron historias para explicar el origen del mundo y de las cosas. En esta clase vas a conocer los mitos y las cosmogonías de Grecia y de América, las leyendas latinoamericanas y cómo, cuando dos culturas se encuentran, se crea algo nuevo: la transculturación.",
+ "objetivos": [
+  "Explicar qué es un mito y comparar dos cosmogonías.",
+  "Distinguir el mito de la leyenda y reconocer cómo se resignifica un relato.",
+  "Explicar qué es la transculturación y dar ejemplos."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés la diferencia entre mito y leyenda, la comparación de dos cosmogonías, el análisis de una leyenda latinoamericana y ejemplos de transculturación.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "El mito y las cosmogonías",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "¿Qué es un mito?",
+     "texto": "Un **mito** es un relato tradicional, muy antiguo, que un pueblo consideraba **sagrado**. Explica cómo se originaron el mundo, los seres humanos, los animales o los fenómenos de la naturaleza. Sus protagonistas son **dioses** y seres sobrenaturales, y transcurre en un tiempo anterior al nuestro, el tiempo de los orígenes.\n\nLos mitos se transmitían **de boca en boca**, de generación en generación, mucho antes de escribirse."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Las cosmogonías",
+     "texto": "Una **cosmogonía** es un mito que cuenta **el origen del universo**: cómo se pasó de la nada, o del desorden, al mundo ordenado que conocemos. Casi todos los pueblos tuvieron la suya, y compararlas muestra cómo cada cultura pensaba su lugar en el mundo."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "La cosmogonía griega",
+     "texto": "Según el poeta griego **Hesíodo**, al principio solo existía el **Caos**, un vacío sin forma. De él surgió **Gea**, la Tierra, que dio origen a **Urano**, el Cielo. De ellos nacieron los **titanes**. Uno de ellos, **Cronos**, se comía a sus hijos para que ninguno le quitara el poder. Su esposa, Rea, escondió al último, **Zeus**, que al crecer venció a Cronos y se convirtió en el rey de los dioses del Olimpo."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "La cosmogonía maya: el Popol Vuh",
+     "texto": "El **Popol Vuh** es el libro sagrado de los mayas quichés, de Guatemala. Cuenta que los dioses quisieron crear seres que los recordaran y los honraran. Primero los hicieron de **barro**, pero se deshacían con el agua. Después los hicieron de **madera**, pero no tenían alma ni memoria, y se olvidaron de sus creadores. Al final los hicieron de **maíz**, y así nacieron los primeros seres humanos: **los hombres de maíz**."
+    },
+    {
+     "t": "esquema",
+     "_imagen": true,
+     "consigna": "Completá el esquema con lo que leíste en el Popol Vuh: ubicá qué pasó con cada intento de los dioses.",
+     "imagen": {
+      "src": "img/clases/len-4-07-popol-vuh.svg",
+      "src_movil": "img/clases/len-4-07-popol-vuh-movil.svg",
+      "tipo": "grafico",
+      "alt": "Esquema de tres filas: barro, madera y maíz, cada una con un casillero vacío para lo que pasó en ese intento.",
+      "epigrafe": "Esquema elaborado para esta clase."
+     },
+     "huecos": [
+      {
+       "x": 49.0,
+       "y": 29.03,
+       "w": 49.0,
+       "h": 18.43,
+       "respuesta": "Se deshacían con el agua",
+       "movil": {
+        "x": 4.0,
+        "y": 28.53,
+        "w": 92.0,
+        "h": 13.46
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 51.15,
+       "w": 49.0,
+       "h": 18.43,
+       "respuesta": "No tenían alma ni memoria",
+       "movil": {
+        "x": 4.0,
+        "y": 55.45,
+        "w": 92.0,
+        "h": 13.46
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 73.27,
+       "w": 49.0,
+       "h": 18.43,
+       "respuesta": "Nacen los primeros seres humanos",
+       "movil": {
+        "x": 4.0,
+        "y": 82.37,
+        "w": 92.0,
+        "h": 13.46
+       }
+      }
+     ],
+     "distractores": [
+      "Volaban como pájaros",
+      "Se convirtieron en dioses"
+     ],
+     "explicacion": "Es el mismo relato del ejemplo, ahora en un esquema. El maíz, el alimento principal de los mayas, es la materia de los seres humanos.",
+     "pista": "Volvé a leer el ejemplo del Popol Vuh: dice qué pasó en cada intento."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Dos cosmogonías",
+     "columnas": [
+      "",
+      "Griega (Hesíodo)",
+      "Maya (Popol Vuh)"
+     ],
+     "filas": [
+      [
+       "Al principio",
+       "El Caos, un vacío sin forma",
+       "Solo estaban los dioses creadores"
+      ],
+      [
+       "Qué cuenta",
+       "El nacimiento de los dioses y la lucha por el poder",
+       "Los intentos de los dioses para crear seres humanos"
+      ],
+      [
+       "Qué muestra de su cultura",
+       "La importancia del orden y del poder de Zeus",
+       "La importancia del maíz, su alimento principal"
+      ]
+     ]
+    },
+    {
+     "t": "observar",
+     "_imagen": true,
+     "etiqueta": "🔎 Mirá con atención",
+     "consigna": "Mirá la primera página del manuscrito más antiguo que se conserva del Popol Vuh.",
+     "imagen": {
+      "src": "img/clases/len-4-07-popol-vuh.jpg",
+      "tipo": "foto",
+      "animacion": "bajar",
+      "alt": "Fotografía de una página antigua escrita a mano en dos columnas. Arriba, a la derecha, se lee: \"Este es el principio de las antiguas historias aquí en el Quiché\".",
+      "epigrafe": "Primera página del manuscrito del Popol Vuh copiado a comienzos del siglo XVIII por el fraile Francisco Ximénez, en Guatemala. A la izquierda, el texto en lengua quiché; a la derecha, su traducción al español. Se conserva en la Biblioteca Newberry, de Chicago.",
+      "fuente": "Francisco Ximénez (manuscrito), vía Wikimedia Commons (dominio público)."
+     },
+     "preguntas": [
+      {
+       "pregunta": "¿En qué dos lenguas está escrita la página?",
+       "opciones": [
+        "En quiché y en español",
+        "En griego y en español",
+        "Solo en español",
+        "En guaraní y en quechua"
+       ],
+       "correcta": 0,
+       "explicacion": "La columna de la izquierda está en quiché, la lengua maya; la de la derecha es la traducción al español.",
+       "pista": "Mirá la foto y leé el epígrafe."
+      },
+      {
+       "pregunta": "Arriba a la derecha dice: \"Este es el principio de las antiguas historias\". ¿Qué tipo de relato empieza ahí?",
+       "opciones": [
+        "Una cosmogonía",
+        "Una noticia",
+        "Un texto argumentativo",
+        "Un cuento policial"
+       ],
+       "correcta": 0,
+       "explicacion": "El Popol Vuh empieza contando los orígenes: es la cosmogonía de los mayas quichés.",
+       "pista": "Mirá la foto y leé el epígrafe."
+      }
+     ]
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cada elemento pertenece a la cosmogonía griega o a la maya?",
+     "categorias": [
+      "Griega",
+      "Maya"
+     ],
+     "items": [
+      {
+       "texto": "El Caos",
+       "cat": "Griega"
+      },
+      {
+       "texto": "Cronos y Zeus",
+       "cat": "Griega"
+      },
+      {
+       "texto": "El Olimpo",
+       "cat": "Griega"
+      },
+      {
+       "texto": "Los hombres de maíz",
+       "cat": "Maya"
+      },
+      {
+       "texto": "El Popol Vuh",
+       "cat": "Maya"
+      },
+      {
+       "texto": "Seres de barro y de madera",
+       "cat": "Maya"
+      }
+     ],
+     "explicacion": "Las dos explican los orígenes, pero cada una con elementos de su propia cultura."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená la cosmogonía griega, según Hesíodo.",
+     "items": [
+      "Al principio solo existía el Caos",
+      "Surge Gea, la Tierra",
+      "Gea da origen a Urano, el Cielo",
+      "Nacen los titanes, entre ellos Cronos",
+      "Zeus vence a Cronos y reina en el Olimpo"
+     ],
+     "explicacion": "Del vacío inicial al orden de los dioses del Olimpo.",
+     "pista": "Releé el ejemplo de la cosmogonía griega."
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿De qué material están hechos los primeros seres humanos que logran crear los dioses en el Popol Vuh?",
+     "respuesta": "maíz",
+     "explicacion": "Por eso se habla de los hombres de maíz.",
+     "pista": "Está en el ejemplo del Popol Vuh.",
+     "formato": "Escribí solo la palabra.",
+     "acepta": [
+      "maiz",
+      "de maiz",
+      "el maiz"
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué en el Popol Vuh los seres humanos están hechos de maíz y no de otro material?",
+     "respuesta": "Porque el maíz era el alimento principal de los mayas: de él dependía su vida. Que los seres humanos estén hechos de maíz muestra lo importante que era para esa cultura. Los mitos dicen mucho de los pueblos que los crearon."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es un mito y qué es una cosmogonía. Contá con tus palabras la cosmogonía griega y la del Popol Vuh, y compará qué muestra cada una de su cultura. Si con tu docente leyeron otro mito, sumalo a la comparación.",
+    "guia": [
+     "¿Qué explica un mito y quiénes son sus protagonistas?",
+     "¿Cómo se transmitían los mitos?",
+     "¿Qué cuenta la cosmogonía griega?",
+     "¿Qué intentos hacen los dioses en el Popol Vuh?",
+     "¿Qué muestra cada cosmogonía de su cultura?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Un mito es un relato que un pueblo consideraba sagrado.",
+     "respuesta": true,
+     "explicacion": "Explica los orígenes del mundo y de los seres."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los protagonistas de los mitos son personas comunes.",
+     "respuesta": false,
+     "explicacion": "Son dioses y seres sobrenaturales."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la cosmogonía griega, al principio solo existía el Caos.",
+     "respuesta": true,
+     "explicacion": "Según Hesíodo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el Popol Vuh, los seres de madera recordaban siempre a sus creadores.",
+     "respuesta": false,
+     "explicacion": "No tenían alma ni memoria, y se olvidaron de ellos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Zeus venció a Cronos y se convirtió en el rey de los dioses.",
+     "respuesta": true,
+     "explicacion": "Rea lo había escondido."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los mitos se transmitían de boca en boca.",
+     "respuesta": true,
+     "explicacion": "Mucho antes de escribirse."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿De qué pueblo es el Popol Vuh?",
+     "opciones": [
+      "De los mayas quichés",
+      "De los griegos",
+      "De los romanos",
+      "De los aztecas"
+     ],
+     "correcta": 0,
+     "explicacion": "Es su libro sagrado, de Guatemala."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hacía Cronos con sus hijos?",
+     "opciones": [
+      "Se los comía",
+      "Los mandaba a pelear a Troya",
+      "Los convertía en maíz",
+      "Los escondía en una cueva del monte"
+     ],
+     "correcta": 0,
+     "explicacion": "Por eso Rea escondió a Zeus."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué pasaba con los seres de barro?",
+     "opciones": [
+      "Se deshacían con el agua",
+      "Eran perfectos y recordaban a los dioses",
+      "Volaban como pájaros",
+      "Se olvidaban de sus creadores"
+     ],
+     "correcta": 0,
+     "explicacion": "Fue el primer intento de los dioses."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Quién es Gea en la cosmogonía griega?",
+     "opciones": [
+      "La Tierra",
+      "El Cielo",
+      "El mar",
+      "La Luna"
+     ],
+     "correcta": 0,
+     "explicacion": "Urano es el Cielo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué explica un mito?",
+     "opciones": [
+      "El origen del mundo y de los seres",
+      "Una noticia de lo que pasó ayer en el barrio",
+      "Cómo se prepara una receta",
+      "Las reglas de un deporte"
+     ],
+     "correcta": 0,
+     "explicacion": "Es un relato de los orígenes."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Quién contó la cosmogonía griega en un poema?",
+     "opciones": [
+      "Hesíodo",
+      "Sófocles",
+      "Juan Rulfo",
+      "Mariano Azuela"
+     ],
+     "correcta": 0,
+     "explicacion": "Fue un poeta griego."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "MITO",
+     "pista": "Relato sagrado que explica los orígenes."
+    },
+    {
+     "palabra": "COSMOGONÍA",
+     "pista": "Mito sobre el origen del universo."
+    },
+    {
+     "palabra": "CAOS",
+     "pista": "Lo que existía al principio, según los griegos."
+    },
+    {
+     "palabra": "ZEUS",
+     "pista": "Rey de los dioses del Olimpo."
+    },
+    {
+     "palabra": "MAÍZ",
+     "pista": "Material de los primeros seres humanos en el Popol Vuh."
+    },
+    {
+     "palabra": "SAGRADO",
+     "pista": "Digno de respeto religioso."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tienen en común la cosmogonía griega y la del Popol Vuh?",
+     "opciones": [
+      "Las dos explican los orígenes",
+      "Las dos tienen a Zeus como dios",
+      "Las dos son noticias antiguas",
+      "Las dos son de Guatemala"
+     ],
+     "correcta": 0,
+     "explicacion": "Son mitos de los orígenes."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué muestra el Popol Vuh sobre la cultura maya?",
+     "opciones": [
+      "La importancia del maíz",
+      "Que no comían maíz",
+      "Que vivían en Grecia",
+      "Que no creían en dioses"
+     ],
+     "correcta": 0,
+     "explicacion": "Los mitos reflejan a sus pueblos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Comparar cosmogonías muestra cómo cada cultura pensaba su lugar en el mundo.",
+     "respuesta": true,
+     "explicacion": "Por eso es interesante leer mitos de pueblos distintos."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Las leyendas latinoamericanas",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "¿Qué es una leyenda?",
+     "texto": "Una **leyenda** también es un relato tradicional que se transmite de boca en boca, pero se diferencia del mito: transcurre en un **lugar reconocible** (un río, un monte, un pueblo) y sus protagonistas suelen ser **personas**, que viven algo extraordinario o sobrenatural.\n\nLas leyendas explican el origen de una planta, de un animal, de un nombre o de una costumbre de un lugar, y muchas veces dejan una **enseñanza**."
+    },
+    {
+     "t": "comparar",
+     "titulo": "El mito y la leyenda",
+     "columnas": [
+      "",
+      "Mito",
+      "Leyenda"
+     ],
+     "filas": [
+      [
+       "Protagonistas",
+       "Dioses y seres sobrenaturales",
+       "Personas que viven algo extraordinario"
+      ],
+      [
+       "Dónde y cuándo",
+       "En el tiempo de los orígenes",
+       "En un lugar reconocible"
+      ],
+      [
+       "Qué explica",
+       "El origen del mundo y de los seres",
+       "El origen de algo de un lugar: una planta, un nombre, una costumbre"
+      ],
+      [
+       "Cómo circula",
+       "Oral, de generación en generación",
+       "Oral, de generación en generación"
+      ]
+     ]
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Una leyenda guaraní: la yerba mate",
+     "texto": "Cuenta la leyenda que **Yasí**, la Luna, quería conocer la tierra. Una noche bajó con su amiga **Araí**, la nube, transformadas en dos jóvenes. En el monte, un **yaguareté** las atacó, y un anciano que vivía allí las salvó con su flecha. Para agradecerle, Yasí hizo nacer junto a su casa una planta nueva: la **yerba mate**, para que su gente tuviera compañía y fuerza. Desde entonces, el mate se comparte como señal de amistad."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-07-yerba.jpg",
+     "tipo": "foto",
+     "animacion": "subir",
+     "alt": "Fotografía de varios árboles jóvenes de yerba mate, de troncos finos y muchas hojas verdes, plantados sobre tierra rojiza.",
+     "epigrafe": "Plantas de yerba mate en el Jardín Botánico de Buenos Aires. Es un árbol del monte de la región guaraní: sus hojas, secas y molidas, son la yerba del mate.",
+     "fuente": "Foto: Mx. Granger, CC0 (dominio público), vía Wikimedia Commons."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-07-yerba-b.jpg",
+     "tipo": "foto",
+     "animacion": "recorrer-izq",
+     "alt": "Fotografía de cerca de una rama de yerba mate: hojas verdes, duras y brillantes, de borde dentado, y pequeños brotes de flores.",
+     "epigrafe": "Una rama de yerba mate de cerca. Estas son las hojas que se secan y se muelen para hacer la yerba.",
+     "fuente": "Foto: Andrés González, CC BY-SA 4.0, vía Wikimedia Commons."
+    },
+    {
+     "t": "destacado",
+     "titulo": "La resignificación del mito",
+     "texto": "Con el tiempo, los relatos cambian: las leyendas toman elementos de mitos antiguos y les dan un **sentido nuevo**, adaptado a otra época o a otro lugar. Eso se llama **resignificar**. En la leyenda de la yerba mate, por ejemplo, la Luna, una figura muy antigua, explica el origen de una costumbre que hoy sigue viva: compartir el mate."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cada rasgo es propio del mito o de la leyenda?",
+     "categorias": [
+      "Mito",
+      "Leyenda"
+     ],
+     "items": [
+      {
+       "texto": "Sus protagonistas son dioses",
+       "cat": "Mito"
+      },
+      {
+       "texto": "Explica el origen del universo",
+       "cat": "Mito"
+      },
+      {
+       "texto": "Transcurre en el tiempo de los orígenes",
+       "cat": "Mito"
+      },
+      {
+       "texto": "Transcurre en un lugar reconocible, como un monte o un río",
+       "cat": "Leyenda"
+      },
+      {
+       "texto": "Explica el origen de una planta o una costumbre de un lugar",
+       "cat": "Leyenda"
+      },
+      {
+       "texto": "Sus protagonistas suelen ser personas",
+       "cat": "Leyenda"
+      }
+     ],
+     "explicacion": "Los dos son relatos tradicionales y orales, pero el mito habla de los orígenes del mundo y la leyenda, de algo de un lugar."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los hechos de la leyenda de la yerba mate.",
+     "items": [
+      "Yasí quiere conocer la tierra",
+      "Baja con Araí transformadas en jóvenes",
+      "Un yaguareté las ataca en el monte",
+      "Un anciano las salva",
+      "Yasí hace nacer la yerba mate para agradecerle"
+     ],
+     "explicacion": "Así se explica, según la leyenda, el origen de la yerba mate.",
+     "pista": "Releé la leyenda: empieza con el deseo de Yasí y termina con la planta."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "\"Te salvé del yaguareté; no hace falta que me des nada.\" ¿Quién lo diría en la leyenda?",
+     "opciones": [
+      "El anciano del monte",
+      "Yasí, la Luna",
+      "Araí, la Nube",
+      "El yaguareté"
+     ],
+     "correcta": 0,
+     "explicacion": "El anciano salvó a Yasí y Araí con su flecha.",
+     "pista": "Releé la leyenda de la yerba mate.",
+     "etiqueta": "🗣️ ¿Quién lo diría?"
+    },
+    {
+     "t": "verificar",
+     "consigna": "En la leyenda guaraní, ¿cómo se llama la Luna?",
+     "respuesta": "Yasí",
+     "explicacion": "Baja a la tierra con su amiga Araí, la nube.",
+     "pista": "Está al principio de la leyenda.",
+     "formato": "Escribí solo el nombre.",
+     "acepta": [
+      "yasi"
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué la leyenda dice que el mate se comparte como señal de amistad?",
+     "respuesta": "Porque la planta nace como un regalo de agradecimiento. La leyenda le da un sentido a una costumbre que todavía hoy existe: compartir el mate con otras personas. Así, un relato antiguo sigue explicando algo de nuestra vida cotidiana."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Contá con tus palabras una leyenda latinoamericana: la que trabajaste con tu docente o, si no te indicaron ninguna, la de la yerba mate. Explicá por qué es una leyenda y no un mito, y qué origen explica.",
+    "guia": [
+     "¿Cómo se llama la leyenda y de qué pueblo o región es?",
+     "¿Dónde transcurre y quiénes son los protagonistas?",
+     "¿Qué hecho extraordinario ocurre?",
+     "¿Qué origen explica: una planta, un animal, un nombre, una costumbre?",
+     "¿Por qué es una leyenda y no un mito?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Las leyendas transcurren en lugares reconocibles.",
+     "respuesta": true,
+     "explicacion": "Un río, un monte, un pueblo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los protagonistas de las leyendas siempre son dioses.",
+     "respuesta": false,
+     "explicacion": "Suelen ser personas que viven algo extraordinario."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la leyenda, Yasí hace nacer la yerba mate para agradecer.",
+     "respuesta": true,
+     "explicacion": "El anciano las había salvado del yaguareté."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Araí es la nube, amiga de Yasí.",
+     "respuesta": true,
+     "explicacion": "Bajan juntas a la tierra."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Resignificar es repetir un relato sin cambiarle nada.",
+     "respuesta": false,
+     "explicacion": "Es darle un sentido nuevo, adaptado a otra época o lugar."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los mitos y las leyendas se transmitían de manera oral.",
+     "respuesta": true,
+     "explicacion": "De generación en generación."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué animal ataca a Yasí y Araí?",
+     "opciones": [
+      "Un yaguareté",
+      "Un caballo",
+      "Un cóndor",
+      "Un perro"
+     ],
+     "correcta": 0,
+     "explicacion": "En el monte."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿De qué cultura es la leyenda de la yerba mate?",
+     "opciones": [
+      "Guaraní",
+      "Griega",
+      "Maya",
+      "Romana"
+     ],
+     "correcta": 0,
+     "explicacion": "De la región del noreste argentino, Paraguay y el sur de Brasil."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué explica una leyenda?",
+     "opciones": [
+      "El origen de algo de un lugar",
+      "El origen de todo el universo",
+      "Una noticia de lo que pasó ayer",
+      "Cómo se prepara una receta"
+     ],
+     "correcta": 0,
+     "explicacion": "Una planta, un animal, un nombre o una costumbre."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es resignificar un relato?",
+     "opciones": [
+      "Darle un sentido nuevo",
+      "Borrarlo",
+      "Traducirlo palabra por palabra",
+      "Escribirlo en verso"
+     ],
+     "correcta": 0,
+     "explicacion": "Las leyendas resignifican elementos de mitos antiguos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Quién salva a Yasí y Araí?",
+     "opciones": [
+      "Un anciano del monte",
+      "Zeus, desde el Olimpo",
+      "Un cazador de la ciudad",
+      "La propia Luna, Yasí"
+     ],
+     "correcta": 0,
+     "explicacion": "Con su flecha."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué costumbre explica la leyenda de la yerba mate?",
+     "opciones": [
+      "Compartir el mate",
+      "Plantar maíz en la chacra",
+      "Pescar en el río",
+      "Hacer fiestas a Dioniso"
+     ],
+     "correcta": 0,
+     "explicacion": "Una costumbre que sigue viva."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "LEYENDA",
+     "pista": "Relato tradicional que explica algo de un lugar."
+    },
+    {
+     "palabra": "YASÍ",
+     "pista": "La Luna en la leyenda guaraní."
+    },
+    {
+     "palabra": "ARAÍ",
+     "pista": "La nube en la leyenda guaraní."
+    },
+    {
+     "palabra": "YAGUARETÉ",
+     "pista": "Animal que ataca a Yasí y Araí."
+    },
+    {
+     "palabra": "RESIGNIFICAR",
+     "pista": "Darle un sentido nuevo a un relato."
+    },
+    {
+     "palabra": "GUARANÍ",
+     "pista": "Pueblo de la leyenda de la yerba mate."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Un relato cuenta que un río de tu provincia se formó con las lágrimas de una joven. ¿Es un mito o una leyenda?",
+     "opciones": [
+      "Una leyenda",
+      "Un mito cosmogónico",
+      "Una crónica periodística",
+      "Una tragedia griega"
+     ],
+     "correcta": 0,
+     "explicacion": "Transcurre en un lugar reconocible."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué la leyenda de la yerba mate resignifica un elemento antiguo?",
+     "opciones": [
+      "Porque usa a la Luna para explicar algo de hoy",
+      "Porque es una noticia sobre la cosecha de yerba mate",
+      "Porque no tiene ningún personaje",
+      "Porque transcurre en la antigua Grecia"
+     ],
+     "correcta": 0,
+     "explicacion": "Le da un sentido nuevo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los mitos y las leyendas dicen mucho de los pueblos que los crearon.",
+     "respuesta": true,
+     "explicacion": "Muestran sus creencias, sus costumbres y su lugar."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "La transculturación",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Cuando dos culturas se encuentran",
+     "texto": "Cuando dos culturas entran en contacto, ninguna de las dos queda igual: las dos **se transforman** y aparece algo **nuevo**, que no es exactamente ni una ni la otra. A ese proceso se lo llama **transculturación**.\n\nEn América Latina pasó con el encuentro entre las culturas de los pueblos originarios, las europeas y las africanas, y sigue pasando hoy con las migraciones. Se ve en la lengua, en las comidas, en la música, en las fiestas y también en la literatura."
+    },
+    {
+     "t": "destacado",
+     "titulo": "La transculturación en la lengua",
+     "texto": "El español que hablamos en la Argentina tiene muchas palabras que vienen de **lenguas originarias**. Por ejemplo, del **quechua**: **choclo**, **mate**, **cancha**, **pampa**; del **guaraní**: **ananá**, **yaguareté**, **tapera**, **ñandú**. Las usamos todos los días sin pensar que vienen de otras culturas."
+    },
+    {
+     "t": "dato",
+     "titulo": "Un escritor de dos lenguas: Augusto Roa Bastos",
+     "texto": "**Augusto Roa Bastos** (Paraguay, 1917-2005) creció en un país donde se hablan dos lenguas: el **español** y el **guaraní**. En sus obras, como la novela _Hijo de hombre_ (1960), mezcla las dos lenguas y muestra cómo la gente de su tierra vive las creencias y las costumbres a su manera, uniendo lo que viene de distintas culturas. Por eso se lo considera un ejemplo de **transculturación** en la literatura."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Transculturación: ejemplos en la vida diaria",
+     "columnas": [
+      "Ámbito",
+      "Qué se mezcla",
+      "Resultado"
+     ],
+     "filas": [
+      [
+       "Lengua",
+       "Palabras del quechua y del guaraní con el español",
+       "Choclo, mate, ananá, ñandú"
+      ],
+      [
+       "Costumbres",
+       "Una planta del monte guaraní y un hábito que se extendió",
+       "El mate que se comparte en todo el país"
+      ],
+      [
+       "Literatura",
+       "El español y el guaraní, creencias de distintas culturas",
+       "Obras como las de Roa Bastos"
+      ]
+     ]
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-07-mates.jpg",
+     "tipo": "foto",
+     "animacion": "acercar",
+     "alt": "Fotografía de tres mates de calabaza con bombillas de metal, sobre una bandeja plateada.",
+     "epigrafe": "Mates de calabaza con bombilla en la vidriera de un negocio de Buenos Aires: una costumbre guaraní que hoy se comparte en todo el país.",
+     "fuente": "Foto: Balou46, CC BY-SA 4.0, vía Wikimedia Commons (recortada)."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada palabra con la lengua originaria de la que viene.",
+     "pares": [
+      {
+       "a": "choclo",
+       "b": "Quechua"
+      },
+      {
+       "a": "ananá",
+       "b": "Guaraní"
+      },
+      {
+       "a": "pampa",
+       "b": "Quechua"
+      },
+      {
+       "a": "ñandú",
+       "b": "Guaraní"
+      }
+     ],
+     "explicacion": "Son palabras que el español tomó de lenguas originarias de América.",
+     "pista": "Releé el recuadro de la transculturación en la lengua.",
+     "_nuevo": true
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "Cuando dos culturas se encuentran, las dos se [[transforman]] y aparece algo [[nuevo]]. Ese proceso se llama [[transculturación]]. Se ve, por ejemplo, en las palabras del [[guaraní]] que usamos en el español, como ananá.",
+     "distractores": [
+      "borran",
+      "igual",
+      "traducción"
+     ],
+     "explicacion": "Así se define la transculturación.",
+     "pista": "Todas las palabras están en los textos de esta parte.",
+     "_nuevo": true
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Cuál de estas afirmaciones sobre la transculturación es incorrecta?",
+     "opciones": [
+      "Una cultura borra a la otra",
+      "Las dos culturas se transforman",
+      "Aparece algo nuevo",
+      "Se ve en palabras como \"choclo\""
+     ],
+     "correcta": 0,
+     "explicacion": "En la transculturación, las dos culturas se transforman y aparece algo nuevo.",
+     "pista": "Releé el primer texto de esta parte.",
+     "etiqueta": "🔍 Encontrá el error"
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Qué lengua, además del español, aparece en las obras de Roa Bastos?",
+     "respuesta": "guaraní",
+     "explicacion": "En Paraguay se hablan las dos lenguas.",
+     "pista": "Está en el recuadro sobre Roa Bastos.",
+     "formato": "Escribí solo la palabra.",
+     "acepta": [
+      "guarani",
+      "el guarani"
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿qué otros ejemplos de transculturación encontrás en tu vida diaria, en la comida, la música o las palabras?",
+     "respuesta": "Por ejemplo, comidas que llegaron con inmigrantes y hoy son de todos, como las pastas o las empanadas con recetas de cada región; músicas que mezclan ritmos de distintos orígenes; o palabras de otras lenguas que usamos sin darnos cuenta. Todo eso es transculturación: culturas que se encontraron y crearon algo nuevo."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es la transculturación y dá ejemplos en la lengua, en las costumbres y en la literatura. Contá por qué Roa Bastos es un ejemplo de transculturación y agregá un ejemplo de tu vida diaria.",
+    "guia": [
+     "¿Qué pasa cuando dos culturas se encuentran?",
+     "¿Qué palabras de lenguas originarias usamos en el español?",
+     "¿Por qué el mate es un ejemplo de transculturación?",
+     "¿Qué mezcla Roa Bastos en sus obras?",
+     "¿Qué ejemplo de transculturación encontrás en tu vida diaria?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "En la transculturación, las dos culturas que se encuentran se transforman.",
+     "respuesta": true,
+     "explicacion": "Y aparece algo nuevo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "\"Choclo\" es una palabra que viene del quechua.",
+     "respuesta": true,
+     "explicacion": "También \"pampa\", \"cancha\" y \"mate\"."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la transculturación, una cultura borra a la otra sin dejar rastros.",
+     "respuesta": false,
+     "explicacion": "Las dos se transforman y aparece algo nuevo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Roa Bastos era un escritor paraguayo.",
+     "respuesta": true,
+     "explicacion": "Creció entre el español y el guaraní."
+    },
+    {
+     "tipo": "vf",
+     "texto": "\"Ananá\" viene del latín.",
+     "respuesta": false,
+     "explicacion": "Viene del guaraní."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La transculturación se ve en la lengua, las comidas, la música y la literatura.",
+     "respuesta": true,
+     "explicacion": "En muchos ámbitos de la vida."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué novela escribió Roa Bastos en 1960?",
+     "opciones": [
+      "Hijo de hombre",
+      "Los de abajo",
+      "La Odisea",
+      "Polvo y espanto"
+     ],
+     "correcta": 0,
+     "explicacion": "Mezcla el español y el guaraní."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿De qué lengua viene \"ñandú\"?",
+     "opciones": [
+      "Del guaraní",
+      "Del griego",
+      "Del inglés",
+      "Del quechua"
+     ],
+     "correcta": 0,
+     "explicacion": "Como \"yaguareté\" y \"tapera\"."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué lenguas se hablan en Paraguay?",
+     "opciones": [
+      "El español y el guaraní",
+      "Solo el inglés",
+      "El griego y el latín",
+      "Solo el quechua"
+     ],
+     "correcta": 0,
+     "explicacion": "Roa Bastos creció entre las dos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas palabras viene del quechua?",
+     "opciones": [
+      "Pampa",
+      "Ananá",
+      "Tapera",
+      "Ñandú"
+     ],
+     "correcta": 0,
+     "explicacion": "Las otras vienen del guaraní."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué resultado tiene la transculturación?",
+     "opciones": [
+      "Algo nuevo",
+      "Una sola cultura igual a la anterior",
+      "La desaparición de las dos culturas",
+      "Una copia exacta de la cultura europea"
+     ],
+     "correcta": 0,
+     "explicacion": "Es una mezcla creativa."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es un ejemplo de transculturación en las costumbres?",
+     "opciones": [
+      "El mate que se comparte",
+      "Un río de la provincia de Misiones",
+      "Una montaña del norte",
+      "Un número de teléfono"
+     ],
+     "correcta": 0,
+     "explicacion": "Una costumbre guaraní que se extendió."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "TRANSCULTURACIÓN",
+     "pista": "Proceso en que culturas en contacto se transforman y crean algo nuevo."
+    },
+    {
+     "palabra": "QUECHUA",
+     "pista": "Lengua originaria de la que viene \"choclo\"."
+    },
+    {
+     "palabra": "ROA",
+     "pista": "Apellido del escritor paraguayo Augusto ___ Bastos."
+    },
+    {
+     "palabra": "ORIGINARIA",
+     "pista": "Lengua ___: la de los pueblos que vivían en América antes de la llegada de los europeos."
+    },
+    {
+     "palabra": "ANANÁ",
+     "pista": "Fruta cuyo nombre viene del guaraní."
+    },
+    {
+     "palabra": "CULTURA",
+     "pista": "Modo de vida, creencias y costumbres de un pueblo."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué decir \"choclo\" y \"ananá\" es un ejemplo de transculturación?",
+     "opciones": [
+      "Porque vienen de lenguas originarias",
+      "Porque son palabras que vienen del griego",
+      "Porque son palabras inventadas hace poco",
+      "Porque son palabras del inglés"
+     ],
+     "correcta": 0,
+     "explicacion": "La lengua muestra el encuentro de culturas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tienen en común las leyendas guaraníes y las obras de Roa Bastos?",
+     "opciones": [
+      "Las dos muestran la cultura guaraní",
+      "Las dos son tragedias griegas con coro",
+      "Las dos están escritas en latín",
+      "Las dos son crónicas periodísticas"
+     ],
+     "correcta": 0,
+     "explicacion": "La cultura guaraní está viva en la literatura."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La transculturación sigue pasando hoy, por ejemplo con las migraciones.",
+     "respuesta": true,
+     "explicacion": "Es un proceso que no terminó."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Mito",
+   "definicion": "Relato tradicional y sagrado que explica los orígenes, con dioses como protagonistas."
+  },
+  {
+   "palabra": "Cosmogonía",
+   "definicion": "Mito que cuenta el origen del universo."
+  },
+  {
+   "palabra": "Leyenda",
+   "definicion": "Relato tradicional que explica el origen de algo de un lugar, con personas como protagonistas."
+  },
+  {
+   "palabra": "Resignificar",
+   "definicion": "Darle un sentido nuevo a un relato."
+  },
+  {
+   "palabra": "Transculturación",
+   "definicion": "Proceso en el que culturas en contacto se transforman y crean algo nuevo."
+  },
+  {
+   "palabra": "Lengua originaria",
+   "definicion": "Lengua de los pueblos que vivían en América antes de la llegada de los europeos."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Usar \"mito\" y \"leyenda\" como si fueran lo mismo.",
+   "aclaracion": "El mito explica los orígenes con dioses; la leyenda, algo de un lugar con personas."
+  },
+  {
+   "error": "Pensar que la transculturación es que una cultura reemplace a otra.",
+   "aclaracion": "Las dos se transforman y surge algo nuevo."
+  },
+  {
+   "error": "Creer que los mitos son \"mentiras\".",
+   "aclaracion": "Son relatos sagrados que muestran cómo un pueblo entendía el mundo."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "¿Conocés alguna leyenda de tu región o de tu familia? ¿Qué origen explica?",
+  "conexion": "Con la clase de la épica: los dioses griegos de la cosmogonía son los mismos que intervienen en las aventuras de Odiseo."
+ }
+}

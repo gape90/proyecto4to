@@ -1,0 +1,131 @@
+{
+  "version": "piloto-1",
+  "fuente": "Diseño Curricular de Educación Secundaria Orientada, Santa Fe (Res. 2630/14, Anexo III), Ciclo Orientado, 4.º año.",
+  "espacios": [
+    {
+      "id": "historia",
+      "nombre": "Historia",
+      "habilitado": true,
+      "modalidades": [
+        "orientada",
+        "tecnica"
+      ]
+    }
+  ],
+  "contenidos": {
+    "historia": [
+      {
+        "id": "h1",
+        "eje": "Democracia ampliada y primera posguerra",
+        "titulo": "Los gobiernos radicales (1916-1930)",
+        "activo": true,
+        "clase": "his-4-01",
+        "desglose": [
+          "Ley Sáenz Peña y ampliación de la participación política",
+          "Los sectores medios y la UCR",
+          "Yrigoyen y Alvear",
+          "El contexto de la Primera Guerra Mundial"
+        ]
+      },
+      {
+        "id": "h2",
+        "eje": "Democracia ampliada y primera posguerra",
+        "titulo": "Los nacionalismos del período de entreguerras",
+        "activo": true,
+        "clase": "his-4-02",
+        "desglose": [
+          "Nacionalismos europeos del período",
+          "Su proyección en América Latina",
+          "El nacionalismo en la Argentina"
+        ]
+      },
+      {
+        "id": "h3",
+        "eje": "Crisis, Estado e industrialización",
+        "titulo": "La crisis de 1929, la Segunda Guerra y la Argentina",
+        "activo": true,
+        "clase": "his-4-03",
+        "desglose": [
+          "Impacto de la crisis de 1929",
+          "Ruptura de la institucionalidad democrática (1930)",
+          "Cambios en el rol del Estado",
+          "Industrialización sustitutiva de importaciones",
+          "Cambios en el mundo social urbano"
+        ]
+      },
+      {
+        "id": "h4",
+        "eje": "Crisis, Estado e industrialización",
+        "titulo": "El peronismo y los gobiernos populares latinoamericanos",
+        "activo": true,
+        "clase": "his-4-04",
+        "desglose": [
+          "Movilización de los sectores subalternos",
+          "El empresariado industrial y el rol del Estado",
+          "Planificación de la economía",
+          "Democracia de masas"
+        ]
+      },
+      {
+        "id": "h5",
+        "eje": "Crisis, Estado e industrialización",
+        "titulo": "Disputas por la distribución de la riqueza (1930-1955)",
+        "activo": true,
+        "clase": "his-4-05",
+        "desglose": [
+          "Sectores empresariales y movimiento obrero",
+          "Mecanismos de intervención estatal"
+        ]
+      },
+      {
+        "id": "h6",
+        "eje": "El mundo de la posguerra",
+        "titulo": "Tercer Mundo, No Alineados y Revolución Cubana",
+        "activo": true,
+        "clase": "his-4-06",
+        "desglose": [
+          "El Tercer Mundo y el Movimiento de los No Alineados",
+          "Norte desarrollado y sur subdesarrollado",
+          "Impacto de la Revolución Cubana en América Latina"
+        ]
+      },
+      {
+        "id": "h7",
+        "eje": "Inestabilidad y dictadura",
+        "titulo": "Inestabilidad política y económica (1955-1983)",
+        "activo": true,
+        "clase": "his-4-07",
+        "desglose": [
+          "Proscripción del peronismo y golpes de Estado",
+          "Onganía, el Cordobazo y la violencia política",
+          "La última dictadura y el terrorismo de Estado",
+          "La vuelta de la democracia"
+        ]
+      },
+      {
+        "id": "h8",
+        "eje": "Neoliberalismo y después",
+        "titulo": "El modelo neoliberal en la Argentina y América Latina",
+        "activo": true,
+        "clase": "his-4-08",
+        "desglose": [
+          "Qué es el neoliberalismo",
+          "Neoliberalismo y dictaduras: Chile y la Argentina",
+          "Los años 90: neoliberalismo en democracia"
+        ]
+      },
+      {
+        "id": "h9",
+        "eje": "Neoliberalismo y después",
+        "titulo": "La declinación del modelo neoliberal",
+        "activo": true,
+        "clase": "his-4-09",
+        "desglose": [
+          "La crisis de 2001 y la globalización financiera",
+          "Nuevos actores sociales",
+          "Nuevo rol del Estado e integración regional"
+        ]
+      }
+    ]
+  }
+}

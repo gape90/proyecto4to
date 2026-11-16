@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 540" role="img" aria-label="Tres óvalos, uno dentro de otro: sistema, norma y habla, cada uno con su ejemplo." font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect width="1000" height="540" fill="#fff"/>
+<ellipse cx="500" cy="270" rx="470" ry="250" fill="#EEF0FB" stroke="#4B4FA3" stroke-width="4"/>
+<ellipse cx="500" cy="270" rx="320" ry="160" fill="#EFEAFB" stroke="#5B2A86" stroke-width="4"/>
+<ellipse cx="500" cy="270" rx="160" ry="82" fill="#FBE6F0" stroke="#B83A7A" stroke-width="4"/>
+<text x="500" y="60" font-size="28" font-weight="800" fill="#4B4FA3" text-anchor="middle" >Sistema</text><text x="500" y="88" font-size="22" font-weight="600" fill="#1B1A4A" text-anchor="middle" >las reglas: &quot;caminé&quot;, &quot;saqué&quot;</text>
+<text x="500" y="144" font-size="28" font-weight="800" fill="#5B2A86" text-anchor="middle" >Norma</text><text x="500" y="172" font-size="22" font-weight="600" fill="#1B1A4A" text-anchor="middle" >lo que se usa: &quot;anduve&quot;</text>
+<text x="500" y="262" font-size="28" font-weight="800" fill="#B83A7A" text-anchor="middle" >Habla</text><text x="500" y="292" font-size="22" font-weight="600" fill="#1B1A4A" text-anchor="middle" >un niño dice &quot;andé&quot;</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 780" role="img" aria-label="Esquema con cuatro tarjetas, una por cada biomolécula orgánica: glúcidos, lípidos, proteínas y ácidos nucleicos. Cada tarjeta tiene dos filas, &quot;Se arma con&quot; y &quot;Función principal&quot;. Seis de esas ocho filas son casilleros vacíos para completar." font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<defs></defs>
+<rect x="0" y="0" width="520" height="780" rx="28" fill="#F7F4FD"/>
+<rect x="20" y="10" width="480" height="184" rx="18" fill="#fff" stroke="#F0731E" stroke-width="4"/>
+<path d="M20 28 a18 18 0 0 1 18 -18 h444 a18 18 0 0 1 18 18 v16 h-480 z" fill="#F0731E"/>
+<text x="260.0" y="33" font-size="22" font-weight="800" fill="#fff" text-anchor="middle">Glúcidos</text>
+<text x="40.0" y="64" font-size="16" font-weight="700" fill="#4A4870" text-anchor="start">Se arma con</text>
+<rect x="40.0" y="72" width="440" height="42" rx="12" fill="#F7F4FD" stroke="#F0731E" stroke-opacity=".35" stroke-width="1.5"/>
+<text x="40.0" y="134" font-size="16" font-weight="700" fill="#4A4870" text-anchor="start">Función principal</text>
+<rect x="40.0" y="142" width="440" height="42" rx="12" fill="#F7F4FD" stroke="#F0731E" stroke-width="2.5" stroke-dasharray="7 6"/>
+<rect x="20" y="202" width="480" height="184" rx="18" fill="#fff" stroke="#E5194F" stroke-width="4"/>
+<path d="M20 220 a18 18 0 0 1 18 -18 h444 a18 18 0 0 1 18 18 v16 h-480 z" fill="#E5194F"/>
+<text x="260.0" y="225" font-size="22" font-weight="800" fill="#fff" text-anchor="middle">Lípidos</text>
+<text x="40.0" y="256" font-size="16" font-weight="700" fill="#4A4870" text-anchor="start">Se arma con</text>
+<rect x="40.0" y="264" width="440" height="42" rx="12" fill="#F7F4FD" stroke="#E5194F" stroke-width="2.5" stroke-dasharray="7 6"/>
+<text x="40.0" y="326" font-size="16" font-weight="700" fill="#4A4870" text-anchor="start">Función principal</text>
+<rect x="40.0" y="334" width="440" height="42" rx="12" fill="#F7F4FD" stroke="#E5194F" stroke-width="2.5" stroke-dasharray="7 6"/>
+<rect x="20" y="394" width="480" height="184" rx="18" fill="#fff" stroke="#B83A7A" stroke-width="4"/>
+<path d="M20 412 a18 18 0 0 1 18 -18 h444 a18 18 0 0 1 18 18 v16 h-480 z" fill="#B83A7A"/>
+<text x="260.0" y="417" font-size="22" font-weight="800" fill="#fff" text-anchor="middle">Proteínas</text>
+<text x="40.0" y="448" font-size="16" font-weight="700" fill="#4A4870" text-anchor="start">Se arma con</text>
+<rect x="40.0" y="456" width="440" height="42" rx="12" fill="#F7F4FD" stroke="#B83A7A" stroke-width="2.5" stroke-dasharray="7 6"/>
+<text x="40.0" y="518" font-size="16" font-weight="700" fill="#4A4870" text-anchor="start">Función principal</text>
+<rect x="40.0" y="526" width="440" height="42" rx="12" fill="#F7F4FD" stroke="#B83A7A" stroke-width="2.5" stroke-dasharray="7 6"/>
+<rect x="20" y="586" width="480" height="184" rx="18" fill="#fff" stroke="#4B4FA3" stroke-width="4"/>
+<path d="M20 604 a18 18 0 0 1 18 -18 h444 a18 18 0 0 1 18 18 v16 h-480 z" fill="#4B4FA3"/>
+<text x="260.0" y="609" font-size="22" font-weight="800" fill="#fff" text-anchor="middle">Ácidos nucleicos</text>
+<text x="40.0" y="640" font-size="16" font-weight="700" fill="#4A4870" text-anchor="start">Se arma con</text>
+<rect x="40.0" y="648" width="440" height="42" rx="12" fill="#F7F4FD" stroke="#4B4FA3" stroke-width="2.5" stroke-dasharray="7 6"/>
+<text x="40.0" y="710" font-size="16" font-weight="700" fill="#4A4870" text-anchor="start">Función principal</text>
+<rect x="40.0" y="718" width="440" height="42" rx="12" fill="#F7F4FD" stroke="#4B4FA3" stroke-opacity=".35" stroke-width="1.5"/>
+</svg>

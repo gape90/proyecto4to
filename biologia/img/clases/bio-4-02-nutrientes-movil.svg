@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 760" role="img" aria-label="Esquema con tres tarjetas, una por cada grupo de nutrientes según su función: energéticos, estructurales y reguladores. Cada tarjeta tiene dos casilleros vacíos: &quot;Qué nutrientes son&quot; y &quot;Para qué sirven&quot;." font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<defs></defs>
+<rect x="0" y="0" width="520" height="760" rx="28" fill="#F7F4FD"/>
+<rect x="20" y="14" width="480" height="232" rx="20" fill="#fff" stroke="#F0731E" stroke-width="4"/>
+<path d="M20 34 a20 20 0 0 1 20 -20 h440 a20 20 0 0 1 20 20 v26 h-480 z" fill="#F0731E"/>
+<text x="260" y="48" font-size="22" font-weight="800" fill="#fff" text-anchor="middle">Energéticos</text>
+<text x="40" y="84" font-size="15" font-weight="700" fill="#4A4870" text-anchor="start">Qué nutrientes son</text>
+<rect x="40" y="92" width="440" height="58" rx="12" fill="#F7F4FD" stroke="#F0731E" stroke-width="2.5" stroke-dasharray="7 6"/>
+<text x="40" y="166" font-size="15" font-weight="700" fill="#4A4870" text-anchor="start">Para qué sirven</text>
+<rect x="40" y="174" width="440" height="58" rx="12" fill="#F7F4FD" stroke="#F0731E" stroke-width="2.5" stroke-dasharray="7 6"/>
+<rect x="20" y="262" width="480" height="232" rx="20" fill="#fff" stroke="#B83A7A" stroke-width="4"/>
+<path d="M20 282 a20 20 0 0 1 20 -20 h440 a20 20 0 0 1 20 20 v26 h-480 z" fill="#B83A7A"/>
+<text x="260" y="296" font-size="22" font-weight="800" fill="#fff" text-anchor="middle">Estructurales</text>
+<text x="40" y="332" font-size="15" font-weight="700" fill="#4A4870" text-anchor="start">Qué nutrientes son</text>
+<rect x="40" y="340" width="440" height="58" rx="12" fill="#F7F4FD" stroke="#B83A7A" stroke-width="2.5" stroke-dasharray="7 6"/>
+<text x="40" y="414" font-size="15" font-weight="700" fill="#4A4870" text-anchor="start">Para qué sirven</text>
+<rect x="40" y="422" width="440" height="58" rx="12" fill="#F7F4FD" stroke="#B83A7A" stroke-width="2.5" stroke-dasharray="7 6"/>
+<rect x="20" y="510" width="480" height="232" rx="20" fill="#fff" stroke="#1F9D6B" stroke-width="4"/>
+<path d="M20 530 a20 20 0 0 1 20 -20 h440 a20 20 0 0 1 20 20 v26 h-480 z" fill="#1F9D6B"/>
+<text x="260" y="544" font-size="22" font-weight="800" fill="#fff" text-anchor="middle">Reguladores</text>
+<text x="40" y="580" font-size="15" font-weight="700" fill="#4A4870" text-anchor="start">Qué nutrientes son</text>
+<rect x="40" y="588" width="440" height="58" rx="12" fill="#F7F4FD" stroke="#1F9D6B" stroke-width="2.5" stroke-dasharray="7 6"/>
+<text x="40" y="662" font-size="15" font-weight="700" fill="#4A4870" text-anchor="start">Para qué sirven</text>
+<rect x="40" y="670" width="440" height="58" rx="12" fill="#F7F4FD" stroke="#1F9D6B" stroke-width="2.5" stroke-dasharray="7 6"/>
+</svg>

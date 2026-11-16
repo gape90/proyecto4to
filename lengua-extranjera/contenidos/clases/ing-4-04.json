@@ -1,0 +1,1169 @@
+{
+  "id": "ing-4-04",
+  "espacio": "lengua-extranjera",
+  "idioma": "en",
+  "eje": "¿Qué hicieron? ¿Qué inventaron? Personajes de la historia e hitos",
+  "titulo": "Contar un hecho: el pasado continuo (Past continuous)",
+  "intro": "En esta clase vas a aprender a contar qué estaba pasando en un momento del pasado y a combinarlo con el pasado simple. Al final vas a leer más detalles de lo que le pasó a {{nombre}} y vas a escribirlos en un relato breve.",
+  "objetivos": [
+    "Formar el pasado continuo con was y were + -ing.",
+    "Combinar el pasado continuo y el pasado simple con when y while.",
+    "Contar en inglés un relato breve sobre {{nombre}}, con el fondo en pasado continuo y los hechos en pasado simple."
+  ],
+  "tp_aporte": "Para tu trabajo práctico ya tenés cómo se forma el pasado continuo, el esquema de la acción larga y la corta, y un párrafo más de la historia de {{nombre}}, con lo que estaba pasando alrededor.",
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "Was y were + -ing: lo que estaba pasando",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "¿Para qué sirve el pasado continuo?",
+          "texto": "El **pasado continuo** ([[Past continuous]]) cuenta una acción que **estaba en curso** en un momento del pasado: no dice cuándo empezó ni cuándo terminó, solo que en ese momento estaba pasando.\n\n[[At nine o'clock I was watching TV.]] (A las nueve estaba mirando televisión.)\n[[Yesterday at five my friends were playing football.]] (Ayer a las cinco mis amigos estaban jugando al fútbol.)\n\nEn castellano lo decimos con \"estaba + -ando/-iendo\" o con el imperfecto: \"miraba\", \"jugaban\"."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Cómo se forma (tocá 🔊 para escuchar)",
+          "columnas": [
+            "",
+            "I, he, she, it",
+            "You, we, they"
+          ],
+          "filas": [
+            [
+              "Afirmativo",
+              "[[She was reading.]]",
+              "[[They were reading.]]"
+            ],
+            [
+              "Negativo",
+              "[[She wasn't reading.]]",
+              "[[They weren't reading.]]"
+            ],
+            [
+              "Pregunta",
+              "[[Was she reading?]]",
+              "[[Were they reading?]]"
+            ],
+            [
+              "Respuesta corta",
+              "[[Yes, she was.]] / [[No, she wasn't.]]",
+              "[[Yes, they were.]] / [[No, they weren't.]]"
+            ]
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "Pasado continuo = **was** o **were** + verbo con **-ing**.\n• [[was]] con I, he, she e it; [[were]] con you, we y they (igual que en el pasado del verbo be).\n• El -ing se escribe con las mismas reglas de siempre: [[having]] (se va la e), [[running]] (se duplica la n).\n• No se usa did: [[Were you sleeping?]], no \"Did you sleeping?\"."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Qué palabra completa cada oración: was o were?",
+          "categorias": [
+            "was",
+            "were"
+          ],
+          "items": [
+            {
+              "texto": "I ___ studying at eight.",
+              "cat": "was"
+            },
+            {
+              "texto": "My mum ___ cooking.",
+              "cat": "was"
+            },
+            {
+              "texto": "It ___ raining.",
+              "cat": "was"
+            },
+            {
+              "texto": "We ___ walking home.",
+              "cat": "were"
+            },
+            {
+              "texto": "You ___ sleeping.",
+              "cat": "were"
+            },
+            {
+              "texto": "My cousins ___ playing.",
+              "cat": "were"
+            }
+          ],
+          "explicacion": "Was con I, he, she e it (my mum es she; it, la lluvia). Were con you, we y they (my cousins es they)."
+        },
+        {
+          "t": "pronunciar",
+          "modo": "escuchar",
+          "texto": "At nine o'clock I was watching TV.",
+          "traduccion": "(A las nueve estaba mirando televisión.)",
+          "explicacion": "O'clock se dice \"o-clok\", con fuerza en la segunda sílaba."
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá lo que hacía cada persona ayer a las ocho de la noche.",
+          "texto": "At eight o'clock, my dad [[was]] cooking dinner. My sisters [[were]] doing homework, and I [[was]] [[listening]] to music.",
+          "distractores": [
+            "did",
+            "listen",
+            "are"
+          ],
+          "explicacion": "My dad (he) y I van con was; my sisters (they) va con were. Después va el verbo con -ing.",
+          "pista": "Fijate quién hace cada acción: una persona o varias. Y no te olvides del -ing."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Pasá a negativo: They were sleeping → They ______ sleeping.",
+          "respuesta": "weren't",
+          "acepta": [
+            "weren't",
+            "werent",
+            "were not",
+            "weren t"
+          ],
+          "formato": "Escribí una palabra en inglés (podés usar el apóstrofo).",
+          "explicacion": "Negativo de were: weren't (were not).",
+          "pista1": "En el pasado continuo no se usa didn't.",
+          "pista": "Buscá en la tabla la fila del negativo con they."
+        },
+        {
+          "t": "dictado",
+          "texto": "My friends were playing football.",
+          "traduccion": "(Mis amigos estaban jugando al fútbol.)",
+          "explicacion": "Were con my friends (they), y el verbo con -ing."
+        },
+        {
+          "t": "revelar",
+          "habla": true,
+          "pregunta": "Ayer a las diez de la noche yo no estaba durmiendo. ¿Qué te parece que estaba haciendo? Armá la oración en inglés, en primera persona, antes de mirar.",
+          "porPersonaje": {
+            "lucy": {
+              "respuesta": "Yo te lo cuento: [[At ten o'clock I was reading my lines for the new play.]] La forma es siempre la misma: was o were + verbo con -ing."
+            },
+            "ben": {
+              "respuesta": "Yo te lo cuento: [[At ten o'clock I was watching a basketball game on TV.]] La forma es siempre la misma: was o were + verbo con -ing."
+            },
+            "mia": {
+              "respuesta": "Yo te lo cuento: [[At ten o'clock I was chatting with Zoe.]] La forma es siempre la misma: was o were + verbo con -ing."
+            },
+            "liam": {
+              "respuesta": "Yo te lo cuento: [[At ten o'clock I was practising a new song on my guitar.]] La forma es siempre la misma: was o were + verbo con -ing."
+            }
+          }
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá en castellano para qué se usa el pasado continuo y cómo se forman el afirmativo, el negativo y la pregunta. Copiá la tabla de la clase. Después escribí en inglés cuatro oraciones sobre lo que estaban haciendo {{nombre}} y su familia ayer a las ocho de la noche (lo inventás vos), con al menos una negativa.",
+        "guia": [
+          "¿Qué cuenta el pasado continuo? ¿Cómo lo decimos en castellano?",
+          "¿Cuándo va was y cuándo va were?",
+          "¿Cómo se niega y cómo se pregunta? ¿Se usa did?",
+          "¿Qué estaba haciendo cada persona de la casa de {{nombre}} ayer a las ocho? Recordá que {{nombre}} va con was."
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El pasado continuo se forma con was o were + -ing.",
+          "respuesta": true,
+          "explicacion": "She was reading."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con they se usa was.",
+          "respuesta": false,
+          "explicacion": "Con they se usa were."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Para preguntar en pasado continuo se usa did.",
+          "respuesta": false,
+          "explicacion": "Se pone was o were adelante: Were you sleeping?"
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"It was raining\" quiere decir \"estaba lloviendo\".",
+          "respuesta": true,
+          "explicacion": "Rain + -ing."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Weren't es la forma corta de were not.",
+          "respuesta": true,
+          "explicacion": "They weren't sleeping."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"I were studying\" está bien escrita.",
+          "respuesta": false,
+          "explicacion": "Con I se usa was: I was studying."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"I was watching TV\"?",
+          "opciones": [
+            "Estaba mirando televisión",
+            "Miro televisión",
+            "Voy a mirar televisión mañana",
+            "Miré televisión una vez"
+          ],
+          "correcta": 0,
+          "explicacion": "Was + -ing: acción en curso en el pasado."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la pregunta bien formada?",
+          "opciones": [
+            "Were you sleeping?",
+            "Did you sleeping?",
+            "Was you sleeping?",
+            "Were you sleep at all?"
+          ],
+          "correcta": 0,
+          "explicacion": "Were + persona + -ing."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"My mum ___ cooking\"?",
+          "opciones": [
+            "was",
+            "were",
+            "is",
+            "did"
+          ],
+          "correcta": 0,
+          "explicacion": "My mum es she: was."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se responde \"Were they playing?\" si es verdad?",
+          "opciones": [
+            "Yes, they were.",
+            "Yes, they did.",
+            "Yes, they was.",
+            "Yes, they playing."
+          ],
+          "correcta": 0,
+          "explicacion": "La respuesta corta repite were."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la forma -ing de have?",
+          "opciones": [
+            "having",
+            "haveing",
+            "havving",
+            "had"
+          ],
+          "correcta": 0,
+          "explicacion": "Termina en e: se saca la e."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"o'clock\"?",
+          "opciones": [
+            "En punto (la hora)",
+            "Reloj de pared",
+            "Más o menos a esa hora",
+            "Por la tarde"
+          ],
+          "correcta": 0,
+          "explicacion": "At nine o'clock = a las nueve en punto."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "WAS",
+          "pista": "Pasado de be con I, he, she e it."
+        },
+        {
+          "palabra": "WERE",
+          "pista": "Pasado de be con you, we y they."
+        },
+        {
+          "palabra": "WATCHING",
+          "pista": "Watch con -ing."
+        },
+        {
+          "palabra": "RAINING",
+          "pista": "Rain con -ing."
+        },
+        {
+          "palabra": "CLOCK",
+          "pista": "Reloj, en inglés."
+        },
+        {
+          "palabra": "SLEEPING",
+          "pista": "Sleep con -ing."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "We were walking home.",
+            "We was walking home.",
+            "We were walk home.",
+            "We did walking home."
+          ],
+          "correcta": 0,
+          "explicacion": "We va con were, y el verbo con -ing."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué cuenta el pasado continuo?",
+          "opciones": [
+            "Una acción en curso en el pasado",
+            "Una rutina de todos los días",
+            "Un plan arreglado para el sábado",
+            "Una costumbre que ya no existe"
+          ],
+          "correcta": 0,
+          "explicacion": "At nine o'clock I was watching TV."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"She wasn't reading\" es el negativo de \"She was reading\".",
+          "respuesta": true,
+          "explicacion": "Wasn't = was not."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Pasado continuo y pasado simple juntos: when y while",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Una acción larga y una corta",
+          "texto": "Muchas veces se cuentan dos cosas juntas: una acción **larga**, que estaba en curso, y una acción **corta**, que la interrumpe.\n\n[[I was reading when the phone rang.]] (Estaba leyendo cuando sonó el teléfono.)\n\nLa acción larga va en **pasado continuo** (was reading) y la corta, en **pasado simple** (rang, el pasado irregular de ring)."
+        },
+        {
+          "t": "imagen",
+          "src": "img/clases/ing-4-04-larga-corta.svg",
+          "src_movil": "img/clases/ing-4-04-larga-corta-movil.svg",
+          "tipo": "grafico",
+          "animacion": "svg",
+          "alt": "Línea de tiempo: una barra larga violeta, I was reading, y en el medio un rayo naranja que la corta, the phone rang.",
+          "epigrafe": "Esquema elaborado para esta clase: la acción larga (pasado continuo) y la acción corta que la interrumpe (pasado simple)."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar: when y while",
+          "texto": "• [[when]] (cuando) va casi siempre con la acción **corta**, en pasado simple: [[I was having a shower when the lights went out.]]\n• [[while]] (mientras) va con la acción **larga**, en pasado continuo: [[While I was walking to school, I saw a friend.]]\nSi la oración empieza con when o while, se pone una coma en el medio."
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená las partes de la oración.",
+          "items": [
+            "While",
+            "we were",
+            "playing football,",
+            "it started",
+            "to rain."
+          ],
+          "explicacion": "While + acción larga (we were playing football), coma, y la acción corta en pasado simple (it started to rain).",
+          "pista": "Empieza con while. La acción larga va primero."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Qué oración usa bien los dos tiempos?",
+          "opciones": [
+            "I was sleeping when my mum called.",
+            "I slept when my mum was calling me.",
+            "I was sleep when my mum called.",
+            "I sleeping when my mum called."
+          ],
+          "explicacion": "La acción larga (was sleeping) va en pasado continuo; la corta que la interrumpe (called), en pasado simple.",
+          "pista": "Mirá el esquema: ¿cuál es la acción larga y cuál la corta?",
+          "correcta": 0
+        },
+        {
+          "t": "pronunciar",
+          "modo": "decir",
+          "texto": "I was reading when the phone rang.",
+          "traduccion": "(Estaba leyendo cuando sonó el teléfono.)",
+          "explicacion": "Rang se dice con una sola sílaba, y la g casi no suena."
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada acción larga con la acción corta que la interrumpió.",
+          "pares": [
+            {
+              "a": "I was having a shower",
+              "b": "when the lights went out."
+            },
+            {
+              "a": "We were watching a film",
+              "b": "when somebody knocked on the door."
+            },
+            {
+              "a": "She was walking home",
+              "b": "when she found a wallet."
+            },
+            {
+              "a": "They were sleeping",
+              "b": "when the alarm rang."
+            }
+          ],
+          "explicacion": "Cada acción larga va en pasado continuo, y la corta que la interrumpe, en pasado simple, con when.",
+          "pista": "Buscá la combinación que tiene sentido: ¿qué pudo interrumpir a quien se estaba duchando?"
+        },
+        {
+          "t": "dictado",
+          "texto": "While I was walking home, I saw a friend.",
+          "traduccion": "(Mientras volvía caminando a casa, vi a un amigo.)",
+          "explicacion": "While con la acción larga; saw es la acción corta."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "En \"I was reading when the phone rang\", ¿qué pasó primero: empezó a leer o sonó el teléfono?",
+          "respuesta": "Primero empezó a leer: la lectura ya estaba en curso cuando sonó el teléfono. Por eso la acción larga va en pasado continuo y la que interrumpe, en pasado simple."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Dibujá en tu carpeta el esquema de la acción larga y la acción corta, con un ejemplo. Explicá en castellano qué tiempo lleva cada una y cuándo se usan when y while. Después escribí en inglés cuatro oraciones sobre cosas que interrumpieron a {{nombre}} alguna vez (las inventás vos): dos con when y dos con while.",
+        "guia": [
+          "¿Qué tiempo lleva la acción larga y cuál la corta?",
+          "¿Con qué acción va when y con cuál va while?",
+          "¿Cuándo se pone coma?",
+          "¿Qué estaba haciendo {{nombre}} y qué pasó de repente? Por ejemplo: [[{{nombre}} was sleeping when the alarm rang.]]"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "La acción larga va en pasado continuo.",
+          "respuesta": true,
+          "explicacion": "I was reading…"
+        },
+        {
+          "tipo": "vf",
+          "texto": "La acción corta que interrumpe va en pasado continuo.",
+          "respuesta": false,
+          "explicacion": "Va en pasado simple: …when the phone rang."
+        },
+        {
+          "tipo": "vf",
+          "texto": "While quiere decir \"mientras\".",
+          "respuesta": true,
+          "explicacion": "Va con la acción larga."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Rang es el pasado de ring.",
+          "respuesta": true,
+          "explicacion": "Ring → rang: sonar → sonó."
+        },
+        {
+          "tipo": "vf",
+          "texto": "When va casi siempre con la acción larga.",
+          "respuesta": false,
+          "explicacion": "When va casi siempre con la acción corta."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"While I was walking, I saw a friend\" lleva coma en el medio.",
+          "respuesta": true,
+          "explicacion": "Empieza con while: va coma."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"I was cooking ___ the lights went out\"?",
+          "opciones": [
+            "when",
+            "while",
+            "during",
+            "until"
+          ],
+          "correcta": 0,
+          "explicacion": "La acción corta va con when."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"___ we were playing, it started to rain\"?",
+          "opciones": [
+            "While",
+            "When",
+            "After",
+            "Then"
+          ],
+          "correcta": 0,
+          "explicacion": "La acción larga va con while."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "She was walking home when she found a wallet.",
+            "She walked home when she was finding a wallet.",
+            "She was walk home when she found a wallet.",
+            "She walking home when she found a wallet."
+          ],
+          "correcta": 0,
+          "explicacion": "Larga en pasado continuo, corta en pasado simple."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"the lights went out\"?",
+          "opciones": [
+            "Se cortó la luz",
+            "Se prendieron las luces",
+            "Salieron a la calle",
+            "Apagaron la tele"
+          ],
+          "correcta": 0,
+          "explicacion": "Went out: se apagaron."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "En \"I was reading when the phone rang\", ¿cuál es la acción corta?",
+          "opciones": [
+            "the phone rang",
+            "I was reading",
+            "reading a book",
+            "when I was"
+          ],
+          "correcta": 0,
+          "explicacion": "Rang: pasado simple."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"knocked on the door\"?",
+          "opciones": [
+            "Golpeó la puerta",
+            "Abrió la puerta despacio",
+            "Cerró la puerta",
+            "Pintó la puerta"
+          ],
+          "correcta": 0,
+          "explicacion": "Knock = golpear."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "WHILE",
+          "pista": "Mientras, en inglés."
+        },
+        {
+          "palabra": "WHEN",
+          "pista": "Cuando, en inglés."
+        },
+        {
+          "palabra": "RANG",
+          "pista": "Pasado de ring (sonar)."
+        },
+        {
+          "palabra": "PHONE",
+          "pista": "Teléfono, en inglés."
+        },
+        {
+          "palabra": "SHOWER",
+          "pista": "Ducha, en inglés."
+        },
+        {
+          "palabra": "ALARM",
+          "pista": "Alarma, en inglés."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración usa bien when?",
+          "opciones": [
+            "We were eating when the doorbell rang.",
+            "We ate when the doorbell was ringing.",
+            "We were eat when the doorbell rang.",
+            "We eating when the doorbell rang."
+          ],
+          "correcta": 0,
+          "explicacion": "Acción larga + when + acción corta."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Con qué acción va while?",
+          "opciones": [
+            "Con la acción larga",
+            "Con la acción corta",
+            "Con una rutina",
+            "Con un plan"
+          ],
+          "correcta": 0,
+          "explicacion": "While I was walking…"
+        },
+        {
+          "tipo": "vf",
+          "texto": "En \"While I was walking to school, I saw a friend\", saw está en pasado simple.",
+          "respuesta": true,
+          "explicacion": "Saw es el pasado de see."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Relatos: descubrimientos y lo que estaba pasando",
+      "tiempo": "35 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Cómo se arma un relato",
+          "texto": "Los relatos en inglés, como las noticias o las anécdotas, combinan los dos pasados:\n• El **pasado continuo** arma el **fondo**: qué estaba pasando, qué tiempo hacía. [[It was raining and people were walking fast.]]\n• El **pasado simple** cuenta los **hechos** que hacen avanzar la historia. [[Suddenly, a dog ran into the street.]]\nPalabras útiles: [[suddenly]] (de repente), [[then]] (luego), [[at that moment]] (en ese momento)."
+        },
+        {
+          "t": "linea",
+          "titulo": "Tres momentos contados con los dos pasados (tocá 🔊 para escuchar)",
+          "eventos": [
+            {
+              "anio": "Hacia 1666",
+              "titulo": "Isaac Newton (una historia muy conocida)",
+              "texto": "Según una historia que el mismo Newton contó años después, [[he was sitting in a garden when an apple fell from a tree.]] No se sabe si pasó exactamente así."
+            },
+            {
+              "anio": "1928",
+              "titulo": "Alexander Fleming",
+              "texto": "[[He was working in his laboratory in London when he noticed a strange mould.]] Así descubrió la penicilina."
+            },
+            {
+              "anio": "1969",
+              "titulo": "La llegada a la Luna",
+              "texto": "[[Millions of people were watching TV when Neil Armstrong walked on the Moon.]]"
+            }
+          ]
+        },
+        {
+          "t": "dato",
+          "titulo": "¿Qué es la penicilina?",
+          "texto": "Es un medicamento que combate muchas infecciones causadas por bacterias. Fleming notó que alrededor de un moho ([[mould]]) las bacterias no crecían. En inglés británico se escribe [[mould]], y en el de Estados Unidos, [[mold]]."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada oración cuenta el fondo o un hecho del relato?",
+          "categorias": [
+            "Fondo (pasado continuo)",
+            "Hecho (pasado simple)"
+          ],
+          "items": [
+            {
+              "texto": "It was raining.",
+              "cat": "Fondo (pasado continuo)"
+            },
+            {
+              "texto": "Fleming was working in his laboratory.",
+              "cat": "Fondo (pasado continuo)"
+            },
+            {
+              "texto": "Millions of people were watching TV.",
+              "cat": "Fondo (pasado continuo)"
+            },
+            {
+              "texto": "Suddenly, a dog ran into the street.",
+              "cat": "Hecho (pasado simple)"
+            },
+            {
+              "texto": "He noticed a strange mould.",
+              "cat": "Hecho (pasado simple)"
+            },
+            {
+              "texto": "Neil Armstrong walked on the Moon.",
+              "cat": "Hecho (pasado simple)"
+            }
+          ],
+          "explicacion": "El pasado continuo pinta lo que estaba pasando; el pasado simple cuenta lo que pasó."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Lo que estaba pasando",
+          "texto": "Te cuento más detalles. Fijate qué estaba pasando (el fondo) y qué pasó de repente (los hechos). Tocá 🔊 para escucharlo.",
+          "habla": true,
+          "porPersonaje": {
+            "lucy": {
+              "texto": "Te cuento más detalles. Fijate qué estaba pasando (el fondo) y qué pasó de repente (los hechos). Tocá 🔊 para escucharlo.\n\n[[~Here is another part of the night of the school play.]] [[~I was standing on the stage and I was speaking to the audience.]] [[~Suddenly, the lights went off!]] [[~Everybody was waiting in the dark.]] [[~My friend Emma was laughing behind the curtain.]] [[~Then the lights came back and we continued.]]"
+            },
+            "ben": {
+              "texto": "Te cuento más detalles. Fijate qué estaba pasando (el fondo) y qué pasó de repente (los hechos). Tocá 🔊 para escucharlo.\n\n[[~Here is more about the day of the final.]] [[~It was snowing outside, but the gym was warm.]] [[~The fans were singing and my sister was holding a sign with my name.]] [[~While we were playing the last minute, I missed an easy shot.]] [[~I was sad, but my sister was still smiling at me.]]"
+            },
+            "mia": {
+              "texto": "Te cuento más detalles. Fijate qué estaba pasando (el fondo) y qué pasó de repente (los hechos). Tocá 🔊 para escucharlo.\n\n[[~Here is the day we moved to Sydney.]] [[~It was raining.]] [[~My little brother was sleeping in the car and my dad was listening to the radio.]] [[~When we arrived at our new house, a neighbour was waiting for us with a cake!]] [[~It was a nice welcome.]]"
+            },
+            "liam": {
+              "texto": "Te cuento más detalles. Fijate qué estaba pasando (el fondo) y qué pasó de repente (los hechos). Tocá 🔊 para escucharlo.\n\n[[~Here is something funny about the festival.]] [[~We were playing our second song and my friend Conor was singing.]] [[~Suddenly, a string on my guitar broke!]] [[~While I was changing it, everybody was clapping to the music.]] [[~Then we finished the song.]]"
+            }
+          }
+        },
+        {
+          "t": "unir",
+          "etiqueta": "Uní",
+          "consigna": "Uní cada oración de lo que te conté con su traducción.",
+          "habla": true,
+          "pista": "Las oraciones con was o were + -ing se traducen con \"estaba…\" o \"estaban…\".",
+          "porPersonaje": {
+            "lucy": {
+              "pares": [
+                {
+                  "a": "I was standing on the stage.",
+                  "b": "Yo estaba parada en el escenario."
+                },
+                {
+                  "a": "Suddenly, the lights went off!",
+                  "b": "De repente, ¡se apagaron las luces!"
+                },
+                {
+                  "a": "Everybody was waiting in the dark.",
+                  "b": "Todos estaban esperando a oscuras."
+                },
+                {
+                  "a": "Emma was laughing.",
+                  "b": "Emma se estaba riendo."
+                },
+                {
+                  "a": "We continued.",
+                  "b": "Seguimos."
+                }
+              ],
+              "explicacion": "Así queda en castellano: Esta es otra parte de la noche de la obra de la escuela. Yo estaba parada en el escenario y le estaba hablando al público. De repente, ¡se apagaron las luces! Todos estaban esperando a oscuras. Mi amiga Emma se estaba riendo detrás del telón. Después volvieron las luces y seguimos."
+            },
+            "ben": {
+              "pares": [
+                {
+                  "a": "It was snowing outside.",
+                  "b": "Afuera estaba nevando."
+                },
+                {
+                  "a": "The fans were singing.",
+                  "b": "Los hinchas estaban cantando."
+                },
+                {
+                  "a": "My sister was holding a sign.",
+                  "b": "Mi hermana tenía un cartel."
+                },
+                {
+                  "a": "I missed an easy shot.",
+                  "b": "Erré un tiro fácil."
+                },
+                {
+                  "a": "My sister was smiling at me.",
+                  "b": "Mi hermana me estaba sonriendo."
+                }
+              ],
+              "explicacion": "Así queda en castellano: Esto es más sobre el día de la final. Afuera estaba nevando, pero en el gimnasio hacía calor. Los hinchas estaban cantando y mi hermana tenía un cartel con mi nombre. Mientras jugábamos el último minuto, erré un tiro fácil. Estaba triste, pero mi hermana me seguía sonriendo."
+            },
+            "mia": {
+              "pares": [
+                {
+                  "a": "It was raining.",
+                  "b": "Estaba lloviendo."
+                },
+                {
+                  "a": "My little brother was sleeping.",
+                  "b": "Mi hermanito estaba durmiendo."
+                },
+                {
+                  "a": "My dad was listening to the radio.",
+                  "b": "Mi papá estaba escuchando la radio."
+                },
+                {
+                  "a": "We arrived at our new house.",
+                  "b": "Llegamos a la casa nueva."
+                },
+                {
+                  "a": "A neighbour was waiting for us.",
+                  "b": "Una vecina nos estaba esperando."
+                }
+              ],
+              "explicacion": "Así queda en castellano: Este es el día en que nos mudamos a Sídney. Estaba lloviendo. Mi hermanito estaba durmiendo en el auto y mi papá estaba escuchando la radio. Cuando llegamos a la casa nueva, ¡una vecina nos estaba esperando con una torta! Fue una linda bienvenida."
+            },
+            "liam": {
+              "pares": [
+                {
+                  "a": "We were playing our second song.",
+                  "b": "Estábamos tocando nuestra segunda canción."
+                },
+                {
+                  "a": "Conor was singing.",
+                  "b": "Conor estaba cantando."
+                },
+                {
+                  "a": "A string on my guitar broke!",
+                  "b": "¡Se cortó una cuerda de mi guitarra!"
+                },
+                {
+                  "a": "Everybody was clapping.",
+                  "b": "Todos estaban aplaudiendo."
+                },
+                {
+                  "a": "We finished the song.",
+                  "b": "Terminamos la canción."
+                }
+              ],
+              "explicacion": "Así queda en castellano: Esto es algo gracioso del festival. Estábamos tocando nuestra segunda canción y mi amigo Conor estaba cantando. De repente, ¡se cortó una cuerda de mi guitarra! Mientras yo la cambiaba, todos aplaudían al ritmo de la música. Después terminamos la canción."
+            }
+          }
+        },
+        {
+          "t": "dictado",
+          "voz": "personaje",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "Everybody was waiting in the dark.",
+              "traduccion": "(Todos estaban esperando a oscuras.)",
+              "explicacion": "Everybody va con was, como he o she: everybody was waiting."
+            },
+            "ben": {
+              "texto": "The fans were singing.",
+              "traduccion": "(Los hinchas estaban cantando.)",
+              "explicacion": "The fans (they) va con were, y el verbo con -ing."
+            },
+            "mia": {
+              "texto": "My little brother was sleeping.",
+              "traduccion": "(Mi hermanito estaba durmiendo.)",
+              "explicacion": "My little brother (he) va con was, y el verbo con -ing."
+            },
+            "liam": {
+              "texto": "Conor was singing.",
+              "traduccion": "(Conor estaba cantando.)",
+              "explicacion": "Conor (he) va con was, y el verbo con -ing."
+            }
+          }
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá el comienzo de un relato inventado.",
+          "texto": "It was a cold night. It [[was]] raining and I [[was]] walking home. Suddenly, I [[heard]] a strange noise. I [[turned]] around…",
+          "distractores": [
+            "were",
+            "hearing",
+            "turning"
+          ],
+          "explicacion": "El fondo va en pasado continuo (was raining, was walking). Los hechos, en pasado simple (heard, turned).",
+          "pista": "Después de suddenly empiezan los hechos: van en pasado simple."
+        },
+        {
+          "t": "pronunciar",
+          "modo": "escuchar",
+          "voz": "personaje",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "Suddenly, the lights went off!",
+              "traduccion": "(De repente, ¡se apagaron las luces!)",
+              "explicacion": "Suddenly se dice con fuerza en la primera sílaba: SUD-den-ly."
+            },
+            "ben": {
+              "texto": "It was snowing outside.",
+              "traduccion": "(Afuera estaba nevando.)",
+              "explicacion": "En snowing, la ow suena como \"ou\": \"snóuing\"."
+            },
+            "mia": {
+              "texto": "A neighbour was waiting for us.",
+              "traduccion": "(Una vecina nos estaba esperando.)",
+              "explicacion": "En neighbour la gh no suena: \"néibor\"."
+            },
+            "liam": {
+              "texto": "Suddenly, a string on my guitar broke!",
+              "traduccion": "(De repente, ¡se cortó una cuerda de mi guitarra!)",
+              "explicacion": "Suddenly se dice con fuerza en la primera sílaba: SUD-den-ly."
+            }
+          }
+        },
+        {
+          "t": "revelar",
+          "habla": true,
+          "pregunta": "En lo que te conté, ¿qué oración cambia la historia? ¿Por qué está en pasado simple?",
+          "porPersonaje": {
+            "lucy": {
+              "respuesta": "[[Suddenly, the lights went off!]] Hasta ahí todo estaba en marcha (was standing, was speaking). Con el pasado simple y suddenly pasa algo y la historia cambia."
+            },
+            "ben": {
+              "respuesta": "[[I missed an easy shot.]] Lo demás es el fondo (was snowing, were singing, was holding). El tiro errado es el hecho que cambia el final."
+            },
+            "mia": {
+              "respuesta": "[[When we arrived at our new house…]] Hasta ahí todo es fondo (was raining, was sleeping, was listening). Llegar es el hecho; y la vecina ya estaba esperando, por eso va en pasado continuo."
+            },
+            "liam": {
+              "respuesta": "[[Suddenly, a string on my guitar broke!]] Antes todo estaba en marcha (were playing, was singing). Con el pasado simple y suddenly pasa algo y la historia cambia."
+            }
+          }
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Ahora contá en tu carpeta lo que estaba pasando aquel día, como en una biografía. Escribí en inglés un párrafo de cinco a siete oraciones: primero el fondo en pasado continuo (qué tiempo hacía, qué estaban haciendo las personas) y después los hechos en pasado simple, con suddenly, when o while. Este párrafo sigue al de la clase anterior en tu trabajo práctico.",
+        "habla": true,
+        "porPersonaje": {
+          "lucy": {
+            "guia": [
+              "Empezá así: [[On the night of the school play, Lucy was standing on the stage.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[While she was…,]] [[Suddenly,…]] [[When…,]] [[Then,…]]",
+              "¿El fondo está en pasado continuo (was o were + -ing)?",
+              "¿Los hechos que hacen avanzar la historia están en pasado simple?",
+              "¿Usaste Lucy o she con was, y they con were?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "ben": {
+            "guia": [
+              "Empezá así: [[On the day of the final, it was snowing outside.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[While he was…,]] [[Suddenly,…]] [[When…,]] [[Then,…]]",
+              "¿El fondo está en pasado continuo (was o were + -ing)?",
+              "¿Los hechos que hacen avanzar la historia están en pasado simple?",
+              "¿Usaste Ben o he con was, y they con were?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "mia": {
+            "guia": [
+              "Empezá así: [[On the day Mia's family moved, it was raining in Sydney.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[While she was…,]] [[Suddenly,…]] [[When…,]] [[Then,…]]",
+              "¿El fondo está en pasado continuo (was o were + -ing)?",
+              "¿Los hechos que hacen avanzar la historia están en pasado simple?",
+              "¿Usaste Mia o she con was, y they con were?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "liam": {
+            "guia": [
+              "Empezá así: [[At the school festival, Liam's band was playing their second song.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[While he was…,]] [[Suddenly,…]] [[When…,]] [[Then,…]]",
+              "¿El fondo está en pasado continuo (was o were + -ing)?",
+              "¿Los hechos que hacen avanzar la historia están en pasado simple?",
+              "¿Usaste Liam o he con was, y they con were?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          }
+        }
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "En un relato, el pasado continuo arma el fondo.",
+          "respuesta": true,
+          "explicacion": "It was raining…"
+        },
+        {
+          "tipo": "vf",
+          "texto": "Suddenly quiere decir \"de repente\".",
+          "respuesta": true,
+          "explicacion": "Anuncia un hecho."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Fleming descubrió la penicilina en 1969.",
+          "respuesta": false,
+          "explicacion": "Fue en 1928."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Neil Armstrong caminó sobre la Luna en 1969.",
+          "respuesta": true,
+          "explicacion": "Millions of people were watching TV."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La historia de la manzana de Newton se sabe con total seguridad.",
+          "respuesta": false,
+          "explicacion": "Newton la contó años después; no se sabe si pasó exactamente así."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"He noticed a strange mould\" está en pasado simple.",
+          "respuesta": true,
+          "explicacion": "Noticed: pasado de notice."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Dónde trabajaba Fleming?",
+          "opciones": [
+            "En un laboratorio de Londres",
+            "En una granja de Escocia",
+            "En una escuela de Nueva York",
+            "En un barco"
+          ],
+          "correcta": 0,
+          "explicacion": "He was working in his laboratory in London."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué estaban haciendo millones de personas en 1969?",
+          "opciones": [
+            "Mirando televisión",
+            "Escuchando la radio",
+            "Leyendo el diario",
+            "Durmiendo"
+          ],
+          "correcta": 0,
+          "explicacion": "They were watching TV."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"mould\"?",
+          "opciones": [
+            "Moho",
+            "Manzana",
+            "Medicamento",
+            "Laboratorio"
+          ],
+          "correcta": 0,
+          "explicacion": "Mould = moho."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué parte cuenta un hecho?",
+          "opciones": [
+            "I heard a strange noise.",
+            "It was raining.",
+            "I was walking home.",
+            "People were walking fast."
+          ],
+          "correcta": 0,
+          "explicacion": "Heard: pasado simple."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra anuncia un hecho inesperado?",
+          "opciones": [
+            "Suddenly",
+            "While",
+            "Usually",
+            "Every day"
+          ],
+          "correcta": 0,
+          "explicacion": "Suddenly = de repente."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"at that moment\"?",
+          "opciones": [
+            "En ese momento",
+            "Más tarde",
+            "Hace un rato",
+            "Todos los días"
+          ],
+          "correcta": 0,
+          "explicacion": "Sirve para ordenar un relato."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "SUDDENLY",
+          "pista": "De repente, en inglés."
+        },
+        {
+          "palabra": "MOON",
+          "pista": "Luna, en inglés."
+        },
+        {
+          "palabra": "MOULD",
+          "pista": "Moho (inglés británico)."
+        },
+        {
+          "palabra": "NOISE",
+          "pista": "Ruido, en inglés."
+        },
+        {
+          "palabra": "STORY",
+          "pista": "Relato o historia, en inglés."
+        },
+        {
+          "palabra": "APPLE",
+          "pista": "Manzana, en inglés."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración arma el fondo de un relato?",
+          "opciones": [
+            "The wind was blowing.",
+            "Suddenly, the door opened.",
+            "Then I ran home.",
+            "She screamed."
+          ],
+          "correcta": 0,
+          "explicacion": "Pasado continuo: lo que estaba pasando."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué tiempo cuenta los hechos que hacen avanzar la historia?",
+          "opciones": [
+            "El pasado simple",
+            "El pasado continuo",
+            "El presente simple",
+            "El presente continuo"
+          ],
+          "correcta": 0,
+          "explicacion": "Suddenly, a dog ran into the street."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Fleming was working in his laboratory when he noticed a strange mould\" combina los dos pasados.",
+          "respuesta": true,
+          "explicacion": "Was working (fondo) y noticed (hecho)."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "[[Past continuous]]",
+      "definicion": "Pasado continuo: was o were + -ing."
+    },
+    {
+      "palabra": "[[when]]",
+      "definicion": "Cuando. Va casi siempre con la acción corta."
+    },
+    {
+      "palabra": "[[while]]",
+      "definicion": "Mientras. Va con la acción larga."
+    },
+    {
+      "palabra": "[[suddenly]]",
+      "definicion": "De repente."
+    },
+    {
+      "palabra": "[[rang]]",
+      "definicion": "Sonó (pasado irregular de ring)."
+    },
+    {
+      "palabra": "[[o'clock]]",
+      "definicion": "En punto, para decir la hora: at nine o'clock."
+    },
+    {
+      "palabra": "[[mould]]",
+      "definicion": "Moho."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "They was playing.",
+      "aclaracion": "Con they se usa were: They were playing."
+    },
+    {
+      "error": "Did you sleeping?",
+      "aclaracion": "En el pasado continuo no se usa did: Were you sleeping?"
+    },
+    {
+      "error": "I was reading when the phone was ringing.",
+      "aclaracion": "La acción corta que interrumpe va en pasado simple: I was reading when the phone rang."
+    }
+  ],
+  "personaje_intro": {
+    "porPersonaje": {
+      "lucy": {
+        "texto": "¿Te acordás de lo que te conté la clase pasada? Hoy te cuento qué estaba pasando alrededor en ese momento."
+      },
+      "ben": {
+        "texto": "¿Te acordás de lo que te conté la clase pasada? Hoy te cuento qué estaba pasando alrededor en ese momento."
+      },
+      "mia": {
+        "texto": "¿Te acordás de lo que te conté la clase pasada? Hoy te cuento qué estaba pasando alrededor en ese momento."
+      },
+      "liam": {
+        "texto": "¿Te acordás de lo que te conté la clase pasada? Hoy te cuento qué estaba pasando alrededor en ese momento."
+      }
+    }
+  }
+}

@@ -1,0 +1,1163 @@
+{
+ "id": "len-4-10",
+ "espacio": "lengua",
+ "eje": "Lectura y escritura de textos técnicos",
+ "titulo": "Los textos técnicos",
+ "intro": "En tu especialidad vas a leer y escribir muchos textos técnicos: instructivos, informes, proyectos, cartas y tu propio currículum. En esta clase vas a aprender sus partes y sus rasgos, para que lo que escribas sea preciso, claro y útil para quien lo lea.",
+ "objetivos": [
+  "Reconocer los rasgos de un texto técnico y escribir un protocolo de procedimiento.",
+  "Escribir un informe técnico y la fundamentación de un proyecto.",
+  "Escribir una carta formal y un currículum."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés un protocolo de procedimiento, la fundamentación de un proyecto, tu currículum y una carta formal, además de los rasgos de los textos técnicos.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "El texto técnico, el protocolo y la memoria técnica",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "¿Qué es un texto técnico?",
+     "texto": "Un **texto técnico** transmite información **precisa** sobre procesos, máquinas, materiales o trabajos. Lo leemos en manuales, hojas de datos, catálogos, instructivos y planos, en papel o en pantalla. Quien lo escribe tiene que lograr que otra persona **entienda exactamente** qué hacer o qué se hizo, sin dudas.\n\nPor eso no usa palabras vagas como \"un poco\", \"más o menos\" o \"cosa\", sino datos, medidas y nombres precisos."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-10-multimetro.jpg",
+     "tipo": "foto",
+     "animacion": "bajar",
+     "alt": "Fotografía de un multímetro digital negro con una perilla central, cables rojo y negro conectados y la pantalla encendida.",
+     "epigrafe": "Un multímetro digital real, midiendo una resistencia (la pantalla marca 4,74 kΩ). En el protocolo de esta parte se usa para medir la tensión de una pila.",
+     "fuente": "Foto: Michael Häckel, vía Wikimedia Commons (dominio público)."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Rasgos del texto técnico",
+     "texto": "• **Precisión**: datos, cantidades y unidades de medida exactas.\n• **Objetividad**: se escribe en forma impersonal o en tercera persona (\"se mide\", \"se conecta\").\n• **Vocabulario técnico**: las palabras propias de la especialidad.\n• **Orden**: partes, títulos y pasos numerados.\n• **Apoyos gráficos**: tablas, esquemas, planos y fotos."
+    },
+    {
+     "t": "texto",
+     "titulo": "El protocolo de procedimiento",
+     "texto": "Un **protocolo de procedimiento** indica los **pasos** que hay que seguir para hacer una tarea **siempre de la misma manera y de forma segura**. Tiene un **objetivo**, la lista de **materiales y herramientas**, los **elementos de seguridad** y los **pasos numerados**, escritos con verbos en infinitivo (verificar, conectar, medir)."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Protocolo: medir una tensión continua con un multímetro",
+     "texto": "**Objetivo:** medir la tensión de una pila.\n**Materiales:** multímetro con sus puntas, pila.\n**Seguridad:** no medir la tensión de la red eléctrica sin supervisión docente.\n**Pasos:**\n1. Verificar que las puntas estén en buen estado.\n2. Conectar la punta negra en COM y la roja en V.\n3. Seleccionar la función de tensión continua y una escala mayor que el valor esperado.\n4. Apoyar la punta roja en el polo positivo y la negra en el negativo.\n5. Leer el valor en la pantalla y anotarlo con su unidad (V).\n6. Retirar las puntas y apagar el multímetro."
+    },
+    {
+     "t": "observar",
+     "_imagen": true,
+     "etiqueta": "🔎 Mirá como técnico o técnica",
+     "consigna": "Mirá el multímetro conectado a la pila, como en el protocolo.",
+     "imagen": {
+      "src": "img/clases/len-4-10-multimetro.svg",
+      "tipo": "grafico",
+      "alt": "Un multímetro amarillo con pantalla que marca 1.52 V, una perilla con las posiciones OFF, tensión continua, tensión alterna, resistencia y corriente, y tres bornes: 10A, COM y VΩmA. El cable negro sale de COM y llega al polo negativo de una pila; el rojo sale de VΩmA y llega al polo positivo.",
+      "epigrafe": "Un multímetro midiendo la tensión de una pila. Ilustración elaborada para esta clase."
+     },
+     "preguntas": [
+      {
+       "pregunta": "¿En qué borne está conectado el cable negro?",
+       "opciones": [
+        "En COM",
+        "En VΩmA",
+        "En 10A"
+       ],
+       "correcta": 0,
+       "explicacion": "El protocolo indica conectar la punta negra en COM.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      },
+      {
+       "pregunta": "¿Al polo positivo de la pila llega el cable de qué color?",
+       "opciones": [
+        "El rojo",
+        "El negro"
+       ],
+       "correcta": 0,
+       "explicacion": "La punta roja se apoya en el polo positivo.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      },
+      {
+       "pregunta": "¿Qué paso del protocolo corresponde a mirar la pantalla y anotar \"1.52 V\"?",
+       "opciones": [
+        "Leer y anotar el valor",
+        "Verificar el estado de las puntas",
+        "Apagar el multímetro",
+        "Seleccionar la escala"
+       ],
+       "correcta": 0,
+       "explicacion": "El valor se anota con su unidad: V.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      }
+     ]
+    },
+    {
+     "t": "texto",
+     "titulo": "La memoria técnica",
+     "texto": "La **memoria técnica** es el documento que **describe y justifica un trabajo realizado**: qué se hizo, con qué materiales, cómo se hizo, qué cálculos se usaron y qué resultados se obtuvieron. Queda como **registro**, para que otra persona pueda entender el trabajo, repetirlo o repararlo. Suele llevar planos y esquemas en los anexos."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Protocolo y memoria técnica",
+     "columnas": [
+      "",
+      "Protocolo de procedimiento",
+      "Memoria técnica"
+     ],
+     "filas": [
+      [
+       "Para qué",
+       "Indicar cómo hacer una tarea",
+       "Registrar y explicar un trabajo hecho"
+      ],
+      [
+       "Cuándo se escribe",
+       "Antes de hacer la tarea",
+       "Después de hacer el trabajo"
+      ],
+      [
+       "Cómo está escrito",
+       "Pasos numerados con verbos en infinitivo",
+       "Descripción ordenada en partes, con datos y planos"
+      ]
+     ]
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cada frase es adecuada para un texto técnico o no lo es?",
+     "categorias": [
+      "Adecuada",
+      "No adecuada"
+     ],
+     "items": [
+      {
+       "texto": "Se conecta la punta roja en el borne V",
+       "cat": "Adecuada"
+      },
+      {
+       "texto": "La pila mide 1,5 V",
+       "cat": "Adecuada"
+      },
+      {
+       "texto": "Se usa un cable de 1,5 mm² de sección",
+       "cat": "Adecuada"
+      },
+      {
+       "texto": "Ponés el cable más o menos por ahí",
+       "cat": "No adecuada"
+      },
+      {
+       "texto": "La pila tiene un poco de carga",
+       "cat": "No adecuada"
+      },
+      {
+       "texto": "Usá esa cosa para medir",
+       "cat": "No adecuada"
+      }
+     ],
+     "explicacion": "El texto técnico es preciso: dice exactamente qué, dónde y cuánto."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los pasos del protocolo para medir una tensión continua.",
+     "items": [
+      "Verificar el estado de las puntas",
+      "Conectar la punta negra en COM y la roja en V",
+      "Seleccionar la función de tensión continua y la escala",
+      "Apoyar las puntas en los polos de la pila",
+      "Leer el valor y anotarlo con su unidad",
+      "Retirar las puntas y apagar el multímetro"
+     ],
+     "explicacion": "El orden importa: un protocolo se sigue siempre igual.",
+     "pista": "Releé el ejemplo del protocolo."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Por qué un texto técnico evita expresiones como \"más o menos\"?",
+     "opciones": [
+      "Porque tiene que ser preciso",
+      "Porque son palabras muy largas",
+      "Porque es un texto en verso",
+      "Porque se prohíben los adverbios"
+     ],
+     "correcta": 0,
+     "explicacion": "Una imprecisión en un texto técnico puede causar errores o accidentes.",
+     "pista": "Releé el primer texto de esta parte."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué en un taller o un laboratorio conviene que todos sigan el mismo protocolo?",
+     "respuesta": "Porque así la tarea se hace siempre de la misma manera, con los mismos cuidados, y se evitan errores y accidentes. Si cada persona lo hiciera a su manera, los resultados no se podrían comparar y alguien podría saltear un paso de seguridad."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es un texto técnico y cuáles son sus rasgos. Después escribí en tu carpeta un protocolo de procedimiento para una tarea que conozcas de tu especialidad o del taller, con objetivo, materiales, seguridad y pasos numerados.",
+    "guia": [
+     "¿Qué rasgos tiene un texto técnico?",
+     "¿Qué partes tiene un protocolo de procedimiento?",
+     "¿Qué tarea elegiste y qué materiales necesita?",
+     "¿Qué cuidados de seguridad hay que tener?",
+     "¿Qué diferencia hay entre un protocolo y una memoria técnica?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Un texto técnico usa datos y medidas precisas.",
+     "respuesta": true,
+     "explicacion": "Es uno de sus rasgos principales."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En un texto técnico conviene usar expresiones como \"un poco\" o \"más o menos\".",
+     "respuesta": false,
+     "explicacion": "Son vagas: el texto técnico necesita precisión."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los pasos de un protocolo suelen ir numerados y con verbos en infinitivo.",
+     "respuesta": true,
+     "explicacion": "Verificar, conectar, medir."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La memoria técnica se escribe antes de hacer el trabajo.",
+     "respuesta": false,
+     "explicacion": "Se escribe después, para registrar y explicar lo hecho."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un protocolo incluye los elementos de seguridad.",
+     "respuesta": true,
+     "explicacion": "Para hacer la tarea de forma segura."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los textos técnicos pueden llevar tablas, esquemas y planos.",
+     "respuesta": true,
+     "explicacion": "Son apoyos gráficos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué indica un protocolo de procedimiento?",
+     "opciones": [
+      "Los pasos para hacer una tarea segura",
+      "La opinión de quien escribe el texto",
+      "Un cuento sobre lo que pasó en el taller",
+      "El precio de los materiales que se usan"
+     ],
+     "correcta": 0,
+     "explicacion": "Es un texto instructivo técnico."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas frases está escrita en forma impersonal?",
+     "opciones": [
+      "Se mide la tensión",
+      "Yo medí la tensión",
+      "Medila vos",
+      "Me encanta medir"
+     ],
+     "correcta": 0,
+     "explicacion": "El \"se\" la hace impersonal."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde se conecta la punta negra del multímetro, según el protocolo?",
+     "opciones": [
+      "En COM",
+      "En V",
+      "En la pila",
+      "En ningún lugar"
+     ],
+     "correcta": 0,
+     "explicacion": "La roja va en V."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Para qué sirve la memoria técnica?",
+     "opciones": [
+      "Para registrar cómo se hizo un trabajo",
+      "Para dar instrucciones antes de empezar",
+      "Para opinar sobre un trabajo ajeno",
+      "Para hacer publicidad de un producto"
+     ],
+     "correcta": 0,
+     "explicacion": "Queda como registro."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos es un apoyo gráfico?",
+     "opciones": [
+      "Un plano",
+      "Un adjetivo",
+      "Una opinión",
+      "Un saludo"
+     ],
+     "correcta": 0,
+     "explicacion": "También las tablas y los esquemas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué escala conviene elegir en el multímetro, según el protocolo?",
+     "opciones": [
+      "Una mayor que el valor esperado",
+      "La más chica que tenga el aparato",
+      "Cualquiera, da lo mismo",
+      "La que esté marcada en rojo"
+     ],
+     "correcta": 0,
+     "explicacion": "Así no se supera el rango del instrumento."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "PROTOCOLO",
+     "pista": "Texto con los pasos para hacer una tarea siempre igual."
+    },
+    {
+     "palabra": "MEMORIA",
+     "pista": "___ técnica: registro de un trabajo hecho."
+    },
+    {
+     "palabra": "PRECISIÓN",
+     "pista": "Rasgo principal del texto técnico."
+    },
+    {
+     "palabra": "MULTÍMETRO",
+     "pista": "Instrumento para medir tensión, entre otras cosas."
+    },
+    {
+     "palabra": "SEGURIDAD",
+     "pista": "Lo que todo protocolo tiene que cuidar."
+    },
+    {
+     "palabra": "PLANO",
+     "pista": "Dibujo técnico que acompaña una memoria."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Un compañero escribió: \"Ponés un poco de soldadura y listo\". ¿Cómo lo mejorarías para un texto técnico?",
+     "opciones": [
+      "Con precisión y en forma impersonal",
+      "Agregando emojis para que sea claro",
+      "Contándolo como si fuera un cuento",
+      "Dejándolo así, porque se entiende"
+     ],
+     "correcta": 0,
+     "explicacion": "Precisión y objetividad."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Terminaste un proyecto en el taller y querés dejar registrado cómo lo hiciste. ¿Qué texto escribís?",
+     "opciones": [
+      "Una memoria técnica",
+      "Un protocolo",
+      "Un poema",
+      "Una leyenda"
+     ],
+     "correcta": 0,
+     "explicacion": "La memoria registra el trabajo hecho."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un protocolo ayuda a evitar errores y accidentes.",
+     "respuesta": true,
+     "explicacion": "Porque todos siguen los mismos pasos y cuidados."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "El informe técnico y la fundamentación de un proyecto",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "El informe técnico",
+     "texto": "Un **informe técnico** comunica los **resultados** de una revisión, una prueba o una medición a alguien que los necesita para **tomar una decisión**: un docente, un jefe de taller, un cliente. No alcanza con mostrar datos: hay que **explicar qué significan** y qué conviene hacer."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Las partes de un informe técnico",
+     "columnas": [
+      "Parte",
+      "Qué tiene"
+     ],
+     "filas": [
+      [
+       "Datos",
+       "Título, fecha, quién lo escribe y a quién va dirigido"
+      ],
+      [
+       "Objetivo",
+       "Qué se quiso averiguar o revisar"
+      ],
+      [
+       "Metodología",
+       "Cómo se hizo: instrumentos y pasos"
+      ],
+      [
+       "Resultados",
+       "Los datos obtenidos, en tablas o gráficos"
+      ],
+      [
+       "Conclusiones y recomendaciones",
+       "Qué significan los resultados y qué conviene hacer"
+      ]
+     ]
+    },
+    {
+     "t": "esquema",
+     "_imagen": true,
+     "consigna": "Completá el esquema con lo que viste en la tabla de arriba: ubicá qué tiene cada parte del informe.",
+     "imagen": {
+      "src": "img/clases/len-4-10-informe.svg",
+      "src_movil": "img/clases/len-4-10-informe-movil.svg",
+      "tipo": "grafico",
+      "alt": "Esquema de cuatro filas: objetivo, metodología, resultados y conclusiones, cada una con un casillero vacío.",
+      "epigrafe": "Esquema elaborado para esta clase."
+     },
+     "huecos": [
+      {
+       "x": 49.0,
+       "y": 17.55,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "Qué se quiso averiguar",
+       "movil": {
+        "x": 4.0,
+        "y": 22.47,
+        "w": 92.0,
+        "h": 10.61
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 37.14,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "Cómo se hizo",
+       "movil": {
+        "x": 4.0,
+        "y": 43.69,
+        "w": 92.0,
+        "h": 10.61
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 56.73,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "Los datos obtenidos",
+       "movil": {
+        "x": 4.0,
+        "y": 64.9,
+        "w": 92.0,
+        "h": 10.61
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 76.33,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "Qué significan y qué hacer",
+       "movil": {
+        "x": 4.0,
+        "y": 86.11,
+        "w": 92.0,
+        "h": 10.61
+       }
+      }
+     ],
+     "distractores": [
+      "Una opinión personal",
+      "Un cuento"
+     ],
+     "explicacion": "Es el mismo orden de la tabla: de qué se quería saber a qué conviene hacer.",
+     "pista": "Volvé a mirar la tabla de las partes del informe técnico."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Un informe técnico breve",
+     "texto": "**Objetivo:** revisar el estado de las luces del taller 2.\n**Metodología:** se encendió cada luminaria y se controló su funcionamiento.\n**Resultados:** de 12 luminarias, 9 funcionan, 2 no encienden y 1 parpadea.\n**Conclusiones y recomendaciones:** el 25 % de las luminarias presenta fallas. Se recomienda reemplazarlas antes del próximo turno de prácticas."
+    },
+    {
+     "t": "texto",
+     "titulo": "La fundamentación de un proyecto",
+     "texto": "Antes de hacer un proyecto, muchas veces hay que **convencer** a alguien de que vale la pena: una institución, un jurado, quien lo va a financiar. Para eso se escribe la **fundamentación**, que explica **por qué** hay que hacerlo.\n\nResponde: **¿qué problema o necesidad hay?**, **¿qué se propone hacer?**, **¿a quién beneficia?** y **¿por qué es posible hacerlo?** Es un texto **argumentativo**: la tesis es que el proyecto es necesario, y los argumentos son las razones."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Una fundamentación breve",
+     "texto": "\"En el patio de la escuela no hay iluminación, y los estudiantes del turno noche salen en la oscuridad. Proponemos instalar cuatro luminarias LED con sensor de movimiento. El proyecto beneficiará a los más de cien estudiantes del turno noche y al personal de la escuela. Es posible porque el taller de Electricidad cuenta con las herramientas y los estudiantes de quinto año pueden realizar la instalación con supervisión docente.\""
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada parte de la fundamentación del ejemplo con la pregunta que responde.",
+     "pares": [
+      {
+       "a": "\"En el patio no hay iluminación\"",
+       "b": "¿Qué problema hay?"
+      },
+      {
+       "a": "\"Proponemos instalar cuatro luminarias LED\"",
+       "b": "¿Qué se propone hacer?"
+      },
+      {
+       "a": "\"Beneficiará a los estudiantes del turno noche\"",
+       "b": "¿A quién beneficia?"
+      },
+      {
+       "a": "\"El taller cuenta con las herramientas\"",
+       "b": "¿Por qué es posible?"
+      }
+     ],
+     "explicacion": "Una buena fundamentación responde las cuatro preguntas.",
+     "pista": "Releé las preguntas del texto sobre la fundamentación.",
+     "_nuevo": true
+    },
+    {
+     "t": "opcion",
+     "pregunta": "En un informe técnico sobre las luces del taller, ¿qué frase está en la parte equivocada?",
+     "opciones": [
+      "En los resultados: \"Se recomienda cambiar las luminarias\"",
+      "En el objetivo: \"Revisar el estado de las luces del taller 2\"",
+      "En los resultados: \"De 12 luminarias, 9 funcionan\"",
+      "En la metodología: \"Se encendió cada luminaria\""
+     ],
+     "correcta": 0,
+     "explicacion": "Recomendar qué hacer corresponde a las conclusiones y recomendaciones, no a los resultados.",
+     "pista": "Releé la tabla de las partes del informe técnico.",
+     "etiqueta": "🔍 Encontrá el error"
+    },
+    {
+     "t": "verificar",
+     "consigna": "En el informe de las luces, ¿cuántas luminarias funcionan bien?",
+     "respuesta": "9",
+     "explicacion": "De 12 luminarias, 9 funcionan, 2 no encienden y 1 parpadea.",
+     "pista": "Buscalo en los resultados del informe.",
+     "formato": "Escribí solo el número.",
+     "acepta": [
+      "9",
+      "nueve"
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué decimos que la fundamentación de un proyecto es un texto argumentativo?",
+     "respuesta": "Porque busca **convencer** de que el proyecto es necesario. La tesis es \"hay que hacer este proyecto\", y los argumentos son el problema que resuelve, a quién beneficia y por qué es posible. Por eso sirven las estrategias que viste en la clase del texto argumentativo, como los datos."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es un informe técnico y qué es la fundamentación de un proyecto, y en qué se diferencian. Después escribí la fundamentación de un proyecto que podría hacerse en tu escuela, respondiendo las cuatro preguntas.",
+    "guia": [
+     "¿Para qué sirve un informe técnico y qué partes tiene?",
+     "¿Qué diferencia hay entre resultados y conclusiones?",
+     "¿Qué preguntas responde una fundamentación?",
+     "¿Qué problema de tu escuela podría resolver un proyecto?",
+     "¿A quién beneficiaría y por qué sería posible hacerlo?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El informe técnico comunica resultados a alguien que debe tomar una decisión.",
+     "respuesta": true,
+     "explicacion": "Por eso incluye conclusiones y recomendaciones."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En un informe técnico alcanza con mostrar los datos, sin explicarlos.",
+     "respuesta": false,
+     "explicacion": "Hay que explicar qué significan y qué conviene hacer."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La metodología explica cómo se hizo la revisión o la prueba.",
+     "respuesta": true,
+     "explicacion": "Con qué instrumentos y qué pasos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La fundamentación de un proyecto es un texto argumentativo.",
+     "respuesta": true,
+     "explicacion": "Busca convencer de que el proyecto es necesario."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La fundamentación explica cómo se armaron las luminarias, paso a paso.",
+     "respuesta": false,
+     "explicacion": "Eso sería un protocolo; la fundamentación explica por qué hacer el proyecto."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el informe de las luces, 2 luminarias no encienden.",
+     "respuesta": true,
+     "explicacion": "Y 1 parpadea."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué parte del informe dice qué se quiso averiguar?",
+     "opciones": [
+      "El objetivo",
+      "Los resultados",
+      "La metodología",
+      "Las conclusiones"
+     ],
+     "correcta": 0,
+     "explicacion": "Es la primera parte después de los datos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde van las tablas con los datos obtenidos?",
+     "opciones": [
+      "En los resultados",
+      "En el objetivo",
+      "En la firma",
+      "En el título"
+     ],
+     "correcta": 0,
+     "explicacion": "Los resultados muestran los datos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué pregunta NO responde una fundamentación?",
+     "opciones": [
+      "¿Cuál es tu comida favorita?",
+      "¿Qué problema hay que resolver?",
+      "¿A quién beneficia el proyecto?",
+      "¿Por qué es posible hacerlo?"
+     ],
+     "correcta": 0,
+     "explicacion": "Las otras tres sí."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué porcentaje de las luminarias tiene fallas en el ejemplo?",
+     "opciones": [
+      "El 25 %",
+      "El 50 %",
+      "El 10 %",
+      "El 100 %"
+     ],
+     "correcta": 0,
+     "explicacion": "3 de 12 tienen fallas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿A quién se dirige la fundamentación de un proyecto?",
+     "opciones": [
+      "A quien tiene que aprobarlo",
+      "Solo a quien lo escribe",
+      "A los proveedores de materiales",
+      "A los personajes de un cuento"
+     ],
+     "correcta": 0,
+     "explicacion": "Busca convencerlo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia hay entre resultados y conclusiones?",
+     "opciones": [
+      "Datos, unos; su significado, las otras",
+      "Son dos nombres para la misma parte",
+      "Las conclusiones van antes que los resultados",
+      "Los resultados son las opiniones del autor"
+     ],
+     "correcta": 0,
+     "explicacion": "Por eso las dos partes son necesarias."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "INFORME",
+     "pista": "Texto que comunica resultados para tomar decisiones."
+    },
+    {
+     "palabra": "OBJETIVO",
+     "pista": "Lo que se quiso averiguar."
+    },
+    {
+     "palabra": "METODOLOGÍA",
+     "pista": "Cómo se hizo la prueba."
+    },
+    {
+     "palabra": "RESULTADOS",
+     "pista": "Datos obtenidos en una prueba."
+    },
+    {
+     "palabra": "PROYECTO",
+     "pista": "Plan de trabajo para resolver un problema."
+    },
+    {
+     "palabra": "FUNDAMENTACIÓN",
+     "pista": "Texto que explica por qué hacer un proyecto."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Mediste el consumo de varias máquinas y tenés que avisar al jefe de taller cuál conviene reemplazar. ¿Qué texto escribís?",
+     "opciones": [
+      "Un informe técnico",
+      "Un protocolo",
+      "Una leyenda",
+      "Un currículum"
+     ],
+     "correcta": 0,
+     "explicacion": "Comunica resultados y recomienda qué hacer."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué relación hay entre la fundamentación de un proyecto y el texto argumentativo?",
+     "opciones": [
+      "Las dos defienden una tesis",
+      "Las dos cuentan una historia",
+      "Las dos dan instrucciones",
+      "Las dos usan registro informal"
+     ],
+     "correcta": 0,
+     "explicacion": "La tesis: el proyecto es necesario."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las recomendaciones de un informe dicen qué conviene hacer a partir de los resultados.",
+     "respuesta": true,
+     "explicacion": "Es la parte que ayuda a decidir."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "La carta formal y el currículum",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "La correspondencia formal",
+     "texto": "Para pedir algo, presentarse o reclamar ante una institución o una empresa, se escribe una **carta formal** o un **correo electrónico formal**. Usa el **registro formal**, tiene partes fijas y va directo al motivo: quien la recibe tiene que entender rápido qué se le pide."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Las partes de una carta formal",
+     "columnas": [
+      "Parte",
+      "Ejemplo"
+     ],
+     "filas": [
+      [
+       "Lugar y fecha",
+       "Firmat, 10 de marzo de 2027"
+      ],
+      [
+       "Destinatario",
+       "Al señor gerente de Recursos Humanos de la empresa"
+      ],
+      [
+       "Saludo",
+       "De mi mayor consideración:"
+      ],
+      [
+       "Cuerpo",
+       "Me dirijo a usted para solicitarle… (motivo, explicación y pedido)"
+      ],
+      [
+       "Despedida",
+       "Sin otro particular, lo saludo atentamente."
+      ],
+      [
+       "Firma y datos",
+       "Nombre, documento, teléfono y correo"
+      ]
+     ]
+    },
+    {
+     "t": "esquema",
+     "_imagen": true,
+     "consigna": "Completá el esquema con los ejemplos de la tabla de arriba: ubicá cada frase en la parte de la carta que le corresponde.",
+     "imagen": {
+      "src": "img/clases/len-4-10-carta.svg",
+      "src_movil": "img/clases/len-4-10-carta-movil.svg",
+      "tipo": "grafico",
+      "alt": "Esquema de cuatro filas: lugar y fecha, saludo, cuerpo y despedida, cada una con un casillero vacío.",
+      "epigrafe": "Esquema elaborado para esta clase."
+     },
+     "huecos": [
+      {
+       "x": 49.0,
+       "y": 17.55,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "Firmat, 10 de marzo de 2027",
+       "movil": {
+        "x": 4.0,
+        "y": 19.42,
+        "w": 92.0,
+        "h": 11.02
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 37.14,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "De mi mayor consideración:",
+       "movil": {
+        "x": 4.0,
+        "y": 41.47,
+        "w": 92.0,
+        "h": 11.02
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 56.73,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "Me dirijo a usted para solicitarle…",
+       "movil": {
+        "x": 4.0,
+        "y": 63.52,
+        "w": 92.0,
+        "h": 11.02
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 76.33,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "Lo saludo atentamente.",
+       "movil": {
+        "x": 4.0,
+        "y": 85.56,
+        "w": 92.0,
+        "h": 11.02
+       }
+      }
+     ],
+     "distractores": [
+      "Hola, ¿cómo andás?",
+      "Besos, chau"
+     ],
+     "explicacion": "Son las mismas frases de la tabla. Las que sobran son de registro informal.",
+     "pista": "Volvé a mirar la columna de ejemplos de la tabla."
+    },
+    {
+     "t": "texto",
+     "titulo": "El currículum",
+     "texto": "El **currículum vitae** (o **CV**) es un documento breve que presenta a una persona para un trabajo, una pasantía o un estudio. Reúne en una o dos páginas sus **datos personales**, su **formación** (estudios), su **experiencia** (trabajos, pasantías, prácticas profesionalizantes), sus **conocimientos** (programas, máquinas, idiomas) y otros datos de interés.\n\nTiene que ser **claro**, **ordenado**, **verdadero** y **sin errores**. Suele ir acompañado por una **carta de presentación**, en la que se explica por qué se quiere ese puesto."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Consejos para un buen currículum",
+     "texto": "• Ordená la formación y la experiencia de la más reciente a la más antigua.\n• Usá un correo con tu nombre, sin apodos.\n• No inventes datos: te pueden preguntar por cada uno.\n• Revisá la ortografía: un error puede dar mala impresión.\n• Adaptalo al puesto: destacá lo que tenga que ver con ese trabajo."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cada dato va en el currículum o no corresponde?",
+     "categorias": [
+      "Va en el currículum",
+      "No corresponde"
+     ],
+     "items": [
+      {
+       "texto": "Escuela técnica, especialidad Electrónica (en curso)",
+       "cat": "Va en el currículum"
+      },
+      {
+       "texto": "Prácticas profesionalizantes en un taller de reparación",
+       "cat": "Va en el currículum"
+      },
+      {
+       "texto": "Manejo de programas de diseño de circuitos",
+       "cat": "Va en el currículum"
+      },
+      {
+       "texto": "Mi serie favorita",
+       "cat": "No corresponde"
+      },
+      {
+       "texto": "Un correo como \"elmasgenio2009\"",
+       "cat": "No corresponde"
+      },
+      {
+       "texto": "Un curso que nunca hice",
+       "cat": "No corresponde"
+      }
+     ],
+     "explicacion": "El currículum presenta datos verdaderos y útiles para el puesto, con un tono formal."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Qué frase no corresponde a una carta formal?",
+     "opciones": [
+      "Che, ¿me das el trabajo?",
+      "De mi mayor consideración:",
+      "Me dirijo a usted para solicitarle una pasantía.",
+      "Lo saludo atentamente."
+     ],
+     "correcta": 0,
+     "explicacion": "\"Che\" es de registro informal: en una carta formal no corresponde.",
+     "pista": "Releé la tabla de las partes de una carta formal.",
+     "etiqueta": "🔍 Encontrá el error"
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Cómo se llama el documento breve que presenta a una persona con su formación y su experiencia?",
+     "respuesta": "currículum",
+     "explicacion": "También se lo llama CV.",
+     "pista": "Está en el texto sobre el currículum.",
+     "formato": "Escribí solo la palabra.",
+     "acepta": [
+      "curriculum",
+      "curriculum vitae",
+      "cv",
+      "el curriculum"
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué no conviene inventar datos en un currículum?",
+     "respuesta": "Porque en una entrevista te pueden preguntar por cualquiera de ellos, y si no es verdad se nota enseguida. Además, la confianza es la base de cualquier trabajo. Es mejor presentar con claridad lo que realmente sabés hacer, incluidas las prácticas de la escuela."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Escribí en tu carpeta tu currículum, con datos verdaderos, y una carta formal de presentación para una pasantía o un trabajo relacionado con tu especialidad. Respetá las partes de la carta y el registro formal.",
+    "guia": [
+     "¿Qué datos personales vas a poner?",
+     "¿Qué formación y qué experiencia tenés, incluidas las prácticas de la escuela?",
+     "¿Qué conocimientos de tu especialidad podés destacar?",
+     "¿A quién va dirigida la carta y qué pedís?",
+     "¿Qué saludo y qué despedida formales vas a usar?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La carta formal usa el registro formal.",
+     "respuesta": true,
+     "explicacion": "Con fórmulas de cortesía."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el currículum conviene usar un correo con un apodo divertido.",
+     "respuesta": false,
+     "explicacion": "Conviene un correo con tu nombre."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El currículum tiene que ser verdadero.",
+     "respuesta": true,
+     "explicacion": "Te pueden preguntar por cada dato."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En una carta formal, el motivo se explica en el cuerpo.",
+     "respuesta": true,
+     "explicacion": "Ahí va también el pedido."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las prácticas profesionalizantes no se pueden poner en el currículum.",
+     "respuesta": false,
+     "explicacion": "Son experiencia, y conviene incluirlas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La carta de presentación explica por qué se quiere el puesto.",
+     "respuesta": true,
+     "explicacion": "Suele acompañar al currículum."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué despedida corresponde a una carta formal?",
+     "opciones": [
+      "Lo saludo atentamente.",
+      "Chau, nos vemos.",
+      "Besos.",
+      "Abrazo grande."
+     ],
+     "correcta": 0,
+     "explicacion": "Es una fórmula de cortesía."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué orden se ponen los estudios en el currículum?",
+     "opciones": [
+      "Del más reciente al más antiguo",
+      "Del más antiguo al más reciente",
+      "Al azar",
+      "No se ponen"
+     ],
+     "correcta": 0,
+     "explicacion": "Lo más reciente es lo que más interesa."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué parte de la carta dice a quién va dirigida?",
+     "opciones": [
+      "El destinatario",
+      "La firma",
+      "La despedida",
+      "La fecha"
+     ],
+     "correcta": 0,
+     "explicacion": "Por ejemplo, \"Sr. Gerente de Recursos Humanos\"."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué va en la sección de conocimientos de un CV?",
+     "opciones": [
+      "Programas, máquinas e idiomas",
+      "Las series y películas favoritas",
+      "Los apodos que te pusieron",
+      "Las opiniones sobre política"
+     ],
+     "correcta": 0,
+     "explicacion": "Lo que sirve para el puesto."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es lo primero de una carta formal?",
+     "opciones": [
+      "El lugar y la fecha",
+      "La despedida",
+      "La firma",
+      "El cuerpo"
+     ],
+     "correcta": 0,
+     "explicacion": "Va arriba, a la derecha o a la izquierda."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué conviene adaptar el currículum a cada puesto?",
+     "opciones": [
+      "Para destacar lo que importa en ese trabajo",
+      "Para inventar datos que no son ciertos sobre vos",
+      "Para que sea más largo que los otros",
+      "Para cambiar el nombre y la edad"
+     ],
+     "correcta": 0,
+     "explicacion": "Sin cambiar la verdad de los datos."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "CURRÍCULUM",
+     "pista": "Documento que presenta formación y experiencia."
+    },
+    {
+     "palabra": "CARTA",
+     "pista": "Texto formal para pedir o presentarse."
+    },
+    {
+     "palabra": "DESTINATARIO",
+     "pista": "A quién va dirigida una carta."
+    },
+    {
+     "palabra": "PASANTÍA",
+     "pista": "Práctica de trabajo para estudiantes."
+    },
+    {
+     "palabra": "DESPEDIDA",
+     "pista": "Parte final de la carta, antes de la firma."
+    },
+    {
+     "palabra": "FORMACIÓN",
+     "pista": "Estudios de una persona."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Querés pedir una pasantía en una empresa. ¿Qué textos preparás?",
+     "opciones": [
+      "Un currículum y una carta formal",
+      "Un poema y una leyenda guaraní",
+      "Un chat informal con emojis",
+      "Un informe de lectura de una novela"
+     ],
+     "correcta": 0,
+     "explicacion": "Son los textos para presentarse."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tienen en común la carta formal, el informe y el protocolo?",
+     "opciones": [
+      "Tienen partes fijas y lenguaje preciso",
+      "Son textos literarios de ficción y aventura",
+      "Usan un registro informal",
+      "Se escriben en verso"
+     ],
+     "correcta": 0,
+     "explicacion": "Todos buscan ser claros y precisos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un error de ortografía en un currículum puede dar mala impresión.",
+     "respuesta": true,
+     "explicacion": "Por eso hay que revisarlo."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Texto técnico",
+   "definicion": "Texto que transmite información precisa sobre procesos, máquinas, materiales o trabajos."
+  },
+  {
+   "palabra": "Protocolo de procedimiento",
+   "definicion": "Texto con los pasos para hacer una tarea siempre igual y de forma segura."
+  },
+  {
+   "palabra": "Memoria técnica",
+   "definicion": "Documento que describe y justifica un trabajo realizado."
+  },
+  {
+   "palabra": "Informe técnico",
+   "definicion": "Texto que comunica resultados y recomienda qué hacer."
+  },
+  {
+   "palabra": "Fundamentación",
+   "definicion": "Texto que explica por qué hay que hacer un proyecto."
+  },
+  {
+   "palabra": "Carta formal",
+   "definicion": "Texto en registro formal, con partes fijas, para pedir, presentarse o reclamar."
+  },
+  {
+   "palabra": "Currículum vitae",
+   "definicion": "Documento breve que presenta la formación y la experiencia de una persona."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Escribir con palabras vagas (\"un poco\", \"esa cosa\") en un texto técnico.",
+   "aclaracion": "Hay que usar datos, medidas y nombres precisos."
+  },
+  {
+   "error": "Poner en el informe solo los datos, sin conclusiones.",
+   "aclaracion": "Hay que explicar qué significan los resultados y qué conviene hacer."
+  },
+  {
+   "error": "Usar un saludo informal en una carta formal.",
+   "aclaracion": "Se usan fórmulas como \"De mi mayor consideración:\"."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Buscá el manual de algún aparato de tu casa o del taller: ¿qué rasgos de texto técnico encontrás?",
+  "conexion": "Con el texto argumentativo: la fundamentación de un proyecto también defiende una tesis con argumentos. Y con registros: la carta formal usa el registro formal."
+ }
+}

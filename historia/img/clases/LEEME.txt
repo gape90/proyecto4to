@@ -1,0 +1,37 @@
+IMÁGENES DE LAS CLASES
+======================
+Nombre de cada archivo: código de la clase + tema (ej.: his-4-01-asuncion-1916.jpg).
+
+Tipos (se indica en el contenido de la clase, campo "tipo"):
+  foto      fotografía de la época. Siempre con fuente (preferentemente Archivo General de la Nación o Wikimedia Commons, dominio público).
+  recreada  ilustración hecha hoy (por ejemplo con IA). La plataforma aclara sola: «Ilustración recreada: no es una fotografía de la época».
+            Nunca retratos de personas reales ni escenas de hechos concretos: solo ambientes.
+  grafico   esquemas, gráficos y mapas hechos para la clase (.svg). Los que tienen versión para celular terminan en -movil.svg.
+
+Si una imagen todavía no está en esta carpeta, la clase muestra «Imagen en preparación» y sigue funcionando.
+
+Criterio: una imagen solo si ayuda a comprender lo que YA está en la clase, o para ambientar. Nunca suma contenidos nuevos.
+No toda imagen lleva actividad.
+
+Clase 1:
+  his-4-01-voto-antes-despues(.svg / -movil.svg)  esquema para completar (parte 1)
+  his-4-01-asuncion-1916.jpg   foto para ambientar (parte 2)
+  his-4-01-puerto.jpg          foto coloreada a mano, para ambientar (parte 3). Fuente: Oregon State University Archives (Wikimedia Commons).
+Clases 2 a 9:
+  his-4-02-mapa-conceptual(.svg / -movil.svg)   rasgos del nacionalismo autoritario (clase 2, parte 1)
+  his-4-03-wall-street-1929.jpg   foto para ambientar (clase 3, parte 1)
+  his-4-03-obelisco-1936.jpg   foto para ambientar (clase 3, parte 2). AGN, vía Wikimedia Commons
+  his-4-03-dos-modelos(.svg / -movil.svg)   esquema para completar (clase 3, parte 3)
+  his-4-04-17-octubre-1945.jpg   foto para ambientar (clase 4, parte 1)
+  his-4-04-voto-femenino-1951.jpg   foto para ambientar (clase 4, parte 2). Wikimedia Commons
+  his-4-04-ciclo(.svg / -movil.svg)   ciclo del modelo económico peronista (clase 4, parte 3)
+  his-4-05-trabajadores-villa.jpg   foto para ambientar (clase 5, parte 2). Wikimedia Commons
+  his-4-05-torta(.svg / -movil.svg)   dibujo del «Pensalo así» (clase 5, parte 1)
+  his-4-05-balanzas(.svg / -movil.svg)   dos balanzas 1930-1943 y 1943-1955 (clase 5, parte 3)
+  his-4-06-tres-mundos(.svg / -movil.svg)   esquema para completar (clase 6, parte 1)
+  his-4-06-vender-barato(.svg / -movil.svg)   dibujo del ejemplo de Prebisch (clase 6, parte 2)
+  his-4-07-barra-1955-1966(.svg / -movil.svg)   golpes y gobiernos elegidos (clase 7, parte 1)
+  his-4-08-dos-modelos(.svg / -movil.svg)   Estado interventor y neoliberalismo (clase 8, parte 1)
+  his-4-08-convertibilidad(.svg / -movil.svg)   infografía (clase 8, parte 3)
+  his-4-09-integracion(.svg / -movil.svg)   esquema Mercosur-Unasur-CELAC (clase 9, parte 3)
+Formato recomendado: .jpg horizontal, hasta 1200 px de ancho, menos de 200 KB.

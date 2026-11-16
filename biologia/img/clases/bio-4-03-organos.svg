@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 470" role="img" aria-label="Esquema con seis tarjetas, una por órgano: boca, esófago, estómago, hígado, intestino delgado e intestino grueso. Cada tarjeta tiene un casillero vacío para escribir qué pasa en ese órgano." font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<defs></defs>
+<rect x="0" y="0" width="1000" height="470" rx="28" fill="#F7F4FD"/>
+<rect x="24" y="18" width="302" height="208" rx="18" fill="#fff" stroke="#E5194F" stroke-width="4"/>
+<path d="M24 36 a18 18 0 0 1 18 -18 h266 a18 18 0 0 1 18 18 v34 h-302 z" fill="#E5194F"/>
+<text x="175" y="54" font-size="23" font-weight="800" fill="#fff" text-anchor="middle">Boca</text>
+<text x="42" y="102" font-size="17" font-weight="700" fill="#4A4870" text-anchor="start">Qué pasa acá</text>
+<rect x="38" y="114" width="274" height="96" rx="12" fill="#F7F4FD" stroke="#E5194F" stroke-width="2.5" stroke-dasharray="7 6"/>
+<rect x="349" y="18" width="302" height="208" rx="18" fill="#fff" stroke="#E5194F" stroke-width="4"/>
+<path d="M349 36 a18 18 0 0 1 18 -18 h266 a18 18 0 0 1 18 18 v34 h-302 z" fill="#E5194F"/>
+<text x="500" y="54" font-size="23" font-weight="800" fill="#fff" text-anchor="middle">Esófago</text>
+<text x="367" y="102" font-size="17" font-weight="700" fill="#4A4870" text-anchor="start">Qué pasa acá</text>
+<rect x="363" y="114" width="274" height="96" rx="12" fill="#F7F4FD" stroke="#E5194F" stroke-width="2.5" stroke-dasharray="7 6"/>
+<rect x="674" y="18" width="302" height="208" rx="18" fill="#fff" stroke="#B83A7A" stroke-width="4"/>
+<path d="M674 36 a18 18 0 0 1 18 -18 h266 a18 18 0 0 1 18 18 v34 h-302 z" fill="#B83A7A"/>
+<text x="825" y="54" font-size="23" font-weight="800" fill="#fff" text-anchor="middle">Estómago</text>
+<text x="692" y="102" font-size="17" font-weight="700" fill="#4A4870" text-anchor="start">Qué pasa acá</text>
+<rect x="688" y="114" width="274" height="96" rx="12" fill="#F7F4FD" stroke="#B83A7A" stroke-width="2.5" stroke-dasharray="7 6"/>
+<rect x="24" y="244" width="302" height="208" rx="18" fill="#fff" stroke="#8C4632" stroke-width="4"/>
+<path d="M24 262 a18 18 0 0 1 18 -18 h266 a18 18 0 0 1 18 18 v34 h-302 z" fill="#8C4632"/>
+<text x="175" y="280" font-size="23" font-weight="800" fill="#fff" text-anchor="middle">Hígado</text>
+<text x="42" y="328" font-size="17" font-weight="700" fill="#4A4870" text-anchor="start">Qué pasa acá</text>
+<rect x="38" y="340" width="274" height="96" rx="12" fill="#F7F4FD" stroke="#8C4632" stroke-width="2.5" stroke-dasharray="7 6"/>
+<rect x="349" y="244" width="302" height="208" rx="18" fill="#fff" stroke="#C9445F" stroke-width="4"/>
+<path d="M349 262 a18 18 0 0 1 18 -18 h266 a18 18 0 0 1 18 18 v34 h-302 z" fill="#C9445F"/>
+<text x="500" y="280" font-size="23" font-weight="800" fill="#fff" text-anchor="middle">Intestino delgado</text>
+<text x="367" y="328" font-size="17" font-weight="700" fill="#4A4870" text-anchor="start">Qué pasa acá</text>
+<rect x="363" y="340" width="274" height="96" rx="12" fill="#F7F4FD" stroke="#C9445F" stroke-width="2.5" stroke-dasharray="7 6"/>
+<rect x="674" y="244" width="302" height="208" rx="18" fill="#fff" stroke="#8A5A2B" stroke-width="4"/>
+<path d="M674 262 a18 18 0 0 1 18 -18 h266 a18 18 0 0 1 18 18 v34 h-302 z" fill="#8A5A2B"/>
+<text x="825" y="280" font-size="23" font-weight="800" fill="#fff" text-anchor="middle">Intestino grueso</text>
+<text x="692" y="328" font-size="17" font-weight="700" fill="#4A4870" text-anchor="start">Qué pasa acá</text>
+<rect x="688" y="340" width="274" height="96" rx="12" fill="#F7F4FD" stroke="#8A5A2B" stroke-width="2.5" stroke-dasharray="7 6"/>
+</svg>

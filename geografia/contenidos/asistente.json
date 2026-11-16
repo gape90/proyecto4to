@@ -1,0 +1,2413 @@
+{
+ "descripcion": "Contenido del asistente de Geografía (sin IA). Revisar con docente de Geografía antes de usar con estudiantes.",
+ "palabras": [
+  {
+   "palabra": "Estado",
+   "definicion": "Conjunto de instituciones que gobiernan y organizan una sociedad y su territorio.",
+   "formas": []
+  },
+  {
+   "palabra": "Territorio",
+   "definicion": "Porción de superficie, con su mar y espacio aéreo, sobre la que un Estado ejerce su autoridad.",
+   "formas": []
+  },
+  {
+   "palabra": "Frontera",
+   "definicion": "Límite entre el territorio de un Estado y el de otro; la acuerdan o la imponen las sociedades.",
+   "formas": []
+  },
+  {
+   "palabra": "Partición",
+   "definicion": "División de un territorio en partes, como la que propuso la ONU en 1947.",
+   "formas": [
+    "particion",
+    "plan de particion"
+   ]
+  },
+  {
+   "palabra": "Armisticio",
+   "definicion": "Acuerdo para terminar los combates; sus líneas no son fronteras reconocidas.",
+   "formas": [
+    "armisticios"
+   ]
+  },
+  {
+   "palabra": "Refugiado",
+   "definicion": "Persona que tuvo que dejar su lugar de origen y no puede volver.",
+   "formas": []
+  },
+  {
+   "palabra": "Inestabilidad política",
+   "definicion": "Situación en la que caen gobiernos, hay protestas masivas o guerras internas.",
+   "formas": []
+  },
+  {
+   "palabra": "Economía emergente",
+   "definicion": "Economía de un país grande, con mucha población, que crece rápido y gana peso en el mundo.",
+   "formas": []
+  },
+  {
+   "palabra": "BRICS",
+   "definicion": "Grupo formado por Brasil, Rusia, India, China y Sudáfrica, ampliado desde 2024.",
+   "formas": [
+    "bric",
+    "brics",
+    "los brics"
+   ]
+  },
+  {
+   "palabra": "Centro",
+   "definicion": "Países ricos e industrializados que concentraban las grandes decisiones económicas.",
+   "formas": [
+    "centro y periferia"
+   ]
+  },
+  {
+   "palabra": "Periferia",
+   "definicion": "Países que vendían materias primas y compraban productos industriales.",
+   "formas": [
+    "periferico",
+    "periferias"
+   ]
+  },
+  {
+   "palabra": "G7",
+   "definicion": "Grupo de siete países industrializados; tiene esos siete miembros desde 1976.",
+   "formas": [
+    "g7",
+    "g 7",
+    "grupo de los siete"
+   ]
+  },
+  {
+   "palabra": "Mundo multipolar",
+   "definicion": "Situación en la que el poder se reparte entre varios polos.",
+   "formas": [
+    "multipolar",
+    "multipolaridad"
+   ]
+  },
+  {
+   "palabra": "Cumbre",
+   "definicion": "Reunión de los jefes de Estado o de gobierno de un grupo de países.",
+   "formas": [
+    "cumbres"
+   ]
+  },
+  {
+   "palabra": "Placa tectónica",
+   "definicion": "Gran bloque de la corteza terrestre que se mueve muy despacio.",
+   "formas": [
+    "placas",
+    "placas tectonicas"
+   ]
+  },
+  {
+   "palabra": "Subducción",
+   "definicion": "Proceso en el que una placa se hunde por debajo de otra.",
+   "formas": []
+  },
+  {
+   "palabra": "Amenaza",
+   "definicion": "Posibilidad de que ocurra un fenómeno natural peligroso.",
+   "formas": []
+  },
+  {
+   "palabra": "Vulnerabilidad",
+   "definicion": "Qué tan expuesta y poco preparada está una sociedad frente a una amenaza.",
+   "formas": []
+  },
+  {
+   "palabra": "Riesgo",
+   "definicion": "Probabilidad de sufrir daños; surge de combinar amenaza y vulnerabilidad.",
+   "formas": []
+  },
+  {
+   "palabra": "Gestión del riesgo",
+   "definicion": "Acciones de prevención, respuesta y recuperación para reducir los daños de un fenómeno.",
+   "formas": [
+    "gestion del riesgo"
+   ]
+  },
+  {
+   "palabra": "Sismorresistente",
+   "definicion": "Construido para soportar los movimientos de un sismo.",
+   "formas": [
+    "antisismico",
+    "sismo resistente"
+   ]
+  },
+  {
+   "palabra": "Desertización",
+   "definicion": "Degradación de la tierra en zonas secas, que pierde su capacidad de producir.",
+   "formas": [
+    "desertificacion"
+   ]
+  },
+  {
+   "palabra": "Sahel",
+   "definicion": "Franja semiárida al sur del Sahara, de Senegal a Sudán y Eritrea.",
+   "formas": []
+  },
+  {
+   "palabra": "Sobrepastoreo",
+   "definicion": "Tener más animales de los que el pasto puede alimentar.",
+   "formas": []
+  },
+  {
+   "palabra": "Erosión",
+   "definicion": "Desgaste del suelo provocado por el viento y la lluvia.",
+   "formas": []
+  },
+  {
+   "palabra": "Agricultura de secano",
+   "definicion": "Cultivo que depende solo del agua de lluvia.",
+   "formas": [
+    "secano"
+   ]
+  },
+  {
+   "palabra": "Silvopastoreo",
+   "definicion": "Forma de producir que combina árboles y ganado.",
+   "formas": []
+  },
+  {
+   "palabra": "Gran Muralla Verde",
+   "definicion": "Proyecto africano que planta una franja de vegetación de Senegal a Yibuti para recuperar tierras.",
+   "formas": [
+    "muralla verde"
+   ]
+  },
+  {
+   "palabra": "Hidrocarburo",
+   "definicion": "Sustancia formada por restos de organismos, como el petróleo y el gas.",
+   "formas": []
+  },
+  {
+   "palabra": "Recurso no renovable",
+   "definicion": "Recurso que no se repone a la escala de una vida humana.",
+   "formas": []
+  },
+  {
+   "palabra": "Reservas probadas",
+   "definicion": "Petróleo que se sabe que existe y se puede extraer con la tecnología y los precios actuales.",
+   "formas": [
+    "reservas"
+   ]
+  },
+  {
+   "palabra": "Fractura hidráulica",
+   "definicion": "Técnica que inyecta agua, arena y químicos a presión para extraer petróleo de rocas compactas.",
+   "formas": [
+    "fracking",
+    "fractura"
+   ]
+  },
+  {
+   "palabra": "País exportador",
+   "definicion": "País que produce más petróleo del que consume y vende el resto.",
+   "formas": []
+  },
+  {
+   "palabra": "OPEP",
+   "definicion": "Organización de Países Exportadores de Petróleo, fundada en 1960.",
+   "formas": [
+    "opep"
+   ]
+  },
+  {
+   "palabra": "Estrecho",
+   "definicion": "Paso de mar angosto entre dos tierras, como el de Ormuz.",
+   "formas": [
+    "estrecho de ormuz",
+    "ormuz"
+   ]
+  },
+  {
+   "palabra": "Ciudad global",
+   "definicion": "Ciudad que concentra funciones de dirección de la economía mundial y está muy conectada con el resto del mundo.",
+   "formas": [
+    "ciudades globales"
+   ]
+  },
+  {
+   "palabra": "Servicios avanzados",
+   "definicion": "Finanzas, consultoría, contabilidad, derecho de empresas y publicidad.",
+   "formas": [
+    "servicios avanzados"
+   ]
+  },
+  {
+   "palabra": "Sede",
+   "definicion": "Oficina central desde donde se dirige una empresa.",
+   "formas": []
+  },
+  {
+   "palabra": "Flujos",
+   "definicion": "Personas, capitales, información y mercancías que circulan entre ciudades.",
+   "formas": [
+    "flujo"
+   ]
+  },
+  {
+   "palabra": "Articulación",
+   "definicion": "Conexión de una ciudad con el resto del mundo.",
+   "formas": []
+  },
+  {
+   "palabra": "Fragmentación",
+   "definicion": "División de una ciudad en barrios con condiciones muy distintas.",
+   "formas": []
+  },
+  {
+   "palabra": "Polarización social",
+   "definicion": "Crecimiento simultáneo de trabajos muy bien pagos y de trabajos con salarios bajos.",
+   "formas": [
+    "polarizacion"
+   ]
+  },
+  {
+   "palabra": "Ciudad sagrada",
+   "definicion": "Ciudad que una religión considera especial y que recibe peregrinaciones.",
+   "formas": []
+  },
+  {
+   "palabra": "Peregrinación",
+   "definicion": "Viaje que hacen los creyentes por motivos religiosos.",
+   "formas": [
+    "peregrinaciones",
+    "peregrinos"
+   ]
+  },
+  {
+   "palabra": "Ghats",
+   "definicion": "Escalinatas que bajan al río Ganges en Varanasi.",
+   "formas": [
+    "ghat"
+   ]
+  },
+  {
+   "palabra": "Área metropolitana",
+   "definicion": "Ciudad con sus alrededores urbanizados.",
+   "formas": []
+  },
+  {
+   "palabra": "Megalópolis",
+   "definicion": "Franja urbana casi continua formada por varias áreas metropolitanas que se tocan.",
+   "formas": []
+  },
+  {
+   "palabra": "Shinkansen",
+   "definicion": "Tren de alta velocidad de Japón, inaugurado en 1964.",
+   "formas": []
+  },
+  {
+   "palabra": "Unión Europea",
+   "definicion": "Unión de 27 países de Europa que comparten un mercado común.",
+   "formas": [
+    "ue",
+    "union europea"
+   ]
+  },
+  {
+   "palabra": "Mercado común",
+   "definicion": "Espacio donde mercancías, servicios, personas y capitales circulan libremente.",
+   "formas": []
+  },
+  {
+   "palabra": "Especialización productiva",
+   "definicion": "Concentración de un país o región en las actividades que hace mejor.",
+   "formas": []
+  },
+  {
+   "palabra": "Desequilibrios regionales",
+   "definicion": "Diferencias entre regiones que ganan y regiones que pierden.",
+   "formas": []
+  },
+  {
+   "palabra": "Reconversión productiva",
+   "definicion": "Cambio de la actividad principal de una región.",
+   "formas": []
+  },
+  {
+   "palabra": "Política de cohesión",
+   "definicion": "Fondos de la UE para las regiones menos desarrolladas.",
+   "formas": []
+  },
+  {
+   "palabra": "Política Agrícola Común",
+   "definicion": "Apoyo económico de la UE a los productores rurales, desde 1962.",
+   "formas": [
+    "pac",
+    "politica agricola"
+   ]
+  },
+  {
+   "palabra": "Centro de innovación y desarrollo",
+   "definicion": "Lugar donde se concentran universidades, laboratorios, empresas tecnológicas e inversores, y donde se produce conocimiento.",
+   "formas": []
+  },
+  {
+   "palabra": "I+D",
+   "definicion": "Investigación y desarrollo: investigar para crear o mejorar productos.",
+   "formas": [
+    "i d",
+    "id",
+    "investigacion y desarrollo"
+   ]
+  },
+  {
+   "palabra": "Silicon Valley",
+   "definicion": "Centro de innovación en California, Estados Unidos.",
+   "formas": [
+    "silicon valley"
+   ]
+  },
+  {
+   "palabra": "Ensamblado",
+   "definicion": "Etapa en la que se juntan las piezas y se arma un producto.",
+   "formas": []
+  },
+  {
+   "palabra": "Cadena de producción",
+   "definicion": "Recorrido de un producto por distintas etapas y lugares.",
+   "formas": []
+  },
+  {
+   "palabra": "Alcance mundial",
+   "definicion": "Posibilidad de que algo se use en cualquier lugar del planeta.",
+   "formas": []
+  },
+  {
+   "palabra": "INVAP",
+   "definicion": "Empresa de tecnología argentina, creada en 1976 en Bariloche.",
+   "formas": [
+    "invap"
+   ]
+  },
+  {
+   "palabra": "Sobrepoblación",
+   "definicion": "Situación en la que la población supera lo que pueden sostener los recursos de un lugar.",
+   "formas": []
+  },
+  {
+   "palabra": "Densidad de población",
+   "definicion": "Cantidad de habitantes por kilómetro cuadrado.",
+   "formas": []
+  },
+  {
+   "palabra": "Terrazas de cultivo",
+   "definicion": "Escalones construidos en las laderas para cultivar.",
+   "formas": [
+    "terrazas",
+    "terraza"
+   ]
+  },
+  {
+   "palabra": "Agricultura intensiva",
+   "definicion": "Cultivo con poca tierra, mucho trabajo y alta producción por hectárea.",
+   "formas": [
+    "intensiva"
+   ]
+  },
+  {
+   "palabra": "Agricultura extensiva",
+   "definicion": "Cultivo en grandes superficies, con poca gente y muchas máquinas.",
+   "formas": [
+    "extensiva"
+   ]
+  },
+  {
+   "palabra": "Monzón",
+   "definicion": "Viento que trae lluvias fuertes en el sur y el sudeste de Asia.",
+   "formas": []
+  },
+  {
+   "palabra": "Revolución verde",
+   "definicion": "Cambios desde la década de 1960 que aumentaron la producción con semillas de alto rendimiento, fertilizantes y riego.",
+   "formas": [
+    "revolucion verde"
+   ]
+  },
+  {
+   "palabra": "Migración",
+   "definicion": "Traslado de personas de un lugar a otro para vivir allí.",
+   "formas": []
+  },
+  {
+   "palabra": "Factores de expulsión",
+   "definicion": "Situaciones del lugar de origen que empujan a irse.",
+   "formas": [
+    "expulsion"
+   ]
+  },
+  {
+   "palabra": "Factores de atracción",
+   "definicion": "Situaciones del lugar de destino que llevan a elegirlo.",
+   "formas": [
+    "atraccion"
+   ]
+  },
+  {
+   "palabra": "Remesas",
+   "definicion": "Dinero que envían los migrantes a sus familias en el origen.",
+   "formas": []
+  },
+  {
+   "palabra": "Segunda generación",
+   "definicion": "Hijos e hijas de inmigrantes nacidos en el país de destino.",
+   "formas": [
+    "segunda generacion"
+   ]
+  },
+  {
+   "palabra": "No devolución",
+   "definicion": "Principio que prohíbe enviar a un refugiado a un lugar donde corra peligro.",
+   "formas": [
+    "no devolucion"
+   ]
+  },
+  {
+   "palabra": "Movimiento social",
+   "definicion": "Grupo de personas que se organiza de forma colectiva y sostenida para impulsar un cambio en la sociedad.",
+   "formas": []
+  },
+  {
+   "palabra": "Partido político",
+   "definicion": "Organización que se presenta a elecciones para gobernar.",
+   "formas": []
+  },
+  {
+   "palabra": "Formas de acción",
+   "definicion": "Marchas, peticiones, boicots y campañas que usan los movimientos.",
+   "formas": []
+  },
+  {
+   "palabra": "Boicot",
+   "definicion": "Dejar de comprar o de usar algo como forma de reclamo.",
+   "formas": []
+  },
+  {
+   "palabra": "Acción no violenta",
+   "definicion": "Forma de reclamar sin usar la violencia.",
+   "formas": [
+    "no violenta",
+    "no violencia"
+   ]
+  },
+  {
+   "palabra": "Territorializarse",
+   "definicion": "Ocupar un espacio, físico o digital, para hacerse ver.",
+   "formas": [
+    "territorializacion",
+    "territorializar"
+   ]
+  },
+  {
+   "palabra": "Espacio público",
+   "definicion": "Lugares de uso común, como plazas y calles.",
+   "formas": [
+    "espacio publico"
+   ]
+  },
+  {
+   "palabra": "Medio Oriente",
+   "definicion": "Región del suroeste de Asia que rodea el extremo este del mar Mediterráneo y llega hasta el golfo Pérsico. Suele incluir también a Egipto, en el noreste de África.",
+   "formas": [
+    "oriente medio"
+   ]
+  },
+  {
+   "palabra": "Conflicto territorial",
+   "definicion": "Situación en la que dos grupos reclaman el mismo territorio.",
+   "formas": [
+    "conflictos territoriales"
+   ]
+  },
+  {
+   "palabra": "Mandato británico de Palestina",
+   "definicion": "Administración del Reino Unido sobre ese territorio después de la Primera Guerra Mundial. Duró hasta 1948.",
+   "formas": [
+    "mandato britanico",
+    "mandato"
+   ]
+  },
+  {
+   "palabra": "Sionismo",
+   "definicion": "Movimiento nacional que buscaba un Estado para el pueblo judío en la tierra que considera su origen histórico.",
+   "formas": [
+    "sionista"
+   ]
+  },
+  {
+   "palabra": "Nacionalismo palestino",
+   "definicion": "Movimiento que buscaba un Estado para la población árabe que vivía en ese territorio desde hacía siglos.",
+   "formas": [
+    "palestino",
+    "palestinos"
+   ]
+  },
+  {
+   "palabra": "Acuerdos de Oslo",
+   "definicion": "Acuerdos de 1993 a 1995 con los que se creó la Autoridad Palestina. Las fronteras definitivas, Jerusalén y los refugiados quedaron sin resolver.",
+   "formas": [
+    "oslo"
+   ]
+  },
+  {
+   "palabra": "Primavera Árabe",
+   "definicion": "Proceso de protestas que empezó en Túnez en diciembre de 2010 y se extendió a otros países árabes.",
+   "formas": [
+    "primavera arabe"
+   ]
+  },
+  {
+   "palabra": "Nuevo Banco de Desarrollo",
+   "definicion": "Banco creado por los miembros del BRICS en 2014, con sede en Shanghái. Presta dinero para obras como rutas, puertos o energía.",
+   "formas": [
+    "banco del brics"
+   ]
+  },
+  {
+   "palabra": "Mundo bipolar",
+   "definicion": "Situación en la que el poder está en dos potencias enfrentadas, como Estados Unidos y la Unión Soviética durante la Guerra Fría.",
+   "formas": [
+    "bipolar",
+    "bipolaridad"
+   ]
+  },
+  {
+   "palabra": "Mundo unipolar",
+   "definicion": "Situación en la que hay una sola gran potencia, como Estados Unidos después de 1991.",
+   "formas": [
+    "unipolar",
+    "unipolaridad"
+   ]
+  },
+  {
+   "palabra": "Cinturón de fuego del Pacífico",
+   "definicion": "Franja de unos 40.000 kilómetros alrededor del océano Pacífico donde están cerca del 75 % de los volcanes del mundo y ocurre la mayor parte de los sismos.",
+   "formas": [
+    "cinturon de fuego"
+   ]
+  },
+  {
+   "palabra": "Sismo",
+   "definicion": "Vibración del suelo que ocurre cuando se libera de golpe la tensión acumulada entre las placas.",
+   "formas": [
+    "terremoto",
+    "temblor",
+    "sismos"
+   ]
+  },
+  {
+   "palabra": "Magma",
+   "definicion": "Roca derretida que sube y sale por los volcanes.",
+   "formas": []
+  },
+  {
+   "palabra": "INPRES",
+   "definicion": "Instituto Nacional de Prevención Sísmica, que desarrolla y actualiza los reglamentos argentinos de construcción sismorresistente. Se creó en 1972.",
+   "formas": [
+    "instituto nacional de prevencion sismica"
+   ]
+  },
+  {
+   "palabra": "Adobe",
+   "definicion": "Material de construcción con el que estaban hechas la mayoría de las casas de San Juan en 1944.",
+   "formas": []
+  },
+  {
+   "palabra": "Petróleo",
+   "definicion": "Hidrocarburo que se formó a partir de restos de organismos acumulados durante millones de años. Es un recurso no renovable.",
+   "formas": [
+    "crudo"
+   ]
+  },
+  {
+   "palabra": "Petróleo convencional",
+   "definicion": "Petróleo acumulado en rocas porosas, de donde sale con relativa facilidad al perforar un pozo.",
+   "formas": [
+    "convencional"
+   ]
+  },
+  {
+   "palabra": "Petróleo no convencional",
+   "definicion": "Petróleo atrapado en rocas muy compactas, como el shale; se extrae con fractura hidráulica.",
+   "formas": [
+    "no convencional",
+    "shale",
+    "lutita"
+   ]
+  },
+  {
+   "palabra": "Vaca Muerta",
+   "definicion": "Formación de shale en la provincia de Neuquén, con grandes cantidades de petróleo y gas no convencional.",
+   "formas": []
+  },
+  {
+   "palabra": "Cuenca sedimentaria",
+   "definicion": "Zona donde se acumularon sedimentos durante millones de años y donde se encuentra el petróleo.",
+   "formas": [
+    "cuencas sedimentarias"
+   ]
+  },
+  {
+   "palabra": "Crisis del petróleo",
+   "definicion": "Situación de 1973: varios países árabes exportadores dejaron de vender petróleo a algunos países occidentales y el precio se multiplicó por cuatro.",
+   "formas": [
+    "crisis de 1973"
+   ]
+  },
+  {
+   "palabra": "País importador",
+   "definicion": "País que consume más petróleo del que produce y tiene que comprarlo afuera.",
+   "formas": [
+    "importador",
+    "importadores"
+   ]
+  },
+  {
+   "palabra": "GaWC",
+   "definicion": "Grupo de investigación de universidades del Reino Unido y Bélgica que clasifica las ciudades según dónde tienen oficinas las grandes empresas de servicios avanzados.",
+   "formas": [
+    "gawc"
+   ]
+  },
+  {
+   "palabra": "Nudos de la red",
+   "definicion": "Ciudades globales por donde pasan muchos flujos de personas, capitales, información y mercancías.",
+   "formas": [
+    "nudo",
+    "nudos"
+   ]
+  },
+  {
+   "palabra": "Megalópolis japonesa",
+   "definicion": "Franja urbana de la costa del Pacífico de Japón que une Tokio, Yokohama, Nagoya, Kioto, Osaka y Kobe.",
+   "formas": [
+    "japon megalopolis"
+   ]
+  },
+  {
+   "palabra": "Varanasi",
+   "definicion": "Ciudad del norte de la India, una de las más sagradas del hinduismo, a orillas del río Ganges.",
+   "formas": [
+    "benares"
+   ]
+  },
+  {
+   "palabra": "Euro",
+   "definicion": "Moneda común que usan 21 de los 27 miembros de la Unión Europea.",
+   "formas": [
+    "euros"
+   ]
+  },
+  {
+   "palabra": "Malthus",
+   "definicion": "Economista inglés que en 1798 sostuvo que la población crece más rápido que la producción de alimentos.",
+   "formas": [
+    "malthusiano"
+   ]
+  },
+  {
+   "palabra": "Arrozal",
+   "definicion": "Campo que se inunda con agua de lluvia o de riego para cultivar arroz.",
+   "formas": [
+    "arrozales"
+   ]
+  },
+  {
+   "palabra": "Emigrante e inmigrante",
+   "definicion": "Emigrante es quien se va de su país; inmigrante, quien llega a otro. Es la misma persona, vista desde cada lugar.",
+   "formas": [
+    "emigrante",
+    "inmigrante",
+    "emigrar",
+    "inmigrar"
+   ]
+  },
+  {
+   "palabra": "Solicitante de asilo",
+   "definicion": "Persona que pidió protección como refugiada y espera la respuesta.",
+   "formas": [
+    "asilo"
+   ]
+  },
+  {
+   "palabra": "Desplazado interno",
+   "definicion": "Persona que tuvo que dejar su casa pero sigue dentro de su propio país.",
+   "formas": [
+    "desplazados internos",
+    "desplazado"
+   ]
+  },
+  {
+   "palabra": "ACNUR",
+   "definicion": "Organismo de las Naciones Unidas que protege a los refugiados. Se creó en 1950.",
+   "formas": [
+    "acnur"
+   ]
+  },
+  {
+   "palabra": "Convención de 1951",
+   "definicion": "Convención sobre el Estatuto de los Refugiados, que define quién es refugiado y establece el principio de no devolución.",
+   "formas": [
+    "convencion sobre el estatuto de los refugiados"
+   ]
+  },
+  {
+   "palabra": "Movimiento por los derechos civiles",
+   "definicion": "Movimiento de Estados Unidos que reclamó la igualdad ante la ley con acción no violenta. Logró la Ley de Derechos Civiles en 1964.",
+   "formas": [
+    "derechos civiles"
+   ]
+  },
+  {
+   "palabra": "Fridays for Future",
+   "definicion": "Movimiento que nació en 2018 con una estudiante sueca, Greta Thunberg, y reclama medidas contra el cambio climático.",
+   "formas": [
+    "viernes por el futuro"
+   ]
+  }
+ ],
+ "temas": [
+  {
+   "id": "geo-4-01-c1-1",
+   "clase": "geo-4-01",
+   "capsula": "c1",
+   "boton": "Estado, territorio y frontera",
+   "otra_manera": "El **Estado** es el conjunto de instituciones que gobiernan un país. Su **territorio** es el lugar donde manda, con su mar y su espacio aéreo. Y la **frontera** es el borde donde termina su territorio y empieza el de otro Estado. Esa línea no la dibuja la naturaleza: la acuerdan o la imponen las sociedades, por eso puede cambiar.",
+   "vida_real": "Pensá en el límite entre dos terrenos vecinos: lo marca un alambrado que alguien puso. Si los dueños no se ponen de acuerdo, hay un conflicto.",
+   "claves": [
+    "estado",
+    "territorio",
+    "frontera",
+    "limite"
+   ],
+   "parte": "Un territorio reclamado por dos pueblos"
+  },
+  {
+   "id": "geo-4-01-c1-2",
+   "clase": "geo-4-01",
+   "capsula": "c1",
+   "boton": "Por qué hay un conflicto territorial",
+   "otra_manera": "Hay un **conflicto territorial** cuando dos grupos reclaman el mismo lugar. En Medio Oriente, el pueblo israelí y el pueblo palestino reclaman el mismo territorio, que antes de 1948 fue el Mandato británico de Palestina. Cada pueblo se apoya en una historia larga en esa tierra.",
+   "vida_real": "Es como si dos familias dijeran que la misma casa es suya y las dos tuvieran papeles que lo muestran.",
+   "claves": [
+    "conflicto territorial",
+    "reclamo",
+    "israelies",
+    "palestinos"
+   ],
+   "parte": "Un territorio reclamado por dos pueblos"
+  },
+  {
+   "id": "geo-4-01-c1-3",
+   "clase": "geo-4-01",
+   "capsula": "c1",
+   "boton": "Jerusalén, una ciudad sagrada",
+   "otra_manera": "**Jerusalén** es importante para tres religiones a la vez. Para el judaísmo, el Muro Occidental; para el cristianismo, la iglesia del Santo Sepulcro; para el islam, la Explanada de las Mezquitas. Por eso muchas personas del mundo la consideran un lugar especial.",
+   "vida_real": "Imaginá un lugar al que van a rezar familias de tres religiones distintas: todas lo sienten propio.",
+   "claves": [
+    "jerusalen",
+    "ciudad sagrada",
+    "tres religiones"
+   ],
+   "parte": "Un territorio reclamado por dos pueblos"
+  },
+  {
+   "id": "geo-4-01-c1-4",
+   "clase": "geo-4-01",
+   "capsula": "c1",
+   "boton": "Mandato británico de Palestina",
+   "otra_manera": "Después de la Primera Guerra Mundial, el Reino Unido pasó a administrar ese territorio. Esa etapa se llama **Mandato británico de Palestina** y duró hasta 1948. Vivían allí una mayoría árabe y una comunidad judía que crecía con la llegada de inmigrantes.",
+   "vida_real": "Es como cuando un edificio queda a cargo de un administrador hasta que se decide qué pasa con él.",
+   "claves": [
+    "mandato",
+    "mandato britanico",
+    "reino unido"
+   ],
+   "parte": "Un territorio reclamado por dos pueblos"
+  },
+  {
+   "id": "geo-4-01-c2-1",
+   "clase": "geo-4-01",
+   "capsula": "c2",
+   "boton": "Qué pasó con el plan de 1947",
+   "otra_manera": "En 1947, la ONU propuso **dividir** el territorio en partes. Ese plan **no llegó a aplicarse**. Por eso las líneas que hoy aparecen en los mapas no vienen de ese plan sino de lo que pasó después: la guerra de 1948 y los armisticios de 1949.",
+   "vida_real": "Es como un reglamento que se escribió pero nunca se puso en práctica.",
+   "claves": [
+    "plan",
+    "1947",
+    "onu",
+    "particion"
+   ],
+   "parte": "Cómo se fueron trazando las líneas"
+  },
+  {
+   "id": "geo-4-01-c2-2",
+   "clase": "geo-4-01",
+   "capsula": "c2",
+   "boton": "Armisticio: líneas que no son fronteras",
+   "otra_manera": "Un **armisticio** es un acuerdo para terminar los combates. Las líneas que se trazan en un armisticio marcan hasta dónde llegó cada ejército, pero **no son fronteras reconocidas**: las fronteras definitivas se tienen que acordar aparte.",
+   "vida_real": "Pensá en una tregua en un partido: se frena el juego, pero todavía no se decidió quién ganó.",
+   "claves": [
+    "armisticio",
+    "1949",
+    "linea verde",
+    "fronteras reconocidas"
+   ],
+   "parte": "Cómo se fueron trazando las líneas"
+  },
+  {
+   "id": "geo-4-01-c2-3",
+   "clase": "geo-4-01",
+   "capsula": "c2",
+   "boton": "Los cambios de 1967 y los Acuerdos de Oslo",
+   "otra_manera": "En 1967, Israel pasó a controlar Cisjordania, Gaza, el Golán y el Sinaí. Entre 1993 y 1995, los **Acuerdos de Oslo** crearon la **Autoridad Palestina**. Pero tres temas siguen sin resolverse: las fronteras definitivas, Jerusalén y los refugiados.",
+   "vida_real": "Es como cuando se firma un acuerdo parcial: se arregla una parte, pero las cuestiones más difíciles quedan para después.",
+   "claves": [
+    "1967",
+    "oslo",
+    "autoridad palestina",
+    "temas pendientes"
+   ],
+   "parte": "Cómo se fueron trazando las líneas"
+  },
+  {
+   "id": "geo-4-01-c2-4",
+   "clase": "geo-4-01",
+   "capsula": "c2",
+   "boton": "Qué reclama cada parte",
+   "otra_manera": "Las dos partes reclaman cosas distintas. Del lado israelí se pide ser reconocido, vivir en paz y tener fronteras seguras. Del lado palestino se pide un Estado propio en Cisjordania y Gaza, tomando como base las líneas de 1967. Sobre Jerusalén y los refugiados también hay posiciones diferentes.",
+   "vida_real": "Es como una negociación entre dos personas: cada una cuenta qué necesita, y la dificultad es que sus pedidos no coinciden.",
+   "claves": [
+    "reclamos",
+    "posiciones",
+    "jerusalen",
+    "refugiados"
+   ],
+   "parte": "Cómo se fueron trazando las líneas"
+  },
+  {
+   "id": "geo-4-01-c3-1",
+   "clase": "geo-4-01",
+   "capsula": "c3",
+   "boton": "Qué es la inestabilidad política",
+   "otra_manera": "Hay **inestabilidad política** cuando los gobiernos caen, hay protestas muy grandes o estallan guerras dentro de un país. En esos casos, el Estado puede perder el control de una parte de su territorio, y otros grupos pasan a dominarla.",
+   "vida_real": "Es como un curso en el que el delegado ya no puede ordenar al grupo: cada sector hace lo que quiere.",
+   "claves": [
+    "inestabilidad",
+    "estado pierde control",
+    "guerra interna"
+   ],
+   "parte": "La inestabilidad política en el mundo árabe"
+  },
+  {
+   "id": "geo-4-01-c3-2",
+   "clase": "geo-4-01",
+   "capsula": "c3",
+   "boton": "Cómo empezó la Primavera Árabe",
+   "otra_manera": "En diciembre de 2010, en Túnez, un joven vendedor ambulante protestó contra el maltrato de las autoridades. Esa protesta se transformó en manifestaciones en todo el país y, en pocas semanas, se extendió a otros países árabes. Ese proceso se llama **Primavera Árabe**.",
+   "vida_real": "Es como un reclamo que empieza en un grupo chico y, cuando otros se identifican, se hace cada vez más grande.",
+   "claves": [
+    "primavera arabe",
+    "tunez",
+    "2010",
+    "protestas"
+   ],
+   "parte": "La inestabilidad política en el mundo árabe"
+  },
+  {
+   "id": "geo-4-01-c3-3",
+   "clase": "geo-4-01",
+   "capsula": "c3",
+   "boton": "Qué reclamaban y qué pasó después",
+   "otra_manera": "Mucha gente, sobre todo joven, pedía trabajo, libertades y el fin de gobiernos que llevaban décadas en el poder. Los resultados fueron distintos en cada país: en Túnez se aprobó una nueva Constitución, en Egipto hubo elecciones y luego un cambio de gobierno, y en Libia y Siria hubo enfrentamientos armados.",
+   "vida_real": "Es como cuando varias escuelas hacen el mismo reclamo: cada una consigue algo diferente según cómo responden sus autoridades.",
+   "claves": [
+    "causas",
+    "consecuencias",
+    "libia",
+    "siria",
+    "egipto"
+   ],
+   "parte": "La inestabilidad política en el mundo árabe"
+  },
+  {
+   "id": "geo-4-02-c1-1",
+   "clase": "geo-4-02",
+   "capsula": "c1",
+   "boton": "De dónde viene la sigla BRIC",
+   "otra_manera": "En 2001, el economista británico Jim O'Neill, del banco Goldman Sachs, juntó las iniciales de **B**rasil, **R**usia, **I**ndia y **C**hina para nombrar a cuatro economías grandes que crecían rápido. Al principio era solo una etiqueta; después los países empezaron a reunirse.",
+   "vida_real": "Es como cuando alguien le pone un nombre a un grupo de amigos y después el grupo se arma de verdad.",
+   "claves": [
+    "bric",
+    "sigla",
+    "oneill",
+    "2001"
+   ],
+   "parte": "De una sigla a un grupo de países"
+  },
+  {
+   "id": "geo-4-02-c1-2",
+   "clase": "geo-4-02",
+   "capsula": "c1",
+   "boton": "Qué es una economía emergente",
+   "otra_manera": "Una **economía emergente** es la de un país grande, con mucha población, que crece rápido y se vuelve más importante en el mundo.",
+   "vida_real": "Pensá en un equipo que viene mejorando temporada tras temporada y empieza a pelear los primeros puestos.",
+   "claves": [
+    "economia emergente",
+    "emergente",
+    "crecimiento"
+   ],
+   "parte": "De una sigla a un grupo de países"
+  },
+  {
+   "id": "geo-4-02-c1-3",
+   "clase": "geo-4-02",
+   "capsula": "c1",
+   "boton": "De BRIC a BRICS y la ampliación",
+   "otra_manera": "En 2010 se sumó **Sudáfrica** y la sigla pasó a ser **BRICS**. Desde 2024 entraron Egipto, Etiopía, Irán y los Emiratos Árabes Unidos, y en 2025, Indonesia. Arabia Saudita fue invitada pero no confirmó su ingreso. La Argentina fue invitada en 2023 y el gobierno decidió no incorporarse en diciembre de ese año.",
+   "vida_real": "Es como un club que empezó con cuatro socios y fue admitiendo nuevos miembros con el tiempo.",
+   "claves": [
+    "brics",
+    "sudafrica",
+    "ampliacion",
+    "miembros",
+    "argentina"
+   ],
+   "parte": "De una sigla a un grupo de países"
+  },
+  {
+   "id": "geo-4-02-c2-1",
+   "clase": "geo-4-02",
+   "capsula": "c2",
+   "boton": "Por qué pesa tanto el BRICS",
+   "otra_manera": "Pesa por su tamaño: reúne casi la mitad de la población mundial, alrededor del 40 % de la producción y una cuarta parte del comercio. Dentro del grupo hay países muy poblados, como China e India, y otros muy extensos, como Rusia y Brasil.",
+   "vida_real": "Es como un equipo que tiene muchos jugadores y mucho terreno: por su tamaño, es difícil ignorarlo.",
+   "claves": [
+    "peso",
+    "poblacion",
+    "produccion",
+    "comercio"
+   ],
+   "parte": "Su peso en la economía mundial"
+  },
+  {
+   "id": "geo-4-02-c2-2",
+   "clase": "geo-4-02",
+   "capsula": "c2",
+   "boton": "Qué aporta cada miembro",
+   "otra_manera": "Cada país se destaca en algo diferente. Brasil, en alimentos y minerales. Rusia, en petróleo y gas. India, en servicios informáticos. China, en productos industriales. Sudáfrica, en minerales como oro y platino. Por eso sus economías se complementan.",
+   "vida_real": "Es como un grupo de trabajo donde cada integrante hace una parte distinta y entre todos arman el proyecto.",
+   "claves": [
+    "brasil",
+    "rusia",
+    "india",
+    "china",
+    "sudafrica",
+    "complementan"
+   ],
+   "parte": "Su peso en la economía mundial"
+  },
+  {
+   "id": "geo-4-02-c2-3",
+   "clase": "geo-4-02",
+   "capsula": "c2",
+   "boton": "Por qué la población no alcanza para producir lo mismo",
+   "otra_manera": "Tener la mitad de la población mundial no significa producir la mitad de lo que se produce. La producción depende también de la tecnología y de los recursos. Por eso el BRICS reúne el 49,5 % de la población pero alrededor del 40 % de la producción.",
+   "vida_real": "Es como un campo grande trabajado a mano: aunque trabajen muchas personas, rinde menos que uno con maquinaria.",
+   "claves": [
+    "poblacion",
+    "produccion",
+    "tecnologia",
+    "49,5"
+   ],
+   "parte": "Su peso en la economía mundial"
+  },
+  {
+   "id": "geo-4-02-c3-1",
+   "clase": "geo-4-02",
+   "capsula": "c3",
+   "boton": "Centro y periferia",
+   "otra_manera": "Durante gran parte del siglo XX, las grandes decisiones económicas las tomaban los países industrializados del hemisferio norte: el **centro**. La **periferia** eran los países que vendían materias primas y compraban productos industriales.",
+   "vida_real": "Es como un negocio donde unos fabrican y fijan el precio, y otros solo le venden los materiales.",
+   "claves": [
+    "centro",
+    "periferia",
+    "materias primas"
+   ],
+   "parte": "Cómo cambia el mapa del poder"
+  },
+  {
+   "id": "geo-4-02-c3-2",
+   "clase": "geo-4-02",
+   "capsula": "c3",
+   "boton": "Mundo bipolar, unipolar y multipolar",
+   "otra_manera": "**Bipolar** significa dos potencias enfrentadas, como Estados Unidos y la Unión Soviética en la Guerra Fría. **Unipolar** es una sola gran potencia, como Estados Unidos después de 1991. **Multipolar** es cuando el poder se reparte entre varios polos, como hoy.",
+   "vida_real": "Pensá en un patio de escuela: dos grupos que mandan (bipolar), uno solo (unipolar) o varios grupos con peso parecido (multipolar).",
+   "claves": [
+    "bipolar",
+    "unipolar",
+    "multipolar",
+    "guerra fria"
+   ],
+   "parte": "Cómo cambia el mapa del poder"
+  },
+  {
+   "id": "geo-4-02-c3-3",
+   "clase": "geo-4-02",
+   "capsula": "c3",
+   "boton": "G7 y BRICS: qué los diferencia",
+   "otra_manera": "El **G7** es un grupo de siete países industrializados: Alemania, Canadá, Estados Unidos, Francia, Italia, Japón y el Reino Unido. El **BRICS** reúne países emergentes que buscan más peso en las decisiones mundiales. Los dos hacen reuniones periódicas.",
+   "vida_real": "Es como dos grupos de compañeros que se juntan cada tanto: unos hace mucho tiempo, otros hace menos y con integrantes distintos.",
+   "claves": [
+    "g7",
+    "brics",
+    "diferencia"
+   ],
+   "parte": "Cómo cambia el mapa del poder"
+  },
+  {
+   "id": "geo-4-02-c3-4",
+   "clase": "geo-4-02",
+   "capsula": "c3",
+   "boton": "Las dos miradas sobre el BRICS",
+   "otra_manera": "Quienes valoran el BRICS dicen que da más voz a países que durante mucho tiempo tuvieron poco peso. Quienes señalan sus límites dicen que sus miembros tienen gobiernos e intereses muy distintos, y que eso hace difícil que actúen juntos.",
+   "vida_real": "Es como un grupo de proyecto en el que cada integrante tiene ideas distintas: puede traer ventajas, pero cuesta ponerse de acuerdo.",
+   "claves": [
+    "posiciones",
+    "valoran",
+    "limites",
+    "nuevo banco de desarrollo"
+   ],
+   "parte": "Cómo cambia el mapa del poder"
+  },
+  {
+   "id": "geo-4-03-c1-1",
+   "clase": "geo-4-03",
+   "capsula": "c1",
+   "boton": "Qué es el cinturón de fuego",
+   "otra_manera": "Es una franja de unos 40.000 kilómetros que rodea el océano Pacífico. Ahí hay cerca del 75 % de los volcanes del mundo y ocurre la mayor parte de los sismos, incluidos los más fuertes. La cordillera de los Andes forma parte de ese cinturón.",
+   "vida_real": "Si marcaras con puntos todos los sismos y volcanes en un mapa, formarían una especie de anillo alrededor del Pacífico.",
+   "claves": [
+    "cinturon de fuego",
+    "pacifico",
+    "volcanes",
+    "sismos"
+   ],
+   "parte": "Un anillo de placas alrededor del Pacífico"
+  },
+  {
+   "id": "geo-4-03-c1-2",
+   "clase": "geo-4-03",
+   "capsula": "c1",
+   "boton": "Placas tectónicas y subducción",
+   "otra_manera": "La corteza terrestre está partida en grandes bloques, las **placas tectónicas**, que se mueven unos pocos centímetros por año. Cuando una placa más pesada se hunde por debajo de otra, se llama **subducción**. Frente a Chile y Perú, la placa de Nazca se hunde bajo la Sudamericana.",
+   "vida_real": "Imaginá dos alfombras empujadas una contra otra: una se mete por debajo de la otra y la de arriba se levanta.",
+   "claves": [
+    "placas",
+    "tectonicas",
+    "subduccion",
+    "nazca"
+   ],
+   "parte": "Un anillo de placas alrededor del Pacífico"
+  },
+  {
+   "id": "geo-4-03-c1-3",
+   "clase": "geo-4-03",
+   "capsula": "c1",
+   "boton": "Cómo se forman los sismos y los volcanes",
+   "otra_manera": "El roce entre las placas acumula **tensión**. Cuando esa tensión se libera de golpe, el suelo vibra: es un **sismo**. Parte de la roca que se hunde se derrite y forma **magma**, que sube y sale por los **volcanes**.",
+   "vida_real": "Es como doblar una regla de plástico hasta que se quiebra de golpe: la energía acumulada se libera.",
+   "claves": [
+    "sismo",
+    "magma",
+    "volcan",
+    "tension"
+   ],
+   "parte": "Un anillo de placas alrededor del Pacífico"
+  },
+  {
+   "id": "geo-4-03-c2-1",
+   "clase": "geo-4-03",
+   "capsula": "c2",
+   "boton": "Amenaza, vulnerabilidad y riesgo",
+   "otra_manera": "La **amenaza** es el fenómeno natural que puede ocurrir. La **vulnerabilidad** es qué tan expuesta y poco preparada está una sociedad. El **riesgo** es la probabilidad de sufrir daños y aparece cuando se juntan las dos.",
+   "vida_real": "Una tormenta fuerte es la amenaza. Una casa con el techo flojo es la vulnerabilidad. El riesgo es que el techo se caiga.",
+   "claves": [
+    "amenaza",
+    "vulnerabilidad",
+    "riesgo"
+   ],
+   "parte": "Amenaza, vulnerabilidad y riesgo"
+  },
+  {
+   "id": "geo-4-03-c2-2",
+   "clase": "geo-4-03",
+   "capsula": "c2",
+   "boton": "Por qué la vulnerabilidad depende de la sociedad",
+   "otra_manera": "Nadie decide dónde chocan las placas, pero sí **dónde** se construye, **con qué reglas**, **qué información** tiene la gente y **qué recursos** hay para responder. Por eso se dice que los desastres tienen un carácter social y político: se pueden prevenir.",
+   "vida_real": "Dos casas en la misma calle reciben la misma lluvia: la que tiene buen techo no se moja.",
+   "claves": [
+    "vulnerabilidad",
+    "decisiones",
+    "prevenir",
+    "social"
+   ],
+   "parte": "Amenaza, vulnerabilidad y riesgo"
+  },
+  {
+   "id": "geo-4-03-c2-3",
+   "clase": "geo-4-03",
+   "capsula": "c2",
+   "boton": "Valdivia y San Juan",
+   "otra_manera": "El sismo de Valdivia (1960) fue de magnitud 9,5, el mayor registrado. El de San Juan (1944) fue de cerca de 7, mucho menor, pero causó alrededor de 10.000 víctimas porque la mayoría de las casas eran de adobe y no había reglas de construcción pensadas para sismos. Una mayor vulnerabilidad explica más daño aunque el sismo sea más débil.",
+   "vida_real": "Es como dos golpes: uno fuerte contra una pared firme y uno más suave contra un vidrio. El vidrio se rompe más.",
+   "claves": [
+    "valdivia",
+    "san juan",
+    "1944",
+    "1960",
+    "adobe"
+   ],
+   "parte": "Amenaza, vulnerabilidad y riesgo"
+  },
+  {
+   "id": "geo-4-03-c3-1",
+   "clase": "geo-4-03",
+   "capsula": "c3",
+   "boton": "Qué es la gestión del riesgo",
+   "otra_manera": "Es el conjunto de acciones que se toman antes, durante y después de un fenómeno para que haga menos daño. Tiene tres etapas: **prevención** (antes), **respuesta** (durante) y **recuperación** (después). Reduce la vulnerabilidad, no la amenaza.",
+   "vida_real": "Es como el plan de una escuela para un simulacro: qué se revisa antes, qué se hace durante y cómo se vuelve a la normalidad después.",
+   "claves": [
+    "gestion del riesgo",
+    "prevencion",
+    "respuesta",
+    "recuperacion"
+   ],
+   "parte": "Prevenir para reducir el riesgo"
+  },
+  {
+   "id": "geo-4-03-c3-2",
+   "clase": "geo-4-03",
+   "capsula": "c3",
+   "boton": "Qué cambió después del terremoto de 1944",
+   "otra_manera": "Se creó el Consejo de Reconstrucción de San Juan, que elaboró un Código de Edificación para obras públicas y privadas, y la capital se rediseñó. En 1972 se creó el **INPRES**, que desarrolla y actualiza los reglamentos de construcción sismorresistente.",
+   "vida_real": "Es como cuando, después de un accidente, se cambian las reglas para que no vuelva a pasar lo mismo.",
+   "claves": [
+    "inpres",
+    "codigo de edificacion",
+    "reconstruccion",
+    "1972"
+   ],
+   "parte": "Prevenir para reducir el riesgo"
+  },
+  {
+   "id": "geo-4-03-c3-3",
+   "clase": "geo-4-03",
+   "capsula": "c3",
+   "boton": "Construcción sismorresistente y simulacros",
+   "otra_manera": "**Sismorresistente** quiere decir construido para soportar los movimientos de un sismo. En las zonas sísmicas de la Argentina se aplican reglamentos de construcción y muchas escuelas hacen simulacros para que cada estudiante sepa qué hacer.",
+   "vida_real": "Un simulacro es un ensayo: se practica antes para saber cómo actuar si ocurre de verdad.",
+   "claves": [
+    "sismorresistente",
+    "simulacro",
+    "reglamentos"
+   ],
+   "parte": "Prevenir para reducir el riesgo"
+  },
+  {
+   "id": "geo-4-04-c1-1",
+   "clase": "geo-4-04",
+   "capsula": "c1",
+   "boton": "Qué es la desertización",
+   "otra_manera": "Es la degradación de la tierra en zonas secas: el suelo pierde su capacidad de producir, la vegetación desaparece y el paisaje se parece cada vez más a un desierto. No es lo mismo que un desierto natural, como el Sahara: es un **proceso**.",
+   "vida_real": "Es como un jardín que se abandona: de a poco la tierra queda sin plantas y sin vida.",
+   "claves": [
+    "desertizacion",
+    "desertificacion",
+    "degradacion",
+    "proceso"
+   ],
+   "parte": "Una franja entre el desierto y la sabana"
+  },
+  {
+   "id": "geo-4-04-c1-2",
+   "clase": "geo-4-04",
+   "capsula": "c1",
+   "boton": "Dónde está el Sahel",
+   "otra_manera": "El **Sahel** es una franja semiárida que cruza África de oeste a este, al sur del desierto del Sahara, desde Senegal hasta Sudán y Eritrea. Al norte tiene el desierto y al sur, la sabana, más húmeda.",
+   "vida_real": "Es como una franja intermedia entre dos lugares muy distintos: ni tan seco como el desierto ni tan verde como la sabana.",
+   "claves": [
+    "sahel",
+    "sahara",
+    "africa",
+    "sabana"
+   ],
+   "parte": "Una franja entre el desierto y la sabana"
+  },
+  {
+   "id": "geo-4-04-c1-3",
+   "clase": "geo-4-04",
+   "capsula": "c1",
+   "boton": "Por qué el Sahel es tan frágil",
+   "otra_manera": "Llueve poco y solo durante unos meses del año. Entonces, una seguidilla de años secos o un uso excesivo de la tierra alcanza para que el suelo se degrade. Entre fines de la década de 1960 y la de 1980 hubo sequías muy largas.",
+   "vida_real": "Es como una persona con pocos ahorros: un par de meses malos ya la complican.",
+   "claves": [
+    "sequia",
+    "lluvia",
+    "equilibrio fragil"
+   ],
+   "parte": "Una franja entre el desierto y la sabana"
+  },
+  {
+   "id": "geo-4-04-c2-1",
+   "clase": "geo-4-04",
+   "capsula": "c2",
+   "boton": "Las causas humanas de la desertización",
+   "otra_manera": "Hay tres causas humanas principales. El **sobrepastoreo**: hay más animales de los que el pasto puede alimentar. La **tala** de árboles y arbustos para leña o para abrir campos. Y el **cultivo sin descanso**: la tierra se siembra todos los años y no se recupera.",
+   "vida_real": "Es como usar siempre el mismo cuaderno para todo sin cambiarlo nunca: se gasta.",
+   "claves": [
+    "sobrepastoreo",
+    "tala",
+    "cultivo sin descanso",
+    "causas humanas"
+   ],
+   "parte": "Un ciclo difícil de cortar"
+  },
+  {
+   "id": "geo-4-04-c2-2",
+   "clase": "geo-4-04",
+   "capsula": "c2",
+   "boton": "El ciclo de la desertización",
+   "otra_manera": "Al haber menos vegetación, el suelo queda desnudo; entonces el viento y la lluvia lo desgastan (**erosión**) y produce menos. Como produce menos, se presiona todavía más la tierra para obtener alimento y leña. Así el ciclo vuelve a empezar y es difícil de cortar.",
+   "vida_real": "Es como una cuenta de ahorro: si gastás más que el interés, el ahorro baja y el interés también.",
+   "claves": [
+    "ciclo",
+    "erosion",
+    "suelo desnudo",
+    "presion"
+   ],
+   "parte": "Un ciclo difícil de cortar"
+  },
+  {
+   "id": "geo-4-04-c2-3",
+   "clase": "geo-4-04",
+   "capsula": "c2",
+   "boton": "El papel del clima",
+   "otra_manera": "Las lluvias del Sahel varían mucho de un año a otro. Las sequías largas dejan el suelo seco y sin protección. Cuando una sequía coincide con un uso intenso de la tierra, el daño es mucho mayor.",
+   "vida_real": "Es como una mala racha que llega justo cuando ya estabas con pocos recursos.",
+   "claves": [
+    "clima",
+    "sequias",
+    "causa natural"
+   ],
+   "parte": "Un ciclo difícil de cortar"
+  },
+  {
+   "id": "geo-4-04-c3-1",
+   "clase": "geo-4-04",
+   "capsula": "c3",
+   "boton": "Formas de producir en el Sahel",
+   "otra_manera": "Muchas familias practican la **agricultura de secano**: cultivan mijo y sorgo con el agua de lluvia. Otras son **pastoras** y mueven el ganado siguiendo el pasto y el agua. Donde hay agua, como en el delta interior del Níger, se pesca, se cría ganado y se cultiva arroz.",
+   "vida_real": "Es como elegir cómo ganarse la vida según lo que ofrece el lugar donde vivís.",
+   "claves": [
+    "agricultura de secano",
+    "pastoreo",
+    "delta del niger",
+    "mijo"
+   ],
+   "parte": "Formas de producir y la Gran Muralla Verde"
+  },
+  {
+   "id": "geo-4-04-c3-2",
+   "clase": "geo-4-04",
+   "capsula": "c3",
+   "boton": "Cuándo una forma de producir degrada la tierra",
+   "otra_manera": "Cualquier forma de producir degrada la tierra si toma más de lo que el suelo repone. El secano degrada si se siembra siempre sin dejar descansar el suelo; el pastoreo, si hay más animales de los que el pasto alimenta. El **silvopastoreo** combina árboles y ganado y cuida la tierra si los árboles se conservan.",
+   "vida_real": "Es como usar una herramienta sin darle nunca descanso: al final se rompe.",
+   "claves": [
+    "silvopastoreo",
+    "degradar",
+    "forma de produccion"
+   ],
+   "parte": "Formas de producir y la Gran Muralla Verde"
+  },
+  {
+   "id": "geo-4-04-c3-3",
+   "clase": "geo-4-04",
+   "capsula": "c3",
+   "boton": "La Gran Muralla Verde",
+   "otra_manera": "Es un proyecto de países africanos, que empezó en 2007, para recuperar tierras degradadas plantando una franja de árboles y vegetación desde Senegal hasta Yibuti. No es una pared. Participan unos 20 países y la meta para 2030 es recuperar 100 millones de hectáreas.",
+   "vida_real": "Es como una cortina de árboles que protege un campo del viento, pero a escala de continente.",
+   "claves": [
+    "gran muralla verde",
+    "senegal",
+    "yibuti",
+    "2007"
+   ],
+   "parte": "Formas de producir y la Gran Muralla Verde"
+  },
+  {
+   "id": "geo-4-05-c1-1",
+   "clase": "geo-4-05",
+   "capsula": "c1",
+   "boton": "Qué es el petróleo y por qué no se renueva",
+   "otra_manera": "Es un **hidrocarburo** que se formó a partir de restos de organismos acumulados en el fondo de mares y lagos antiguos, cubiertos por sedimentos durante millones de años. Como tarda tanto en formarse, es un **recurso no renovable**: lo que se extrae no se repone a la escala de una vida humana.",
+   "vida_real": "Es como una torta que lleva millones de años de horneado: una vez que se come, no se hace otra.",
+   "claves": [
+    "petroleo",
+    "hidrocarburo",
+    "no renovable",
+    "cuenca sedimentaria"
+   ],
+   "parte": "Dónde está el petróleo"
+  },
+  {
+   "id": "geo-4-05-c1-2",
+   "clase": "geo-4-05",
+   "capsula": "c1",
+   "boton": "Petróleo convencional y no convencional",
+   "otra_manera": "El **convencional** está en rocas porosas, de donde sale con relativa facilidad al hacer un pozo. El **no convencional** está atrapado en rocas muy compactas, como el _shale_, y se extrae con la **fractura hidráulica**: se inyecta agua, arena y productos químicos a presión para abrir la roca.",
+   "vida_real": "Es la diferencia entre sacar agua de una esponja (convencional) y de una piedra (no convencional).",
+   "claves": [
+    "convencional",
+    "no convencional",
+    "shale",
+    "fractura hidraulica"
+   ],
+   "parte": "Dónde está el petróleo"
+  },
+  {
+   "id": "geo-4-05-c1-3",
+   "clase": "geo-4-05",
+   "capsula": "c1",
+   "boton": "Reservas probadas",
+   "otra_manera": "Son el petróleo que se sabe que existe y que se puede extraer con la tecnología y los precios actuales. Las mayores están en Venezuela, Arabia Saudita, Irán, Irak y los Emiratos Árabes Unidos.",
+   "vida_real": "Es como el dinero que sabés que tenés guardado y podés usar hoy, a diferencia de una herencia que quizás llegue.",
+   "claves": [
+    "reservas",
+    "probadas",
+    "venezuela",
+    "arabia saudita"
+   ],
+   "parte": "Dónde está el petróleo"
+  },
+  {
+   "id": "geo-4-05-c2-1",
+   "clase": "geo-4-05",
+   "capsula": "c2",
+   "boton": "Por qué el que más reservas tiene no es el que más produce",
+   "otra_manera": "Tener petróleo bajo tierra no alcanza: para extraerlo hacen falta inversiones, tecnología y empresas. Por eso el mayor productor es Estados Unidos, que produjo casi 22 millones de barriles por día en 2023, y no Venezuela, que tiene las mayores reservas.",
+   "vida_real": "Es como tener un terreno con mucho material de construcción pero sin herramientas ni obreros.",
+   "claves": [
+    "productor",
+    "reservas",
+    "estados unidos",
+    "inversiones"
+   ],
+   "parte": "Quiénes lo producen y quiénes lo consumen"
+  },
+  {
+   "id": "geo-4-05-c2-2",
+   "clase": "geo-4-05",
+   "capsula": "c2",
+   "boton": "País exportador y país importador",
+   "otra_manera": "Un país es **exportador** si produce más petróleo del que consume y vende lo que sobra. Es **importador** si consume más de lo que produce y tiene que comprar afuera, como China.",
+   "vida_real": "Es como una familia que cosecha más tomates de los que come y vende el resto, frente a otra que tiene que comprarlos.",
+   "claves": [
+    "exportador",
+    "importador",
+    "china",
+    "consumo"
+   ],
+   "parte": "Quiénes lo producen y quiénes lo consumen"
+  },
+  {
+   "id": "geo-4-05-c2-3",
+   "clase": "geo-4-05",
+   "capsula": "c2",
+   "boton": "La OPEP y la crisis de 1973",
+   "otra_manera": "La **OPEP** se fundó en 1960, en Bagdad, para coordinar cuánto producir y defender el precio. En 1973, varios países árabes exportadores dejaron de vender petróleo a algunos países occidentales y el precio se multiplicó por cuatro. Mostró cuánto dependía la economía mundial de este recurso.",
+   "vida_real": "Es como cuando los vendedores de un producto se ponen de acuerdo para no regalarlo y el precio sube.",
+   "claves": [
+    "opep",
+    "1973",
+    "crisis del petroleo"
+   ],
+   "parte": "Quiénes lo producen y quiénes lo consumen"
+  },
+  {
+   "id": "geo-4-05-c2-4",
+   "clase": "geo-4-05",
+   "capsula": "c2",
+   "boton": "Vaca Muerta",
+   "otra_manera": "Es una formación de shale en la provincia de Neuquén, con grandes cantidades de petróleo y gas no convencional. En mayo de 2025 aportaba el 57,7 % del petróleo producido en el país: casi 6 de cada 10 barriles.",
+   "vida_real": "Es como si, de diez botellas que se llenan en el país, casi seis salieran de un mismo lugar.",
+   "claves": [
+    "vaca muerta",
+    "neuquen",
+    "shale"
+   ],
+   "parte": "Quiénes lo producen y quiénes lo consumen"
+  },
+  {
+   "id": "geo-4-05-c3-1",
+   "clase": "geo-4-05",
+   "capsula": "c3",
+   "boton": "Por qué hay disputas por el petróleo",
+   "otra_manera": "Como el petróleo es valioso y está repartido de forma muy desigual, su control genera disputas. Hay disputas entre Estados por un yacimiento o una zona, disputas por las rutas de transporte, y disputas dentro de un mismo país.",
+   "vida_real": "Es como un recurso valioso que no está parejo entre todos: quien lo tiene gana, y los demás quieren acceder.",
+   "claves": [
+    "disputas",
+    "control",
+    "yacimiento"
+   ],
+   "parte": "Disputas por los recursos energéticos"
+  },
+  {
+   "id": "geo-4-05-c3-2",
+   "clase": "geo-4-05",
+   "capsula": "c3",
+   "boton": "El estrecho de Ormuz",
+   "otra_manera": "Es un paso de mar angosto entre Irán y Omán por donde sale al mundo el petróleo del golfo Pérsico. Cuando hay tensiones en esa zona, los países importadores temen quedarse sin abastecimiento y el precio sube.",
+   "vida_real": "Es como una única puerta de salida: si se traba, nadie pasa.",
+   "claves": [
+    "ormuz",
+    "estrecho",
+    "ruta",
+    "golfo persico"
+   ],
+   "parte": "Disputas por los recursos energéticos"
+  },
+  {
+   "id": "geo-4-05-c3-3",
+   "clase": "geo-4-05",
+   "capsula": "c3",
+   "boton": "El debate sobre Vaca Muerta",
+   "otra_manera": "Quienes defienden ampliar la extracción dicen que genera empleo e inversiones, permite exportar y reduce la necesidad de importar energía. Quienes advierten sobre sus efectos señalan que la fractura hidráulica usa mucha agua, puede contaminar suelos y napas si hay accidentes y aumenta la dependencia de un recurso no renovable.",
+   "vida_real": "Es como discutir en tu familia si conviene una obra: hay ventajas y hay riesgos, y cada uno pesa distinto.",
+   "claves": [
+    "debate",
+    "ambiente",
+    "extraccion",
+    "vaca muerta"
+   ],
+   "parte": "Disputas por los recursos energéticos"
+  },
+  {
+   "id": "geo-4-06-c1-1",
+   "clase": "geo-4-06",
+   "capsula": "c1",
+   "boton": "Qué es una ciudad global",
+   "otra_manera": "Es una ciudad que concentra las **funciones de dirección** de la economía mundial: sedes de grandes empresas, bancos, bolsas de valores y servicios avanzados. La socióloga Saskia Sassen usó el nombre en 1991 para Nueva York, Londres y Tokio.",
+   "vida_real": "Es como el centro de comando de un juego en red: desde ahí se toman decisiones que afectan a muchos lugares.",
+   "claves": [
+    "ciudad global",
+    "sassen",
+    "servicios avanzados",
+    "sede"
+   ],
+   "parte": "Qué es una ciudad global"
+  },
+  {
+   "id": "geo-4-06-c1-2",
+   "clase": "geo-4-06",
+   "capsula": "c1",
+   "boton": "Por qué no depende del tamaño",
+   "otra_manera": "Hay ciudades enormes que no son globales y ciudades más chicas que sí lo son. Lo que importa es la **conexión** con el resto del mundo y la capacidad de tomar decisiones que afectan a otros lugares, no cuántos habitantes tiene.",
+   "vida_real": "Un pueblo chico con una buena conexión de internet puede estar más comunicado que una ciudad grande aislada.",
+   "claves": [
+    "tamano",
+    "habitantes",
+    "conexion"
+   ],
+   "parte": "Qué es una ciudad global"
+  },
+  {
+   "id": "geo-4-06-c1-3",
+   "clase": "geo-4-06",
+   "capsula": "c1",
+   "boton": "Servicios avanzados",
+   "otra_manera": "Son las finanzas, la consultoría, la contabilidad, el derecho de empresas y la publicidad. Las ciudades globales los concentran.",
+   "vida_real": "Es como las tareas de apoyo de un proyecto grande: no fabrican el producto, pero sin ellas no se puede organizar.",
+   "claves": [
+    "servicios avanzados",
+    "finanzas",
+    "consultoria"
+   ],
+   "parte": "Qué es una ciudad global"
+  },
+  {
+   "id": "geo-4-06-c2-1",
+   "clase": "geo-4-06",
+   "capsula": "c2",
+   "boton": "Las ciudades como nudos de una red",
+   "otra_manera": "Las ciudades globales son como los **nudos** de una red que cubre el planeta. Por esa red circulan **flujos** de personas, capitales, información y mercancías. Cuantos más flujos pasan por una ciudad, más importante es su papel.",
+   "vida_real": "Es como una red de rutas con estaciones: las estaciones por donde pasan más trenes son las más importantes.",
+   "claves": [
+    "red",
+    "nudos",
+    "flujos"
+   ],
+   "parte": "Nudos de una red mundial"
+  },
+  {
+   "id": "geo-4-06-c2-2",
+   "clase": "geo-4-06",
+   "capsula": "c2",
+   "boton": "Los cuatro flujos",
+   "otra_manera": "Las **personas** viajan en aviones. Los **capitales** son el dinero que se invierte o se presta. La **información** circula por fibra óptica y satélites. Las **mercancías** viajan en barcos y aviones de carga.",
+   "vida_real": "Pensá en lo que sale de tu casa y llega al mundo: un paquete (mercancía), un mensaje (información), una transferencia (capital) o un viaje (personas).",
+   "claves": [
+    "flujos",
+    "personas",
+    "capitales",
+    "informacion",
+    "mercancias"
+   ],
+   "parte": "Nudos de una red mundial"
+  },
+  {
+   "id": "geo-4-06-c2-3",
+   "clase": "geo-4-06",
+   "capsula": "c2",
+   "boton": "Qué es GaWC y qué dice de Buenos Aires",
+   "otra_manera": "**GaWC** es un grupo de investigación de universidades del Reino Unido y Bélgica que clasifica las ciudades según dónde tienen oficinas las grandes empresas de servicios avanzados. En 2024 analizó 785 ciudades: Londres y Nueva York quedaron en el nivel más alto y Buenos Aires está entre las 49 de nivel Alfa.",
+   "vida_real": "Es como un ranking de conexión: se mide qué tan presente está cada ciudad en la red de las grandes empresas.",
+   "claves": [
+    "gawc",
+    "alfa",
+    "buenos aires",
+    "ranking"
+   ],
+   "parte": "Nudos de una red mundial"
+  },
+  {
+   "id": "geo-4-06-c3-1",
+   "clase": "geo-4-06",
+   "capsula": "c3",
+   "boton": "Articulación y fragmentación",
+   "otra_manera": "Las ciudades globales están **articuladas**: muy conectadas con el resto del mundo. Pero por dentro suelen estar **fragmentadas**: algunos barrios tienen oficinas modernas, comercios y buenas conexiones, y otros quedan lejos de esos beneficios.",
+   "vida_real": "Es como una escuela con un patio bien equipado y otro sin bancos: la misma escuela, dos realidades.",
+   "claves": [
+    "articulacion",
+    "fragmentacion",
+    "barrios"
+   ],
+   "parte": "Conectadas con el mundo, divididas por dentro"
+  },
+  {
+   "id": "geo-4-06-c3-2",
+   "clase": "geo-4-06",
+   "capsula": "c3",
+   "boton": "Polarización social",
+   "otra_manera": "Sassen observó que en las ciudades globales crecen a la vez dos grupos de trabajadores: profesionales muy bien pagos de las finanzas y los servicios avanzados, y trabajadores con salarios bajos que limpian oficinas, reparten pedidos o cuidan a otras personas. A ese proceso lo llamó **polarización social**.",
+   "vida_real": "Es como si en un mismo edificio hubiera dos grupos que trabajan para lo mismo pero con ingresos muy diferentes.",
+   "claves": [
+    "polarizacion",
+    "salarios",
+    "trabajadores"
+   ],
+   "parte": "Conectadas con el mundo, divididas por dentro"
+  },
+  {
+   "id": "geo-4-06-c3-3",
+   "clase": "geo-4-06",
+   "capsula": "c3",
+   "boton": "Buenos Aires como ejemplo",
+   "otra_manera": "Buenos Aires concentra sedes de empresas, bancos, la bolsa y el principal aeropuerto internacional del país. En su área metropolitana hay barrios con mejores conexiones y servicios que otros. Por eso es un ejemplo cercano de articulación y fragmentación.",
+   "vida_real": "Es como mirar tu propia ciudad con otros ojos: lo que tiene de conectada y lo que tiene de desigual.",
+   "claves": [
+    "buenos aires",
+    "area metropolitana",
+    "ejemplo"
+   ],
+   "parte": "Conectadas con el mundo, divididas por dentro"
+  },
+  {
+   "id": "geo-4-07-c1-1",
+   "clase": "geo-4-07",
+   "capsula": "c1",
+   "boton": "Cómo organiza la religión una ciudad",
+   "otra_manera": "En muchas ciudades de Asia, los templos ocupan los lugares centrales, las calles llevan a ellos y el calendario religioso marca la vida de la ciudad. Es decir, la religión **organiza el espacio urbano**.",
+   "vida_real": "Pensá en una plaza con una iglesia en el centro y las calles que salen de ella: la ciudad se armó alrededor de ese lugar.",
+   "claves": [
+    "religion",
+    "espacio urbano",
+    "templos"
+   ],
+   "parte": "Ciudades de Asia y religión"
+  },
+  {
+   "id": "geo-4-07-c1-2",
+   "clase": "geo-4-07",
+   "capsula": "c1",
+   "boton": "Ciudades sagradas y peregrinaciones",
+   "otra_manera": "Una **ciudad sagrada** es un lugar que una religión considera especial. Una **peregrinación** es el viaje que hacen los creyentes hasta allí por motivos religiosos. Como llegan millones de personas, las ciudades tienen que organizar transporte, alojamiento, agua y seguridad.",
+   "vida_real": "Es como organizar un festival enorme: hay que pensar dónde duerme, come y cómo se traslada toda esa gente.",
+   "claves": [
+    "ciudad sagrada",
+    "peregrinacion",
+    "varanasi",
+    "la meca"
+   ],
+   "parte": "Ciudades de Asia y religión"
+  },
+  {
+   "id": "geo-4-07-c1-3",
+   "clase": "geo-4-07",
+   "capsula": "c1",
+   "boton": "Varanasi y el Ganges",
+   "otra_manera": "**Varanasi**, en el norte de la India, es una de las ciudades más sagradas del hinduismo. Está a orillas del río **Ganges**, sagrado para los hindúes. A lo largo del río hay **ghats**, escalinatas que bajan hasta el agua, donde la gente se baña, reza y celebra ceremonias.",
+   "vida_real": "Es como una ciudad que mira a un único lugar: toda la vida se orienta hacia el río.",
+   "claves": [
+    "varanasi",
+    "ganges",
+    "ghats",
+    "hinduismo"
+   ],
+   "parte": "Ciudades de Asia y religión"
+  },
+  {
+   "id": "geo-4-07-c2-1",
+   "clase": "geo-4-07",
+   "capsula": "c2",
+   "boton": "Ciudad, área metropolitana y megalópolis",
+   "otra_manera": "Una **ciudad** crece y sus alrededores se urbanizan: se forma un **área metropolitana**, como el Gran Rosario. Cuando varias áreas metropolitanas cercanas crecen tanto que se tocan, forman una franja urbana casi continua: una **megalópolis**.",
+   "vida_real": "Es como tres manchas de tinta que se van extendiendo hasta unirse en una sola mancha larga.",
+   "claves": [
+    "ciudad",
+    "area metropolitana",
+    "megalopolis"
+   ],
+   "parte": "La megalópolis japonesa"
+  },
+  {
+   "id": "geo-4-07-c2-2",
+   "clase": "geo-4-07",
+   "capsula": "c2",
+   "boton": "La megalópolis japonesa",
+   "otra_manera": "En la costa del Pacífico de Japón se extiende una de las megalópolis más grandes del mundo. Une las áreas metropolitanas de Tokio y Yokohama, Nagoya, Kioto, Osaka y Kobe. La mayor parte de la población y de la industria del país está en esa franja.",
+   "vida_real": "Es como si varias ciudades grandes estuvieran alineadas a lo largo de una misma costa, casi sin espacios vacíos entre ellas.",
+   "claves": [
+    "japon",
+    "tokio",
+    "osaka",
+    "nagoya"
+   ],
+   "parte": "La megalópolis japonesa"
+  },
+  {
+   "id": "geo-4-07-c2-3",
+   "clase": "geo-4-07",
+   "capsula": "c2",
+   "boton": "Por qué se formó en la costa",
+   "otra_manera": "Japón tiene mucha montaña y poca llanura. Las llanuras de la costa son el mejor lugar para construir ciudades, fábricas y puertos. Por eso la población se concentró allí y las ciudades terminaron uniéndose.",
+   "vida_real": "Es como si en un patio con poco lugar plano, todos jugaran en la misma zona.",
+   "claves": [
+    "llanuras",
+    "costa",
+    "montana",
+    "poblacion"
+   ],
+   "parte": "La megalópolis japonesa"
+  },
+  {
+   "id": "geo-4-07-c3-1",
+   "clase": "geo-4-07",
+   "capsula": "c3",
+   "boton": "El Shinkansen",
+   "otra_manera": "Es el tren de alta velocidad de Japón. Su primera línea, entre Tokio y Osaka, se inauguró el 1 de octubre de 1964, días antes de los Juegos Olímpicos de Tokio. Hoy une las dos ciudades en unas dos horas y media.",
+   "vida_real": "Gracias a un tren así, ir de una ciudad a otra es tan simple como moverse dentro de la misma región.",
+   "claves": [
+    "shinkansen",
+    "tren",
+    "1964",
+    "alta velocidad"
+   ],
+   "parte": "Ciudad y tecnología"
+  },
+  {
+   "id": "geo-4-07-c3-2",
+   "clase": "geo-4-07",
+   "capsula": "c3",
+   "boton": "Por qué la tecnología hace funcionar la megalópolis",
+   "otra_manera": "Para que una franja urbana de cientos de kilómetros funcione, la gente y las mercancías tienen que moverse rápido. En Japón eso se logró con tecnología. Tokio también concentra empresas de electrónica, automotrices y de robótica, con centros de investigación y universidades.",
+   "vida_real": "Es como una red de transporte bien pensada que une barrios lejanos de una misma ciudad.",
+   "claves": [
+    "tecnologia",
+    "tokio",
+    "robotica",
+    "innovacion"
+   ],
+   "parte": "Ciudad y tecnología"
+  },
+  {
+   "id": "geo-4-07-c3-3",
+   "clase": "geo-4-07",
+   "capsula": "c3",
+   "boton": "Construir en una zona de sismos",
+   "otra_manera": "En una región con tantos sismos, Japón desarrolló técnicas de **construcción sismorresistente** y sistemas de alerta, como los que viste en la clase del cinturón de fuego. Son una forma de reducir la vulnerabilidad.",
+   "vida_real": "Es como construir una casa pensando en el clima del lugar donde está.",
+   "claves": [
+    "sismorresistente",
+    "alerta",
+    "sismos",
+    "japon"
+   ],
+   "parte": "Ciudad y tecnología"
+  },
+  {
+   "id": "geo-4-08-c1-1",
+   "clase": "geo-4-08",
+   "capsula": "c1",
+   "boton": "Qué es la Unión Europea",
+   "otra_manera": "Es una unión de 27 países de Europa que comparten un **mercado común**. Tiene instituciones propias, como la Comisión Europea, con sede en Bruselas. Muchos miembros usan una moneda común, el euro.",
+   "vida_real": "Es como un club de países con reglas comunes para comerciar y moverse.",
+   "claves": [
+    "union europea",
+    "ue",
+    "comision europea",
+    "bruselas"
+   ],
+   "parte": "Un mercado sin fronteras interiores"
+  },
+  {
+   "id": "geo-4-08-c1-2",
+   "clase": "geo-4-08",
+   "capsula": "c1",
+   "boton": "Mercado común",
+   "otra_manera": "Es un espacio donde circulan libremente las **mercancías**, los **servicios**, las **personas** y los **capitales**, como si fuera un solo país. Un camión puede ir de un país a otro sin revisiones ni impuestos de frontera.",
+   "vida_real": "Es como circular entre barrios de tu ciudad: no necesitás pasar ningún control.",
+   "claves": [
+    "mercado comun",
+    "libre circulacion"
+   ],
+   "parte": "Un mercado sin fronteras interiores"
+  },
+  {
+   "id": "geo-4-08-c1-3",
+   "clase": "geo-4-08",
+   "capsula": "c1",
+   "boton": "El euro y cómo nació la UE",
+   "otra_manera": "La UE nació en 1957 como Comunidad Económica Europea, con seis países, y tomó su nombre actual en 1993. El euro empezó a usarse en billetes y monedas en 2002. Desde el 1 de enero de 2026 lo usan 21 de los 27 miembros.",
+   "vida_real": "Es como un grupo que fue sumando integrantes y acuerdos durante décadas.",
+   "claves": [
+    "euro",
+    "1957",
+    "tratado de roma",
+    "1993"
+   ],
+   "parte": "Un mercado sin fronteras interiores"
+  },
+  {
+   "id": "geo-4-08-c2-1",
+   "clase": "geo-4-08",
+   "capsula": "c2",
+   "boton": "Qué es especializarse",
+   "otra_manera": "Es dedicarse a producir lo que cada país hace mejor o más barato, y comprar a los demás lo que necesita. En un mercado común conviene hacerlo porque cada país puede vender sin trabas a todos los otros.",
+   "vida_real": "Es como en un grupo de estudio: cada uno se encarga de la parte que mejor hace, y después se juntan los resultados.",
+   "claves": [
+    "especializacion",
+    "productiva",
+    "especializarse"
+   ],
+   "parte": "Cada país, su especialidad"
+  },
+  {
+   "id": "geo-4-08-c2-2",
+   "clase": "geo-4-08",
+   "capsula": "c2",
+   "boton": "Qué produce cada país",
+   "otra_manera": "Alemania se especializa en autos, maquinaria y productos químicos. Países Bajos, en hortalizas y flores en invernaderos. Francia, en aviones, trigo y vinos. España, en aceite de oliva y turismo. Irlanda, en medicamentos y empresas de tecnología.",
+   "vida_real": "Es como cuando en un barrio cada comercio vende algo distinto y entre todos cubren lo que necesita la gente.",
+   "claves": [
+    "alemania",
+    "paises bajos",
+    "francia",
+    "espana",
+    "irlanda"
+   ],
+   "parte": "Cada país, su especialidad"
+  },
+  {
+   "id": "geo-4-08-c3-1",
+   "clase": "geo-4-08",
+   "capsula": "c3",
+   "boton": "Desequilibrios regionales",
+   "otra_manera": "La especialización no afecta igual a todo el país. Hay **regiones** que crecen porque producen lo que el mercado común compra y otras que pierden porque sus actividades ya no pueden competir. Esas diferencias son los **desequilibrios regionales**.",
+   "vida_real": "Es como si, dentro de una misma escuela, algunos cursos reciben todos los recursos y otros quedan atrás.",
+   "claves": [
+    "desequilibrios",
+    "regiones",
+    "ganan",
+    "pierden"
+   ],
+   "parte": "Lo que cambia dentro de cada país"
+  },
+  {
+   "id": "geo-4-08-c3-2",
+   "clase": "geo-4-08",
+   "capsula": "c3",
+   "boton": "Reconversión productiva",
+   "otra_manera": "Cuando una región pierde su actividad principal, tiene que buscar otra. A ese cambio se lo llama **reconversión productiva**. Un ejemplo de la clase es el Ruhr.",
+   "vida_real": "Es como cuando un negocio deja de vender lo de siempre y empieza con otro rubro.",
+   "claves": [
+    "reconversion",
+    "ruhr",
+    "cambio de actividad"
+   ],
+   "parte": "Lo que cambia dentro de cada país"
+  },
+  {
+   "id": "geo-4-08-c3-3",
+   "clase": "geo-4-08",
+   "capsula": "c3",
+   "boton": "Política de cohesión y PAC",
+   "otra_manera": "La **política de cohesión** destina fondos a las regiones menos desarrolladas para construir rutas, capacitar trabajadores o apoyar empresas. La **PAC** da apoyo económico a los productores rurales europeos desde 1962. Sobre la PAC hay dos miradas: quienes la defienden dicen que protege a los productores y asegura alimentos propios; quienes la critican, que les quita mercados a países exportadores como la Argentina.",
+   "vida_real": "Es como un fondo común para ayudar a los que más lo necesitan, con discusión sobre cómo repartirlo.",
+   "claves": [
+    "cohesion",
+    "pac",
+    "politica agricola comun",
+    "fondos"
+   ],
+   "parte": "Lo que cambia dentro de cada país"
+  },
+  {
+   "id": "geo-4-09-c1-1",
+   "clase": "geo-4-09",
+   "capsula": "c1",
+   "boton": "Qué es un centro de innovación",
+   "otra_manera": "Es un lugar donde se concentran **universidades**, **laboratorios**, **empresas tecnológicas** e **inversores**. Lo que más produce no son objetos sino **conocimiento**: ideas, diseños, programas y descubrimientos.",
+   "vida_real": "Es como un barrio donde viven juntos los que investigan, los que fabrican y los que financian.",
+   "claves": [
+    "centro de innovacion",
+    "conocimiento",
+    "universidades",
+    "laboratorios"
+   ],
+   "parte": "Lugares donde se produce conocimiento"
+  },
+  {
+   "id": "geo-4-09-c1-2",
+   "clase": "geo-4-09",
+   "capsula": "c1",
+   "boton": "Silicon Valley",
+   "otra_manera": "Es una región del sur de la bahía de San Francisco, en California, Estados Unidos. Su nombre viene del **silicio**, el material con el que se fabrican los chips. Allí están universidades como Stanford y empresas como Apple (Cupertino) y Google (Mountain View).",
+   "vida_real": "Es como una zona donde todo lo que necesitás para crear una empresa de tecnología está cerca.",
+   "claves": [
+    "silicon valley",
+    "silicio",
+    "california",
+    "stanford"
+   ],
+   "parte": "Lugares donde se produce conocimiento"
+  },
+  {
+   "id": "geo-4-09-c1-3",
+   "clase": "geo-4-09",
+   "capsula": "c1",
+   "boton": "Qué es I+D",
+   "otra_manera": "Las siglas significan **investigación y desarrollo**: investigar para crear productos nuevos o mejorar los que ya existen. Es la tarea principal de un centro de innovación.",
+   "vida_real": "Es como probar muchas veces una receta hasta que sale bien.",
+   "claves": [
+    "i+d",
+    "investigacion",
+    "desarrollo"
+   ],
+   "parte": "Lugares donde se produce conocimiento"
+  },
+  {
+   "id": "geo-4-09-c2-1",
+   "clase": "geo-4-09",
+   "capsula": "c2",
+   "boton": "La cadena de producción",
+   "otra_manera": "Un producto recorre distintas etapas en distintos lugares: investigación, diseño, fabricación y ensamblado. A ese recorrido se lo llama **cadena de producción**. Las etapas que requieren más conocimiento, como el diseño, suelen quedar en el centro de innovación.",
+   "vida_real": "Es como armar un trabajo en equipo en el que cada parte la hace alguien en un lugar distinto.",
+   "claves": [
+    "cadena",
+    "produccion",
+    "etapas",
+    "diseno"
+   ],
+   "parte": "Una nueva forma de producir"
+  },
+  {
+   "id": "geo-4-09-c2-2",
+   "clase": "geo-4-09",
+   "capsula": "c2",
+   "boton": "Diseñado en un lugar, ensamblado en otro",
+   "otra_manera": "En los celulares de Apple aparece la frase \"Designed by Apple in California. Assembled in China\". En una sola línea están los dos extremos de la cadena: el diseño y el ensamblado.",
+   "vida_real": "Es como una prenda con una etiqueta que dice dónde se diseñó y dónde se cosió.",
+   "claves": [
+    "designed",
+    "ensamblado",
+    "apple",
+    "china"
+   ],
+   "parte": "Una nueva forma de producir"
+  },
+  {
+   "id": "geo-4-09-c2-3",
+   "clase": "geo-4-09",
+   "capsula": "c2",
+   "boton": "Por qué se fabrica en otros países",
+   "otra_manera": "Las empresas tecnológicas se quedan con las etapas que requieren más conocimiento y muchas veces encargan la fabricación a otras empresas en otros países, donde producir cuesta menos.",
+   "vida_real": "Es como encargarle a otro lo que lleva más tiempo y menos conocimiento, para ocuparte de lo que más sabés.",
+   "claves": [
+    "fabricacion",
+    "costos",
+    "otros paises"
+   ],
+   "parte": "Una nueva forma de producir"
+  },
+  {
+   "id": "geo-4-09-c3-1",
+   "clase": "geo-4-09",
+   "capsula": "c3",
+   "boton": "Otros centros del mundo",
+   "otra_manera": "Silicon Valley ya no es el único. **Bangalore**, en la India, es conocida como \"el Silicon Valley de la India\" por sus empresas de programación y servicios informáticos. **Shenzhen**, en China, concentra empresas de electrónica y fábricas de componentes.",
+   "vida_real": "Es como una idea que funciona en un lugar y se repite, con variantes, en otros.",
+   "claves": [
+    "bangalore",
+    "shenzhen",
+    "centros de innovacion"
+   ],
+   "parte": "Alcances mundiales y un caso argentino"
+  },
+  {
+   "id": "geo-4-09-c3-2",
+   "clase": "geo-4-09",
+   "capsula": "c3",
+   "boton": "Alcance mundial",
+   "otra_manera": "Lo que se crea en estos centros puede usarse en cualquier lugar. Un programa, una aplicación o un descubrimiento puede estar disponible al día siguiente en todo el planeta. A eso se lo llama **alcance mundial**.",
+   "vida_real": "Es como subir un video: lo puede ver alguien de cualquier lugar.",
+   "claves": [
+    "alcance mundial",
+    "aplicacion",
+    "programa"
+   ],
+   "parte": "Alcances mundiales y un caso argentino"
+  },
+  {
+   "id": "geo-4-09-c3-3",
+   "clase": "geo-4-09",
+   "capsula": "c3",
+   "boton": "INVAP, un caso argentino",
+   "otra_manera": "**INVAP** es una empresa de tecnología creada en 1976 en Bariloche. Diseña y construye satélites y reactores nucleares de investigación. Vendió uno a Australia, el reactor OPAL. Es un ejemplo de que la Argentina puede **exportar conocimiento**, no solo materias primas.",
+   "vida_real": "Es como vender una idea o un diseño que se usa en otro país, en lugar de vender solo lo que sale de la tierra.",
+   "claves": [
+    "invap",
+    "bariloche",
+    "reactor",
+    "opal",
+    "satelite"
+   ],
+   "parte": "Alcances mundiales y un caso argentino"
+  },
+  {
+   "id": "geo-4-10-c1-1",
+   "clase": "geo-4-10",
+   "capsula": "c1",
+   "boton": "Qué es la sobrepoblación",
+   "otra_manera": "Hay **sobrepoblación** cuando la cantidad de personas es mayor que la que pueden sostener los recursos del lugar: alimentos, agua, tierra, vivienda y trabajo. No depende solo de cuánta gente hay, sino de la relación entre población y recursos.",
+   "vida_real": "Es como una casa con pocas habitaciones y mucha gente: no alcanza el espacio ni la comida.",
+   "claves": [
+    "sobrepoblacion",
+    "poblacion",
+    "recursos"
+   ],
+   "parte": "Mucha gente, poca tierra"
+  },
+  {
+   "id": "geo-4-10-c1-2",
+   "clase": "geo-4-10",
+   "capsula": "c1",
+   "boton": "Densidad de población",
+   "otra_manera": "Es la cantidad de habitantes por kilómetro cuadrado. Sirve para comparar qué tan poblado está un lugar, pero no alcanza para decir si hay sobrepoblación: también importan los recursos.",
+   "vida_real": "Es como contar cuántas personas hay por metro cuadrado en un recreo.",
+   "claves": [
+    "densidad",
+    "habitantes por kilometro cuadrado"
+   ],
+   "parte": "Mucha gente, poca tierra"
+  },
+  {
+   "id": "geo-4-10-c1-3",
+   "clase": "geo-4-10",
+   "capsula": "c1",
+   "boton": "Terrazas de cultivo",
+   "otra_manera": "Son escalones construidos en las laderas de las montañas, con bordes que retienen el agua y el suelo. Así los campesinos ganan tierra de cultivo donde antes solo había pendiente.",
+   "vida_real": "Es como convertir una escalera en pequeñas mesas llanas para sembrar.",
+   "claves": [
+    "terrazas",
+    "laderas",
+    "cultivo"
+   ],
+   "parte": "Mucha gente, poca tierra"
+  },
+  {
+   "id": "geo-4-10-c2-1",
+   "clase": "geo-4-10",
+   "capsula": "c2",
+   "boton": "El arroz y el monzón",
+   "otra_manera": "El **arroz** es la base de la alimentación de buena parte de Asia y se cultiva en **arrozales**, campos inundados. En el sur y el sudeste, las lluvias dependen del **monzón**, un viento que trae lluvias muy fuertes durante una parte del año.",
+   "vida_real": "Es como una temporada de lluvias que se espera todos los años para poder sembrar.",
+   "claves": [
+    "arroz",
+    "arrozal",
+    "monzon"
+   ],
+   "parte": "El arroz y la agricultura intensiva"
+  },
+  {
+   "id": "geo-4-10-c2-2",
+   "clase": "geo-4-10",
+   "capsula": "c2",
+   "boton": "Agricultura intensiva y extensiva",
+   "otra_manera": "La **intensiva** usa poca tierra, mucha gente trabajando y consigue mucha producción por hectárea. La **extensiva** usa grandes superficies, poca gente y muchas máquinas, y su producción por hectárea es menor. En Asia predomina la primera; en la región pampeana, la segunda.",
+   "vida_real": "Es como cultivar un cantero pequeño a mano con mucho cuidado, frente a sembrar un campo enorme con maquinaria.",
+   "claves": [
+    "intensiva",
+    "extensiva",
+    "pampeana"
+   ],
+   "parte": "El arroz y la agricultura intensiva"
+  },
+  {
+   "id": "geo-4-10-c2-3",
+   "clase": "geo-4-10",
+   "capsula": "c2",
+   "boton": "Cómo se planta el arroz",
+   "otra_manera": "En muchas zonas, el arroz se planta a mano: primero se siembra en un almácigo y después cada plantín se trasplanta al campo inundado. Es un trabajo que necesita mucha gente.",
+   "vida_real": "Es como repicar plantitas una por una: lleva tiempo y manos.",
+   "claves": [
+    "almacigo",
+    "trasplante",
+    "a mano"
+   ],
+   "parte": "El arroz y la agricultura intensiva"
+  },
+  {
+   "id": "geo-4-10-c3-1",
+   "clase": "geo-4-10",
+   "capsula": "c3",
+   "boton": "Qué sostuvo Malthus",
+   "otra_manera": "En 1798, el economista inglés Thomas Malthus sostuvo que la población crece más rápido que la producción de alimentos y que tarde o temprano habría hambre. Otros pensadores respondieron que las sociedades encuentran formas de producir más cuando lo necesitan.",
+   "vida_real": "Es como discutir si el pan va a alcanzar para todos: unos dicen que no y otros que se puede hacer más.",
+   "claves": [
+    "malthus",
+    "1798",
+    "alimentos",
+    "poblacion"
+   ],
+   "parte": "¿Alcanzan los alimentos?"
+  },
+  {
+   "id": "geo-4-10-c3-2",
+   "clase": "geo-4-10",
+   "capsula": "c3",
+   "boton": "La revolución verde",
+   "otra_manera": "Es el conjunto de cambios que, desde la década de 1960, aumentaron mucho la producción de alimentos en Asia y otras regiones: **semillas de alto rendimiento**, **fertilizantes**, **plaguicidas** y **riego**. Varios países que sufrían escasez lograron producir buena parte de los cereales que consumían.",
+   "vida_real": "Es como pasar de sembrar con lo que había a usar mejores herramientas y semillas.",
+   "claves": [
+    "revolucion verde",
+    "semillas",
+    "fertilizantes",
+    "riego"
+   ],
+   "parte": "¿Alcanzan los alimentos?"
+  },
+  {
+   "id": "geo-4-10-c3-3",
+   "clase": "geo-4-10",
+   "capsula": "c3",
+   "boton": "Las dos miradas sobre la revolución verde",
+   "otra_manera": "Quienes la valoran destacan que permitió alimentar a muchos más millones de personas y mostró que la tecnología puede aumentar la producción. Quienes señalan sus problemas dicen que usa mucha agua y fertilizantes que pueden contaminar, que muchos campesinos se endeudaron y que se dejaron de cultivar variedades tradicionales.",
+   "vida_real": "Es como una decisión con ventajas y costos: conviene mirar las dos cosas.",
+   "claves": [
+    "valoran",
+    "problemas",
+    "contaminacion",
+    "endeudamiento"
+   ],
+   "parte": "¿Alcanzan los alimentos?"
+  },
+  {
+   "id": "geo-4-11-c1-1",
+   "clase": "geo-4-11",
+   "capsula": "c1",
+   "boton": "Qué es una migración",
+   "otra_manera": "Es el traslado de personas de un lugar a otro para vivir allí. Quien se va de su país es **emigrante** para su lugar de origen e **inmigrante** para el lugar al que llega.",
+   "vida_real": "Es como mudarse: para tu barrio de origen te fuiste, para el nuevo barrio llegaste.",
+   "claves": [
+    "migracion",
+    "emigrante",
+    "inmigrante"
+   ],
+   "parte": "De África del Norte a Europa"
+  },
+  {
+   "id": "geo-4-11-c1-2",
+   "clase": "geo-4-11",
+   "capsula": "c1",
+   "boton": "Factores de expulsión y de atracción",
+   "otra_manera": "Los **factores de expulsión** empujan a irse del lugar de origen: falta de empleo, salarios bajos, conflictos. Los **factores de atracción** llevan a elegir un destino: más oportunidades de trabajo, salarios más altos, familiares que ya viven allí, cercanía.",
+   "vida_real": "Es como decidir cambiar de escuela: algo del lugar actual te empuja y algo del nuevo te atrae.",
+   "claves": [
+    "expulsion",
+    "atraccion",
+    "factores"
+   ],
+   "parte": "De África del Norte a Europa"
+  },
+  {
+   "id": "geo-4-11-c1-3",
+   "clase": "geo-4-11",
+   "capsula": "c1",
+   "boton": "Por qué del norte de África a Europa",
+   "otra_manera": "Influyen la **cercanía** y la **historia en común**. En el estrecho de Gibraltar, entre Marruecos y España, hay unos 14 kilómetros de mar. Argelia fue colonia de Francia hasta 1962, por eso muchos argelinos hablan francés y tienen familiares en Francia.",
+   "vida_real": "Es como mudarse a un lugar donde ya vive un familiar y se habla tu idioma: cuesta menos.",
+   "claves": [
+    "norte de africa",
+    "europa",
+    "gibraltar",
+    "marruecos",
+    "argelia"
+   ],
+   "parte": "De África del Norte a Europa"
+  },
+  {
+   "id": "geo-4-11-c2-1",
+   "clase": "geo-4-11",
+   "capsula": "c2",
+   "boton": "Qué cambia en el lugar de origen",
+   "otra_manera": "Se van muchos jóvenes y las familias que se quedan reciben **remesas**, el dinero que envían quienes trabajan afuera.",
+   "vida_real": "Es como cuando un familiar que trabaja lejos manda dinero cada mes.",
+   "claves": [
+    "origen",
+    "remesas",
+    "jovenes"
+   ],
+   "parte": "Lo que cambia en el origen y en el destino"
+  },
+  {
+   "id": "geo-4-11-c2-2",
+   "clase": "geo-4-11",
+   "capsula": "c2",
+   "boton": "Qué cambia en el lugar de destino",
+   "otra_manera": "Las personas que llegan trabajan en sectores como la agricultura, la construcción, el comercio y el cuidado de personas. Las ciudades se vuelven más **diversas**: aparecen comercios, comidas, idiomas y celebraciones de otras culturas.",
+   "vida_real": "Es como cuando llega un compañero nuevo al curso y trae costumbres que enriquecen al grupo.",
+   "claves": [
+    "destino",
+    "diversidad",
+    "trabajo"
+   ],
+   "parte": "Lo que cambia en el origen y en el destino"
+  },
+  {
+   "id": "geo-4-11-c2-3",
+   "clase": "geo-4-11",
+   "capsula": "c2",
+   "boton": "La segunda generación",
+   "otra_manera": "Son los hijos e hijas de inmigrantes que nacieron en el país de destino. Muchas veces se sienten parte de las dos culturas: la de sus padres y la del lugar donde crecieron.",
+   "vida_real": "Es como hablar un idioma en casa y otro en la escuela.",
+   "claves": [
+    "segunda generacion",
+    "dos culturas",
+    "hijos de inmigrantes"
+   ],
+   "parte": "Lo que cambia en el origen y en el destino"
+  },
+  {
+   "id": "geo-4-11-c2-4",
+   "clase": "geo-4-11",
+   "capsula": "c2",
+   "boton": "El debate sobre las políticas migratorias",
+   "otra_manera": "Quienes defienden más apertura dicen que las personas inmigrantes cubren trabajos que hacen falta y que Europa tiene una población que envejece. Quienes defienden más controles dicen que el Estado tiene que decidir cuántas personas pueden entrar y que la llegada de muchas personas a la vez presiona sobre los servicios públicos.",
+   "vida_real": "Es como una discusión familiar donde cada uno tiene razones propias.",
+   "claves": [
+    "politicas migratorias",
+    "apertura",
+    "controles"
+   ],
+   "parte": "Lo que cambia en el origen y en el destino"
+  },
+  {
+   "id": "geo-4-11-c3-1",
+   "clase": "geo-4-11",
+   "capsula": "c3",
+   "boton": "Quién es un refugiado",
+   "otra_manera": "Es una persona que tuvo que dejar su país porque teme ser perseguida o porque huye de una guerra, y no puede volver sin correr peligro. La define la **Convención sobre el Estatuto de los Refugiados**, de 1951.",
+   "vida_real": "Es como alguien que se va de su casa porque quedarse es peligroso.",
+   "claves": [
+    "refugiado",
+    "convencion",
+    "1951"
+   ],
+   "parte": "Refugiados en el mundo actual"
+  },
+  {
+   "id": "geo-4-11-c3-2",
+   "clase": "geo-4-11",
+   "capsula": "c3",
+   "boton": "Migrante, refugiado, solicitante de asilo y desplazado interno",
+   "otra_manera": "El **migrante** se traslada buscando mejores condiciones. El **refugiado** huye por persecución o guerra. El **solicitante de asilo** pidió protección y espera respuesta. El **desplazado interno** dejó su casa pero sigue dentro de su país.",
+   "vida_real": "Cuatro situaciones distintas: mudarse por elección, huir, esperar una respuesta o irse sin salir del país.",
+   "claves": [
+    "migrante",
+    "asilo",
+    "desplazado interno"
+   ],
+   "parte": "Refugiados en el mundo actual"
+  },
+  {
+   "id": "geo-4-11-c3-3",
+   "clase": "geo-4-11",
+   "capsula": "c3",
+   "boton": "No devolución y ACNUR",
+   "otra_manera": "La **no devolución** es el principio que prohíbe enviar a una persona refugiada a un lugar donde su vida o su libertad estén en peligro. El **ACNUR** es el organismo de las Naciones Unidas que protege a los refugiados; se creó en 1950.",
+   "vida_real": "Es como un compromiso: no se puede mandar a alguien de vuelta a un lugar donde está en riesgo.",
+   "claves": [
+    "no devolucion",
+    "acnur",
+    "1950"
+   ],
+   "parte": "Refugiados en el mundo actual"
+  },
+  {
+   "id": "geo-4-12-c1-1",
+   "clase": "geo-4-12",
+   "capsula": "c1",
+   "boton": "Qué es un movimiento social",
+   "otra_manera": "Es un grupo amplio de personas que se organiza de forma **colectiva** y **sostenida en el tiempo** para reclamar o impulsar un **cambio en la sociedad**: más derechos, cuidado del ambiente, mejores condiciones de trabajo.",
+   "vida_real": "Es como cuando todo un curso se junta para pedir que arreglen la calefacción y sostiene el pedido hasta conseguirlo.",
+   "claves": [
+    "movimiento social",
+    "colectivo",
+    "cambio"
+   ],
+   "parte": "Qué es un movimiento social"
+  },
+  {
+   "id": "geo-4-12-c1-2",
+   "clase": "geo-4-12",
+   "capsula": "c1",
+   "boton": "Movimiento social y partido político",
+   "otra_manera": "El **partido político** se presenta a elecciones para gobernar. El **movimiento social** no: busca que la sociedad y los gobiernos cambien algo. Un movimiento usa formas de acción como marchas, peticiones, campañas y boicots.",
+   "vida_real": "Un grupo de estudiantes que reclama algo no es lo mismo que una lista que se presenta a elecciones del centro de estudiantes.",
+   "claves": [
+    "partido politico",
+    "elecciones",
+    "gobernar"
+   ],
+   "parte": "Qué es un movimiento social"
+  },
+  {
+   "id": "geo-4-12-c1-3",
+   "clase": "geo-4-12",
+   "capsula": "c1",
+   "boton": "Movimientos que se hicieron mundiales",
+   "otra_manera": "Algunos movimientos aparecieron en muchos países. Un ejemplo es el de las mujeres que reclamaban el derecho al voto. Nueva Zelanda fue el primer país en que las mujeres votaron en elecciones nacionales, en 1893; en la Argentina, ocurrió en 1951.",
+   "vida_real": "Es como una idea que primero se logra en un lugar y después se repite en otros.",
+   "claves": [
+    "voto femenino",
+    "mundiales",
+    "nueva zelanda"
+   ],
+   "parte": "Qué es un movimiento social"
+  },
+  {
+   "id": "geo-4-12-c2-1",
+   "clase": "geo-4-12",
+   "capsula": "c2",
+   "boton": "El movimiento por los derechos civiles",
+   "otra_manera": "En el sur de Estados Unidos había leyes que **separaban** a personas negras y blancas en escuelas, transportes, baños y restaurantes. El movimiento reclamó igualdad ante la ley. Empezó con el boicot de Montgomery (1955), tuvo su gran marcha en Washington (1963) y logró la Ley de Derechos Civiles (1964).",
+   "vida_real": "Es como un grupo que reclama, con constancia y sin violencia, hasta que la ley cambia.",
+   "claves": [
+    "derechos civiles",
+    "montgomery",
+    "1964",
+    "washington"
+   ],
+   "parte": "Un movimiento que inspiró a otros"
+  },
+  {
+   "id": "geo-4-12-c2-2",
+   "clase": "geo-4-12",
+   "capsula": "c2",
+   "boton": "Acción no violenta y boicot",
+   "otra_manera": "La **acción no violenta** es reclamar sin usar la violencia: marchas, sentadas, presentaciones ante la justicia. El **boicot** es dejar de comprar o de usar algo como forma de reclamo.",
+   "vida_real": "Es como no comprar en un negocio hasta que cambie algo que consideran injusto.",
+   "claves": [
+    "accion no violenta",
+    "boicot",
+    "marchas"
+   ],
+   "parte": "Un movimiento que inspiró a otros"
+  },
+  {
+   "id": "geo-4-12-c2-3",
+   "clase": "geo-4-12",
+   "capsula": "c2",
+   "boton": "Cómo un movimiento inspiró a otros",
+   "otra_manera": "Las formas de acción del movimiento por los derechos civiles se difundieron por el mundo. Otros movimientos, en otros países y con otros reclamos, tomaron como ejemplo sus boicots, marchas y discursos.",
+   "vida_real": "Es como cuando una idea que funciona en una escuela la copian otras.",
+   "claves": [
+    "inspiro",
+    "difusion",
+    "ejemplo"
+   ],
+   "parte": "Un movimiento que inspiró a otros"
+  },
+  {
+   "id": "geo-4-12-c3-1",
+   "clase": "geo-4-12",
+   "capsula": "c3",
+   "boton": "Fridays for Future",
+   "otra_manera": "El 20 de agosto de 2018, una estudiante sueca de 15 años, Greta Thunberg, empezó a sentarse frente al Parlamento de su país con un cartel que reclamaba medidas contra el cambio climático. La idea se difundió por las redes y otros estudiantes empezaron a hacer lo mismo los viernes. El 15 de marzo de 2019 se hizo la primera huelga mundial por el clima.",
+   "vida_real": "Es como un reclamo que empieza con una sola persona y, con el tiempo, lo comparte gente de todo el mundo.",
+   "claves": [
+    "fridays for future",
+    "greta thunberg",
+    "clima",
+    "2018"
+   ],
+   "parte": "Movimientos globales en la era de las redes"
+  },
+  {
+   "id": "geo-4-12-c3-2",
+   "clase": "geo-4-12",
+   "capsula": "c3",
+   "boton": "Territorializarse",
+   "otra_manera": "Quiere decir ocupar un espacio, físico o digital, para hacerse ver. Los movimientos ocupan plazas, calles y edificios públicos y también el espacio digital, lo que les permite coordinar acciones en muchas ciudades el mismo día.",
+   "vida_real": "Es como colgar carteles en un lugar visible para que todos los vean.",
+   "claves": [
+    "territorializar",
+    "territorializarse",
+    "espacio digital",
+    "plaza"
+   ],
+   "parte": "Movimientos globales en la era de las redes"
+  },
+  {
+   "id": "geo-4-12-c3-3",
+   "clase": "geo-4-12",
+   "capsula": "c3",
+   "boton": "El debate sobre el espacio público",
+   "otra_manera": "Quienes priorizan el derecho a manifestarse dicen que la calle es el lugar donde un reclamo se hace visible y que reunirse y peticionar son derechos de todos. Quienes priorizan el derecho a circular dicen que cortar una calle afecta a quienes necesitan trasladarse y que hay que ordenar las manifestaciones para que convivan con otros derechos.",
+   "vida_real": "Es como compartir una plaza: todos tienen derecho a usarla, y hay que ponerse de acuerdo.",
+   "claves": [
+    "espacio publico",
+    "manifestarse",
+    "circular"
+   ],
+   "parte": "Movimientos globales en la era de las redes"
+  }
+ ]
+}

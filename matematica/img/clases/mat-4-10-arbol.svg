@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 470" role="img" aria-label="Árbol de dos extracciones sin reposición de una bolsa con 3 bolillas rojas y 2 azules. Primera: roja 3/5, azul 2/5. Después de una roja: roja 2/4, azul 2/4. Después de una azul: roja 3/4, azul 1/4. Resultados: RR 6/20, RA 6/20, AR 6/20, AA 2/20." font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<g class="a-ap" style="--d:0.00s"><circle cx="70" cy="225.0" r="10" fill="#4A4870"/><text x="70.0" y="259.0" text-anchor="middle" font-size="20" font-weight="700" fill="#4A4870" >Bolsa</text></g>
+<line x1="70" y1="225.0" x2="330" y2="115.0" stroke="#B83A7A" stroke-width="4" class="a-trazo" style="--d:0.40s;--l:282"/>
+<g class="a-ap" style="--d:0.90s"><circle cx="330" cy="115.0" r="18" fill="#B83A7A"/><text x="330.0" y="122.0" text-anchor="middle" font-size="20" font-weight="800" fill="#fff" >R</text><text x="200.0" y="158.0" text-anchor="middle" font-size="22" font-weight="800" fill="#B83A7A" >3/5</text></g>
+<line x1="70" y1="225.0" x2="330" y2="335.0" stroke="#4B4FA3" stroke-width="4" class="a-trazo" style="--d:1.20s;--l:282"/>
+<g class="a-ap" style="--d:1.70s"><circle cx="330" cy="335.0" r="18" fill="#4B4FA3"/><text x="330.0" y="342.0" text-anchor="middle" font-size="20" font-weight="800" fill="#fff" >A</text><text x="200.0" y="306.0" text-anchor="middle" font-size="22" font-weight="800" fill="#4B4FA3" >2/5</text></g>
+<line x1="348" y1="115.0" x2="600" y2="55.0" stroke="#B83A7A" stroke-width="3.5" class="a-trazo" style="--d:2.00s;--l:277"/>
+<g class="a-ap" style="--d:2.40s"><circle cx="600" cy="55.0" r="15" fill="#B83A7A"/><text x="600.0" y="61.0" text-anchor="middle" font-size="18" font-weight="800" fill="#fff" >R</text><text x="471.0" y="77.0" text-anchor="middle" font-size="20" font-weight="800" fill="#B83A7A" >2/4</text></g>
+<g class="a-ap" style="--d:2.80s"><text x="760.0" y="62.0" text-anchor="start" font-size="22" font-weight="800" fill="#1B1A4A" >RR: 6/20</text></g>
+<line x1="348" y1="115.0" x2="600" y2="165.0" stroke="#4B4FA3" stroke-width="3.5" class="a-trazo" style="--d:2.60s;--l:275"/>
+<g class="a-ap" style="--d:3.00s"><circle cx="600" cy="165.0" r="15" fill="#4B4FA3"/><text x="600.0" y="171.0" text-anchor="middle" font-size="18" font-weight="800" fill="#fff" >A</text><text x="471.0" y="162.0" text-anchor="middle" font-size="20" font-weight="800" fill="#4B4FA3" >2/4</text></g>
+<g class="a-ap" style="--d:3.40s"><text x="760.0" y="172.0" text-anchor="start" font-size="22" font-weight="800" fill="#1B1A4A" >RA: 6/20</text></g>
+<line x1="348" y1="335.0" x2="600" y2="285.0" stroke="#B83A7A" stroke-width="3.5" class="a-trazo" style="--d:3.20s;--l:275"/>
+<g class="a-ap" style="--d:3.60s"><circle cx="600" cy="285.0" r="15" fill="#B83A7A"/><text x="600.0" y="291.0" text-anchor="middle" font-size="18" font-weight="800" fill="#fff" >R</text><text x="471.0" y="302.0" text-anchor="middle" font-size="20" font-weight="800" fill="#B83A7A" >3/4</text></g>
+<g class="a-ap" style="--d:4.00s"><text x="760.0" y="292.0" text-anchor="start" font-size="22" font-weight="800" fill="#1B1A4A" >AR: 6/20</text></g>
+<line x1="348" y1="335.0" x2="600" y2="395.0" stroke="#4B4FA3" stroke-width="3.5" class="a-trazo" style="--d:3.80s;--l:277"/>
+<g class="a-ap" style="--d:4.20s"><circle cx="600" cy="395.0" r="15" fill="#4B4FA3"/><text x="600.0" y="401.0" text-anchor="middle" font-size="18" font-weight="800" fill="#fff" >A</text><text x="471.0" y="387.0" text-anchor="middle" font-size="20" font-weight="800" fill="#4B4FA3" >1/4</text></g>
+<g class="a-ap" style="--d:4.60s"><text x="760.0" y="402.0" text-anchor="start" font-size="22" font-weight="800" fill="#1B1A4A" >AA: 2/20</text></g>
+<g class="a-ap" style="--d:4.70s"><text x="500.0" y="456.0" text-anchor="middle" font-size="20" font-weight="700" fill="#4A4870" >3 rojas y 2 azules, sin reposición</text></g>
+</svg>

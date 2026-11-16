@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 762" role="img" aria-label="La situación comunicativa" font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect width="500" height="762" fill="#FFFFFF"/>
+<text x="250" y="50" text-anchor="middle" font-size="24" font-weight="800" fill="#5B2A86">La situación comunicativa</text>
+<rect x="20" y="90" width="460" height="50" rx="14" fill="#E2DAF6" stroke="#5B2A86" stroke-width="2.5"/>
+<text x="250" y="122" text-anchor="middle" font-size="20" font-weight="700" fill="#1B1A4A">Quién</text>
+<rect x="20" y="148" width="460" height="84" rx="12" fill="#EFEAFB" stroke="#4B4FA3" stroke-width="2" stroke-dasharray="7 6"/>
+<rect x="20" y="258" width="460" height="50" rx="14" fill="#E2DAF6" stroke="#5B2A86" stroke-width="2.5"/>
+<text x="250" y="290" text-anchor="middle" font-size="20" font-weight="700" fill="#1B1A4A">A quién</text>
+<rect x="20" y="316" width="460" height="84" rx="12" fill="#EFEAFB" stroke="#4B4FA3" stroke-width="2" stroke-dasharray="7 6"/>
+<rect x="20" y="426" width="460" height="50" rx="14" fill="#E2DAF6" stroke="#5B2A86" stroke-width="2.5"/>
+<text x="250" y="458" text-anchor="middle" font-size="20" font-weight="700" fill="#1B1A4A">Para qué</text>
+<rect x="20" y="484" width="460" height="84" rx="12" fill="#EFEAFB" stroke="#4B4FA3" stroke-width="2" stroke-dasharray="7 6"/>
+<rect x="20" y="594" width="460" height="50" rx="14" fill="#E2DAF6" stroke="#5B2A86" stroke-width="2.5"/>
+<text x="250" y="626" text-anchor="middle" font-size="20" font-weight="700" fill="#1B1A4A">Registro adecuado</text>
+<rect x="20" y="652" width="460" height="84" rx="12" fill="#EFEAFB" stroke="#4B4FA3" stroke-width="2" stroke-dasharray="7 6"/>
+</svg>

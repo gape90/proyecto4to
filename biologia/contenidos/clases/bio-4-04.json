@@ -1,0 +1,1106 @@
+{
+ "id": "bio-4-04",
+ "espacio": "biologia",
+ "eje": "Los sistemas y funciones de nutrición",
+ "titulo": "Los sistemas circulatorio y excretor",
+ "intro": "Los nutrientes y el oxígeno ya están en la sangre: falta que lleguen a cada célula y que los desechos salgan del cuerpo. En esta clase vas a ver cómo lo hacen el sistema circulatorio y el excretor, y cómo trabajan junto con el digestivo y el respiratorio.",
+ "objetivos": [
+  "Describir el corazón, los vasos sanguíneos y la sangre, y explicar el recorrido de la circulación menor y la mayor.",
+  "Explicar qué es la excreción y cómo los riñones forman la orina y ayudan a mantener la homeostasis.",
+  "Relacionar el trabajo de los cuatro sistemas de la nutrición y reconocer algunas afecciones del sistema circulatorio y del excretor."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: cómo funcionan los sistemas circulatorio y excretor, cómo se integran los cuatro sistemas de la nutrición y algunos ejemplos de funcionamiento patológico.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "El sistema circulatorio",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "Apoyá dos dedos en el costado del cuello, debajo de la mandíbula, o en la parte de adentro de la muñeca. Esos golpecitos que sentís son el **pulso**. ¿Qué los produce? ¿Qué está pasando, en ese momento, adentro de tu cuerpo?"
+    },
+    {
+     "t": "texto",
+     "titulo": "Un sistema de transporte",
+     "texto": "En la clase 3 viste que los nutrientes pasan a la sangre en el intestino delgado y que el oxígeno pasa a la sangre en los alvéolos. Desde ahí, alguien tiene que llevarlos a cada una de tus células. Ese trabajo lo hace el **sistema circulatorio**.\n\nTiene tres partes: el **corazón**, que impulsa la sangre; los **vasos sanguíneos**, por donde la sangre viaja; y la **sangre**, que lleva las sustancias. A las células les entrega oxígeno y nutrientes, y se lleva el dióxido de carbono y los otros desechos que ellas producen."
+    },
+    {
+     "t": "texto",
+     "titulo": "La sangre",
+     "texto": "La sangre tiene una parte líquida, el **plasma**, que es sobre todo agua con nutrientes, sales y desechos disueltos. En el plasma viajan tres tipos de elementos:\n\nLos **glóbulos rojos** llevan el oxígeno. Lo transportan unido a la **hemoglobina**, una proteína con hierro que les da el color rojo.\n\nLos **glóbulos blancos** defienden al cuerpo de microbios, como virus y bacterias.\n\nLas **plaquetas** ayudan a que la sangre se coagule: cuando te cortás, forman un tapón que frena la salida de sangre."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada parte de la sangre con lo que hace.",
+     "pares": [
+      {
+       "a": "Plasma",
+       "b": "Lleva disueltos nutrientes, sales y desechos"
+      },
+      {
+       "a": "Glóbulos rojos",
+       "b": "Transportan el oxígeno"
+      },
+      {
+       "a": "Glóbulos blancos",
+       "b": "Defienden al cuerpo de los microbios"
+      },
+      {
+       "a": "Plaquetas",
+       "b": "Forman un tapón cuando hay una herida"
+      }
+     ],
+     "explicacion": "Cada parte de la sangre cumple una tarea distinta: transportar, defender o frenar una pérdida de sangre.",
+     "pista": "Releé el texto La sangre: cada párrafo habla de una parte."
+    },
+    {
+     "t": "texto",
+     "titulo": "El corazón: una bomba doble",
+     "texto": "El **corazón** es un músculo del tamaño aproximado de tu puño, ubicado en el pecho, entre los dos pulmones. Por dentro tiene cuatro cavidades. Las dos de arriba son las **aurículas**: reciben la sangre que llega al corazón. Las dos de abajo son los **ventrículos**: tienen paredes más gruesas y empujan la sangre hacia afuera.\n\nUna pared, el tabique, separa el lado derecho del izquierdo, y la sangre de un lado no se mezcla con la del otro. Por el lado derecho pasa sangre con poco oxígeno; por el izquierdo, sangre cargada de oxígeno. Entre cada aurícula y su ventrículo, y a la salida de los ventrículos, hay **válvulas**: se abren para dejar pasar la sangre y se cierran para que no vuelva hacia atrás.\n\nCada latido tiene dos momentos. En la **sístole** el corazón se contrae y empuja la sangre. En la **diástole** se relaja y se vuelve a llenar."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🔍 Encontrá el error",
+     "pregunta": "Una de estas frases sobre el corazón tiene un error. ¿Cuál?",
+     "opciones": [
+      "Las aurículas reciben la sangre que llega al corazón por las venas.",
+      "Las válvulas impiden que la sangre vuelva hacia atrás.",
+      "Por el lado izquierdo pasa sangre con poco oxígeno.",
+      "En la sístole, el corazón se contrae y empuja la sangre."
+     ],
+     "correcta": 2,
+     "explicacion": "Es al revés: por el lado izquierdo pasa la sangre cargada de oxígeno, que viene de los pulmones. Por el derecho pasa la sangre con poco oxígeno.",
+     "pista": "Releé el segundo párrafo de El corazón: una bomba doble."
+    },
+    {
+     "t": "texto",
+     "titulo": "Los vasos sanguíneos",
+     "texto": "La sangre viaja siempre dentro de vasos. Hay tres tipos, y cada uno tiene una tarea."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Los tres tipos de vasos",
+     "columnas": [
+      "",
+      "Arterias",
+      "Venas",
+      "Capilares"
+     ],
+     "filas": [
+      [
+       "Hacia dónde llevan la sangre",
+       "Del corazón hacia los órganos",
+       "De los órganos hacia el corazón",
+       "Unen las arterias con las venas, dentro de los órganos"
+      ],
+      [
+       "Cómo son sus paredes",
+       "Gruesas y elásticas: aguantan el empuje de cada latido",
+       "Más finas; algunas tienen válvulas",
+       "Muy delgadas, de una sola capa de células"
+      ],
+      [
+       "Para qué sirven",
+       "Distribuir la sangre",
+       "Devolver la sangre al corazón",
+       "Intercambiar sustancias con las células"
+      ]
+     ]
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cada frase describe a las arterias o a las venas? Si no te acordás, mirá la tabla de arriba.",
+     "categorias": [
+      "Arterias",
+      "Venas"
+     ],
+     "items": [
+      {
+       "texto": "Sacan la sangre del corazón",
+       "cat": "Arterias"
+      },
+      {
+       "texto": "Tienen paredes gruesas y elásticas",
+       "cat": "Arterias"
+      },
+      {
+       "texto": "La aorta es una de ellas",
+       "cat": "Arterias"
+      },
+      {
+       "texto": "Devuelven la sangre al corazón",
+       "cat": "Venas"
+      },
+      {
+       "texto": "Algunas tienen válvulas",
+       "cat": "Venas"
+      },
+      {
+       "texto": "Las cavas son de este grupo",
+       "cat": "Venas"
+      }
+     ],
+     "explicacion": "Lo que define a cada vaso es hacia dónde lleva la sangre: las arterias la sacan del corazón y las venas la devuelven.",
+     "pista": "Buscá en la tabla la fila Hacia dónde llevan la sangre, y en el texto Dos circuitos, dónde terminan las venas."
+    },
+    {
+     "t": "texto",
+     "titulo": "Dos circuitos",
+     "texto": "La sangre hace dos recorridos que empiezan y terminan en el corazón.\n\nEn la **circulación menor** (o pulmonar), el ventrículo derecho manda la sangre con poco oxígeno a los pulmones por la arteria pulmonar. En los capilares que rodean los alvéolos, la sangre deja el dióxido de carbono y carga oxígeno. Después vuelve por las venas pulmonares a la aurícula izquierda.\n\nEn la **circulación mayor** (o general), el ventrículo izquierdo manda la sangre cargada de oxígeno por la **arteria aorta**, que se ramifica hacia todo el cuerpo. En los capilares de cada órgano, la sangre entrega oxígeno y nutrientes y recoge el dióxido de carbono y los desechos. Vuelve por las venas, que terminan en las **venas cavas**, hasta la aurícula derecha.\n\nPor eso se dice que la circulación humana es **cerrada** (la sangre siempre va por vasos), **doble** (tiene dos circuitos) y **completa** (la sangre con oxígeno y la sangre con poco oxígeno no se mezclan)."
+    },
+    {
+     "t": "imagen",
+     "titulo": "El sistema circulatorio",
+     "src": "img/clases/bio-4-04-circulatorio.svg",
+     "tipo": "grafico",
+     "alt": "Ilustración del sistema circulatorio de una persona, de frente. En el centro del pecho está el corazón, entre los dos pulmones. Del corazón salen las arterias, dibujadas en rojo, que llevan sangre cargada de oxígeno a todo el cuerpo; la más grande es la arteria aorta. Las venas, dibujadas en azul, devuelven al corazón la sangre con poco oxígeno; las más grandes son las venas cavas.",
+     "epigrafe": "Ilustración: Mariana Ruiz Villarreal (LadyofHats). Los rótulos y la animación se agregaron para esta clase.",
+     "src_movil": "img/clases/bio-4-04-circulatorio-movil.svg",
+     "fuente": "Wikimedia Commons (dominio público).",
+     "animacion": "svg",
+     "_imagen": true
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Pensalo así: una terminal con dos recorridos",
+     "texto": "Imaginá una terminal de colectivos con dos líneas. Una hace un viaje corto: va hasta los pulmones, carga oxígeno y vuelve. La otra hace un viaje largo por todo el cuerpo, reparte el oxígeno y vuelve a la terminal con dióxido de carbono. La terminal es el corazón, y cada colectivo vuelve siempre a ella antes de salir en la otra línea."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená el recorrido de la sangre en la circulación menor, desde que sale del corazón hasta que vuelve.",
+     "items": [
+      "Ventrículo derecho",
+      "Arteria pulmonar",
+      "Capilares de los alvéolos",
+      "Venas pulmonares",
+      "Aurícula izquierda"
+     ],
+     "explicacion": "Ese es el circuito corto: la sangre sale con poco oxígeno, lo carga en los pulmones y vuelve al lado izquierdo del corazón.",
+     "pista": "Releé el párrafo de la circulación menor en el texto Dos circuitos: el recorrido aparece en orden."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "El **sistema circulatorio** está formado por el corazón, los vasos sanguíneos y la sangre. El corazón tiene dos **aurículas** y dos **ventrículos**. Las **arterias** sacan la sangre del corazón, las **venas** la devuelven y los **capilares** hacen el intercambio con las células. La circulación es **cerrada, doble y completa**: un circuito pasa por los pulmones y el otro, por todo el cuerpo."
+    },
+    {
+     "t": "dato",
+     "titulo": "¿Qué es el pulso?",
+     "texto": "Cada vez que el ventrículo izquierdo empuja la sangre, las paredes elásticas de las arterias se estiran. Eso es lo que sentís en el cuello o en la muñeca. Por eso, contando el pulso durante un minuto sabés cuántas veces late tu corazón. En una persona adulta en reposo, lo habitual es entre 60 y 100 latidos por minuto."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: la arteria pulmonar lleva sangre con poco oxígeno. Entonces, ¿qué define que un vaso sea una arteria: el oxígeno que lleva o hacia dónde va?",
+     "respuesta": "Hacia dónde va. Una arteria saca la sangre del corazón, lleve mucho o poco oxígeno. La arteria pulmonar sale del corazón hacia los pulmones, aunque su sangre todavía no cargó oxígeno."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá cómo está formado el sistema circulatorio y contá el recorrido de la sangre en la circulación menor y en la mayor. Agregá qué hace cada parte de la sangre.",
+    "guia": [
+     "¿Qué partes forman el sistema circulatorio?",
+     "¿Cómo es el corazón por dentro y qué hacen las aurículas y los ventrículos?",
+     "¿En qué se diferencian las arterias, las venas y los capilares?",
+     "¿Qué recorrido hace la sangre en la circulación menor?",
+     "¿Y en la circulación mayor?",
+     "¿Qué hacen los glóbulos rojos, los glóbulos blancos y las plaquetas?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Las arterias llevan la sangre desde el corazón hacia los órganos.",
+     "respuesta": true,
+     "explicacion": "Las venas hacen el camino contrario."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los glóbulos blancos transportan el oxígeno.",
+     "respuesta": false,
+     "explicacion": "El oxígeno lo transportan los glóbulos rojos, con la hemoglobina. Los blancos defienden al cuerpo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En los capilares la sangre intercambia sustancias con las células.",
+     "respuesta": true,
+     "explicacion": "Sus paredes son tan delgadas que las sustancias las atraviesan."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el corazón humano se mezcla la sangre con oxígeno y la que tiene poco.",
+     "respuesta": false,
+     "explicacion": "El tabique separa los dos lados: por eso la circulación es completa."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La circulación menor lleva la sangre a los pulmones.",
+     "respuesta": true,
+     "explicacion": "Ahí carga oxígeno y deja el dióxido de carbono."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la diástole el corazón se contrae.",
+     "respuesta": false,
+     "explicacion": "En la diástole se relaja y se llena. Se contrae en la sístole."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué cavidades del corazón empujan la sangre hacia afuera?",
+     "opciones": [
+      "Los ventrículos",
+      "Las aurículas",
+      "Las válvulas",
+      "Las venas cavas"
+     ],
+     "correcta": 0,
+     "explicacion": "Tienen las paredes más gruesas porque hacen la mayor fuerza."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué parte de la sangre ayuda a cerrar una herida?",
+     "opciones": [
+      "Los glóbulos rojos",
+      "Las plaquetas",
+      "El plasma",
+      "Los glóbulos blancos"
+     ],
+     "correcta": 1,
+     "explicacion": "Forman un tapón que frena la salida de sangre."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué arteria sale la sangre del ventrículo izquierdo hacia todo el cuerpo?",
+     "opciones": [
+      "La arteria pulmonar",
+      "La vena cava",
+      "La arteria aorta",
+      "La vena pulmonar"
+     ],
+     "correcta": 2,
+     "explicacion": "La aorta se ramifica y lleva la sangre con oxígeno a todos los órganos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Para qué sirven las válvulas del corazón?",
+     "opciones": [
+      "Para fabricar los glóbulos rojos nuevos",
+      "Para que la sangre no retroceda",
+      "Para cargar oxígeno en cada latido",
+      "Para separar el plasma"
+     ],
+     "correcta": 1,
+     "explicacion": "Se abren para dejar pasar la sangre y se cierran después."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde carga oxígeno la sangre?",
+     "opciones": [
+      "En los capilares de los alvéolos",
+      "En el ventrículo izquierdo",
+      "En las venas cavas",
+      "En los capilares de los músculos"
+     ],
+     "correcta": 0,
+     "explicacion": "Eso pasa en la circulación menor."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué proteína de los glóbulos rojos lleva el oxígeno?",
+     "opciones": [
+      "La hemoglobina",
+      "Las proteínas del plasma",
+      "La urea",
+      "Una enzima digestiva"
+     ],
+     "correcta": 0,
+     "explicacion": "Tiene hierro, y por eso la sangre es roja."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "AURÍCULA",
+     "pista": "Cavidad de arriba del corazón que recibe la sangre."
+    },
+    {
+     "palabra": "VENTRÍCULO",
+     "pista": "Cavidad de abajo del corazón que empuja la sangre."
+    },
+    {
+     "palabra": "ARTERIA",
+     "pista": "Vaso que saca la sangre del corazón."
+    },
+    {
+     "palabra": "CAPILAR",
+     "pista": "Vaso muy fino donde la sangre intercambia sustancias con las células."
+    },
+    {
+     "palabra": "PLAQUETAS",
+     "pista": "Ayudan a que la sangre se coagule."
+    },
+    {
+     "palabra": "AORTA",
+     "pista": "Arteria que sale del ventrículo izquierdo."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué vasos sanguíneos devuelven la sangre al corazón?",
+     "opciones": [
+      "Las venas",
+      "Las arterias",
+      "Los capilares de los pulmones",
+      "La arteria aorta"
+     ],
+     "correcta": 0,
+     "explicacion": "Las arterias la sacan del corazón; las venas la devuelven."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La circulación humana es doble porque tiene dos circuitos: uno pasa por los pulmones y otro por todo el cuerpo.",
+     "respuesta": true,
+     "explicacion": "Por eso se habla de circulación menor y circulación mayor."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué lleva la sangre desde una célula del cuerpo hacia los pulmones?",
+     "opciones": [
+      "El dióxido de carbono",
+      "El oxígeno",
+      "Los glóbulos blancos nuevos",
+      "La glucosa que sobra"
+     ],
+     "correcta": 0,
+     "explicacion": "Lo producen las células en la respiración celular y sale en la espiración."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "El sistema excretor",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "Cuando tomás mucha agua, tenés que ir al baño más seguido y la orina sale clara. En un día de mucho calor, en cambio, casi no vas y la orina sale más oscura. ¿Quién decide eso? Pensalo antes de seguir leyendo."
+    },
+    {
+     "t": "texto",
+     "titulo": "Excretar: sacar los desechos de las células",
+     "texto": "Mientras trabajan, tus células producen desechos. En la respiración celular se forma **dióxido de carbono**. Cuando el cuerpo descompone las proteínas que no usa, se forma **urea**, una sustancia que en cantidad sería tóxica. La sangre recoge estos desechos y los lleva hasta los órganos que los sacan del cuerpo. Eso es la **excreción**.\n\nLos desechos salen por tres caminos. El dióxido de carbono sale por los **pulmones**, con el aire que espirás. La **piel** elimina agua, sales y un poco de urea con el **sudor**. Y los **riñones** eliminan la urea, el agua y las sales que sobran con la **orina**.\n\nOjo con una confusión común: la materia fecal no es excreción. Son restos de alimento que nunca entraron a la sangre ni a las células. Su salida se llama **egestión**."
+    },
+    {
+     "t": "texto",
+     "titulo": "El sistema urinario",
+     "texto": "Los **riñones** son dos órganos con forma de poroto, ubicados en la espalda, a los costados de la columna, a la altura de la cintura. Les llega sangre por una arteria y la sangre ya limpia sale por una vena.\n\nLa orina que fabrican baja por dos tubos finos, los **uréteres**, hasta la **vejiga**, una bolsa elástica que la guarda. Cuando la vejiga se llena, sentís ganas de orinar, y la orina sale al exterior por la **uretra**."
+    },
+    {
+     "t": "imagen",
+     "titulo": "Dónde están los órganos del sistema urinario",
+     "src": "img/clases/bio-4-04-urinario.svg",
+     "tipo": "grafico",
+     "alt": "Ilustración del cuerpo humano de frente con el sistema urinario. A la altura de la cintura, a los dos lados de la columna, están los dos riñones; a cada riñón le llega sangre por una arteria y la sangre limpia sale por una vena. De cada riñón baja un uréter hasta la vejiga, en la parte baja del abdomen, y de la vejiga sale la uretra.",
+     "epigrafe": "Esquema elaborado para esta clase. La persona está vista de espaldas.",
+     "src_movil": "img/clases/bio-4-04-urinario-movil.svg",
+     "animacion": "svg",
+     "_imagen": true
+    },
+    {
+     "t": "tocar",
+     "svg": "img/clases/bio-4-04-tocar.svg",
+     "vista": "95 15 245 360",
+     "consigna": "En este dibujo del cuerpo hay seis puntos marcados. Leé cada pregunta y tocá el punto que corresponde.",
+     "alt": "Ilustración del cuerpo humano con sus arterias y venas, el corazón, los pulmones y los riñones. Hay seis puntos para tocar: en la cabeza, en el corazón, en cada pulmón y en cada riñón.",
+     "fuente": "Ilustración: Mariana Ruiz Villarreal (LadyofHats), vía Wikimedia Commons (dominio público).",
+     "puntos": [
+      {
+       "id": "cerebro",
+       "x": 200,
+       "y": 48,
+       "nombre": "Cerebro",
+       "articulo": "el cerebro"
+      },
+      {
+       "id": "corazon",
+       "x": 222,
+       "y": 238,
+       "nombre": "Corazón",
+       "articulo": "el corazón"
+      },
+      {
+       "id": "pulmon_i",
+       "x": 160,
+       "y": 240,
+       "nombre": "Pulmón",
+       "articulo": "un pulmón"
+      },
+      {
+       "id": "pulmon_d",
+       "x": 274,
+       "y": 240,
+       "nombre": "Pulmón",
+       "articulo": "un pulmón"
+      },
+      {
+       "id": "rinon_i",
+       "x": 180,
+       "y": 328,
+       "nombre": "Riñón",
+       "articulo": "un riñón"
+      },
+      {
+       "id": "rinon_d",
+       "x": 252,
+       "y": 328,
+       "nombre": "Riñón",
+       "articulo": "un riñón"
+      }
+     ],
+     "preguntas": [
+      {
+       "pregunta": "Tocá uno de los órganos que filtran la sangre y forman la orina.",
+       "correcta": [
+        "rinon_i",
+        "rinon_d"
+       ],
+       "explicacion": "Hay dos riñones, en la espalda, a los costados de la columna.",
+       "pista": "Buscá dos órganos con forma de poroto, más abajo del pecho."
+      },
+      {
+       "pregunta": "Tocá uno de los órganos por los que sale del cuerpo el dióxido de carbono.",
+       "correcta": [
+        "pulmon_i",
+        "pulmon_d"
+       ],
+       "explicacion": "El dióxido de carbono sale con el aire que espirás.",
+       "pista": "Releé por qué caminos salen los desechos: uno de ellos tiene que ver con respirar."
+      },
+      {
+       "pregunta": "Tocá el órgano que impulsa la sangre, con su urea, hasta los riñones.",
+       "correcta": "corazon",
+       "explicacion": "El corazón bombea la sangre por la circulación mayor, y una parte llega a los riñones para que la limpien.",
+       "pista": "Pensá en la bomba del sistema circulatorio que viste en la parte 1."
+      }
+     ],
+     "cierre": "Los riñones limpian la sangre que el corazón les manda, y los pulmones sacan el dióxido de carbono."
+    },
+    {
+     "t": "texto",
+     "titulo": "Cómo limpian la sangre los riñones",
+     "texto": "Cada riñón tiene alrededor de un millón de unidades microscópicas que filtran la sangre: las **nefronas**. El trabajo tiene dos pasos.\n\nPrimero, el **filtrado**. De la sangre pasa a la nefrona un líquido con agua, sales, glucosa y urea. Las células de la sangre y las proteínas grandes no pasan: se quedan en la sangre.\n\nDespués, la **reabsorción**. Lo que el cuerpo todavía necesita vuelve a la sangre: toda la glucosa, gran parte del agua y las sales que hacen falta. Lo que queda en la nefrona (la urea, el agua y las sales que sobran) forma la **orina**."
+    },
+    {
+     "t": "imagen",
+     "titulo": "La sangre antes y después de pasar por el riñón",
+     "src": "img/clases/bio-4-04-rinon.svg",
+     "tipo": "grafico",
+     "alt": "Dibujo en dos columnas. A la izquierda, la sangre que llega al riñón: lleva agua, sales, glucosa y urea. A la derecha, lo que sale del riñón por dos caminos: por la vena, la sangre limpia, con agua, sales y glucosa, y sin urea; por el uréter, la orina, con urea, agua y las sales que sobran.",
+     "epigrafe": "Ilustración elaborada para esta clase. Los órganos están simplificados y no respetan los tamaños reales.",
+     "src_movil": "img/clases/bio-4-04-rinon-movil.svg",
+     "_imagen": true
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Pensalo así: ordenar la mochila",
+     "texto": "Al final de la semana vaciás toda la mochila sobre la cama: eso es el filtrado, sale todo lo que entra por el agujero. Después volvés a guardar lo que vas a usar, como la cartuchera y los cuadernos: eso es la reabsorción. Lo que queda en la cama, como los papelitos y los envoltorios, va a la basura: esa es la orina."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "En las [[nefronas]] la sangre se filtra. Después, la glucosa y gran parte del agua vuelven a la sangre: es la [[reabsorción]]. Lo que queda forma la orina, que baja por los [[uréteres]] hasta la [[vejiga]] y sale por la uretra.",
+     "explicacion": "Ese es el camino completo: del filtrado en las nefronas a la salida de la orina.",
+     "pista": "Releé los textos Cómo limpian la sangre los riñones y El sistema urinario."
+    },
+    {
+     "t": "texto",
+     "titulo": "Los riñones y la homeostasis",
+     "texto": "Los riñones no solo sacan desechos: también controlan cuánta agua y cuántas sales hay en tu medio interno. Es la homeostasis que viste en la clase 1.\n\nSi tomaste poca agua o transpiraste mucho, los riñones devuelven más agua a la sangre y fabrican poca orina, más concentrada y oscura. Si tomaste mucha agua, devuelven menos y la orina sale abundante y clara. Así responden a la pregunta del comienzo."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "📰 Elegí el titular",
+     "pregunta": "Un diario escolar quiere explicar en un titular qué hacen los riñones. ¿Cuál es correcto?",
+     "opciones": [
+      "Los riñones filtran la sangre y eliminan la urea",
+      "Los riñones fabrican la urea que después se elimina con la orina",
+      "Los riñones guardan la orina hasta que salga",
+      "Los riñones sacan del cuerpo la materia fecal"
+     ],
+     "correcta": 0,
+     "explicacion": "La urea no la fabrican los riñones: la eliminan. La orina la guarda la vejiga, y la materia fecal sale por el ano.",
+     "pista": "Releé los textos sobre los riñones y fijate qué guarda la vejiga."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "La **excreción** saca del cuerpo los desechos de las células: el dióxido de carbono sale por los pulmones, el sudor por la piel y la **urea** por los riñones, con la orina. En las **nefronas** de los riñones hay **filtrado** y **reabsorción**. La orina pasa por los **uréteres**, se guarda en la **vejiga** y sale por la **uretra**. Los riñones también regulan el agua y las sales del medio interno."
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Completá el dato",
+     "consigna": "¿Cómo se llama el desecho que se forma cuando el cuerpo descompone las proteínas y que los riñones eliminan con la orina?",
+     "respuesta": "urea",
+     "acepta": [
+      "urea",
+      "la urea"
+     ],
+     "formato": "Escribí una sola palabra.",
+     "explicacion": "La urea viaja en la sangre hasta los riñones, que la dejan en la orina.",
+     "pista1": "Pensá en lo que se forma cuando el cuerpo descompone las proteínas que no usa.",
+     "relee": "Releé el texto Excretar: sacar los desechos de las células."
+    },
+    {
+     "t": "dato",
+     "titulo": "Cuando los riñones dejan de funcionar",
+     "texto": "Si los riñones dejan de funcionar, la urea y el agua se acumulan en la sangre. Una opción es la **diálisis**: una máquina filtra la sangre, varias veces por semana. Otra es el **trasplante** de un riñón. En la Argentina, la Ley 27.447, sancionada en julio de 2018 y conocida como Ley Justina, regula el trasplante de órganos y establece que toda persona mayor de 18 años es donante, salvo que haya dejado constancia de que no quiere serlo."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: en un análisis de orina, el laboratorio encuentra glucosa. Con lo que viste sobre la reabsorción, ¿por qué eso llama la atención?",
+     "respuesta": "Porque normalmente toda la glucosa que se filtra vuelve a la sangre en la reabsorción, y la orina sale sin glucosa. Si aparece, algo no está funcionando como debería, y quien analiza los resultados va a buscar la causa."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es la excreción y por qué caminos salen los desechos del cuerpo. Contá cómo los riñones forman la orina y qué recorrido hace hasta salir.",
+    "guia": [
+     "¿Qué desechos producen las células y de dónde salen?",
+     "¿Por qué la materia fecal no es excreción?",
+     "¿Qué órganos forman el sistema urinario?",
+     "¿Qué pasa en el filtrado y en la reabsorción?",
+     "¿Cómo ayudan los riñones a la homeostasis?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La urea se elimina sobre todo con la orina.",
+     "respuesta": true,
+     "explicacion": "Los riñones la sacan de la sangre."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La materia fecal es un producto de la excreción.",
+     "respuesta": false,
+     "explicacion": "Es egestión: son restos de alimento que no entraron a las células."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La vejiga guarda la orina hasta que sale.",
+     "respuesta": true,
+     "explicacion": "Cuando se llena, aparecen las ganas de orinar."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la reabsorción, la glucosa vuelve a la sangre.",
+     "respuesta": true,
+     "explicacion": "Por eso, normalmente, la orina no tiene glucosa."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los pulmones también participan en la excreción.",
+     "respuesta": true,
+     "explicacion": "Sacan el dióxido de carbono con el aire que espirás."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los uréteres llevan la orina desde la vejiga hacia afuera.",
+     "respuesta": false,
+     "explicacion": "Ese tubo es la uretra. Los uréteres llevan la orina de los riñones a la vejiga."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo se llaman las unidades que filtran la sangre en los riñones?",
+     "opciones": [
+      "Nefronas",
+      "Alvéolos",
+      "Vellosidades",
+      "Plaquetas"
+     ],
+     "correcta": 0,
+     "explicacion": "Cada riñón tiene alrededor de un millón."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué elimina la piel con el sudor?",
+     "opciones": [
+      "Agua, sales y algo de urea",
+      "Solamente dióxido de carbono",
+      "Glóbulos rojos que ya no sirven",
+      "Restos de alimento no digerido"
+     ],
+     "correcta": 0,
+     "explicacion": "Además, el sudor ayuda a bajar la temperatura."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Si tomaste muy poca agua, ¿cómo sale la orina?",
+     "opciones": [
+      "Abundante y clara",
+      "Poca y más oscura",
+      "Con mucha glucosa",
+      "Igual que siempre"
+     ],
+     "correcta": 1,
+     "explicacion": "Los riñones devuelven más agua a la sangre."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué se queda en la sangre durante el filtrado, sin pasar a la nefrona?",
+     "opciones": [
+      "La urea que viene de las células",
+      "Las sales minerales",
+      "Las células de la sangre",
+      "El agua"
+     ],
+     "correcta": 2,
+     "explicacion": "Las células y las proteínas grandes no atraviesan el filtro."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por dónde sale la orina al exterior?",
+     "opciones": [
+      "Por los uréteres",
+      "Por la uretra",
+      "Por la vena del riñón",
+      "Por el ano"
+     ],
+     "correcta": 1,
+     "explicacion": "La uretra es el último tramo del camino."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué desecho producen las células en la respiración celular?",
+     "opciones": [
+      "La urea de las proteínas",
+      "La bilis",
+      "El dióxido de carbono",
+      "La hemoglobina"
+     ],
+     "correcta": 2,
+     "explicacion": "Sale del cuerpo por los pulmones."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "UREA",
+     "pista": "Desecho que se forma al descomponer proteínas."
+    },
+    {
+     "palabra": "NEFRONA",
+     "pista": "Unidad del riñón que filtra la sangre."
+    },
+    {
+     "palabra": "VEJIGA",
+     "pista": "Bolsa que guarda la orina."
+    },
+    {
+     "palabra": "URÉTER",
+     "pista": "Tubo que lleva la orina del riñón a la vejiga."
+    },
+    {
+     "palabra": "SUDOR",
+     "pista": "Con él, la piel elimina agua y sales."
+    },
+    {
+     "palabra": "FILTRADO",
+     "pista": "Primer paso del trabajo de las nefronas."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué la materia fecal no se considera excreción?",
+     "opciones": [
+      "Porque son restos que no entraron a las células",
+      "Porque sale del cuerpo a través de los riñones",
+      "Porque tiene mucha urea",
+      "Porque la fabrican los pulmones"
+     ],
+     "correcta": 0,
+     "explicacion": "La excreción saca desechos que producen las células."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la reabsorción vuelven a la sangre la glucosa y gran parte del agua.",
+     "respuesta": true,
+     "explicacion": "Lo que queda en la nefrona forma la orina."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué recorrido hace la orina desde que se forma?",
+     "opciones": [
+      "Riñón, uréter, vejiga, uretra",
+      "Riñón, uretra, vejiga, uréter",
+      "Vejiga, riñón, uréter, uretra",
+      "Uréter, riñón, uretra, vejiga"
+     ],
+     "correcta": 0,
+     "explicacion": "Se forma en el riñón, baja por el uréter, se guarda en la vejiga y sale por la uretra."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Cuatro sistemas, un trabajo",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "Salís a correr. Al rato respirás más rápido, el corazón late más fuerte, transpirás y te da sed. ¿Son cuatro cosas separadas o tienen algo que ver entre sí?"
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/bio-4-04-correr.webp",
+     "tipo": "ilustracion",
+     "animacion": "acercar-izq",
+     "alt": "Ilustración de un adolescente con mochila en el patio de la escuela, inclinado con las manos en las rodillas, transpirado y agitado después de correr.",
+     "epigrafe": "Ilustración elaborada para esta clase.",
+     "_imagen": true
+    },
+    {
+     "t": "texto",
+     "titulo": "Cuatro sistemas que trabajan juntos",
+     "texto": "En las clases 3 y 4 viste los cuatro sistemas de la nutrición. Cada uno hace una parte, pero ninguno sirve solo.\n\nEl **digestivo** parte los nutrientes y los hace pasar a la sangre. El **respiratorio** hace pasar el oxígeno a la sangre y saca el dióxido de carbono. El **circulatorio** une a todos: lleva los nutrientes y el oxígeno hasta cada célula, y lleva los desechos a donde se eliminan. El **excretor** saca la urea y regula el agua y las sales.\n\nEn el centro están tus células. Ellas usan la glucosa y el oxígeno en la respiración celular para obtener energía, y producen los desechos. Gracias a estos cuatro sistemas, el medio interno que rodea a las células se mantiene estable: es la **homeostasis**."
+    },
+    {
+     "t": "cadena",
+     "titulo": "Cuando corrés: una cosa lleva a la otra",
+     "pasos": [
+      {
+       "titulo": "Tus músculos trabajan más",
+       "texto": "Necesitan más energía: usan más glucosa y más oxígeno."
+      },
+      {
+       "titulo": "Producen más desechos",
+       "texto": "Se forma más dióxido de carbono y más calor."
+      },
+      {
+       "titulo": "Respirás más rápido y el corazón late más fuerte",
+       "texto": "Llega más oxígeno a la sangre y la sangre circula más rápido."
+      },
+      {
+       "titulo": "Transpirás",
+       "texto": "El sudor ayuda a bajar la temperatura, pero perdés agua y sales."
+      },
+      {
+       "titulo": "Los riñones ahorran agua y te da sed",
+       "texto": "Fabricás menos orina y tomás agua para recuperar lo que perdiste."
+      }
+     ]
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Una molécula de oxígeno entra por tu nariz y llega a una célula de tu pierna. Ordená su recorrido.",
+     "items": [
+      "Las vías respiratorias",
+      "Un alvéolo",
+      "Un glóbulo rojo de un capilar del pulmón",
+      "El lado izquierdo del corazón",
+      "La arteria aorta y sus ramas",
+      "Un capilar de la pierna",
+      "La célula"
+     ],
+     "explicacion": "El oxígeno pasa del respiratorio al circulatorio en el alvéolo, vuelve al corazón y sale por la circulación mayor hasta los capilares de la pierna.",
+     "pista": "Combiná lo que viste: el camino del aire (clase 3) y la circulación menor y la mayor (parte 1 de esta clase)."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🗣️ ¿Quién lo diría?",
+     "pregunta": "Esta frase es inventada: \"Yo no hago la digestión ni tomo aire, pero sin mí ni los nutrientes ni el oxígeno llegarían a ninguna célula\". ¿Qué sistema podría decirla?",
+     "opciones": [
+      "El digestivo",
+      "El circulatorio",
+      "El excretor",
+      "El respiratorio"
+     ],
+     "correcta": 1,
+     "explicacion": "El circulatorio es el que une a los otros: transporta todo lo que entra y todo lo que hay que sacar.",
+     "pista": "Releé el texto Cuatro sistemas que trabajan juntos: uno de ellos \"une a todos\"."
+    },
+    {
+     "t": "texto",
+     "titulo": "Cuando algo no funciona bien",
+     "texto": "Como en la clase 3, esta parte no sirve para diagnosticar a nadie. Sirve para entender qué pasa cuando un órgano no cumple bien su tarea. Si tenés síntomas, lo que corresponde es consultar en un **centro de salud**.\n\nEn la **hipertensión arterial**, la sangre empuja las paredes de las arterias con más fuerza de lo normal. Muchas veces no da síntomas, y por eso conviene que la presión se controle. Ayudan comer con poca sal, hacer actividad física y no fumar.\n\nEn la **anemia**, la sangre tiene menos glóbulos rojos o menos hemoglobina de lo normal. Llega menos oxígeno a las células y aparece cansancio. Una causa frecuente es la falta de hierro, el oligoelemento que viste en la clase 1.\n\nEn la **infección urinaria**, bacterias infectan la vejiga o la uretra. Da ardor al orinar y ganas de ir muy seguido. Ayudan tomar suficiente agua y consultar si aparecen esos síntomas."
+    },
+    {
+     "t": "vf",
+     "consigna": "Leé cada afirmación y marcá si es verdadera o falsa.",
+     "afirmaciones": [
+      {
+       "texto": "La hipertensión arterial siempre da síntomas fáciles de notar.",
+       "v": false,
+       "explicacion": "Muchas veces no da síntomas. Por eso conviene controlar la presión."
+      },
+      {
+       "texto": "En la anemia llega menos oxígeno a las células.",
+       "v": true,
+       "explicacion": "Hay menos glóbulos rojos o menos hemoglobina para transportarlo."
+      },
+      {
+       "texto": "Comer con poca sal ayuda a cuidar la presión arterial.",
+       "v": true,
+       "explicacion": "Es uno de los hábitos que la clase menciona, junto con la actividad física y no fumar."
+      },
+      {
+       "texto": "La infección urinaria afecta a los pulmones.",
+       "v": false,
+       "explicacion": "Afecta a la vejiga o a la uretra, que forman parte del sistema urinario."
+      }
+     ]
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "Elegí la mejor opción",
+     "pregunta": "Una compañera anda muy cansada desde hace semanas, y en su casa le comentaron que puede ser anemia. ¿Qué le conviene hacer?",
+     "opciones": [
+      "Consultar en un centro de salud",
+      "Tomar un remedio que alguien tenga guardado en su casa",
+      "Esperar a que se le pase solo",
+      "Dejar de comer carne y legumbres"
+     ],
+     "correcta": 0,
+     "explicacion": "Solo un equipo de salud puede saber qué le pasa y qué tratamiento necesita. La clase no sirve para diagnosticar.",
+     "pista": "Releé el primer párrafo de Cuando algo no funciona bien."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Los sistemas **digestivo**, **respiratorio**, **circulatorio** y **excretor** trabajan juntos para que cada célula reciba nutrientes y oxígeno y se libere de sus desechos. El circulatorio los une a todos. Así se mantiene la **homeostasis**. La **hipertensión arterial**, la **anemia** y la **infección urinaria** son ejemplos de funcionamiento patológico; ante síntomas, se consulta en un **centro de salud**."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: si los riñones de una persona dejan de funcionar, ¿qué otros sistemas se ven afectados? Usá lo que viste en las tres partes.",
+     "respuesta": "La urea y el agua de más se acumulan en la sangre, así que el medio interno deja de estar estable. La sangre lleva esa sangre alterada a todas las células, por lo que el problema llega a todo el cuerpo: por eso los sistemas no se pueden pensar por separado."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá cómo trabajan juntos los cuatro sistemas de la nutrición para mantener la homeostasis. Usá el ejemplo de una persona que sale a correr, y nombrá una afección del sistema circulatorio o del excretor.",
+    "guia": [
+     "¿Qué hace cada uno de los cuatro sistemas?",
+     "¿Por qué decimos que el circulatorio une a los otros tres?",
+     "¿Qué cambia en el cuerpo cuando corrés y por qué?",
+     "¿Qué relación tiene todo esto con la homeostasis?",
+     "¿Qué pasa en la hipertensión arterial, la anemia o la infección urinaria?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El sistema circulatorio une el trabajo de los otros sistemas de la nutrición.",
+     "respuesta": true,
+     "explicacion": "Transporta los nutrientes, el oxígeno y los desechos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Al hacer ejercicio, el corazón late más despacio.",
+     "respuesta": false,
+     "explicacion": "Late más rápido para que llegue más oxígeno a los músculos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Transpirar ayuda a bajar la temperatura del cuerpo.",
+     "respuesta": true,
+     "explicacion": "Pero se pierden agua y sales."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Una causa frecuente de anemia es la falta de hierro.",
+     "respuesta": true,
+     "explicacion": "El hierro es parte de la hemoglobina."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los cuatro sistemas de la nutrición trabajan cada uno por su cuenta, sin relación.",
+     "respuesta": false,
+     "explicacion": "Dependen unos de otros: si uno falla, se afectan todos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La hipertensión arterial puede no dar síntomas.",
+     "respuesta": true,
+     "explicacion": "Por eso conviene controlar la presión."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué sistema saca la urea del cuerpo?",
+     "opciones": [
+      "El excretor",
+      "El digestivo",
+      "El respiratorio",
+      "El circulatorio"
+     ],
+     "correcta": 0,
+     "explicacion": "Lo hace a través de los riñones, con la orina."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué te da sed después de correr mucho?",
+     "opciones": [
+      "Porque perdiste agua con el sudor",
+      "Porque comiste poco",
+      "Porque los riñones fabricaron mucha orina",
+      "Porque bajó la temperatura"
+     ],
+     "correcta": 0,
+     "explicacion": "El cuerpo necesita recuperar el agua que perdió."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hábito ayuda a cuidar la presión arterial?",
+     "opciones": [
+      "Comer con mucha sal",
+      "Comer con poca sal",
+      "Dormir menos",
+      "Fumar poco"
+     ],
+     "correcta": 1,
+     "explicacion": "Junto con la actividad física y no fumar."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué síntoma es frecuente en la infección urinaria?",
+     "opciones": [
+      "Tos con fiebre",
+      "Ardor al orinar",
+      "Silbidos al respirar",
+      "Ruidos en la panza"
+     ],
+     "correcta": 1,
+     "explicacion": "Y ganas de orinar muy seguido."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde pasa el oxígeno del sistema respiratorio al circulatorio?",
+     "opciones": [
+      "En los alvéolos",
+      "En el ventrículo derecho",
+      "En las venas cavas",
+      "En los riñones"
+     ],
+     "correcta": 0,
+     "explicacion": "Pasa a los capilares que los rodean."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Al correr, ¿qué hacen los riñones con el agua?",
+     "opciones": [
+      "Ahorran agua y fabrican menos orina",
+      "Eliminan más agua que de costumbre",
+      "Dejan de filtrar la sangre por un rato",
+      "Fabrican glucosa"
+     ],
+     "correcta": 0,
+     "explicacion": "Así compensan el agua que se pierde con el sudor."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "HOMEOSTASIS",
+     "pista": "Mantener estable el medio interno."
+    },
+    {
+     "palabra": "ANEMIA",
+     "pista": "Hay menos glóbulos rojos o menos hemoglobina."
+    },
+    {
+     "palabra": "HIPERTENSIÓN",
+     "pista": "La sangre empuja las arterias con más fuerza de lo normal."
+    },
+    {
+     "palabra": "CIRCULATORIO",
+     "pista": "Sistema que une a los otros tres."
+    },
+    {
+     "palabra": "HIERRO",
+     "pista": "Oligoelemento que forma parte de la hemoglobina."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué sistema lleva el oxígeno desde los pulmones hasta las células?",
+     "opciones": [
+      "El circulatorio",
+      "El excretor",
+      "El digestivo",
+      "Ninguno: llega solo"
+     ],
+     "correcta": 0,
+     "explicacion": "La sangre lo transporta con los glóbulos rojos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la anemia, las células reciben menos oxígeno.",
+     "respuesta": true,
+     "explicacion": "Por eso aparece el cansancio."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué conviene controlar la presión arterial aunque te sientas bien?",
+     "opciones": [
+      "Porque la hipertensión puede no dar síntomas",
+      "Porque la presión alta baja sola con el paso del tiempo",
+      "Porque así se cura la anemia",
+      "Porque el control reemplaza al tratamiento"
+     ],
+     "correcta": 0,
+     "explicacion": "Se puede tener la presión alta sin notarlo."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Aurículas y ventrículos",
+   "definicion": "Las cuatro cavidades del corazón: las aurículas reciben la sangre y los ventrículos la empujan hacia afuera."
+  },
+  {
+   "palabra": "Arteria",
+   "definicion": "Vaso que saca la sangre del corazón hacia los órganos."
+  },
+  {
+   "palabra": "Vena",
+   "definicion": "Vaso que devuelve la sangre de los órganos al corazón."
+  },
+  {
+   "palabra": "Capilar",
+   "definicion": "Vaso muy fino donde la sangre intercambia sustancias con las células."
+  },
+  {
+   "palabra": "Circulación menor y mayor",
+   "definicion": "Los dos circuitos de la sangre: el menor pasa por los pulmones y el mayor, por todo el cuerpo."
+  },
+  {
+   "palabra": "Excreción",
+   "definicion": "Eliminación de los desechos que producen las células, como la urea y el dióxido de carbono."
+  },
+  {
+   "palabra": "Nefrona",
+   "definicion": "Unidad del riñón que filtra la sangre y forma la orina."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Las arterias siempre llevan sangre con oxígeno.",
+   "aclaracion": "Una arteria es la que saca la sangre del corazón. La arteria pulmonar lleva sangre con poco oxígeno hacia los pulmones."
+  },
+  {
+   "error": "La materia fecal es un desecho de la excreción.",
+   "aclaracion": "Son restos de alimento que no entraron a las células. Su salida se llama egestión; la excreción saca los desechos de las células."
+  },
+  {
+   "error": "Los riñones fabrican la urea.",
+   "aclaracion": "La urea se forma cuando el cuerpo descompone proteínas. Los riñones la sacan de la sangre y la eliminan con la orina."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Cuando corrés, el corazón late más rápido sin que lo decidas. ¿Quién le da esa orden?",
+  "conexion": "Con la clase 6, sobre el sistema nervioso, y la clase 7, sobre el sistema endocrino."
+ }
+}

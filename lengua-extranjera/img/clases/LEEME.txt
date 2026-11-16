@@ -1,0 +1,12 @@
+IMÁGENES DE LAS CLASES · Lengua Extranjera (Inglés)
+====================================================
+Nombre de cada archivo: código de la clase + tema (ej.: ing-4-01-linea.svg).
+
+Tipos (campo "tipo" en el contenido de la clase):
+  foto      fotografía. Siempre con fuente (preferentemente Wikimedia Commons).
+  recreada  ilustración hecha hoy. La plataforma aclara sola que no es una fotografía de la época. Nunca retratos de personas reales.
+  grafico   esquemas y gráficos hechos para la clase (.svg). Los que tienen versión para celular terminan en -movil.svg.
+
+Si una imagen todavía no está en esta carpeta, la clase muestra "Imagen en preparación" y sigue funcionando.
+
+Las clases de Inglés llevan solo esquemas (.svg). No hay fotografías de archivo.

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 330" role="img" aria-label="Dos segmentos, de 12 cm y de 8 cm. Una unidad de 4 cm entra exactamente 3 veces en el primero y 2 veces en el segundo." font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<g class="a-ap" style="--d:0.00s"><line x1="70" y1="70" x2="814" y2="70" stroke="#4B4FA3" stroke-width="6" stroke-linecap="round"/><text x="70.0" y="52.0" text-anchor="start" font-size="24" font-weight="800" fill="#4B4FA3" >12 cm</text></g>
+<g class="a-ap" style="--d:0.40s"><rect x="73" y="82" width="242" height="30" rx="10" fill="#E6E7F6" stroke="#4B4FA3" stroke-width="2"/><text x="194.0" y="104.0" text-anchor="middle" font-size="18" font-weight="700" fill="#4B4FA3" >4 cm</text></g>
+<g class="a-ap" style="--d:0.75s"><rect x="321" y="82" width="242" height="30" rx="10" fill="#E6E7F6" stroke="#4B4FA3" stroke-width="2"/><text x="442.0" y="104.0" text-anchor="middle" font-size="18" font-weight="700" fill="#4B4FA3" >4 cm</text></g>
+<g class="a-ap" style="--d:1.10s"><rect x="569" y="82" width="242" height="30" rx="10" fill="#E6E7F6" stroke="#4B4FA3" stroke-width="2"/><text x="690.0" y="104.0" text-anchor="middle" font-size="18" font-weight="700" fill="#4B4FA3" >4 cm</text></g>
+<g class="a-ap" style="--d:1.45s"><text x="70.0" y="144.0" text-anchor="start" font-size="22" font-weight="700" fill="#4A4870" >12 cm = 3 veces 4 cm</text></g>
+<g class="a-ap" style="--d:1.85s"><line x1="70" y1="200" x2="566" y2="200" stroke="#1F9D6B" stroke-width="6" stroke-linecap="round"/><text x="70.0" y="182.0" text-anchor="start" font-size="24" font-weight="800" fill="#1F9D6B" >8 cm</text></g>
+<g class="a-ap" style="--d:2.25s"><rect x="73" y="212" width="242" height="30" rx="10" fill="#E4F6EE" stroke="#1F9D6B" stroke-width="2"/><text x="194.0" y="234.0" text-anchor="middle" font-size="18" font-weight="700" fill="#1F9D6B" >4 cm</text></g>
+<g class="a-ap" style="--d:2.60s"><rect x="321" y="212" width="242" height="30" rx="10" fill="#E4F6EE" stroke="#1F9D6B" stroke-width="2"/><text x="442.0" y="234.0" text-anchor="middle" font-size="18" font-weight="700" fill="#1F9D6B" >4 cm</text></g>
+<g class="a-ap" style="--d:2.95s"><text x="70.0" y="274.0" text-anchor="start" font-size="22" font-weight="700" fill="#4A4870" >8 cm = 2 veces 4 cm</text></g>
+</svg>

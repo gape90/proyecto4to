@@ -1,0 +1,89 @@
+{
+  "nota": "Personajes del aula de Inglés. Joaquín presenta; el estudiante elige uno de los otros cuatro y no puede cambiarlo (solo empezando el recorrido de nuevo).",
+  "presentador": {
+    "id": "joaquin",
+    "nombre": "Joaquín",
+    "img": "img/personajes/joaquin-saluda.webp",
+    "genero": "varon",
+    "texto": "[[~Hi! I'm Joaquín. I'm sixteen and I live in Rosario, Argentina.]] [[~My school has an online exchange with students from other countries.]] [[~Let me introduce you to four of them. Choose one!]]",
+    "traduccion": "¡Hola! Soy Joaquín. Tengo dieciséis años y vivo en Rosario, Argentina. Mi escuela tiene un intercambio virtual con estudiantes de otros países. Acá te presento a cuatro de ellos. ¡Elegí uno!",
+    "poses": {
+      "saluda": "img/personajes/joaquin-saluda.webp",
+      "piensa": "img/personajes/joaquin-piensa.webp"
+    }
+  },
+  "personajes": [
+    {
+      "id": "lucy",
+      "nombre": "Lucy",
+      "pronombre": "la",
+      "genero": "mujer",
+      "ciudad": "Bristol",
+      "pais": "Inglaterra",
+      "img": "img/personajes/lucy-principal.webp",
+      "texto": "[[~Hi! I'm Lucy. I'm sixteen and I live in Bristol, in England. I love acting in plays.]]",
+      "traduccion": "¡Hola! Soy Lucy. Tengo dieciséis años y vivo en Bristol, Inglaterra. Me encanta actuar en obras de teatro.",
+      "poses": {
+        "principal": "img/personajes/lucy-principal.webp",
+        "piensa": "img/personajes/lucy-piensa.webp",
+        "brazos": "img/personajes/lucy-brazos.webp",
+        "escribe": "img/personajes/lucy-escribe.webp"
+      },
+      "alt": "Lucy, una adolescente de pelo rizado, con campera de jean y un lápiz en la mano."
+    },
+    {
+      "id": "ben",
+      "nombre": "Ben",
+      "pronombre": "lo",
+      "genero": "varon",
+      "ciudad": "cerca de Chicago",
+      "pais": "Estados Unidos",
+      "img": "img/personajes/ben-principal.webp",
+      "texto": "[[~Hi! I'm Ben. I'm sixteen and I live near Chicago, in the USA. I play basketball every day.]]",
+      "traduccion": "¡Hola! Soy Ben. Tengo dieciséis años y vivo cerca de Chicago, en Estados Unidos. Juego al básquet todos los días.",
+      "poses": {
+        "principal": "img/personajes/ben-principal.webp",
+        "piensa": "img/personajes/ben-piensa.webp",
+        "brazos": "img/personajes/ben-brazos.webp",
+        "senala": "img/personajes/ben-senala.webp"
+      },
+      "alt": "Ben, un adolescente con campera azul y una pelota de básquet bajo el brazo."
+    },
+    {
+      "id": "mia",
+      "nombre": "Mia",
+      "pronombre": "la",
+      "genero": "mujer",
+      "ciudad": "Sídney",
+      "pais": "Australia",
+      "img": "img/personajes/mia-principal.webp",
+      "texto": "[[~Hi! I'm Mia. I'm sixteen and I live in Sydney, Australia. I play the violin and I love swimming.]]",
+      "traduccion": "¡Hola! Soy Mia. Tengo dieciséis años y vivo en Sídney, Australia. Toco el violín y me encanta nadar.",
+      "poses": {
+        "principal": "img/personajes/mia-principal.webp",
+        "piensa": "img/personajes/mia-piensa.webp",
+        "brazos": "img/personajes/mia-brazos.webp",
+        "senala": "img/personajes/mia-senala.webp"
+      },
+      "alt": "Mia, una adolescente de flequillo, con campera amarilla y una cámara de fotos."
+    },
+    {
+      "id": "liam",
+      "nombre": "Liam",
+      "pronombre": "lo",
+      "genero": "varon",
+      "ciudad": "Dublín",
+      "pais": "Irlanda",
+      "img": "img/personajes/liam-principal.webp",
+      "texto": "[[~Hi! I'm Liam. I'm sixteen and I live in Dublin, Ireland. I play the guitar and I love cooking.]]",
+      "traduccion": "¡Hola! Soy Liam. Tengo dieciséis años y vivo en Dublín, Irlanda. Toco la guitarra y me encanta cocinar.",
+      "poses": {
+        "principal": "img/personajes/liam-principal.webp",
+        "piensa": "img/personajes/liam-piensa.webp",
+        "brazos": "img/personajes/liam-brazos.webp",
+        "senala": "img/personajes/liam-senala.webp"
+      },
+      "alt": "Liam, un adolescente pelirrojo con una guitarra en la mochila."
+    }
+  ]
+}

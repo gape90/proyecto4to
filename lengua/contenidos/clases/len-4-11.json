@@ -1,0 +1,1136 @@
+{
+ "id": "len-4-11",
+ "espacio": "lengua",
+ "eje": "Comprensión y producción oral y escrita",
+ "titulo": "Los discursos sociales",
+ "intro": "Todos los días leemos y escuchamos muchos discursos: manuales, noticias, publicidades, discursos políticos, leyes. En esta clase vas a aprender a reconocer cómo funcionan: qué modos de decir combinan, quién habla y a quién, y qué buscan los discursos de distintas instituciones, para leerlos con ojo crítico.",
+ "objetivos": [
+  "Reconocer los modos de decir y las marcas de la enunciación en un discurso.",
+  "Distinguir el discurso científico del técnico y reconocer sus rasgos.",
+  "Reconocer la finalidad y los rasgos de los discursos periodístico, publicitario, político y jurídico."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés los modos de decir y la enunciación, los rasgos de los discursos científico y técnico, y el análisis de una publicidad con ojo crítico.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Los modos de decir: describir, explicar, argumentar",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Todo lo que decimos es un discurso",
+     "texto": "Cada vez que hablamos o escribimos, producimos un **discurso**: decimos algo, a alguien, en una situación y con una intención. El **análisis del discurso** estudia cómo funcionan esos textos en la vida social: qué buscan, cómo lo logran y qué dicen de quien los produce.\n\nPara lograr su intención, los textos combinan distintos **modos de decir**: describen, explican, argumentan y narran."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Los modos de decir",
+     "columnas": [
+      "Modo",
+      "Qué hace",
+      "Ejemplo"
+     ],
+     "filas": [
+      [
+       "Describir",
+       "Muestra cómo es algo: partes, forma, características",
+       "\"El multímetro tiene una pantalla, una perilla y dos bornes.\""
+      ],
+      [
+       "Explicar",
+       "Hace comprender por qué o cómo ocurre algo",
+       "\"El fusible se corta porque la corriente supera su valor máximo.\""
+      ],
+      [
+       "Argumentar",
+       "Defiende una idea para convencer",
+       "\"Conviene usar luces LED, ya que consumen menos energía.\""
+      ],
+      [
+       "Narrar",
+       "Cuenta hechos en orden",
+       "\"Ayer encendimos el equipo y, al rato, se apagó.\""
+      ]
+     ]
+    },
+    {
+     "t": "esquema",
+     "_imagen": true,
+     "consigna": "Completá el esquema con lo que viste en la tabla de arriba: ubicá qué hace cada modo de decir.",
+     "imagen": {
+      "src": "img/clases/len-4-11-modos.svg",
+      "src_movil": "img/clases/len-4-11-modos-movil.svg",
+      "tipo": "grafico",
+      "alt": "Esquema de cuatro filas: describir, explicar, argumentar y narrar, cada una con un casillero vacío.",
+      "epigrafe": "Esquema elaborado para esta clase."
+     },
+     "huecos": [
+      {
+       "x": 49.0,
+       "y": 17.55,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "Muestra cómo es algo",
+       "movil": {
+        "x": 4.0,
+        "y": 19.42,
+        "w": 92.0,
+        "h": 11.02
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 37.14,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "Hace comprender por qué ocurre algo",
+       "movil": {
+        "x": 4.0,
+        "y": 41.47,
+        "w": 92.0,
+        "h": 11.02
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 56.73,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "Defiende una idea para convencer",
+       "movil": {
+        "x": 4.0,
+        "y": 63.52,
+        "w": 92.0,
+        "h": 11.02
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 76.33,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "Cuenta hechos en orden",
+       "movil": {
+        "x": 4.0,
+        "y": 85.56,
+        "w": 92.0,
+        "h": 11.02
+       }
+      }
+     ],
+     "distractores": [
+      "Da órdenes sin explicar",
+      "Repite lo mismo"
+     ],
+     "explicacion": "Es la misma información de la tabla. Un mismo texto puede combinar varios modos.",
+     "pista": "Volvé a mirar la columna de qué hace cada modo."
+    },
+    {
+     "t": "destacado",
+     "titulo": "La enunciación: quién dice y a quién",
+     "texto": "En todo discurso hay alguien que dice (el **enunciador**) y alguien a quien se le dice (el **enunciatario**). El texto deja **marcas** de ellos:\n• pronombres y verbos: \"yo creo\", \"nosotros proponemos\", \"vos sabés\";\n• palabras que valoran: \"excelente\", \"lamentable\", \"por suerte\";\n• la forma de dirigirse: \"estimado cliente\", \"vecinos y vecinas\", \"che\".\nUn texto técnico borra esas marcas (\"se mide\"); un texto de opinión las muestra."
+    },
+    {
+     "t": "dato",
+     "titulo": "Lo verbal y lo no verbal",
+     "texto": "Los discursos no están hechos solo de palabras. También comunican las **imágenes**, los **colores**, el **tono de voz**, los **gestos** y la **música**. Por eso, para analizar un discurso, por ejemplo una publicidad o un video, hay que mirar cómo se combinan lo verbal y lo no verbal."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Qué modo de decir predomina en cada frase?",
+     "categorias": [
+      "Describir",
+      "Explicar",
+      "Argumentar"
+     ],
+     "items": [
+      {
+       "texto": "El tablero tiene tres llaves y un disyuntor",
+       "cat": "Describir"
+      },
+      {
+       "texto": "La pieza es de acero, mide 20 cm y pesa 2 kg",
+       "cat": "Describir"
+      },
+      {
+       "texto": "El metal se dilata porque aumenta la temperatura",
+       "cat": "Explicar"
+      },
+      {
+       "texto": "La pila se descarga porque la reacción química se agota",
+       "cat": "Explicar"
+      },
+      {
+       "texto": "Hay que reciclar los residuos electrónicos, ya que contaminan",
+       "cat": "Argumentar"
+      },
+      {
+       "texto": "Es mejor estudiar todos los días, porque se aprende más",
+       "cat": "Argumentar"
+      }
+     ],
+     "explicacion": "Describir muestra cómo es; explicar dice por qué ocurre; argumentar defiende una idea."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "En \"Lamentablemente, el equipo falló\", ¿qué marca de subjetividad hay?",
+     "opciones": [
+      "\"Lamentablemente\"",
+      "\"Equipo\"",
+      "\"Falló\"",
+      "\"El\""
+     ],
+     "correcta": 0,
+     "explicacion": "Muestra cómo se siente quien habla sobre el hecho.",
+     "pista": "Releé el recuadro de la enunciación."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "Para lograr su intención, los textos combinan modos de decir: [[describir]] muestra cómo es algo, [[explicar]] hace comprender por qué ocurre y [[argumentar]] defiende una idea. En todo discurso hay un [[enunciador]], que dice, y un enunciatario, a quien se le dice.",
+     "distractores": [
+      "ordenar",
+      "copiar",
+      "lector"
+     ],
+     "explicacion": "Estas son las bases para analizar cualquier discurso.",
+     "pista": "Todas las palabras están en los textos de esta parte.",
+     "_nuevo": true
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué un manual de instrucciones dice \"se conecta el cable\" y no \"yo conecto el cable\"?",
+     "respuesta": "Porque el texto técnico busca **objetividad**: borra las marcas del enunciador para que la instrucción valga para cualquiera, sin importar quién la escribió. En cambio, un texto de opinión muestra al enunciador (\"yo creo\"), porque lo importante es su punto de vista."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es un discurso y cuáles son los modos de decir, con un ejemplo de cada uno relacionado con tu especialidad. Explicá también qué es la enunciación y qué marcas deja en un texto.",
+    "guia": [
+     "¿Qué estudia el análisis del discurso?",
+     "¿Qué hace cada modo de decir? Escribí un ejemplo técnico de cada uno.",
+     "¿Quiénes son el enunciador y el enunciatario?",
+     "¿Qué marcas de subjetividad puede tener un texto?",
+     "¿Por qué los textos técnicos borran esas marcas?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Explicar es hacer comprender por qué o cómo ocurre algo.",
+     "respuesta": true,
+     "explicacion": "Por ejemplo, por qué se corta un fusible."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un texto solo puede tener un modo de decir.",
+     "respuesta": false,
+     "explicacion": "Muchos textos combinan varios."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El enunciatario es a quien se le dirige el discurso.",
+     "respuesta": true,
+     "explicacion": "El enunciador es quien dice."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los textos técnicos muestran muchas marcas de subjetividad.",
+     "respuesta": false,
+     "explicacion": "Las borran: buscan objetividad."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las imágenes y los gestos también comunican.",
+     "respuesta": true,
+     "explicacion": "Son parte de lo no verbal."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Argumentar es defender una idea para convencer.",
+     "respuesta": true,
+     "explicacion": "Con razones."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué modo predomina en \"La pieza mide 20 cm y es de acero\"?",
+     "opciones": [
+      "Describir",
+      "Argumentar",
+      "Narrar",
+      "Explicar"
+     ],
+     "correcta": 0,
+     "explicacion": "Muestra cómo es algo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas palabras es una marca de subjetividad?",
+     "opciones": [
+      "Excelente",
+      "Tornillo",
+      "Diez",
+      "Cable"
+     ],
+     "correcta": 0,
+     "explicacion": "Valora: muestra la opinión de quien habla."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué estudia el análisis del discurso?",
+     "opciones": [
+      "Cómo funcionan los textos en la sociedad",
+      "Solo la ortografía de las palabras escritas",
+      "Solo los números y las estadísticas",
+      "La vida privada de los autores"
+     ],
+     "correcta": 0,
+     "explicacion": "Qué buscan y cómo lo logran."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué modo predomina en \"Ayer encendimos el equipo y se apagó\"?",
+     "opciones": [
+      "Narrar",
+      "Describir",
+      "Argumentar",
+      "Explicar"
+     ],
+     "correcta": 0,
+     "explicacion": "Cuenta hechos en orden."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué modo usa \"Conviene usar luces LED, ya que consumen menos\"?",
+     "opciones": [
+      "Argumentar",
+      "Describir",
+      "Narrar",
+      "Dar instrucciones"
+     ],
+     "correcta": 0,
+     "explicacion": "Defiende una idea con una razón."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos es un elemento no verbal?",
+     "opciones": [
+      "El tono de voz",
+      "Un sustantivo",
+      "Un verbo",
+      "Un adjetivo escrito"
+     ],
+     "correcta": 0,
+     "explicacion": "También los gestos, los colores y la música."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "DISCURSO",
+     "pista": "Lo que decimos a alguien, en una situación y con una intención."
+    },
+    {
+     "palabra": "DESCRIBIR",
+     "pista": "Mostrar cómo es algo."
+    },
+    {
+     "palabra": "EXPLICAR",
+     "pista": "Hacer comprender por qué ocurre algo."
+    },
+    {
+     "palabra": "ARGUMENTAR",
+     "pista": "Defender una idea para convencer."
+    },
+    {
+     "palabra": "ENUNCIADOR",
+     "pista": "Quien dice algo en un discurso."
+    },
+    {
+     "palabra": "SUBJETIVIDAD",
+     "pista": "Marcas de opinión o valoración de quien habla."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Un texto dice cómo es una máquina, por qué se recalienta y por qué conviene reemplazarla. ¿Qué modos combina?",
+     "opciones": [
+      "Describir, explicar y argumentar",
+      "Narrar, describir y dar instrucciones",
+      "Solo describir la máquina",
+      "Narrar y argumentar"
+     ],
+     "correcta": 0,
+     "explicacion": "Los textos suelen combinar modos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia hay entre \"se recomienda revisar\" y \"yo te recomiendo que revises\"?",
+     "opciones": [
+      "La segunda muestra a quien habla",
+      "Ninguna: dicen exactamente lo mismo",
+      "La primera es más subjetiva",
+      "La segunda es la impersonal"
+     ],
+     "correcta": 0,
+     "explicacion": "Los pronombres son marcas de la enunciación."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Para analizar una publicidad hay que mirar tanto las palabras como las imágenes.",
+     "respuesta": true,
+     "explicacion": "Lo verbal y lo no verbal se combinan."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Los discursos técnico y científico",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "El discurso científico",
+     "texto": "El **discurso científico** produce y comunica **conocimiento** sobre el mundo. Ese conocimiento no es una opinión: se obtiene con un **método**, se apoya en **evidencias** (observaciones, mediciones, experimentos) y lo **revisan otros especialistas** antes de publicarse.\n\nHay dos grandes formas: los **artículos científicos**, escritos por especialistas para especialistas, y la **divulgación científica**, que explica esos conocimientos para el público general."
+    },
+    {
+     "t": "texto",
+     "titulo": "El discurso técnico",
+     "texto": "El **discurso técnico** **aplica** los conocimientos científicos a la solución de problemas concretos: construir, fabricar, reparar, mantener. Es el que vas a usar en tu especialidad: manuales, hojas de datos, normas, protocolos, informes. Los dos discursos comparten muchos rasgos, porque los dos buscan **precisión** y **objetividad**."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Rasgos de los discursos científico y técnico",
+     "columnas": [
+      "Rasgo",
+      "Qué significa",
+      "Ejemplo"
+     ],
+     "filas": [
+      [
+       "Terminología",
+       "Palabras propias de una especialidad, con un solo significado",
+       "tensión, resistencia, capacitor"
+      ],
+      [
+       "Impersonalidad",
+       "Se borra a quien escribe",
+       "\"Se observó\", \"se midió\""
+      ],
+      [
+       "Precisión",
+       "Datos y unidades exactas",
+       "\"220 V\", \"15 °C\""
+      ],
+      [
+       "Citas y fuentes",
+       "Se indica de dónde sale cada dato",
+       "\"Según la norma…\""
+      ],
+      [
+       "Gráficos y tablas",
+       "Muestran datos de manera ordenada",
+       "Un gráfico de temperatura"
+      ]
+     ]
+    },
+    {
+     "t": "dato",
+     "titulo": "Dónde leer divulgación científica y técnica",
+     "texto": "En la Argentina, organismos públicos como el **INTA** (Instituto Nacional de Tecnología Agropecuaria), el **INTI** (Instituto Nacional de Tecnología Industrial) y las **universidades** publican textos de divulgación científica y técnica: guías, notas, informes y videos pensados para que cualquier persona pueda entenderlos."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Artículo científico y divulgación",
+     "columnas": [
+      "",
+      "Artículo científico",
+      "Divulgación científica"
+     ],
+     "filas": [
+      [
+       "Para quién",
+       "Especialistas",
+       "Público general"
+      ],
+      [
+       "Lenguaje",
+       "Muy técnico",
+       "Claro, con ejemplos y comparaciones"
+      ],
+      [
+       "Dónde se publica",
+       "Revistas especializadas",
+       "Diarios, revistas, sitios web, videos"
+      ]
+     ]
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-11-divulgacion.svg",
+     "tipo": "grafico",
+     "alt": "Dos textos lado a lado: un artículo científico, en dos columnas de texto apretado, para especialistas; y una nota de divulgación, con un título en forma de pregunta, una imagen y párrafos cortos, para el público general.",
+     "epigrafe": "Un artículo científico y una nota de divulgación: el mismo saber, para lectores distintos. Ilustración elaborada para esta clase."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cada característica es del artículo científico o de la divulgación?",
+     "categorias": [
+      "Artículo científico",
+      "Divulgación"
+     ],
+     "items": [
+      {
+       "texto": "Lo leen especialistas",
+       "cat": "Artículo científico"
+      },
+      {
+       "texto": "Usa terminología muy técnica sin explicarla",
+       "cat": "Artículo científico"
+      },
+      {
+       "texto": "Se publica en revistas especializadas",
+       "cat": "Artículo científico"
+      },
+      {
+       "texto": "Explica con ejemplos y comparaciones",
+       "cat": "Divulgación"
+      },
+      {
+       "texto": "Está pensado para el público general",
+       "cat": "Divulgación"
+      },
+      {
+       "texto": "Puede aparecer en un diario o un video",
+       "cat": "Divulgación"
+      }
+     ],
+     "explicacion": "Los dos comunican conocimiento científico, pero para públicos distintos."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada rasgo con su ejemplo.",
+     "pares": [
+      {
+       "a": "Terminología",
+       "b": "capacitor, resistencia, tensión"
+      },
+      {
+       "a": "Impersonalidad",
+       "b": "\"Se midió la temperatura\""
+      },
+      {
+       "a": "Precisión",
+       "b": "\"220 V\""
+      },
+      {
+       "a": "Cita de fuentes",
+       "b": "\"Según la norma…\""
+      }
+     ],
+     "explicacion": "Son los rasgos que comparten los discursos científico y técnico.",
+     "pista": "Releé la tabla de rasgos.",
+     "_nuevo": true
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Qué diferencia al conocimiento científico de una opinión?",
+     "opciones": [
+      "Se obtiene con un método y evidencias",
+      "Lo dice una persona famosa en la televisión",
+      "Se publica en las redes sociales",
+      "Lo comparte mucha gente"
+     ],
+     "correcta": 0,
+     "explicacion": "Por eso se le tiene confianza.",
+     "pista": "Releé el texto sobre el discurso científico."
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Cómo se llama el discurso que explica los conocimientos científicos para el público general?",
+     "respuesta": "divulgación científica",
+     "explicacion": "Usa un lenguaje claro, con ejemplos y comparaciones.",
+     "pista": "Está en el primer texto de esta parte.",
+     "formato": "Escribí las palabras.",
+     "acepta": [
+      "divulgacion cientifica",
+      "divulgacion",
+      "la divulgacion"
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué en un texto técnico cada término tiene que tener un solo significado?",
+     "respuesta": "Porque si una palabra pudiera entenderse de dos maneras, alguien podría hacer algo distinto de lo que se quiso decir, y en un trabajo técnico eso puede causar errores, fallas o accidentes. La terminología precisa asegura que todos entiendan lo mismo."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué diferencia hay entre el discurso científico y el técnico, y cuáles son sus rasgos comunes. Buscá o recordá un texto técnico de tu especialidad (un manual, una hoja de datos, una norma) y señalá en él tres rasgos con ejemplos.",
+    "guia": [
+     "¿Qué hace el discurso científico y qué hace el técnico?",
+     "¿Qué diferencia hay entre un artículo científico y la divulgación?",
+     "¿Qué es la terminología?",
+     "¿Qué texto técnico elegiste y qué rasgos encontraste?",
+     "¿Dónde se puede leer divulgación científica y técnica en la Argentina?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El conocimiento científico se apoya en evidencias.",
+     "respuesta": true,
+     "explicacion": "Observaciones, mediciones y experimentos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La divulgación científica está escrita solo para especialistas.",
+     "respuesta": false,
+     "explicacion": "Está pensada para el público general."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El discurso técnico aplica conocimientos a problemas concretos.",
+     "respuesta": true,
+     "explicacion": "Construir, fabricar, reparar."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el discurso técnico cada término puede tener muchos significados.",
+     "respuesta": false,
+     "explicacion": "La terminología busca un solo significado."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El INTI y el INTA publican textos de divulgación técnica.",
+     "respuesta": true,
+     "explicacion": "También las universidades."
+    },
+    {
+     "tipo": "vf",
+     "texto": "\"Se midió la temperatura\" es una frase impersonal.",
+     "respuesta": true,
+     "explicacion": "Borra a quien escribe."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hacen otros especialistas antes de que se publique un artículo científico?",
+     "opciones": [
+      "Lo revisan",
+      "Lo traducen al inglés",
+      "Lo ilustran",
+      "Nada"
+     ],
+     "correcta": 0,
+     "explicacion": "Así se controla la calidad."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la terminología?",
+     "opciones": [
+      "Las palabras propias de una especialidad",
+      "El final de un texto científico de una revista",
+      "Un tipo de gráfico de barras",
+      "La opinión de un especialista"
+     ],
+     "correcta": 0,
+     "explicacion": "Tensión, resistencia, capacitor."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde se publica la divulgación científica?",
+     "opciones": [
+      "En diarios, revistas y sitios web",
+      "Solo en revistas especializadas para expertos",
+      "Solo en los libros de cuentos",
+      "Solo en congresos científicos"
+     ],
+     "correcta": 0,
+     "explicacion": "Para llegar al público general."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tienen en común los discursos científico y técnico?",
+     "opciones": [
+      "Buscan precisión y objetividad",
+      "Los dos son literarios",
+      "Los dos usan registro informal",
+      "Los dos buscan hacer reír"
+     ],
+     "correcta": 0,
+     "explicacion": "Comparten muchos rasgos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa la sigla INTI?",
+     "opciones": [
+      "Instituto Nacional de Tecnología Industrial",
+      "Instituto Nacional de Teatro Independiente",
+      "Internet Nacional de Telecomunicaciones",
+      "Índice Nacional de Trabajos de Investigación"
+     ],
+     "correcta": 0,
+     "explicacion": "Es un organismo público argentino."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es un ejemplo de precisión?",
+     "opciones": [
+      "\"220 V\"",
+      "\"bastante tensión\"",
+      "\"un poco caliente\"",
+      "\"más o menos\""
+     ],
+     "correcta": 0,
+     "explicacion": "Dato con unidad exacta."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "CIENTÍFICO",
+     "pista": "Discurso que produce conocimiento con método y evidencias."
+    },
+    {
+     "palabra": "TÉCNICO",
+     "pista": "Discurso que aplica conocimientos a problemas concretos."
+    },
+    {
+     "palabra": "EVIDENCIA",
+     "pista": "Prueba obtenida con observaciones o mediciones."
+    },
+    {
+     "palabra": "DIVULGACIÓN",
+     "pista": "Explicación de la ciencia para el público general."
+    },
+    {
+     "palabra": "TERMINOLOGÍA",
+     "pista": "Conjunto de palabras propias de una especialidad."
+    },
+    {
+     "palabra": "MÉTODO",
+     "pista": "Forma ordenada de obtener conocimiento."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Leés en un diario una nota que explica con ejemplos cómo funcionan los paneles solares. ¿Qué tipo de discurso es?",
+     "opciones": [
+      "Divulgación científica",
+      "Artículo científico para especialistas",
+      "Discurso publicitario",
+      "Leyenda"
+     ],
+     "correcta": 0,
+     "explicacion": "Está pensada para el público general."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué los textos científicos y técnicos citan sus fuentes?",
+     "opciones": [
+      "Para que se pueda comprobar cada dato",
+      "Para que el texto sea más largo y parezca serio",
+      "Porque es una costumbre sin sentido",
+      "Para mostrar a qué autores admiran"
+     ],
+     "correcta": 0,
+     "explicacion": "Es parte de su rigor."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El discurso técnico que vas a usar en tu especialidad comparte rasgos con el científico.",
+     "respuesta": true,
+     "explicacion": "Precisión, objetividad, terminología."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Los discursos periodístico, publicitario, político y jurídico",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Cada institución tiene sus discursos",
+     "texto": "En la sociedad circulan discursos que pertenecen a distintas **instituciones**: los medios de comunicación, las empresas, la vida política, la justicia. Cada uno tiene una **finalidad** y unos **rasgos** propios. Reconocerlos ayuda a leerlos con **ojo crítico**: saber qué buscan y cómo intentan lograrlo."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Cuatro discursos sociales",
+     "columnas": [
+      "Discurso",
+      "Finalidad",
+      "Rasgos",
+      "Ejemplos"
+     ],
+     "filas": [
+      [
+       "Periodístico",
+       "Informar y también opinar sobre la actualidad",
+       "Datos, fuentes, títulos que llaman la atención",
+       "Noticia, crónica, nota de opinión"
+      ],
+      [
+       "Publicitario",
+       "Convencer de comprar o de hacer algo",
+       "Eslogan, imágenes, frases breves, apelación a las emociones",
+       "Aviso, propaganda, spot"
+      ],
+      [
+       "Político",
+       "Lograr adhesión a una propuesta o una postura",
+       "Construye un \"nosotros\", se dirige a la ciudadanía, propone y promete",
+       "Discurso de campaña, debate, plataforma"
+      ],
+      [
+       "Jurídico",
+       "Establecer normas, derechos y obligaciones",
+       "Lenguaje muy preciso, artículos numerados, verbos como \"deberá\"",
+       "Ley, contrato, reglamento, sentencia"
+      ]
+     ]
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-11-constitucion.jpg",
+     "tipo": "foto",
+     "animacion": "subir",
+     "alt": "Página manuscrita antigua con el título \"Constitución de la Confederación Argentina\", un párrafo largo y artículos numerados.",
+     "epigrafe": "Primera página del manuscrito original de la Constitución Nacional de 1853. Se ven rasgos del discurso jurídico: la fórmula \"ordenamos, decretamos y establecemos\" y los artículos numerados. Está en el Museo del Bicentenario.",
+     "fuente": "Congreso General Constituyente, vía Wikimedia Commons (dominio público)."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Cuatro fragmentos inventados para esta clase",
+     "texto": "• **Periodístico:** \"La lluvia caída el martes superó los 80 milímetros, según el servicio meteorológico.\"\n• **Publicitario:** \"Nuevo cargador Rayo. Cargá tu día en minutos.\"\n• **Político:** \"Vecinos y vecinas: juntos vamos a construir una ciudad con más espacios verdes.\"\n• **Jurídico:** \"Artículo 5. El locatario deberá abonar el alquiler del 1 al 10 de cada mes.\""
+    },
+    {
+     "t": "destacado",
+     "titulo": "Leer con ojo crítico",
+     "texto": "Frente a cualquier discurso conviene preguntarse: **¿quién habla?**, **¿a quién se dirige?**, **¿qué busca?** y **¿qué recursos usa para lograrlo?** Por ejemplo, una publicidad apela a las emociones; un discurso político construye un \"nosotros\" con quien escucha. Reconocer esos recursos no significa estar de acuerdo o en desacuerdo: significa entender cómo funciona el discurso."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada discurso con su finalidad.",
+     "pares": [
+      {
+       "a": "Periodístico",
+       "b": "Informar sobre la actualidad"
+      },
+      {
+       "a": "Publicitario",
+       "b": "Convencer de comprar o hacer algo"
+      },
+      {
+       "a": "Político",
+       "b": "Lograr adhesión a una propuesta"
+      },
+      {
+       "a": "Jurídico",
+       "b": "Establecer normas, derechos y obligaciones"
+      }
+     ],
+     "explicacion": "Cada institución tiene discursos con su propia finalidad.",
+     "pista": "Releé la tabla de los cuatro discursos.",
+     "_nuevo": true
+    },
+    {
+     "t": "opcion",
+     "pregunta": "En \"Vecinos y vecinas: juntos vamos a construir…\", ¿qué recurso del discurso político aparece?",
+     "opciones": [
+      "Construye un \"nosotros\"",
+      "Usa artículos numerados",
+      "Da datos del clima",
+      "Ofrece un producto"
+     ],
+     "correcta": 0,
+     "explicacion": "\"Juntos vamos a…\" incluye a quien escucha en el proyecto.",
+     "pista": "Releé la fila del discurso político en la tabla."
+    },
+    {
+     "t": "observar",
+     "_imagen": true,
+     "etiqueta": "🔎 Mirá con atención",
+     "consigna": "Mirá este aviso, inventado para esta clase, con ojo crítico.",
+     "imagen": {
+      "src": "img/clases/len-4-11-aviso.svg",
+      "tipo": "grafico",
+      "alt": "Aviso inventado para esta clase: arriba dice \"NUEVO CARGADOR RAYO\"; en el centro hay un cargador con un rayo y destellos; abajo dice \"Cargá tu día en minutos.\" y, en un recuadro amarillo, \"¡Últimos días! Llevate dos y pagá uno.\"",
+      "epigrafe": "Un aviso publicitario inventado. Ilustración elaborada para esta clase."
+     },
+     "preguntas": [
+      {
+       "pregunta": "¿Cuál es el eslogan del aviso?",
+       "opciones": [
+        "\"Cargá tu día en minutos.\"",
+        "\"NUEVO\"",
+        "\"Llevate dos y pagá uno\"",
+        "\"¡Últimos días!\""
+       ],
+       "correcta": 0,
+       "explicacion": "El eslogan es una frase breve y fácil de recordar.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      },
+      {
+       "pregunta": "¿Qué busca el recuadro \"¡Últimos días! Llevate dos y pagá uno\"?",
+       "opciones": [
+        "Lograr que se compre ya",
+        "Informar la historia del cargador",
+        "Explicar cómo funciona el cargador",
+        "Establecer una norma de seguridad"
+       ],
+       "correcta": 0,
+       "explicacion": "La publicidad busca convencer, muchas veces apelando a las emociones.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      },
+      {
+       "pregunta": "¿Qué información técnica real da el aviso sobre el cargador?",
+       "opciones": [
+        "Casi ninguna",
+        "Su tensión y su potencia",
+        "Su manual completo",
+        "Los resultados de una prueba"
+       ],
+       "correcta": 0,
+       "explicacion": "El aviso convence con imágenes y frases, no con datos: por eso conviene leerlo con ojo crítico.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué conviene reconocer los recursos de una publicidad antes de decidir una compra?",
+     "respuesta": "Porque la publicidad busca convencer, muchas veces apelando a las emociones más que a los datos. Si reconocés esos recursos, podés preguntarte qué información real te da sobre el producto y decidir con más libertad. Lo mismo vale para cualquier discurso: entender cómo funciona ayuda a pensar por cuenta propia."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué finalidad y qué rasgos tienen los discursos periodístico, publicitario, político y jurídico. Elegí una publicidad que conozcas y analizala con las cuatro preguntas para leer con ojo crítico.",
+    "guia": [
+     "¿Qué busca cada uno de los cuatro discursos?",
+     "¿Qué rasgos tiene cada uno?",
+     "¿Quién habla en la publicidad que elegiste y a quién se dirige?",
+     "¿Qué busca y qué recursos usa (palabras, imágenes, emociones)?",
+     "¿Qué información real da sobre el producto?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El discurso jurídico usa un lenguaje muy preciso.",
+     "respuesta": true,
+     "explicacion": "Con artículos numerados."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El discurso publicitario busca informar de manera neutral.",
+     "respuesta": false,
+     "explicacion": "Busca convencer de comprar o hacer algo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El discurso político busca lograr adhesión a una propuesta.",
+     "respuesta": true,
+     "explicacion": "Por eso construye un \"nosotros\"."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Una ley es un ejemplo de discurso periodístico.",
+     "respuesta": false,
+     "explicacion": "Es un discurso jurídico."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El eslogan es un recurso del discurso publicitario.",
+     "respuesta": true,
+     "explicacion": "Una frase breve y fácil de recordar."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Reconocer los recursos de un discurso ayuda a leerlo con ojo crítico.",
+     "respuesta": true,
+     "explicacion": "Permite entender qué busca y cómo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es un ejemplo de discurso periodístico?",
+     "opciones": [
+      "Una noticia",
+      "Un contrato",
+      "Un eslogan",
+      "Una ley"
+     ],
+     "correcta": 0,
+     "explicacion": "Informa sobre la actualidad."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué finalidad tiene el discurso jurídico?",
+     "opciones": [
+      "Establecer normas, derechos y obligaciones",
+      "Vender productos y servicios a los consumidores",
+      "Contar cuentos y leyendas",
+      "Opinar sobre un partido de fútbol"
+     ],
+     "correcta": 0,
+     "explicacion": "Leyes, contratos, reglamentos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué recurso es típico del discurso publicitario?",
+     "opciones": [
+      "Apelar a las emociones",
+      "Numerar los artículos",
+      "Citar sentencias",
+      "Usar solo tablas"
+     ],
+     "correcta": 0,
+     "explicacion": "También el eslogan y las imágenes."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "\"Artículo 3. Queda prohibido fumar en espacios cerrados.\" ¿Qué discurso es?",
+     "opciones": [
+      "Jurídico",
+      "Publicitario",
+      "Periodístico",
+      "Literario"
+     ],
+     "correcta": 0,
+     "explicacion": "Establece una norma."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es una de las preguntas para leer con ojo crítico?",
+     "opciones": [
+      "¿Qué busca quien habla?",
+      "¿Cuántas letras tiene?",
+      "¿De qué color es la letra?",
+      "¿Cuánto mide el texto?"
+     ],
+     "correcta": 0,
+     "explicacion": "También quién habla, a quién y con qué recursos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué discurso suele construir un \"nosotros\" con quien escucha?",
+     "opciones": [
+      "El político",
+      "El jurídico",
+      "El técnico",
+      "El científico"
+     ],
+     "correcta": 0,
+     "explicacion": "\"Juntos vamos a…\"."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "PERIODÍSTICO",
+     "pista": "Discurso que informa sobre la actualidad."
+    },
+    {
+     "palabra": "PUBLICITARIO",
+     "pista": "Discurso que busca convencer de comprar."
+    },
+    {
+     "palabra": "JURÍDICO",
+     "pista": "Discurso de leyes y contratos."
+    },
+    {
+     "palabra": "ESLOGAN",
+     "pista": "Frase breve y fácil de recordar de una publicidad."
+    },
+    {
+     "palabra": "ADHESIÓN",
+     "pista": "Lo que busca lograr el discurso político."
+    },
+    {
+     "palabra": "CRÍTICO",
+     "pista": "Ojo ___: el que reconoce qué busca un discurso."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Un texto dice: \"¡Últimos días! Llevate dos y pagá uno\". ¿Qué discurso es y qué busca?",
+     "opciones": [
+      "Publicitario: busca que compres",
+      "Jurídico: establece una norma",
+      "Periodístico: informa",
+      "Científico: comunica un experimento"
+     ],
+     "correcta": 0,
+     "explicacion": "Apela a la urgencia para convencer."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué es importante que el discurso jurídico sea muy preciso?",
+     "opciones": [
+      "Porque de él dependen derechos",
+      "Porque tiene que ser divertido",
+      "Porque es un tipo de publicidad",
+      "Porque lo leen solo los abogados"
+     ],
+     "correcta": 0,
+     "explicacion": "Una ambigüedad puede generar conflictos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Analizar cómo funciona un discurso político no significa estar de acuerdo o en desacuerdo con él.",
+     "respuesta": true,
+     "explicacion": "Es entender sus recursos."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Discurso",
+   "definicion": "Lo que se dice a alguien, en una situación y con una intención."
+  },
+  {
+   "palabra": "Modos de decir",
+   "definicion": "Describir, explicar, argumentar y narrar."
+  },
+  {
+   "palabra": "Enunciador",
+   "definicion": "Quien dice algo en un discurso; el enunciatario es a quien se le dice."
+  },
+  {
+   "palabra": "Subjetividad",
+   "definicion": "Marcas de opinión o valoración de quien habla."
+  },
+  {
+   "palabra": "Divulgación científica",
+   "definicion": "Explicación de conocimientos científicos para el público general."
+  },
+  {
+   "palabra": "Terminología",
+   "definicion": "Palabras propias de una especialidad, con un solo significado."
+  },
+  {
+   "palabra": "Eslogan",
+   "definicion": "Frase breve y fácil de recordar de una publicidad."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Pensar que un texto técnico puede tener opiniones como \"es buenísimo\".",
+   "aclaracion": "El texto técnico borra las marcas de subjetividad: dice datos."
+  },
+  {
+   "error": "Confundir la divulgación con el artículo científico.",
+   "aclaracion": "La divulgación es para el público general; el artículo, para especialistas."
+  },
+  {
+   "error": "Creer que analizar un discurso político es tomar partido.",
+   "aclaracion": "Analizar es entender cómo funciona, no opinar a favor o en contra."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "La próxima vez que veas una publicidad, hacete las cuatro preguntas: ¿quién habla?, ¿a quién?, ¿qué busca? y ¿con qué recursos?",
+  "conexion": "Con el texto argumentativo: muchos de estos discursos argumentan. Y con los textos técnicos, que son parte del discurso técnico de tu especialidad."
+ }
+}

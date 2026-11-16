@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" role="img" aria-label="Barra de tiempo de 1955 a 1966: golpes de Estado en 1955, 1962 y 1966; presidentes elegidos en 1958 (Frondizi) y 1963 (Illia); el peronismo estuvo proscripto todo el período" font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect x="0" y="0" width="1000" height="430" rx="28" fill="#F7F4FD"/>
+<text x="500" y="50" font-size="26" font-weight="800" fill="#1B1A4A" text-anchor="middle">Golpes y gobiernos elegidos, 1955-1966</text>
+<rect x="80" y="306" width="840" height="30" rx="10" fill="#E2DAF6"/>
+<text x="500" y="327" font-size="16" font-weight="700" fill="#5B2A86" text-anchor="middle">El peronismo, proscripto durante todo el período</text>
+<line x1="80" y1="200" x2="920" y2="200" stroke="#4A4870" stroke-width="4"/>
+<line x1="80.0" y1="194" x2="80.0" y2="206" stroke="#4A4870" stroke-width="2"/>
+<line x1="156.36363636363637" y1="194" x2="156.36363636363637" y2="206" stroke="#4A4870" stroke-width="2"/>
+<line x1="232.72727272727272" y1="194" x2="232.72727272727272" y2="206" stroke="#4A4870" stroke-width="2"/>
+<line x1="309.09090909090907" y1="194" x2="309.09090909090907" y2="206" stroke="#4A4870" stroke-width="2"/>
+<line x1="385.45454545454544" y1="194" x2="385.45454545454544" y2="206" stroke="#4A4870" stroke-width="2"/>
+<line x1="461.8181818181818" y1="194" x2="461.8181818181818" y2="206" stroke="#4A4870" stroke-width="2"/>
+<line x1="538.1818181818181" y1="194" x2="538.1818181818181" y2="206" stroke="#4A4870" stroke-width="2"/>
+<line x1="614.5454545454545" y1="194" x2="614.5454545454545" y2="206" stroke="#4A4870" stroke-width="2"/>
+<line x1="690.9090909090909" y1="194" x2="690.9090909090909" y2="206" stroke="#4A4870" stroke-width="2"/>
+<line x1="767.2727272727274" y1="194" x2="767.2727272727274" y2="206" stroke="#4A4870" stroke-width="2"/>
+<line x1="843.6363636363636" y1="194" x2="843.6363636363636" y2="206" stroke="#4A4870" stroke-width="2"/>
+<line x1="920.0" y1="194" x2="920.0" y2="206" stroke="#4A4870" stroke-width="2"/>
+<g class="a-ap" style="--d:0.0s">
+<circle cx="80.0" cy="200" r="14" fill="#E5194F"/>
+<text x="80.0" y="246" font-size="20" font-weight="800" fill="#E5194F" text-anchor="middle">1955</text>
+<text x="80.0" y="272" font-size="18" font-weight="800" fill="#E5194F" text-anchor="middle">Golpe</text>
+</g>
+<g class="a-ap" style="--d:0.6s">
+<circle cx="309.09090909090907" cy="200" r="14" fill="#1F9D6B"/>
+<text x="309.09090909090907" y="166" font-size="20" font-weight="800" fill="#1F9D6B" text-anchor="middle">1958</text>
+<text x="309.09090909090907" y="112" font-size="18" font-weight="800" fill="#1F9D6B" text-anchor="middle">Asume Frondizi</text>
+<text x="309.09090909090907" y="134" font-size="18" font-weight="800" fill="#1F9D6B" text-anchor="middle">(elegido)</text>
+</g>
+<g class="a-ap" style="--d:1.2s">
+<circle cx="614.5454545454545" cy="200" r="14" fill="#E5194F"/>
+<text x="614.5454545454545" y="246" font-size="20" font-weight="800" fill="#E5194F" text-anchor="middle">1962</text>
+<text x="614.5454545454545" y="272" font-size="18" font-weight="800" fill="#E5194F" text-anchor="middle">Golpe</text>
+</g>
+<g class="a-ap" style="--d:1.8s">
+<circle cx="690.9090909090909" cy="200" r="14" fill="#1F9D6B"/>
+<text x="690.9090909090909" y="166" font-size="20" font-weight="800" fill="#1F9D6B" text-anchor="middle">1963</text>
+<text x="690.9090909090909" y="112" font-size="18" font-weight="800" fill="#1F9D6B" text-anchor="middle">Asume Illia</text>
+<text x="690.9090909090909" y="134" font-size="18" font-weight="800" fill="#1F9D6B" text-anchor="middle">(elegido)</text>
+</g>
+<g class="a-ap" style="--d:2.4s">
+<circle cx="920.0" cy="200" r="14" fill="#E5194F"/>
+<text x="920.0" y="246" font-size="20" font-weight="800" fill="#E5194F" text-anchor="middle">1966</text>
+<text x="920.0" y="272" font-size="18" font-weight="800" fill="#E5194F" text-anchor="middle">Golpe</text>
+</g>
+<g transform="translate(80,380)"><circle cx="8" cy="0" r="8" fill="#E5194F"/><text x="24" y="6" font-size="17" font-weight="700" fill="#4A4870" text-anchor="start">Golpe de Estado</text><circle cx="228" cy="0" r="8" fill="#1F9D6B"/><text x="244" y="6" font-size="17" font-weight="700" fill="#4A4870" text-anchor="start">Asume un presidente elegido por el voto</text></g>
+</svg>

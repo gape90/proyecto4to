@@ -1,0 +1,591 @@
+{
+ "espacio": "biologia",
+ "titulo": "Mi trabajo práctico de Biología",
+ "intro": "Un buen trabajo práctico de Biología no se limita a nombrar estructuras: explica cómo funcionan, qué las relaciona entre sí y qué pasa cuando algo no anda bien. Eso es lo que vas a presentar y defender.",
+ "claves_contenido": {
+  "b1": [
+   "bioelemento",
+   "biomolecula",
+   "oligoelemento",
+   "glucido",
+   "lipido",
+   "proteina",
+   "aminoacido",
+   "enzima",
+   "acido nucleico",
+   "sistema abierto",
+   "medio interno",
+   "homeostasis",
+   "metabolismo",
+   "catabolismo",
+   "anabolismo",
+   "atp",
+   "glucolisis",
+   "respiracion celular",
+   "ribosoma"
+  ],
+  "b2": [
+   "nutricion",
+   "autotrofo",
+   "heterotrofo",
+   "fotosintesis",
+   "materia organica",
+   "nutriente",
+   "energetico",
+   "estructural",
+   "regulador",
+   "vitamina",
+   "alimentacion",
+   "digestivo",
+   "circulatorio",
+   "respiratorio",
+   "excretor"
+  ],
+  "b3": [
+   "tubo digestivo",
+   "glandulas anexas",
+   "digestion",
+   "absorcion",
+   "vellosidades",
+   "estomago",
+   "intestino delgado",
+   "higado",
+   "pancreas",
+   "traquea",
+   "bronquios",
+   "alveolos",
+   "intercambio gaseoso",
+   "diafragma",
+   "inspiracion",
+   "espiracion"
+  ],
+  "b4": [
+   "corazon",
+   "auriculas",
+   "ventriculos",
+   "arterias",
+   "venas",
+   "capilares",
+   "circulacion menor",
+   "circulacion mayor",
+   "sangre",
+   "globulos rojos",
+   "excrecion",
+   "urea",
+   "riñones",
+   "nefrona",
+   "orina",
+   "homeostasis"
+  ],
+  "b5": [
+   "hueso",
+   "colageno",
+   "calcio",
+   "articulacion",
+   "cartilago",
+   "ligamento",
+   "musculo",
+   "tendon",
+   "contraccion",
+   "actina",
+   "miosina",
+   "antagonistas",
+   "locomocion",
+   "endoesqueleto",
+   "exoesqueleto",
+   "homologas"
+  ],
+  "b6": [
+   "estimulo",
+   "receptor",
+   "efector",
+   "encefalo",
+   "medula",
+   "nervio",
+   "simpatico",
+   "parasimpatico",
+   "reflejo",
+   "neurona",
+   "axon",
+   "dendrita",
+   "mielina",
+   "sinapsis",
+   "neurotransmisor",
+   "dopamina",
+   "consumo problematico"
+  ],
+  "b7": [
+   "hormona",
+   "glandula",
+   "organo blanco",
+   "receptor",
+   "hipotalamo",
+   "hipofisis",
+   "tiroides",
+   "suprarrenales",
+   "adrenalina",
+   "insulina",
+   "glucagon",
+   "retroalimentacion",
+   "diabetes",
+   "bocio",
+   "yodo",
+   "metamorfosis"
+  ]
+ },
+ "portada": {
+  "instruccion": "Escribí la introducción de tu trabajo: presentá los temas de Biología que incluye, en qué orden los vas a presentar y por qué te parece importante conocerlos.",
+  "guia": [
+   "¿De qué temas trata tu trabajo y en qué orden los vas a presentar?",
+   "¿Qué tienen en común esos temas?",
+   "¿Por qué sirve conocerlos para entender cómo funciona tu propio cuerpo?"
+  ],
+  "claves": [],
+  "referencia": "Temas incluidos en orden, qué los une y por qué es importante conocerlos.",
+  "minPalabras": 25,
+  "modelo": "Este trabajo práctico trata sobre {temas}. Primero voy a presentar ……; después, ……; y por último, ……. Elegí este orden porque …….\n\nLo que une a estos temas es ……. Conocerlos es importante para entender cómo funciona el cuerpo porque ……."
+ },
+ "desarrollo": {
+  "b1": {
+   "instruccion": "Explicá de qué están hechos los seres vivos y cómo funcionan químicamente. Contá qué son los bioelementos y las biomoléculas, cómo mantiene estable su medio interno un organismo y qué es el metabolismo, con ejemplos.",
+   "guia": [
+    "¿Cuáles son los bioelementos principales y qué función cumple cada grupo de biomoléculas?",
+    "¿Por qué un organismo es un sistema abierto?",
+    "¿Qué es el medio interno y qué significa homeostasis? Contá un ejemplo.",
+    "¿En qué se diferencian el catabolismo y el anabolismo? Nombrá un proceso de cada tipo.",
+    "¿Para qué sirve el ATP y dónde ocurren la glucólisis, la respiración celular y la biosíntesis de proteínas?"
+   ],
+   "claves": [],
+   "referencia": "Bioelementos y biomoléculas (inorgánicas y orgánicas, con su función). Sistema abierto, medio interno y homeostasis con un ejemplo. Metabolismo: catabolismo y anabolismo, ATP, glucólisis (citoplasma), respiración celular (mitocondrias) y biosíntesis de proteínas (ribosomas).",
+   "minPalabras": 60,
+   "modelo": "Los seres vivos están hechos de bioelementos. Los principales son ……. Con ellos se arman las biomoléculas: las inorgánicas, que son ……, y las orgánicas, que son ……. Por ejemplo, los glúcidos sirven para …… y las proteínas, para …….\n\nUn organismo es un sistema abierto porque …… Su medio interno es ……. La homeostasis es …… Por ejemplo, cuando ……, el cuerpo ……\n\nEl metabolismo se divide en catabolismo, que ……, y anabolismo, que ……. Un ejemplo de catabolismo es …… y uno de anabolismo es ……. La energía se guarda en ……"
+  },
+  "b2": {
+   "instruccion": "Explicá qué es la nutrición y cómo varía entre los seres vivos. Contá cómo se clasifican los nutrientes según su función y en qué se diferencian la alimentación y la nutrición, con ejemplos.",
+   "guia": [
+    "¿Qué es la nutrición y en qué se diferencian los autótrofos de los heterótrofos?",
+    "¿Qué es la fotosíntesis y quiénes la hacen?",
+    "¿Qué grupos de nutrientes hay según su función? Nombrá un alimento de cada uno.",
+    "¿Por qué la alimentación es voluntaria y la nutrición no?",
+    "¿Qué sistemas participan en la nutrición humana y qué hace cada uno?"
+   ],
+   "claves": [],
+   "referencia": "Nutrición: autótrofos (fotosíntesis) y heterótrofos (animales y hongos). Nutrientes energéticos (glúcidos y lípidos), estructurales (proteínas) y reguladores (vitaminas y minerales); el agua. Alimentación voluntaria y nutrición involuntaria, con los sistemas digestivo, circulatorio, respiratorio y excretor.",
+   "minPalabras": 60,
+   "modelo": "La nutrición es ……. Los seres vivos autótrofos, como ……, fabrican su materia orgánica por ……; los heterótrofos, como ……, la toman de …….\n\nLos nutrientes se clasifican según su función. Los energéticos son …… y sirven para ……. Los estructurales son …… y sirven para ……. Los reguladores son …… y sirven para …….\n\nLa alimentación es …… porque ……. La nutrición, en cambio, empieza cuando …… y en ella participan ……."
+  },
+  "b3": {
+   "instruccion": "Explicá cómo están formados y cómo funcionan los sistemas digestivo y respiratorio. Contá qué pasa en la digestión, en la absorción y en el intercambio gaseoso, y nombrá un ejemplo de funcionamiento patológico de cada sistema.",
+   "guia": [
+    "¿Qué órganos forman el tubo digestivo y qué glándulas anexas hay?",
+    "¿Qué pasa en la digestión y dónde se absorben los nutrientes?",
+    "¿Por dónde pasa el aire hasta los alvéolos?",
+    "¿Qué ocurre en el intercambio gaseoso y cómo se producen la inspiración y la espiración?",
+    "¿Qué afección de cada sistema elegís y qué órgano altera?"
+   ],
+   "claves": [],
+   "referencia": "Tubo digestivo y glándulas anexas; digestión mecánica y química; absorción en el intestino delgado (vellosidades). Vías respiratorias hasta los alvéolos; intercambio gaseoso; ventilación con el diafragma. Una afección de cada sistema con el órgano que altera y su prevención.",
+   "minPalabras": 60,
+   "modelo": "El sistema digestivo está formado por el tubo digestivo, que ……, y las glándulas anexas, que son ……. En la digestión ……, y en el intestino delgado ocurre la absorción, que …….\n\nEn el sistema respiratorio, el aire pasa por …… hasta llegar a los alvéolos. Ahí …… La inspiración se produce cuando …… y la espiración, cuando …….\n\nUn ejemplo de funcionamiento patológico del sistema digestivo es ……, que afecta ……. Uno del sistema respiratorio es ……, que afecta ……."
+  },
+  "b4": {
+   "instruccion": "Explicá cómo funcionan los sistemas circulatorio y excretor. Contá el recorrido de la sangre en la circulación menor y en la mayor, cómo se forma la orina y cómo trabajan juntos los cuatro sistemas de la nutrición.",
+   "guia": [
+    "¿Cómo es el corazón por dentro y qué tipos de vasos hay?",
+    "¿Qué recorrido hace la sangre en la circulación menor y en la mayor?",
+    "¿Qué es la excreción y por dónde salen los desechos?",
+    "¿Qué pasa en las nefronas?",
+    "¿Cómo se relacionan los cuatro sistemas de la nutrición con la homeostasis?"
+   ],
+   "claves": [],
+   "referencia": "Corazón (aurículas, ventrículos, válvulas); arterias, venas y capilares; circulación menor y mayor (cerrada, doble y completa). Excreción: pulmones, piel y riñones; nefronas (filtrado y reabsorción); recorrido de la orina. Integración de los cuatro sistemas y homeostasis; una afección.",
+   "minPalabras": 60,
+   "modelo": "El sistema circulatorio está formado por ……. En la circulación menor, la sangre ……, y en la mayor …….\n\nLa excreción …… . En los riñones, las nefronas …… y así se forma la orina, que …….\n\nLos cuatro sistemas de la nutrición trabajan juntos porque ……"
+  },
+  "b5": {
+   "instruccion": "Explicá cómo están formados los huesos, las articulaciones y los músculos, y cómo trabajan juntos para producir el movimiento. Compará el esqueleto humano con el de otros animales.",
+   "guia": [
+    "¿De qué está hecho un hueso y cómo se clasifican los huesos?",
+    "¿Qué tipos de articulaciones hay?",
+    "¿Cómo se contrae un músculo y por qué trabajan en pares?",
+    "¿Qué es la locomoción?",
+    "¿Qué son las estructuras homólogas y qué indican?"
+   ],
+   "claves": [],
+   "referencia": "Hueso: colágeno y sales de calcio y fósforo; compacto y esponjoso; largos, cortos y planos. Articulaciones inmóviles, semimóviles y móviles. Contracción con actina y miosina; tendones; antagonistas. Endo, exo e hidrostático; homólogas y análogas.",
+   "minPalabras": 60,
+   "modelo": "Los huesos están formados por …… . Se unen en las articulaciones, que pueden ser …….\n\nUn músculo se contrae cuando …… . Los músculos trabajan en pares porque …….\n\nSi comparamos con otros animales, ……"
+  },
+  "b6": {
+   "instruccion": "Explicá cómo está organizado el sistema nervioso, cómo viajan los mensajes por las neuronas y qué relación tiene el sistema de recompensa con los consumos problemáticos.",
+   "guia": [
+    "¿Qué forma el sistema nervioso central y el periférico?",
+    "¿Qué pasa en un arco reflejo?",
+    "¿Qué partes tiene una neurona?",
+    "¿Cómo pasa un mensaje en la sinapsis?",
+    "¿Qué es un consumo problemático y dónde se puede pedir ayuda?"
+   ],
+   "claves": [],
+   "referencia": "SNC: encéfalo y médula; SNP: nervios y ganglios; autónomo simpático y parasimpático. Arco reflejo. Neurona: dendritas, cuerpo, axón, mielina. Sinapsis con neurotransmisores. Sistema de recompensa y dopamina; tolerancia, abstinencia, dependencia; Línea 141.",
+   "minPalabras": 60,
+   "modelo": "El sistema nervioso central está formado por …… y el periférico, por …….\n\nEn un acto reflejo, el mensaje ……\n\nEn la sinapsis, ……\n\nUn consumo problemático es ……"
+  },
+  "b7": {
+   "instruccion": "Explicá cómo actúan las hormonas, cómo se regula la glucosa de la sangre y cómo se coordinan el sistema nervioso y el endocrino.",
+   "guia": [
+    "¿Qué es una hormona y qué es un órgano blanco?",
+    "¿Qué glándulas endocrinas conocés y qué fabrican?",
+    "¿Cómo regulan la glucosa la insulina y el glucagón?",
+    "¿Qué es la retroalimentación negativa?",
+    "¿Por qué el hipotálamo une los dos sistemas?"
+   ],
+   "claves": [],
+   "referencia": "Glándulas endocrinas, hormonas, órganos blanco. Hipófisis, tiroides, suprarrenales, páncreas, gónadas. Insulina y glucagón; retroalimentación negativa; diabetes 1 y 2; bocio y Ley 17.259. Hipotálamo, hipófisis, tiroides; metamorfosis.",
+   "minPalabras": 60,
+   "modelo": "Las hormonas son …… que viajan por …… hasta …….\n\nCuando la glucosa sube, ……\n\nEl hipotálamo une los dos sistemas porque ……"
+  }
+ },
+ "integracion": {
+  "intro": "Integrar es mostrar que los temas se conectan: unos explican a otros, se parecen o se complementan. Las preguntas de abajo relacionan **solo los contenidos que elegiste**.",
+  "intro_uno": "Elegiste un solo contenido. Integrar, en este caso, es mostrar cómo se conectan sus partes: qué explica qué.",
+  "pares": {
+   "b1|b2": "¿Qué relación hay entre las biomoléculas de la clase 1 y los nutrientes de la clase 2? ¿Para qué usan las células la glucosa que llega con los alimentos?",
+   "b1|b3": "¿Qué relación hay entre lo que hacen el sistema digestivo y el respiratorio y la respiración celular que viste en la clase 1?",
+   "b2|b3": "¿Qué pasos de la nutrición que viste en la clase 2 ocurren en el sistema digestivo y cuáles en el respiratorio?",
+   "b1|b4": "¿Qué relación hay entre la respiración celular de la clase 1 y el dióxido de carbono que transporta la sangre?",
+   "b2|b4": "¿Qué pasos de la nutrición de la clase 2 hacen el sistema circulatorio y el excretor?",
+   "b3|b4": "¿Cómo llegan a una célula los nutrientes que se absorben en el intestino y el oxígeno que entra en los alvéolos?",
+   "b1|b5": "¿Qué relación hay entre el ATP de la clase 1 y la contracción de los músculos?",
+   "b2|b5": "¿Qué nutrientes de la clase 2 necesitan los huesos y los músculos?",
+   "b3|b5": "¿Qué hace el músculo liso en el sistema digestivo, y qué hace el diafragma en la respiración?",
+   "b4|b5": "¿Qué tienen que ver los huesos con la fabricación de las células de la sangre?",
+   "b1|b6": "¿Qué relación hay entre la homeostasis de la clase 1 y el sistema nervioso autónomo?",
+   "b4|b6": "¿Qué hace el sistema simpático con el corazón y la respiración durante un esfuerzo?",
+   "b5|b6": "¿Qué neuronas y qué neurotransmisor intervienen para que el bíceps se contraiga?",
+   "b3|b6": "¿Qué parte del sistema autónomo favorece la digestión?",
+   "b1|b7": "¿Qué relación hay entre la homeostasis de la clase 1 y la regulación de la glucosa?",
+   "b2|b7": "¿Qué nutrientes de la clase 2 elevan la glucosa de la sangre, y qué mineral necesita la tiroides?",
+   "b3|b7": "¿Qué dos cosas fabrica el páncreas y adónde va cada una?",
+   "b6|b7": "¿Cómo trabajan juntos el sistema nervioso y el endocrino en un susto?",
+   "b4|b7": "¿Por qué las hormonas necesitan del sistema circulatorio?",
+   "b5|b7": "¿Por qué los músculos que hacen ejercicio hacen bajar la glucosa de la sangre?"
+  },
+  "individual": {
+   "b1": [
+    "¿Qué relación hay entre las biomoléculas que forman una célula y las reacciones del metabolismo?",
+    "¿Por qué mantener la homeostasis exige que las células obtengan energía?",
+    "¿Cómo se complementan el catabolismo y el anabolismo?"
+   ],
+   "b2": [
+    "¿Por qué los heterótrofos dependen de los autótrofos para conseguir materia orgánica?",
+    "¿Qué relación hay entre lo que una persona elige comer y los nutrientes que reciben sus células?",
+    "¿Cómo trabajan juntos los cuatro sistemas de la nutrición?"
+   ],
+   "b3": [
+    "¿Por qué el sistema digestivo y el respiratorio son necesarios para la respiración celular?",
+    "¿Qué tienen en común las vellosidades del intestino y los alvéolos de los pulmones?",
+    "¿Cómo una afección de uno de estos sistemas puede alterar la homeostasis?"
+   ],
+   "b4": [
+    "¿Por qué se dice que el sistema circulatorio une a los otros sistemas de la nutrición?",
+    "¿Qué tienen en común los capilares de los alvéolos y los de cualquier otro órgano?",
+    "¿Cómo ayudan los riñones a mantener la homeostasis?"
+   ],
+   "b5": [
+    "¿Qué relación hay entre la médula ósea y la sangre de la clase 4?",
+    "¿Por qué un músculo que trabaja mucho necesita más oxígeno y glucosa?",
+    "¿Qué prueba aportan las estructuras homólogas sobre el parentesco entre animales?"
+   ],
+   "b6": [
+    "¿Qué diferencia hay entre una respuesta voluntaria y un acto reflejo?",
+    "¿Por qué la mielina hace que sientas un pisotón casi al instante?",
+    "¿Por qué decimos que un consumo problemático es un problema de salud?"
+   ],
+   "b7": [
+    "¿Por qué un susto dura un rato aunque el peligro ya pasó?",
+    "¿Qué pasa en el cuerpo de una persona con diabetes tipo 1 después de comer?",
+    "¿Qué tienen en común un termostato y la regulación de la glucosa?"
+   ]
+  },
+  "generales": [
+   "¿Qué estructuras o procesos de tus temas trabajan juntos para mantener estable el medio interno?",
+   "¿Qué ejemplo de un tema ayuda a entender un proceso de otro?"
+  ],
+  "referencia": "Texto que relaciona los contenidos elegidos con ejemplos de causas, relaciones y complementos.",
+  "minPalabras": 60,
+  "modelo": "Los temas de mi trabajo se relacionan entre sí. Por ejemplo, …… y …… se conectan porque …….\n\nAdemás, …… explica por qué ……, y …… se complementa con …… porque …….",
+  "modelo_uno": "Las partes de este tema se relacionan entre sí. Primero ……, y eso lleva a ……. Por eso, …….\n\nAdemás, …… se conecta con …… porque ……."
+ },
+ "realidad": {
+  "intro": "Relacionar con la realidad es mostrar dónde aparece lo que estudiaste en tu vida diaria. Para cada contenido que elegiste tenés una pregunta y algunas ideas: elegí un ejemplo concreto de tu cuerpo, tu casa o tu escuela.",
+  "por_contenido": {
+   "b1": {
+    "pregunta": "¿Dónde ves, en tu vida diaria, el trabajo de las biomoléculas, la homeostasis o el metabolismo?",
+    "ideas": [
+     "La sal yodada y la harina enriquecida con hierro: figuran en los envases.",
+     "La sed y la transpiración cuando hacés deporte en la escuela.",
+     "La energía que necesitás entre el desayuno y el recreo."
+    ]
+   },
+   "b2": {
+    "pregunta": "¿Dónde ves, en tu vida diaria, la diferencia entre alimentación y nutrición o el trabajo de los nutrientes?",
+    "ideas": [
+     "Los octógonos de los envases que ves en el kiosco o en el supermercado.",
+     "La gráfica de la alimentación diaria del Ministerio de Salud de la Nación.",
+     "Las plantas de tu casa o de la escuela, que fabrican su materia orgánica con la luz."
+    ]
+   },
+   "b3": {
+    "pregunta": "¿Dónde ves, en tu vida diaria, el trabajo del sistema digestivo o del respiratorio, o la prevención de sus afecciones?",
+    "ideas": [
+     "El sello \"Sin TACC\" en los envases de alimentos aptos para personas celíacas.",
+     "Los carteles de ambientes libres de humo en la escuela y en los lugares cerrados.",
+     "La respiración agitada y los ruidos de la panza antes del recreo."
+    ]
+   },
+   "b4": {
+    "pregunta": "¿Dónde ves, en tu vida diaria, el trabajo del sistema circulatorio o del excretor, o el cuidado de su salud?",
+    "ideas": [
+     "El pulso que se siente en la muñeca o en el cuello, y cómo se acelera al correr.",
+     "La orina más clara o más oscura según cuánta agua tomaste.",
+     "Los controles de presión arterial en un centro de salud."
+    ]
+   },
+   "b5": {
+    "pregunta": "¿Dónde ves, en tu vida diaria, el trabajo de huesos, articulaciones y músculos, o el cuidado de este sistema?",
+    "ideas": [
+     "El esfuerzo de los brazos al cargar la mochila, y por qué conviene llevarla con las dos tiras.",
+     "La rodilla que se dobla al subir una escalera.",
+     "Las cucarachas o los cangrejos que dejan su \"cáscara\" vieja al mudar."
+    ]
+   },
+   "b6": {
+    "pregunta": "¿Dónde ves, en tu vida diaria, el trabajo del sistema nervioso o situaciones vinculadas con los consumos problemáticos?",
+    "ideas": [
+     "Un reflejo, como cerrar los ojos cuando algo se acerca de golpe.",
+     "El corazón acelerado antes de una prueba o un partido.",
+     "Las campañas sobre apuestas en línea o la Línea 141."
+    ]
+   },
+   "b7": {
+    "pregunta": "¿Dónde ves, en tu vida diaria, el trabajo de las hormonas o el cuidado del equilibrio del cuerpo?",
+    "ideas": [
+     "El paquete de sal que dice \"sal enriquecida con yodo\".",
+     "Los nervios antes de una prueba que duran un rato.",
+     "Los cambios del cuerpo en la adolescencia."
+    ]
+   }
+  }
+ },
+ "conclusion": {
+  "instruccion": "Escribí la conclusión de tu trabajo: contá qué aprendiste, qué idea une a los temas que estudiaste y por qué es importante conocerlos.",
+  "guia": [
+   "¿Qué es lo más importante que aprendiste?",
+   "¿Qué idea une a todos tus temas?",
+   "¿Por qué sirve conocer cómo funciona el cuerpo?",
+   "¿Qué te gustaría que recuerde quien escucha tu trabajo?"
+  ],
+  "claves": [],
+  "referencia": "Aprendizajes, idea que une los temas e importancia para la vida diaria.",
+  "minPalabras": 35,
+  "modelo": "Con este trabajo aprendí que ……. La idea que une todos los temas es ……, porque …….\n\nConocer cómo funciona el cuerpo sirve para …… Lo que más me gustaría que recuerden de mi trabajo es ……."
+ },
+ "preguntas": [
+  {
+   "id": "q-b1-1",
+   "contenido": "b1",
+   "nivel": "Básica",
+   "pregunta": "¿Qué son los bioelementos y las biomoléculas? Nombrá dos ejemplos de cada uno.",
+   "orientacion": "Los bioelementos son los elementos químicos de los seres vivos; los principales son carbono, hidrógeno, oxígeno, nitrógeno, fósforo y azufre. Con ellos se arman las biomoléculas: inorgánicas (agua y sales minerales) y orgánicas (glúcidos, lípidos, proteínas y ácidos nucleicos)."
+  },
+  {
+   "id": "q-b1-2",
+   "contenido": "b1",
+   "nivel": "Media",
+   "pregunta": "¿Qué es la homeostasis? Explicala con un ejemplo.",
+   "orientacion": "Es la capacidad de mantener estable el medio interno. Cambia algo, el organismo lo detecta, responde y vuelve al equilibrio. Por ejemplo, al correr sube la temperatura, se transpira y el sudor enfría el cuerpo."
+  },
+  {
+   "id": "q-b1-3",
+   "contenido": "b1",
+   "nivel": "Media",
+   "pregunta": "¿En qué se diferencian el catabolismo y el anabolismo? Nombrá un proceso de cada tipo.",
+   "orientacion": "El catabolismo descompone moléculas grandes y libera energía (glucólisis, respiración celular). El anabolismo arma moléculas grandes y gasta energía (biosíntesis de proteínas)."
+  },
+  {
+   "id": "q-b1-4",
+   "contenido": "b1",
+   "nivel": "Integradora",
+   "pregunta": "¿Qué relación hay entre el ATP, el catabolismo y la homeostasis?",
+   "orientacion": "El catabolismo libera energía y se guarda en ATP. Esa energía permite que las células respondan a los cambios y mantengan estable el medio interno."
+  },
+  {
+   "id": "q-b2-1",
+   "contenido": "b2",
+   "nivel": "Básica",
+   "pregunta": "¿Qué diferencia hay entre un organismo autótrofo y uno heterótrofo? Nombrá un ejemplo de cada uno.",
+   "orientacion": "Los autótrofos fabrican su propia materia orgánica, como las plantas por fotosíntesis. Los heterótrofos la toman de otros seres vivos, como los animales y los hongos."
+  },
+  {
+   "id": "q-b2-2",
+   "contenido": "b2",
+   "nivel": "Media",
+   "pregunta": "¿Cómo se clasifican los nutrientes según su función?",
+   "orientacion": "Energéticos (glúcidos y lípidos), que dan energía; estructurales (proteínas), que forman y reparan los tejidos; y reguladores (vitaminas y minerales), que regulan el funcionamiento del cuerpo. El agua no da energía, pero es indispensable."
+  },
+  {
+   "id": "q-b2-3",
+   "contenido": "b2",
+   "nivel": "Media",
+   "pregunta": "¿Por qué alimentación y nutrición no son lo mismo?",
+   "orientacion": "La alimentación es voluntaria: elegir, preparar y comer. La nutrición empieza cuando el alimento entra a la boca, y casi todo ocurre sin que lo decidas: digestión, transporte, uso en las células y eliminación de desechos."
+  },
+  {
+   "id": "q-b2-4",
+   "contenido": "b2",
+   "nivel": "Integradora",
+   "pregunta": "Seguí el recorrido de la glucosa de un pan desde que lo comés hasta que se usa en una célula. ¿Qué sistemas participan?",
+   "orientacion": "El digestivo parte el almidón en glucosa, el circulatorio la lleva por la sangre, y en la célula se descompone con el oxígeno que aporta el respiratorio (respiración celular). El excretor elimina los desechos."
+  },
+  {
+   "id": "q-b3-1",
+   "contenido": "b3",
+   "nivel": "Básica",
+   "pregunta": "¿Qué órganos forman el tubo digestivo y cuáles son las glándulas anexas?",
+   "orientacion": "Tubo: boca, faringe, esófago, estómago, intestino delgado, intestino grueso y ano. Glándulas anexas: salivales, hígado y páncreas."
+  },
+  {
+   "id": "q-b3-2",
+   "contenido": "b3",
+   "nivel": "Media",
+   "pregunta": "¿Qué es el intercambio gaseoso y dónde ocurre?",
+   "orientacion": "En los alvéolos, rodeados de capilares: el oxígeno pasa a la sangre y el dióxido de carbono sale de la sangre al aire."
+  },
+  {
+   "id": "q-b3-3",
+   "contenido": "b3",
+   "nivel": "Media",
+   "pregunta": "¿Cómo se producen la inspiración y la espiración?",
+   "orientacion": "En la inspiración el diafragma se contrae y baja, el tórax se agranda y entra aire. En la espiración se relaja y sube, el tórax se achica y sale aire."
+  },
+  {
+   "id": "q-b3-4",
+   "contenido": "b3",
+   "nivel": "Integradora",
+   "pregunta": "¿Por qué una persona celíaca sin tratamiento puede tener falta de nutrientes aunque coma bien?",
+   "orientacion": "El gluten provoca una reacción de las defensas que daña las vellosidades del intestino delgado; falla la absorción y los nutrientes no pasan a la sangre."
+  },
+  {
+   "id": "q-b4-1",
+   "contenido": "b4",
+   "nivel": "Básica",
+   "pregunta": "¿Qué diferencia hay entre una arteria y una vena?",
+   "orientacion": "La arteria saca la sangre del corazón hacia los órganos y tiene paredes gruesas y elásticas. La vena devuelve la sangre al corazón y tiene paredes más finas; algunas tienen válvulas."
+  },
+  {
+   "id": "q-b4-2",
+   "contenido": "b4",
+   "nivel": "Media",
+   "pregunta": "¿Qué recorrido hace la sangre en la circulación menor?",
+   "orientacion": "Sale del ventrículo derecho por la arteria pulmonar, carga oxígeno y deja dióxido de carbono en los capilares de los alvéolos, y vuelve por las venas pulmonares a la aurícula izquierda."
+  },
+  {
+   "id": "q-b4-3",
+   "contenido": "b4",
+   "nivel": "Media",
+   "pregunta": "¿Cómo se forma la orina?",
+   "orientacion": "En las nefronas: primero el filtrado (pasan agua, sales, glucosa y urea) y después la reabsorción (vuelven a la sangre la glucosa y gran parte del agua). Lo que queda es la orina."
+  },
+  {
+   "id": "q-b4-4",
+   "contenido": "b4",
+   "nivel": "Integradora",
+   "pregunta": "¿Por qué al correr respirás más rápido, el corazón late más fuerte y te da sed?",
+   "orientacion": "Los músculos usan más oxígeno y glucosa y producen más dióxido de carbono y calor; respirar y latir más rápido lleva más oxígeno y saca el dióxido de carbono; transpirar baja la temperatura pero se pierde agua, y los riñones la ahorran."
+  },
+  {
+   "id": "q-b5-1",
+   "contenido": "b5",
+   "nivel": "Básica",
+   "pregunta": "¿Qué tipos de huesos hay según su forma? Dá un ejemplo de cada uno.",
+   "orientacion": "Largos (fémur, húmero), cortos (los de la muñeca) y planos (cráneo, costillas, omóplato)."
+  },
+  {
+   "id": "q-b5-2",
+   "contenido": "b5",
+   "nivel": "Media",
+   "pregunta": "¿Por qué los músculos trabajan en pares antagonistas?",
+   "orientacion": "Porque al contraerse solo pueden tirar. Para doblar el codo se contrae el bíceps y se relaja el tríceps; para estirarlo, al revés."
+  },
+  {
+   "id": "q-b5-3",
+   "contenido": "b5",
+   "nivel": "Media",
+   "pregunta": "¿Qué partes tiene una articulación móvil y qué hace cada una?",
+   "orientacion": "Cartílago (cubre los extremos), líquido sinovial (lubrica), una envoltura (cierra la articulación) y ligamentos (unen los huesos)."
+  },
+  {
+   "id": "q-b5-4",
+   "contenido": "b5",
+   "nivel": "Integradora",
+   "pregunta": "¿Qué tienen en común el brazo humano y el ala de un ave, y qué indica eso?",
+   "orientacion": "Tienen los mismos huesos (húmero, radio, cúbito y mano) con distinta forma: son estructuras homólogas, prueba de un antepasado común."
+  },
+  {
+   "id": "q-b6-1",
+   "contenido": "b6",
+   "nivel": "Básica",
+   "pregunta": "¿Qué estructuras forman el sistema nervioso central y cuáles el periférico?",
+   "orientacion": "Central: encéfalo (cerebro, cerebelo, tronco encefálico) y médula espinal. Periférico: nervios y ganglios."
+  },
+  {
+   "id": "q-b6-2",
+   "contenido": "b6",
+   "nivel": "Media",
+   "pregunta": "¿Qué recorrido hace el mensaje en un arco reflejo?",
+   "orientacion": "Receptor, neurona sensitiva, médula (neurona de asociación), neurona motora y músculo."
+  },
+  {
+   "id": "q-b6-3",
+   "contenido": "b6",
+   "nivel": "Media",
+   "pregunta": "¿Cómo pasa un mensaje de una neurona a otra?",
+   "orientacion": "En la sinapsis: llega el impulso, se liberan neurotransmisores, se unen a los receptores y nace un nuevo impulso."
+  },
+  {
+   "id": "q-b6-4",
+   "contenido": "b6",
+   "nivel": "Integradora",
+   "pregunta": "¿Qué relación hay entre el sistema de recompensa y los consumos problemáticos?",
+   "orientacion": "Algunas sustancias y conductas activan con fuerza el sistema de recompensa (dopamina); con el tiempo aparecen tolerancia, abstinencia y dependencia."
+  },
+  {
+   "id": "q-b7-1",
+   "contenido": "b7",
+   "nivel": "Básica",
+   "pregunta": "¿Qué es una hormona y cómo llega a su órgano blanco?",
+   "orientacion": "Una sustancia que fabrica una glándula endocrina; viaja por la sangre y actúa en las células con su receptor."
+  },
+  {
+   "id": "q-b7-2",
+   "contenido": "b7",
+   "nivel": "Media",
+   "pregunta": "¿Cómo regula el páncreas la glucosa de la sangre?",
+   "orientacion": "Si sube, libera insulina (las células la toman y el hígado la guarda); si baja, libera glucagón (el hígado suelta glucosa). Es retroalimentación negativa."
+  },
+  {
+   "id": "q-b7-3",
+   "contenido": "b7",
+   "nivel": "Media",
+   "pregunta": "¿Qué diferencias hay entre el sistema nervioso y el endocrino?",
+   "orientacion": "Mensajero, vía, velocidad, duración y alcance: impulsos por neuronas, rápido y breve, frente a hormonas por la sangre, más lento y duradero."
+  },
+  {
+   "id": "q-b7-4",
+   "contenido": "b7",
+   "nivel": "Integradora",
+   "pregunta": "¿Cómo se coordinan el sistema nervioso y el endocrino en la metamorfosis de la rana?",
+   "orientacion": "El hipotálamo (encéfalo) ordena a la hipófisis, que estimula la tiroides; las hormonas tiroideas desencadenan los cambios."
+  }
+ ]
+}

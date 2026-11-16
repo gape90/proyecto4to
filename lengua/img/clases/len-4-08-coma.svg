@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" role="img" aria-label="Cuatro carteles en dos pares. Cada par tiene la misma frase con coma y sin coma, y debajo qué significa cada una." font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect width="1000" height="520" fill="#fff"/>
+<rect x="20" y="20" width="470" height="230" rx="22" fill="#EFEAFB" stroke="#E2DAF6" stroke-width="3"/>
+<rect x="50" y="50" width="410" height="80" rx="40" fill="#fff" stroke="#1B1A4A" stroke-width="3"/><text x="255" y="102" font-size="28" font-weight="800" fill="#1B1A4A" text-anchor="middle" >&quot;Vamos a comer, chicos&quot;</text>
+<text x="255" y="190" font-size="24" font-weight="700" fill="#4A4870" text-anchor="middle" >Invita a los chicos a comer</text>
+<rect x="510" y="20" width="470" height="230" rx="22" fill="#FFF4EC" stroke="#F7D9C4" stroke-width="3"/>
+<rect x="540" y="50" width="410" height="80" rx="40" fill="#fff" stroke="#1B1A4A" stroke-width="3"/><text x="745" y="102" font-size="28" font-weight="800" fill="#1B1A4A" text-anchor="middle" >&quot;Vamos a comer chicos&quot;</text>
+<text x="745" y="190" font-size="24" font-weight="700" fill="#4A4870" text-anchor="middle" >¡Se van a comer a los chicos!</text>
+<rect x="20" y="270" width="470" height="230" rx="22" fill="#EFEAFB" stroke="#E2DAF6" stroke-width="3"/>
+<rect x="50" y="300" width="410" height="80" rx="40" fill="#fff" stroke="#1B1A4A" stroke-width="3"/><text x="255" y="352" font-size="28" font-weight="800" fill="#1B1A4A" text-anchor="middle" >&quot;No, quiero ir&quot;</text>
+<text x="255" y="440" font-size="24" font-weight="700" fill="#4A4870" text-anchor="middle" >Sí quiere ir</text>
+<rect x="510" y="270" width="470" height="230" rx="22" fill="#FFF4EC" stroke="#F7D9C4" stroke-width="3"/>
+<rect x="540" y="300" width="410" height="80" rx="40" fill="#fff" stroke="#1B1A4A" stroke-width="3"/><text x="745" y="352" font-size="28" font-weight="800" fill="#1B1A4A" text-anchor="middle" >&quot;No quiero ir&quot;</text>
+<text x="745" y="440" font-size="24" font-weight="700" fill="#4A4870" text-anchor="middle" >No quiere ir</text>
+</svg>

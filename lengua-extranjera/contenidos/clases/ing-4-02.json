@@ -1,0 +1,1393 @@
+{
+  "id": "ing-4-02",
+  "espacio": "lengua-extranjera",
+  "idioma": "en",
+  "eje": "¿Cómo organizamos nuestro tiempo? Entretenimiento y estudio de los adolescentes en distintas culturas",
+  "titulo": "Tiempo libre: gustos, preferencias y planes",
+  "intro": "En esta clase vas a aprender a contar en inglés qué te gusta hacer, qué estás haciendo estos días y qué planes tenés. Vas a conocer el tiempo libre de {{nombre}} y, al final, lo vas a contar en inglés.",
+  "objetivos": [
+    "Expresar gustos y preferencias con like, love, enjoy, don't mind y hate + -ing.",
+    "Usar el presente continuo para lo que pasa ahora y para planes arreglados.",
+    "Invitar, aceptar y rechazar con amabilidad en un chat, y contar en inglés el tiempo libre de {{nombre}}."
+  ],
+  "tp_aporte": "Para tu trabajo práctico ya tenés la escala de gustos, las reglas del presente continuo y un nuevo párrafo de la historia de {{nombre}}: su tiempo libre y sus planes.",
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "Lo que me gusta: like, love, enjoy y hate + -ing",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Hablar de gustos",
+          "texto": "Para decir qué te gusta hacer en tu tiempo libre se usa un verbo de gusto y, después, otro verbo terminado en **-ing**:\n\n[[I love playing the guitar.]] (Me encanta tocar la guitarra.)\n[[She likes reading comics.]] (Le gusta leer historietas.)\n[[We don't like getting up early.]] (No nos gusta levantarnos temprano.)\n\nEn castellano decimos \"me gusta tocar\"; en inglés se dice \"I like playing\", con -ing."
+        },
+        {
+          "t": "imagen",
+          "src": "img/clases/ing-4-02-gustos.svg",
+          "src_movil": "img/clases/ing-4-02-gustos-movil.svg",
+          "tipo": "grafico",
+          "animacion": "svg",
+          "alt": "Escala de gustos con cinco caras, de la más contenta a la más disgustada: love, me encanta; like, me gusta; don't mind, me da igual; don't like, no me gusta; hate, odio.",
+          "epigrafe": "Esquema elaborado para esta clase: de lo que más te gusta a lo que menos."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar: cómo se escribe -ing",
+          "texto": "• Regla general: se agrega **-ing**: [[play]] → [[playing]], [[read]] → [[reading]].\n• Si termina en **e**, la e se va: [[dance]] → [[dancing]], [[ride]] → [[riding]].\n• Si es corto y termina en **consonante + vocal + consonante**, se duplica la última letra: [[swim]] → [[swimming]], [[run]] → [[running]].\nRecordá la -s de he, she e it en el verbo de gusto: [[she likes]], [[he loves]], [[she doesn't like]]."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cómo se forma el -ing de cada verbo?",
+          "categorias": [
+            "Agrega -ing",
+            "Saca la e",
+            "Duplica la última letra"
+          ],
+          "items": [
+            {
+              "texto": "play → playing",
+              "cat": "Agrega -ing"
+            },
+            {
+              "texto": "watch → watching",
+              "cat": "Agrega -ing"
+            },
+            {
+              "texto": "dance → dancing",
+              "cat": "Saca la e"
+            },
+            {
+              "texto": "write → writing",
+              "cat": "Saca la e"
+            },
+            {
+              "texto": "swim → swimming",
+              "cat": "Duplica la última letra"
+            },
+            {
+              "texto": "run → running",
+              "cat": "Duplica la última letra"
+            }
+          ],
+          "explicacion": "Regla general: -ing. Terminado en e: se saca la e. Corto, con consonante + vocal + consonante: se duplica la última letra."
+        },
+        {
+          "t": "pronunciar",
+          "modo": "escuchar",
+          "texto": "I love playing the guitar.",
+          "traduccion": "(Me encanta tocar la guitarra.)",
+          "explicacion": "En playing, la terminación -ing se dice con la g muy suave, casi sin pronunciarla."
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá lo que te cuento de mi tiempo libre.",
+          "habla": true,
+          "explicacion": "Después de love, like, don't mind y hate, el verbo va con -ing.",
+          "pista": "Fijate en la palabra que está antes de cada espacio: después de love, like, don't mind y hate va el verbo con -ing. Repasá el recuadro \"Para recordar: cómo se escribe -ing\".",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "I love [[acting]] in plays. I like [[dancing]] with my friends. I don't mind [[walking]] to school, but I hate [[tidying]] my room.",
+              "distractores": [
+                "act",
+                "dance",
+                "walk",
+                "tidy"
+              ]
+            },
+            "ben": {
+              "texto": "I love [[playing]] basketball. I like [[running]] in the park. I don't mind [[doing]] homework, but I hate [[getting]] up early.",
+              "distractores": [
+                "play",
+                "run",
+                "do",
+                "get"
+              ]
+            },
+            "mia": {
+              "texto": "I love [[swimming]] on Saturdays. I like [[reading]] on the train. I don't mind [[cooking]], but I hate [[waiting]] for the train.",
+              "distractores": [
+                "swim",
+                "read",
+                "cook",
+                "wait"
+              ]
+            },
+            "liam": {
+              "texto": "I love [[cooking]] for my family. I like [[making]] music. I don't mind [[washing]] the dishes, but I hate [[running]].",
+              "distractores": [
+                "cook",
+                "make",
+                "wash",
+                "run"
+              ]
+            }
+          }
+        },
+        {
+          "t": "verificar",
+          "consigna": "Escribí la forma con -ing de swim (nadar).",
+          "respuesta": "swimming",
+          "acepta": [
+            "swimming"
+          ],
+          "formato": "Escribí solo la palabra en inglés.",
+          "explicacion": "Swim es corto y termina en consonante + vocal + consonante: se duplica la m. Queda swimming.",
+          "pista1": "Fijate en las tres últimas letras: w, i, m.",
+          "pista": "Buscá en el recuadro la regla de los verbos cortos como run."
+        },
+        {
+          "t": "dictado",
+          "texto": "She likes reading comics.",
+          "traduccion": "(Le gusta leer historietas.)",
+          "explicacion": "Likes con she, y después el verbo con -ing."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "¿Qué me encanta hacer y qué odio hacer? Armá las dos oraciones como las diría yo, antes de mirar.",
+          "habla": true,
+          "porPersonaje": {
+            "lucy": {
+              "respuesta": "[[~I love acting in plays.]] (Me encanta actuar en obras de teatro.) y [[~I hate tidying my room.]] (Odio ordenar mi cuarto.) Después de love y hate, el verbo va con -ing."
+            },
+            "ben": {
+              "respuesta": "[[~I love playing basketball.]] (Me encanta jugar al básquet.) y [[~I hate getting up early.]] (Odio levantarme temprano.) Después de love y hate, el verbo va con -ing."
+            },
+            "mia": {
+              "respuesta": "[[~I love swimming.]] (Me encanta nadar.) y [[~I hate waiting for the train.]] (Odio esperar el tren.) Después de love y hate, el verbo va con -ing."
+            },
+            "liam": {
+              "respuesta": "[[~I love cooking.]] (Me encanta cocinar.) y [[~I hate running.]] (Odio correr.) Después de love y hate, el verbo va con -ing."
+            }
+          }
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Copiá la escala de gustos (love, like, don't mind, don't like, hate) con su significado. Explicá en castellano qué forma lleva el verbo que va después y las tres reglas para escribir -ing. Después escribí en inglés cinco oraciones sobre el tiempo libre de {{nombre}}, una con cada expresión de la escala. Ojo: con {{nombre}}, el verbo de gusto lleva -s (loves, likes, hates).",
+        "guia": [
+          "¿Qué expresiones hay para hablar de gustos, de más a menos?",
+          "¿Qué forma lleva el verbo que va después de like o love?",
+          "¿Cómo se escribe -ing en dance, swim y play?",
+          "¿Qué cambia con he o she (likes, loves)?",
+          "¿Qué le encanta, qué le gusta y qué odia hacer a {{nombre}}? Mirá lo que te contó en esta parte."
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Después de like se puede usar un verbo con -ing.",
+          "respuesta": true,
+          "explicacion": "I like reading."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La forma -ing de dance es danceing.",
+          "respuesta": false,
+          "explicacion": "Se saca la e: dancing."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La forma -ing de swim es swimming.",
+          "respuesta": true,
+          "explicacion": "Se duplica la m."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Hate quiere decir \"me encanta\".",
+          "respuesta": false,
+          "explicacion": "Hate quiere decir odiar; me encanta es love."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Don't mind quiere decir \"me da igual\".",
+          "respuesta": true,
+          "explicacion": "Está en el medio de la escala."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"She like reading\" está bien escrita.",
+          "respuesta": false,
+          "explicacion": "Con she: She likes reading."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la forma -ing de run?",
+          "opciones": [
+            "running",
+            "runing",
+            "runeing",
+            "runs"
+          ],
+          "correcta": 0,
+          "explicacion": "Corto con consonante + vocal + consonante: se duplica la n."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"I love dancing\"?",
+          "opciones": [
+            "Me encanta bailar",
+            "Odio tener que bailar",
+            "Bailé mucho ayer",
+            "No sé bailar"
+          ],
+          "correcta": 0,
+          "explicacion": "Love = me encanta."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la oración bien escrita?",
+          "opciones": [
+            "He enjoys playing chess.",
+            "He enjoy playing chess.",
+            "He enjoys play chess.",
+            "He enjoying plays chess."
+          ],
+          "correcta": 0,
+          "explicacion": "Enjoys con he y el verbo con -ing."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué expresión está en el medio de la escala de gustos?",
+          "opciones": [
+            "don't mind",
+            "love",
+            "don't like",
+            "like"
+          ],
+          "correcta": 0,
+          "explicacion": "Don't mind = me da igual."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la forma -ing de write?",
+          "opciones": [
+            "writing",
+            "writeing",
+            "writting",
+            "wrote"
+          ],
+          "correcta": 0,
+          "explicacion": "Termina en e: se saca la e."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se dice \"No me gusta levantarme temprano\"?",
+          "opciones": [
+            "I don't like getting up early.",
+            "I don't like get up early.",
+            "I not like getting up early.",
+            "I doesn't like getting up early."
+          ],
+          "correcta": 0,
+          "explicacion": "Don't like + -ing."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "LOVE",
+          "pista": "Encantar, en inglés."
+        },
+        {
+          "palabra": "HATE",
+          "pista": "Odiar, en inglés."
+        },
+        {
+          "palabra": "ENJOY",
+          "pista": "Disfrutar, en inglés."
+        },
+        {
+          "palabra": "SWIMMING",
+          "pista": "Swim con -ing."
+        },
+        {
+          "palabra": "DANCING",
+          "pista": "Dance con -ing."
+        },
+        {
+          "palabra": "HOBBY",
+          "pista": "Pasatiempo, en inglés."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "My brother loves swimming.",
+            "My brother love swimming.",
+            "My brother loves swiming.",
+            "My brother loves swim."
+          ],
+          "correcta": 0,
+          "explicacion": "Loves con he, y swimming con doble m."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué forma va después de enjoy?",
+          "opciones": [
+            "El verbo con -ing",
+            "El verbo con -ed",
+            "El verbo con -s",
+            "El verbo con to adelante"
+          ],
+          "correcta": 0,
+          "explicacion": "I enjoy reading."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"I don't mind doing homework\" quiere decir que hacer la tarea le da igual.",
+          "respuesta": true,
+          "explicacion": "Don't mind = me da igual."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Lo que pasa ahora y los planes: el presente continuo",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Dos usos del presente continuo",
+          "texto": "El **presente continuo** ([[Present continuous]]) se forma con **am, is o are** y el verbo con **-ing**. Tiene dos usos:\n\n1. Lo que está pasando **ahora**: [[I'm watching a series right now.]] (Estoy mirando una serie ahora.)\n2. Un **plan ya arreglado** para el futuro, casi siempre con día u hora: [[We're playing football on Saturday.]] (El sábado jugamos al fútbol.)"
+        },
+        {
+          "t": "pasos",
+          "titulo": "Paso a paso: armar el presente continuo",
+          "pasos": [
+            {
+              "titulo": "Elegí am, is o are",
+              "texto": "[[I am]] (I'm); [[he is]], [[she is]] (he's, she's); [[you are]], [[we are]], [[they are]] (you're, we're, they're)."
+            },
+            {
+              "titulo": "Agregá el verbo con -ing",
+              "texto": "Con las mismas reglas de la parte 1: [[playing]], [[dancing]], [[swimming]]. [[She is dancing.]]"
+            },
+            {
+              "titulo": "Para negar, agregá not",
+              "texto": "[[I'm not studying.]] [[He isn't playing.]] [[They aren't coming.]]"
+            },
+            {
+              "titulo": "Para preguntar, poné am, is o are adelante",
+              "texto": "[[Are you coming to the party?]] [[Is she working today?]] Respuestas: [[Yes, I am.]] / [[No, she isn't.]]"
+            }
+          ]
+        },
+        {
+          "t": "comparar",
+          "titulo": "Presente simple y presente continuo",
+          "columnas": [
+            "",
+            "Presente simple",
+            "Presente continuo"
+          ],
+          "filas": [
+            [
+              "Qué cuenta",
+              "Una rutina o un hecho",
+              "Lo que pasa ahora o un plan arreglado"
+            ],
+            [
+              "Palabras que ayudan",
+              "[[always]], [[every day]], [[on Mondays]]",
+              "[[now]], [[right now]], [[this Saturday]], [[tonight]]"
+            ],
+            [
+              "Ejemplo",
+              "[[I play football every Sunday.]]",
+              "[[I'm playing football right now.]]"
+            ]
+          ]
+        },
+        {
+          "t": "unir",
+          "etiqueta": "Uní",
+          "consigna": "Me preguntaron qué estoy haciendo estos días. Uní cada pregunta con mi respuesta.",
+          "habla": true,
+          "explicacion": "Las preguntas con are you… se contestan con I am o I'm not; las que empiezan con What piden qué está haciendo, y la respuesta va en presente continuo.",
+          "pista": "Fijate en cómo empieza cada pregunta: si empieza con Are you o Is, la respuesta es corta (Yes, I am / Yes, she is). Si empieza con What, la respuesta cuenta una acción con -ing.",
+          "porPersonaje": {
+            "lucy": {
+              "pares": [
+                {
+                  "a": "[[~What are you doing these days?]]",
+                  "b": "I'm learning my lines for a new play."
+                },
+                {
+                  "a": "[[~Are you acting on Friday?]]",
+                  "b": "Yes, I am."
+                },
+                {
+                  "a": "[[~Is your brother helping you?]]",
+                  "b": "Yes, he is."
+                },
+                {
+                  "a": "[[~What is your brother doing right now?]]",
+                  "b": "He's playing the drums."
+                },
+                {
+                  "a": "[[~Are you studying for a test this week?]]",
+                  "b": "No, I'm not."
+                }
+              ]
+            },
+            "ben": {
+              "pares": [
+                {
+                  "a": "[[~What are you doing these days?]]",
+                  "b": "I'm training for a tournament."
+                },
+                {
+                  "a": "[[~Are you playing on Saturday?]]",
+                  "b": "Yes, I am."
+                },
+                {
+                  "a": "[[~Is your sister coming to the game?]]",
+                  "b": "Yes, she is."
+                },
+                {
+                  "a": "[[~What are you doing after school today?]]",
+                  "b": "I'm practicing with my team."
+                },
+                {
+                  "a": "[[~Are you watching TV right now?]]",
+                  "b": "No, I'm not."
+                }
+              ]
+            },
+            "mia": {
+              "pares": [
+                {
+                  "a": "[[~What are you doing these days?]]",
+                  "b": "I'm rehearsing with the school orchestra."
+                },
+                {
+                  "a": "[[~Are you playing on Thursday?]]",
+                  "b": "Yes, I am."
+                },
+                {
+                  "a": "[[~Is your little brother coming to the concert?]]",
+                  "b": "Yes, he is."
+                },
+                {
+                  "a": "[[~What are you reading on the train?]]",
+                  "b": "I'm reading a mystery book."
+                },
+                {
+                  "a": "[[~Are you swimming this weekend?]]",
+                  "b": "No, I'm not."
+                }
+              ]
+            },
+            "liam": {
+              "pares": [
+                {
+                  "a": "[[~What are you doing these days?]]",
+                  "b": "I'm learning a new song."
+                },
+                {
+                  "a": "[[~Are you playing at the school festival?]]",
+                  "b": "Yes, I am."
+                },
+                {
+                  "a": "[[~Is your mum coming to the festival?]]",
+                  "b": "Yes, she is."
+                },
+                {
+                  "a": "[[~What are you cooking tonight?]]",
+                  "b": "I'm cooking pasta."
+                },
+                {
+                  "a": "[[~Are you running this weekend?]]",
+                  "b": "No, I'm not!"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "t": "pronunciar",
+          "modo": "decir",
+          "texto": "What are you doing on Saturday?",
+          "traduccion": "(¿Qué hacés el sábado?)",
+          "explicacion": "En las preguntas con what, la voz baja al final."
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "🔍 Encontrá el error",
+          "pregunta": "Una de estas oraciones tiene un error. ¿Cuál es?",
+          "opciones": [
+            "She is play tennis now.",
+            "We're visiting my grandma on Sunday.",
+            "They aren't watching TV.",
+            "Are you listening to me?"
+          ],
+          "explicacion": "Falta el -ing: She is playing tennis now.",
+          "pista": "Releé el paso 2: después de am, is o are, el verbo lleva -ing.",
+          "correcta": 0
+        },
+        {
+          "t": "vf",
+          "consigna": "Leé cada afirmación y marcá si es verdadera o falsa.",
+          "afirmaciones": [
+            {
+              "texto": "[[I'm playing football on Saturday.]] habla de un plan.",
+              "v": true,
+              "explicacion": "Tiene día (on Saturday): es un plan arreglado."
+            },
+            {
+              "texto": "[[I play football every Sunday.]] habla de lo que pasa ahora.",
+              "v": false,
+              "explicacion": "Con every Sunday es una rutina: presente simple."
+            },
+            {
+              "texto": "En [[He isn't working today.]] la palabra isn't es is not.",
+              "v": true,
+              "explicacion": "Isn't = is not."
+            },
+            {
+              "texto": "Para preguntar en presente continuo se usa do.",
+              "v": false,
+              "explicacion": "Se pone am, is o are adelante: Are you coming?"
+            }
+          ]
+        },
+        {
+          "t": "dictado",
+          "texto": "We're playing football on Saturday.",
+          "traduccion": "(El sábado jugamos al fútbol.)",
+          "explicacion": "Presente continuo para un plan.",
+          "acepta": [
+            "We are playing football on Saturday."
+          ]
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Leé estas dos oraciones: \"I study English on Mondays\" y \"I'm studying English right now\". ¿Qué cambia?",
+          "respuesta": "La primera es una rutina: todos los lunes, presente simple. La segunda es lo que pasa en este momento: presente continuo. La pista está en las palabras de tiempo: [[on Mondays]] y [[right now]]."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá en castellano cómo se forma el presente continuo y cuáles son sus dos usos (lo que pasa ahora y los planes). Explicá en qué se diferencia del presente simple, con las palabras de tiempo que ayudan a reconocerlos. Después escribí en inglés tres oraciones sobre lo que {{nombre}} está haciendo estos días y tres sobre sus planes. Usá lo que te contó en la entrevista.",
+        "guia": [
+          "¿Cómo se forma el presente continuo?",
+          "¿Cuáles son sus dos usos? Dá un ejemplo de cada uno.",
+          "¿Cómo se niega y cómo se pregunta?",
+          "¿Qué palabras de tiempo van con cada presente?",
+          "¿Qué está haciendo {{nombre}} estos días? ¿Qué planes tiene? Fijate en la entrevista."
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El presente continuo se forma con am, is o are + -ing.",
+          "respuesta": true,
+          "explicacion": "I'm watching, she is dancing."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"We're playing football on Saturday\" habla de un plan.",
+          "respuesta": true,
+          "explicacion": "Tiene día: es un plan arreglado."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Right now quiere decir \"todos los días\".",
+          "respuesta": false,
+          "explicacion": "Right now quiere decir \"ahora mismo\"."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"She is play tennis\" está bien escrita.",
+          "respuesta": false,
+          "explicacion": "Falta -ing: She is playing tennis."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Isn't es la forma corta de is not.",
+          "respuesta": true,
+          "explicacion": "He isn't working."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"I play football every Sunday\" está en presente continuo.",
+          "respuesta": false,
+          "explicacion": "Es una rutina: presente simple."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"I'm watching a series right now\"?",
+          "opciones": [
+            "Estoy mirando una serie ahora",
+            "Miro series todos los días",
+            "Ayer miré una serie entera",
+            "Mañana voy a mirar una serie"
+          ],
+          "correcta": 0,
+          "explicacion": "Right now = ahora mismo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se responde \"Are you coming to the party?\" si es verdad?",
+          "opciones": [
+            "Yes, I am.",
+            "Yes, I do.",
+            "Yes, I'm come.",
+            "Yes, I coming."
+          ],
+          "correcta": 0,
+          "explicacion": "La respuesta corta repite am."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"They ___ visiting their cousins\"?",
+          "opciones": [
+            "are",
+            "is",
+            "am",
+            "does"
+          ],
+          "correcta": 0,
+          "explicacion": "Con they: are."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra de tiempo va con el presente simple?",
+          "opciones": [
+            "every day",
+            "right now",
+            "tonight",
+            "this Saturday"
+          ],
+          "correcta": 0,
+          "explicacion": "Every day indica una rutina."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la pregunta bien formada?",
+          "opciones": [
+            "Is she working today?",
+            "Does she working today?",
+            "She is working today?",
+            "Is she work today?"
+          ],
+          "correcta": 0,
+          "explicacion": "Is + persona + verbo con -ing."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"tonight\"?",
+          "opciones": [
+            "Esta noche",
+            "Anoche",
+            "Mañana",
+            "Cada noche"
+          ],
+          "correcta": 0,
+          "explicacion": "Tonight = esta noche."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "NOW",
+          "pista": "Ahora, en inglés."
+        },
+        {
+          "palabra": "TONIGHT",
+          "pista": "Esta noche, en inglés."
+        },
+        {
+          "palabra": "PLAYING",
+          "pista": "Play con -ing."
+        },
+        {
+          "palabra": "SATURDAY",
+          "pista": "Sábado, en inglés."
+        },
+        {
+          "palabra": "PARTY",
+          "pista": "Fiesta, en inglés."
+        },
+        {
+          "palabra": "PLANS",
+          "pista": "Planes, en inglés."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración habla de un plan para el fin de semana?",
+          "opciones": [
+            "We're going to the cinema on Sunday.",
+            "We go to the cinema every Sunday.",
+            "We went to the cinema last Sunday.",
+            "We used to go to the cinema on Sundays."
+          ],
+          "correcta": 0,
+          "explicacion": "Presente continuo con día: un plan arreglado."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"I ___ not studying right now\"?",
+          "opciones": [
+            "am",
+            "is",
+            "are",
+            "do"
+          ],
+          "correcta": 0,
+          "explicacion": "Con I: am."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Is your brother sleeping?\" es una pregunta en presente continuo.",
+          "respuesta": true,
+          "explicacion": "Is + persona + verbo con -ing."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Invitar, aceptar y rechazar",
+      "tiempo": "35 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Hacer planes con otras personas",
+          "texto": "Cuando querés hacer algo con alguien, lo invitás. La otra persona puede aceptar o rechazar, y si rechaza, lo amable es dar un motivo. Para el motivo se usa el **presente continuo**, porque es un plan que ya tiene: [[Sorry, I can't. I'm visiting my grandma.]] (Perdón, no puedo. Voy a visitar a mi abuela.)"
+        },
+        {
+          "t": "comparar",
+          "titulo": "Expresiones para invitar, aceptar y rechazar (tocá 🔊 para escuchar)",
+          "columnas": [
+            "Invitar",
+            "Aceptar",
+            "Rechazar con amabilidad"
+          ],
+          "filas": [
+            [
+              "[[Do you want to come to the cinema?]]",
+              "[[Sure!]]",
+              "[[Sorry, I can't.]]"
+            ],
+            [
+              "[[Would you like to play football?]]",
+              "[[I'd love to.]]",
+              "[[Thanks, but I'm busy.]]"
+            ],
+            [
+              "[[Let's go to the park!]]",
+              "[[Sounds great!]]",
+              "[[Maybe another day?]]"
+            ]
+          ]
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Mi chat",
+          "habla": true,
+          "texto": "Así invité a una amiga o un amigo de mi ciudad. Tocá 🔊 para escuchar.",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "Así invité a mi amiga Emma. Tocá 🔊 para escuchar.\n\n**Lucy:** [[~Hi Emma! Would you like to come to my play on Friday?]]\n**Emma:** [[~Sorry, I can't. I'm visiting my grandma on Friday.]]\n**Lucy:** [[~What about Saturday? We're doing it again.]]\n**Emma:** [[~Sounds great! What time?]]\n**Lucy:** [[~At seven. See you there!]]"
+            },
+            "ben": {
+              "texto": "Así invité a mi amigo Tyler. Tocá 🔊 para escuchar.\n\n**Ben:** [[~Hi Tyler! Do you want to come to my game on Saturday?]]\n**Tyler:** [[~Sorry, I can't. I'm working at my uncle's shop on Saturday.]]\n**Ben:** [[~What about Sunday? We're playing again.]]\n**Tyler:** [[~Sure! What time?]]\n**Ben:** [[~At four. See you there!]]"
+            },
+            "mia": {
+              "texto": "Así invité a mi amiga Zoe. Tocá 🔊 para escuchar.\n\n**Mia:** [[~Hi Zoe! Would you like to come to my concert on Thursday?]]\n**Zoe:** [[~Sorry, I can't. I'm studying for a test.]]\n**Mia:** [[~What about Friday? We're playing again.]]\n**Zoe:** [[~I'd love to! What time?]]\n**Mia:** [[~At six. See you there!]]"
+            },
+            "liam": {
+              "texto": "Así invité a mi amigo Conor. Tocá 🔊 para escuchar.\n\n**Liam:** [[~Hi Conor! Do you want to listen to my band on Wednesday?]]\n**Conor:** [[~Sorry, I can't. I'm playing football on Wednesday.]]\n**Liam:** [[~What about Thursday? We're practising again.]]\n**Conor:** [[~Sure! What time?]]\n**Liam:** [[~At five. See you there!]]"
+            }
+          }
+        },
+        {
+          "t": "unir",
+          "etiqueta": "Uní",
+          "consigna": "Uní cada frase de mi chat con su traducción.",
+          "habla": true,
+          "pista": "Buscá las palabras que ya conocés: Sorry, What about, See you. Después fijate qué traducción las tiene.",
+          "porPersonaje": {
+            "lucy": {
+              "pares": [
+                {
+                  "a": "Would you like to come to my play on Friday?",
+                  "b": "¿Querés venir a mi obra el viernes?"
+                },
+                {
+                  "a": "I'm visiting my grandma on Friday.",
+                  "b": "El viernes visito a mi abuela."
+                },
+                {
+                  "a": "What about Saturday?",
+                  "b": "¿Y el sábado?"
+                },
+                {
+                  "a": "Sounds great! What time?",
+                  "b": "¡Genial! ¿A qué hora?"
+                },
+                {
+                  "a": "See you there!",
+                  "b": "¡Nos vemos ahí!"
+                }
+              ],
+              "explicacion": "Así queda el chat en castellano: Lucy: ¡Hola, Emma! ¿Querés venir a mi obra el viernes? / Emma: Perdón, no puedo. El viernes visito a mi abuela. / Lucy: ¿Y el sábado? La hacemos de nuevo. / Emma: ¡Genial! ¿A qué hora? / Lucy: A las siete. ¡Nos vemos ahí!"
+            },
+            "ben": {
+              "pares": [
+                {
+                  "a": "Do you want to come to my game on Saturday?",
+                  "b": "¿Querés venir a mi partido el sábado?"
+                },
+                {
+                  "a": "I'm working at my uncle's shop on Saturday.",
+                  "b": "El sábado trabajo en el negocio de mi tío."
+                },
+                {
+                  "a": "What about Sunday?",
+                  "b": "¿Y el domingo?"
+                },
+                {
+                  "a": "Sure! What time?",
+                  "b": "¡Dale! ¿A qué hora?"
+                },
+                {
+                  "a": "See you there!",
+                  "b": "¡Nos vemos ahí!"
+                }
+              ],
+              "explicacion": "Así queda el chat en castellano: Ben: ¡Hola, Tyler! ¿Querés venir a mi partido el sábado? / Tyler: Perdón, no puedo. El sábado trabajo en el negocio de mi tío. / Ben: ¿Y el domingo? Jugamos de nuevo. / Tyler: ¡Dale! ¿A qué hora? / Ben: A las cuatro. ¡Nos vemos ahí!"
+            },
+            "mia": {
+              "pares": [
+                {
+                  "a": "Would you like to come to my concert on Thursday?",
+                  "b": "¿Querés venir a mi concierto el jueves?"
+                },
+                {
+                  "a": "I'm studying for a test.",
+                  "b": "Estoy estudiando para una prueba."
+                },
+                {
+                  "a": "What about Friday?",
+                  "b": "¿Y el viernes?"
+                },
+                {
+                  "a": "I'd love to! What time?",
+                  "b": "¡Me encantaría! ¿A qué hora?"
+                },
+                {
+                  "a": "See you there!",
+                  "b": "¡Nos vemos ahí!"
+                }
+              ],
+              "explicacion": "Así queda el chat en castellano: Mia: ¡Hola, Zoe! ¿Querés venir a mi concierto el jueves? / Zoe: Perdón, no puedo. Estoy estudiando para una prueba. / Mia: ¿Y el viernes? Tocamos de nuevo. / Zoe: ¡Me encantaría! ¿A qué hora? / Mia: A las seis. ¡Nos vemos ahí!"
+            },
+            "liam": {
+              "pares": [
+                {
+                  "a": "Do you want to listen to my band on Wednesday?",
+                  "b": "¿Querés escuchar a mi banda el miércoles?"
+                },
+                {
+                  "a": "I'm playing football on Wednesday.",
+                  "b": "El miércoles juego al fútbol."
+                },
+                {
+                  "a": "What about Thursday?",
+                  "b": "¿Y el jueves?"
+                },
+                {
+                  "a": "Sure! What time?",
+                  "b": "¡Dale! ¿A qué hora?"
+                },
+                {
+                  "a": "See you there!",
+                  "b": "¡Nos vemos ahí!"
+                }
+              ],
+              "explicacion": "Así queda el chat en castellano: Liam: ¡Hola, Conor! ¿Querés escuchar a mi banda el miércoles? / Conor: Perdón, no puedo. El miércoles juego al fútbol. / Liam: ¿Y el jueves? Ensayamos de nuevo. / Conor: ¡Dale! ¿A qué hora? / Liam: A las cinco. ¡Nos vemos ahí!"
+            }
+          }
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Qué hace cada frase: invita, acepta o rechaza?",
+          "categorias": [
+            "Invita",
+            "Acepta",
+            "Rechaza"
+          ],
+          "items": [
+            {
+              "texto": "Would you like to come?",
+              "cat": "Invita"
+            },
+            {
+              "texto": "Let's go to the park!",
+              "cat": "Invita"
+            },
+            {
+              "texto": "I'd love to.",
+              "cat": "Acepta"
+            },
+            {
+              "texto": "Sounds great!",
+              "cat": "Acepta"
+            },
+            {
+              "texto": "Sorry, I can't.",
+              "cat": "Rechaza"
+            },
+            {
+              "texto": "Thanks, but I'm busy.",
+              "cat": "Rechaza"
+            }
+          ],
+          "explicacion": "Would you like…? y Let's… invitan; I'd love to y Sounds great! aceptan; Sorry, I can't y I'm busy rechazan."
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ayudame a ordenar mi chat, desde la invitación hasta el saludo final.",
+          "habla": true,
+          "explicacion": "Primero la invitación, después el rechazo con un motivo, la nueva propuesta, la aceptación y el saludo.",
+          "pista": "Un chat de invitación empieza con la pregunta (Would you like…? o Do you want…?) y termina con See you there!",
+          "porPersonaje": {
+            "lucy": {
+              "items": [
+                "Hi Emma! Would you like to come to my play on Friday?",
+                "Sorry, I can't. I'm visiting my grandma on Friday.",
+                "What about Saturday? We're doing it again.",
+                "Sounds great! What time?",
+                "At seven. See you there!"
+              ]
+            },
+            "ben": {
+              "items": [
+                "Hi Tyler! Do you want to come to my game on Saturday?",
+                "Sorry, I can't. I'm working at my uncle's shop on Saturday.",
+                "What about Sunday? We're playing again.",
+                "Sure! What time?",
+                "At four. See you there!"
+              ]
+            },
+            "mia": {
+              "items": [
+                "Hi Zoe! Would you like to come to my concert on Thursday?",
+                "Sorry, I can't. I'm studying for a test.",
+                "What about Friday? We're playing again.",
+                "I'd love to! What time?",
+                "At six. See you there!"
+              ]
+            },
+            "liam": {
+              "items": [
+                "Hi Conor! Do you want to listen to my band on Wednesday?",
+                "Sorry, I can't. I'm playing football on Wednesday.",
+                "What about Thursday? We're practising again.",
+                "Sure! What time?",
+                "At five. See you there!"
+              ]
+            }
+          }
+        },
+        {
+          "t": "pronunciar",
+          "modo": "escuchar",
+          "voz": "personaje",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "Would you like to come to my play on Friday?",
+              "traduccion": "(¿Querés venir a mi obra el viernes?)",
+              "explicacion": "Would you y Do you se dicen todo junto y la voz sube al final, porque es una pregunta."
+            },
+            "ben": {
+              "texto": "Do you want to come to my game on Saturday?",
+              "traduccion": "(¿Querés venir a mi partido el sábado?)",
+              "explicacion": "Would you y Do you se dicen todo junto y la voz sube al final, porque es una pregunta."
+            },
+            "mia": {
+              "texto": "Would you like to come to my concert on Thursday?",
+              "traduccion": "(¿Querés venir a mi concierto el jueves?)",
+              "explicacion": "Would you y Do you se dicen todo junto y la voz sube al final, porque es una pregunta."
+            },
+            "liam": {
+              "texto": "Do you want to listen to my band on Wednesday?",
+              "traduccion": "(¿Querés escuchar a mi banda el miércoles?)",
+              "explicacion": "Would you y Do you se dicen todo junto y la voz sube al final, porque es una pregunta."
+            }
+          }
+        },
+        {
+          "t": "verificar",
+          "habla": true,
+          "formato": "Escribí solo el día en inglés.",
+          "pista": "Releé la primera línea de mi chat: ahí está el día de la invitación.",
+          "porPersonaje": {
+            "lucy": {
+              "consigna": "Buscá en mi chat qué día no puede venir Emma. Escribí el día en inglés.",
+              "respuesta": "Friday",
+              "acepta": [
+                "friday",
+                "on friday"
+              ],
+              "pista1": "Emma dice que no puede en la segunda línea del chat. Mirá qué día la invité o lo invité en la primera línea.",
+              "explicacion": "Emma no puede el viernes: Friday."
+            },
+            "ben": {
+              "consigna": "Buscá en mi chat qué día no puede venir Tyler. Escribí el día en inglés.",
+              "respuesta": "Saturday",
+              "acepta": [
+                "saturday",
+                "on saturday"
+              ],
+              "pista1": "Tyler dice que no puede en la segunda línea del chat. Mirá qué día la invité o lo invité en la primera línea.",
+              "explicacion": "Tyler no puede el sábado: Saturday."
+            },
+            "mia": {
+              "consigna": "Buscá en mi chat qué día no puede venir Zoe. Escribí el día en inglés.",
+              "respuesta": "Thursday",
+              "acepta": [
+                "thursday",
+                "on thursday"
+              ],
+              "pista1": "Zoe dice que no puede en la segunda línea del chat. Mirá qué día la invité o lo invité en la primera línea.",
+              "explicacion": "Zoe no puede el jueves: Thursday."
+            },
+            "liam": {
+              "consigna": "Buscá en mi chat qué día no puede venir Conor. Escribí el día en inglés.",
+              "respuesta": "Wednesday",
+              "acepta": [
+                "wednesday",
+                "on wednesday"
+              ],
+              "pista1": "Conor dice que no puede en la segunda línea del chat. Mirá qué día la invité o lo invité en la primera línea.",
+              "explicacion": "Conor no puede el miércoles: Wednesday."
+            }
+          }
+        },
+        {
+          "t": "dictado",
+          "voz": "personaje",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "Sorry, I can't. I'm visiting my grandma on Friday.",
+              "traduccion": "(Perdón, no puedo. El viernes visito a mi abuela.)",
+              "explicacion": "Así se rechaza con amabilidad: Sorry, I can't y un motivo en presente continuo.",
+              "acepta": [
+                "Sorry I cannot. I am visiting my grandma on Friday."
+              ]
+            },
+            "ben": {
+              "texto": "Sorry, I can't. I'm working at my uncle's shop on Saturday.",
+              "traduccion": "(Perdón, no puedo. El sábado trabajo en el negocio de mi tío.)",
+              "explicacion": "Así se rechaza con amabilidad: Sorry, I can't y un motivo en presente continuo.",
+              "acepta": [
+                "Sorry I cannot. I am working at my uncle's shop on Saturday."
+              ]
+            },
+            "mia": {
+              "texto": "Sorry, I can't. I'm studying for a test.",
+              "traduccion": "(Perdón, no puedo. Estoy estudiando para una prueba.)",
+              "explicacion": "Así se rechaza con amabilidad: Sorry, I can't y un motivo en presente continuo.",
+              "acepta": [
+                "Sorry I cannot. I am studying for a test."
+              ]
+            },
+            "liam": {
+              "texto": "Sorry, I can't. I'm playing football on Wednesday.",
+              "traduccion": "(Perdón, no puedo. El miércoles juego al fútbol.)",
+              "explicacion": "Así se rechaza con amabilidad: Sorry, I can't y un motivo en presente continuo.",
+              "acepta": [
+                "Sorry I cannot. I am playing football on Wednesday."
+              ]
+            }
+          }
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Si te invitan a algo y no podés ir, ¿por qué conviene dar un motivo?",
+          "respuesta": "Porque un \"no\" solo puede sonar cortante. Con un motivo ([[I'm visiting my grandma.]]) y, si querés, otra propuesta ([[Maybe another day?]]), la otra persona entiende que te interesa. Pasa lo mismo en inglés y en castellano."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Ahora contá en tu carpeta mi tiempo libre. Escribí en inglés un párrafo de seis a ocho oraciones sobre mí, como si se lo contaras a otra persona: qué me encanta, qué me gusta y qué odio hacer, qué estoy haciendo estos días y qué pasó con mi invitación. Agregá un detalle que inventes vos. Este párrafo es una parte más de mi historia para tu trabajo práctico.",
+        "habla": true,
+        "porPersonaje": {
+          "lucy": {
+            "guia": [
+              "Empezá así: [[Lucy loves acting in plays.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[She likes…]] [[She doesn't mind…]] [[She hates…]] [[These days, she is…]] [[Emma can't come because…]]",
+              "¿Pusiste -s en loves, likes y hates?",
+              "¿Después de love, like y hate, el verbo va con -ing?",
+              "¿Usaste is + -ing para lo que está haciendo estos días?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "ben": {
+            "guia": [
+              "Empezá así: [[Ben loves playing basketball.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[He likes…]] [[He doesn't mind…]] [[He hates…]] [[These days, he is…]] [[Tyler can't come because…]]",
+              "¿Pusiste -s en loves, likes y hates?",
+              "¿Después de love, like y hate, el verbo va con -ing?",
+              "¿Usaste is + -ing para lo que está haciendo estos días?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "mia": {
+            "guia": [
+              "Empezá así: [[Mia loves swimming.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[She likes…]] [[She doesn't mind…]] [[She hates…]] [[These days, she is…]] [[Zoe can't come because…]]",
+              "¿Pusiste -s en loves, likes y hates?",
+              "¿Después de love, like y hate, el verbo va con -ing?",
+              "¿Usaste is + -ing para lo que está haciendo estos días?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "liam": {
+            "guia": [
+              "Empezá así: [[Liam loves cooking.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[He likes…]] [[He doesn't mind…]] [[He hates…]] [[These days, he is…]] [[Conor can't come because…]]",
+              "¿Pusiste -s en loves, likes y hates?",
+              "¿Después de love, like y hate, el verbo va con -ing?",
+              "¿Usaste is + -ing para lo que está haciendo estos días?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          }
+        }
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "\"Would you like to come?\" sirve para invitar.",
+          "respuesta": true,
+          "explicacion": "Es una invitación amable."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Sounds great!\" sirve para rechazar.",
+          "respuesta": false,
+          "explicacion": "Sirve para aceptar."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Para dar un motivo se usa el presente continuo.",
+          "respuesta": true,
+          "explicacion": "I'm visiting my grandma."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"What about Sunday?\" sirve para proponer otro día.",
+          "respuesta": true,
+          "explicacion": "What about…? = ¿Y si…? Propone otra opción."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Let's go to the park!\" es una invitación.",
+          "respuesta": true,
+          "explicacion": "Let's = vamos a…"
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Maybe another day?\" propone otro día.",
+          "respuesta": true,
+          "explicacion": "Quiere decir \"¿quizás otro día?\"."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"I'd love to\"?",
+          "opciones": [
+            "Me encantaría",
+            "No puedo",
+            "Estoy ocupado",
+            "Quizás otro día"
+          ],
+          "correcta": 0,
+          "explicacion": "Sirve para aceptar."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo rechazás con amabilidad?",
+          "opciones": [
+            "Sorry, I can't.",
+            "Sounds great!",
+            "Sure, why not!",
+            "I'd love to."
+          ],
+          "correcta": 0,
+          "explicacion": "Sorry, I can't = perdón, no puedo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estas frases sirve para aceptar una invitación?",
+          "opciones": [
+            "Sorry, I can't.",
+            "Sounds great!",
+            "What about Sunday?",
+            "I'm busy."
+          ],
+          "correcta": 1,
+          "explicacion": "Sounds great! = ¡Genial! Es una forma de aceptar."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿A qué hora se encuentran?",
+          "opciones": [
+            "A las cinco",
+            "A las seis",
+            "A las cuatro",
+            "A las siete"
+          ],
+          "correcta": 0,
+          "explicacion": "At five."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué motivo está bien escrito?",
+          "opciones": [
+            "I'm visiting my grandma.",
+            "I visiting my grandma.",
+            "I'm visit my grandma.",
+            "I am visiting to my grandma."
+          ],
+          "correcta": 0,
+          "explicacion": "Am + verbo con -ing."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"busy\"?",
+          "opciones": [
+            "Ocupado",
+            "Aburrido",
+            "Cansado",
+            "Contento"
+          ],
+          "correcta": 0,
+          "explicacion": "Thanks, but I'm busy."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "INVITE",
+          "pista": "Invitar, en inglés."
+        },
+        {
+          "palabra": "SORRY",
+          "pista": "Perdón, en inglés."
+        },
+        {
+          "palabra": "BUSY",
+          "pista": "Ocupado, en inglés."
+        },
+        {
+          "palabra": "CINEMA",
+          "pista": "Cine, en inglés."
+        },
+        {
+          "palabra": "SURE",
+          "pista": "¡Claro!, en inglés."
+        },
+        {
+          "palabra": "MATCH",
+          "pista": "Partido, en inglés."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué respuesta rechaza una invitación y da un motivo?",
+          "opciones": [
+            "Sorry, I can't. I'm working.",
+            "Sure! See you there at five.",
+            "Would you like to come too?",
+            "Sounds great! What time?"
+          ],
+          "correcta": 0,
+          "explicacion": "Sorry, I can't + motivo en presente continuo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué expresión sirve para invitar?",
+          "opciones": [
+            "Do you want to come?",
+            "I'd love to.",
+            "Thanks, but I'm busy.",
+            "Sounds great!"
+          ],
+          "correcta": 0,
+          "explicacion": "Do you want to…? invita."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"What about Sunday?\" sirve para proponer otro día cuando alguien no puede.",
+          "respuesta": true,
+          "explicacion": "What about…? propone otra opción."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "[[love]] / [[hate]]",
+      "definicion": "Encantar / odiar. Después va el verbo con -ing."
+    },
+    {
+      "palabra": "[[don't mind]]",
+      "definicion": "Me da igual."
+    },
+    {
+      "palabra": "[[Present continuous]]",
+      "definicion": "Presente continuo: am, is o are + -ing."
+    },
+    {
+      "palabra": "[[right now]]",
+      "definicion": "Ahora mismo."
+    },
+    {
+      "palabra": "[[Would you like to…?]]",
+      "definicion": "¿Querés…? Sirve para invitar con amabilidad."
+    },
+    {
+      "palabra": "[[Sorry, I can't.]]",
+      "definicion": "Perdón, no puedo."
+    },
+    {
+      "palabra": "[[busy]]",
+      "definicion": "Ocupado, ocupada."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "I like play football.",
+      "aclaracion": "Después de like va el verbo con -ing: I like playing football."
+    },
+    {
+      "error": "She is play tennis now.",
+      "aclaracion": "Al presente continuo le falta el -ing: She is playing tennis now."
+    },
+    {
+      "error": "Sorry, I can't. I visit my grandma.",
+      "aclaracion": "Para un plan se usa el presente continuo: I'm visiting my grandma."
+    }
+  ],
+  "personaje_intro": {
+    "porPersonaje": {
+      "lucy": {
+        "texto": "¡Hola! Hoy te cuento qué me gusta hacer en mi tiempo libre y qué estoy haciendo estos días."
+      },
+      "ben": {
+        "texto": "¡Hola! Hoy te cuento qué me gusta hacer en mi tiempo libre y qué estoy haciendo estos días."
+      },
+      "mia": {
+        "texto": "¡Hola! Hoy te cuento qué me gusta hacer en mi tiempo libre y qué estoy haciendo estos días."
+      },
+      "liam": {
+        "texto": "¡Hola! Hoy te cuento qué me gusta hacer en mi tiempo libre y qué estoy haciendo estos días."
+      }
+    }
+  }
+}

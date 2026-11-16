@@ -1,0 +1,1265 @@
+{
+  "id": "ing-4-05",
+  "espacio": "lengua-extranjera",
+  "idioma": "en",
+  "eje": "¿Cómo cambió el mundo? Presente y pasado de distintas sociedades",
+  "titulo": "Antes y ahora: hábitos del pasado (used to)",
+  "intro": "En esta clase vas a aprender a contar en inglés cómo era la vida antes y cómo es ahora: los hábitos que ya no existen, los cambios en la comunicación y en las ciudades. Además, {{nombre}} te va a contar cómo cambió. Tocá 🔊 en las palabras y oraciones en inglés para escuchar cómo se pronuncian.",
+  "objetivos": [
+    "Usar used to, didn't use to y Did … use to? para hablar de hábitos del pasado.",
+    "Comparar el pasado y el presente combinando used to y el presente simple.",
+    "Escribir en inglés un texto breve sobre cómo era {{nombre}} antes y cómo es ahora."
+  ],
+  "tp_aporte": "Para tu trabajo práctico ya tenés cómo se forma used to, cómo comparar antes y ahora, y un párrafo más de la historia de {{nombre}}: cómo era antes y cómo es hoy.",
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "Used to: hábitos que ya no existen",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "¿Qué expresa used to?",
+          "texto": "Usamos [[used to]] + **verbo base** para hablar de **hábitos o situaciones del pasado que ya no ocurren**. En castellano lo decimos con el pretérito imperfecto o con \"solía\":\n\n[[I used to play with toy cars.]] (Jugaba con autitos.)\n[[My dad used to have long hair.]] (Mi papá tenía el pelo largo.)\n\nLa idea es siempre la misma: **antes sí, ahora no**."
+        },
+        {
+          "t": "pasos",
+          "titulo": "Paso a paso: las tres formas de used to",
+          "pasos": [
+            {
+              "titulo": "Afirmativo",
+              "texto": "Persona + used to + verbo base: [[She used to live in Santa Fe.]]"
+            },
+            {
+              "titulo": "Negativo",
+              "texto": "Persona + didn't use to + verbo base: [[We didn't use to have a computer.]] Fijate que después de didn't se escribe use, sin la d final."
+            },
+            {
+              "titulo": "Pregunta",
+              "texto": "Did + persona + use to + verbo base: [[Did you use to watch cartoons?]] También va use, sin d."
+            },
+            {
+              "titulo": "Respuestas cortas",
+              "texto": "Se responde con did: [[Yes, I did.]] o [[No, I didn't.]]"
+            },
+            {
+              "titulo": "Una sola forma para todas las personas",
+              "texto": "Como en el pasado simple, no cambia: [[I used to]], [[he used to]], [[they used to]]."
+            }
+          ]
+        },
+        {
+          "t": "dato",
+          "titulo": "Cómo suena",
+          "texto": "[[used to]] se pronuncia todo junto, parecido a \"iústu\", y la s suena como s, no como z. Tocá 🔊 y repetilo varias veces: [[I used to play football.]]"
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Pensalo así",
+          "texto": "Si decís [[I used to walk to school]], contás una costumbre: ibas caminando casi todos los días, durante un tiempo, y ya no. Si decís [[I walked to school yesterday]], contás una sola vez, en un día preciso. La primera oración es como un álbum de fotos parecidas; la segunda, una sola foto."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada oración está bien escrita o hay que corregirla?",
+          "categorias": [
+            "Bien escrita",
+            "Hay que corregirla"
+          ],
+          "items": [
+            {
+              "texto": "I used to play football.",
+              "cat": "Bien escrita"
+            },
+            {
+              "texto": "Did you use to have a dog?",
+              "cat": "Bien escrita"
+            },
+            {
+              "texto": "She didn't use to like vegetables.",
+              "cat": "Bien escrita"
+            },
+            {
+              "texto": "I use to play football when I was a kid.",
+              "cat": "Hay que corregirla"
+            },
+            {
+              "texto": "Did you used to have a dog?",
+              "cat": "Hay que corregirla"
+            },
+            {
+              "texto": "She used to likes vegetables.",
+              "cat": "Hay que corregirla"
+            }
+          ],
+          "explicacion": "En afirmativo va used to; con did o didn't va use to, sin d. Después va siempre el verbo base."
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "🗣️ ¿Quién lo diría?",
+          "pregunta": "Esta frase es inventada: \"I used to play with toy cars, but now I drive a real one.\" ¿Quién la diría?",
+          "opciones": [
+            "Una persona adulta que hoy maneja",
+            "Un nene de cinco años que juega",
+            "Alguien que nunca tuvo juguetes",
+            "Una persona que hoy juega con autitos"
+          ],
+          "explicacion": "Used to cuenta algo que antes hacía y ahora no: de chico jugaba con autitos y ahora maneja un auto de verdad.",
+          "pista": "Used to habla de algo que ya no pasa. ¿Quién dejó de jugar con autitos?",
+          "correcta": 0
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá la pregunta: Did you ______ to live in Rosario?",
+          "respuesta": "use",
+          "acepta": [
+            "use"
+          ],
+          "formato": "Escribí solo una palabra en inglés.",
+          "explicacion": "En las preguntas con did se escribe use to, sin la d final.",
+          "pista1": "La pregunta empieza con did. Revisá el paso 3 del paso a paso.",
+          "pista": "Con did, la palabra va sin la d final."
+        },
+        {
+          "t": "dictado",
+          "texto": "My dad used to have long hair.",
+          "traduccion": "(Mi papá tenía el pelo largo.)",
+          "explicacion": "Used to + verbo base: antes sí, ahora no."
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá lo que cuenta una estudiante sobre su infancia.",
+          "texto": "When I was a child, I [[used]] to watch cartoons every afternoon. I [[didn't]] use to like vegetables. And you? Did you [[use]] to have a pet?",
+          "distractores": [
+            "uses",
+            "don't",
+            "using"
+          ],
+          "explicacion": "Afirmativo: used to. Negativo: didn't use to. Pregunta: Did you use to…?",
+          "pista": "Fijate si cada oración es afirmativa, negativa o pregunta, y volvé al paso a paso."
+        },
+        {
+          "t": "pronunciar",
+          "modo": "escuchar",
+          "texto": "I used to play football.",
+          "traduccion": "(Jugaba al fútbol.)",
+          "explicacion": "Used to se dice todo junto, parecido a \"iústu\"."
+        },
+        {
+          "t": "revelar",
+          "habla": true,
+          "pregunta": "¿Qué te parece que hacía yo cuando tenía diez años y ahora ya no hago? Pensá una oración con used to antes de mirar.",
+          "porPersonaje": {
+            "lucy": {
+              "respuesta": "Te cuento: [[I used to sit at the back of the classroom.]] (Me sentaba al fondo del aula.) [[I didn't use to speak in class.]] (No hablaba en clase.) Las dos tienen used to o didn't use to + verbo base."
+            },
+            "ben": {
+              "respuesta": "Te cuento: [[I used to play soccer every weekend.]] (Jugaba al fútbol todos los fines de semana.) [[I didn't use to like reading.]] (No me gustaba leer.) Las dos tienen used to o didn't use to + verbo base."
+            },
+            "mia": {
+              "respuesta": "Te cuento: [[I used to walk to school.]] (Iba caminando a la escuela.) [[I used to swim in the river with my cousins.]] (Nadaba en el río con mis primos.) Las dos tienen used to + verbo base."
+            },
+            "liam": {
+              "respuesta": "Te cuento: [[I used to play the piano.]] (Tocaba el piano.) [[I didn't use to cook.]] (No cocinaba.) Las dos tienen used to o didn't use to + verbo base."
+            }
+          }
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá en castellano qué expresa used to, cómo se forman el afirmativo, el negativo y la pregunta, y en qué se diferencia del pasado simple. Después escribí en inglés cuatro oraciones sobre cosas que {{nombre}} hacía cuando tenía diez años y ya no hace (las inventás vos), con al menos una negativa.",
+        "guia": [
+          "¿Qué tipo de acciones expresa used to? ¿Cómo se dice en castellano?",
+          "¿Cómo se arman el negativo y la pregunta? ¿Qué pasa con la d de used?",
+          "¿En qué se diferencia de una acción que pasó una sola vez?",
+          "¿Qué hacía {{nombre}} a los diez años? ([[{{nombre}} used to…]], [[{{nombre}} didn't use to…]])"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Used to expresa hábitos del pasado que ya no ocurren.",
+          "respuesta": true,
+          "explicacion": "Antes sí, ahora no."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la pregunta se escribe \"Did you used to…?\".",
+          "respuesta": false,
+          "explicacion": "Con did se escribe use to: Did you use to…?"
+        },
+        {
+          "tipo": "vf",
+          "texto": "Después de used to va el verbo en forma base.",
+          "respuesta": true,
+          "explicacion": "I used to play."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"She used to likes vegetables\" está bien escrita.",
+          "respuesta": false,
+          "explicacion": "Va el verbo base: She used to like vegetables."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Used to es igual para todas las personas.",
+          "respuesta": true,
+          "explicacion": "I used to, he used to, they used to."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"I walked to school yesterday\" cuenta un hábito.",
+          "respuesta": false,
+          "explicacion": "Cuenta una acción que pasó una vez: es pasado simple."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se dice \"Jugaba al fútbol (y ya no juego)\"?",
+          "opciones": [
+            "I used to play football.",
+            "I use to play football.",
+            "I used to played football.",
+            "I was play football."
+          ],
+          "correcta": 0,
+          "explicacion": "Used to + verbo base."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el negativo bien formado?",
+          "opciones": [
+            "We didn't use to have a car.",
+            "We didn't used to have a car.",
+            "We not used to have a car.",
+            "We used to not had a car."
+          ],
+          "correcta": 0,
+          "explicacion": "Didn't use to + verbo base."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se responde \"Did you use to watch cartoons?\" si es verdad?",
+          "opciones": [
+            "Yes, I did.",
+            "Yes, I used.",
+            "Yes, I use.",
+            "Yes, I was."
+          ],
+          "correcta": 0,
+          "explicacion": "La respuesta corta va con did."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"My mum used to have long hair\"?",
+          "opciones": [
+            "Mi mamá tenía el pelo largo",
+            "Mi mamá tiene el pelo largo",
+            "Mi mamá tendrá el pelo largo",
+            "Mi mamá se cortó el pelo ayer"
+          ],
+          "correcta": 0,
+          "explicacion": "Es una situación del pasado que cambió."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"Did they ___ to live here?\"",
+          "opciones": [
+            "use",
+            "used",
+            "uses",
+            "using"
+          ],
+          "correcta": 0,
+          "explicacion": "Con did: use to."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué expresa el pasado simple, a diferencia de used to?",
+          "opciones": [
+            "Una acción que pasó una vez",
+            "Un hábito que ya no existe",
+            "Una acción del futuro",
+            "Una rutina de todos los días"
+          ],
+          "correcta": 0,
+          "explicacion": "I walked to school yesterday: una vez."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "USED",
+          "pista": "___ to: para hablar de hábitos del pasado."
+        },
+        {
+          "palabra": "CARTOONS",
+          "pista": "Dibujos animados, en inglés."
+        },
+        {
+          "palabra": "HABIT",
+          "pista": "Hábito, en inglés."
+        },
+        {
+          "palabra": "CHILD",
+          "pista": "Niño o niña, en inglés."
+        },
+        {
+          "palabra": "TOYS",
+          "pista": "Juguetes, en inglés."
+        },
+        {
+          "palabra": "BEFORE",
+          "pista": "Antes, en inglés."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "Did she use to live in Santa Fe?",
+            "Did she used to live in Santa Fe?",
+            "Does she used to live in Santa Fe?",
+            "Did she use to lived in Santa Fe?"
+          ],
+          "correcta": 0,
+          "explicacion": "Did + persona + use to + verbo base."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración cuenta algo que ocurrió una sola vez?",
+          "opciones": [
+            "I visited Córdoba last summer.",
+            "I used to visit Córdoba.",
+            "We used to love Córdoba.",
+            "We used to visit Córdoba often."
+          ],
+          "correcta": 0,
+          "explicacion": "El pasado simple cuenta un hecho puntual; used to, un hábito."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"We didn't use to have a computer\" quiere decir que antes no tenían computadora.",
+          "respuesta": true,
+          "explicacion": "Es una situación del pasado que cambió."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Antes y ahora: cómo nos comunicamos",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Then and now: antes y ahora",
+          "texto": "Para comparar el pasado con el presente se combinan dos tiempos: [[used to]] para lo que se hacía **antes** y el **presente simple** para lo que se hace **ahora**. Estas palabras ayudan: [[in the past]] (en el pasado), [[then]] (en ese entonces), [[now]] (ahora), [[nowadays]] (hoy en día) y [[but]] (pero).\n\n[[People used to write letters, but now they send messages.]]\n(La gente escribía cartas, pero ahora manda mensajes.)"
+        },
+        {
+          "t": "comparar",
+          "titulo": "Antes y después: la comunicación (tocá 🔊 para escuchar)",
+          "columnas": [
+            "Antes (used to)",
+            "Ahora (presente simple)"
+          ],
+          "filas": [
+            [
+              "[[People used to write letters.]]",
+              "[[Now they send messages.]]"
+            ],
+            [
+              "[[People used to call from public phones.]]",
+              "[[Now everybody has a mobile phone.]]"
+            ],
+            [
+              "[[People used to print their photos.]]",
+              "[[Now they share photos online.]]"
+            ],
+            [
+              "[[People used to read the newspaper.]]",
+              "[[Now they read the news on their phones.]]"
+            ],
+            [
+              "[[Families used to watch TV together.]]",
+              "[[Now each person watches videos on a different screen.]]"
+            ]
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar: el presente simple",
+          "texto": "Para hablar de **ahora** se usa el presente simple. Con **he, she e it** el verbo lleva **-s** (o -es): [[she sends]], [[he watches]], [[it has]]. Con I, you, we y they no lleva: [[they send]], [[we watch]]."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Mi abuela, antes y ahora",
+          "texto": "Te cuento cómo cambió mi abuela:\n\n[[~When my grandmother was young, she used to write letters to her cousins.]] [[~She didn't use to have a phone at home.]] [[~Now she sends voice messages every day!]]\n\n(Cuando mi abuela era joven, les escribía cartas a sus primos. No tenía teléfono en su casa. ¡Ahora manda audios todos los días!)",
+          "habla": true
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada palabra en inglés con su significado.",
+          "pares": [
+            {
+              "a": "in the past",
+              "b": "en el pasado"
+            },
+            {
+              "a": "then",
+              "b": "en ese entonces"
+            },
+            {
+              "a": "now",
+              "b": "ahora"
+            },
+            {
+              "a": "nowadays",
+              "b": "hoy en día"
+            },
+            {
+              "a": "but",
+              "b": "pero"
+            }
+          ],
+          "explicacion": "In the past y then hablan de antes; now y nowadays, de ahora; but une las dos ideas.",
+          "pista": "Todas están en el primer texto de esta parte, con su significado entre paréntesis."
+        },
+        {
+          "t": "vf",
+          "consigna": "Leé cada afirmación sobre la tabla y lo que te conté de mi abuela, y marcá si es verdadera o falsa.",
+          "afirmaciones": [
+            {
+              "texto": "[[People used to call from public phones.]] habla de ahora.",
+              "v": false,
+              "explicacion": "Tiene used to: habla de un hábito de antes."
+            },
+            {
+              "texto": "La abuela no tenía teléfono en su casa cuando era joven.",
+              "v": true,
+              "explicacion": "She didn't use to have a phone at home."
+            },
+            {
+              "texto": "En [[Now everybody has a mobile phone.]] el verbo está en presente simple.",
+              "v": true,
+              "explicacion": "Has es el presente de have con everybody."
+            },
+            {
+              "texto": "Según la tabla, antes las familias miraban videos cada una en su pantalla.",
+              "v": false,
+              "explicacion": "Antes miraban la tele juntas; ahora cada persona mira en su pantalla."
+            }
+          ],
+          "habla": true
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "🔍 Encontrá el error",
+          "pregunta": "Una de estas oraciones tiene un error. ¿Cuál es?",
+          "opciones": [
+            "Now my grandmother send messages.",
+            "Now my brother watches videos.",
+            "People used to print their photos.",
+            "Now they share photos online."
+          ],
+          "explicacion": "Con she (my grandmother), el presente simple lleva -s: Now my grandmother sends messages.",
+          "pista": "Releé el recuadro del presente simple: ¿qué le pasa al verbo con he, she e it?",
+          "correcta": 0
+        },
+        {
+          "t": "dictado",
+          "texto": "Now they send messages.",
+          "traduccion": "(Ahora mandan mensajes.)",
+          "explicacion": "Presente simple para hablar de ahora."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá con el presente simple de watch: Now my sister ______ series on her phone.",
+          "respuesta": "watches",
+          "acepta": [
+            "watches"
+          ],
+          "formato": "Escribí solo el verbo en inglés.",
+          "explicacion": "Con she (my sister), el presente simple lleva -es: watches.",
+          "pista1": "Fijate quién hace la acción: my sister es she.",
+          "pista": "Con she, el verbo lleva -s o -es. Buscá watch en el recuadro del presente simple."
+        },
+        {
+          "t": "pronunciar",
+          "modo": "decir",
+          "texto": "People used to write letters, but now they send messages.",
+          "traduccion": "(La gente escribía cartas, pero ahora manda mensajes.)",
+          "explicacion": "Hacé una pausa corta antes de but."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "¿Qué cosa que hoy hacés todos los días creés que tus nietos van a contar con used to?",
+          "respuesta": "Por ejemplo: [[People used to type on their phones.]] (La gente escribía en el celular.) o [[My grandparents used to go to school by bus.]] Lo que hoy es normal, mañana puede ser \"antes\"."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá en castellano cómo se compara el pasado con el presente en inglés: qué tiempo se usa para antes, cuál para ahora y qué palabras ayudan. Después escribí en inglés cuatro oraciones que comparen cómo se comunicaba la gente antes y cómo se comunica ahora, con used to y el presente simple.",
+        "guia": [
+          "¿Qué tiempo se usa para lo que se hacía antes? ¿Y para lo de ahora?",
+          "¿Qué le pasa al verbo con he, she e it en presente simple?",
+          "¿Qué palabras sirven para comparar (in the past, now, nowadays, but)?",
+          "¿Cómo se comunicaban antes (letters, public phones) y cómo ahora (messages, mobile phones)?"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Para hablar de ahora se usa el presente simple.",
+          "respuesta": true,
+          "explicacion": "Now they send messages."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Nowadays quiere decir \"hoy en día\".",
+          "respuesta": true,
+          "explicacion": "Sirve para hablar del presente."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con she, el presente simple de send es send.",
+          "respuesta": false,
+          "explicacion": "Con he, she e it lleva -s: sends."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"People used to write letters\" habla del presente.",
+          "respuesta": false,
+          "explicacion": "Habla de un hábito del pasado."
+        },
+        {
+          "tipo": "vf",
+          "texto": "But sirve para unir una idea de antes y una de ahora.",
+          "respuesta": true,
+          "explicacion": "…, but now they send messages."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Public phones son teléfonos públicos.",
+          "respuesta": true,
+          "explicacion": "Antes se llamaba desde ahí."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se dice \"La gente imprimía sus fotos\"?",
+          "opciones": [
+            "People used to print their photos.",
+            "People print their photos every day.",
+            "People used to printed their photos.",
+            "People uses to print their photos."
+          ],
+          "correcta": 0,
+          "explicacion": "Used to + verbo base."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"Now my brother ___ videos on his phone\"?",
+          "opciones": [
+            "watches",
+            "watch",
+            "watching",
+            "watched to"
+          ],
+          "correcta": 0,
+          "explicacion": "Con he, el presente simple lleva -es."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir in the past?",
+          "opciones": [
+            "En el pasado",
+            "En el futuro",
+            "Hoy en día",
+            "Todos los días"
+          ],
+          "correcta": 0,
+          "explicacion": "Sirve para hablar de antes."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración habla de ahora?",
+          "opciones": [
+            "They share photos online.",
+            "They used to share photos.",
+            "They didn't use to share photos.",
+            "Did they use to share photos?"
+          ],
+          "correcta": 0,
+          "explicacion": "Está en presente simple."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se dice \"celular\" en esta clase?",
+          "opciones": [
+            "Mobile phone",
+            "Public phone",
+            "Letter",
+            "Newspaper"
+          ],
+          "correcta": 0,
+          "explicacion": "Mobile phone."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir letters en esta clase?",
+          "opciones": [
+            "Cartas",
+            "Canciones",
+            "Fotos",
+            "Diarios"
+          ],
+          "correcta": 0,
+          "explicacion": "People used to write letters."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "LETTERS",
+          "pista": "Cartas, en inglés."
+        },
+        {
+          "palabra": "NOWADAYS",
+          "pista": "Hoy en día, en inglés."
+        },
+        {
+          "palabra": "MESSAGES",
+          "pista": "Mensajes, en inglés."
+        },
+        {
+          "palabra": "NEWSPAPER",
+          "pista": "Diario, en inglés."
+        },
+        {
+          "palabra": "PHONE",
+          "pista": "Teléfono, en inglés."
+        },
+        {
+          "palabra": "SENDS",
+          "pista": "Presente de send con she."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "He used to read the newspaper, but now he reads the news online.",
+            "He use to read the newspaper, but now he read the news online.",
+            "He used to reads the newspaper, but now he reading the news online.",
+            "He reads the newspaper, but now he used to read the news online."
+          ],
+          "correcta": 0,
+          "explicacion": "Used to + verbo base para antes; presente simple con -s para ahora."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué tiempo se combina con used to para comparar antes y ahora?",
+          "opciones": [
+            "El presente simple",
+            "El futuro",
+            "El pasado simple",
+            "El presente continuo"
+          ],
+          "correcta": 0,
+          "explicacion": "Used to para antes y presente simple para ahora."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Now everybody has a mobile phone\" está en presente simple.",
+          "respuesta": true,
+          "explicacion": "Has es el presente de have con everybody."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Then and now: cómo cambió la vida",
+      "tiempo": "35 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "There used to be: lo que había antes",
+          "texto": "Para decir que **antes había algo** que ahora ya no está, se usa [[there used to be]]:\n\n[[There used to be a cinema in my town.]] (Antes había un cine en mi ciudad.)\n[[There used to be a train station here.]] (Acá antes había una estación de tren.)\n\nPara decir lo que **hay ahora** se usa [[there is]] con una cosa y [[there are]] con varias: [[Now there is a supermarket.]] [[Now there are many shops.]]"
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Una carta de mi abuela",
+          "texto": "Mi abuela me escribió esta carta para contarme cómo era su pueblo cuando era joven.\n\n[[Dear {{nombre}},]]\n[[When I was young, I lived in the country.]] [[Your grandfather used to work on a farm, and I used to make bread at home.]] [[We didn't use to have a TV, so we listened to the radio.]] [[There used to be a small train station in our town.]] [[Now we live in the city, and there is a big supermarket next to our house!]]\n[[Love, Grandma]]",
+          "habla": true
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar: cómo armar un texto \"Then and now\"",
+          "texto": "1. Contá cómo era antes, con [[used to]], [[didn't use to]] y [[there used to be]].\n2. Contá cómo es ahora, con el presente simple: [[Now she…]], [[Now there is…]]\n3. Uní las ideas con [[but]], [[so]] (así que), [[and]] y [[nowadays]]."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Qué tiempo usa cada oración de la carta?",
+          "categorias": [
+            "Pasado simple",
+            "Used to",
+            "Presente simple"
+          ],
+          "items": [
+            {
+              "texto": "I lived in the country.",
+              "cat": "Pasado simple"
+            },
+            {
+              "texto": "We listened to the radio.",
+              "cat": "Pasado simple"
+            },
+            {
+              "texto": "Your grandfather used to work on a farm.",
+              "cat": "Used to"
+            },
+            {
+              "texto": "We didn't use to have a TV.",
+              "cat": "Used to"
+            },
+            {
+              "texto": "Now we live in the city.",
+              "cat": "Presente simple"
+            },
+            {
+              "texto": "There is a big supermarket.",
+              "cat": "Presente simple"
+            }
+          ],
+          "explicacion": "La carta mezcla los tres tiempos: el pasado simple cuenta hechos, used to cuenta costumbres de antes y el presente simple cuenta cómo es ahora."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Yo, antes y ahora",
+          "texto": "Ahora te cuento cómo era yo antes y cómo soy hoy. Tocá 🔊 para escucharlo.",
+          "habla": true,
+          "porPersonaje": {
+            "lucy": {
+              "texto": "Ahora te cuento cómo era yo antes y cómo soy hoy. Tocá 🔊 para escucharlo.\n\n[[~When I was younger, I was very shy.]] [[~I didn't use to speak in class.]] [[~I used to sit at the back of the classroom.]] [[~Now I act in the school play.]] [[~I love speaking in front of people!]]"
+            },
+            "ben": {
+              "texto": "Ahora te cuento cómo era yo antes y cómo soy hoy. Tocá 🔊 para escucharlo.\n\n[[~When I was a kid, I used to play soccer every weekend.]] [[~I didn't use to like reading.]] [[~Now I play basketball for my school team.]] [[~And I read comics every night!]]"
+            },
+            "mia": {
+              "texto": "Ahora te cuento cómo era yo antes y cómo soy hoy. Tocá 🔊 para escucharlo.\n\n[[~I used to live in a small town.]] [[~I used to walk to school.]] [[~In summer, I used to swim in the river with my cousins.]] [[~Nowadays I take the train to school.]] [[~And I swim in a big pool.]]"
+            },
+            "liam": {
+              "texto": "Ahora te cuento cómo era yo antes y cómo soy hoy. Tocá 🔊 para escucharlo.\n\n[[~When I was a child, I used to play the piano.]] [[~I used to hate vegetables, and I didn't use to cook.]] [[~Now I play the guitar in a band.]] [[~And I make vegetable soup on Sundays!]]"
+            }
+          }
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ayudame a ordenar lo que te conté: primero cómo era antes y después cómo soy ahora.",
+          "habla": true,
+          "explicacion": "Primero va lo de antes, con used to o didn't use to, y al final lo de ahora, en presente simple.",
+          "pista": "Las oraciones con used to van primero; las que empiezan con now o nowadays, al final.",
+          "porPersonaje": {
+            "lucy": {
+              "items": [
+                "When I was younger, I was very shy.",
+                "I didn't use to speak in class.",
+                "Now I act in the school play.",
+                "I love speaking in front of people!"
+              ]
+            },
+            "ben": {
+              "items": [
+                "When I was a kid, I used to play soccer.",
+                "I didn't use to like reading.",
+                "Now I play basketball.",
+                "And I read comics every night!"
+              ]
+            },
+            "mia": {
+              "items": [
+                "I used to live in a small town.",
+                "I used to walk to school.",
+                "Nowadays I take the train to school.",
+                "And I swim in a big pool."
+              ]
+            },
+            "liam": {
+              "items": [
+                "When I was a child, I used to play the piano.",
+                "I didn't use to cook.",
+                "Now I play the guitar in a band.",
+                "And I make vegetable soup on Sundays!"
+              ]
+            }
+          }
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá lo que cuenta un estudiante sobre su barrio.",
+          "texto": "There [[used]] to be a big park near my house. Now there [[is]] a parking lot. There [[are]] many new shops too, [[but]] there isn't a place to play football.",
+          "distractores": [
+            "use",
+            "were",
+            "so"
+          ],
+          "explicacion": "There used to be para antes; there is con una cosa y there are con varias para ahora; but une dos ideas que se oponen.",
+          "pista": "Releé el primer texto de esta parte: ¿cuándo va is y cuándo va are?"
+        },
+        {
+          "t": "dictado",
+          "voz": "personaje",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "I didn't use to speak in class.",
+              "traduccion": "(No hablaba en clase.)",
+              "explicacion": "En negativo va didn't use to, sin la d de used."
+            },
+            "ben": {
+              "texto": "I didn't use to like reading.",
+              "traduccion": "(No me gustaba leer.)",
+              "explicacion": "En negativo va didn't use to, sin la d de used."
+            },
+            "mia": {
+              "texto": "I used to walk to school.",
+              "traduccion": "(Iba caminando a la escuela.)",
+              "explicacion": "Used to + verbo base: antes sí, ahora no."
+            },
+            "liam": {
+              "texto": "I used to play the piano.",
+              "traduccion": "(Tocaba el piano.)",
+              "explicacion": "Used to + verbo base: antes sí, ahora no."
+            }
+          }
+        },
+        {
+          "t": "unir",
+          "etiqueta": "Uní",
+          "consigna": "Uní cada parte de lo que te conté con su traducción.",
+          "habla": true,
+          "pista": "Used to se traduce con \"-aba\" o \"-ía\" (jugaba, vivía); el presente simple, con el presente (juego, vivo).",
+          "porPersonaje": {
+            "lucy": {
+              "pares": [
+                {
+                  "a": "I was very shy.",
+                  "b": "Era muy tímida."
+                },
+                {
+                  "a": "I didn't use to speak in class.",
+                  "b": "No hablaba en clase."
+                },
+                {
+                  "a": "I used to sit at the back.",
+                  "b": "Me sentaba al fondo."
+                },
+                {
+                  "a": "Now I act in the school play.",
+                  "b": "Ahora actúo en la obra de la escuela."
+                },
+                {
+                  "a": "I love speaking in front of people!",
+                  "b": "¡Me encanta hablar delante de la gente!"
+                }
+              ],
+              "explicacion": "Así queda en castellano: Cuando era más chica, era muy tímida. No hablaba en clase. Me sentaba al fondo del aula. Ahora actúo en la obra de la escuela. ¡Me encanta hablar delante de la gente!"
+            },
+            "ben": {
+              "pares": [
+                {
+                  "a": "I used to play soccer.",
+                  "b": "Jugaba al fútbol."
+                },
+                {
+                  "a": "every weekend",
+                  "b": "todos los fines de semana"
+                },
+                {
+                  "a": "I didn't use to like reading.",
+                  "b": "No me gustaba leer."
+                },
+                {
+                  "a": "Now I play basketball.",
+                  "b": "Ahora juego al básquet."
+                },
+                {
+                  "a": "I read comics every night.",
+                  "b": "Leo historietas todas las noches."
+                }
+              ],
+              "explicacion": "Así queda en castellano: Cuando era chico, jugaba al fútbol todos los fines de semana. No me gustaba leer. Ahora juego al básquet en el equipo de la escuela. ¡Y leo historietas todas las noches!"
+            },
+            "mia": {
+              "pares": [
+                {
+                  "a": "I used to live in a small town.",
+                  "b": "Antes vivía en un pueblo chico."
+                },
+                {
+                  "a": "I used to walk to school.",
+                  "b": "Iba caminando a la escuela."
+                },
+                {
+                  "a": "I used to swim in the river.",
+                  "b": "Nadaba en el río."
+                },
+                {
+                  "a": "Nowadays I take the train.",
+                  "b": "Hoy en día voy en tren."
+                },
+                {
+                  "a": "I swim in a big pool.",
+                  "b": "Nado en una pileta grande."
+                }
+              ],
+              "explicacion": "Así queda en castellano: Antes vivía en un pueblo chico. Iba caminando a la escuela. En verano, nadaba en el río con mis primos. Hoy en día voy a la escuela en tren. Y nado en una pileta grande."
+            },
+            "liam": {
+              "pares": [
+                {
+                  "a": "I used to play the piano.",
+                  "b": "Tocaba el piano."
+                },
+                {
+                  "a": "I used to hate vegetables.",
+                  "b": "Odiaba las verduras."
+                },
+                {
+                  "a": "I didn't use to cook.",
+                  "b": "No cocinaba."
+                },
+                {
+                  "a": "Now I play the guitar.",
+                  "b": "Ahora toco la guitarra."
+                },
+                {
+                  "a": "I make vegetable soup.",
+                  "b": "Hago sopa de verduras."
+                }
+              ],
+              "explicacion": "Así queda en castellano: Cuando era chico, tocaba el piano. Odiaba las verduras y no cocinaba. Ahora toco la guitarra en una banda. ¡Y hago sopa de verduras los domingos!"
+            }
+          }
+        },
+        {
+          "t": "pronunciar",
+          "modo": "escuchar",
+          "voz": "personaje",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "When I was younger, I was very shy.",
+              "traduccion": "(Cuando era más chica, era muy tímida.)",
+              "explicacion": "Shy se dice \"shai\", con una sola sílaba."
+            },
+            "ben": {
+              "texto": "Now I play basketball for my school team.",
+              "traduccion": "(Ahora juego al básquet en el equipo de la escuela.)",
+              "explicacion": "Basketball lleva la fuerza en la primera sílaba: BAS-ket-ball."
+            },
+            "mia": {
+              "texto": "Nowadays I take the train to school.",
+              "traduccion": "(Hoy en día voy a la escuela en tren.)",
+              "explicacion": "Nowadays se dice \"náuadeis\", con fuerza en la primera sílaba."
+            },
+            "liam": {
+              "texto": "I make vegetable soup on Sundays!",
+              "traduccion": "(¡Hago sopa de verduras los domingos!)",
+              "explicacion": "Vegetable se dice con tres sílabas: \"VECH-ta-bol\"."
+            }
+          }
+        },
+        {
+          "t": "revelar",
+          "habla": true,
+          "pregunta": "Si tuvieras que contar en una sola oración cómo cambié, usando but, ¿cómo la armarías? Pensala antes de mirar.",
+          "porPersonaje": {
+            "lucy": {
+              "respuesta": "Por ejemplo: [[Lucy didn't use to speak in class, but now she acts in the school play.]] Fijate que con she el presente lleva -s: acts."
+            },
+            "ben": {
+              "respuesta": "Por ejemplo: [[Ben used to play soccer, but now he plays basketball.]] Fijate que con he el presente lleva -s: plays."
+            },
+            "mia": {
+              "respuesta": "Por ejemplo: [[Mia used to walk to school, but now she takes the train.]] Fijate que con she el presente lleva -s: takes."
+            },
+            "liam": {
+              "respuesta": "Por ejemplo: [[Liam used to play the piano, but now he plays the guitar.]] Fijate que con he el presente lleva -s: plays."
+            }
+          }
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Ahora escribí en tu carpeta cómo cambié, como el último párrafo de una biografía. Escribí en inglés un texto de cinco a siete oraciones con el título \"Then and now\": cómo era antes, con used to y didn't use to, y cómo es ahora, con el presente simple. Usá conectores como but, so o nowadays, y agregá un detalle que inventes vos.",
+        "habla": true,
+        "porPersonaje": {
+          "lucy": {
+            "guia": [
+              "Empezá así: [[When Lucy was younger, she was very shy.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[She didn't use to…]] [[Now she…]] [[Nowadays she…]] [[But…]]",
+              "¿Usaste used to para lo de antes y didn't use to (sin d) en la negativa?",
+              "¿Lo de ahora está en presente simple, con -s porque es she?",
+              "¿Usaste but, so o nowadays para unir las ideas?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "ben": {
+            "guia": [
+              "Empezá así: [[When Ben was a kid, he used to play soccer every weekend.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[He didn't use to…]] [[Now he…]] [[Nowadays he…]] [[But…]]",
+              "¿Usaste used to para lo de antes y didn't use to (sin d) en la negativa?",
+              "¿Lo de ahora está en presente simple, con -s porque es he?",
+              "¿Usaste but, so o nowadays para unir las ideas?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "mia": {
+            "guia": [
+              "Empezá así: [[Mia used to live in a small town.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[She didn't use to…]] [[Now she…]] [[Nowadays she…]] [[But…]]",
+              "¿Usaste used to para lo de antes y didn't use to (sin d) en la negativa?",
+              "¿Lo de ahora está en presente simple, con -s porque es she?",
+              "¿Usaste but, so o nowadays para unir las ideas?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "liam": {
+            "guia": [
+              "Empezá así: [[When Liam was a child, he used to play the piano.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[He didn't use to…]] [[Now he…]] [[Nowadays he…]] [[But…]]",
+              "¿Usaste used to para lo de antes y didn't use to (sin d) en la negativa?",
+              "¿Lo de ahora está en presente simple, con -s porque es he?",
+              "¿Usaste but, so o nowadays para unir las ideas?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          }
+        }
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "\"There used to be a cinema\" quiere decir \"antes había un cine\".",
+          "respuesta": true,
+          "explicacion": "Y ahora ya no está."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Para decir lo que hay ahora, con una sola cosa, se usa there is.",
+          "respuesta": true,
+          "explicacion": "Now there is a supermarket."
+        },
+        {
+          "tipo": "vf",
+          "texto": "There are se usa con una sola cosa.",
+          "respuesta": false,
+          "explicacion": "Se usa con varias: there are many shops."
+        },
+        {
+          "tipo": "vf",
+          "texto": "So quiere decir \"así que\".",
+          "respuesta": true,
+          "explicacion": "Une una causa con su consecuencia."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la carta, la abuela vivía en el campo cuando era joven.",
+          "respuesta": true,
+          "explicacion": "When I was young, I lived in the country."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Quiet quiere decir \"ruidoso\".",
+          "respuesta": false,
+          "explicacion": "Quiet es tranquilo; ruidoso es noisy."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se dice \"Antes había una estación de tren acá\"?",
+          "opciones": [
+            "There used to be a train station here.",
+            "There is a train station here now.",
+            "There used to are a train station here.",
+            "There use to be a train station here."
+          ],
+          "correcta": 0,
+          "explicacion": "There used to be."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"My town used to be very quiet\"?",
+          "opciones": [
+            "Mi ciudad era muy tranquila",
+            "Mi ciudad es muy ruidosa",
+            "Mi ciudad será tranquila",
+            "Mi ciudad va a ser muy tranquila"
+          ],
+          "correcta": 0,
+          "explicacion": "Es una situación del pasado que cambió."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "Según la carta, ¿qué hacía el abuelo?",
+          "opciones": [
+            "Trabajaba en una granja",
+            "Hacía pan en la casa",
+            "Miraba la televisión",
+            "Hacía el pan todos los días"
+          ],
+          "correcta": 0,
+          "explicacion": "Your grandfather used to work on a farm."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué conector quiere decir \"pero\"?",
+          "opciones": [
+            "But",
+            "So",
+            "And",
+            "Now"
+          ],
+          "correcta": 0,
+          "explicacion": "Une ideas que se oponen."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se dice \"Ahora hay muchos negocios\"?",
+          "opciones": [
+            "Now there are many shops.",
+            "Now there is many shops.",
+            "Now there used to be shops.",
+            "Now there were many shops."
+          ],
+          "correcta": 0,
+          "explicacion": "Con varias cosas: there are."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué tiempo usa \"We listened to the radio\"?",
+          "opciones": [
+            "Pasado simple",
+            "Presente simple",
+            "Used to",
+            "Presente continuo"
+          ],
+          "correcta": 0,
+          "explicacion": "Listened es el pasado de listen."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "TOWN",
+          "pista": "Ciudad o pueblo, en inglés."
+        },
+        {
+          "palabra": "FARM",
+          "pista": "Granja, en inglés."
+        },
+        {
+          "palabra": "QUIET",
+          "pista": "Tranquilo, en inglés."
+        },
+        {
+          "palabra": "NOISY",
+          "pista": "Ruidoso, en inglés."
+        },
+        {
+          "palabra": "COUNTRY",
+          "pista": "En esta clase: el campo."
+        },
+        {
+          "palabra": "STREET",
+          "pista": "Calle, en inglés."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "There used to be a park here.",
+            "There use to be a park here.",
+            "There used to is a park here.",
+            "There was used to a park here."
+          ],
+          "correcta": 0,
+          "explicacion": "There used to be: antes había."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué tiempos combina la carta de la abuela?",
+          "opciones": [
+            "Pasado simple, used to y presente simple",
+            "Presente simple, futuro y used to",
+            "Presente simple, presente continuo y futuro",
+            "Pasado simple, futuro y presente simple"
+          ],
+          "correcta": 0,
+          "explicacion": "Cada tiempo tiene su función: hechos, costumbres de antes y cómo es ahora."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En \"We didn't use to have a TV, so we listened to the radio\", so muestra una consecuencia.",
+          "respuesta": true,
+          "explicacion": "No tenían tele, así que escuchaban la radio."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "[[used to]]",
+      "definicion": "Solía, -aba: hábitos o situaciones del pasado que ya no ocurren."
+    },
+    {
+      "palabra": "[[didn't use to]]",
+      "definicion": "No solía: el negativo de used to (sin d en use)."
+    },
+    {
+      "palabra": "[[there used to be]]",
+      "definicion": "Antes había."
+    },
+    {
+      "palabra": "[[nowadays]]",
+      "definicion": "Hoy en día."
+    },
+    {
+      "palabra": "[[in the past]]",
+      "definicion": "En el pasado."
+    },
+    {
+      "palabra": "[[mobile phone]]",
+      "definicion": "Teléfono celular."
+    },
+    {
+      "palabra": "[[so]]",
+      "definicion": "Así que: presenta una consecuencia."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "Did you used to play football?",
+      "aclaracion": "Con did se escribe use to, sin d: Did you use to play football?"
+    },
+    {
+      "error": "She used to likes vegetables.",
+      "aclaracion": "Después de used to va el verbo base: She used to like vegetables."
+    },
+    {
+      "error": "Now my grandmother send messages.",
+      "aclaracion": "Con she, el presente simple lleva -s: Now my grandmother sends messages."
+    }
+  ],
+  "personaje_intro": {
+    "porPersonaje": {
+      "lucy": {
+        "texto": "Hoy te cuento cómo era yo antes y cómo soy ahora. ¡Cambié bastante!"
+      },
+      "ben": {
+        "texto": "Hoy te cuento cómo era yo antes y cómo soy ahora. ¡Cambié bastante!"
+      },
+      "mia": {
+        "texto": "Hoy te cuento cómo era yo antes y cómo soy ahora. ¡Cambié bastante!"
+      },
+      "liam": {
+        "texto": "Hoy te cuento cómo era yo antes y cómo soy ahora. ¡Cambié bastante!"
+      }
+    }
+  }
+}

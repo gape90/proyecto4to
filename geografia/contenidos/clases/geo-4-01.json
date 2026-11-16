@@ -1,0 +1,1113 @@
+{
+ "id": "geo-4-01",
+ "espacio": "geografia",
+ "eje": "Los Estados y la construcción de territorios",
+ "titulo": "Conflictos territoriales en Medio Oriente",
+ "intro": "En Medio Oriente, dos pueblos reclaman el mismo territorio y varios Estados vivieron crisis que cambiaron quién controla cada lugar. Vas a ver cómo se fueron trazando las líneas entre israelíes y palestinos desde 1947 y qué pasó con la Primavera Árabe.",
+ "objetivos": [
+  "Explicar qué son el Estado, el territorio y la frontera, y usarlos para presentar el conflicto entre israelíes y palestinos.",
+  "Describir cómo cambió el mapa de ese territorio entre 1947 y 1995 y qué reclama cada parte.",
+  "Relacionar la inestabilidad política del mundo árabe con el control del territorio."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: los conceptos de Estado, territorio y frontera, las etapas del mapa entre 1947 y 1995, los reclamos de cada parte y la cadena de causas y consecuencias de la Primavera Árabe.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Un territorio reclamado por dos pueblos",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Una pregunta para arrancar",
+     "texto": "¿Qué hace falta para que un pedazo de tierra sea \"de\" un país? ¿Alcanza con vivir ahí? ¿Con que lo diga un mapa? Pensalo un momento: esa pregunta es el centro de esta clase."
+    },
+    {
+     "t": "texto",
+     "titulo": "Estado, territorio y frontera",
+     "texto": "El **Estado** es el conjunto de instituciones que gobiernan, regulan y organizan una sociedad y el lugar donde vive. Ese lugar es su **territorio**: la porción de superficie terrestre (con su mar y su espacio aéreo) sobre la que el Estado ejerce su autoridad. El límite entre el territorio de un Estado y el de otro es la **frontera**.\n\nUna frontera no es una línea natural: la acuerdan o la imponen las sociedades, y por eso puede cambiar. Cuando dos grupos reclaman el mismo territorio, aparece un **conflicto territorial**."
+    },
+    {
+     "t": "texto",
+     "titulo": "Dónde queda Medio Oriente",
+     "texto": "**Medio Oriente** es la región del suroeste de Asia que rodea el extremo este del mar Mediterráneo y llega hasta el golfo Pérsico. Suele incluir también a Egipto, en el noreste de África.\n\nEn la costa del Mediterráneo, entre Líbano, Siria, Jordania y Egipto, hay un territorio pequeño (apenas más grande que la provincia de Tucumán) que reclaman dos pueblos: el **israelí** y el **palestino**. Ahí está **Jerusalén**, una ciudad sagrada para tres religiones."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-01-jerusalen.jpg",
+     "tipo": "foto",
+     "alt": "Fotografía panorámica en blanco y negro: a la izquierda, la muralla de la Ciudad Vieja de Jerusalén y una gran cúpula; detrás, la ciudad con torres y techos; adelante, lomas con olivos y algunas casas de piedra.",
+     "epigrafe": "Vista de la Ciudad Vieja de Jerusalén desde el monte Scopus, a mediados del siglo XX. A la izquierda se ve la Cúpula de la Roca.",
+     "fuente": "Foto: Willem van de Poll (Nationaal Archief), CC BY-SA 4.0, vía Wikimedia Commons.",
+     "animacion": "acercar"
+    },
+    {
+     "t": "comparar",
+     "titulo": "Jerusalén, ciudad sagrada para tres religiones",
+     "columnas": [
+      "Religión",
+      "Lugar sagrado en la Ciudad Vieja"
+     ],
+     "filas": [
+      [
+       "Judaísmo",
+       "El Muro Occidental (también llamado Muro de los Lamentos)"
+      ],
+      [
+       "Cristianismo",
+       "La iglesia del Santo Sepulcro"
+      ],
+      [
+       "Islam",
+       "La Explanada de las Mezquitas, con la Cúpula de la Roca y la mezquita de Al-Aqsa"
+      ]
+     ]
+    },
+    {
+     "t": "texto",
+     "titulo": "Dos movimientos, una misma tierra",
+     "texto": "Después de la Primera Guerra Mundial, ese territorio quedó bajo administración del Reino Unido: fue el **Mandato británico de Palestina**, que duró hasta 1948. Allí vivían una mayoría árabe y una comunidad judía que creció con la llegada de inmigrantes.\n\nDos movimientos nacionales reclamaban la misma tierra. El **sionismo** buscaba un Estado para el pueblo judío en la tierra que considera su origen histórico. El **nacionalismo palestino** buscaba un Estado para la población árabe que vivía allí desde hacía siglos. Los dos se apoyan en una historia larga en ese lugar."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Un **Estado** gobierna un **territorio** delimitado por **fronteras**. En Medio Oriente, israelíes y palestinos reclaman el mismo territorio, que fue el **Mandato británico de Palestina** hasta 1948. **Jerusalén** es sagrada para el judaísmo, el cristianismo y el islam."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada religión con su lugar sagrado en Jerusalén.",
+     "pares": [
+      {
+       "a": "Judaísmo",
+       "b": "El Muro Occidental"
+      },
+      {
+       "a": "Cristianismo",
+       "b": "La iglesia del Santo Sepulcro"
+      },
+      {
+       "a": "Islam",
+       "b": "La Cúpula de la Roca y la mezquita de Al-Aqsa"
+      }
+     ],
+     "explicacion": "Los tres lugares están en la Ciudad Vieja, a pocos metros unos de otros. Por eso Jerusalén es uno de los temas más difíciles de resolver.",
+     "pista": "Volvé a mirar la tabla sobre Jerusalén."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "El [[Estado]] gobierna y organiza una sociedad. Ejerce su autoridad sobre un [[territorio]], que termina en la [[frontera]]. Cuando dos grupos reclaman el mismo lugar, hay un conflicto [[territorial]].",
+     "distractores": [
+      "clima",
+      "continente",
+      "natural"
+     ],
+     "explicacion": "Estos conceptos sirven para cualquier país, no solo para Medio Oriente.",
+     "pista": "Releé el texto sobre Estado, territorio y frontera."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🗣️ ¿Quién lo diría?",
+     "pregunta": "Esta frase es inventada: \"Mis antepasados vivieron en esta tierra y queremos tener aquí nuestro propio Estado\". ¿Quién podría decirla?",
+     "opciones": [
+      "Solo una persona del movimiento sionista",
+      "Solo una persona del nacionalismo palestino",
+      "Una persona de cualquiera de los dos movimientos",
+      "Un funcionario del Mandato británico"
+     ],
+     "correcta": 2,
+     "explicacion": "Los dos movimientos reclaman un Estado propio en la misma tierra y los dos se apoyan en una historia larga en ese lugar. Ahí está el centro del conflicto.",
+     "pista": "Releé el texto sobre los dos movimientos: ¿qué buscaba cada uno?"
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "Las fronteras son líneas naturales que no cambian.",
+       "v": false,
+       "explicacion": "Las acuerdan o las imponen las sociedades, y pueden cambiar."
+      },
+      {
+       "texto": "El Mandato británico de Palestina duró hasta 1948.",
+       "v": true,
+       "explicacion": "Después de la Primera Guerra Mundial el territorio quedó bajo administración del Reino Unido."
+      },
+      {
+       "texto": "Jerusalén es sagrada solo para el islam.",
+       "v": false,
+       "explicacion": "Es sagrada para el judaísmo, el cristianismo y el islam."
+      },
+      {
+       "texto": "Medio Oriente está en el suroeste de Asia.",
+       "v": true,
+       "explicacion": "Rodea el extremo este del Mediterráneo y suele incluir a Egipto."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué un conflicto por un territorio tan chico puede ser tan difícil de resolver?",
+     "respuesta": "Porque los dos pueblos sienten esa tierra como propia y tienen razones históricas, religiosas y familiares para reclamarla. Y los lugares más importantes, como Jerusalén, no se pueden dividir fácilmente: están uno al lado del otro."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué son el Estado, el territorio y la frontera, y usá esos conceptos para presentar el conflicto entre israelíes y palestinos: dónde ocurre y por qué los dos pueblos reclaman la misma tierra.",
+    "guia": [
+     "¿Qué es un Estado y qué es su territorio?",
+     "¿Por qué decimos que una frontera puede cambiar?",
+     "¿Dónde queda Medio Oriente?",
+     "¿Qué fue el Mandato británico de Palestina y hasta cuándo duró?",
+     "¿Qué buscaban el sionismo y el nacionalismo palestino?",
+     "¿Por qué Jerusalén es importante para tres religiones?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Una frontera es el límite entre el territorio de un Estado y el de otro.",
+     "respuesta": true,
+     "explicacion": "Así se define la frontera."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Medio Oriente está en América del Sur.",
+     "respuesta": false,
+     "explicacion": "Está en el suroeste de Asia, junto al Mediterráneo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Jerusalén es sagrada para tres religiones.",
+     "respuesta": true,
+     "explicacion": "Judaísmo, cristianismo e islam."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El Mandato británico de Palestina terminó en 1948.",
+     "respuesta": true,
+     "explicacion": "Duró desde la Primera Guerra Mundial hasta 1948."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El sionismo buscaba un Estado para la población árabe.",
+     "respuesta": false,
+     "explicacion": "Buscaba un Estado para el pueblo judío; el nacionalismo palestino, uno para la población árabe."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El territorio de un Estado incluye también su mar y su espacio aéreo.",
+     "respuesta": true,
+     "explicacion": "No es solo la tierra firme."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es el territorio de un Estado?",
+     "opciones": [
+      "La cantidad de habitantes",
+      "El idioma oficial",
+      "La porción de superficie sobre la que ejerce su autoridad",
+      "Su forma de gobierno"
+     ],
+     "correcta": 2,
+     "explicacion": "Es la porción de superficie, con su mar y espacio aéreo, donde el Estado ejerce su autoridad."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué país administró el territorio hasta 1948?",
+     "opciones": [
+      "Reino Unido",
+      "Francia",
+      "Egipto",
+      "Turquía"
+     ],
+     "correcta": 0,
+     "explicacion": "Fue el Mandato británico de Palestina."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué lugar sagrado del islam está en Jerusalén?",
+     "opciones": [
+      "El Muro Occidental",
+      "La Cúpula de la Roca",
+      "La iglesia del Santo Sepulcro",
+      "La Ciudad Vieja de Roma"
+     ],
+     "correcta": 1,
+     "explicacion": "La Cúpula de la Roca, en la Explanada de las Mezquitas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué buscaba el nacionalismo palestino?",
+     "opciones": [
+      "Unirse a Europa",
+      "Un Estado para la población árabe que vivía allí",
+      "Mantener el Mandato británico",
+      "Un Estado para el pueblo judío"
+     ],
+     "correcta": 1,
+     "explicacion": "Un Estado propio para la población árabe del lugar."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuándo aparece un conflicto territorial?",
+     "opciones": [
+      "Cuando llueve poco",
+      "Cuando un país cambia de presidente",
+      "Cuando hay muchas ciudades",
+      "Cuando dos grupos reclaman el mismo territorio"
+     ],
+     "correcta": 3,
+     "explicacion": "Dos reclamos sobre el mismo lugar generan el conflicto."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué lugar sagrado del judaísmo está en Jerusalén?",
+     "opciones": [
+      "El Muro Occidental",
+      "La mezquita de Al-Aqsa",
+      "El Santo Sepulcro",
+      "La Cúpula de la Roca"
+     ],
+     "correcta": 0,
+     "explicacion": "El Muro Occidental, también llamado Muro de los Lamentos."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "ESTADO",
+     "pista": "Instituciones que gobiernan una sociedad y su territorio."
+    },
+    {
+     "palabra": "FRONTERA",
+     "pista": "Límite entre el territorio de un Estado y el de otro."
+    },
+    {
+     "palabra": "TERRITORIO",
+     "pista": "Superficie donde un Estado ejerce su autoridad."
+    },
+    {
+     "palabra": "JERUSALÉN",
+     "pista": "Ciudad sagrada para tres religiones."
+    },
+    {
+     "palabra": "MANDATO",
+     "pista": "Forma en que el Reino Unido administró el territorio hasta 1948."
+    },
+    {
+     "palabra": "SIONISMO",
+     "pista": "Movimiento que buscaba un Estado para el pueblo judío."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué decimos que las fronteras pueden cambiar?",
+     "opciones": [
+      "Porque las mueven los ríos",
+      "Porque las acuerdan o las imponen las sociedades",
+      "Porque cambian con las estaciones",
+      "Porque las fija la naturaleza"
+     ],
+     "correcta": 1,
+     "explicacion": "Las fronteras son decisiones humanas, no líneas naturales."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es el centro del conflicto entre israelíes y palestinos?",
+     "opciones": [
+      "El idioma",
+      "El clima de la región",
+      "Que los dos pueblos reclaman el mismo territorio",
+      "La falta de agua en el mar"
+     ],
+     "correcta": 2,
+     "explicacion": "Dos movimientos nacionales reclaman un Estado en la misma tierra."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué Jerusalén es tan difícil de dividir?",
+     "opciones": [
+      "Porque sus lugares sagrados para tres religiones están muy cerca entre sí",
+      "Porque está en el medio del mar",
+      "Porque no tiene habitantes",
+      "Porque es muy grande"
+     ],
+     "correcta": 0,
+     "explicacion": "Los lugares sagrados están a pocos metros unos de otros, en la Ciudad Vieja."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Cómo se fueron trazando las líneas",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Líneas que cambiaron en pocas décadas",
+     "texto": "Desde 1947, el mapa de este territorio cambió varias veces. Para entender el conflicto conviene ver esos cambios en orden. Usá los botones de año del mapa: en cada etapa vas a ver qué pasó y qué línea se trazó. Tené en cuenta que varias de esas líneas **no son fronteras reconocidas**: son planes, armisticios o zonas de control."
+    },
+    {
+     "t": "mapa_etapas",
+     "titulo": "El territorio entre 1947 y 1995",
+     "src": "img/clases/geo-4-01-mapa-etapas.svg",
+     "alt": "Mapa del territorio entre el mar Mediterráneo, Líbano, Siria, Jordania y Egipto, con una etapa por año: 1947, 1949, 1967 y 1993-1995. En cada etapa cambian las zonas coloreadas.",
+     "epigrafe": "Esquema elaborado para esta clase, aproximado. Contornos: Natural Earth. Plan de 1947: mapa de la CIA (dominio público), vía Wikimedia Commons.",
+     "etapas": [
+      {
+       "anio": "1947",
+       "titulo": "El plan de partición de la ONU",
+       "capas": [
+        "p47"
+       ],
+       "texto": "El 29 de noviembre de 1947, la Asamblea General de la ONU aprobó la **Resolución 181**: proponía dividir el territorio en un Estado judío y un Estado árabe, con Jerusalén bajo un régimen internacional. Los representantes de la comunidad judía la aceptaron; los de la comunidad árabe la rechazaron. **El plan no llegó a aplicarse.**",
+       "leyenda": [
+        {
+         "color": "#4B4FA3",
+         "texto": "Estado judío propuesto"
+        },
+        {
+         "color": "#F0731E",
+         "texto": "Estado árabe propuesto"
+        },
+        {
+         "color": "#FFFFFF",
+         "texto": "Jerusalén, bajo administración internacional"
+        }
+       ]
+      },
+      {
+       "anio": "1949",
+       "titulo": "Las líneas de armisticio",
+       "capas": [
+        "a49"
+       ],
+       "texto": "El 14 de mayo de 1948 se proclamó el **Estado de Israel** y empezó una guerra con los países árabes vecinos. Los israelíes la llaman Guerra de Independencia. Los palestinos recuerdan esos hechos como la **Nakba** (\"catástrofe\"), porque unas 700.000 personas quedaron refugiadas, según la ONU.\n\nEn 1949 se firmaron armisticios. **Cisjordania** quedó bajo control de Jordania, la **Franja de Gaza** bajo control de Egipto y **Jerusalén** quedó dividida. Esas líneas de armisticio no son fronteras reconocidas.",
+       "leyenda": [
+        {
+         "color": "#4B4FA3",
+         "texto": "Israel"
+        },
+        {
+         "color": "#F0731E",
+         "texto": "Cisjordania (Jordania) y Gaza (Egipto)"
+        }
+       ]
+      },
+      {
+       "anio": "1967",
+       "titulo": "La guerra de los Seis Días",
+       "capas": [
+        "i67",
+        "o67"
+       ],
+       "texto": "En junio de 1967, después de una guerra con Egipto, Jordania y Siria, Israel pasó a controlar **Cisjordania** (con Jerusalén Este), **Gaza**, los **Altos del Golán** y la **península del Sinaí**. El Sinaí volvió a Egipto en 1982, después de un acuerdo de paz entre los dos países.",
+       "leyenda": [
+        {
+         "color": "#1B1A4A",
+         "texto": "Territorios bajo control israelí desde 1967",
+         "trama": true
+        }
+       ]
+      },
+      {
+       "anio": "1993-1995",
+       "titulo": "Los Acuerdos de Oslo",
+       "capas": [
+        "i67",
+        "os"
+       ],
+       "texto": "En 1993, Israel y la Organización para la Liberación de Palestina (OLP) se reconocieron mutuamente y acordaron negociar. Se creó la **Autoridad Palestina**, que pasó a administrar parte de Gaza y de Cisjordania. En 1995 Cisjordania se dividió en zonas A, B y C, con distinto grado de control palestino e israelí (en el mapa no se dibujan, porque están muy fragmentadas).\n\nQuedaron sin resolver los temas más difíciles: las fronteras definitivas, Jerusalén y los refugiados.",
+       "leyenda": [
+        {
+         "color": "#1B1A4A",
+         "texto": "Zonas donde la Autoridad Palestina administra una parte",
+         "trama": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "comparar",
+     "titulo": "Qué reclama cada parte",
+     "columnas": [
+      "",
+      "Quienes defienden la posición israelí",
+      "Quienes defienden la posición palestina"
+     ],
+     "filas": [
+      [
+       "Estado",
+       "Que Israel sea reconocido y pueda vivir en paz",
+       "Un Estado palestino propio, en Cisjordania y Gaza"
+      ],
+      [
+       "Fronteras",
+       "Fronteras seguras y reconocidas, que garanticen su seguridad",
+       "Tomar como base las líneas de 1967"
+      ],
+      [
+       "Jerusalén",
+       "Jerusalén como capital de Israel",
+       "Jerusalén Este como capital del Estado palestino"
+      ],
+      [
+       "Refugiados",
+       "Que los refugiados se instalen en un futuro Estado palestino y no en Israel",
+       "Que los refugiados de 1948 y sus descendientes puedan volver"
+      ]
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "El plan de la ONU de **1947** no se aplicó. En **1948** se proclamó Israel y hubo guerra; en **1949** se trazaron líneas de armisticio. En **1967** Israel pasó a controlar Cisjordania, Gaza, el Golán y el Sinaí. Con los **Acuerdos de Oslo** (1993-1995) se creó la Autoridad Palestina, pero las fronteras definitivas, Jerusalén y los refugiados siguen sin resolverse. El conflicto sigue abierto y en los últimos años hubo nuevos enfrentamientos."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená estos hechos del más antiguo al más reciente. Si no te acordás, recorré el mapa por etapas.",
+     "items": [
+      "La ONU aprueba el plan de partición",
+      "Se proclama el Estado de Israel",
+      "Se firman las líneas de armisticio",
+      "La guerra de los Seis Días",
+      "Los Acuerdos de Oslo"
+     ],
+     "explicacion": "1947, 1948, 1949, 1967 y 1993-1995.",
+     "pista": "Cada etapa del mapa tiene su año. El Estado de Israel se proclamó entre el plan y los armisticios."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🔍 Encontrá el error",
+     "pregunta": "Cuatro frases sobre el mapa; una tiene un error. ¿Cuál es?",
+     "opciones": [
+      "El plan de partición de 1947 no llegó a aplicarse.",
+      "En 1949, Gaza quedó bajo control de Egipto.",
+      "Las líneas de armisticio de 1949 son fronteras reconocidas por todos.",
+      "El Sinaí volvió a Egipto en 1982."
+     ],
+     "correcta": 2,
+     "explicacion": "Las líneas de armisticio no son fronteras reconocidas: marcan dónde terminó la guerra.",
+     "pista": "Releé la etapa de 1949 en el mapa."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "En 1949, ¿quién controlaba cada lugar? Buscalo en la etapa de 1949 del mapa.",
+     "categorias": [
+      "Israel",
+      "Jordania",
+      "Egipto"
+     ],
+     "items": [
+      {
+       "texto": "Cisjordania",
+       "cat": "Jordania"
+      },
+      {
+       "texto": "La Franja de Gaza",
+       "cat": "Egipto"
+      },
+      {
+       "texto": "Jerusalén Oeste",
+       "cat": "Israel"
+      },
+      {
+       "texto": "Jerusalén Este",
+       "cat": "Jordania"
+      }
+     ],
+     "explicacion": "Después de los armisticios, Cisjordania y Jerusalén Este quedaron bajo control de Jordania, Gaza bajo Egipto y Jerusalén Oeste bajo Israel.",
+     "pista": "Jerusalén quedó dividida: la parte este siguió a Cisjordania."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Buscá en el mapa el año del plan de partición de la ONU y el año en que empezaron los Acuerdos de Oslo. ¿Cuántos años pasaron entre uno y otro?",
+     "respuesta": "46",
+     "explicacion": "Del plan de 1947 a los acuerdos de 1993 pasaron 46 años, y los temas centrales todavía no se resolvieron.",
+     "pista1": "Los dos años están en la primera y en la última etapa del mapa.",
+     "pista": "El plan es de 1947 y los acuerdos empezaron en 1993: restá los dos años."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: si cada parte tiene sus razones, ¿qué tendría que pasar para que una frontera sea aceptada por las dos?",
+     "respuesta": "Una frontera es aceptada cuando las dos partes la negocian y la reconocen, y cuando otros Estados también la reconocen. Por eso los Acuerdos de Oslo dejaron las fronteras para una negociación posterior: sin acuerdo, las líneas siguen siendo zonas de control y no fronteras."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Contá cómo fue cambiando el mapa de este territorio entre 1947 y 1995. Para cada etapa, escribí qué pasó y qué línea se trazó. Cerrá con los temas que quedaron sin resolver, presentando lo que reclama cada parte sin tomar partido.",
+    "guia": [
+     "¿Qué proponía el plan de la ONU de 1947 y qué pasó con él?",
+     "¿Qué ocurrió en 1948 y cómo lo recuerda cada pueblo?",
+     "¿Quién controlaba Cisjordania y Gaza después de 1949?",
+     "¿Qué territorios pasó a controlar Israel en 1967?",
+     "¿Qué se acordó en Oslo y qué quedó pendiente?",
+     "¿Qué reclama cada parte sobre Jerusalén?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El plan de partición de la ONU de 1947 se aplicó por completo.",
+     "respuesta": false,
+     "explicacion": "No llegó a aplicarse."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El Estado de Israel se proclamó el 14 de mayo de 1948.",
+     "respuesta": true,
+     "explicacion": "Ese día empezó la guerra con los países árabes vecinos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Después de 1949, Cisjordania quedó bajo control de Jordania.",
+     "respuesta": true,
+     "explicacion": "Y Gaza, bajo control de Egipto."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En 1967 Israel pasó a controlar el Sinaí, que volvió a Egipto en 1982.",
+     "respuesta": true,
+     "explicacion": "Volvió después de un acuerdo de paz."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los Acuerdos de Oslo resolvieron el tema de Jerusalén.",
+     "respuesta": false,
+     "explicacion": "Jerusalén quedó entre los temas sin resolver."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las líneas de armisticio de 1949 son fronteras reconocidas.",
+     "respuesta": false,
+     "explicacion": "Son líneas de armisticio: marcan dónde terminó la guerra."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué organismo aprobó el plan de partición de 1947?",
+     "opciones": [
+      "La OEA",
+      "La ONU",
+      "La Unión Europea",
+      "La OLP"
+     ],
+     "correcta": 1,
+     "explicacion": "La Asamblea General de la ONU, con la Resolución 181."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo recuerdan los palestinos los hechos de 1948?",
+     "opciones": [
+      "Como la Nakba",
+      "Como la Guerra Fría",
+      "Como la Primavera Árabe",
+      "Como Oslo"
+     ],
+     "correcta": 0,
+     "explicacion": "Nakba significa \"catástrofe\"."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué se creó con los Acuerdos de Oslo?",
+     "opciones": [
+      "El Estado de Israel",
+      "El Mandato británico",
+      "La Autoridad Palestina",
+      "La ONU"
+     ],
+     "correcta": 2,
+     "explicacion": "La Autoridad Palestina pasó a administrar parte de Gaza y de Cisjordania."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué proponía el plan de 1947 para Jerusalén?",
+     "opciones": [
+      "Que fuera capital de Israel",
+      "Que fuera de Jordania",
+      "Que se dividiera en tres",
+      "Un régimen internacional"
+     ],
+     "correcta": 3,
+     "explicacion": "La ciudad quedaría bajo administración internacional."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos temas quedó sin resolver después de Oslo?",
+     "opciones": [
+      "Las fronteras definitivas",
+      "La existencia de la ONU",
+      "El nombre del Mediterráneo",
+      "El fin del Mandato británico"
+     ],
+     "correcta": 0,
+     "explicacion": "Fronteras, Jerusalén y refugiados quedaron pendientes."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuántas personas quedaron refugiadas en 1948, según la ONU?",
+     "opciones": [
+      "Unas 7.000",
+      "Unas 70.000",
+      "Unas 700.000",
+      "Unos 7 millones"
+     ],
+     "correcta": 2,
+     "explicacion": "Unas 700.000 personas."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "PARTICIÓN",
+     "pista": "División de un territorio en partes, como propuso la ONU en 1947."
+    },
+    {
+     "palabra": "ARMISTICIO",
+     "pista": "Acuerdo para terminar los combates, como los de 1949."
+    },
+    {
+     "palabra": "NAKBA",
+     "pista": "\"Catástrofe\": así recuerdan los palestinos 1948."
+    },
+    {
+     "palabra": "CISJORDANIA",
+     "pista": "Territorio al oeste del río Jordán."
+    },
+    {
+     "palabra": "OSLO",
+     "pista": "Ciudad que da nombre a los acuerdos de 1993-1995."
+    },
+    {
+     "palabra": "REFUGIADOS",
+     "pista": "Personas que tuvieron que dejar su lugar y no pudieron volver."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué en el mapa se habla de \"líneas\" y no de \"fronteras\" en 1949?",
+     "opciones": [
+      "Porque eran planes que nunca se dibujaron",
+      "Porque eran líneas de armisticio, no fronteras reconocidas",
+      "Porque eran ríos",
+      "Porque las dibujó la ONU"
+     ],
+     "correcta": 1,
+     "explicacion": "Marcan dónde terminó la guerra; no fueron reconocidas como fronteras."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué cambió en 1967?",
+     "opciones": [
+      "Se aprobó el plan de la ONU",
+      "Se creó la Autoridad Palestina",
+      "Terminó el Mandato británico",
+      "Israel pasó a controlar Cisjordania, Gaza, el Golán y el Sinaí"
+     ],
+     "correcta": 3,
+     "explicacion": "Fue el resultado de la guerra de los Seis Días."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas frases presenta el reclamo sobre Jerusalén sin tomar partido?",
+     "opciones": [
+      "Jerusalén es de Israel y no hay nada que discutir",
+      "Jerusalén es palestina y no hay nada que discutir",
+      "Israel la reclama como capital y los palestinos reclaman Jerusalén Este como capital",
+      "Jerusalén no le importa a nadie"
+     ],
+     "correcta": 2,
+     "explicacion": "Presenta los dos reclamos tal como los sostiene cada parte."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "La inestabilidad política en el mundo árabe",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Cuando el Estado pierde el control",
+     "texto": "Hasta ahora viste un conflicto entre dos pueblos por un territorio. Pero en Medio Oriente también hubo **inestabilidad política dentro de los Estados**: gobiernos que caen, protestas masivas y, en algunos casos, guerras internas. Cuando eso pasa, el Estado puede perder el control de partes de su propio territorio, y distintos grupos pasan a dominarlas."
+    },
+    {
+     "t": "texto",
+     "titulo": "La Primavera Árabe",
+     "texto": "En diciembre de 2010, en **Túnez**, la protesta de un joven vendedor ambulante contra el maltrato de las autoridades desató manifestaciones en todo el país. En pocas semanas, las protestas se extendieron a otros países árabes. Ese proceso se conoce como **Primavera Árabe**.\n\nMuchas de esas personas, sobre todo jóvenes, reclamaban trabajo, libertades y el fin de gobiernos que llevaban décadas en el poder. Los celulares y las redes sociales ayudaron a difundir las convocatorias."
+    },
+    {
+     "t": "pasos",
+     "titulo": "Cadena de causas y consecuencias",
+     "pasos": [
+      {
+       "titulo": "Causas",
+       "texto": "Desempleo entre los jóvenes, suba del precio de los alimentos, gobiernos que llevaban décadas en el poder y falta de libertades."
+      },
+      {
+       "titulo": "El desencadenante",
+       "texto": "En diciembre de 2010, una protesta en Túnez desata manifestaciones en todo el país."
+      },
+      {
+       "titulo": "La expansión",
+       "texto": "En 2011 las protestas llegan a Egipto, Libia, Siria y otros países árabes, difundidas también por redes sociales."
+      },
+      {
+       "titulo": "Consecuencias",
+       "texto": "Caen varios gobiernos. En algunos países hay cambios institucionales; en otros, enfrentamientos armados, territorios divididos y millones de personas que dejan sus hogares."
+      }
+     ]
+    },
+    {
+     "t": "comparar",
+     "titulo": "Cuatro países, cuatro caminos",
+     "columnas": [
+      "País",
+      "Qué pasó en 2011",
+      "Qué pasó después"
+     ],
+     "filas": [
+      [
+       "Túnez",
+       "Cae el gobierno de Ben Ali, que llevaba 23 años",
+       "En 2014 se aprueba una nueva Constitución"
+      ],
+      [
+       "Egipto",
+       "Renuncia Hosni Mubarak, que llevaba casi 30 años",
+       "Hay elecciones en 2012; en 2013 las Fuerzas Armadas desplazan al presidente electo"
+      ],
+      [
+       "Libia",
+       "Cae el gobierno de Muammar el Gadafi, que llevaba 42 años",
+       "Distintos grupos se enfrentan y llega a haber gobiernos rivales"
+      ],
+      [
+       "Siria",
+       "Las protestas se convierten en una guerra interna",
+       "Una guerra de más de diez años; millones de personas dejan el país"
+      ]
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "La **Primavera Árabe** empezó en Túnez en diciembre de 2010 y se extendió en 2011. Sus **causas** fueron el desempleo juvenil, la suba de precios, los gobiernos de muchos años y la falta de libertades. Las **consecuencias** fueron distintas en cada país: en algunos, cambios de gobierno; en otros, guerras internas y Estados que perdieron el control de parte de su territorio."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada país con lo que pasó después de 2011, según la tabla de los cuatro países.",
+     "pares": [
+      {
+       "a": "Túnez",
+       "b": "Nueva Constitución en 2014"
+      },
+      {
+       "a": "Egipto",
+       "b": "Elecciones en 2012 y desplazamiento del presidente electo en 2013"
+      },
+      {
+       "a": "Libia",
+       "b": "Grupos enfrentados y gobiernos rivales"
+      },
+      {
+       "a": "Siria",
+       "b": "Guerra interna de más de diez años"
+      }
+     ],
+     "explicacion": "Un mismo proceso tuvo resultados muy distintos según el país.",
+     "pista": "Mirá la última columna de la tabla."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "📰 Elegí el titular",
+     "pregunta": "Es febrero de 2011 y un periodista escribe sobre Egipto. ¿Qué titular corresponde?",
+     "opciones": [
+      "\"Se aprueba una nueva Constitución en Túnez\"",
+      "\"Renuncia Mubarak después de casi 30 años en el poder\"",
+      "\"Termina la guerra en Siria\"",
+      "\"La ONU aprueba el plan de partición\""
+     ],
+     "correcta": 1,
+     "explicacion": "En 2011 renunció Hosni Mubarak, que llevaba casi 30 años en el poder.",
+     "pista": "Buscá en la tabla la fila de Egipto y fijate qué pasó en 2011."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "La Primavera Árabe empezó en [[Túnez]] en diciembre de 2010. Muchas personas, sobre todo jóvenes, reclamaban [[trabajo]] y libertades. Las [[redes]] sociales ayudaron a difundir las protestas. En algunos países, el Estado perdió el control de parte de su [[territorio]].",
+     "distractores": [
+      "Egipto",
+      "alimentos",
+      "fronteras"
+     ],
+     "explicacion": "Así se resume cómo empezó y qué consecuencias tuvo.",
+     "pista": "Releé el texto sobre la Primavera Árabe y la cadena de causas y consecuencias."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "La Primavera Árabe empezó en Egipto.",
+       "v": false,
+       "explicacion": "Empezó en Túnez, en diciembre de 2010."
+      },
+      {
+       "texto": "El desempleo juvenil fue una de las causas.",
+       "v": true,
+       "explicacion": "Está entre las causas de la cadena."
+      },
+      {
+       "texto": "En todos los países el resultado fue el mismo.",
+       "v": false,
+       "explicacion": "Cada país siguió un camino distinto, como muestra la tabla."
+      },
+      {
+       "texto": "En Siria, las protestas se convirtieron en una guerra interna.",
+       "v": true,
+       "explicacion": "Duró más de diez años y millones de personas dejaron el país."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿qué relación hay entre la inestabilidad política y el control del territorio?",
+     "respuesta": "Un Estado estable controla todo su territorio: cobra impuestos, mantiene el orden y presta servicios en todas partes. Cuando hay una guerra interna, distintos grupos dominan distintas zonas y el Estado deja de ejercer su autoridad en ellas. El territorio queda dividido aunque la frontera exterior siga igual."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué fue la Primavera Árabe usando una cadena de causas y consecuencias. Después elegí dos países de la tabla y compará qué pasó en cada uno. Cerrá explicando qué relación hay entre la inestabilidad política y el control del territorio.",
+    "guia": [
+     "¿Dónde y cuándo empezó la Primavera Árabe?",
+     "¿Cuáles fueron sus causas principales?",
+     "¿Qué papel tuvieron las redes sociales?",
+     "¿Qué pasó en los dos países que elegiste?",
+     "¿Por qué un Estado puede perder el control de parte de su territorio?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La Primavera Árabe empezó en Túnez en diciembre de 2010.",
+     "respuesta": true,
+     "explicacion": "Desde allí se extendió a otros países."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Ben Ali gobernaba Túnez desde hacía 23 años.",
+     "respuesta": true,
+     "explicacion": "Su gobierno cayó en 2011."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Hosni Mubarak siguió gobernando Egipto después de 2011.",
+     "respuesta": false,
+     "explicacion": "Renunció en 2011."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En Libia, después de 2011, llegó a haber gobiernos rivales.",
+     "respuesta": true,
+     "explicacion": "Distintos grupos se enfrentaron."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las redes sociales no tuvieron ningún papel en las protestas.",
+     "respuesta": false,
+     "explicacion": "Ayudaron a difundir las convocatorias."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En Túnez se aprobó una nueva Constitución en 2014.",
+     "respuesta": true,
+     "explicacion": "Fue uno de los cambios institucionales."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál fue una de las causas de la Primavera Árabe?",
+     "opciones": [
+      "El desempleo juvenil",
+      "Un terremoto",
+      "El plan de la ONU de 1947",
+      "La falta de lluvias en Europa"
+     ],
+     "correcta": 0,
+     "explicacion": "El desempleo entre los jóvenes."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuántos años llevaba Gadafi en el poder en Libia?",
+     "opciones": [
+      "10",
+      "23",
+      "30",
+      "42"
+     ],
+     "correcta": 3,
+     "explicacion": "Llevaba 42 años."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué pasó en Egipto en 2013?",
+     "opciones": [
+      "Se aprobó una nueva Constitución",
+      "Las Fuerzas Armadas desplazaron al presidente electo",
+      "Empezó la Primavera Árabe",
+      "Terminó el Mandato británico"
+     ],
+     "correcta": 1,
+     "explicacion": "En 2013 las Fuerzas Armadas desplazaron al presidente electo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué país las protestas se convirtieron en una guerra de más de diez años?",
+     "opciones": [
+      "Túnez",
+      "Egipto",
+      "Siria",
+      "Marruecos"
+     ],
+     "correcta": 2,
+     "explicacion": "En Siria."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué puede pasar cuando un Estado vive una guerra interna?",
+     "opciones": [
+      "Gana territorio",
+      "Pierde el control de partes de su territorio",
+      "Cambia de continente",
+      "Deja de tener frontera exterior"
+     ],
+     "correcta": 1,
+     "explicacion": "Distintos grupos dominan distintas zonas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué reclamaban muchas personas en las protestas?",
+     "opciones": [
+      "Más impuestos",
+      "Volver al Mandato británico",
+      "Cerrar las escuelas",
+      "Trabajo y libertades"
+     ],
+     "correcta": 3,
+     "explicacion": "Trabajo, libertades y el fin de gobiernos de muchos años."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "PRIMAVERA",
+     "pista": "Nombre que recibió la ola de protestas en el mundo árabe."
+    },
+    {
+     "palabra": "TÚNEZ",
+     "pista": "País donde empezaron las protestas en 2010."
+    },
+    {
+     "palabra": "PROTESTA",
+     "pista": "Manifestación pública para reclamar algo."
+    },
+    {
+     "palabra": "DESEMPLEO",
+     "pista": "Falta de trabajo, una de las causas."
+    },
+    {
+     "palabra": "SIRIA",
+     "pista": "País donde las protestas se convirtieron en guerra."
+    },
+    {
+     "palabra": "INESTABILIDAD",
+     "pista": "Situación en la que caen gobiernos y hay conflictos."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tienen en común las causas de la Primavera Árabe?",
+     "opciones": [
+      "Eran todas problemas climáticos",
+      "Eran problemas económicos y políticos que afectaban a mucha gente",
+      "Venían todas de otros continentes",
+      "Eran conflictos entre dos países"
+     ],
+     "correcta": 1,
+     "explicacion": "Desempleo, precios, gobiernos de muchos años y falta de libertades."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué muestra la tabla de los cuatro países?",
+     "opciones": [
+      "Que el proceso terminó igual en todos lados",
+      "Que solo Túnez tuvo protestas",
+      "Que el mismo proceso tuvo resultados muy distintos según el país",
+      "Que ningún gobierno cayó"
+     ],
+     "correcta": 2,
+     "explicacion": "Hubo cambios institucionales en unos y guerras en otros."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué la inestabilidad política es un tema de Geografía?",
+     "opciones": [
+      "Porque cambia quién controla cada parte del territorio",
+      "Porque cambia el clima",
+      "Porque mueve las placas tectónicas",
+      "Porque cambia el nombre de los mares"
+     ],
+     "correcta": 0,
+     "explicacion": "Cuando el Estado pierde control, el territorio queda dividido entre grupos."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Estado",
+   "definicion": "Conjunto de instituciones que gobiernan y organizan una sociedad y su territorio."
+  },
+  {
+   "palabra": "Territorio",
+   "definicion": "Porción de superficie, con su mar y espacio aéreo, sobre la que un Estado ejerce su autoridad."
+  },
+  {
+   "palabra": "Frontera",
+   "definicion": "Límite entre el territorio de un Estado y el de otro; la acuerdan o la imponen las sociedades."
+  },
+  {
+   "palabra": "Partición",
+   "definicion": "División de un territorio en partes, como la que propuso la ONU en 1947."
+  },
+  {
+   "palabra": "Armisticio",
+   "definicion": "Acuerdo para terminar los combates; sus líneas no son fronteras reconocidas."
+  },
+  {
+   "palabra": "Refugiado",
+   "definicion": "Persona que tuvo que dejar su lugar de origen y no puede volver."
+  },
+  {
+   "palabra": "Inestabilidad política",
+   "definicion": "Situación en la que caen gobiernos, hay protestas masivas o guerras internas."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "La ONU dividió el territorio en 1947 y así quedó.",
+   "aclaracion": "El plan de partición de 1947 no llegó a aplicarse. Las líneas actuales vienen de los armisticios de 1949 y de la guerra de 1967."
+  },
+  {
+   "error": "Las líneas del mapa son fronteras reconocidas.",
+   "aclaracion": "Varias son líneas de armisticio o zonas de control. Las fronteras definitivas siguen sin acordarse."
+  },
+  {
+   "error": "La Primavera Árabe terminó igual en todos los países.",
+   "aclaracion": "En Túnez hubo una nueva Constitución; en Libia y Siria, enfrentamientos armados y territorios divididos."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "¿Conocés otros lugares del mundo donde dos Estados o dos pueblos reclaman el mismo territorio? ¿Qué tienen en común con el caso que viste en esta clase?",
+  "conexion": "Con la clase de migraciones y refugiados: allí vas a ver qué pasa con las personas que dejan sus hogares por conflictos como los de Siria."
+ }
+}

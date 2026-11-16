@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 650" role="img" aria-label="Las reglas generales de acentuación" font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect width="500" height="650" fill="#FFFFFF"/>
+<text x="250" y="50" text-anchor="middle" font-size="24" font-weight="800" fill="#5B2A86">Las reglas generales de</text><text x="250" y="80" text-anchor="middle" font-size="24" font-weight="800" fill="#5B2A86">acentuación</text>
+<rect x="20" y="120" width="460" height="50" rx="14" fill="#E2DAF6" stroke="#5B2A86" stroke-width="2.5"/>
+<text x="250" y="152" text-anchor="middle" font-size="20" font-weight="700" fill="#1B1A4A">Aguda (tónica en la última sílaba)</text>
+<rect x="20" y="178" width="460" height="84" rx="12" fill="#EFEAFB" stroke="#4B4FA3" stroke-width="2" stroke-dasharray="7 6"/>
+<rect x="20" y="288" width="460" height="50" rx="14" fill="#E2DAF6" stroke="#5B2A86" stroke-width="2.5"/>
+<text x="250" y="320" text-anchor="middle" font-size="20" font-weight="700" fill="#1B1A4A">Grave (tónica en la anteúltima)</text>
+<rect x="20" y="346" width="460" height="84" rx="12" fill="#EFEAFB" stroke="#4B4FA3" stroke-width="2" stroke-dasharray="7 6"/>
+<rect x="20" y="456" width="460" height="76" rx="14" fill="#E2DAF6" stroke="#5B2A86" stroke-width="2.5"/>
+<text x="250" y="488" text-anchor="middle" font-size="20" font-weight="700" fill="#1B1A4A">Esdrújula (tónica en la</text><text x="250" y="514" text-anchor="middle" font-size="20" font-weight="700" fill="#1B1A4A">antepenúltima)</text>
+<rect x="20" y="540" width="460" height="84" rx="12" fill="#EFEAFB" stroke="#4B4FA3" stroke-width="2" stroke-dasharray="7 6"/>
+</svg>

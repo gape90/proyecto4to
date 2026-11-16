@@ -1,0 +1,89 @@
+IMÁGENES DE LAS CLASES · Lengua y Literatura
+============================================
+Nombre de cada archivo: código de la clase + tema (ej.: len-4-02-familia.svg).
+
+Tipos (se indica en el contenido de la clase, campo "tipo"):
+  foto      fotografía. Siempre con fuente (preferentemente Wikimedia Commons, dominio público).
+  recreada  ilustración hecha hoy (por ejemplo con IA). La plataforma aclara sola que no es una fotografía de la época.
+            Nunca retratos de personas reales.
+  grafico   esquemas y gráficos hechos para la clase (.svg). Los que tienen versión para celular terminan en -movil.svg.
+
+Si una imagen todavía no está en esta carpeta, la clase muestra "Imagen en preparación" y sigue funcionando.
+Criterio: una imagen solo si ayuda a comprender lo que YA está en la clase, o para ambientar. Nunca suma contenidos nuevos.
+No toda imagen lleva actividad. Cada parte tiene 1 o 2 imágenes.
+
+Clase 1 · Cómo analizar una obra literaria:
+  len-4-01-teatro-dioniso.jpg  para ambientar, movimiento "acercar-izq", parte 1
+  len-4-01-contexto.svg  para ambientar, parte 1
+  len-4-01-quijote.jpg  para ambientar, movimiento "bajar", parte 2
+  len-4-01-generos.svg  ilustración con preguntas, parte 2
+  len-4-01-narrador.svg (+ -movil.svg)  esquema para completar, parte 3
+Clase 2 · La tragedia griega:
+  len-4-02-epidauro.jpg  para ambientar, movimiento "alejar", parte 1
+  len-4-02-mascaras.svg  ilustración con preguntas, parte 1
+  len-4-02-sofocles.jpg  para ambientar, movimiento "subir", parte 2
+  len-4-02-familia.svg (+ -movil.svg)  esquema para completar, parte 2
+  len-4-02-balanza.svg  para ambientar, parte 3
+  len-4-02-lytras.jpg  para ambientar, movimiento "recorrer", parte 3
+Clase 3 · La épica: el relato de los héroes:
+  len-4-03-aedo.svg  para ambientar, parte 1
+  len-4-03-papiro.jpg  para ambientar, movimiento "bajar", parte 1
+  len-4-03-mosaico.jpg  para ambientar, movimiento "recorrer", parte 2
+  len-4-03-vasija.jpg  foto con preguntas, movimiento "acercar", parte 3
+  len-4-03-viaje.svg (+ -movil.svg)  esquema para completar, parte 3
+Clase 4 · Literatura latinoamericana y argentina:
+  len-4-04-revolucion.jpg  para ambientar, movimiento "alejar", parte 1
+  len-4-04-creciente.svg  ilustración con preguntas, animada, parte 1
+  len-4-04-quebrachos.jpg  para ambientar, movimiento "recorrer-izq", parte 2
+  len-4-04-regional.svg  para ambientar, parte 2
+  len-4-04-diario.svg  para ambientar, parte 3
+Clase 5 · El texto argumentativo: el ensayo y el debate:
+  len-4-05-partes.svg (+ -movil.svg)  esquema para completar, parte 1
+  len-4-05-conectores.svg  para ambientar, parte 2
+  len-4-05-debate.svg  ilustración con preguntas, parte 3
+Clase 6 · Textos para estudiar: resumen, notas e informe de lectura:
+  len-4-06-notas.svg  ilustración con preguntas, parte 1
+  len-4-06-biblioteca.jpg  para ambientar, movimiento "subir", parte 2
+  len-4-06-informe.svg (+ -movil.svg)  esquema para completar, parte 2
+  len-4-06-exposicion.svg  para ambientar, animada, parte 3
+Clase 7 · Mitos y leyendas: de Grecia a América:
+  len-4-07-popol-vuh.svg (+ -movil.svg)  esquema para completar, parte 1
+  len-4-07-popol-vuh.jpg  foto con preguntas, movimiento "bajar", parte 1
+  len-4-07-yerba.jpg  para ambientar, movimiento "subir", parte 2
+  len-4-07-yerba-b.jpg  para ambientar, movimiento "recorrer-izq", parte 2
+  len-4-07-mates.jpg  para ambientar, movimiento "acercar", parte 3
+Clase 8 · Tiempos verbales, puntuación y acentuación:
+  len-4-08-nebrija.jpg  para ambientar, movimiento "acercar", parte 1
+  len-4-08-tiempos.svg  para ambientar, parte 1
+  len-4-08-coma.svg  para ambientar, parte 2
+  len-4-08-acentuacion.svg (+ -movil.svg)  esquema para completar, parte 3
+Clase 9 · Registros y variedades del lenguaje:
+  len-4-09-humahuaca.jpg  para ambientar, movimiento "recorrer", parte 1
+  len-4-09-palabras.svg  para ambientar, parte 1
+  len-4-09-situacion.svg (+ -movil.svg)  esquema para completar, parte 2
+  len-4-09-registros.svg  ilustración con preguntas, parte 2
+  len-4-09-servidor.jpg  para ambientar, movimiento "acercar-izq", parte 3
+  len-4-09-web.svg  para ambientar, parte 3
+Clase 10 · Los textos técnicos:
+  len-4-10-multimetro.jpg  para ambientar, movimiento "bajar", parte 1
+  len-4-10-multimetro.svg  ilustración con preguntas, parte 1
+  len-4-10-informe.svg (+ -movil.svg)  esquema para completar, parte 2
+  len-4-10-carta.svg (+ -movil.svg)  esquema para completar, parte 3
+Clase 11 · Los discursos sociales:
+  len-4-11-modos.svg (+ -movil.svg)  esquema para completar, parte 1
+  len-4-11-divulgacion.svg  para ambientar, parte 2
+  len-4-11-constitucion.jpg  para ambientar, movimiento "subir", parte 3
+  len-4-11-aviso.svg  ilustración con preguntas, parte 3
+Clase 12 · El policial y el pensamiento científico:
+  len-4-12-taller.svg  ilustración con preguntas, parte 1
+  len-4-12-holmes.jpg  para ambientar, movimiento "alejar", parte 2
+  len-4-12-metodo.svg (+ -movil.svg)  esquema para completar, parte 2
+  len-4-12-laberinto.jpg  para ambientar, movimiento "recorrer-izq", parte 3
+  len-4-12-laberintos.svg  ilustración con preguntas, parte 3
+Clase 13 · La lengua como producto social:
+  len-4-13-coseriu.svg  para ambientar, parte 1
+  len-4-13-variacion.svg (+ -movil.svg)  esquema para completar, parte 2
+  len-4-13-prestamos.svg  para ambientar, animada, parte 3
+
+Las ilustraciones (.svg) las hizo Claude para estas clases: no son fotografías ni obras reales, y el aviso de la clase 11 es inventado.
+Fotos: todas de Wikimedia Commons. El registro completo de cada una (ficha, autor, licencia, epígrafe y fuente en pantalla) está en CREDITOS.md.

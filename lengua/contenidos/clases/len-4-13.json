@@ -1,0 +1,1027 @@
+{
+ "id": "len-4-13",
+ "espacio": "lengua",
+ "eje": "Reflexión sobre el lenguaje",
+ "titulo": "La lengua como producto social",
+ "intro": "La lengua que hablamos no la inventó nadie en particular: la construye una comunidad, cambia con el tiempo, varía según el lugar y el grupo, y está unida a quiénes somos. En esta clase vas a ver la lengua como producto social, sus variaciones y lo que pasa cuando las lenguas entran en contacto.",
+ "objetivos": [
+  "Explicar por qué la lengua es un producto social y distinguir sistema, norma y habla.",
+  "Reconocer la variación geográfica, social y temporal, y la jerga del oficio.",
+  "Explicar la relación entre lengua e identidad y reconocer lenguas en contacto."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés la lengua como producto social, los niveles de Coseriu, las dimensiones de la variación con la jerga de tu especialidad y ejemplos de lenguas en contacto.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "La lengua, un producto social",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Una lengua es de una comunidad",
+     "texto": "Ninguna persona inventó el español ni puede cambiarlo sola. Una lengua es un **producto social**: la crea y la transforma una **comunidad de hablantes** a lo largo del tiempo. Cada persona la aprende de su entorno y, al usarla, la mantiene viva.\n\nLa disciplina que estudia la relación entre la lengua y la sociedad se llama **sociolingüística**. Reúne los aportes de la **lingüística** (que estudia la lengua), la **sociología** (que estudia la sociedad) y la **antropología** (que estudia las culturas)."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Sistema, norma y habla",
+     "texto": "El lingüista **Eugenio Coseriu** propuso distinguir tres niveles en la lengua:\n• **Sistema**: el conjunto de reglas y posibilidades de una lengua.\n• **Norma**: lo que una comunidad usa de hecho, lo habitual.\n• **Habla**: lo que cada persona dice en una situación concreta."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Un ejemplo de los tres niveles",
+     "texto": "El **sistema** del español permitiría decir \"yo **andé**\", siguiendo el modelo de \"caminé\" o \"saqué\". Pero la **norma** de la comunidad es decir \"yo **anduve**\". Y en el **habla**, un niño que está aprendiendo puede decir \"andé\", justamente porque aplica la regla del sistema. Los tres niveles explican por qué a veces lo que \"suena lógico\" no es lo que se usa."
+    },
+    {
+     "t": "texto",
+     "titulo": "La competencia sociolingüística",
+     "texto": "Saber una lengua no es solo conocer sus palabras y su gramática. También hay que saber **usarla según la situación social**: a quién le hablamos, en qué lugar, con qué propósito. Esa capacidad se llama **competencia sociolingüística**. Por ejemplo, saber que en una entrevista de trabajo no se habla igual que en el vestuario del club."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Los tres niveles de Coseriu",
+     "columnas": [
+      "Nivel",
+      "Qué es",
+      "Ejemplo"
+     ],
+     "filas": [
+      [
+       "Sistema",
+       "Las reglas y posibilidades de la lengua",
+       "El modelo de \"caminé\", \"saqué\""
+      ],
+      [
+       "Norma",
+       "Lo que la comunidad usa de hecho",
+       "Se dice \"anduve\""
+      ],
+      [
+       "Habla",
+       "Lo que cada persona dice en una situación",
+       "Un niño dice \"andé\""
+      ]
+     ]
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-13-coseriu.svg",
+     "tipo": "grafico",
+     "alt": "Tres óvalos, uno dentro de otro: sistema, norma y habla, cada uno con su ejemplo.",
+     "epigrafe": "Los tres niveles de Coseriu, uno dentro de otro, con el ejemplo de la tabla. Ilustración elaborada para esta clase."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cada ejemplo corresponde a la norma o al habla de una persona?",
+     "categorias": [
+      "Norma",
+      "Habla"
+     ],
+     "items": [
+      {
+       "texto": "En la Argentina se dice \"vos tenés\"",
+       "cat": "Norma"
+      },
+      {
+       "texto": "En el español se dice \"anduve\" y no \"andé\"",
+       "cat": "Norma"
+      },
+      {
+       "texto": "En la Argentina se dice \"heladera\"",
+       "cat": "Norma"
+      },
+      {
+       "texto": "Ayer mi hermano dijo \"andé\" jugando",
+       "cat": "Habla"
+      },
+      {
+       "texto": "Un compañero se trabó al hablar en la exposición",
+       "cat": "Habla"
+      },
+      {
+       "texto": "Mi abuela me dijo \"te quiero mucho\" esta mañana",
+       "cat": "Habla"
+      }
+     ],
+     "explicacion": "La norma es lo habitual en la comunidad; el habla, lo que alguien dice en un momento concreto."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Cuál de estas afirmaciones sobre la lengua es incorrecta?",
+     "opciones": [
+      "Una persona sola puede cambiar la lengua",
+      "La lengua es un producto social de la comunidad",
+      "La norma es lo que se usa de hecho",
+      "El habla es lo que cada persona dice"
+     ],
+     "correcta": 0,
+     "explicacion": "Los cambios de una lengua los hace la comunidad, a lo largo del tiempo.",
+     "pista": "Releé el primer texto de esta parte.",
+     "etiqueta": "🔍 Encontrá el error"
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Cómo se llama la disciplina que estudia la relación entre la lengua y la sociedad?",
+     "respuesta": "sociolingüística",
+     "explicacion": "Reúne aportes de la lingüística, la sociología y la antropología.",
+     "pista": "Está en el primer texto de esta parte.",
+     "formato": "Escribí solo la palabra.",
+     "acepta": [
+      "sociolinguistica",
+      "la sociolinguistica"
+     ]
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "Según Coseriu, el [[sistema]] es el conjunto de reglas de la lengua, la [[norma]] es lo que la comunidad usa de hecho y el [[habla]] es lo que cada persona dice. Saber usar la lengua según la situación social es la competencia [[sociolingüística]].",
+     "distractores": [
+      "diccionario",
+      "moda",
+      "gramatical"
+     ],
+     "explicacion": "Así se organizan los niveles de la lengua.",
+     "pista": "Todas las palabras están en los textos de esta parte.",
+     "_nuevo": true
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué un niño que dice \"andé\" no está \"inventando\" un error al azar?",
+     "respuesta": "Porque aplica una regla del **sistema**: así se forman muchos verbos del español (\"caminé\", \"saqué\"). Lo que todavía no conoce es la **norma**, que para este verbo es \"anduve\". Su error muestra que ya aprendió cómo funciona la lengua."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá por qué la lengua es un producto social y qué estudia la sociolingüística. Explicá los tres niveles de Coseriu con el ejemplo de esta parte y con un ejemplo propio, y qué es la competencia sociolingüística.",
+    "guia": [
+     "¿Quién crea y transforma una lengua?",
+     "¿Qué disciplinas reúne la sociolingüística?",
+     "¿Qué son el sistema, la norma y el habla?",
+     "¿Qué ejemplo propio podés dar?",
+     "¿Qué es la competencia sociolingüística? Dá un ejemplo."
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Una lengua la crea y la transforma una comunidad de hablantes.",
+     "respuesta": true,
+     "explicacion": "Por eso es un producto social."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Una sola persona puede cambiar una lengua cuando quiere.",
+     "respuesta": false,
+     "explicacion": "Los cambios los hace la comunidad a lo largo del tiempo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Para Coseriu, la norma es lo que la comunidad usa de hecho.",
+     "respuesta": true,
+     "explicacion": "Lo habitual."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El habla es el conjunto de reglas de una lengua.",
+     "respuesta": false,
+     "explicacion": "Eso es el sistema; el habla es lo que cada persona dice."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La sociolingüística reúne aportes de la lingüística, la sociología y la antropología.",
+     "respuesta": true,
+     "explicacion": "Estudia la lengua en la sociedad."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Saber una lengua incluye saber usarla según la situación social.",
+     "respuesta": true,
+     "explicacion": "Es la competencia sociolingüística."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué nivel de Coseriu es \"lo que cada persona dice en una situación concreta\"?",
+     "opciones": [
+      "El habla",
+      "El sistema",
+      "La norma",
+      "El dialecto"
+     ],
+     "correcta": 0,
+     "explicacion": "Es la realización concreta."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué forma indica la norma del español?",
+     "opciones": [
+      "Anduve",
+      "Andé",
+      "Andí",
+      "Anduví"
+     ],
+     "correcta": 0,
+     "explicacion": "El sistema permitiría \"andé\", pero la norma es \"anduve\"."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué estudia la sociología?",
+     "opciones": [
+      "La sociedad",
+      "Solo la gramática",
+      "Los números",
+      "Los planetas"
+     ],
+     "correcta": 0,
+     "explicacion": "La antropología estudia las culturas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Quién propuso distinguir sistema, norma y habla?",
+     "opciones": [
+      "Eugenio Coseriu",
+      "Edgar Allan Poe",
+      "Homero",
+      "Jorge Luis Borges"
+     ],
+     "correcta": 0,
+     "explicacion": "Fue un lingüista."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es un ejemplo de competencia sociolingüística?",
+     "opciones": [
+      "Hablar distinto en una entrevista",
+      "Saber escribir muy rápido",
+      "Conocer muchas palabras difíciles",
+      "Hablar siempre en voz alta"
+     ],
+     "correcta": 0,
+     "explicacion": "Es usar la lengua según la situación social."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es una comunidad de hablantes?",
+     "opciones": [
+      "Personas que comparten una lengua",
+      "Un club de lectura de la escuela",
+      "Un diccionario con todas las palabras",
+      "Los docentes de una escuela"
+     ],
+     "correcta": 0,
+     "explicacion": "Son quienes crean y mantienen viva la lengua."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "SISTEMA",
+     "pista": "Conjunto de reglas de la lengua, según Coseriu."
+    },
+    {
+     "palabra": "NORMA",
+     "pista": "Lo que la comunidad usa de hecho."
+    },
+    {
+     "palabra": "HABLA",
+     "pista": "Lo que cada persona dice en una situación."
+    },
+    {
+     "palabra": "COMUNIDAD",
+     "pista": "___ de hablantes: quienes comparten una lengua."
+    },
+    {
+     "palabra": "SOCIAL",
+     "pista": "La lengua es un producto ___."
+    },
+    {
+     "palabra": "COSERIU",
+     "pista": "Lingüista de los tres niveles de la lengua."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Una persona dice \"haiga\" en lugar de \"haya\". ¿Cómo lo explicarías con los niveles de Coseriu?",
+     "opciones": [
+      "Es su habla, distinta de la norma",
+      "Es el sistema de la lengua",
+      "Es un idioma distinto",
+      "Es la norma general"
+     ],
+     "correcta": 0,
+     "explicacion": "La norma general es \"haya\"."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué la sociolingüística necesita a la sociología?",
+     "opciones": [
+      "Porque el habla depende de la sociedad",
+      "Porque estudia los planetas y las estrellas",
+      "Porque no le interesa la lengua",
+      "Porque estudia solo la ortografía"
+     ],
+     "correcta": 0,
+     "explicacion": "Lengua y sociedad están unidas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Lo que \"suena lógico\" según las reglas no siempre es lo que la comunidad usa.",
+     "respuesta": true,
+     "explicacion": "Por eso se distingue el sistema de la norma."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Lengua, dialecto y variación",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Lengua y dialecto",
+     "texto": "El español es una **lengua**, y dentro de ella hay muchas **variedades** o **dialectos**: el rioplatense, el andino, el caribeño, el de España, entre otros. Hablar un dialecto **no es hablar mal**: todas las personas hablamos alguno, porque nadie habla \"el español en general\".\n\nA veces, decidir si una forma de hablar es una lengua distinta o un dialecto depende también de razones **históricas y sociales**, y no solo lingüísticas."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Las dimensiones de la variación",
+     "texto": "Una lengua varía según distintas dimensiones:\n• **Geográfica**: según el lugar (\"pileta\" en la Argentina, \"piscina\" en otros países).\n• **Social**: según el grupo social, la edad o el oficio. Por ejemplo, las palabras propias de un oficio, como las del taller.\n• **Temporal**: según la época. \"Usted\" viene de \"vuestra merced\", una forma que se usaba hace siglos."
+    },
+    {
+     "t": "comparar",
+     "titulo": "La variación lingüística",
+     "columnas": [
+      "Dimensión",
+      "Según qué varía",
+      "Ejemplo"
+     ],
+     "filas": [
+      [
+       "Geográfica",
+       "El lugar",
+       "\"pileta\" o \"piscina\"; el voseo rioplatense"
+      ],
+      [
+       "Social",
+       "El grupo, la edad o el oficio",
+       "Las palabras del taller: \"morsa\", \"amoladora\""
+      ],
+      [
+       "Temporal",
+       "La época",
+       "\"vuestra merced\" se transformó en \"usted\""
+      ]
+     ]
+    },
+    {
+     "t": "esquema",
+     "_imagen": true,
+     "consigna": "Completá el esquema con lo que viste en la tabla de arriba: ubicá según qué varía la lengua en cada dimensión.",
+     "imagen": {
+      "src": "img/clases/len-4-13-variacion.svg",
+      "src_movil": "img/clases/len-4-13-variacion-movil.svg",
+      "tipo": "grafico",
+      "alt": "Esquema de tres filas: geográfica, social y temporal, cada una con un casillero vacío.",
+      "epigrafe": "Esquema elaborado para esta clase."
+     },
+     "huecos": [
+      {
+       "x": 49.0,
+       "y": 29.03,
+       "w": 49.0,
+       "h": 18.43,
+       "respuesta": "Según el lugar",
+       "movil": {
+        "x": 4.0,
+        "y": 28.53,
+        "w": 92.0,
+        "h": 13.46
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 51.15,
+       "w": 49.0,
+       "h": 18.43,
+       "respuesta": "Según el grupo, la edad o el oficio",
+       "movil": {
+        "x": 4.0,
+        "y": 55.45,
+        "w": 92.0,
+        "h": 13.46
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 73.27,
+       "w": 49.0,
+       "h": 18.43,
+       "respuesta": "Según la época",
+       "movil": {
+        "x": 4.0,
+        "y": 82.37,
+        "w": 92.0,
+        "h": 13.46
+       }
+      }
+     ],
+     "distractores": [
+      "Según el color",
+      "Según el clima"
+     ],
+     "explicacion": "Es la misma información de la tabla. Toda forma de hablar tiene estas tres dimensiones.",
+     "pista": "Volvé a mirar la columna del medio de la tabla."
+    },
+    {
+     "t": "dato",
+     "titulo": "La jerga del oficio",
+     "texto": "Cada oficio y cada especialidad técnica tiene su **jerga**: palabras que usan quienes trabajan en eso y que otras personas tal vez no conocen. En un taller se habla de \"morsa\", \"amoladora\" o \"calibre\"; en electrónica, de \"capacitor\", \"diodo\" o \"protoboard\". La jerga sirve para entenderse con precisión entre quienes comparten el oficio."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Qué dimensión de la variación muestra cada ejemplo?",
+     "categorias": [
+      "Geográfica",
+      "Social",
+      "Temporal"
+     ],
+     "items": [
+      {
+       "texto": "En la Argentina se dice \"pileta\" y en otros países, \"piscina\"",
+       "cat": "Geográfica"
+      },
+      {
+       "texto": "En el Litoral se dice \"gurí\" para un niño",
+       "cat": "Geográfica"
+      },
+      {
+       "texto": "En el taller se habla de \"morsa\" y \"amoladora\"",
+       "cat": "Social"
+      },
+      {
+       "texto": "Los adolescentes usan palabras que sus abuelos no conocen",
+       "cat": "Social"
+      },
+      {
+       "texto": "\"Usted\" viene de \"vuestra merced\"",
+       "cat": "Temporal"
+      },
+      {
+       "texto": "Hace cien años no existía la palabra \"chatear\"",
+       "cat": "Temporal"
+      }
+     ],
+     "explicacion": "La lengua varía según el lugar, el grupo social y la época."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "\"Pasame la amoladora, que tengo que cortar este caño.\" ¿Quién lo diría con más probabilidad?",
+     "opciones": [
+      "Alguien que trabaja en un taller",
+      "Un poeta de la antigua Grecia, en un banquete",
+      "Un narrador omnisciente",
+      "Una sirena de la Odisea"
+     ],
+     "correcta": 0,
+     "explicacion": "\"Amoladora\" es una palabra de la jerga del taller: variación social.",
+     "pista": "Releé el dato sobre la jerga del oficio.",
+     "etiqueta": "🗣️ ¿Quién lo diría?"
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Cómo se llaman las palabras propias de un oficio o una especialidad?",
+     "respuesta": "jerga",
+     "explicacion": "Sirven para entenderse con precisión entre quienes comparten el oficio.",
+     "pista": "Está en el dato sobre la jerga del oficio.",
+     "formato": "Escribí solo la palabra.",
+     "acepta": [
+      "jerga",
+      "jergas",
+      "la jerga"
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿qué palabras de tu especialidad usarías con tus compañeros de taller y tendrías que explicarle a alguien de tu familia?",
+     "respuesta": "Seguramente muchas: nombres de herramientas, de componentes o de procesos. Eso muestra la **variación social**: la jerga del oficio. Saber explicarla con palabras comunes cuando hablás con alguien que no es del oficio también es parte de la competencia sociolingüística."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá la diferencia entre lengua y dialecto, y las tres dimensiones de la variación con un ejemplo de cada una. Escribí una lista de al menos cinco palabras de la jerga de tu especialidad, con una explicación para alguien que no es del oficio.",
+    "guia": [
+     "¿Qué es un dialecto? ¿Por qué no es hablar mal?",
+     "¿Qué es la variación geográfica? Dá un ejemplo.",
+     "¿Qué es la variación social? Dá un ejemplo.",
+     "¿Qué es la variación temporal? Dá un ejemplo.",
+     "¿Qué palabras de la jerga de tu especialidad conocés y qué significan?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Hablar un dialecto es hablar mal.",
+     "respuesta": false,
+     "explicacion": "Todas las personas hablamos algún dialecto."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La variación geográfica depende del lugar.",
+     "respuesta": true,
+     "explicacion": "Por ejemplo, \"pileta\" o \"piscina\"."
+    },
+    {
+     "tipo": "vf",
+     "texto": "\"Usted\" viene de \"vuestra merced\".",
+     "respuesta": true,
+     "explicacion": "Es un ejemplo de variación temporal."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La jerga del oficio es un ejemplo de variación social.",
+     "respuesta": true,
+     "explicacion": "Depende del grupo que la usa."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La lengua es igual en todas las épocas.",
+     "respuesta": false,
+     "explicacion": "Cambia con el tiempo: es la variación temporal."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El rioplatense es una variedad del español.",
+     "respuesta": true,
+     "explicacion": "Como el andino o el caribeño."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tipo de variación es que los adolescentes usen palabras que sus abuelos no conocen?",
+     "opciones": [
+      "Social",
+      "Geográfica",
+      "Temporal",
+      "Ninguna"
+     ],
+     "correcta": 0,
+     "explicacion": "Depende del grupo de edad."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es un ejemplo de jerga del taller?",
+     "opciones": [
+      "Amoladora",
+      "Mamá",
+      "Lunes",
+      "Feliz"
+     ],
+     "correcta": 0,
+     "explicacion": "Es una palabra propia del oficio."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tipo de variación es \"pileta\" y \"piscina\"?",
+     "opciones": [
+      "Geográfica",
+      "Social",
+      "Temporal",
+      "Ninguna"
+     ],
+     "correcta": 0,
+     "explicacion": "Depende del lugar."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Para qué sirve la jerga del oficio?",
+     "opciones": [
+      "Para entenderse con precisión",
+      "Para que nadie más entienda",
+      "Para insultar sin que se note",
+      "Para hablar más rápido que el resto"
+     ],
+     "correcta": 0,
+     "explicacion": "Es parte de la variación social."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué decide a veces si algo es una lengua o un dialecto?",
+     "opciones": [
+      "Razones históricas y sociales",
+      "Solo la cantidad de palabras que tiene",
+      "El color de los libros",
+      "El clima de la región"
+     ],
+     "correcta": 0,
+     "explicacion": "No solo razones lingüísticas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tipo de variación muestra que hace cien años no existía \"chatear\"?",
+     "opciones": [
+      "Temporal",
+      "Geográfica",
+      "Social",
+      "Ninguna"
+     ],
+     "correcta": 0,
+     "explicacion": "La lengua cambia con la época."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "DIALECTO",
+     "pista": "Variedad de una lengua."
+    },
+    {
+     "palabra": "VARIACIÓN",
+     "pista": "Cambios de una lengua según lugar, grupo o época."
+    },
+    {
+     "palabra": "JERGA",
+     "pista": "Palabras propias de un oficio."
+    },
+    {
+     "palabra": "GEOGRÁFICA",
+     "pista": "Variación según el lugar."
+    },
+    {
+     "palabra": "TEMPORAL",
+     "pista": "Variación según la época."
+    },
+    {
+     "palabra": "AMOLADORA",
+     "pista": "Herramienta: palabra de la jerga del taller."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Un técnico le dice a un cliente: \"Hay que cambiar el capacitor de la placa\". El cliente no entiende. ¿Qué conviene?",
+     "opciones": [
+      "Explicarlo con palabras comunes",
+      "Repetirlo más fuerte",
+      "Usar más palabras técnicas",
+      "No decirle nada"
+     ],
+     "correcta": 0,
+     "explicacion": "Es la competencia sociolingüística."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué decimos que todos hablamos un dialecto?",
+     "opciones": [
+      "Porque cada persona habla una variedad",
+      "Porque todos hablamos mal el español de siempre",
+      "Porque existe un solo dialecto",
+      "Porque nadie habla el español"
+     ],
+     "correcta": 0,
+     "explicacion": "La variedad rioplatense, por ejemplo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Una misma persona puede usar la jerga del taller con sus compañeros y otras palabras con su familia.",
+     "respuesta": true,
+     "explicacion": "Adecua su forma de hablar a la situación."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Lengua e identidad: las lenguas en contacto",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "La lengua dice quiénes somos",
+     "texto": "La forma en que hablamos dice mucho de nosotros: de dónde somos, con quién crecimos, a qué grupo pertenecemos. Por eso la lengua está unida a la **identidad**. Cuando alguien escucha una palabra o una tonada de su tierra lejos de casa, la reconoce como propia.\n\nLas lenguas no viven aisladas: cuando pueblos que hablan lenguas distintas conviven, las lenguas **entran en contacto** y se influyen."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Las lenguas en contacto en la Argentina",
+     "texto": "• **Lenguas originarias**: en la Argentina se hablan, entre otras, el guaraní, el quechua, el qom, el wichí y el mapuche. El español tomó de ellas palabras como \"choclo\" o \"ñandú\".\n• **Inmigración**: con la inmigración, sobre todo italiana, llegaron palabras como \"laburo\" (del italiano _lavoro_, trabajo). Muchas forman parte del **lunfardo**, el habla popular rioplatense.\n• **Tecnología**: del inglés llegaron palabras como \"mouse\", \"software\" o \"chatear\", que adaptamos a nuestra lengua."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Préstamos en el español de la Argentina",
+     "columnas": [
+      "Lengua de origen",
+      "Ejemplos",
+      "Por qué llegaron"
+     ],
+     "filas": [
+      [
+       "Quechua y guaraní",
+       "choclo, pampa, ananá, ñandú",
+       "Contacto con los pueblos originarios"
+      ],
+      [
+       "Italiano",
+       "laburo, nono",
+       "La inmigración"
+      ],
+      [
+       "Inglés",
+       "mouse, software, chatear",
+       "La tecnología y los medios"
+      ]
+     ]
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-13-prestamos.svg",
+     "tipo": "grafico",
+     "alt": "Tres recuadros con palabras de otras lenguas (quechua y guaraní, italiano e inglés) que llegan con flechas al español de la Argentina.",
+     "epigrafe": "Palabras de otras lenguas que hoy forman parte del español de la Argentina. Ilustración elaborada para esta clase.",
+     "animacion": "svg"
+    },
+    {
+     "t": "dato",
+     "titulo": "La educación intercultural bilingüe",
+     "texto": "La Ley de Educación Nacional (Ley 26.206) establece la **educación intercultural bilingüe**: en las comunidades de pueblos originarios, la escuela enseña en la lengua de la comunidad y en español, para que cada estudiante conserve su lengua y su identidad, y pueda comunicarse con el resto del país."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada palabra con la lengua de la que viene.",
+     "pares": [
+      {
+       "a": "laburo",
+       "b": "Italiano"
+      },
+      {
+       "a": "choclo",
+       "b": "Quechua"
+      },
+      {
+       "a": "software",
+       "b": "Inglés"
+      },
+      {
+       "a": "ananá",
+       "b": "Guaraní"
+      }
+     ],
+     "explicacion": "Son préstamos: palabras que el español tomó de otras lenguas.",
+     "pista": "Releé la tabla de préstamos.",
+     "_nuevo": true
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Qué es un préstamo lingüístico?",
+     "opciones": [
+      "Una palabra que se toma de otra lengua",
+      "Un libro que se presta en la biblioteca",
+      "Una palabra que se escribe con error",
+      "Una palabra que alguien inventó"
+     ],
+     "correcta": 0,
+     "explicacion": "Por ejemplo, \"laburo\" viene del italiano.",
+     "pista": "Releé la tabla de préstamos."
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Cómo se llama el habla popular rioplatense que incorporó muchas palabras de la inmigración, como \"laburo\"?",
+     "respuesta": "lunfardo",
+     "explicacion": "Muchas de sus palabras vienen del italiano.",
+     "pista": "Está en el recuadro de las lenguas en contacto.",
+     "formato": "Escribí solo la palabra.",
+     "acepta": [
+      "lunfardo",
+      "el lunfardo"
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué es importante que una comunidad conserve su lengua?",
+     "respuesta": "Porque la lengua es parte de su **identidad**: con ella transmite su historia, sus saberes, sus relatos y su manera de ver el mundo. Si una lengua desaparece, se pierde también una parte de esa cultura. Por eso la ley prevé la educación intercultural bilingüe."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá la relación entre lengua e identidad, y qué pasa cuando las lenguas entran en contacto. Escribí ejemplos de palabras que el español de la Argentina tomó de lenguas originarias, del italiano y del inglés, y explicá qué es la educación intercultural bilingüe.",
+    "guia": [
+     "¿Por qué la lengua está unida a la identidad?",
+     "¿Qué lenguas originarias se hablan en la Argentina?",
+     "¿Qué palabras llegaron con la inmigración?",
+     "¿Qué palabras de tu especialidad vienen del inglés?",
+     "¿Qué establece la Ley de Educación Nacional sobre las lenguas originarias?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La forma de hablar dice mucho de la identidad de una persona.",
+     "respuesta": true,
+     "explicacion": "De dónde es y a qué grupo pertenece."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las lenguas viven siempre aisladas, sin influirse.",
+     "respuesta": false,
+     "explicacion": "Cuando entran en contacto, se influyen."
+    },
+    {
+     "tipo": "vf",
+     "texto": "\"Laburo\" viene del italiano.",
+     "respuesta": true,
+     "explicacion": "De lavoro, trabajo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la Argentina solo se habla español.",
+     "respuesta": false,
+     "explicacion": "También se hablan lenguas originarias como el guaraní, el quechua, el qom o el wichí."
+    },
+    {
+     "tipo": "vf",
+     "texto": "\"Software\" es un préstamo del inglés.",
+     "respuesta": true,
+     "explicacion": "Llegó con la tecnología."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La educación intercultural bilingüe enseña en la lengua de la comunidad y en español.",
+     "respuesta": true,
+     "explicacion": "La establece la Ley 26.206."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es el lunfardo?",
+     "opciones": [
+      "El habla popular rioplatense",
+      "Una lengua originaria del norte",
+      "Un tipo de poema popular",
+      "La jerga del taller mecánico"
+     ],
+     "correcta": 0,
+     "explicacion": "Como \"laburo\"."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿De qué lengua viene \"choclo\"?",
+     "opciones": [
+      "Del quechua",
+      "Del italiano",
+      "Del inglés",
+      "Del francés"
+     ],
+     "correcta": 0,
+     "explicacion": "Como \"pampa\"."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué llegaron al español palabras como \"mouse\" o \"chatear\"?",
+     "opciones": [
+      "Por la tecnología y los medios",
+      "Por la inmigración italiana",
+      "Por los pueblos originarios",
+      "Por la tragedia griega"
+     ],
+     "correcta": 0,
+     "explicacion": "Vienen del inglés."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas es una lengua originaria de la Argentina?",
+     "opciones": [
+      "El wichí",
+      "El italiano",
+      "El inglés",
+      "El latín"
+     ],
+     "correcta": 0,
+     "explicacion": "También el qom, el guaraní, el quechua y el mapuche."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué ley establece la educación intercultural bilingüe?",
+     "opciones": [
+      "La Ley de Educación Nacional",
+      "Una ley de tránsito",
+      "Una ley de otro país",
+      "Una ley de comercio"
+     ],
+     "correcta": 0,
+     "explicacion": "Para las comunidades de pueblos originarios."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué pasa cuando dos lenguas conviven?",
+     "opciones": [
+      "Entran en contacto y se influyen",
+      "Desaparecen las dos al mismo tiempo",
+      "No se mezclan nunca",
+      "Se convierten en una sola"
+     ],
+     "correcta": 0,
+     "explicacion": "Por ejemplo, con préstamos."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "IDENTIDAD",
+     "pista": "Lo que dice quiénes somos."
+    },
+    {
+     "palabra": "PRÉSTAMO",
+     "pista": "Palabra que una lengua toma de otra."
+    },
+    {
+     "palabra": "LUNFARDO",
+     "pista": "Habla popular rioplatense."
+    },
+    {
+     "palabra": "LABURO",
+     "pista": "Trabajo, palabra que viene del italiano."
+    },
+    {
+     "palabra": "BILINGÜE",
+     "pista": "Que usa dos lenguas."
+    },
+    {
+     "palabra": "CONTACTO",
+     "pista": "Lenguas en ___: las que conviven y se influyen."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Una familia de la comunidad qom habla qom en su casa y español en la escuela. ¿Qué muestra esto?",
+     "opciones": [
+      "Bilingüismo",
+      "Que habla mal el español",
+      "Que no tiene identidad",
+      "Una variación temporal"
+     ],
+     "correcta": 0,
+     "explicacion": "Las dos lenguas forman parte de su vida."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tienen en común \"choclo\", \"laburo\" y \"software\"?",
+     "opciones": [
+      "Son préstamos",
+      "Son inventadas",
+      "Están mal dichas",
+      "Son del inglés"
+     ],
+     "correcta": 0,
+     "explicacion": "Cada una cuenta una parte de la historia de nuestra lengua."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Conservar una lengua es también conservar una parte de la cultura de un pueblo.",
+     "respuesta": true,
+     "explicacion": "Por eso es parte de la identidad."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Sociolingüística",
+   "definicion": "Disciplina que estudia la relación entre la lengua y la sociedad."
+  },
+  {
+   "palabra": "Sistema, norma y habla",
+   "definicion": "Niveles de la lengua según Coseriu: reglas, uso habitual y uso concreto."
+  },
+  {
+   "palabra": "Competencia sociolingüística",
+   "definicion": "Capacidad de usar la lengua según la situación social."
+  },
+  {
+   "palabra": "Dialecto",
+   "definicion": "Variedad de una lengua."
+  },
+  {
+   "palabra": "Variación lingüística",
+   "definicion": "Cambios de la lengua según el lugar, el grupo social y la época."
+  },
+  {
+   "palabra": "Jerga",
+   "definicion": "Palabras propias de un oficio o una especialidad."
+  },
+  {
+   "palabra": "Préstamo",
+   "definicion": "Palabra que una lengua toma de otra."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Pensar que hablar un dialecto es hablar mal.",
+   "aclaracion": "Todas las personas hablamos alguna variedad de la lengua."
+  },
+  {
+   "error": "Creer que la lengua no cambia.",
+   "aclaracion": "Cambia con el tiempo: \"vuestra merced\" se transformó en \"usted\"."
+  },
+  {
+   "error": "Usar la jerga del oficio con quien no la conoce.",
+   "aclaracion": "Conviene explicarla con palabras comunes, adecuándose a quien escucha."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "¿Qué palabras usan en tu casa que vengan de otra lengua o de otra región? Preguntale a alguien mayor de tu familia de dónde vienen.",
+  "conexion": "Con los textos técnicos: la terminología de tu especialidad es parte de la jerga del oficio. Y con la literatura latinoamericana, que muestra la lengua de cada región."
+ }
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 430" role="img" aria-label="Línea de tiempo: una barra larga, I was reading, acción larga en pasado continuo; un rayo la corta en el medio, when the phone rang, acción corta en pasado simple" font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect x="0" y="0" width="500" height="430" rx="28" fill="#F7F4FD"/>
+<defs><marker id="pt" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10z" fill="#4A4870"/></marker></defs>
+<text x="250.0" y="52" font-size="26" font-weight="800" fill="#5B2A86" text-anchor="middle">Una acción larga y una corta</text>
+<path d="M 40 290 H 460" stroke="#4A4870" stroke-width="3" marker-end="url(#pt)"/><text x="460" y="318" font-size="16" font-weight="600" fill="#4A4870" text-anchor="end">tiempo →</text>
+<g class="a-ap" style="--d:0.3s"><rect x="60" y="230" width="340" height="40" rx="20" fill="#5B2A86"/><text x="80" y="216" font-size="22" font-weight="800" fill="#5B2A86">I was reading…</text><text x="80" y="358" font-size="17" font-weight="600" fill="#4A4870">acción larga: pasado continuo</text></g>
+<g class="a-ap" style="--d:1.6s"><path d="M 268.0 160 L 242.0 248 L 260.0 248 L 236.0 320" stroke="#E07A2E" stroke-width="7" fill="none" stroke-linejoin="round" stroke-linecap="round"/><text x="210.0" y="150" font-size="22" font-weight="800" fill="#E07A2E" text-anchor="middle">…when the phone rang.</text><text x="440" y="386" font-size="17" font-weight="600" fill="#4A4870" text-anchor="end">acción corta: pasado simple</text></g>
+</svg>

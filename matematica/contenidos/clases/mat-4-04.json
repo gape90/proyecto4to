@@ -1,0 +1,908 @@
+{
+ "id": "mat-4-04",
+ "espacio": "matematica",
+ "eje": "Álgebra y funciones",
+ "titulo": "Sucesiones aritméticas y geométricas",
+ "intro": "Muchas listas de números siguen una regla, y encontrarla permite calcular cualquier término sin escribir todos los anteriores. Vas a pasar de un dibujo a una fórmula y a trabajar con dos tipos de sucesiones: las aritméticas y las geométricas.",
+ "objetivos": [
+  "Encontrar la regularidad de una sucesión y escribir una fórmula para su término general.",
+  "Calcular términos de una sucesión aritmética con la fórmula aₙ = a₁ + (n − 1) · d.",
+  "Calcular términos de una sucesión geométrica con la fórmula aₙ = a₁ · rⁿ⁻¹ y comparar cómo crecen los dos tipos."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: cómo pasar de una regularidad a una fórmula, la fórmula de la sucesión aritmética, la de la geométrica y la comparación de cómo crece cada una.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "De la regularidad a la fórmula",
+   "tiempo": "35 a 45 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "¿Qué es una sucesión?",
+     "texto": "Una **sucesión** es una lista ordenada de números. Cada número es un **término**: a₁ es el primero, a₂ el segundo y, en general, **aₙ** es el que está en la posición n.\n\nSi encontrás la **regularidad**, es decir, qué se repite al pasar de un término al siguiente, podés escribir una **fórmula** para aₙ y calcular cualquier término sin escribir los anteriores."
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/mat-4-04-palitos.svg",
+     "src_movil": "img/clases/mat-4-04-palitos-movil.svg",
+     "tipo": "grafico",
+     "animacion": "svg",
+     "alt": "Guarda de cuadrados hecha con palitos. Un cuadrado lleva 4 palitos; dos cuadrados, 7; tres, 10; cuatro, 13. Los 3 palitos que agrega cada cuadrado nuevo están en otro color.",
+     "epigrafe": "Una guarda de cuadrados hecha con palitos. Esquema elaborado para esta clase."
+    },
+    {
+     "t": "pasos",
+     "titulo": "De la guarda a la fórmula",
+     "pasos": [
+      {
+       "titulo": "Mirá qué se repite",
+       "texto": "Cada cuadrado nuevo agrega 3 palitos. La sucesión es 4, 7, 10, 13, …"
+      },
+      {
+       "titulo": "Contá de otra manera",
+       "texto": "Cada cuadrado usa 3 palitos (arriba, abajo y a la derecha), y hay 1 palito más: el de la izquierda del primero."
+      },
+      {
+       "titulo": "Escribí la fórmula",
+       "texto": "Con n cuadrados: **aₙ = 3 · n + 1**. Comprobalo: con 4 cuadrados, 3 · 4 + 1 = 13."
+      }
+     ]
+    },
+    {
+     "t": "destacado",
+     "texto": "Una fórmula para **aₙ** sirve para calcular el término de cualquier posición. Antes de usarla, **comprobala** con los primeros términos, que ya conocés."
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Cuántos palitos hacen falta para una guarda de 10 cuadrados?",
+     "respuesta": "31",
+     "explicacion": "Con la fórmula: a₁₀ = 3 · 10 + 1 = 31.",
+     "pista1": "Usá la fórmula que armaste en el paso a paso.",
+     "pista": "Reemplazá n por 10 en aₙ = 3 · n + 1."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "Con palitos se arma una guarda de triángulos pegados: 1 triángulo lleva 3 palitos, 2 triángulos llevan 5 y 3 triángulos llevan 7. ¿Qué fórmula da la cantidad de palitos para n triángulos?",
+     "opciones": [
+      "aₙ = 3 · n",
+      "aₙ = 2 · n + 1",
+      "aₙ = n + 2",
+      "aₙ = 3 · n − 1"
+     ],
+     "correcta": 1,
+     "explicacion": "Cada triángulo nuevo agrega 2 palitos, y hay 1 más al principio: aₙ = 2 · n + 1. Comprobación: con 3 triángulos, 2 · 3 + 1 = 7.",
+     "pista": "Fijate cuántos palitos se agregan de un triángulo al siguiente y probá cada fórmula con n = 1, 2 y 3."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Qué regularidad tiene cada sucesión?",
+     "categorias": [
+      "Se suma siempre lo mismo",
+      "Se multiplica siempre por lo mismo",
+      "Ninguna de las dos"
+     ],
+     "items": [
+      {
+       "texto": "2, 5, 8, 11, …",
+       "cat": "Se suma siempre lo mismo"
+      },
+      {
+       "texto": "10, 7, 4, 1, …",
+       "cat": "Se suma siempre lo mismo"
+      },
+      {
+       "texto": "3, 6, 12, 24, …",
+       "cat": "Se multiplica siempre por lo mismo"
+      },
+      {
+       "texto": "2, −4, 8, −16, …",
+       "cat": "Se multiplica siempre por lo mismo"
+      },
+      {
+       "texto": "1, 4, 9, 16, …",
+       "cat": "Ninguna de las dos"
+      },
+      {
+       "texto": "1, 1, 2, 3, 5, …",
+       "cat": "Ninguna de las dos"
+      }
+     ],
+     "explicacion": "En 2, 5, 8 se suma 3; en 10, 7, 4 se suma −3. En 3, 6, 12 se multiplica por 2; en 2, −4, 8 se multiplica por −2. 1, 4, 9, 16 son los cuadrados, y 1, 1, 2, 3, 5 es Fibonacci: no se suma ni se multiplica siempre lo mismo.",
+     "pista": "Para cada una, calculá la resta entre dos términos seguidos. Si no es siempre igual, probá con la división."
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Desafío",
+     "consigna": "Tenés 100 palitos. ¿Cuántos cuadrados tiene la guarda más larga que podés armar?",
+     "respuesta": "33",
+     "explicacion": "Hay que buscar n con 3 · n + 1 = 100: 3 · n = 99, n = 33. Con 33 cuadrados usás justo los 100 palitos.",
+     "pista1": "Planteá la fórmula igualada a 100.",
+     "pista": "3 · n + 1 = 100. Restá 1 y dividí por 3."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "¿Se puede armar una guarda de cuadrados que use exactamente 50 palitos?",
+     "respuesta": "No. Tendría que ser 3 · n + 1 = 50, o sea, 3 · n = 49, y 49 no se puede dividir por 3 en partes enteras. Con 16 cuadrados se usan 49 palitos y sobra 1."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Dibujá las primeras figuras de la guarda de cuadrados, escribí la sucesión de palitos y explicá cómo llegaste a la fórmula aₙ = 3 · n + 1. Comprobala con dos términos.",
+    "guia": [
+     "¿Qué es una sucesión y qué es aₙ?",
+     "¿Cuántos palitos agrega cada cuadrado nuevo y de dónde sale el + 1 de la fórmula?",
+     "Comprobá la fórmula aₙ = 3 · n + 1 con dos términos.",
+     "¿Cuántos palitos hacen falta para 10 cuadrados?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "En la guarda de cuadrados, cada cuadrado nuevo agrega 3 palitos.",
+     "respuesta": true,
+     "explicacion": "Arriba, abajo y a la derecha."
+    },
+    {
+     "tipo": "vf",
+     "texto": "a₄ es el cuarto término de la sucesión.",
+     "respuesta": true,
+     "explicacion": "El subíndice indica la posición."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Con aₙ = 3 · n + 1, el término 5 es 15.",
+     "respuesta": false,
+     "explicacion": "3 · 5 + 1 = 16."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En 1, 4, 9, 16 se suma siempre lo mismo.",
+     "respuesta": false,
+     "explicacion": "Se suma 3, después 5, después 7."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Una fórmula para aₙ permite calcular un término sin escribir los anteriores.",
+     "respuesta": true,
+     "explicacion": "Por eso es útil encontrarla."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En 10, 7, 4, 1 se suma siempre −3.",
+     "respuesta": true,
+     "explicacion": "Cada término es 3 menos que el anterior."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué término sigue en 2, 5, 8, 11, …?",
+     "opciones": [
+      "13",
+      "14",
+      "15",
+      "22"
+     ],
+     "correcta": 1,
+     "explicacion": "Se suma 3: 11 + 3 = 14."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Con aₙ = 2 · n + 1, ¿cuánto vale a₇?",
+     "opciones": [
+      "15",
+      "9",
+      "14",
+      "21"
+     ],
+     "correcta": 0,
+     "explicacion": "2 · 7 + 1 = 15."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué fórmula da 5, 10, 15, 20, …?",
+     "opciones": [
+      "aₙ = n + 5",
+      "aₙ = 5 · n",
+      "aₙ = 10 · n",
+      "aₙ = 2 · n + 3"
+     ],
+     "correcta": 1,
+     "explicacion": "Son los múltiplos de 5."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuántos palitos lleva una guarda de 6 cuadrados?",
+     "opciones": [
+      "18",
+      "24",
+      "21",
+      "19"
+     ],
+     "correcta": 3,
+     "explicacion": "3 · 6 + 1 = 19."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En 3, 6, 12, 24, … cada término se obtiene…",
+     "opciones": [
+      "sumando 3",
+      "sumando 6",
+      "multiplicando por 2",
+      "multiplicando por 3"
+     ],
+     "correcta": 2,
+     "explicacion": "3 · 2 = 6; 6 · 2 = 12; 12 · 2 = 24."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Antes de usar una fórmula, conviene…",
+     "opciones": [
+      "comprobarla con los primeros términos",
+      "memorizarla de corrido",
+      "cambiarle un número",
+      "dividirla por n"
+     ],
+     "correcta": 0,
+     "explicacion": "Si da bien con los términos que ya conocés, es una buena señal."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "SUCESIÓN",
+     "pista": "Lista ordenada de números."
+    },
+    {
+     "palabra": "TÉRMINO",
+     "pista": "Cada número de una sucesión."
+    },
+    {
+     "palabra": "REGULARIDAD",
+     "pista": "Lo que se repite al pasar de un término al siguiente."
+    },
+    {
+     "palabra": "FÓRMULA",
+     "pista": "Expresión que da el término de cualquier posición."
+    },
+    {
+     "palabra": "POSICIÓN",
+     "pista": "Lugar que ocupa un término: es la n de aₙ."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué fórmula corresponde a 4, 7, 10, 13, …?",
+     "opciones": [
+      "aₙ = 4 · n",
+      "aₙ = n + 3",
+      "aₙ = 3 · n + 1",
+      "aₙ = 3 · n + 4"
+     ],
+     "correcta": 2,
+     "explicacion": "Con n = 1 da 4; con n = 2, 7; con n = 3, 10."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Con aₙ = 3 · n + 1, ¿en qué posición está el término 40?",
+     "opciones": [
+      "12",
+      "13",
+      "14",
+      "39"
+     ],
+     "correcta": 1,
+     "explicacion": "3 · n + 1 = 40 → 3 · n = 39 → n = 13."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En 1, 1, 2, 3, 5, 8 se multiplica siempre por el mismo número.",
+     "respuesta": false,
+     "explicacion": "Es Fibonacci: cada término es la suma de los dos anteriores."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Sucesiones aritméticas",
+   "tiempo": "35 a 45 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Sumar siempre lo mismo",
+     "texto": "En una sucesión **aritmética** cada término se obtiene sumando al anterior siempre el mismo número, que se llama **diferencia** y se escribe **d**. En 7, 12, 17, 22, … la diferencia es 5. Si d es negativa, la sucesión baja: en 10, 7, 4, 1, … d = −3.\n\nPara llegar del primer término al término n hay que dar **n − 1 saltos**, y cada salto suma d."
+    },
+    {
+     "t": "ecuacion",
+     "titulo": "Término general de una sucesión aritmética",
+     "formula": "aₙ = a₁ + (n − 1) · d",
+     "texto": "a₁ es el primer término, d es la diferencia y n es la posición."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Pensalo así",
+     "texto": "Empezás a ahorrar con $500 y cada semana agregás $200. La cantidad de dinero que tenés cada semana es una sucesión aritmética con a₁ = 500 y d = 200. En la semana 10 tenés a₁₀ = 500 + 9 · 200 = $2300: del primer término al décimo hay 9 saltos de $200."
+    },
+    {
+     "t": "sim",
+     "sim": "sucesion",
+     "tipo": "aritmetica",
+     "titulo": "Armá una sucesión aritmética",
+     "consigna": "Mové los controles para armar una sucesión aritmética con a₁ = 3 en la que el término de la posición 6 valga 18.",
+     "objetivo": {
+      "cumple": {
+       "a": 3,
+       "n": 6,
+       "termino": 18
+      },
+      "cerca": {
+       "a": 3,
+       "n": 6
+      },
+      "mensaje_cerca": "El primer término y la posición ya están bien. Ahora probá con otra diferencia."
+     },
+     "explicacion": "La diferencia es 3: a₆ = 3 + 5 · 3 = 18. Del primer término al sexto hay 5 saltos, y 18 − 3 = 15 repartido en 5 saltos da 3 por salto.",
+     "inicial": {
+      "a": 2,
+      "r": 1,
+      "n": 3
+     }
+    },
+    {
+     "t": "verificar",
+     "consigna": "En la sucesión 7, 12, 17, 22, …, calculá a₂₀.",
+     "respuesta": "102",
+     "explicacion": "a₁ = 7 y d = 5: a₂₀ = 7 + 19 · 5 = 7 + 95 = 102.",
+     "pista1": "Primero encontrá a₁ y la diferencia d.",
+     "pista": "Usá aₙ = a₁ + (n − 1) · d con n = 20: hay 19 saltos de 5."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada sucesión con su término general.",
+     "pares": [
+      {
+       "a": "2, 5, 8, 11, …",
+       "b": "aₙ = 2 + (n − 1) · 3"
+      },
+      {
+       "a": "10, 8, 6, 4, …",
+       "b": "aₙ = 10 + (n − 1) · (−2)"
+      },
+      {
+       "a": "1, 5, 9, 13, …",
+       "b": "aₙ = 1 + (n − 1) · 4"
+      },
+      {
+       "a": "−3, −1, 1, 3, …",
+       "b": "aₙ = −3 + (n − 1) · 2"
+      }
+     ],
+     "explicacion": "En cada fórmula, el primer número es a₁ y el que multiplica a (n − 1) es la diferencia.",
+     "pista": "Buscá el primer término y la diferencia de cada sucesión."
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Desafío",
+     "consigna": "En una sucesión aritmética, a₁ = 3 y a₅ = 23. ¿Cuánto vale la diferencia d?",
+     "respuesta": "5",
+     "explicacion": "Del primer término al quinto hay 4 saltos: 23 − 3 = 20, y 20 / 4 = 5.",
+     "pista1": "Pensá cuántos saltos hay entre a₁ y a₅.",
+     "pista": "Hay 4 saltos. ¿Cuánto aumenta en total y cuánto le toca a cada salto?"
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Si en la fórmula de la aritmética la diferencia es 0, ¿cómo es la sucesión?",
+     "respuesta": "Todos los términos son iguales al primero: aₙ = a₁ + (n − 1) · 0 = a₁. Por ejemplo, 5, 5, 5, 5, … es una sucesión aritmética con d = 0."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es una sucesión aritmética y escribí su fórmula. Usala para calcular a₂₀ en 7, 12, 17, 22, … y explicá por qué aparece n − 1.",
+    "guia": [
+     "¿Cómo te das cuenta de que una sucesión es aritmética y qué significa cada letra de la fórmula?",
+     "¿Por qué se multiplica d por n − 1 y no por n?",
+     "¿Cuánto vale a₂₀ en 7, 12, 17, 22, …?",
+     "¿Cuánto vale a₁₀ en 30, 26, 22, …?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "En 7, 12, 17, 22, … la diferencia es 5.",
+     "respuesta": true,
+     "explicacion": "Se suma 5 cada vez."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En una aritmética, del término 1 al término 10 hay 10 saltos.",
+     "respuesta": false,
+     "explicacion": "Hay 9 saltos: n − 1."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Si d es negativa, la sucesión va bajando.",
+     "respuesta": true,
+     "explicacion": "Por ejemplo, 10, 7, 4, 1, …"
+    },
+    {
+     "tipo": "vf",
+     "texto": "3, 6, 12, 24 es una sucesión aritmética.",
+     "respuesta": false,
+     "explicacion": "Se multiplica por 2: es geométrica."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Con a₁ = 2 y d = 4, a₃ = 10.",
+     "respuesta": true,
+     "explicacion": "2 + 2 · 4 = 10."
+    },
+    {
+     "tipo": "vf",
+     "texto": "5, 5, 5, 5 es una sucesión aritmética con d = 0.",
+     "respuesta": true,
+     "explicacion": "Se suma 0 cada vez."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es la diferencia de 20, 17, 14, 11, …?",
+     "opciones": [
+      "3",
+      "−3",
+      "−11",
+      "17"
+     ],
+     "correcta": 1,
+     "explicacion": "Cada término es 3 menos que el anterior."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Con a₁ = 4 y d = 6, a₁₀ vale…",
+     "opciones": [
+      "64",
+      "58",
+      "60",
+      "54"
+     ],
+     "correcta": 1,
+     "explicacion": "4 + 9 · 6 = 58."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En aₙ = a₁ + (n − 1) · d, la letra d es…",
+     "opciones": [
+      "la posición",
+      "el primer término",
+      "la diferencia",
+      "el último término"
+     ],
+     "correcta": 2,
+     "explicacion": "Es lo que se suma en cada salto."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué término sigue en −5, −2, 1, 4, …?",
+     "opciones": [
+      "6",
+      "8",
+      "5",
+      "7"
+     ],
+     "correcta": 3,
+     "explicacion": "d = 3: 4 + 3 = 7."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Ahorrás $500 al principio y $200 por semana. En la semana 4 tenés…",
+     "opciones": [
+      "$1100",
+      "$1300",
+      "$900",
+      "$1500"
+     ],
+     "correcta": 0,
+     "explicacion": "500 + 3 · 200 = 1100."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "a₁ = 1 y a₄ = 10. La diferencia es…",
+     "opciones": [
+      "9",
+      "2,5",
+      "3",
+      "4"
+     ],
+     "correcta": 2,
+     "explicacion": "3 saltos: (10 − 1) / 3 = 3."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "ARITMÉTICA",
+     "pista": "Sucesión en la que se suma siempre lo mismo."
+    },
+    {
+     "palabra": "DIFERENCIA",
+     "pista": "Lo que se suma en cada salto: d."
+    },
+    {
+     "palabra": "SALTOS",
+     "pista": "Del término 1 al término n hay n − 1 ___."
+    },
+    {
+     "palabra": "AHORRO",
+     "pista": "Ejemplo: $500 y $200 más por semana."
+    },
+    {
+     "palabra": "NEGATIVA",
+     "pista": "Si la diferencia es ___, la sucesión baja."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "En 5, 8, 11, 14, …, ¿cuánto vale a₂₀?",
+     "opciones": [
+      "60",
+      "62",
+      "65",
+      "57"
+     ],
+     "correcta": 1,
+     "explicacion": "5 + 19 · 3 = 62."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué la fórmula usa n − 1?",
+     "opciones": [
+      "Del término 1 al n hay n − 1 saltos",
+      "Porque el último término no cuenta",
+      "Para que la cuenta dé más chico",
+      "Porque d siempre es 1"
+     ],
+     "correcta": 0,
+     "explicacion": "El primer término ya está: faltan n − 1 saltos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En una aritmética con d = −2, la sucesión baja de a 2.",
+     "respuesta": true,
+     "explicacion": "Cada término es 2 menos que el anterior."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Sucesiones geométricas",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Multiplicar siempre por lo mismo",
+     "texto": "En una sucesión **geométrica** cada término se obtiene multiplicando el anterior siempre por el mismo número, que se llama **razón** y se escribe **r**. En 3, 6, 12, 24, … la razón es 2.\n\nDel primer término al término n hay n − 1 saltos, y en cada salto se multiplica por r. Por eso aparece una potencia."
+    },
+    {
+     "t": "ecuacion",
+     "titulo": "Término general de una sucesión geométrica",
+     "formula": "aₙ = a₁ · rⁿ⁻¹",
+     "texto": "a₁ es el primer término, r es la razón y n es la posición."
+    },
+    {
+     "t": "texto",
+     "titulo": "Sumar o multiplicar: cómo crecen",
+     "texto": "Compará dos sucesiones que empiezan en 2. La aritmética que suma 2 da 2, 4, 6, 8, 10, 12. La geométrica que multiplica por 2 da 2, 4, 8, 16, 32, 64. Al principio van parejas, pero la geométrica de razón mayor que 1 **crece cada vez más rápido**."
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/mat-4-04-barras.svg",
+     "src_movil": "img/clases/mat-4-04-barras-movil.svg",
+     "tipo": "grafico",
+     "animacion": "svg",
+     "alt": "Dos gráficos de barras con la misma escala. Aritmética: 2, 4, 6, 8, 10, 12. Geométrica: 2, 4, 8, 16, 32, 64. Las barras de la geométrica crecen cada vez más.",
+     "epigrafe": "Las dos sucesiones del texto, con barras. Esquema elaborado para esta clase."
+    },
+    {
+     "t": "verificar",
+     "consigna": "En la sucesión 4, 12, 36, …, calculá a₆.",
+     "respuesta": "972",
+     "explicacion": "a₁ = 4 y r = 3: a₆ = 4 · 3⁵ = 4 · 243 = 972.",
+     "pista1": "Primero encontrá la razón: ¿por cuánto se multiplica?",
+     "pista": "r = 3. Usá aₙ = a₁ · rⁿ⁻¹ con n = 6: hace falta 3⁵."
+    },
+    {
+     "t": "sim",
+     "sim": "sucesion",
+     "tipo": "geometrica",
+     "titulo": "Armá una sucesión geométrica",
+     "consigna": "Mové los controles para armar una sucesión geométrica con a₁ = 3 en la que el término de la posición 5 valga 48.",
+     "objetivo": {
+      "cumple": {
+       "a": 3,
+       "n": 5,
+       "termino": 48
+      },
+      "cerca": {
+       "a": 3,
+       "n": 5
+      },
+      "mensaje_cerca": "El primer término y la posición ya están bien. Ahora probá con otra razón."
+     },
+     "explicacion": "La razón es 2: a₅ = 3 · 2⁴ = 3 · 16 = 48.",
+     "inicial": {
+      "a": 2,
+      "r": 4,
+      "n": 3
+     }
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Cuál es el término general de 2, 6, 18, 54, …?",
+     "opciones": [
+      "aₙ = 2 + (n − 1) · 4",
+      "aₙ = 3 · 2ⁿ⁻¹",
+      "aₙ = 2 · 3ⁿ⁻¹",
+      "aₙ = 6 · n − 4"
+     ],
+     "correcta": 2,
+     "explicacion": "Es geométrica con a₁ = 2 y r = 3. Comprobación: a₄ = 2 · 3³ = 54.",
+     "pista": "Fijate si se suma o se multiplica siempre lo mismo, y probá cada fórmula con n = 1 y n = 2."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "En 5, 10, 15, 20, … la razón es 2.",
+       "v": false,
+       "explicacion": "Es aritmética: se suma 5. 15 / 10 no da 2.",
+       "pista": "Dividí dos términos seguidos y compará."
+      },
+      {
+       "texto": "En 64, 32, 16, 8, … la razón es 1/2.",
+       "v": true,
+       "explicacion": "Cada término es la mitad del anterior."
+      },
+      {
+       "texto": "Una geométrica de razón 2 termina superando a una aritmética de diferencia 2 que empieza igual.",
+       "v": true,
+       "explicacion": "Es lo que muestran las barras: 64 contra 12 en el sexto término."
+      },
+      {
+       "texto": "Si r = 1, todos los términos son iguales.",
+       "v": true,
+       "explicacion": "Multiplicar por 1 no cambia nada."
+      }
+     ]
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Desafío",
+     "consigna": "Una noticia la recibe 1 persona el primer día, y cada día la cantidad de personas que la reciben se triplica. ¿Cuántas personas la reciben el día 7?",
+     "respuesta": "729",
+     "explicacion": "Es geométrica con a₁ = 1 y r = 3: a₇ = 1 · 3⁶ = 729.",
+     "pista1": "¿Se suma o se multiplica cada día? Escribí los primeros términos.",
+     "pista": "a₁ = 1 y r = 3. Del día 1 al día 7 hay 6 saltos: calculá 3⁶."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "En la geométrica 64, 32, 16, 8, … ¿algún término llega a ser 0?",
+     "respuesta": "No. Cada término es la mitad del anterior: 4, 2, 1, 0,5, 0,25, … Se acercan cada vez más a 0, pero ninguno es 0, porque la mitad de un número positivo sigue siendo positiva."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es una sucesión geométrica y escribí su fórmula. Calculá a₆ en 4, 12, 36, … y compará cómo crecen una aritmética y una geométrica que empiezan igual.",
+    "guia": [
+     "¿Cómo te das cuenta de que una sucesión es geométrica y qué significa cada letra de la fórmula?",
+     "¿Por qué en la fórmula aparece una potencia?",
+     "¿Cuánto vale a₆ en 4, 12, 36, …?",
+     "¿Cuál crece más rápido a largo plazo, una aritmética o una geométrica, y por qué?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "En 3, 6, 12, 24, … la razón es 2.",
+     "respuesta": true,
+     "explicacion": "Se multiplica por 2."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En una geométrica se suma siempre lo mismo.",
+     "respuesta": false,
+     "explicacion": "Se multiplica siempre por lo mismo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Con a₁ = 5 y r = 2, a₃ = 20.",
+     "respuesta": true,
+     "explicacion": "5 · 2² = 20."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En 81, 27, 9, 3, … la razón es 1/3.",
+     "respuesta": true,
+     "explicacion": "Cada término es la tercera parte del anterior."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La aritmética 2, 4, 6, … crece más rápido que la geométrica 2, 4, 8, …",
+     "respuesta": false,
+     "explicacion": "La geométrica de razón 2 crece cada vez más rápido."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la fórmula geométrica, r se eleva a la n − 1.",
+     "respuesta": true,
+     "explicacion": "aₙ = a₁ · rⁿ⁻¹."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué término sigue en 5, 15, 45, …?",
+     "opciones": [
+      "60",
+      "90",
+      "75",
+      "135"
+     ],
+     "correcta": 3,
+     "explicacion": "r = 3: 45 · 3 = 135."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Con a₁ = 2 y r = 2, a₅ vale…",
+     "opciones": [
+      "32",
+      "16",
+      "10",
+      "64"
+     ],
+     "correcta": 0,
+     "explicacion": "2 · 2⁴ = 32."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es la razón de 100, 50, 25, …?",
+     "opciones": [
+      "−50",
+      "2",
+      "1/2",
+      "25"
+     ],
+     "correcta": 2,
+     "explicacion": "Cada término es la mitad del anterior."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En aₙ = a₁ · rⁿ⁻¹, la letra r es…",
+     "opciones": [
+      "la razón",
+      "la diferencia",
+      "la posición",
+      "el primer término"
+     ],
+     "correcta": 0,
+     "explicacion": "Es el número por el que se multiplica."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas sucesiones es geométrica?",
+     "opciones": [
+      "2, 4, 6, 8",
+      "1, 4, 9, 16",
+      "3, 9, 27, 81",
+      "5, 10, 15, 20"
+     ],
+     "correcta": 2,
+     "explicacion": "Se multiplica por 3."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Algo que se triplica cada día, empezando en 1, el día 4 vale…",
+     "opciones": [
+      "12",
+      "81",
+      "9",
+      "27"
+     ],
+     "correcta": 3,
+     "explicacion": "1 · 3³ = 27."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "GEOMÉTRICA",
+     "pista": "Sucesión en la que se multiplica siempre por lo mismo."
+    },
+    {
+     "palabra": "RAZÓN",
+     "pista": "Número por el que se multiplica en cada salto: r."
+    },
+    {
+     "palabra": "POTENCIA",
+     "pista": "En la fórmula geométrica, r aparece como ___."
+    },
+    {
+     "palabra": "TRIPLICA",
+     "pista": "Si la razón es 3, cada término se ___."
+    },
+    {
+     "palabra": "MITAD",
+     "pista": "Con razón 1/2, cada término es la ___ del anterior."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "En 3, 6, 12, 24, …, ¿cuánto vale a₈?",
+     "opciones": [
+      "48",
+      "192",
+      "384",
+      "768"
+     ],
+     "correcta": 2,
+     "explicacion": "3 · 2⁷ = 3 · 128 = 384."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué una geométrica de razón 2 termina superando a una aritmética de diferencia 2?",
+     "opciones": [
+      "Porque empieza en un número más grande",
+      "Porque lo que agrega crece en cada salto",
+      "Porque tiene más términos",
+      "Porque la razón es negativa"
+     ],
+     "correcta": 1,
+     "explicacion": "La aritmética agrega siempre 2; la geométrica duplica, y lo que agrega es cada vez más grande."
+    },
+    {
+     "tipo": "vf",
+     "texto": "64, 32, 16, 8 es una sucesión geométrica.",
+     "respuesta": true,
+     "explicacion": "Tiene razón 1/2."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Sucesión",
+   "definicion": "Lista ordenada de números. Cada uno es un término: a₁, a₂, …, aₙ."
+  },
+  {
+   "palabra": "Término general",
+   "definicion": "Fórmula que da el término aₙ de cualquier posición n."
+  },
+  {
+   "palabra": "Sucesión aritmética",
+   "definicion": "Cada término se obtiene sumando al anterior la diferencia d: aₙ = a₁ + (n − 1) · d."
+  },
+  {
+   "palabra": "Diferencia",
+   "definicion": "Número que se suma en cada salto de una sucesión aritmética."
+  },
+  {
+   "palabra": "Sucesión geométrica",
+   "definicion": "Cada término se obtiene multiplicando el anterior por la razón r: aₙ = a₁ · rⁿ⁻¹."
+  },
+  {
+   "palabra": "Razón",
+   "definicion": "Número por el que se multiplica en cada salto de una sucesión geométrica."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Del término 1 al término 10 hay 10 saltos.",
+   "aclaracion": "Hay 9: por eso la fórmula usa n − 1."
+  },
+  {
+   "error": "En 5, 10, 15, 20 la razón es 2, porque 10 es el doble de 5.",
+   "aclaracion": "Para ser geométrica, todos los cocientes tienen que ser iguales: 15 / 10 = 1,5. Es aritmética con d = 5."
+  },
+  {
+   "error": "Una aritmética y una geométrica que empiezan igual crecen parecido.",
+   "aclaracion": "Una geométrica de razón mayor que 1 crece cada vez más rápido y termina superando a cualquier aritmética."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Si hacés una tabla con n y aₙ para una sucesión geométrica de razón 2 y la graficás, ¿qué forma tiene la curva que une los puntos?",
+  "conexion": "Esto se conecta con la clase de funciones exponenciales y logarítmicas."
+ }
+}

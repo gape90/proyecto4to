@@ -1,0 +1,1023 @@
+{
+ "id": "geo-4-09",
+ "espacio": "geografia",
+ "eje": "La circulación de las producciones",
+ "titulo": "Centros de innovación y desarrollo",
+ "intro": "Hay lugares del mundo donde lo que más se produce son ideas, diseños y descubrimientos. Vas a ver qué es un centro de innovación, cómo cambió la forma de producir y cómo llega su influencia a todo el mundo, incluida la Argentina.",
+ "objetivos": [
+  "Explicar qué es un centro de innovación y desarrollo y quiénes lo forman.",
+  "Describir la cadena de un producto tecnológico y dónde se hace cada etapa.",
+  "Reconocer el alcance mundial de los centros de innovación y el caso de INVAP."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: qué es un centro de innovación, el caso de Silicon Valley, la cadena de un producto tecnológico, otros centros del mundo y la historia de INVAP.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Lugares donde se produce conocimiento",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Una pregunta para arrancar",
+     "texto": "Agarrá tu celular. ¿Dónde se pensó? ¿Dónde se fabricaron sus partes? ¿Dónde se armó? Seguramente no fue en un solo lugar, y el lugar donde se pensó no es el mismo donde se fabricó."
+    },
+    {
+     "t": "texto",
+     "titulo": "Qué es un centro de innovación",
+     "texto": "Un **centro de innovación y desarrollo** es un lugar donde se concentran **universidades**, **laboratorios**, **empresas tecnológicas** y personas e instituciones que invierten en ellas. Lo que más se produce ahí no son objetos: es **conocimiento**, es decir, ideas, diseños, programas y descubrimientos.\n\nA la tarea de investigar para crear productos o mejorar los que existen se la llama **investigación y desarrollo**, o **I+D**."
+    },
+    {
+     "t": "texto",
+     "titulo": "Silicon Valley",
+     "texto": "El caso más conocido es **Silicon Valley**, en el sur de la bahía de San Francisco, en California (Estados Unidos). Su nombre viene del **silicio**, el material con el que se fabrican los chips. Allí están algunas de las universidades más prestigiosas del mundo, como Stanford, y las sedes de grandes empresas de tecnología, como Apple, en Cupertino, y Google, en Mountain View.\n\nLa cercanía entre universidades, empresas e inversores hace que las ideas circulen rápido: estudiantes que crean empresas, profesores que asesoran, empresas que contratan investigadores."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-09-silicon-valley.jpg",
+     "tipo": "foto",
+     "alt": "Vista aérea de un enorme edificio circular con forma de anillo, con techo de paneles solares y un parque con árboles en el centro, rodeado de barrios de casas bajas.",
+     "epigrafe": "Apple Park, la sede de Apple en Cupertino (Silicon Valley, Estados Unidos), en 2019.",
+     "fuente": "Foto: Arne Müseler / arne-mueseler.com / CC-BY-SA-3.0 (creativecommons.org/licenses/by-sa/3.0/de), vía Wikimedia Commons. Imagen reducida.",
+     "animacion": "alejar"
+    },
+    {
+     "t": "comparar",
+     "titulo": "Quiénes forman un centro de innovación",
+     "columnas": [
+      "Actor",
+      "Qué aporta"
+     ],
+     "filas": [
+      [
+       "Universidades",
+       "Investigan y forman profesionales"
+      ],
+      [
+       "Laboratorios",
+       "Hacen pruebas y desarrollan nuevas tecnologías"
+      ],
+      [
+       "Empresas tecnológicas",
+       "Convierten las ideas en productos y los venden"
+      ],
+      [
+       "Inversores",
+       "Ponen el dinero para que nuevas empresas puedan empezar"
+      ]
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Un **centro de innovación y desarrollo** concentra **universidades**, **laboratorios**, **empresas tecnológicas** e **inversores**. Su principal producción es el **conocimiento** (I+D). El ejemplo más conocido es **Silicon Valley**, en California."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada actor con lo que aporta. Si no te acordás, mirá la tabla.",
+     "pares": [
+      {
+       "a": "Universidades",
+       "b": "Investigan y forman profesionales"
+      },
+      {
+       "a": "Laboratorios",
+       "b": "Hacen pruebas y desarrollan tecnologías"
+      },
+      {
+       "a": "Empresas tecnológicas",
+       "b": "Convierten las ideas en productos"
+      },
+      {
+       "a": "Inversores",
+       "b": "Ponen el dinero para empezar"
+      }
+     ],
+     "explicacion": "Juntos forman un centro de innovación.",
+     "pista": "Está en la tabla de quiénes forman un centro de innovación."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "Silicon Valley está en [[California]]. Su nombre viene del [[silicio]], el material de los chips. Lo que más se produce en un centro de innovación es [[conocimiento]]. A investigar para crear productos se lo llama investigación y [[desarrollo]].",
+     "distractores": [
+      "Texas",
+      "petróleo",
+      "comercio"
+     ],
+     "explicacion": "Así se resume qué es un centro de innovación.",
+     "pista": "Releé los textos sobre Silicon Valley y sobre qué es un centro de innovación."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🔍 Encontrá el error",
+     "pregunta": "Cuatro frases sobre el tema; una tiene un error. ¿Cuál es?",
+     "opciones": [
+      "Silicon Valley está en California.",
+      "La sede de Apple está en Cupertino.",
+      "En un centro de innovación lo principal es la extracción de minerales.",
+      "I+D significa investigación y desarrollo."
+     ],
+     "correcta": 2,
+     "explicacion": "Lo principal es el conocimiento: ideas, diseños, programas y descubrimientos.",
+     "pista": "Releé el texto sobre qué es un centro de innovación."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "Stanford es una universidad de Silicon Valley.",
+       "v": true,
+       "explicacion": "Lo dice el texto sobre Silicon Valley."
+      },
+      {
+       "texto": "Google tiene su sede en Mountain View.",
+       "v": true,
+       "explicacion": "En Silicon Valley."
+      },
+      {
+       "texto": "Los inversores investigan y forman profesionales.",
+       "v": false,
+       "explicacion": "Eso lo hacen las universidades; los inversores ponen el dinero."
+      },
+      {
+       "texto": "El techo de Apple Park tiene paneles solares.",
+       "v": true,
+       "explicacion": "Se ve en la foto."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué te parece que las empresas tecnológicas eligen instalarse cerca de universidades?",
+     "respuesta": "Porque necesitan personas formadas y nuevas ideas. Cerca de una universidad encuentran estudiantes para contratar, investigadores con quienes trabajar y laboratorios. Y los estudiantes, a su vez, encuentran trabajo y pueden crear sus propias empresas."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es un centro de innovación y desarrollo, quiénes lo forman y qué produce. Usá Silicon Valley como ejemplo.",
+    "guia": [
+     "¿Qué es un centro de innovación y desarrollo?",
+     "¿Qué significa I+D?",
+     "¿Qué aporta cada actor: universidades, laboratorios, empresas e inversores?",
+     "¿Dónde está Silicon Valley y de dónde viene su nombre?",
+     "¿Por qué las empresas se instalan cerca de las universidades?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "En un centro de innovación lo principal que se produce es conocimiento.",
+     "respuesta": true,
+     "explicacion": "Ideas, diseños, programas y descubrimientos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Silicon Valley está en Texas.",
+     "respuesta": false,
+     "explicacion": "Está en California."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El nombre de Silicon Valley viene del silicio.",
+     "respuesta": true,
+     "explicacion": "El material de los chips."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Apple tiene su sede en Cupertino.",
+     "respuesta": true,
+     "explicacion": "Se llama Apple Park."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los inversores ponen el dinero para que nuevas empresas puedan empezar.",
+     "respuesta": true,
+     "explicacion": "Es lo que aportan."
+    },
+    {
+     "tipo": "vf",
+     "texto": "I+D significa industria y defensa.",
+     "respuesta": false,
+     "explicacion": "Significa investigación y desarrollo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa I+D?",
+     "opciones": [
+      "Investigación y desarrollo",
+      "Industria y diseño",
+      "Inversión y deuda",
+      "Importación y distribución"
+     ],
+     "correcta": 0,
+     "explicacion": "Investigar para crear o mejorar productos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde está Silicon Valley?",
+     "opciones": [
+      "En Nueva York",
+      "En el sur de la bahía de San Francisco",
+      "En Texas",
+      "En Londres"
+     ],
+     "correcta": 1,
+     "explicacion": "En California."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué aportan los laboratorios?",
+     "opciones": [
+      "Dinero",
+      "Pruebas y nuevas tecnologías",
+      "Ventas",
+      "Edificios"
+     ],
+     "correcta": 1,
+     "explicacion": "Desarrollan tecnologías."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué universidad está en Silicon Valley?",
+     "opciones": [
+      "Oxford",
+      "La Sorbona",
+      "Stanford",
+      "Harvard"
+     ],
+     "correcta": 2,
+     "explicacion": "Stanford."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué material da nombre a Silicon Valley?",
+     "opciones": [
+      "El silicio",
+      "El oro",
+      "El petróleo",
+      "El carbón"
+     ],
+     "correcta": 0,
+     "explicacion": "Se usa para fabricar chips."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué empresa tiene su sede en Mountain View?",
+     "opciones": [
+      "Apple",
+      "Volkswagen",
+      "Petrobras",
+      "Google"
+     ],
+     "correcta": 3,
+     "explicacion": "Google."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "SILICIO",
+     "pista": "Material de los chips que da nombre a Silicon Valley."
+    },
+    {
+     "palabra": "INNOVACIÓN",
+     "pista": "Creación de algo nuevo o mejorado."
+    },
+    {
+     "palabra": "UNIVERSIDAD",
+     "pista": "Institución que investiga y forma profesionales."
+    },
+    {
+     "palabra": "LABORATORIO",
+     "pista": "Lugar donde se hacen pruebas e investigaciones."
+    },
+    {
+     "palabra": "STANFORD",
+     "pista": "Universidad de Silicon Valley."
+    },
+    {
+     "palabra": "CHIP",
+     "pista": "Pequeña pieza electrónica hecha de silicio."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia a un centro de innovación de una zona industrial tradicional?",
+     "opciones": [
+      "Que su principal producción es el conocimiento",
+      "Que no tiene empresas",
+      "Que produce solo alimentos",
+      "Que no tiene universidades"
+     ],
+     "correcta": 0,
+     "explicacion": "Ideas, diseños y descubrimientos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué la cercanía entre universidades y empresas es importante?",
+     "opciones": [
+      "Porque las ideas y las personas circulan más rápido",
+      "Porque es más barato el terreno",
+      "Porque lo exige la ley",
+      "Porque no hay otra opción"
+     ],
+     "correcta": 0,
+     "explicacion": "Facilita la colaboración."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es Silicon Valley?",
+     "opciones": [
+      "Un desierto",
+      "El centro de innovación más conocido del mundo, en California",
+      "Una mina de silicio",
+      "Un puerto"
+     ],
+     "correcta": 1,
+     "explicacion": "Reúne universidades, empresas e inversores."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Una nueva forma de producir",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Pensar en un lugar, fabricar en otro",
+     "texto": "En los centros de innovación cambió la **forma de producir**. Las empresas tecnológicas se quedan con las etapas que requieren más conocimiento, como la investigación y el diseño, y muchas veces encargan la fabricación a otras empresas en otros países, donde producir cuesta menos.\n\nUn ejemplo conocido: en los celulares de Apple aparece la frase \"Designed by Apple in California. Assembled in China\" (\"Diseñado por Apple en California. Ensamblado en China\"). En una sola línea están las dos puntas de la cadena."
+    },
+    {
+     "t": "pasos",
+     "titulo": "La cadena de un producto tecnológico",
+     "pasos": [
+      {
+       "titulo": "Investigación",
+       "texto": "Universidades y laboratorios investigan nuevas tecnologías."
+      },
+      {
+       "titulo": "Diseño",
+       "texto": "La empresa diseña el producto y su programa. Suele hacerse en el centro de innovación."
+      },
+      {
+       "titulo": "Fabricación de piezas",
+       "texto": "Distintas fábricas, en distintos países, producen los chips, las pantallas y las baterías."
+      },
+      {
+       "titulo": "Ensamblado",
+       "texto": "Todas las piezas se juntan y se arma el producto, muchas veces en Asia."
+      },
+      {
+       "titulo": "Venta mundial",
+       "texto": "El producto se vende en todo el mundo, y parte de la ganancia vuelve a la empresa que lo diseñó."
+      }
+     ]
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-09-sala-limpia.jpg",
+     "tipo": "foto",
+     "alt": "Técnicos con trajes blancos, guantes y barbijo trabajan en una sala muy limpia y luminosa, armando piezas metálicas brillantes.",
+     "epigrafe": "Técnicos en la sala limpia de un laboratorio de investigación en Estados Unidos (Jefferson Lab), en 2022. En estas salas se controla el polvo, porque una mínima partícula puede arruinar una pieza.",
+     "fuente": "Foto: Aileen Devlin / Jefferson Lab, dominio público, vía Wikimedia Commons. Imagen reducida.",
+     "animacion": "acercar"
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "En la nueva forma de producir, las empresas de los centros de innovación se quedan con la **investigación** y el **diseño**, y la **fabricación** y el **ensamblado** se hacen muchas veces en otros países. El producto recorre una **cadena** que cruza el mundo."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená las etapas de la cadena de un producto tecnológico.",
+     "items": [
+      "Investigación",
+      "Diseño",
+      "Fabricación de piezas",
+      "Ensamblado",
+      "Venta mundial"
+     ],
+     "explicacion": "Así recorre el mundo un producto tecnológico.",
+     "pista": "Seguí los pasos de la cadena."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Esta etapa suele hacerse en el centro de innovación o en otros lugares?",
+     "categorias": [
+      "En el centro de innovación",
+      "Muchas veces en otros países"
+     ],
+     "items": [
+      {
+       "texto": "Diseñar el producto",
+       "cat": "En el centro de innovación"
+      },
+      {
+       "texto": "Ensamblar las piezas",
+       "cat": "Muchas veces en otros países"
+      },
+      {
+       "texto": "Investigar nuevas tecnologías",
+       "cat": "En el centro de innovación"
+      },
+      {
+       "texto": "Fabricar pantallas y baterías",
+       "cat": "Muchas veces en otros países"
+      }
+     ],
+     "explicacion": "El conocimiento se queda en el centro; la fabricación se reparte por el mundo.",
+     "pista": "Releé el texto sobre pensar en un lugar y fabricar en otro."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Completá el dato: según la frase que aparece en los celulares de Apple, ¿en qué país se ensamblan?",
+     "respuesta": "China",
+     "acepta": [
+      "china"
+     ],
+     "explicacion": "\"Designed by Apple in California. Assembled in China\".",
+     "pista1": "La frase está en el primer texto de esta parte.",
+     "pista": "\"Assembled in...\" significa \"ensamblado en...\"."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🗣️ ¿Quién lo diría?",
+     "pregunta": "La frase es inventada: \"Hoy armamos dos mil teléfonos, pero no sabemos quién los diseñó\". ¿Quién la diría?",
+     "opciones": [
+      "Una investigadora de Stanford",
+      "Un trabajador de una fábrica de ensamblado",
+      "Una inversora de Silicon Valley",
+      "Un diseñador de Apple"
+     ],
+     "correcta": 1,
+     "explicacion": "El ensamblado suele hacerse lejos de donde se diseña el producto.",
+     "pista": "Pensá en qué etapa de la cadena se arman los teléfonos."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: si un celular se diseña en California y se ensambla en China, ¿dónde te parece que queda la mayor parte de la ganancia?",
+     "respuesta": "En general, la mayor parte de la ganancia queda en la empresa que tiene el conocimiento: la que investiga, diseña y es dueña de la marca. El ensamblado es necesario, pero se paga menos, porque muchas fábricas pueden hacerlo. Por eso los países buscan tener sus propios centros de innovación."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá cómo es la nueva forma de producir de los centros de innovación. Describí la cadena de un producto tecnológico y qué etapas se quedan en el centro y cuáles se hacen en otros países.",
+    "guia": [
+     "¿Qué etapas se quedan en el centro de innovación?",
+     "¿Qué etapas se hacen muchas veces en otros países? ¿Por qué?",
+     "¿Cuáles son los pasos de la cadena?",
+     "¿Qué muestra la frase de los celulares de Apple?",
+     "¿Dónde queda la mayor parte de la ganancia?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Las empresas tecnológicas suelen quedarse con el diseño.",
+     "respuesta": true,
+     "explicacion": "Es una etapa de mucho conocimiento."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El ensamblado siempre se hace en el centro de innovación.",
+     "respuesta": false,
+     "explicacion": "Muchas veces se hace en otros países."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La frase de los celulares de Apple dice que se ensamblan en China.",
+     "respuesta": true,
+     "explicacion": "\"Assembled in China\"."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En una sala limpia se controla el polvo.",
+     "respuesta": true,
+     "explicacion": "Una partícula puede arruinar una pieza."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La venta es la primera etapa de la cadena.",
+     "respuesta": false,
+     "explicacion": "Es la última."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los chips, las pantallas y las baterías pueden fabricarse en distintos países.",
+     "respuesta": true,
+     "explicacion": "La fabricación se reparte por el mundo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué etapa suele hacerse en el centro de innovación?",
+     "opciones": [
+      "El diseño",
+      "El ensamblado",
+      "La fabricación de baterías",
+      "El transporte"
+     ],
+     "correcta": 0,
+     "explicacion": "Requiere mucho conocimiento."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es la primera etapa de la cadena?",
+     "opciones": [
+      "Venta",
+      "Ensamblado",
+      "Investigación",
+      "Diseño"
+     ],
+     "correcta": 2,
+     "explicacion": "Primero se investiga."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué se fabrica en otros países?",
+     "opciones": [
+      "Porque producir cuesta menos",
+      "Porque está prohibido en California",
+      "Porque no hay fábricas en Estados Unidos",
+      "Porque lo exige la ONU"
+     ],
+     "correcta": 0,
+     "explicacion": "Bajan los costos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué se hace en el ensamblado?",
+     "opciones": [
+      "Se investiga",
+      "Se juntan las piezas y se arma el producto",
+      "Se diseña",
+      "Se vende"
+     ],
+     "correcta": 1,
+     "explicacion": "Muchas veces en Asia."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde queda en general la mayor parte de la ganancia?",
+     "opciones": [
+      "En la fábrica de ensamblado",
+      "En la empresa que investiga, diseña y es dueña de la marca",
+      "En el transporte",
+      "En nadie"
+     ],
+     "correcta": 1,
+     "explicacion": "Tiene el conocimiento."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué se controla en una sala limpia?",
+     "opciones": [
+      "El ruido",
+      "La temperatura del mar",
+      "El polvo",
+      "La luz del sol"
+     ],
+     "correcta": 2,
+     "explicacion": "Una partícula puede arruinar una pieza."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "DISEÑO",
+     "pista": "Etapa en la que se piensa el producto."
+    },
+    {
+     "palabra": "ENSAMBLADO",
+     "pista": "Etapa en la que se juntan las piezas."
+    },
+    {
+     "palabra": "CADENA",
+     "pista": "Recorrido de un producto por distintas etapas y lugares."
+    },
+    {
+     "palabra": "PIEZAS",
+     "pista": "Chips, pantallas y baterías."
+    },
+    {
+     "palabra": "MARCA",
+     "pista": "Nombre de la empresa dueña del producto."
+    },
+    {
+     "palabra": "CHINA",
+     "pista": "País donde se ensamblan muchos celulares."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué cambió en la forma de producir?",
+     "opciones": [
+      "Todo se hace en un solo lugar",
+      "El diseño queda en el centro de innovación y la fabricación se reparte por el mundo",
+      "Ya no se fabrican productos",
+      "Solo se produce en Europa"
+     ],
+     "correcta": 1,
+     "explicacion": "Pensar en un lugar, fabricar en otro."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué muestra la frase de los celulares de Apple?",
+     "opciones": [
+      "Que se diseñan y ensamblan en el mismo lugar",
+      "Que se diseñan en California y se ensamblan en China",
+      "Que se fabrican en la Argentina",
+      "Que no tienen piezas"
+     ],
+     "correcta": 1,
+     "explicacion": "Las dos puntas de la cadena."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué los países buscan tener sus propios centros de innovación?",
+     "opciones": [
+      "Porque la mayor parte de la ganancia queda donde está el conocimiento",
+      "Porque son más baratos",
+      "Porque no necesitan universidades",
+      "Porque producen petróleo"
+     ],
+     "correcta": 0,
+     "explicacion": "El conocimiento es lo que más vale."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Alcances mundiales y un caso argentino",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Centros en todo el mundo",
+     "texto": "Silicon Valley ya no es el único. Hay centros de innovación en muchas regiones: **Bangalore**, en la India, es conocida como \"el Silicon Valley de la India\" por sus empresas de programación y servicios informáticos; **Shenzhen**, en China, concentra empresas de electrónica y fábricas de componentes.\n\nLo que se crea en estos centros tiene **alcance mundial**: un programa, una aplicación o un descubrimiento puede usarse al día siguiente en cualquier lugar del planeta."
+    },
+    {
+     "t": "linea",
+     "titulo": "INVAP, un centro de innovación argentino",
+     "eventos": [
+      {
+       "anio": "1976",
+       "titulo": "Nace INVAP",
+       "texto": "Se crea en San Carlos de Bariloche, a partir de un grupo de investigación de la Comisión Nacional de Energía Atómica (CNEA)."
+      },
+      {
+       "anio": "2011",
+       "titulo": "Satélite SAC-D",
+       "texto": "Se lanza un satélite de observación de la Tierra construido por INVAP."
+      },
+      {
+       "anio": "2014",
+       "titulo": "ARSAT-1",
+       "texto": "Se lanza el primer satélite de comunicaciones construido completamente en la Argentina."
+      },
+      {
+       "anio": "2020",
+       "titulo": "SAOCOM 1B",
+       "texto": "Se lanza el segundo satélite SAOCOM, de observación de la Tierra."
+      }
+     ]
+    },
+    {
+     "t": "texto",
+     "titulo": "Conocimiento que se exporta",
+     "texto": "INVAP también diseña y construye **reactores nucleares de investigación**, y vendió uno a Australia, el reactor OPAL, que funciona en Sídney. Es un ejemplo de que un país como la Argentina puede **exportar conocimiento**, no solo materias primas."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-09-invap.jpg",
+     "tipo": "foto",
+     "alt": "Una sala grande con escritorios y computadoras; personas con camisolas y gorros blancos levantan los brazos y los pulgares en señal de festejo. En la pared hay una bandera argentina y un cartel de INVAP.",
+     "epigrafe": "Operadores de INVAP, en Bariloche, festejan durante el lanzamiento del satélite SAOCOM 1B, el 30 de agosto de 2020.",
+     "fuente": "Foto: CONAE, CC BY 4.0, vía Wikimedia Commons. Imagen reducida.",
+     "animacion": "recorrer"
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Hay centros de innovación en muchas regiones, como **Bangalore** (India) y **Shenzhen** (China), y lo que crean tiene **alcance mundial**. En la Argentina, **INVAP**, creado en **1976** en Bariloche, construye satélites y reactores nucleares de investigación, y **exporta conocimiento**."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "📰 Elegí el titular",
+     "pregunta": "Es 2014. ¿Qué titular podría aparecer en un diario argentino?",
+     "opciones": [
+      "\"Nace INVAP en Bariloche\"",
+      "\"Se lanza el primer satélite de comunicaciones construido completamente en el país\"",
+      "\"Se lanza el SAOCOM 1B\"",
+      "\"Se inaugura Apple Park\""
+     ],
+     "correcta": 1,
+     "explicacion": "En 2014 se lanzó el ARSAT-1, construido por INVAP.",
+     "pista": "Buscá 2014 en la línea de tiempo de INVAP."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada centro de innovación con su especialidad.",
+     "pares": [
+      {
+       "a": "Silicon Valley",
+       "b": "Grandes empresas de tecnología y universidades"
+      },
+      {
+       "a": "Bangalore",
+       "b": "Programación y servicios informáticos"
+      },
+      {
+       "a": "Shenzhen",
+       "b": "Electrónica y fábricas de componentes"
+      },
+      {
+       "a": "INVAP (Bariloche)",
+       "b": "Satélites y reactores nucleares de investigación"
+      }
+     ],
+     "explicacion": "Cada centro tiene su especialidad.",
+     "pista": "Releé el texto sobre centros en todo el mundo y la línea de tiempo de INVAP."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "INVAP se creó en [[1976]] en San Carlos de [[Bariloche]]. Construyó el ARSAT-1, el primer satélite de [[comunicaciones]] hecho completamente en el país. También vendió un reactor nuclear de investigación a [[Australia]].",
+     "distractores": [
+      "1996",
+      "Córdoba",
+      "Canadá"
+     ],
+     "explicacion": "INVAP es un ejemplo de conocimiento argentino que se exporta.",
+     "pista": "Releé la línea de tiempo y el texto sobre conocimiento que se exporta."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "Bangalore es conocida como el Silicon Valley de la India.",
+       "v": true,
+       "explicacion": "Por sus empresas de programación."
+      },
+      {
+       "texto": "INVAP está en Rosario.",
+       "v": false,
+       "explicacion": "Está en San Carlos de Bariloche."
+      },
+      {
+       "texto": "El SAOCOM 1B se lanzó en 2020.",
+       "v": true,
+       "explicacion": "El 30 de agosto de 2020."
+      },
+      {
+       "texto": "La Argentina solo exporta materias primas.",
+       "v": false,
+       "explicacion": "También exporta conocimiento, como el reactor que INVAP vendió a Australia."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿qué necesita un país para tener un centro de innovación como INVAP?",
+     "respuesta": "Necesita universidades y escuelas técnicas que formen profesionales, instituciones de investigación, inversión sostenida durante muchos años y proyectos concretos que den trabajo a esos equipos. INVAP nació de un grupo de investigación de la CNEA y tardó décadas en llegar a construir satélites."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué significa que lo que se crea en los centros de innovación tenga alcance mundial. Nombrá otros centros, aparte de Silicon Valley, y contá la historia de INVAP con la línea de tiempo.",
+    "guia": [
+     "¿Qué otros centros de innovación hay en el mundo y en qué se especializan?",
+     "¿Qué significa alcance mundial?",
+     "¿Cuándo y dónde nació INVAP?",
+     "¿Qué satélites construyó?",
+     "¿Por qué decimos que la Argentina puede exportar conocimiento?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Shenzhen es un centro de electrónica en China.",
+     "respuesta": true,
+     "explicacion": "Concentra empresas de electrónica y fábricas de componentes."
+    },
+    {
+     "tipo": "vf",
+     "texto": "INVAP se creó en 1976.",
+     "respuesta": true,
+     "explicacion": "En San Carlos de Bariloche."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El ARSAT-1 fue construido en Estados Unidos.",
+     "respuesta": false,
+     "explicacion": "Fue el primer satélite de comunicaciones construido completamente en la Argentina."
+    },
+    {
+     "tipo": "vf",
+     "texto": "INVAP vendió un reactor nuclear de investigación a Australia.",
+     "respuesta": true,
+     "explicacion": "El reactor OPAL, en Sídney."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Silicon Valley es el único centro de innovación del mundo.",
+     "respuesta": false,
+     "explicacion": "Hay centros en muchas regiones."
+    },
+    {
+     "tipo": "vf",
+     "texto": "INVAP nació a partir de un grupo de la CNEA.",
+     "respuesta": true,
+     "explicacion": "La Comisión Nacional de Energía Atómica."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué ciudad está INVAP?",
+     "opciones": [
+      "Bariloche",
+      "Córdoba",
+      "Rosario",
+      "Mendoza"
+     ],
+     "correcta": 0,
+     "explicacion": "San Carlos de Bariloche."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué se lanzó en 2014?",
+     "opciones": [
+      "El SAOCOM 1B",
+      "El ARSAT-1",
+      "El SAC-D",
+      "El reactor OPAL"
+     ],
+     "correcta": 1,
+     "explicacion": "El primer satélite de comunicaciones argentino."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué es conocida Bangalore?",
+     "opciones": [
+      "Por el petróleo",
+      "Por la programación y los servicios informáticos",
+      "Por el arroz",
+      "Por los autos"
+     ],
+     "correcta": 1,
+     "explicacion": "Es el Silicon Valley de la India."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde funciona el reactor OPAL?",
+     "opciones": [
+      "En Bariloche",
+      "En Sídney",
+      "En Shenzhen",
+      "En Bruselas"
+     ],
+     "correcta": 1,
+     "explicacion": "En Australia."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa que algo tenga alcance mundial?",
+     "opciones": [
+      "Que solo se usa en un país",
+      "Que puede usarse en cualquier lugar del planeta",
+      "Que es muy caro",
+      "Que no sirve"
+     ],
+     "correcta": 1,
+     "explicacion": "Como un programa o una aplicación."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué festejan las personas de la foto de INVAP?",
+     "opciones": [
+      "Un partido",
+      "El lanzamiento del SAOCOM 1B",
+      "Un cumpleaños",
+      "La inauguración de Apple Park"
+     ],
+     "correcta": 1,
+     "explicacion": "El 30 de agosto de 2020."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "INVAP",
+     "pista": "Empresa de tecnología argentina con sede en Bariloche."
+    },
+    {
+     "palabra": "SATÉLITE",
+     "pista": "Aparato que gira alrededor de la Tierra."
+    },
+    {
+     "palabra": "BARILOCHE",
+     "pista": "Ciudad donde está INVAP."
+    },
+    {
+     "palabra": "BANGALORE",
+     "pista": "Centro de programación de la India."
+    },
+    {
+     "palabra": "REACTOR",
+     "pista": "INVAP vendió uno a Australia."
+    },
+    {
+     "palabra": "EXPORTAR",
+     "pista": "Vender a otros países."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa que el conocimiento tenga alcance mundial?",
+     "opciones": [
+      "Que solo sirve en un lugar",
+      "Que lo que se crea en un centro puede usarse en todo el planeta",
+      "Que no se puede vender",
+      "Que es secreto"
+     ],
+     "correcta": 1,
+     "explicacion": "Un programa puede usarse en cualquier lugar al día siguiente."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué INVAP es un ejemplo importante para la Argentina?",
+     "opciones": [
+      "Porque muestra que el país puede exportar conocimiento",
+      "Porque produce soja",
+      "Porque es una mina",
+      "Porque es un puerto"
+     ],
+     "correcta": 0,
+     "explicacion": "Construye satélites y reactores."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué necesita un país para tener un centro de innovación?",
+     "opciones": [
+      "Solo dinero",
+      "Universidades, investigación e inversión sostenida durante años",
+      "Solo fábricas",
+      "Nada"
+     ],
+     "correcta": 1,
+     "explicacion": "INVAP tardó décadas en llegar a construir satélites."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Centro de innovación y desarrollo",
+   "definicion": "Lugar donde se concentran universidades, laboratorios, empresas tecnológicas e inversores, y donde se produce conocimiento."
+  },
+  {
+   "palabra": "I+D",
+   "definicion": "Investigación y desarrollo: investigar para crear o mejorar productos."
+  },
+  {
+   "palabra": "Silicon Valley",
+   "definicion": "Centro de innovación en California, Estados Unidos."
+  },
+  {
+   "palabra": "Ensamblado",
+   "definicion": "Etapa en la que se juntan las piezas y se arma un producto."
+  },
+  {
+   "palabra": "Cadena de producción",
+   "definicion": "Recorrido de un producto por distintas etapas y lugares."
+  },
+  {
+   "palabra": "Alcance mundial",
+   "definicion": "Posibilidad de que algo se use en cualquier lugar del planeta."
+  },
+  {
+   "palabra": "INVAP",
+   "definicion": "Empresa de tecnología argentina, creada en 1976 en Bariloche."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Los productos tecnológicos se hacen todos en un solo lugar.",
+   "aclaracion": "Se investigan y diseñan en un lugar y muchas veces se fabrican y ensamblan en otros países."
+  },
+  {
+   "error": "La Argentina solo exporta materias primas.",
+   "aclaracion": "También exporta conocimiento: INVAP vendió un reactor nuclear de investigación a Australia."
+  },
+  {
+   "error": "Silicon Valley es una ciudad.",
+   "aclaracion": "Es una región del sur de la bahía de San Francisco, con varias ciudades, como Cupertino y Mountain View."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "¿Hay en tu región alguna universidad, escuela técnica o empresa que investigue o desarrolle tecnología? ¿Qué produce?",
+  "conexion": "Con la clase de las ciudades globales: las sedes de las empresas tecnológicas también forman parte de la red de ciudades."
+ }
+}

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" role="img" aria-label="Tres textos sobre el mismo hecho: una noticia breve, una crónica más larga y un relato testimonial en primera persona." font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect width="1000" height="520" fill="#fff"/>
+<rect x="20" y="20" width="300" height="410" rx="14" fill="#FBFAF6" stroke="#4A4870" stroke-width="3"/>
+<rect x="20" y="20" width="300" height="52" rx="14" fill="#4B4FA3"/><rect x="20" y="56" width="300" height="16" fill="#4B4FA3"/><text x="170" y="55" font-size="24" font-weight="800" fill="#fff" text-anchor="middle" >Noticia</text>
+<text x="170" y="112" font-size="21" font-weight="800" fill="#1B1A4A" text-anchor="middle" >Un marinero sobrevivió</text><text x="170" y="140" font-size="21" font-weight="800" fill="#1B1A4A" text-anchor="middle" >diez días en una balsa</text>
+<line x1="46" y1="184" x2="294" y2="184" stroke="#C9C4DE" stroke-width="7" stroke-linecap="round"/>
+<line x1="46" y1="212" x2="276" y2="212" stroke="#C9C4DE" stroke-width="7" stroke-linecap="round"/>
+<line x1="46" y1="240" x2="258" y2="240" stroke="#C9C4DE" stroke-width="7" stroke-linecap="round"/>
+<text x="170" y="475" font-size="22" font-weight="700" fill="#4B4FA3" text-anchor="middle" >Breve, con los datos</text>
+<rect x="350" y="20" width="300" height="410" rx="14" fill="#FBFAF6" stroke="#4A4870" stroke-width="3"/>
+<rect x="350" y="20" width="300" height="52" rx="14" fill="#5B2A86"/><rect x="350" y="56" width="300" height="16" fill="#5B2A86"/><text x="500" y="55" font-size="24" font-weight="800" fill="#fff" text-anchor="middle" >Crónica</text>
+<text x="500" y="112" font-size="21" font-weight="800" fill="#1B1A4A" text-anchor="middle" >Diez días</text><text x="500" y="140" font-size="21" font-weight="800" fill="#1B1A4A" text-anchor="middle" >en el mar</text>
+<line x1="376" y1="184" x2="624" y2="184" stroke="#C9C4DE" stroke-width="7" stroke-linecap="round"/>
+<line x1="376" y1="212" x2="606" y2="212" stroke="#C9C4DE" stroke-width="7" stroke-linecap="round"/>
+<line x1="376" y1="240" x2="588" y2="240" stroke="#C9C4DE" stroke-width="7" stroke-linecap="round"/>
+<line x1="376" y1="268" x2="624" y2="268" stroke="#C9C4DE" stroke-width="7" stroke-linecap="round"/>
+<line x1="376" y1="296" x2="606" y2="296" stroke="#C9C4DE" stroke-width="7" stroke-linecap="round"/>
+<line x1="376" y1="324" x2="588" y2="324" stroke="#C9C4DE" stroke-width="7" stroke-linecap="round"/>
+<line x1="376" y1="352" x2="624" y2="352" stroke="#C9C4DE" stroke-width="7" stroke-linecap="round"/>
+<line x1="376" y1="380" x2="606" y2="380" stroke="#C9C4DE" stroke-width="7" stroke-linecap="round"/>
+<text x="500" y="475" font-size="22" font-weight="700" fill="#5B2A86" text-anchor="middle" >Con escenas y detalles</text>
+<rect x="680" y="20" width="300" height="410" rx="14" fill="#FBFAF6" stroke="#4A4870" stroke-width="3"/>
+<rect x="680" y="20" width="300" height="52" rx="14" fill="#B83A7A"/><rect x="680" y="56" width="300" height="16" fill="#B83A7A"/><text x="830" y="55" font-size="24" font-weight="800" fill="#fff" text-anchor="middle" >Relato testimonial</text>
+<text x="830" y="112" font-size="21" font-weight="800" fill="#1B1A4A" text-anchor="middle" >&quot;Así viví mis diez</text><text x="830" y="140" font-size="21" font-weight="800" fill="#1B1A4A" text-anchor="middle" >días en el mar&quot;</text>
+<circle cx="732" cy="200" r="22" fill="#F3C9A5"/><rect x="710" y="224" width="44" height="40" rx="14" fill="#B83A7A"/>
+<line x1="780" y1="184" x2="954" y2="184" stroke="#C9C4DE" stroke-width="7" stroke-linecap="round"/>
+<line x1="780" y1="212" x2="936" y2="212" stroke="#C9C4DE" stroke-width="7" stroke-linecap="round"/>
+<line x1="780" y1="240" x2="918" y2="240" stroke="#C9C4DE" stroke-width="7" stroke-linecap="round"/>
+<line x1="780" y1="268" x2="954" y2="268" stroke="#C9C4DE" stroke-width="7" stroke-linecap="round"/>
+<line x1="706" y1="296" x2="936" y2="296" stroke="#C9C4DE" stroke-width="7" stroke-linecap="round"/>
+<line x1="706" y1="324" x2="918" y2="324" stroke="#C9C4DE" stroke-width="7" stroke-linecap="round"/>
+<text x="830" y="475" font-size="22" font-weight="700" fill="#B83A7A" text-anchor="middle" >En primera persona</text>
+</svg>

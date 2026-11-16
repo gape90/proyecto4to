@@ -1,0 +1,1043 @@
+{
+ "id": "geo-4-11",
+ "espacio": "geografia",
+ "eje": "Culturas que se territorializan",
+ "titulo": "Migraciones y refugiados",
+ "intro": "Millones de personas viven en un país distinto del que nacieron: algunas eligieron irse y otras tuvieron que huir. Vas a ver por qué se migra del norte de África a Europa, qué cambia en el origen y en el destino, y quiénes son los refugiados en el mundo actual.",
+ "objetivos": [
+  "Explicar las causas de las migraciones del norte de África a Europa.",
+  "Describir las implicancias sociales de las migraciones en el origen y en el destino.",
+  "Diferenciar migrantes, refugiados y desplazados internos, y reconocer cómo se protege a los refugiados."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: los factores de expulsión y atracción, el caso del norte de África y Europa, las implicancias sociales, el debate sobre políticas migratorias y la situación de los refugiados.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "De África del Norte a Europa",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Una pregunta para arrancar",
+     "texto": "¿Tenés en tu familia abuelos o bisabuelos que llegaron de otro país? Entre fines del siglo XIX y comienzos del XX, millones de personas llegaron a la Argentina desde Europa buscando trabajo. Hoy, el recorrido de muchas personas va en otra dirección: de África hacia Europa."
+    },
+    {
+     "t": "texto",
+     "titulo": "Migrar",
+     "texto": "Una **migración** es el traslado de personas de un lugar a otro para vivir allí. Quien se va de su país es **emigrante** para su lugar de origen e **inmigrante** para el lugar al que llega.\n\nLas personas migran por **factores de expulsión**, que las empujan a irse de su lugar, y por **factores de atracción**, que las llevan a elegir otro destino."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Por qué se migra de África del Norte a Europa",
+     "columnas": [
+      "Factores de expulsión (en el origen)",
+      "Factores de atracción (en el destino)"
+     ],
+     "filas": [
+      [
+       "Falta de empleo, sobre todo para los jóvenes",
+       "Más oportunidades de trabajo"
+      ],
+      [
+       "Salarios bajos",
+       "Salarios más altos"
+      ],
+      [
+       "Conflictos o inestabilidad en algunas zonas",
+       "Familiares y conocidos que ya viven allí"
+      ],
+      [
+       "",
+       "Cercanía y, en algunos casos, un idioma conocido"
+      ]
+     ]
+    },
+    {
+     "t": "texto",
+     "titulo": "Una historia compartida",
+     "texto": "Los países del norte de África, como **Marruecos**, **Argelia** y **Túnez**, están muy cerca de Europa. En el **estrecho de Gibraltar**, entre Marruecos y España, los dos continentes están separados por unos 14 kilómetros de mar.\n\nTambién hay una historia en común. Argelia fue colonia de Francia hasta 1962, y por eso muchos argelinos hablan francés y tienen familiares en Francia. Hoy, las personas de origen marroquí forman una de las comunidades extranjeras más grandes de España."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-11-gibraltar.jpg",
+     "tipo": "foto",
+     "alt": "Vista desde el espacio de dos costas separadas por un paso de mar angosto y azul: arriba a la derecha, el sur de España; abajo a la izquierda, el norte de Marruecos.",
+     "epigrafe": "El estrecho de Gibraltar visto desde el espacio, en 2023. Arriba, el sur de España (Europa); abajo, el norte de Marruecos (África).",
+     "fuente": "NASA Earth Observatory, dominio público, vía Wikimedia Commons. Imagen reducida.",
+     "animacion": "acercar"
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Una **migración** es el traslado de personas para vivir en otro lugar. Se migra por **factores de expulsión** (falta de empleo, salarios bajos) y de **atracción** (trabajo, salarios, familiares). Del norte de África a Europa influyen la **cercanía** (el estrecho de Gibraltar mide unos 14 km) y la **historia compartida**."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada palabra con su significado.",
+     "pares": [
+      {
+       "a": "Migración",
+       "b": "Traslado de personas para vivir en otro lugar"
+      },
+      {
+       "a": "Emigrante",
+       "b": "Quien se va, visto desde su lugar de origen"
+      },
+      {
+       "a": "Inmigrante",
+       "b": "Quien llega, visto desde el lugar de destino"
+      },
+      {
+       "a": "Estrecho de Gibraltar",
+       "b": "Paso de mar entre España y Marruecos"
+      }
+     ],
+     "explicacion": "Emigrante e inmigrante pueden ser la misma persona, vista desde dos lugares.",
+     "pista": "Releé los textos sobre migrar y sobre la historia compartida."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Es un factor de expulsión o de atracción? Si no te acordás, mirá la tabla.",
+     "categorias": [
+      "Expulsión",
+      "Atracción"
+     ],
+     "items": [
+      {
+       "texto": "No conseguir trabajo en el lugar de origen",
+       "cat": "Expulsión"
+      },
+      {
+       "texto": "Tener familiares que ya viven en el destino",
+       "cat": "Atracción"
+      },
+      {
+       "texto": "Salarios bajos en el lugar de origen",
+       "cat": "Expulsión"
+      },
+      {
+       "texto": "Hablar el idioma del país de destino",
+       "cat": "Atracción"
+      }
+     ],
+     "explicacion": "Los de expulsión están en el origen; los de atracción, en el destino.",
+     "pista": "Preguntate si el factor empuja a irse o invita a llegar."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "En el estrecho de [[Gibraltar]], Europa y África están separadas por unos [[14]] kilómetros. [[Argelia]] fue colonia de Francia hasta 1962. Las personas de origen [[marroquí]] forman una de las comunidades extranjeras más grandes de España.",
+     "distractores": [
+      "Ormuz",
+      "140",
+      "argentino"
+     ],
+     "explicacion": "Cercanía e historia ayudan a explicar estas migraciones.",
+     "pista": "Releé el texto sobre la historia compartida."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🔍 Encontrá el error",
+     "pregunta": "Cuatro frases sobre el tema; una tiene un error. ¿Cuál es?",
+     "opciones": [
+      "Marruecos está en el norte de África.",
+      "Argelia fue colonia de Francia hasta 1962.",
+      "Los factores de atracción están en el lugar de origen.",
+      "El estrecho de Gibraltar separa España de Marruecos."
+     ],
+     "correcta": 2,
+     "explicacion": "Los factores de atracción están en el lugar de destino; los de expulsión, en el de origen.",
+     "pista": "Mirá los títulos de las columnas de la tabla."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿en qué se parece la migración de África del Norte a Europa de hoy a la llegada de europeos a la Argentina hace más de cien años?",
+     "respuesta": "En los dos casos mucha gente se fue de su lugar buscando trabajo y mejores condiciones de vida, y llegó a países donde había más oportunidades. También en los dos casos se formaron comunidades en el destino, con sus costumbres, y hubo debates sobre cómo recibir a quienes llegaban."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es una migración y por qué muchas personas migran del norte de África a Europa. Usá la tabla de factores de expulsión y atracción, y la historia compartida entre los dos continentes.",
+    "guia": [
+     "¿Qué es una migración? ¿Qué diferencia hay entre emigrante e inmigrante?",
+     "¿Qué factores de expulsión hay en el norte de África?",
+     "¿Qué factores de atracción hay en Europa?",
+     "¿Por qué la cercanía y la historia influyen?",
+     "¿En qué se parece esta migración a la que llegó a la Argentina hace más de cien años?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Una migración es el traslado de personas para vivir en otro lugar.",
+     "respuesta": true,
+     "explicacion": "Así se define."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El estrecho de Gibraltar mide unos 1.400 km.",
+     "respuesta": false,
+     "explicacion": "Mide unos 14 km en su parte más angosta."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Argelia fue colonia de Francia hasta 1962.",
+     "respuesta": true,
+     "explicacion": "Por eso muchos argelinos hablan francés."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La falta de empleo es un factor de atracción.",
+     "respuesta": false,
+     "explicacion": "Es un factor de expulsión."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Marruecos, Argelia y Túnez están en el norte de África.",
+     "respuesta": true,
+     "explicacion": "Muy cerca de Europa."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Una misma persona puede ser emigrante e inmigrante.",
+     "respuesta": true,
+     "explicacion": "Depende desde qué lugar se la mire."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué países separa el estrecho de Gibraltar?",
+     "opciones": [
+      "España y Marruecos",
+      "Francia y Argelia",
+      "Italia y Túnez",
+      "Egipto y Grecia"
+     ],
+     "correcta": 0,
+     "explicacion": "Europa y África."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos es un factor de atracción?",
+     "opciones": [
+      "Salarios bajos",
+      "Falta de empleo",
+      "Familiares que ya viven en el destino",
+      "Conflictos"
+     ],
+     "correcta": 2,
+     "explicacion": "Invita a llegar."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Hasta qué año fue Argelia colonia de Francia?",
+     "opciones": [
+      "1914",
+      "1962",
+      "1990",
+      "2020"
+     ],
+     "correcta": 1,
+     "explicacion": "Hasta 1962."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es un emigrante?",
+     "opciones": [
+      "Quien llega a un país",
+      "Quien se va, visto desde su lugar de origen",
+      "Quien nunca viaja",
+      "Quien vive en el mar"
+     ],
+     "correcta": 1,
+     "explicacion": "Visto desde el origen."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Desde dónde se tomó la imagen del estrecho?",
+     "opciones": [
+      "Desde un barco",
+      "Desde un avión",
+      "Desde el espacio",
+      "Desde una montaña"
+     ],
+     "correcta": 2,
+     "explicacion": "La publicó la NASA."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué comunidad es una de las más grandes de España?",
+     "opciones": [
+      "La marroquí",
+      "La japonesa",
+      "La australiana",
+      "La canadiense"
+     ],
+     "correcta": 0,
+     "explicacion": "De origen marroquí."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "MIGRACIÓN",
+     "pista": "Traslado de personas para vivir en otro lugar."
+    },
+    {
+     "palabra": "EMIGRANTE",
+     "pista": "Quien se va, visto desde su origen."
+    },
+    {
+     "palabra": "INMIGRANTE",
+     "pista": "Quien llega, visto desde el destino."
+    },
+    {
+     "palabra": "GIBRALTAR",
+     "pista": "Estrecho entre España y Marruecos."
+    },
+    {
+     "palabra": "MARRUECOS",
+     "pista": "País del norte de África frente a España."
+    },
+    {
+     "palabra": "ARGELIA",
+     "pista": "Fue colonia de Francia hasta 1962."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia hay entre factores de expulsión y de atracción?",
+     "opciones": [
+      "Los de expulsión empujan a irse del origen; los de atracción llevan a elegir un destino",
+      "Son lo mismo",
+      "Los de atracción están en el origen",
+      "Los de expulsión están en el destino"
+     ],
+     "correcta": 0,
+     "explicacion": "Uno empuja, el otro atrae."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué influye la historia en las migraciones de Argelia a Francia?",
+     "opciones": [
+      "Porque Argelia fue colonia de Francia y comparten idioma y vínculos",
+      "Porque están en el mismo continente",
+      "Porque no tienen relación",
+      "Porque Francia está en África"
+     ],
+     "correcta": 0,
+     "explicacion": "La historia deja lazos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tienen en común esta migración y la llegada de europeos a la Argentina?",
+     "opciones": [
+      "Nada",
+      "En ambos casos la gente buscó trabajo y mejores condiciones de vida",
+      "En ambos casos se fueron por un sismo",
+      "En ambos casos viajaron al norte"
+     ],
+     "correcta": 1,
+     "explicacion": "Buscaban oportunidades."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Lo que cambia en el origen y en el destino",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Implicancias en los dos lados",
+     "texto": "Las migraciones cambian tanto el lugar de origen como el de destino. En el **origen**, se van muchos jóvenes, y las familias que se quedan reciben **remesas**: el dinero que envían quienes trabajan afuera. En el **destino**, quienes llegan trabajan en sectores como la agricultura, la construcción, el comercio y el cuidado de personas, y las ciudades se vuelven más **diversas**: aparecen comercios, comidas, idiomas y celebraciones de otras culturas.\n\nCon los años, nacen hijos e hijas de inmigrantes en el país de destino: la **segunda generación**, que muchas veces se siente parte de las dos culturas."
+    },
+    {
+     "t": "cita",
+     "etiqueta": "Una carta inventada",
+     "texto": "Mis padres llegaron de Marruecos antes de que yo naciera. Yo nací en Barcelona, hablo catalán y castellano en el colegio y árabe en casa. En el barrio me dicen \"la marroquí\", y cuando vamos a visitar a mis abuelos, allá me dicen \"la española\". Yo creo que soy las dos cosas.",
+     "autor": "Carta inventada para esta clase. La autora no existe."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Un debate en Europa: las políticas migratorias",
+     "columnas": [
+      "Quienes defienden políticas más abiertas",
+      "Quienes defienden más controles"
+     ],
+     "filas": [
+      [
+       "Las personas inmigrantes cubren trabajos que hacen falta",
+       "El Estado tiene que decidir cuántas personas pueden entrar"
+      ],
+      [
+       "Europa tiene una población que envejece y necesita trabajadores jóvenes",
+       "La llegada de muchas personas a la vez presiona sobre los servicios públicos"
+      ],
+      [
+       "La diversidad enriquece la vida de las ciudades",
+       "Hace falta asegurar que quienes llegan se integren"
+      ]
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "En el **origen**, las migraciones se llevan jóvenes y traen **remesas**. En el **destino**, quienes llegan trabajan en distintos sectores y las ciudades se vuelven más **diversas**. La **segunda generación** suele sentirse parte de las dos culturas. Sobre las **políticas migratorias** hay un debate entre quienes defienden más apertura y quienes defienden más controles."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🗣️ ¿Quién lo diría?",
+     "pregunta": "La frase es inventada: \"Con el dinero que manda mi hijo desde Francia pudimos arreglar la casa\". ¿De qué implicancia habla?",
+     "opciones": [
+      "De la diversidad en el destino",
+      "De las remesas que llegan al origen",
+      "De la segunda generación",
+      "De las políticas migratorias"
+     ],
+     "correcta": 1,
+     "explicacion": "Las remesas son el dinero que envían quienes trabajan afuera a sus familias.",
+     "pista": "Releé el texto sobre las implicancias en los dos lados."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená el recorrido de una remesa.",
+     "items": [
+      "Una persona emigra y consigue trabajo en el destino",
+      "Ahorra parte de su sueldo",
+      "Envía dinero a su familia en el origen",
+      "La familia lo usa para vivir, estudiar o mejorar la casa"
+     ],
+     "explicacion": "Así las remesas conectan el destino con el origen.",
+     "pista": "Seguí el camino del dinero desde que la persona consigue trabajo."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "La segunda generación son los hijos e hijas de inmigrantes nacidos en el destino.",
+       "v": true,
+       "explicacion": "Muchas veces se sienten parte de las dos culturas."
+      },
+      {
+       "texto": "La carta de la chica de Barcelona es un testimonio real.",
+       "v": false,
+       "explicacion": "Es una carta inventada para la clase."
+      },
+      {
+       "texto": "Quienes defienden más controles dicen que el Estado tiene que decidir cuántas personas entran.",
+       "v": true,
+       "explicacion": "Es uno de sus argumentos."
+      },
+      {
+       "texto": "Las migraciones solo cambian el lugar de destino.",
+       "v": false,
+       "explicacion": "Cambian el origen y el destino."
+      }
+     ]
+    },
+    {
+     "t": "verificar",
+     "consigna": "Completá el dato: ¿cómo se llama el dinero que envían a sus familias quienes trabajan en otro país?",
+     "respuesta": "remesas",
+     "acepta": [
+      "remesas",
+      "remesa",
+      "las remesas"
+     ],
+     "explicacion": "Las remesas conectan el destino con el origen.",
+     "pista1": "Está en el texto sobre las implicancias en los dos lados.",
+     "pista": "Empieza con \"re\"."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: la chica de la carta dice \"Yo creo que soy las dos cosas\". ¿Qué te dice eso sobre la identidad de la segunda generación?",
+     "respuesta": "Que la identidad no tiene que ser una sola: se puede pertenecer a la vez a la cultura de la familia y a la del lugar donde uno nació y creció. A veces los demás la ven como \"de afuera\" en los dos lugares, y eso puede ser difícil."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué implicancias sociales tienen las migraciones en el lugar de origen y en el de destino. Usá la carta inventada para hablar de la segunda generación y presentá el debate sobre las políticas migratorias sin tomar partido.",
+    "guia": [
+     "¿Qué cambia en el lugar de origen?",
+     "¿Qué son las remesas?",
+     "¿Qué cambia en el lugar de destino?",
+     "¿Qué es la segunda generación y qué muestra la carta?",
+     "¿Qué dicen quienes defienden políticas más abiertas y quienes defienden más controles?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Las remesas son el dinero que envían los migrantes a sus familias.",
+     "respuesta": true,
+     "explicacion": "Llegan al lugar de origen."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las migraciones hacen más diversas a las ciudades de destino.",
+     "respuesta": true,
+     "explicacion": "Con comercios, comidas, idiomas y celebraciones."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La segunda generación nace en el lugar de origen.",
+     "respuesta": false,
+     "explicacion": "Nace en el lugar de destino."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Sobre las políticas migratorias todos opinan lo mismo.",
+     "respuesta": false,
+     "explicacion": "Hay quienes defienden más apertura y quienes defienden más controles."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Quienes defienden políticas más abiertas dicen que Europa necesita trabajadores jóvenes.",
+     "respuesta": true,
+     "explicacion": "Porque su población envejece."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La chica de la carta nació en Barcelona.",
+     "respuesta": true,
+     "explicacion": "Sus padres llegaron de Marruecos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué son las remesas?",
+     "opciones": [
+      "Impuestos",
+      "Dinero que envían los migrantes a sus familias",
+      "Pasajes",
+      "Documentos"
+     ],
+     "correcta": 1,
+     "explicacion": "Llegan al lugar de origen."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la segunda generación?",
+     "opciones": [
+      "Los abuelos de los inmigrantes",
+      "Los hijos e hijas de inmigrantes nacidos en el destino",
+      "Los turistas",
+      "Los que nunca migraron"
+     ],
+     "correcta": 1,
+     "explicacion": "Suelen sentirse parte de las dos culturas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué sectores trabajan muchas personas inmigrantes en Europa?",
+     "opciones": [
+      "Solo en bancos",
+      "Agricultura, construcción, comercio y cuidado de personas",
+      "Solo en el gobierno",
+      "En ninguno"
+     ],
+     "correcta": 1,
+     "explicacion": "Según el texto."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué argumento usan quienes defienden más controles?",
+     "opciones": [
+      "Que la diversidad enriquece",
+      "Que Europa envejece",
+      "Que la llegada de muchas personas a la vez presiona sobre los servicios públicos",
+      "Que hacen falta trabajadores"
+     ],
+     "correcta": 2,
+     "explicacion": "Es uno de sus argumentos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué idiomas habla la chica de la carta?",
+     "opciones": [
+      "Solo árabe",
+      "Catalán, castellano y árabe",
+      "Francés e inglés",
+      "Solo castellano"
+     ],
+     "correcta": 1,
+     "explicacion": "Catalán y castellano en el colegio, árabe en casa."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué pasa en el lugar de origen cuando emigran muchos jóvenes?",
+     "opciones": [
+      "Llegan más jóvenes",
+      "Se van jóvenes y llegan remesas",
+      "No pasa nada",
+      "Se agranda la población joven"
+     ],
+     "correcta": 1,
+     "explicacion": "Es una de las implicancias."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "REMESAS",
+     "pista": "Dinero que envían los migrantes a sus familias."
+    },
+    {
+     "palabra": "DIVERSIDAD",
+     "pista": "Convivencia de distintas culturas."
+    },
+    {
+     "palabra": "GENERACIÓN",
+     "pista": "La \"segunda\" son los hijos de inmigrantes."
+    },
+    {
+     "palabra": "ORIGEN",
+     "pista": "Lugar del que se va una persona."
+    },
+    {
+     "palabra": "DESTINO",
+     "pista": "Lugar al que llega una persona."
+    },
+    {
+     "palabra": "IDENTIDAD",
+     "pista": "Lo que una persona siente que es."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué decimos que las migraciones tienen implicancias en los dos lados?",
+     "opciones": [
+      "Porque cambian el origen y el destino",
+      "Porque solo afectan al destino",
+      "Porque no cambian nada",
+      "Porque solo afectan a los gobiernos"
+     ],
+     "correcta": 0,
+     "explicacion": "Remesas en el origen, diversidad en el destino."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué muestra la carta inventada?",
+     "opciones": [
+      "Que la segunda generación puede sentirse parte de dos culturas",
+      "Que todos los inmigrantes vuelven",
+      "Que no hay escuelas en Barcelona",
+      "Que nadie habla árabe en Europa"
+     ],
+     "correcta": 0,
+     "explicacion": "\"Soy las dos cosas\"."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas frases presenta el debate sin tomar partido?",
+     "opciones": [
+      "Hay que cerrar las fronteras",
+      "Hay que abrir todas las fronteras",
+      "Algunos destacan que hacen falta trabajadores; otros, que el Estado debe controlar cuántos entran",
+      "No hay debate"
+     ],
+     "correcta": 2,
+     "explicacion": "Presenta las dos posiciones."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Refugiados en el mundo actual",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "No todos los que se van eligen irse",
+     "texto": "Un **refugiado** es una persona que tuvo que dejar su país porque teme ser perseguida por su origen, su religión, su nacionalidad, su grupo social o sus **opiniones políticas**, o porque huye de una guerra, y no puede volver sin correr peligro. La define la **Convención sobre el Estatuto de los Refugiados** de 1951.\n\nUn principio central de esa convención es la **no devolución**: un país no puede enviar a una persona refugiada a un lugar donde su vida o su libertad estén en peligro. El organismo de las Naciones Unidas que protege a los refugiados es el **ACNUR**, creado en 1950."
+    },
+    {
+     "t": "comparar",
+     "titulo": "No es lo mismo",
+     "columnas": [
+      "Quién es",
+      "Qué le pasó"
+     ],
+     "filas": [
+      [
+       "Migrante",
+       "Se trasladó a otro lugar, en general buscando mejores condiciones de vida"
+      ],
+      [
+       "Refugiado",
+       "Tuvo que dejar su país por persecución o guerra, y no puede volver sin peligro"
+      ],
+      [
+       "Solicitante de asilo",
+       "Pidió protección como refugiado y espera la respuesta"
+      ],
+      [
+       "Desplazado interno",
+       "Tuvo que dejar su casa, pero sigue dentro de su propio país"
+      ]
+     ]
+    },
+    {
+     "t": "infografia",
+     "titulo": "El desplazamiento forzado a fines de 2025",
+     "items": [
+      {
+       "num": "117,8 millones",
+       "texto": "de personas desplazadas por la fuerza en el mundo"
+      },
+      {
+       "num": "41,6 millones",
+       "texto": "de personas refugiadas"
+      },
+      {
+       "num": "68,7 millones",
+       "texto": "de desplazados internos"
+      },
+      {
+       "num": "9 millones",
+       "texto": "de solicitantes de asilo"
+      }
+     ],
+     "nota": "Datos del informe Tendencias Globales del ACNUR (2026)."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-11-zaatari.jpg",
+     "tipo": "foto",
+     "alt": "Vista aérea de un enorme conjunto de carpas y casillas prefabricadas color arena, ordenadas en calles rectas, con algunos edificios más grandes y una cancha.",
+     "epigrafe": "El campamento de Zaatari (Jordania), en 2013. Se abrió el 28 de julio de 2012 para recibir a personas que huían de la guerra en Siria.",
+     "fuente": "Departamento de Estado de los Estados Unidos, dominio público, vía Wikimedia Commons. Imagen reducida.",
+     "animacion": "recorrer"
+    },
+    {
+     "t": "texto",
+     "titulo": "Un campamento que parece una ciudad",
+     "texto": "En 2022, según el ACNUR, en Zaatari vivían unas 80.000 personas. Con los años, el campamento empezó a funcionar como una ciudad: tiene escuelas a cargo del Ministerio de Educación de Jordania, centros de salud, una planta de energía solar y un mercado con 1.800 tiendas atendidas por personas refugiadas."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Un **refugiado** tuvo que dejar su país por persecución o guerra y no puede volver sin peligro. Lo protegen la **Convención de 1951** y el **ACNUR**, y el principio de **no devolución**. A fines de 2025 había **117,8 millones** de personas desplazadas por la fuerza en el mundo."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Es migrante, refugiado o desplazado interno? Si no te acordás, mirá la tabla.",
+     "categorias": [
+      "Migrante",
+      "Refugiado",
+      "Desplazado interno"
+     ],
+     "items": [
+      {
+       "texto": "Se mudó a otro país porque allí consiguió un trabajo mejor",
+       "cat": "Migrante"
+      },
+      {
+       "texto": "Huyó de la guerra de su país y no puede volver sin peligro",
+       "cat": "Refugiado"
+      },
+      {
+       "texto": "Tuvo que dejar su ciudad por un conflicto, pero sigue en su país",
+       "cat": "Desplazado interno"
+      },
+      {
+       "texto": "Fue perseguido por sus opiniones políticas y se fue a otro país",
+       "cat": "Refugiado"
+      }
+     ],
+     "explicacion": "La diferencia está en si eligió irse o fue forzado, y en si cruzó o no una frontera.",
+     "pista": "Mirá la tabla de arriba y preguntate si la persona cruzó una frontera."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "📰 Elegí el titular",
+     "pregunta": "Es julio de 2012 en Jordania. ¿Qué titular podría aparecer en un diario?",
+     "opciones": [
+      "\"Se firma la Convención sobre el Estatuto de los Refugiados\"",
+      "\"Abre un campamento para recibir a personas que huyen de la guerra en Siria\"",
+      "\"Se crea el ACNUR\"",
+      "\"Marruecos y España firman un tratado\""
+     ],
+     "correcta": 1,
+     "explicacion": "El campamento de Zaatari se abrió el 28 de julio de 2012.",
+     "pista": "Releé el epígrafe de la foto del campamento."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "Los refugiados están protegidos por la Convención de [[1951]]. El organismo de las Naciones Unidas que los protege es el [[ACNUR]]. Según el principio de no [[devolución]], no se puede enviar a un refugiado a un lugar donde corra [[peligro]].",
+     "distractores": [
+      "1991",
+      "UNESCO",
+      "seguridad"
+     ],
+     "explicacion": "Así se resume la protección de los refugiados.",
+     "pista": "Releé el texto sobre quiénes no eligieron irse."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada dato con lo que representa. Si no te acordás, mirá la infografía.",
+     "pares": [
+      {
+       "a": "117,8 millones",
+       "b": "Personas desplazadas por la fuerza"
+      },
+      {
+       "a": "41,6 millones",
+       "b": "Personas refugiadas"
+      },
+      {
+       "a": "68,7 millones",
+       "b": "Desplazados internos"
+      },
+      {
+       "a": "9 millones",
+       "b": "Solicitantes de asilo"
+      }
+     ],
+     "explicacion": "Hay más desplazados internos que refugiados: la mayoría no sale de su país.",
+     "pista": "Están en la infografía del desplazamiento forzado."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿qué diferencia hay entre vivir unos meses en un campamento y vivir allí diez años?",
+     "respuesta": "Un campamento se piensa como algo transitorio, pero muchos conflictos duran años. Cuando la espera se alarga, la gente necesita escuelas, trabajo, comercios y servicios como en cualquier ciudad. Por eso Zaatari se fue transformando: los chicos que llegaron en 2012 crecieron allí."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá quién es un refugiado y en qué se diferencia de un migrante y de un desplazado interno. Usá los datos del ACNUR y el caso del campamento de Zaatari.",
+    "guia": [
+     "¿Quién es un refugiado, según la Convención de 1951?",
+     "¿Qué es el principio de no devolución?",
+     "¿En qué se diferencian un migrante, un refugiado y un desplazado interno?",
+     "¿Cuántas personas desplazadas por la fuerza había a fines de 2025?",
+     "¿Qué es Zaatari y cómo cambió con los años?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Un refugiado no puede volver a su país sin correr peligro.",
+     "respuesta": true,
+     "explicacion": "Por persecución o guerra."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un desplazado interno cruzó la frontera de su país.",
+     "respuesta": false,
+     "explicacion": "Sigue dentro de su propio país."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El ACNUR se creó en 1950.",
+     "respuesta": true,
+     "explicacion": "Protege a los refugiados."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Zaatari se abrió en 2012 en Jordania.",
+     "respuesta": true,
+     "explicacion": "El 28 de julio de 2012."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Según el principio de no devolución, se puede enviar a un refugiado a un lugar peligroso.",
+     "respuesta": false,
+     "explicacion": "Está prohibido."
+    },
+    {
+     "tipo": "vf",
+     "texto": "A fines de 2025 había más desplazados internos que refugiados.",
+     "respuesta": true,
+     "explicacion": "68,7 millones frente a 41,6 millones."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es un solicitante de asilo?",
+     "opciones": [
+      "Una persona que pidió protección como refugiada y espera la respuesta",
+      "Un turista",
+      "Un migrante que volvió",
+      "Un funcionario"
+     ],
+     "correcta": 0,
+     "explicacion": "Espera la respuesta."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuántas personas desplazadas por la fuerza había a fines de 2025?",
+     "opciones": [
+      "11,8 millones",
+      "117,8 millones",
+      "1.178 millones",
+      "17,8 millones"
+     ],
+     "correcta": 1,
+     "explicacion": "Según el ACNUR."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué país está Zaatari?",
+     "opciones": [
+      "Siria",
+      "Turquía",
+      "Jordania",
+      "Egipto"
+     ],
+     "correcta": 2,
+     "explicacion": "En Jordania."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿De qué año es la Convención sobre el Estatuto de los Refugiados?",
+     "opciones": [
+      "1951",
+      "1918",
+      "1991",
+      "2012"
+     ],
+     "correcta": 0,
+     "explicacion": "De 1951."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuántas tiendas tiene el mercado de Zaatari?",
+     "opciones": [
+      "18",
+      "180",
+      "1.800",
+      "18.000"
+     ],
+     "correcta": 2,
+     "explicacion": "Atendidas por personas refugiadas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia a un refugiado de un migrante?",
+     "opciones": [
+      "El refugiado fue forzado a irse por persecución o guerra",
+      "El migrante no viaja",
+      "Son lo mismo",
+      "El refugiado siempre vuelve pronto"
+     ],
+     "correcta": 0,
+     "explicacion": "No eligió irse."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "REFUGIADO",
+     "pista": "Persona que huye de persecución o guerra y no puede volver."
+    },
+    {
+     "palabra": "ACNUR",
+     "pista": "Organismo de la ONU que protege a los refugiados."
+    },
+    {
+     "palabra": "ASILO",
+     "pista": "Protección que pide una persona perseguida."
+    },
+    {
+     "palabra": "ZAATARI",
+     "pista": "Campamento de refugiados en Jordania."
+    },
+    {
+     "palabra": "DESPLAZADO",
+     "pista": "Persona forzada a dejar su casa."
+    },
+    {
+     "palabra": "CONVENCIÓN",
+     "pista": "La de 1951 define quién es refugiado."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia a un refugiado de un desplazado interno?",
+     "opciones": [
+      "El refugiado cruzó una frontera; el desplazado interno sigue en su país",
+      "Son lo mismo",
+      "El desplazado interno eligió irse",
+      "El refugiado nunca se fue"
+     ],
+     "correcta": 0,
+     "explicacion": "Los dos fueron forzados."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué garantiza el principio de no devolución?",
+     "opciones": [
+      "Que el refugiado no sea enviado a un lugar donde corra peligro",
+      "Que todos vuelvan a su país",
+      "Que los países cierren sus fronteras",
+      "Que los refugiados paguen impuestos"
+     ],
+     "correcta": 0,
+     "explicacion": "Es central en la Convención de 1951."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué muestra el caso de Zaatari?",
+     "opciones": [
+      "Que los campamentos siempre duran pocas semanas",
+      "Que cuando un conflicto se alarga, un campamento puede funcionar como una ciudad",
+      "Que no hay refugiados en Jordania",
+      "Que nadie vive en campamentos"
+     ],
+     "correcta": 1,
+     "explicacion": "Tiene escuelas, salud y comercios."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Migración",
+   "definicion": "Traslado de personas de un lugar a otro para vivir allí."
+  },
+  {
+   "palabra": "Factores de expulsión",
+   "definicion": "Situaciones del lugar de origen que empujan a irse."
+  },
+  {
+   "palabra": "Factores de atracción",
+   "definicion": "Situaciones del lugar de destino que llevan a elegirlo."
+  },
+  {
+   "palabra": "Remesas",
+   "definicion": "Dinero que envían los migrantes a sus familias en el origen."
+  },
+  {
+   "palabra": "Segunda generación",
+   "definicion": "Hijos e hijas de inmigrantes nacidos en el país de destino."
+  },
+  {
+   "palabra": "Refugiado",
+   "definicion": "Persona que tuvo que dejar su país por persecución o guerra y no puede volver sin peligro."
+  },
+  {
+   "palabra": "No devolución",
+   "definicion": "Principio que prohíbe enviar a un refugiado a un lugar donde corra peligro."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Migrante y refugiado son lo mismo.",
+   "aclaracion": "El migrante suele elegir irse; el refugiado fue forzado por persecución o guerra y no puede volver sin peligro."
+  },
+  {
+   "error": "Las migraciones solo cambian el país al que se llega.",
+   "aclaracion": "También cambian el lugar de origen: se van jóvenes y llegan remesas."
+  },
+  {
+   "error": "La mayoría de las personas desplazadas se va a otro país.",
+   "aclaracion": "A fines de 2025 había más desplazados internos (68,7 millones) que refugiados (41,6 millones)."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "¿Conocés personas de tu ciudad que hayan llegado de otro país, o que se hayan ido a vivir afuera? ¿Qué factores de expulsión y de atracción influyeron en su decisión?",
+  "conexion": "Con la clase de Medio Oriente: allí viste los refugiados palestinos de 1948 y la guerra en Siria, que generó muchos de los refugiados de hoy."
+ }
+}

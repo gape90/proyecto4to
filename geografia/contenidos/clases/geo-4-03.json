@@ -1,0 +1,1022 @@
+{
+ "id": "geo-4-03",
+ "espacio": "geografia",
+ "eje": "El ambiente, resultado de las relaciones entre sociedad y naturaleza",
+ "titulo": "La vulnerabilidad en el cinturón de fuego del Pacífico",
+ "intro": "La mayor parte de los sismos y de los volcanes del planeta se concentra alrededor del océano Pacífico, y la Argentina forma parte de esa franja. Vas a ver por qué pasa, por qué un mismo fenómeno hace más daño en un lugar que en otro y qué se puede hacer para prevenirlo.",
+ "objetivos": [
+  "Explicar por qué se formó el cinturón de fuego del Pacífico y qué placas intervienen.",
+  "Diferenciar amenaza, vulnerabilidad y riesgo con ejemplos.",
+  "Reconocer qué acciones de prevención reducen los daños de un sismo."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: por qué existe el cinturón de fuego, la diferencia entre amenaza, vulnerabilidad y riesgo, el caso de San Juan en 1944 y las etapas de la gestión del riesgo.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Un anillo de placas alrededor del Pacífico",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Una pregunta para arrancar",
+     "texto": "Si miraras un mapa con todos los terremotos y volcanes del mundo, ¿te imaginás dónde se juntarían? ¿Estarían repartidos al azar o seguirían algún dibujo? Pensalo un momento y después seguí leyendo."
+    },
+    {
+     "t": "texto",
+     "titulo": "Una franja de unos 40.000 kilómetros",
+     "texto": "El **cinturón de fuego del Pacífico** es una franja de unos 40.000 kilómetros que rodea el océano Pacífico. Pasa por Nueva Zelanda, Indonesia, Filipinas y Japón, sigue por Alaska y baja por toda la costa de América hasta Chile.\n\nAhí está cerca del **75 % de los volcanes del mundo** y ocurre la mayor parte de los sismos, incluidos los más fuertes. La Argentina forma parte de esa franja por el oeste: la cordillera de los Andes es parte del cinturón."
+    },
+    {
+     "t": "texto",
+     "titulo": "Por qué se formó",
+     "texto": "La corteza terrestre está partida en grandes bloques, las **placas tectónicas**. Se mueven muy despacio, unos pocos centímetros por año, y por eso no lo notamos.\n\nAlrededor del Pacífico, la placa del Pacífico y otras más chicas (Nazca, Cocos, Filipinas y Juan de Fuca) chocan con las placas vecinas. Cuando una placa más pesada se hunde por debajo de otra, ese proceso se llama **subducción**. Frente a las costas de Chile y Perú, la placa de Nazca se hunde bajo la placa Sudamericana.\n\nEl roce entre las placas acumula **tensión**. Cuando la tensión se libera de golpe, el suelo vibra: es un **sismo**. Y parte de la roca que se hunde se derrite y forma **magma**, que sube y sale por los **volcanes**. Los Andes se levantaron por ese empuje."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-03-subduccion.svg",
+     "tipo": "grafico",
+     "alt": "Corte de la Tierra frente a la costa de Chile. Bajo el océano Pacífico, una placa avanza hacia el continente y se hunde por debajo de la placa Sudamericana. Sobre el borde se levanta la cordillera de los Andes, con un volcán por el que sube magma. Una estrella marca la zona donde se producen los sismos.",
+     "epigrafe": "Esquema elaborado para esta clase. No está a escala.",
+     "animacion": "aparecer"
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Pensalo así",
+     "texto": "Imaginá dos alfombras tiradas en el piso y empujadas una contra la otra: en el medio se arrugan y se levantan. Ahora imaginá que una se mete por debajo de la otra y se traba. Cuando por fin se destraba, pega un salto. Eso, a escala gigante, es lo que pasa en el borde entre dos placas."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "El cinturón de fuego rodea el océano Pacífico. Existe porque ahí chocan placas tectónicas y una se hunde bajo otra (**subducción**). Ese choque acumula tensión, que produce **sismos**, y hace subir magma, que forma **volcanes**."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Qué placa se hunde por debajo de la placa Sudamericana frente a Chile y Perú?",
+     "opciones": [
+      "La placa Filipina",
+      "La placa de Nazca",
+      "La placa Euroasiática",
+      "La placa Norteamericana"
+     ],
+     "correcta": 1,
+     "explicacion": "Es la placa de Nazca, que se hunde bajo la Sudamericana. Por eso en la cordillera hay volcanes y sismos.",
+     "pista": "Releé el texto \"Por qué se formó\": menciona esa frontera entre placas."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená este proceso desde el comienzo hasta el sismo.",
+     "items": [
+      "Las placas se mueven lentamente",
+      "Una placa se hunde por debajo de otra",
+      "Se acumula tensión entre las dos placas",
+      "La tensión se libera de golpe y el suelo vibra"
+     ],
+     "explicacion": "Primero las placas se mueven, luego una se hunde, la tensión se acumula y, cuando se libera, ocurre el sismo.",
+     "pista": "Seguí el orden en que lo cuenta el texto \"Por qué se formó\"."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada palabra con lo que significa.",
+     "pares": [
+      {
+       "a": "Placa tectónica",
+       "b": "Gran bloque de la corteza terrestre"
+      },
+      {
+       "a": "Subducción",
+       "b": "Una placa se hunde por debajo de otra"
+      },
+      {
+       "a": "Sismo",
+       "b": "Vibración del suelo cuando se libera tensión"
+      },
+      {
+       "a": "Magma",
+       "b": "Roca derretida que sube y sale por los volcanes"
+      }
+     ],
+     "explicacion": "Estas cuatro palabras forman la cadena completa: las placas se mueven, una se hunde, se libera tensión y sube magma.",
+     "pista": "Todas las definiciones están en el texto \"Por qué se formó\"."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "🔍 Encontrá el error. Cuatro frases hablan del cinturón de fuego, pero una tiene un error. ¿Cuál es?",
+     "opciones": [
+      "Rodea el océano Pacífico.",
+      "Las placas se mueven de golpe, varios metros por día.",
+      "Tiene cerca del 75 % de los volcanes del mundo.",
+      "La cordillera de los Andes forma parte de él."
+     ],
+     "correcta": 1,
+     "explicacion": "Las placas se mueven unos pocos centímetros por año. Lo brusco es la liberación de tensión, que es el sismo.",
+     "pista": "Buscá en el texto cuánto se mueven las placas."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "El cinturón de fuego rodea el océano [[Pacífico]]. En esa franja las placas [[tectónicas]] chocan y una se [[hunde]] bajo la otra. Así se acumula [[tensión]], que se libera como sismo. Por eso ahí está cerca del 75 % de los [[volcanes]] del mundo.",
+     "distractores": [
+      "Atlántico",
+      "separan",
+      "glaciares",
+      "humedad"
+     ],
+     "explicacion": "Así se explica por qué esa franja tiene tantos sismos y volcanes.",
+     "pista": "Todas las palabras están en los textos de esta parte."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué creés que los sismos más fuertes ocurren en el borde entre placas y no en el medio de una placa?",
+     "respuesta": "En el medio de una placa el terreno se mueve todo junto y casi no se deforma. En los bordes, en cambio, una placa roza, empuja o se hunde bajo otra, y ahí se acumula la tensión que después se libera."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es el cinturón de fuego del Pacífico y por qué se formó. Incluí dónde está, qué pasa entre las placas y qué fenómenos produce.",
+    "guia": [
+     "¿Qué océano rodea y cuánto mide aproximadamente?",
+     "¿Qué es una placa tectónica?",
+     "¿Qué pasa cuando una placa se hunde bajo otra?",
+     "¿Qué placa se hunde bajo la Sudamericana?",
+     "¿Qué fenómenos aparecen en esta franja?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El cinturón de fuego rodea el océano Atlántico.",
+     "respuesta": false,
+     "explicacion": "Rodea el océano Pacífico."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La cordillera de los Andes forma parte del cinturón de fuego.",
+     "respuesta": true,
+     "explicacion": "Por eso la Argentina está en esa franja por el oeste."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las placas tectónicas se mueven varios metros por día.",
+     "respuesta": false,
+     "explicacion": "Se mueven unos pocos centímetros por año."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La subducción ocurre cuando una placa se hunde por debajo de otra.",
+     "respuesta": true,
+     "explicacion": "Es el nombre de ese proceso."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el cinturón de fuego está cerca del 75 % de los volcanes del mundo.",
+     "respuesta": true,
+     "explicacion": "Es una de las razones por las que se llama cinturón de fuego."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los sismos se producen porque se libera tensión acumulada entre placas.",
+     "respuesta": true,
+     "explicacion": "Esa liberación brusca hace vibrar el suelo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuánto mide aproximadamente el cinturón de fuego?",
+     "opciones": [
+      "Unos 400 km",
+      "Unos 4.000 km",
+      "Unos 40.000 km",
+      "Unos 400.000 km"
+     ],
+     "correcta": 2,
+     "explicacion": "Mide unos 40.000 kilómetros."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué placa se hunde bajo la Sudamericana?",
+     "opciones": [
+      "Nazca",
+      "Filipina",
+      "Euroasiática",
+      "Norteamericana"
+     ],
+     "correcta": 0,
+     "explicacion": "La placa de Nazca."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué sale por los volcanes?",
+     "opciones": [
+      "Agua salada",
+      "Magma",
+      "Arena",
+      "Hielo"
+     ],
+     "correcta": 1,
+     "explicacion": "Parte de la roca que se hunde se derrite y forma magma."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo se llama cada gran bloque de la corteza terrestre?",
+     "opciones": [
+      "Cordillera",
+      "Meseta",
+      "Placa tectónica",
+      "Llanura"
+     ],
+     "correcta": 2,
+     "explicacion": "Las placas tectónicas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué se acumula entre dos placas antes de un sismo?",
+     "opciones": [
+      "Humedad",
+      "Tensión",
+      "Sal",
+      "Viento"
+     ],
+     "correcta": 1,
+     "explicacion": "La tensión se libera de golpe y produce el sismo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es la mejor descripción de la subducción?",
+     "opciones": [
+      "Dos placas se separan",
+      "Dos placas se deslizan sin tocarse",
+      "Una placa se hunde bajo otra",
+      "Una placa se parte en dos"
+     ],
+     "correcta": 2,
+     "explicacion": "Una placa más pesada se hunde bajo la otra."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "PLACAS",
+     "pista": "Grandes bloques en que está partida la corteza terrestre."
+    },
+    {
+     "palabra": "NAZCA",
+     "pista": "Placa que se hunde bajo la Sudamericana."
+    },
+    {
+     "palabra": "VOLCANES",
+     "pista": "Aberturas por donde sale el magma."
+    },
+    {
+     "palabra": "MAGMA",
+     "pista": "Roca derretida que sube desde el interior."
+    },
+    {
+     "palabra": "SISMO",
+     "pista": "Vibración del suelo cuando se libera tensión."
+    },
+    {
+     "palabra": "CORTEZA",
+     "pista": "Capa externa y sólida de la Tierra."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué hay tantos sismos y volcanes alrededor del Pacífico?",
+     "opciones": [
+      "Porque el agua del océano calienta el suelo",
+      "Porque ahí chocan placas y una se hunde bajo otra",
+      "Porque hay más personas viviendo en esas costas",
+      "Porque la Luna atrae más esa zona"
+     ],
+     "correcta": 1,
+     "explicacion": "El choque entre placas acumula tensión (sismos) y hace subir magma (volcanes)."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa que la Argentina forma parte del cinturón de fuego?",
+     "opciones": [
+      "Que tiene volcanes en todo el territorio",
+      "Que el Pacífico llega hasta Buenos Aires",
+      "Que la cordillera de los Andes, al oeste, está en esa franja",
+      "Que no tiene sismos"
+     ],
+     "correcta": 2,
+     "explicacion": "La parte oeste del país, a lo largo de los Andes, está en el borde de las placas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué pasa en la subducción?",
+     "opciones": [
+      "Una placa se hunde por debajo de otra",
+      "Dos placas se alejan",
+      "Una placa se detiene",
+      "Se forma un océano nuevo"
+     ],
+     "correcta": 0,
+     "explicacion": "La placa más pesada se hunde, y ese proceso acumula tensión."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Amenaza, vulnerabilidad y riesgo",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Un sismo no siempre es un desastre",
+     "texto": "Un sismo es un fenómeno natural. Se transforma en desastre cuando afecta a personas, viviendas, escuelas o servicios. Para entender por qué el mismo fenómeno hace más daño en un lugar que en otro, la geografía usa tres palabras que conviene no mezclar: **amenaza**, **vulnerabilidad** y **riesgo**."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Tres conceptos que se relacionan",
+     "columnas": [
+      "Concepto",
+      "Qué es",
+      "Ejemplo en la zona andina"
+     ],
+     "filas": [
+      [
+       "Amenaza",
+       "La posibilidad de que ocurra un fenómeno natural peligroso",
+       "Un sismo fuerte en la cordillera"
+      ],
+      [
+       "Vulnerabilidad",
+       "Qué tan expuesta y qué tan poco preparada está una sociedad para soportarlo",
+       "Casas que no resisten temblores"
+      ],
+      [
+       "Riesgo",
+       "La probabilidad de sufrir daños: surge de combinar amenaza y vulnerabilidad",
+       "Una ciudad en zona sísmica con casas frágiles"
+      ]
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "La **amenaza** es el fenómeno posible. La **vulnerabilidad** es lo que hace que una sociedad sufra más o menos daño. El **riesgo** aparece cuando las dos se juntan. Con la misma amenaza, el riesgo baja si baja la vulnerabilidad."
+    },
+    {
+     "t": "texto",
+     "titulo": "La vulnerabilidad no es natural",
+     "texto": "La amenaza depende de la naturaleza: nadie decide dónde chocan las placas. La vulnerabilidad, en cambio, depende de decisiones de la sociedad: **dónde** se construye, **con qué reglas**, **qué información** tiene la gente y **qué recursos** hay para responder.\n\nPor eso se dice que los desastres tienen un carácter social y político: se pueden prevenir con decisiones del Estado y de la comunidad."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Dos sismos, dos resultados",
+     "columnas": [
+      "",
+      "Valdivia, Chile (1960)",
+      "San Juan, Argentina (1944)"
+     ],
+     "filas": [
+      [
+       "Fecha",
+       "22 de mayo de 1960",
+       "15 de enero de 1944"
+      ],
+      [
+       "Magnitud",
+       "9,5: el mayor registrado en el mundo",
+       "Cerca de 7"
+      ],
+      [
+       "Víctimas",
+       "Alrededor de 1.650 en Chile (las cifras varían según la fuente)",
+       "Alrededor de 10.000"
+      ]
+     ]
+    },
+    {
+     "t": "texto",
+     "titulo": "Qué pasó en San Juan",
+     "texto": "San Juan tenía en 1944 unos 90.000 habitantes en el Gran San Juan. La mayoría de las casas eran de **adobe** y no tenían ninguna regla de construcción pensada para sismos. El terremoto destruyó cerca del 80 % de las construcciones de la ciudad. El sismo fue mucho menor que el de Valdivia, pero la **vulnerabilidad** era muy alta."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-03-san-juan-1944.jpg",
+     "tipo": "foto",
+     "alt": "Fotografía en blanco y negro de una calle de San Juan después del terremoto: paredes derrumbadas, escombros sobre la vereda, cables caídos y un auto detenido entre los restos.",
+     "epigrafe": "Una calle de la ciudad de San Juan después del terremoto de 1944.",
+     "fuente": "Autor sin identificar, publicada en Historia Argentina, de Diego Abad de Santillán (TEA, 1971), vía Wikimedia Commons (dominio público).",
+     "animacion": "recorrer"
+    },
+    {
+     "t": "opcion",
+     "pregunta": "Mirá la tabla que compara los dos sismos y leé el texto sobre San Juan. ¿Qué muestra la comparación?",
+     "opciones": [
+      "Que un sismo de menor magnitud puede causar más víctimas si la vulnerabilidad es alta",
+      "Que los sismos de magnitud 9 nunca causan víctimas",
+      "Que en la Argentina nunca hubo sismos fuertes",
+      "Que la magnitud decide por sí sola cuántas personas mueren"
+     ],
+     "correcta": 0,
+     "explicacion": "San Juan tuvo un sismo mucho menor que Valdivia, pero con más víctimas. Pesó la vulnerabilidad: construcciones de adobe sin reglas para sismos.",
+     "pista": "Compará las filas de magnitud y de víctimas, y después releé cómo eran las casas de San Juan."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Es una amenaza o una vulnerabilidad? Si no te acordás, mirá la tabla de arriba con los tres conceptos.",
+     "categorias": [
+      "Amenaza",
+      "Vulnerabilidad"
+     ],
+     "items": [
+      {
+       "texto": "Una erupción volcánica",
+       "cat": "Amenaza"
+      },
+      {
+       "texto": "Casas sin reglas de construcción para sismos",
+       "cat": "Vulnerabilidad"
+      },
+      {
+       "texto": "Un tsunami",
+       "cat": "Amenaza"
+      },
+      {
+       "texto": "Población sin información sobre qué hacer en un sismo",
+       "cat": "Vulnerabilidad"
+      },
+      {
+       "texto": "Un sismo en la cordillera",
+       "cat": "Amenaza"
+      }
+     ],
+     "explicacion": "La amenaza es el fenómeno natural; la vulnerabilidad, lo que hace que una sociedad sufra más daño.",
+     "pista": "Preguntate si lo decide la naturaleza o si depende de decisiones de las personas."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "La [[amenaza]] es el fenómeno natural posible. La [[vulnerabilidad]] depende de decisiones de la sociedad. El [[riesgo]] aparece cuando se juntan las dos. Si la vulnerabilidad baja, el riesgo [[baja]].",
+     "distractores": [
+      "magnitud",
+      "sube",
+      "tectónica"
+     ],
+     "explicacion": "Con la misma amenaza, menos vulnerabilidad significa menos riesgo.",
+     "pista": "Releé el recuadro \"Para recordar\"."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "La vulnerabilidad de una sociedad depende de decisiones como dónde y cómo se construye.",
+       "v": true,
+       "explicacion": "Por eso no es un hecho natural."
+      },
+      {
+       "texto": "En San Juan, en 1944, la mayoría de las casas eran de adobe y no tenían reglas para sismos.",
+       "v": true,
+       "explicacion": "Lo dice el texto sobre San Juan."
+      },
+      {
+       "texto": "El sismo de Valdivia fue más débil que el de San Juan.",
+       "v": false,
+       "explicacion": "Valdivia tuvo magnitud 9,5 y San Juan, cerca de 7."
+      },
+      {
+       "texto": "Si baja la vulnerabilidad, el riesgo también baja.",
+       "v": true,
+       "explicacion": "Así lo muestra el recuadro \"Para recordar\"."
+      }
+     ]
+    },
+    {
+     "t": "dato",
+     "titulo": "Hoy en la Argentina",
+     "texto": "Hoy el Instituto Nacional de Prevención Sísmica (INPRES) desarrolla y actualiza los reglamentos argentinos para construir edificios que resistan sismos. Se creó en 1972, por la Ley 19.616, y continuó el trabajo que habían empezado los organismos de reconstrucción después del terremoto de 1944."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: dos ciudades están en la misma zona sísmica. ¿Qué podría hacer que en una el riesgo sea mucho menor que en la otra?",
+     "respuesta": "Que en una se construya con reglas para resistir sismos, la población sepa qué hacer y haya servicios de emergencia preparados. La amenaza es la misma, pero la vulnerabilidad es menor y entonces el riesgo baja."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá la diferencia entre amenaza, vulnerabilidad y riesgo. Usá la comparación entre el sismo de Valdivia y el de San Juan para mostrar por qué la vulnerabilidad depende de decisiones de la sociedad.",
+    "guia": [
+     "¿Qué es una amenaza? Da un ejemplo.",
+     "¿Qué es la vulnerabilidad y de qué depende?",
+     "¿Cómo se define el riesgo?",
+     "¿Qué diferencias de magnitud y de víctimas hubo entre Valdivia y San Juan?",
+     "¿Qué factor explica que San Juan tuviera más víctimas?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La amenaza es la posibilidad de que ocurra un fenómeno natural peligroso.",
+     "respuesta": true,
+     "explicacion": "Por ejemplo, un sismo o una erupción."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La vulnerabilidad depende solamente de la naturaleza.",
+     "respuesta": false,
+     "explicacion": "Depende de decisiones de la sociedad: dónde y cómo se construye, qué información hay."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El riesgo surge de combinar amenaza y vulnerabilidad.",
+     "respuesta": true,
+     "explicacion": "Sin la combinación de las dos, no hay riesgo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El sismo de San Juan de 1944 fue mayor que el de Valdivia de 1960.",
+     "respuesta": false,
+     "explicacion": "Valdivia fue de magnitud 9,5 y San Juan, cerca de 7."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En San Juan, en 1944, hubo alrededor de 10.000 víctimas.",
+     "respuesta": true,
+     "explicacion": "Fue uno de los desastres más graves del país."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Con la misma amenaza, el riesgo puede bajar si baja la vulnerabilidad.",
+     "respuesta": true,
+     "explicacion": "Por eso la prevención sirve."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la vulnerabilidad?",
+     "opciones": [
+      "El fenómeno natural que puede ocurrir",
+      "Qué tan expuesta y poco preparada está una sociedad",
+      "La fuerza de un sismo",
+      "La cantidad de volcanes de una zona"
+     ],
+     "correcta": 1,
+     "explicacion": "Es lo que hace que una sociedad sufra más o menos daño."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué fue lo que más pesó en el desastre de San Juan de 1944?",
+     "opciones": [
+      "La magnitud récord del sismo",
+      "La cercanía del mar",
+      "Las casas de adobe sin reglas para sismos",
+      "La falta de volcanes"
+     ],
+     "correcta": 2,
+     "explicacion": "Las casas de adobe sin reglas de construcción para sismos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué año se creó el INPRES?",
+     "opciones": [
+      "1944",
+      "1960",
+      "2010",
+      "1972"
+     ],
+     "correcta": 3,
+     "explicacion": "Se creó en 1972, por la Ley 19.616."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas opciones es una amenaza?",
+     "opciones": [
+      "Un sismo en la cordillera",
+      "Casas frágiles",
+      "Falta de información",
+      "Construir sin reglas"
+     ],
+     "correcta": 0,
+     "explicacion": "La amenaza es el fenómeno natural; lo demás es vulnerabilidad."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál fue el sismo de mayor magnitud registrado en el mundo?",
+     "opciones": [
+      "San Juan, 1944",
+      "Valdivia, 1960",
+      "Un sismo de 1972",
+      "Ninguno pasó de 7"
+     ],
+     "correcta": 1,
+     "explicacion": "Valdivia, 1960, de magnitud 9,5."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa que los desastres tienen un carácter social y político?",
+     "opciones": [
+      "Que no se pueden prevenir",
+      "Que solo ocurren en ciudades grandes",
+      "Que la naturaleza los decide sola",
+      "Que dependen de decisiones del Estado y de la comunidad"
+     ],
+     "correcta": 3,
+     "explicacion": "La prevención depende de decisiones sociales y políticas."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "AMENAZA",
+     "pista": "Posibilidad de que ocurra un fenómeno natural peligroso."
+    },
+    {
+     "palabra": "RIESGO",
+     "pista": "Probabilidad de sufrir daños; combina amenaza y vulnerabilidad."
+    },
+    {
+     "palabra": "ADOBE",
+     "pista": "Material de las casas que se destruyeron en San Juan en 1944."
+    },
+    {
+     "palabra": "INPRES",
+     "pista": "Instituto Nacional de Prevención Sísmica."
+    },
+    {
+     "palabra": "VALDIVIA",
+     "pista": "Ciudad chilena donde ocurrió el mayor sismo registrado."
+    },
+    {
+     "palabra": "DESASTRE",
+     "pista": "Lo que ocurre cuando un fenómeno natural afecta a la sociedad."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Dos ciudades de la misma zona sísmica sufren el mismo sismo. En una hay mucho menos daño. ¿Qué explica la diferencia?",
+     "opciones": [
+      "Que la amenaza fue distinta",
+      "Que una tiene menos vulnerabilidad",
+      "Que una está más cerca del océano",
+      "Que el sismo no fue igual de fuerte"
+     ],
+     "correcta": 1,
+     "explicacion": "Con la misma amenaza, el daño cambia según la vulnerabilidad: construcciones, información y recursos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué muestra la comparación entre Valdivia (1960) y San Juan (1944)?",
+     "opciones": [
+      "Que la magnitud decide sola cuántas víctimas hay",
+      "Que en Chile no hay sismos graves",
+      "Que el adobe protege de los sismos",
+      "Que un sismo menor puede causar más víctimas si hay mucha vulnerabilidad"
+     ],
+     "correcta": 3,
+     "explicacion": "San Juan tuvo un sismo mucho menor, pero más víctimas por sus construcciones."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas frases define bien el riesgo?",
+     "opciones": [
+      "Es el fenómeno natural",
+      "Es la fuerza del sismo",
+      "Surge de combinar amenaza y vulnerabilidad",
+      "Es el nombre de una placa"
+     ],
+     "correcta": 2,
+     "explicacion": "Sin amenaza o sin vulnerabilidad no hay riesgo."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Prevenir para reducir el riesgo",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "No se puede evitar el sismo, sí reducir el daño",
+     "texto": "Nadie puede impedir que las placas se muevan. Lo que sí se puede es **reducir la vulnerabilidad**, y ahí entra la **gestión del riesgo**: el conjunto de acciones que se toman **antes**, **durante** y **después** de un fenómeno para que haga menos daño.\n\nEn la Argentina, esa tarea combina decisiones del Estado nacional, provincial y municipal con la participación de la comunidad."
+    },
+    {
+     "t": "pasos",
+     "titulo": "Las tres etapas de la gestión del riesgo",
+     "pasos": [
+      {
+       "titulo": "Antes: prevención",
+       "texto": "Se estudian los sismos, se dictan reglamentos para construir con seguridad y se informa y entrena a la población."
+      },
+      {
+       "titulo": "Durante: respuesta",
+       "texto": "La gente aplica lo aprendido y los servicios de emergencia actúan."
+      },
+      {
+       "titulo": "Después: recuperación",
+       "texto": "Se asiste a las personas afectadas, se reconstruye y se revisan las reglas para que el próximo sismo haga menos daño."
+      }
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "La **gestión del riesgo** tiene tres etapas: **prevención** (antes), **respuesta** (durante) y **recuperación** (después). Reduce la vulnerabilidad, no la amenaza."
+    },
+    {
+     "t": "texto",
+     "titulo": "Lo que cambió en San Juan",
+     "texto": "Después del terremoto de 1944 se creó el Consejo de Reconstrucción de San Juan, que elaboró un Código de Edificación para obras públicas y privadas, y la capital provincial se rediseñó. En 1972 se creó el **INPRES**, que desarrolla y actualiza los reglamentos argentinos para construcciones sismorresistentes.\n\nEse recorrido muestra una idea de la parte anterior: la vulnerabilidad se puede cambiar con decisiones."
+    },
+    {
+     "t": "dato",
+     "titulo": "Hoy en las zonas sísmicas",
+     "texto": "Hoy, en las zonas sísmicas de la Argentina se aplican reglamentos de construcción sismorresistente, y muchas escuelas hacen simulacros para que cada estudiante sepa qué hacer en un sismo."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená estos hechos de la historia de la prevención sísmica en la Argentina, del más antiguo al más reciente.",
+     "items": [
+      "Terremoto de San Juan",
+      "Se crea el Consejo de Reconstrucción de San Juan",
+      "Se crea el INPRES"
+     ],
+     "explicacion": "Primero el terremoto (1944), luego el Consejo de Reconstrucción y, en 1972, el INPRES.",
+     "pista": "Releé el texto sobre lo que cambió en San Juan: cuenta qué pasó después del terremoto."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Buscá en el texto sobre lo que cambió en San Juan el año del terremoto y el año en que se creó el INPRES. ¿Cuántos años pasaron entre uno y otro?",
+     "respuesta": "28",
+     "explicacion": "El terremoto fue en 1944 y el INPRES se creó en 1972: pasaron 28 años.",
+     "pista1": "Los dos años están en el texto sobre lo que cambió en San Juan.",
+     "pista": "El terremoto fue en 1944. Buscá el año del INPRES y restalos."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "📰 Elegí el titular. Un diario escribe sobre la creación del INPRES en 1972. ¿Cuál titular describe mejor la noticia?",
+     "opciones": [
+      "\"Se prohíbe construir en la cordillera\"",
+      "\"Nace un instituto para estudiar los sismos y fijar reglas de construcción\"",
+      "\"Un sismo destruye una ciudad\"",
+      "\"Terminan los sismos en el país\""
+     ],
+     "correcta": 1,
+     "explicacion": "El INPRES estudia los sismos y desarrolla los reglamentos para construir de forma sismorresistente.",
+     "pista": "Pensá en qué hace el INPRES, según el texto \"Lo que cambió en San Juan\"."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada acción con la etapa a la que pertenece.",
+     "pares": [
+      {
+       "a": "Entrenar a la población",
+       "b": "Prevención"
+      },
+      {
+       "a": "Actuar los servicios de emergencia",
+       "b": "Respuesta"
+      },
+      {
+       "a": "Reconstruir lo dañado",
+       "b": "Recuperación"
+      }
+     ],
+     "explicacion": "Cada etapa tiene sus acciones propias.",
+     "pista": "Releé las tres etapas de arriba."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué creés que la prevención es más conveniente que arreglar los daños después?",
+     "respuesta": "Porque evita pérdidas de vidas, que no se pueden recuperar, y cuesta menos construir con reglas seguras que reconstruir una ciudad entera. Y un sismo puede ocurrir en cualquier momento, y estar preparado reduce el daño desde el primer minuto."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es la gestión del riesgo y cómo se puede reducir el daño de un sismo. Usá el caso de San Juan para mostrar qué cambió después de 1944 y por qué la prevención depende de decisiones sociales.",
+    "guia": [
+     "¿Qué es la gestión del riesgo?",
+     "¿Cuáles son sus tres etapas?",
+     "¿Qué se creó después del terremoto de San Juan?",
+     "¿Qué hace el INPRES?",
+     "¿Por qué decimos que la prevención reduce la vulnerabilidad y no la amenaza?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Se puede evitar que las placas tectónicas se muevan.",
+     "respuesta": false,
+     "explicacion": "Lo que se puede reducir es la vulnerabilidad."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La gestión del riesgo incluye acciones antes, durante y después de un fenómeno.",
+     "respuesta": true,
+     "explicacion": "Son las etapas de prevención, respuesta y recuperación."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El INPRES se creó en 1972.",
+     "respuesta": true,
+     "explicacion": "Se creó por la Ley 19.616."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Después del terremoto de 1944 se redactó un Código de Edificación para San Juan.",
+     "respuesta": true,
+     "explicacion": "Lo elaboró el Consejo de Reconstrucción."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los simulacros son una acción de recuperación.",
+     "respuesta": false,
+     "explicacion": "Son una acción de prevención: preparan a la gente antes del sismo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Reconstruir y revisar las reglas es parte de la etapa posterior al sismo.",
+     "respuesta": true,
+     "explicacion": "Es la etapa de recuperación."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué etapa incluye informar y entrenar a la población?",
+     "opciones": [
+      "Recuperación",
+      "Respuesta",
+      "Prevención",
+      "Ninguna"
+     ],
+     "correcta": 2,
+     "explicacion": "Es parte de la prevención, que se hace antes."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué estudia y desarrolla el INPRES?",
+     "opciones": [
+      "Los sismos y los reglamentos de construcción sismorresistente",
+      "Los volcanes del Pacífico",
+      "Las mareas del Atlántico",
+      "El clima de la Patagonia"
+     ],
+     "correcta": 0,
+     "explicacion": "El INPRES estudia los sismos y actualiza los reglamentos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué se creó en San Juan después del terremoto de 1944?",
+     "opciones": [
+      "Un puerto",
+      "El Consejo de Reconstrucción",
+      "Una nueva cordillera",
+      "Un volcán"
+     ],
+     "correcta": 1,
+     "explicacion": "Elaboró el Código de Edificación y rediseñó la capital."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué reduce la gestión del riesgo?",
+     "opciones": [
+      "La vulnerabilidad",
+      "La amenaza",
+      "La magnitud",
+      "La cantidad de placas"
+     ],
+     "correcta": 0,
+     "explicacion": "Reduce la vulnerabilidad, no la amenaza."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué etapa corresponde a la actuación de los servicios de emergencia durante un sismo?",
+     "opciones": [
+      "Prevención",
+      "Recuperación",
+      "Respuesta",
+      "Planificación urbana"
+     ],
+     "correcta": 2,
+     "explicacion": "Es la etapa de respuesta."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué es útil hacer un simulacro?",
+     "opciones": [
+      "Para evitar el sismo",
+      "Para medir la magnitud",
+      "Para frenar las placas",
+      "Para saber qué hacer cuando ocurra"
+     ],
+     "correcta": 3,
+     "explicacion": "Entrena a la gente y reduce la vulnerabilidad."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "PREVENCION",
+     "pista": "Etapa de la gestión del riesgo que se hace antes del sismo."
+    },
+    {
+     "palabra": "RESPUESTA",
+     "pista": "Etapa en la que actúan la gente y los servicios de emergencia."
+    },
+    {
+     "palabra": "SIMULACRO",
+     "pista": "Práctica para saber qué hacer en un sismo."
+    },
+    {
+     "palabra": "INPRES",
+     "pista": "Instituto que estudia los sismos y fija reglas de construcción."
+    },
+    {
+     "palabra": "RECONSTRUIR",
+     "pista": "Rehacer lo dañado en la etapa de recuperación."
+    },
+    {
+     "palabra": "REGLAMENTO",
+     "pista": "Conjunto de normas para construir con seguridad."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué se busca con la gestión del riesgo?",
+     "opciones": [
+      "Impedir que ocurran los sismos",
+      "Cambiar el recorrido de las placas",
+      "Reducir la vulnerabilidad para que haya menos daño",
+      "Medir la magnitud de los sismos"
+     ],
+     "correcta": 2,
+     "explicacion": "No se puede evitar el sismo, pero sí reducir los daños con decisiones previas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué ejemplo muestra mejor que la vulnerabilidad se puede cambiar?",
+     "opciones": [
+      "Que las placas siguen moviéndose",
+      "Que Valdivia tuvo el mayor sismo registrado",
+      "Que el cinturón de fuego mide unos 40.000 km",
+      "Que después de 1944 San Juan elaboró un Código de Edificación y se creó el INPRES"
+     ],
+     "correcta": 3,
+     "explicacion": "Las decisiones tomadas después de 1944 buscaron reducir la vulnerabilidad."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿A qué etapa pertenece un simulacro de sismo en una escuela?",
+     "opciones": [
+      "Prevención",
+      "Recuperación",
+      "Reconstrucción",
+      "Amenaza"
+     ],
+     "correcta": 0,
+     "explicacion": "Prepara a la gente antes de que ocurra el fenómeno."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Placa tectónica",
+   "definicion": "Gran bloque de la corteza terrestre que se mueve muy despacio."
+  },
+  {
+   "palabra": "Subducción",
+   "definicion": "Proceso en el que una placa se hunde por debajo de otra."
+  },
+  {
+   "palabra": "Amenaza",
+   "definicion": "Posibilidad de que ocurra un fenómeno natural peligroso."
+  },
+  {
+   "palabra": "Vulnerabilidad",
+   "definicion": "Qué tan expuesta y poco preparada está una sociedad frente a una amenaza."
+  },
+  {
+   "palabra": "Riesgo",
+   "definicion": "Probabilidad de sufrir daños; surge de combinar amenaza y vulnerabilidad."
+  },
+  {
+   "palabra": "Gestión del riesgo",
+   "definicion": "Acciones de prevención, respuesta y recuperación para reducir los daños de un fenómeno."
+  },
+  {
+   "palabra": "Sismorresistente",
+   "definicion": "Construido para soportar los movimientos de un sismo."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Un sismo más fuerte siempre causa más víctimas.",
+   "aclaracion": "Depende de la vulnerabilidad. El sismo de San Juan de 1944 fue mucho menor que el de Valdivia de 1960, pero causó más víctimas."
+  },
+  {
+   "error": "La vulnerabilidad es un hecho natural.",
+   "aclaracion": "Depende de decisiones de la sociedad: dónde y cómo se construye, qué información hay y qué recursos existen."
+  },
+  {
+   "error": "Con la prevención se evitan los sismos.",
+   "aclaracion": "Los sismos no se pueden evitar. La prevención reduce la vulnerabilidad y, por lo tanto, el daño."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Pensá en tu ciudad o barrio. ¿Qué amenazas naturales podrían afectarlo (inundaciones, tormentas, otras)? ¿Qué decisiones de la comunidad o del Estado reducirían su vulnerabilidad?",
+  "conexion": "Con la clase de la desertización africana: allí vas a ver otro caso en el que las formas de producción cambian la vulnerabilidad de una sociedad."
+ }
+}

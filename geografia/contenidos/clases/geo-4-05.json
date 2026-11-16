@@ -1,0 +1,1032 @@
+{
+ "id": "geo-4-05",
+ "espacio": "geografia",
+ "eje": "El ambiente, resultado de las relaciones entre sociedad y naturaleza",
+ "titulo": "Petróleo y territorio",
+ "intro": "El petróleo está en pocos lugares del mundo, pero lo usan todos los países. Vas a ver dónde se encuentra, quiénes lo producen y lo consumen, y por qué su control genera disputas.",
+ "objetivos": [
+  "Explicar qué es el petróleo, cómo se formó y dónde están las mayores reservas.",
+  "Diferenciar países exportadores e importadores con datos de producción y consumo.",
+  "Analizar disputas por el petróleo entre Estados, por las rutas y dentro de un país."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: qué es el petróleo y dónde está, los mayores productores, exportadores e importadores, la OPEP, Vaca Muerta y los distintos tipos de disputas por el recurso.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Dónde está el petróleo",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Una pregunta para arrancar",
+     "texto": "Pensá en todo lo que usaste hoy: el colectivo, la ropa sintética, la botella de plástico, el asfalto de la calle. ¿Cuántas de esas cosas tienen algo de petróleo? Seguramente más de las que imaginás."
+    },
+    {
+     "t": "texto",
+     "titulo": "Un recurso que tardó millones de años en formarse",
+     "texto": "El **petróleo** es un **hidrocarburo**: una mezcla líquida que se formó a partir de restos de organismos que se acumularon en el fondo de mares y lagos antiguos. Cubiertos por capas de sedimentos, a lo largo de millones de años se transformaron en petróleo y gas. Por eso se encuentra en **cuencas sedimentarias**, en tierra firme o bajo el fondo del mar.\n\nComo tarda millones de años en formarse, el petróleo es un **recurso no renovable**: lo que se extrae no se repone a la escala de una vida humana."
+    },
+    {
+     "t": "texto",
+     "titulo": "Convencional y no convencional",
+     "texto": "El **petróleo convencional** está acumulado en rocas porosas, de donde sale con relativa facilidad al perforar un pozo. El **no convencional** está atrapado en rocas muy compactas, como el _shale_ (lutita), y para extraerlo hace falta la **fractura hidráulica**: se inyecta agua, arena y productos químicos a presión para abrir la roca.\n\nCuando se habla de cuánto petróleo tiene un país, se usan las **reservas probadas**: el petróleo que se sabe que existe y que se puede extraer con la tecnología y los precios actuales."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-05-plataforma.jpg",
+     "tipo": "foto",
+     "alt": "Una gran plataforma petrolera en el mar, con grúas, tanques y estructuras metálicas, acompañada por dos remolcadores.",
+     "epigrafe": "La plataforma P-51 de Petrobras, frente a las costas de Brasil, en 2009. Extrae petróleo y gas de debajo del fondo del mar.",
+     "fuente": "Foto: Divulgação Petrobras / Agência Brasil, CC BY 3.0 BR, vía Wikimedia Commons. Imagen reducida.",
+     "animacion": "acercar"
+    },
+    {
+     "t": "comparar",
+     "titulo": "Los países con más reservas probadas de petróleo",
+     "columnas": [
+      "País",
+      "Reservas (miles de millones de barriles)",
+      "Parte del total mundial"
+     ],
+     "filas": [
+      [
+       "Venezuela",
+       "303",
+       "19,4 %"
+      ],
+      [
+       "Arabia Saudita",
+       "267",
+       "17,1 %"
+      ],
+      [
+       "Irán",
+       "209",
+       "13,3 %"
+      ],
+      [
+       "Irak",
+       "145",
+       "9,3 %"
+      ],
+      [
+       "Emiratos Árabes Unidos",
+       "113",
+       "7,2 %"
+      ]
+     ]
+    },
+    {
+     "t": "dato",
+     "titulo": "Dato curioso",
+     "texto": "En la Argentina, el petróleo apareció por primera vez el 13 de diciembre de 1907 en Comodoro Rivadavia (Chubut), mientras se perforaba en busca de agua. Por eso ese día es el Día del Petróleo Nacional."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "El **petróleo** es un **hidrocarburo no renovable** que se formó durante millones de años en **cuencas sedimentarias**. Puede ser **convencional** o **no convencional** (como el _shale_, que se extrae con fractura hidráulica). Las mayores **reservas probadas** están en Venezuela y en los países del golfo Pérsico."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada concepto con su significado.",
+     "pares": [
+      {
+       "a": "Hidrocarburo",
+       "b": "Sustancia como el petróleo o el gas"
+      },
+      {
+       "a": "Recurso no renovable",
+       "b": "No se repone a la escala de una vida humana"
+      },
+      {
+       "a": "Reservas probadas",
+       "b": "Petróleo que se sabe que existe y se puede extraer hoy"
+      },
+      {
+       "a": "Fractura hidráulica",
+       "b": "Técnica para extraer petróleo de rocas compactas"
+      }
+     ],
+     "explicacion": "Estos cuatro conceptos aparecen en cualquier noticia sobre petróleo.",
+     "pista": "Releé los textos sobre cómo se formó el petróleo y sobre convencional y no convencional."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "El petróleo se formó con restos de [[organismos]] acumulados en mares y lagos antiguos. Se encuentra en cuencas [[sedimentarias]]. Como tarda millones de años en formarse, es un recurso no [[renovable]]. El petróleo del shale es [[no convencional]].",
+     "distractores": [
+      "volcánicas",
+      "convencional",
+      "minerales"
+     ],
+     "explicacion": "Así se resume de dónde viene el petróleo y por qué se puede agotar.",
+     "pista": "Releé el texto sobre cómo se formó el petróleo."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🔍 Encontrá el error",
+     "pregunta": "Cuatro frases sobre el petróleo; una tiene un error. ¿Cuál es?",
+     "opciones": [
+      "Venezuela tiene las mayores reservas probadas.",
+      "El petróleo se repone cada año.",
+      "Se puede extraer de debajo del fondo del mar.",
+      "En la Argentina apareció por primera vez en 1907."
+     ],
+     "correcta": 1,
+     "explicacion": "El petróleo tarda millones de años en formarse: es un recurso no renovable.",
+     "pista": "Pensá en cuánto tarda en formarse."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "La fractura hidráulica inyecta agua, arena y productos químicos a presión.",
+       "v": true,
+       "explicacion": "Así se abre la roca compacta."
+      },
+      {
+       "texto": "Arabia Saudita tiene más reservas probadas que Venezuela.",
+       "v": false,
+       "explicacion": "Venezuela tiene 303 mil millones de barriles; Arabia Saudita, 267 mil millones."
+      },
+      {
+       "texto": "Entre Venezuela y Arabia Saudita reúnen más de un tercio de las reservas mundiales.",
+       "v": true,
+       "explicacion": "19,4 % más 17,1 % suman 36,5 %."
+      },
+      {
+       "texto": "El petróleo argentino apareció por primera vez en Neuquén.",
+       "v": false,
+       "explicacion": "Apareció en Comodoro Rivadavia, Chubut, en 1907."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: si el petróleo es no renovable, ¿por qué las reservas probadas de un país pueden aumentar con el tiempo?",
+     "respuesta": "Porque las reservas probadas dependen de lo que se conoce y de lo que se puede extraer. Si se descubren nuevos yacimientos, o una tecnología nueva permite sacar petróleo que antes no se podía, como pasó con el shale, las reservas aumentan aunque el petróleo que hay bajo tierra sea el mismo."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es el petróleo, cómo se formó y dónde se encuentra. Diferenciá el petróleo convencional del no convencional y nombrá los países con más reservas.",
+    "guia": [
+     "¿Qué es un hidrocarburo?",
+     "¿Cómo se formó el petróleo y por qué es no renovable?",
+     "¿Qué diferencia hay entre el petróleo convencional y el no convencional?",
+     "¿Qué son las reservas probadas?",
+     "¿Qué países tienen las mayores reservas?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El petróleo es un recurso renovable.",
+     "respuesta": false,
+     "explicacion": "Tarda millones de años en formarse."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El petróleo se encuentra en cuencas sedimentarias.",
+     "respuesta": true,
+     "explicacion": "En tierra firme o bajo el fondo del mar."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El shale es una roca compacta de donde se extrae petróleo no convencional.",
+     "respuesta": true,
+     "explicacion": "Se usa la fractura hidráulica."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Venezuela tiene las mayores reservas probadas del mundo.",
+     "respuesta": true,
+     "explicacion": "Unos 303 mil millones de barriles."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El Día del Petróleo Nacional recuerda un hallazgo en Comodoro Rivadavia.",
+     "respuesta": true,
+     "explicacion": "Fue el 13 de diciembre de 1907."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las reservas probadas incluyen el petróleo que todavía no se descubrió.",
+     "respuesta": false,
+     "explicacion": "Solo el que se sabe que existe y se puede extraer."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿De qué se formó el petróleo?",
+     "opciones": [
+      "De lava volcánica",
+      "De restos de organismos acumulados en mares y lagos antiguos",
+      "De agua de lluvia",
+      "De arena del desierto"
+     ],
+     "correcta": 1,
+     "explicacion": "Restos de organismos transformados durante millones de años."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué país tiene las mayores reservas probadas?",
+     "opciones": [
+      "Arabia Saudita",
+      "Irán",
+      "Venezuela",
+      "Irak"
+     ],
+     "correcta": 2,
+     "explicacion": "Venezuela, con el 19,4 % del total."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué técnica se usa para el petróleo no convencional?",
+     "opciones": [
+      "La fractura hidráulica",
+      "El riego por goteo",
+      "La pesca",
+      "La tala"
+     ],
+     "correcta": 0,
+     "explicacion": "Se inyecta agua, arena y químicos a presión."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde apareció el primer petróleo argentino?",
+     "opciones": [
+      "Neuquén",
+      "Mendoza",
+      "Salta",
+      "Comodoro Rivadavia"
+     ],
+     "correcta": 3,
+     "explicacion": "En Chubut, en 1907."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es un recurso no renovable?",
+     "opciones": [
+      "Uno que se repone cada año",
+      "Uno que no se repone a la escala de una vida humana",
+      "Uno que no se puede usar",
+      "Uno que solo hay en el mar"
+     ],
+     "correcta": 1,
+     "explicacion": "Como el petróleo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué extrae la plataforma de la foto?",
+     "opciones": [
+      "Agua dulce",
+      "Sal",
+      "Petróleo y gas",
+      "Arena"
+     ],
+     "correcta": 2,
+     "explicacion": "Del fondo del mar, frente a Brasil."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "PETRÓLEO",
+     "pista": "Hidrocarburo líquido que se formó en millones de años."
+    },
+    {
+     "palabra": "SHALE",
+     "pista": "Roca compacta de donde se extrae petróleo no convencional."
+    },
+    {
+     "palabra": "RESERVAS",
+     "pista": "Petróleo que se sabe que existe y se puede extraer."
+    },
+    {
+     "palabra": "CUENCA",
+     "pista": "Zona donde se acumularon sedimentos durante millones de años."
+    },
+    {
+     "palabra": "VENEZUELA",
+     "pista": "País con las mayores reservas probadas."
+    },
+    {
+     "palabra": "PLATAFORMA",
+     "pista": "Estructura para extraer petróleo en el mar."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué el petróleo es un recurso no renovable?",
+     "opciones": [
+      "Porque es caro",
+      "Porque tarda millones de años en formarse",
+      "Porque solo hay en el mar",
+      "Porque está prohibido"
+     ],
+     "correcta": 1,
+     "explicacion": "Lo que se extrae no se repone a la escala de una vida humana."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia al petróleo no convencional?",
+     "opciones": [
+      "Que está en rocas compactas y necesita fractura hidráulica",
+      "Que es más líquido",
+      "Que es renovable",
+      "Que no se usa"
+     ],
+     "correcta": 0,
+     "explicacion": "No sale fácilmente al perforar."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde están las mayores reservas probadas?",
+     "opciones": [
+      "En Europa",
+      "En la Argentina",
+      "En Venezuela y en los países del golfo Pérsico",
+      "En la Antártida"
+     ],
+     "correcta": 2,
+     "explicacion": "Venezuela, Arabia Saudita, Irán, Irak y Emiratos."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Quiénes lo producen y quiénes lo consumen",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Producir no es lo mismo que tener reservas",
+     "texto": "Tener mucho petróleo bajo tierra no significa producirlo. Para extraerlo hacen falta inversiones, tecnología y empresas. Por eso el mayor productor del mundo no es el país con más reservas: es **Estados Unidos**, que en 2023 produjo casi 22 millones de barriles por día, según la Administración de Información Energética de ese país (EIA).\n\nTambién hay que mirar el **consumo**. Un país que consume más de lo que produce es **importador**: tiene que comprar petróleo afuera. Uno que produce más de lo que consume es **exportador**: vende lo que le sobra."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-05-produccion-consumo.svg",
+     "tipo": "grafico",
+     "alt": "Gráfico de barras de producción y consumo de petróleo en millones de barriles diarios. Estados Unidos produce 21,91 y consume 20,01. China produce 5,26 y consume 15,15. Arabia Saudita produce 11,13 y consume 3,65. Rusia produce 10,75 y consume 3,68.",
+     "epigrafe": "Producción (2023) y consumo (2022) de petróleo en cuatro países, en millones de barriles por día. Datos: EIA. Gráfico elaborado para esta clase.",
+     "animacion": "aparecer"
+    },
+    {
+     "t": "texto",
+     "titulo": "La OPEP",
+     "texto": "En 1960, en Bagdad, Irán, Irak, Kuwait, Arabia Saudita y Venezuela fundaron la **Organización de Países Exportadores de Petróleo (OPEP)**, para coordinar cuánto producir y defender el precio. En 1973, varios países árabes exportadores dejaron de vender petróleo a algunos países occidentales y el precio se multiplicó por cuatro. Esa **crisis del petróleo** mostró cuánto dependía la economía mundial de este recurso."
+    },
+    {
+     "t": "texto",
+     "titulo": "La Argentina y Vaca Muerta",
+     "texto": "En la provincia de Neuquén está **Vaca Muerta**, una formación de shale con grandes cantidades de petróleo y gas no convencional. En mayo de 2025 aportaba el 57,7 % del petróleo que se producía en el país, según la Secretaría de Energía de la Nación: casi 6 de cada 10 barriles."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-05-vaca-muerta.jpg",
+     "tipo": "foto",
+     "alt": "Al atardecer, en una meseta árida con arbustos bajos, se levantan varias torres metálicas de perforación, rodeadas de caños, tanques y casillas.",
+     "epigrafe": "Equipos de perforación en Vaca Muerta, Neuquén, en 2019.",
+     "fuente": "Foto: Sflexas, CC BY-SA 4.0, vía Wikimedia Commons. Imagen reducida.",
+     "animacion": "recorrer"
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "El mayor productor de petróleo es **Estados Unidos**. Un país es **exportador** si produce más de lo que consume e **importador** si consume más de lo que produce, como **China**. La **OPEP**, fundada en 1960, coordina la producción de varios exportadores. En la Argentina, **Vaca Muerta** aporta casi 6 de cada 10 barriles."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Mirá el gráfico y ordená los países de mayor a menor producción de petróleo.",
+     "items": [
+      "Estados Unidos",
+      "Arabia Saudita",
+      "Rusia",
+      "China"
+     ],
+     "explicacion": "21,91; 11,13; 10,75 y 5,26 millones de barriles por día.",
+     "pista": "Compará solo las barras azules, las de producción."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "Según el gráfico, ¿cada país es exportador o importador de petróleo?",
+     "categorias": [
+      "Exportador (produce más de lo que consume)",
+      "Importador (consume más de lo que produce)"
+     ],
+     "items": [
+      {
+       "texto": "Arabia Saudita",
+       "cat": "Exportador (produce más de lo que consume)"
+      },
+      {
+       "texto": "China",
+       "cat": "Importador (consume más de lo que produce)"
+      },
+      {
+       "texto": "Rusia",
+       "cat": "Exportador (produce más de lo que consume)"
+      }
+     ],
+     "explicacion": "Arabia Saudita y Rusia producen casi el triple de lo que consumen; China consume casi el triple de lo que produce.",
+     "pista": "Compará en cada país la barra azul con la naranja."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Buscá en el gráfico cuánto produce y cuánto consume China. ¿Cuántos millones de barriles por día le faltan, aproximadamente, para cubrir su consumo?",
+     "respuesta": "9,89",
+     "tolerancia": 0.2,
+     "explicacion": "Consume 15,15 y produce 5,26: le faltan unos 9,9 millones de barriles por día, que tiene que importar.",
+     "pista1": "Buscá las dos barras de China.",
+     "pista": "Restá la producción (5,26) al consumo (15,15)."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "📰 Elegí el titular",
+     "pregunta": "Estamos en 1973. ¿Qué titular podría aparecer en un diario?",
+     "opciones": [
+      "\"Se descubre petróleo en Comodoro Rivadavia\"",
+      "\"Se funda la OPEP en Bagdad\"",
+      "\"Países árabes cortan la venta de petróleo y el precio se dispara\"",
+      "\"Vaca Muerta produce casi 6 de cada 10 barriles\""
+     ],
+     "correcta": 2,
+     "explicacion": "En 1973 varios países árabes dejaron de vender petróleo a algunos países occidentales y el precio se multiplicó por cuatro.",
+     "pista": "Releé el texto sobre la OPEP."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué un país importador, como China, está muy atento a lo que pasa en los países exportadores?",
+     "respuesta": "Porque depende de ellos para cubrir buena parte de su consumo. Si un exportador produce menos, sube el precio o se corta una ruta de transporte, el importador puede quedarse sin el petróleo que necesita para su industria y su transporte."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá la diferencia entre países exportadores e importadores de petróleo usando los datos del gráfico. Contá qué es la OPEP y qué lugar ocupa Vaca Muerta en la producción argentina.",
+    "guia": [
+     "¿Por qué tener reservas no es lo mismo que producir?",
+     "¿Qué es un país exportador y uno importador? Da un ejemplo de cada uno.",
+     "¿Qué es la OPEP y cuándo se fundó?",
+     "¿Qué pasó en 1973?",
+     "¿Qué es Vaca Muerta y cuánto aporta?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Estados Unidos es el mayor productor de petróleo.",
+     "respuesta": true,
+     "explicacion": "Produjo casi 22 millones de barriles por día en 2023."
+    },
+    {
+     "tipo": "vf",
+     "texto": "China produce más petróleo del que consume.",
+     "respuesta": false,
+     "explicacion": "Consume casi el triple de lo que produce."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La OPEP se fundó en 1960 en Bagdad.",
+     "respuesta": true,
+     "explicacion": "Con Irán, Irak, Kuwait, Arabia Saudita y Venezuela."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En 1973 el precio del petróleo se multiplicó por cuatro.",
+     "respuesta": true,
+     "explicacion": "Fue la crisis del petróleo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Vaca Muerta está en Santa Fe.",
+     "respuesta": false,
+     "explicacion": "Está en Neuquén."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un país exportador produce más petróleo del que consume.",
+     "respuesta": true,
+     "explicacion": "Vende lo que le sobra."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué país es importador de petróleo según el gráfico?",
+     "opciones": [
+      "Arabia Saudita",
+      "Rusia",
+      "China",
+      "Ninguno"
+     ],
+     "correcta": 2,
+     "explicacion": "China consume mucho más de lo que produce."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa OPEP?",
+     "opciones": [
+      "Organización de Países Exportadores de Petróleo",
+      "Oficina de Petróleo Europeo",
+      "Organización de Puertos",
+      "Ninguna de las anteriores"
+     ],
+     "correcta": 0,
+     "explicacion": "Coordina la producción de varios exportadores."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuánto del petróleo argentino aportaba Vaca Muerta en mayo de 2025?",
+     "opciones": [
+      "10 %",
+      "25 %",
+      "57,7 %",
+      "90 %"
+     ],
+     "correcta": 2,
+     "explicacion": "Casi 6 de cada 10 barriles."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál fue uno de los países fundadores de la OPEP?",
+     "opciones": [
+      "Venezuela",
+      "Argentina",
+      "Brasil",
+      "China"
+     ],
+     "correcta": 0,
+     "explicacion": "Venezuela fue uno de los cinco fundadores."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Quién publica los datos del gráfico?",
+     "opciones": [
+      "La OPEP",
+      "La Secretaría de Energía",
+      "La EIA, de Estados Unidos",
+      "La ONU"
+     ],
+     "correcta": 2,
+     "explicacion": "La Administración de Información Energética de Estados Unidos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tipo de petróleo hay en Vaca Muerta?",
+     "opciones": [
+      "Convencional",
+      "No convencional (shale)",
+      "Petróleo del mar",
+      "Ninguno"
+     ],
+     "correcta": 1,
+     "explicacion": "Es una formación de shale."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "EXPORTADOR",
+     "pista": "País que produce más de lo que consume."
+    },
+    {
+     "palabra": "IMPORTADOR",
+     "pista": "País que consume más de lo que produce."
+    },
+    {
+     "palabra": "OPEP",
+     "pista": "Organización de países exportadores fundada en 1960."
+    },
+    {
+     "palabra": "BARRIL",
+     "pista": "Unidad para medir el petróleo."
+    },
+    {
+     "palabra": "NEUQUÉN",
+     "pista": "Provincia donde está Vaca Muerta."
+    },
+    {
+     "palabra": "CRISIS",
+     "pista": "Lo que pasó con el petróleo en 1973."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué el mayor productor no es el país con más reservas?",
+     "opciones": [
+      "Porque producir requiere inversión, tecnología y empresas",
+      "Porque las reservas no existen",
+      "Porque Estados Unidos tiene más reservas",
+      "Porque Venezuela no tiene petróleo"
+     ],
+     "correcta": 0,
+     "explicacion": "Tener petróleo bajo tierra no alcanza para producirlo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué mostró la crisis de 1973?",
+     "opciones": [
+      "Que el petróleo es renovable",
+      "Cuánto dependía la economía mundial del petróleo",
+      "Que la OPEP no existía",
+      "Que el precio nunca cambia"
+     ],
+     "correcta": 1,
+     "explicacion": "Un corte en la venta disparó el precio."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa que China sea importadora?",
+     "opciones": [
+      "Que vende petróleo",
+      "Que no usa petróleo",
+      "Que consume más de lo que produce y compra afuera",
+      "Que tiene las mayores reservas"
+     ],
+     "correcta": 2,
+     "explicacion": "Le faltan casi 10 millones de barriles por día."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Disputas por los recursos energéticos",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Un recurso que se disputa",
+     "texto": "Como el petróleo es valioso y está repartido de forma muy desigual, su control genera **disputas**. Algunas son entre Estados que reclaman el mismo yacimiento o la misma zona. Otras tienen que ver con las **rutas** por donde se transporta. Y otras se dan dentro de un mismo país, entre quienes quieren aumentar la extracción y quienes advierten sobre sus efectos en el ambiente."
+    },
+    {
+     "t": "pasos",
+     "titulo": "Un caso: Irak y Kuwait (1990-1991)",
+     "pasos": [
+      {
+       "titulo": "Los reclamos",
+       "texto": "Irak acusaba a Kuwait, su vecino, de extraer petróleo de un yacimiento compartido y de producir de más, lo que bajaba el precio."
+      },
+      {
+       "titulo": "La invasión",
+       "texto": "En agosto de 1990, Irak invadió Kuwait. La ONU condenó la invasión y exigió el retiro."
+      },
+      {
+       "titulo": "La guerra del Golfo",
+       "texto": "En 1991, una coalición de países encabezada por Estados Unidos expulsó a Irak de Kuwait."
+      },
+      {
+       "titulo": "Las consecuencias",
+       "texto": "Al retirarse, el ejército iraquí incendió cientos de pozos de petróleo en Kuwait, con un gran daño ambiental."
+      }
+     ]
+    },
+    {
+     "t": "texto",
+     "titulo": "Las rutas: el estrecho de Ormuz",
+     "texto": "El petróleo del golfo Pérsico sale al mundo en barcos por el **estrecho de Ormuz**, un paso de mar angosto entre Irán y Omán. Por allí pasa una parte muy importante del petróleo que se exporta en el mundo. Cuando hay tensiones en esa zona, los países importadores temen quedarse sin abastecimiento y el precio sube."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Un debate dentro de la Argentina: el shale de Vaca Muerta",
+     "columnas": [
+      "Quienes defienden ampliar la extracción",
+      "Quienes advierten sobre sus riesgos"
+     ],
+     "filas": [
+      [
+       "Genera empleo e inversiones en la región",
+       "La fractura hidráulica usa mucha agua"
+      ],
+      [
+       "Permite exportar y traer divisas al país",
+       "Puede contaminar suelos y napas si hay accidentes"
+      ],
+      [
+       "Reduce la necesidad de importar energía",
+       "Aumenta la dependencia de un recurso no renovable"
+      ]
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "El control del petróleo genera **disputas** entre Estados (como Irak y Kuwait en 1990-1991), por las **rutas** de transporte (como el estrecho de Ormuz) y dentro de los países, entre quienes quieren ampliar la extracción y quienes advierten sobre el **ambiente**."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🗣️ ¿Quién lo diría?",
+     "pregunta": "La frase es inventada: \"Con más pozos en Vaca Muerta va a haber trabajo para mucha gente de la zona\". ¿Quién la diría?",
+     "opciones": [
+      "Alguien que advierte sobre los riesgos de la extracción",
+      "Alguien que defiende ampliar la extracción",
+      "Un funcionario de Kuwait en 1990",
+      "Un pescador del estrecho de Ormuz"
+     ],
+     "correcta": 1,
+     "explicacion": "El empleo es uno de los argumentos de quienes defienden ampliar la extracción.",
+     "pista": "Mirá la tabla del debate sobre Vaca Muerta."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada lugar con lo que pasó o lo que es.",
+     "pares": [
+      {
+       "a": "Kuwait",
+       "b": "Fue invadido por Irak en 1990"
+      },
+      {
+       "a": "Estrecho de Ormuz",
+       "b": "Paso de mar entre Irán y Omán"
+      },
+      {
+       "a": "Vaca Muerta",
+       "b": "Formación de shale en Neuquén"
+      },
+      {
+       "a": "Golfo Pérsico",
+       "b": "Región con grandes reservas, de donde sale el petróleo por Ormuz"
+      }
+     ],
+     "explicacion": "Son tres tipos de disputa: entre Estados, por las rutas y dentro de un país.",
+     "pista": "Releé el caso de Irak y Kuwait y el texto sobre Ormuz."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "En 1990, [[Irak]] invadió Kuwait. La [[ONU]] condenó la invasión. En 1991, una coalición de países lo expulsó. Al retirarse, el ejército iraquí incendió cientos de [[pozos]] de petróleo, con un gran daño [[ambiental]].",
+     "distractores": [
+      "Irán",
+      "OPEP",
+      "económico"
+     ],
+     "explicacion": "Así se resume el caso de Irak y Kuwait.",
+     "pista": "Seguí los pasos del caso de Irak y Kuwait."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "El estrecho de Ormuz está entre Irán y Omán.",
+       "v": true,
+       "explicacion": "Es la salida del golfo Pérsico."
+      },
+      {
+       "texto": "La ONU apoyó la invasión de Irak a Kuwait.",
+       "v": false,
+       "explicacion": "La condenó y exigió el retiro."
+      },
+      {
+       "texto": "Quienes advierten sobre la fractura hidráulica señalan que usa mucha agua.",
+       "v": true,
+       "explicacion": "Es uno de sus argumentos."
+      },
+      {
+       "texto": "Todas las disputas por el petróleo son entre países.",
+       "v": false,
+       "explicacion": "También hay debates dentro de un mismo país."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué un problema en un estrecho de pocas decenas de kilómetros, lejos de la Argentina, puede hacer subir el precio de la nafta acá?",
+     "respuesta": "Porque el petróleo tiene un precio mundial. Si por Ormuz pasa menos petróleo, hay menos oferta en el mundo y el precio sube en todos lados, también en los países que no compran petróleo de esa zona."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá por qué el petróleo genera disputas. Describí el caso de Irak y Kuwait, la importancia del estrecho de Ormuz y el debate sobre Vaca Muerta, presentando las dos posiciones sin tomar partido.",
+    "guia": [
+     "¿Por qué el control del petróleo genera disputas?",
+     "¿Qué pasó entre Irak y Kuwait en 1990 y 1991?",
+     "¿Qué es el estrecho de Ormuz y por qué importa?",
+     "¿Qué dicen quienes defienden ampliar la extracción en Vaca Muerta?",
+     "¿Qué dicen quienes advierten sobre sus riesgos?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Irak invadió Kuwait en 1990.",
+     "respuesta": true,
+     "explicacion": "En agosto de 1990."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Una coalición encabezada por Estados Unidos expulsó a Irak de Kuwait en 1991.",
+     "respuesta": true,
+     "explicacion": "Fue la guerra del Golfo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El estrecho de Ormuz está en el océano Atlántico.",
+     "respuesta": false,
+     "explicacion": "Está entre Irán y Omán, a la salida del golfo Pérsico."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Al retirarse de Kuwait, el ejército iraquí incendió pozos de petróleo.",
+     "respuesta": true,
+     "explicacion": "Fueron cientos de pozos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el debate sobre Vaca Muerta, todos opinan lo mismo.",
+     "respuesta": false,
+     "explicacion": "Hay quienes defienden ampliar la extracción y quienes advierten sobre sus riesgos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Si hay tensiones en Ormuz, el precio del petróleo puede subir.",
+     "respuesta": true,
+     "explicacion": "Los importadores temen quedarse sin abastecimiento."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿De qué acusaba Irak a Kuwait?",
+     "opciones": [
+      "De invadir su territorio",
+      "De extraer petróleo de un yacimiento compartido y producir de más",
+      "De no tener petróleo",
+      "De cerrar el estrecho de Ormuz"
+     ],
+     "correcta": 1,
+     "explicacion": "Esos fueron sus reclamos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Entre qué países está el estrecho de Ormuz?",
+     "opciones": [
+      "Irak y Kuwait",
+      "Irán y Omán",
+      "Arabia Saudita y Egipto",
+      "Venezuela y Colombia"
+     ],
+     "correcta": 1,
+     "explicacion": "Entre Irán y Omán."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué argumento usan quienes defienden ampliar la extracción en Vaca Muerta?",
+     "opciones": [
+      "Que usa mucha agua",
+      "Que puede contaminar napas",
+      "Que genera empleo e inversiones",
+      "Que es un recurso renovable"
+     ],
+     "correcta": 2,
+     "explicacion": "Es uno de sus argumentos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué argumento usan quienes advierten sobre los riesgos?",
+     "opciones": [
+      "Que genera divisas",
+      "Que reduce importaciones",
+      "Que da empleo",
+      "Que la fractura hidráulica usa mucha agua"
+     ],
+     "correcta": 3,
+     "explicacion": "Es uno de sus argumentos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hizo la ONU ante la invasión de Kuwait?",
+     "opciones": [
+      "La condenó y exigió el retiro",
+      "La apoyó",
+      "No dijo nada",
+      "Invadió Irak en 1990"
+     ],
+     "correcta": 0,
+     "explicacion": "La condenó."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas es una disputa dentro de un país?",
+     "opciones": [
+      "Irak y Kuwait",
+      "El debate sobre Vaca Muerta",
+      "Las rutas de Ormuz",
+      "La crisis de 1973"
+     ],
+     "correcta": 1,
+     "explicacion": "Es un debate dentro de la Argentina."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "KUWAIT",
+     "pista": "País invadido por Irak en 1990."
+    },
+    {
+     "palabra": "ORMUZ",
+     "pista": "Estrecho entre Irán y Omán."
+    },
+    {
+     "palabra": "DISPUTA",
+     "pista": "Conflicto por el control de algo valioso."
+    },
+    {
+     "palabra": "COALICIÓN",
+     "pista": "Grupo de países que actúan juntos."
+    },
+    {
+     "palabra": "ESTRECHO",
+     "pista": "Paso de mar angosto entre dos tierras."
+    },
+    {
+     "palabra": "AMBIENTE",
+     "pista": "Lo que preocupa a quienes advierten sobre la extracción."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué el petróleo genera disputas?",
+     "opciones": [
+      "Porque es valioso y está repartido de forma desigual",
+      "Porque es renovable",
+      "Porque es barato",
+      "Porque nadie lo usa"
+     ],
+     "correcta": 0,
+     "explicacion": "Muchos quieren controlarlo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué muestra el caso del estrecho de Ormuz?",
+     "opciones": [
+      "Que las rutas de transporte también se disputan",
+      "Que el petróleo no se transporta",
+      "Que no hay petróleo en el golfo Pérsico",
+      "Que el precio nunca cambia"
+     ],
+     "correcta": 0,
+     "explicacion": "Controlar el paso es controlar el abastecimiento."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas frases presenta el debate de Vaca Muerta sin tomar partido?",
+     "opciones": [
+      "Hay que extraer todo lo posible, sin dudas",
+      "Hay que prohibir la extracción ya",
+      "Algunos destacan el empleo y las divisas; otros, el uso de agua y los riesgos ambientales",
+      "No hay ningún debate"
+     ],
+     "correcta": 2,
+     "explicacion": "Presenta las dos posiciones."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Hidrocarburo",
+   "definicion": "Sustancia formada por restos de organismos, como el petróleo y el gas."
+  },
+  {
+   "palabra": "Recurso no renovable",
+   "definicion": "Recurso que no se repone a la escala de una vida humana."
+  },
+  {
+   "palabra": "Reservas probadas",
+   "definicion": "Petróleo que se sabe que existe y se puede extraer con la tecnología y los precios actuales."
+  },
+  {
+   "palabra": "Fractura hidráulica",
+   "definicion": "Técnica que inyecta agua, arena y químicos a presión para extraer petróleo de rocas compactas."
+  },
+  {
+   "palabra": "País exportador",
+   "definicion": "País que produce más petróleo del que consume y vende el resto."
+  },
+  {
+   "palabra": "OPEP",
+   "definicion": "Organización de Países Exportadores de Petróleo, fundada en 1960."
+  },
+  {
+   "palabra": "Estrecho",
+   "definicion": "Paso de mar angosto entre dos tierras, como el de Ormuz."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "El país con más reservas es el que más petróleo produce.",
+   "aclaracion": "Venezuela tiene las mayores reservas, pero el mayor productor es Estados Unidos."
+  },
+  {
+   "error": "El petróleo se repone con el tiempo.",
+   "aclaracion": "Tarda millones de años en formarse: es un recurso no renovable."
+  },
+  {
+   "error": "Las disputas por el petróleo son solo guerras entre países.",
+   "aclaracion": "También hay disputas por las rutas de transporte y debates dentro de un país, como el de Vaca Muerta."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Si el petróleo es no renovable, ¿qué otras fuentes de energía podrían reemplazarlo? ¿Qué ventajas y qué problemas tendría cada una?",
+  "conexion": "Con la clase de la desertización africana: allí viste otro caso en el que la forma de usar un recurso cambia el ambiente."
+ }
+}

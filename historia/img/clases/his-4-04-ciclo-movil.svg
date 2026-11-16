@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 900" role="img" aria-label="Esquema circular: el Estado interviene, se protege la industria, suben los salarios, crece el consumo y eso impulsa más producción industrial" font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<defs><marker id="pt" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10z" fill="#5B2A86"/></marker></defs>
+<rect x="0" y="0" width="500" height="900" rx="28" fill="#F7F4FD"/>
+<text x="250" y="50" font-size="26" font-weight="800" fill="#5B2A86" text-anchor="middle">El modelo</text>
+<text x="250" y="82" font-size="26" font-weight="800" fill="#5B2A86" text-anchor="middle">económico peronista</text>
+<g class="a-ap" style="--d:0.0s">
+<rect x="50.0" y="118.0" width="360" height="124" rx="22" fill="#fff" stroke="#5B2A86" stroke-width="4"/>
+<circle cx="56.0" cy="124.0" r="22" fill="#5B2A86"/>
+<text x="56.0" y="132.0" font-size="22" font-weight="800" fill="#fff" text-anchor="middle">1</text>
+<text x="230" y="164" font-size="22" font-weight="800" fill="#5B2A86" text-anchor="middle">El Estado interviene</text>
+<text x="230" y="194.0" font-size="18" font-weight="600" fill="#4A4870" text-anchor="middle">Planifica y controla</text>
+<text x="230" y="217.4" font-size="18" font-weight="600" fill="#4A4870" text-anchor="middle">áreas clave</text>
+</g>
+<g class="a-ap" style="--d:0.5s"><path d="M230 244 v48" stroke="#5B2A86" stroke-width="4" marker-end="url(#pt)"/></g>
+<g class="a-ap" style="--d:0.9s">
+<rect x="50.0" y="298.0" width="360" height="124" rx="22" fill="#fff" stroke="#4B4FA3" stroke-width="4"/>
+<circle cx="56.0" cy="304.0" r="22" fill="#4B4FA3"/>
+<text x="56.0" y="312.0" font-size="22" font-weight="800" fill="#fff" text-anchor="middle">2</text>
+<text x="230" y="344" font-size="22" font-weight="800" fill="#4B4FA3" text-anchor="middle">Se protege la industria</text>
+<text x="230" y="374.0" font-size="18" font-weight="600" fill="#4A4870" text-anchor="middle">Produce para el</text>
+<text x="230" y="397.4" font-size="18" font-weight="600" fill="#4A4870" text-anchor="middle">mercado interno</text>
+</g>
+<g class="a-ap" style="--d:1.4s"><path d="M230 424 v48" stroke="#5B2A86" stroke-width="4" marker-end="url(#pt)"/></g>
+<g class="a-ap" style="--d:1.8s">
+<rect x="50.0" y="478.0" width="360" height="124" rx="22" fill="#fff" stroke="#B83A7A" stroke-width="4"/>
+<circle cx="56.0" cy="484.0" r="22" fill="#B83A7A"/>
+<text x="56.0" y="492.0" font-size="22" font-weight="800" fill="#fff" text-anchor="middle">3</text>
+<text x="230" y="524" font-size="22" font-weight="800" fill="#B83A7A" text-anchor="middle">Suben los salarios</text>
+<text x="230" y="554.0" font-size="18" font-weight="600" fill="#4A4870" text-anchor="middle">Más poder de compra</text>
+<text x="230" y="577.4" font-size="18" font-weight="600" fill="#4A4870" text-anchor="middle">y derechos</text>
+</g>
+<g class="a-ap" style="--d:2.3s"><path d="M230 604 v48" stroke="#5B2A86" stroke-width="4" marker-end="url(#pt)"/></g>
+<g class="a-ap" style="--d:2.7s">
+<rect x="50.0" y="658.0" width="360" height="124" rx="22" fill="#fff" stroke="#E5194F" stroke-width="4"/>
+<circle cx="56.0" cy="664.0" r="22" fill="#E5194F"/>
+<text x="56.0" y="672.0" font-size="22" font-weight="800" fill="#fff" text-anchor="middle">4</text>
+<text x="230" y="704" font-size="22" font-weight="800" fill="#E5194F" text-anchor="middle">Crece el consumo</text>
+<text x="230" y="734.0" font-size="18" font-weight="600" fill="#4A4870" text-anchor="middle">Más consumo impulsa</text>
+<text x="230" y="757.4" font-size="18" font-weight="600" fill="#4A4870" text-anchor="middle">más producción</text>
+</g>
+<g class="a-ap" style="--d:3.2s"><path d="M412 720 h40 v-540 h-26" fill="none" stroke="#5B2A86" stroke-width="4" marker-end="url(#pt)"/></g>
+<text x="250" y="830" font-size="19" font-weight="700" fill="#4A4870" text-anchor="middle">…y vuelve a empezar: más consumo</text>
+<text x="250" y="856" font-size="19" font-weight="700" fill="#4A4870" text-anchor="middle">impulsa más producción industrial</text>
+</svg>

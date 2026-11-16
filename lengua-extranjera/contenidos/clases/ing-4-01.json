@@ -1,0 +1,1894 @@
+{
+  "id": "ing-4-01",
+  "espacio": "lengua-extranjera",
+  "idioma": "en",
+  "eje": "¿Cómo organizamos nuestro tiempo? Entretenimiento y estudio de los adolescentes en distintas culturas",
+  "titulo": "Rutinas y estudio: el presente simple (Present simple)",
+  "intro": "En esta clase vas a aprender a contar una rutina en inglés y a decir cada cuánto se hacen las cosas. Vas a conocer cómo es un día de {{nombre}} y, al final, lo vas a contar en inglés.",
+  "objetivos": [
+    "Usar el presente simple para hablar de rutinas, con la -s de he, she e it.",
+    "Decir cada cuánto hacés algo con always, usually, often, sometimes y never.",
+    "Escribir en inglés un párrafo breve sobre el día de {{nombre}}."
+  ],
+  "tp_aporte": "Para tu trabajo práctico ya tenés las reglas del presente simple, la escala de los adverbios de frecuencia y el comienzo de la historia de {{nombre}}: cómo es su día.",
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "El presente simple: rutinas y hechos",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "¿Para qué se usa el presente simple?",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "El **presente simple** ([[Present simple]]) se usa para hablar de **rutinas**, cosas que hacemos siempre o seguido, y de **hechos** que son verdad hoy. Así cuenta {{nombre}} algunas cosas de su vida:\n\n[[~I walk to school every day.]] (Voy caminando a la escuela todos los días.)\n[[~My brother studies music.]] (Mi hermano estudia música.)\n[[~In England, most students wear a school uniform.]] (En Inglaterra, la mayoría de los estudiantes usa uniforme.)\n\nCasi siempre el verbo queda igual que en el diccionario. Hay una sola excepción, y es la que más se olvida: **he, she e it**."
+            },
+            "ben": {
+              "texto": "El **presente simple** ([[Present simple]]) se usa para hablar de **rutinas**, cosas que hacemos siempre o seguido, y de **hechos** que son verdad hoy. Así cuenta {{nombre}} algunas cosas de su vida:\n\n[[~I take the yellow school bus.]] (Tomo el autobús escolar amarillo.)\n[[~My sister plays the guitar.]] (Mi hermana toca la guitarra.)\n[[~In the USA, many students take a school bus.]] (En Estados Unidos, muchos estudiantes van en autobús escolar.)\n\nCasi siempre el verbo queda igual que en el diccionario. Hay una sola excepción, y es la que más se olvida: **he, she e it**."
+            },
+            "mia": {
+              "texto": "El **presente simple** ([[Present simple]]) se usa para hablar de **rutinas**, cosas que hacemos siempre o seguido, y de **hechos** que son verdad hoy. Así cuenta {{nombre}} algunas cosas de su vida:\n\n[[~I take the train to school.]] (Voy a la escuela en tren.)\n[[~My little brother watches cartoons.]] (Mi hermanito mira dibujos animados.)\n[[~In Australia, the school year starts in summer.]] (En Australia, el año escolar empieza en verano.)\n\nCasi siempre el verbo queda igual que en el diccionario. Hay una sola excepción, y es la que más se olvida: **he, she e it**."
+            },
+            "liam": {
+              "texto": "El **presente simple** ([[Present simple]]) se usa para hablar de **rutinas**, cosas que hacemos siempre o seguido, y de **hechos** que son verdad hoy. Así cuenta {{nombre}} algunas cosas de su vida:\n\n[[~I play the guitar after school.]] (Toco la guitarra después de clase.)\n[[~My mum works at a hospital.]] (Mi mamá trabaja en un hospital.)\n[[~In Ireland, most students study Irish.]] (En Irlanda, la mayoría de los estudiantes estudia irlandés.)\n\nCasi siempre el verbo queda igual que en el diccionario. Hay una sola excepción, y es la que más se olvida: **he, she e it**."
+            }
+          }
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar: la -s de he, she e it",
+          "texto": "Con **he, she, it** (o una sola persona o cosa: my mum, the school) el verbo lleva **-s**: [[she works]], [[he plays]].\n• Si termina en **s, sh, ch, x u o**, lleva **-es**: [[watch]] → [[watches]], [[go]] → [[goes]], [[finish]] → [[finishes]].\n• Si termina en **consonante + y**, la y cambia por **-ies**: [[study]] → [[studies]].\n• **have** es irregular: [[she has]].\nCon I, you, we y they no se agrega nada: [[they work]], [[we study]]."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Afirmar, negar y preguntar (tocá 🔊 para escuchar)",
+          "columnas": [
+            "",
+            "I, you, we, they",
+            "He, she, it"
+          ],
+          "filas": [
+            [
+              "Afirmativo",
+              "[[They play football.]]",
+              "[[She plays football.]]"
+            ],
+            [
+              "Negativo",
+              "[[They don't play football.]]",
+              "[[She doesn't play football.]]"
+            ],
+            [
+              "Pregunta",
+              "[[Do they play football?]]",
+              "[[Does she play football?]]"
+            ],
+            [
+              "Respuesta corta",
+              "[[Yes, they do.]] / [[No, they don't.]]",
+              "[[Yes, she does.]] / [[No, she doesn't.]]"
+            ]
+          ]
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Pensalo así",
+          "texto": "La -s de he, she e it es como una ficha que se puede poner en un solo lugar. En [[She plays]] la ficha está en el verbo. En [[She doesn't play]] o [[Does she play?]] la ficha ya la tiene does, así que el verbo queda sin -s. Nunca van las dos juntas: no se dice \"she doesn't plays\"."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cómo queda cada verbo con she?",
+          "categorias": [
+            "Agrega -s",
+            "Agrega -es",
+            "Cambia la y por -ies"
+          ],
+          "items": [
+            {
+              "texto": "work → works",
+              "cat": "Agrega -s"
+            },
+            {
+              "texto": "play → plays",
+              "cat": "Agrega -s"
+            },
+            {
+              "texto": "watch → watches",
+              "cat": "Agrega -es"
+            },
+            {
+              "texto": "go → goes",
+              "cat": "Agrega -es"
+            },
+            {
+              "texto": "study → studies",
+              "cat": "Cambia la y por -ies"
+            },
+            {
+              "texto": "carry → carries",
+              "cat": "Cambia la y por -ies"
+            }
+          ],
+          "explicacion": "Regla general: -s. Terminados en s, sh, ch, x u o: -es. Consonante + y: -ies. Play termina en vocal + y, así que solo lleva -s."
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ayudame a ordenar mi día, de la mañana a la noche.",
+          "pista": "Pensá qué se hace primero a la mañana y qué se hace a la noche. Las horas y las palabras after y at night te ayudan.",
+          "porPersonaje": {
+            "lucy": {
+              "items": [
+                "I get up at seven.",
+                "I walk to school.",
+                "I have lunch at school.",
+                "I rehearse after school.",
+                "I finish my homework late."
+              ],
+              "explicacion": "Así es el día de Lucy: se levanta a las siete, va caminando a la escuela, almuerza ahí, ensaya después de clase y termina la tarea tarde."
+            },
+            "ben": {
+              "items": [
+                "I get up at six twenty.",
+                "I take the yellow school bus.",
+                "I arrive at school early.",
+                "I practice basketball after school.",
+                "I study history at night."
+              ],
+              "explicacion": "Así es el día de Ben: se levanta a las seis y veinte, toma el autobús escolar amarillo, llega temprano, practica básquet después de clase y a la noche estudia historia."
+            },
+            "mia": {
+              "items": [
+                "I get up at six forty-five.",
+                "I take the train to school.",
+                "I study on the train.",
+                "I have classes until three.",
+                "I read in bed at night."
+              ],
+              "explicacion": "Así es el día de Mia: se levanta a las siete menos cuarto, va en tren a la escuela, estudia en el tren, tiene clases hasta las tres y a la noche lee en la cama."
+            },
+            "liam": {
+              "items": [
+                "I get up at eight.",
+                "My mum drives me to school.",
+                "I have classes all morning.",
+                "I play the guitar after school.",
+                "I wash the dishes after dinner."
+              ],
+              "explicacion": "Así es el día de Liam: se levanta a las ocho, su mamá lo lleva en auto a la escuela, tiene clases toda la mañana, toca la guitarra después de clase y lava los platos después de cenar."
+            }
+          },
+          "habla": true
+        },
+        {
+          "t": "pronunciar",
+          "modo": "escuchar",
+          "voz": "personaje",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "My brother finishes school at four.",
+              "traduccion": "(Mi hermano termina la escuela a las cuatro.)",
+              "explicacion": "En finishes la terminación -es suma una sílaba: finish-es."
+            },
+            "ben": {
+              "texto": "My sister watches basketball with me.",
+              "traduccion": "(Mi hermana mira básquet conmigo.)",
+              "explicacion": "En watches la terminación -es suma una sílaba: watch-es."
+            },
+            "mia": {
+              "texto": "My little brother watches cartoons every morning.",
+              "traduccion": "(Mi hermanito mira dibujos animados todas las mañanas.)",
+              "explicacion": "En watches la terminación -es suma una sílaba: watch-es."
+            },
+            "liam": {
+              "texto": "My mum finishes work at six.",
+              "traduccion": "(Mi mamá termina de trabajar a las seis.)",
+              "explicacion": "En finishes la terminación -es suma una sílaba: finish-es."
+            }
+          }
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "🔍 Encontrá el error",
+          "pregunta": "Una de estas oraciones tiene un error. ¿Cuál es?",
+          "opciones": [
+            "She doesn't plays the piano.",
+            "My brother goes to school by bus.",
+            "Do you study in the morning?",
+            "They don't have classes today."
+          ],
+          "explicacion": "Después de doesn't, el verbo va sin -s: She doesn't play the piano.",
+          "pista": "Releé el ejemplo de la ficha: la -s puede estar en un solo lugar.",
+          "correcta": 0
+        },
+        {
+          "t": "verificar",
+          "respuesta": "studies",
+          "acepta": [
+            "studies"
+          ],
+          "formato": "Escribí solo el verbo en inglés.",
+          "pista": "Study termina en consonante + y. En el recuadro de la -s está la regla.",
+          "porPersonaje": {
+            "lucy": {
+              "consigna": "Completá con el verbo study lo que te cuento de mi hermano: My brother ___ music at school.",
+              "explicacion": "My brother es he, y study termina en consonante + y: studies.",
+              "pista1": "My brother es he: el verbo cambia. Buscá la regla en el recuadro \"Para recordar: la -s de he, she e it\", al principio de esta parte."
+            },
+            "ben": {
+              "consigna": "Completá con el verbo study lo que te cuento de mi hermana: My sister ___ French at school.",
+              "explicacion": "My sister es she, y study termina en consonante + y: studies.",
+              "pista1": "My sister es she: el verbo cambia. Buscá la regla en el recuadro \"Para recordar: la -s de he, she e it\", al principio de esta parte."
+            },
+            "mia": {
+              "consigna": "Completá con el verbo study lo que te cuento de mi hermanito: My little brother ___ English at school.",
+              "explicacion": "My little brother es he, y study termina en consonante + y: studies.",
+              "pista1": "My little brother es he: el verbo cambia. Buscá la regla en el recuadro \"Para recordar: la -s de he, she e it\", al principio de esta parte."
+            },
+            "liam": {
+              "consigna": "Completá con el verbo study lo que te cuento de mi mamá: My mum ___ Irish at night.",
+              "explicacion": "My mum es she, y study termina en consonante + y: studies.",
+              "pista1": "My mum es she: el verbo cambia. Buscá la regla en el recuadro \"Para recordar: la -s de he, she e it\", al principio de esta parte."
+            }
+          },
+          "habla": true,
+          "pista1": "Buscá en el recuadro \"Para recordar: la -s de he, she e it\" qué le pasa al verbo con she o he."
+        },
+        {
+          "t": "dictado",
+          "voz": "personaje",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "My brother studies music.",
+              "traduccion": "(Mi hermano estudia música.)",
+              "explicacion": "Studies lleva -ies porque my brother es he."
+            },
+            "ben": {
+              "texto": "My sister plays the guitar.",
+              "traduccion": "(Mi hermana toca la guitarra.)",
+              "explicacion": "Plays lleva -s porque my sister es she. Como play termina en vocal + y, solo se agrega -s."
+            },
+            "mia": {
+              "texto": "My little brother watches cartoons.",
+              "traduccion": "(Mi hermanito mira dibujos animados.)",
+              "explicacion": "Watches lleva -es porque my little brother es he y watch termina en ch."
+            },
+            "liam": {
+              "texto": "My mum works at a hospital.",
+              "traduccion": "(Mi mamá trabaja en un hospital.)",
+              "explicacion": "Works lleva -s porque my mum es she."
+            }
+          }
+        },
+        {
+          "t": "revelar",
+          "pregunta": "¿Por qué en castellano no nos cuesta la -s de she, y en inglés sí?",
+          "respuesta": "Porque en castellano el verbo cambia con todas las personas (estudio, estudiás, estudia, estudiamos) y estamos acostumbrados a escuchar la diferencia. En inglés casi todo queda igual, salvo he, she e it, y por eso esa única -s se olvida fácil. Conviene revisarla al final de cada texto."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá en castellano para qué se usa el presente simple y qué le pasa al verbo con he, she e it, con las tres formas de agregar -s. Después explicá cómo se niega y cómo se pregunta (con don't, doesn't, do y does). Al final escribí en inglés cuatro oraciones sobre el día de {{nombre}}, con lo que sabés de su vida: dos afirmativas, una negativa y una pregunta.",
+        "guia": [
+          "¿Para qué se usa el presente simple? Dá un ejemplo de rutina y uno de hecho.",
+          "¿Qué le pasa al verbo con he, she e it? ¿Cuándo va -s, -es o -ies?",
+          "¿Cuándo se usa don't y cuándo doesn't?",
+          "¿Por qué en \"Does she play?\" el verbo va sin -s?",
+          "¿Qué hace {{nombre}} en un día común? Mirá la actividad donde ordenaste su día. Ojo: con {{nombre}}, el verbo lleva -s."
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El presente simple sirve para hablar de rutinas.",
+          "respuesta": true,
+          "explicacion": "I get up at seven."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con she, el verbo work queda works.",
+          "respuesta": true,
+          "explicacion": "He, she e it llevan -s."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con they, el verbo lleva -s.",
+          "respuesta": false,
+          "explicacion": "Con I, you, we y they el verbo no cambia: they work."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El presente de have con she es haves.",
+          "respuesta": false,
+          "explicacion": "Have es irregular: she has."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"She doesn't plays\" está bien escrita.",
+          "respuesta": false,
+          "explicacion": "Después de doesn't, el verbo va sin -s: she doesn't play."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Las preguntas con he, she e it empiezan con does.",
+          "respuesta": true,
+          "explicacion": "Does she play football?"
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo queda go con he?",
+          "opciones": [
+            "goes",
+            "gos",
+            "goies",
+            "go"
+          ],
+          "correcta": 0,
+          "explicacion": "Termina en o: -es."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo queda study con she?",
+          "opciones": [
+            "studies",
+            "studys",
+            "studyes",
+            "study"
+          ],
+          "correcta": 0,
+          "explicacion": "Consonante + y: -ies."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la pregunta bien formada?",
+          "opciones": [
+            "Does he live here?",
+            "Does he lives here?",
+            "Do he live here?",
+            "He does live here?"
+          ],
+          "correcta": 0,
+          "explicacion": "Does + persona + verbo base."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"They ___ like fish\"?",
+          "opciones": [
+            "don't",
+            "doesn't",
+            "isn't",
+            "aren't"
+          ],
+          "correcta": 0,
+          "explicacion": "Con they, el negativo es don't."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se responde \"Does your mum work?\" si es verdad?",
+          "opciones": [
+            "Yes, she does.",
+            "Yes, she do.",
+            "Yes, she works.",
+            "Yes, she is."
+          ],
+          "correcta": 0,
+          "explicacion": "La respuesta corta repite does."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué verbo la -es suma una sílaba al pronunciarlo?",
+          "opciones": [
+            "watches",
+            "plays",
+            "works",
+            "lives"
+          ],
+          "correcta": 0,
+          "explicacion": "Watch-es: después de ch, la terminación suena como una sílaba más."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "ROUTINE",
+          "pista": "Rutina, en inglés."
+        },
+        {
+          "palabra": "STUDIES",
+          "pista": "Study con she."
+        },
+        {
+          "palabra": "WATCHES",
+          "pista": "Watch con he."
+        },
+        {
+          "palabra": "DOES",
+          "pista": "Auxiliar para preguntar con he, she e it."
+        },
+        {
+          "palabra": "GOES",
+          "pista": "Go con she."
+        },
+        {
+          "palabra": "HAS",
+          "pista": "Have con he."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "My dad works in a shop.",
+            "My dad work in a shop.",
+            "My dad workes in a shop.",
+            "My dad don't work in a shop."
+          ],
+          "correcta": 0,
+          "explicacion": "My dad es he: works."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"___ you get up early?\"",
+          "opciones": [
+            "Do",
+            "Does",
+            "Are",
+            "Is"
+          ],
+          "correcta": 0,
+          "explicacion": "Con you, las preguntas empiezan con do."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"She has a dog\" está en presente simple.",
+          "respuesta": true,
+          "explicacion": "Has es el presente de have con she."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "¿Con qué frecuencia? Los adverbios de frecuencia",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Decir cada cuánto hacemos algo",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "Para contar una rutina no alcanza con el verbo: también importa **cada cuánto** lo hacemos. Para eso están los **adverbios de frecuencia**. Así los usa {{nombre}}:\n\n[[~I always have lunch at school.]] (Siempre almuerzo en la escuela.)\n[[~I sometimes watch films with my brother.]] (A veces miro películas con mi hermano.)\n[[~I never go to school on Sundays.]] (Nunca voy a la escuela los domingos.)"
+            },
+            "ben": {
+              "texto": "Para contar una rutina no alcanza con el verbo: también importa **cada cuánto** lo hacemos. Para eso están los **adverbios de frecuencia**. Así los usa {{nombre}}:\n\n[[~I always do my homework after dinner.]] (Siempre hago la tarea después de cenar.)\n[[~I sometimes play video games.]] (A veces juego a los videojuegos.)\n[[~I never go to school on Sundays.]] (Nunca voy a la escuela los domingos.)"
+            },
+            "mia": {
+              "texto": "Para contar una rutina no alcanza con el verbo: también importa **cada cuánto** lo hacemos. Para eso están los **adverbios de frecuencia**. Así los usa {{nombre}}:\n\n[[~I always wear a hat in the sun.]] (Siempre uso sombrero al sol.)\n[[~I sometimes cook with my mum.]] (A veces cocino con mi mamá.)\n[[~I never go to school on Sundays.]] (Nunca voy a la escuela los domingos.)"
+            },
+            "liam": {
+              "texto": "Para contar una rutina no alcanza con el verbo: también importa **cada cuánto** lo hacemos. Para eso están los **adverbios de frecuencia**. Así los usa {{nombre}}:\n\n[[~I always listen to music.]] (Siempre escucho música.)\n[[~I sometimes play football with my friends.]] (A veces juego al fútbol con mis amigos.)\n[[~I never go to school on Sundays.]] (Nunca voy a la escuela los domingos.)"
+            }
+          }
+        },
+        {
+          "t": "imagen",
+          "src": "img/clases/ing-4-01-frecuencia.svg",
+          "src_movil": "img/clases/ing-4-01-frecuencia-movil.svg",
+          "tipo": "grafico",
+          "animacion": "svg",
+          "alt": "Escala de frecuencia con cinco barras que bajan: always, todas las veces; usually, casi siempre; often, seguido; sometimes, a veces; never, ninguna vez.",
+          "epigrafe": "Esquema elaborado para esta clase. Cada barra muestra más o menos cuántas veces pasa algo."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar: dónde va el adverbio",
+          "texto": "• **Antes del verbo**: [[She usually walks to school.]] [[I don't often watch TV.]]\n• **Después de am, is, are** (el verbo be): [[He is always late.]] [[We are never bored.]]\nEl orden de la escala: [[always]] (siempre), [[usually]] (casi siempre), [[often]] (seguido), [[sometimes]] (a veces), [[never]] (nunca)."
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada adverbio con su significado.",
+          "pares": [
+            {
+              "a": "always",
+              "b": "siempre"
+            },
+            {
+              "a": "usually",
+              "b": "casi siempre"
+            },
+            {
+              "a": "often",
+              "b": "seguido"
+            },
+            {
+              "a": "sometimes",
+              "b": "a veces"
+            },
+            {
+              "a": "never",
+              "b": "nunca"
+            }
+          ],
+          "explicacion": "De más a menos: always, usually, often, sometimes, never.",
+          "pista": "Mirá la escala dibujada: la barra más larga es always."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para leer la tabla",
+          "texto": "Contá en cuántos días de la semana aparece ✓:\n• los 5 días: **always**\n• 4 días: **usually**\n• 3 días: **often**\n• 1 o 2 días: **sometimes**\n• ningún día: **never**"
+        },
+        {
+          "t": "comparar",
+          "titulo": "Mi semana (✓ = lo hago ese día)",
+          "columnas": [
+            "",
+            "Mon (lun)",
+            "Tue (mar)",
+            "Wed (mié)",
+            "Thu (jue)",
+            "Fri (vie)"
+          ],
+          "porPersonaje": {
+            "lucy": {
+              "filas": [
+                [
+                  "[[walk to school]]",
+                  "✓",
+                  "✓",
+                  "✓",
+                  "✓",
+                  "✓"
+                ],
+                [
+                  "[[finish my homework late]]",
+                  "✓",
+                  "✓",
+                  "✓",
+                  "✓",
+                  "—"
+                ],
+                [
+                  "[[rehearse after school]]",
+                  "—",
+                  "✓",
+                  "—",
+                  "✓",
+                  "—"
+                ],
+                [
+                  "[[forget my keys]]",
+                  "—",
+                  "—",
+                  "✓",
+                  "—",
+                  "—"
+                ],
+                [
+                  "[[get up after seven thirty]]",
+                  "—",
+                  "—",
+                  "—",
+                  "—",
+                  "—"
+                ]
+              ]
+            },
+            "ben": {
+              "filas": [
+                [
+                  "[[take the yellow school bus]]",
+                  "✓",
+                  "✓",
+                  "✓",
+                  "✓",
+                  "✓"
+                ],
+                [
+                  "[[practice basketball]]",
+                  "✓",
+                  "✓",
+                  "✓",
+                  "✓",
+                  "—"
+                ],
+                [
+                  "[[watch games on TV]]",
+                  "—",
+                  "✓",
+                  "—",
+                  "—",
+                  "✓"
+                ],
+                [
+                  "[[arrive late]]",
+                  "—",
+                  "—",
+                  "—",
+                  "—",
+                  "—"
+                ],
+                [
+                  "[[eat breakfast at home]]",
+                  "—",
+                  "—",
+                  "—",
+                  "—",
+                  "—"
+                ]
+              ]
+            },
+            "mia": {
+              "filas": [
+                [
+                  "[[take the train]]",
+                  "✓",
+                  "✓",
+                  "✓",
+                  "✓",
+                  "✓"
+                ],
+                [
+                  "[[study on the train]]",
+                  "✓",
+                  "✓",
+                  "✓",
+                  "✓",
+                  "—"
+                ],
+                [
+                  "[[listen to music on the train]]",
+                  "—",
+                  "—",
+                  "✓",
+                  "—",
+                  "✓"
+                ],
+                [
+                  "[[go to bed late]]",
+                  "—",
+                  "—",
+                  "—",
+                  "—",
+                  "✓"
+                ],
+                [
+                  "[[practise the violin at night]]",
+                  "—",
+                  "—",
+                  "—",
+                  "—",
+                  "—"
+                ]
+              ]
+            },
+            "liam": {
+              "filas": [
+                [
+                  "[[go to school by car]]",
+                  "✓",
+                  "✓",
+                  "✓",
+                  "✓",
+                  "✓"
+                ],
+                [
+                  "[[play the guitar after school]]",
+                  "✓",
+                  "✓",
+                  "✓",
+                  "✓",
+                  "—"
+                ],
+                [
+                  "[[try a new recipe]]",
+                  "—",
+                  "✓",
+                  "—",
+                  "—",
+                  "✓"
+                ],
+                [
+                  "[[get up early]]",
+                  "—",
+                  "—",
+                  "—",
+                  "—",
+                  "—"
+                ],
+                [
+                  "[[walk to school]]",
+                  "—",
+                  "—",
+                  "—",
+                  "—",
+                  "—"
+                ]
+              ]
+            }
+          },
+          "habla": true
+        },
+        {
+          "t": "clasificar",
+          "consigna": "Mirá la tabla de mi semana. ¿Con qué frecuencia hago cada cosa?",
+          "categorias": [
+            "always",
+            "usually",
+            "sometimes",
+            "never"
+          ],
+          "explicacion": "Contaste los ✓ de cada fila: 5 es always, 4 es usually, 1 o 2 es sometimes y ninguno es never.",
+          "pista": "Contá los ✓ de cada fila y fijate en el recuadro que está arriba de la tabla.",
+          "porPersonaje": {
+            "lucy": {
+              "items": [
+                {
+                  "texto": "walk to school",
+                  "cat": "always"
+                },
+                {
+                  "texto": "finish my homework late",
+                  "cat": "usually"
+                },
+                {
+                  "texto": "rehearse after school",
+                  "cat": "sometimes"
+                },
+                {
+                  "texto": "forget my keys",
+                  "cat": "sometimes"
+                },
+                {
+                  "texto": "get up after seven thirty",
+                  "cat": "never"
+                }
+              ]
+            },
+            "ben": {
+              "items": [
+                {
+                  "texto": "take the yellow school bus",
+                  "cat": "always"
+                },
+                {
+                  "texto": "practice basketball",
+                  "cat": "usually"
+                },
+                {
+                  "texto": "watch games on TV",
+                  "cat": "sometimes"
+                },
+                {
+                  "texto": "arrive late",
+                  "cat": "never"
+                },
+                {
+                  "texto": "eat breakfast at home",
+                  "cat": "never"
+                }
+              ]
+            },
+            "mia": {
+              "items": [
+                {
+                  "texto": "take the train",
+                  "cat": "always"
+                },
+                {
+                  "texto": "study on the train",
+                  "cat": "usually"
+                },
+                {
+                  "texto": "listen to music on the train",
+                  "cat": "sometimes"
+                },
+                {
+                  "texto": "go to bed late",
+                  "cat": "sometimes"
+                },
+                {
+                  "texto": "practise the violin at night",
+                  "cat": "never"
+                }
+              ]
+            },
+            "liam": {
+              "items": [
+                {
+                  "texto": "go to school by car",
+                  "cat": "always"
+                },
+                {
+                  "texto": "play the guitar after school",
+                  "cat": "usually"
+                },
+                {
+                  "texto": "try a new recipe",
+                  "cat": "sometimes"
+                },
+                {
+                  "texto": "get up early",
+                  "cat": "never"
+                },
+                {
+                  "texto": "walk to school",
+                  "cat": "never"
+                }
+              ]
+            }
+          },
+          "habla": true
+        },
+        {
+          "t": "unir",
+          "etiqueta": "Uní",
+          "consigna": "Me hicieron una entrevista para el blog del intercambio. Uní cada pregunta con mi respuesta.",
+          "explicacion": "Las preguntas empiezan con What, How, Do o Are, y las respuestas cortas contestan justo eso: una hora, un medio de transporte, sí o no.",
+          "pista": "Leé la palabra con la que empieza cada pregunta: What time pide una hora, How pide una manera y Do you… se contesta con yes o no.",
+          "porPersonaje": {
+            "lucy": {
+              "pares": [
+                {
+                  "a": "[[~What time do you get up?]]",
+                  "b": "At seven."
+                },
+                {
+                  "a": "[[~How do you go to school?]]",
+                  "b": "I walk."
+                },
+                {
+                  "a": "[[~What do you do after school?]]",
+                  "b": "I rehearse twice a week."
+                },
+                {
+                  "a": "[[~Is there a day you don't like?]]",
+                  "b": "Mondays!"
+                },
+                {
+                  "a": "[[~Do you ever forget things?]]",
+                  "b": "Yes, I sometimes forget my keys."
+                }
+              ]
+            },
+            "ben": {
+              "pares": [
+                {
+                  "a": "[[~What time do you get up?]]",
+                  "b": "At six twenty."
+                },
+                {
+                  "a": "[[~How do you go to school?]]",
+                  "b": "I take the yellow school bus."
+                },
+                {
+                  "a": "[[~Are you ever late?]]",
+                  "b": "No, I always arrive early."
+                },
+                {
+                  "a": "[[~What do you do after school?]]",
+                  "b": "I practice basketball."
+                },
+                {
+                  "a": "[[~Do you eat breakfast at home?]]",
+                  "b": "No, I don't."
+                }
+              ]
+            },
+            "mia": {
+              "pares": [
+                {
+                  "a": "[[~What time do you get up?]]",
+                  "b": "At six forty-five."
+                },
+                {
+                  "a": "[[~How do you go to school?]]",
+                  "b": "I take the train."
+                },
+                {
+                  "a": "[[~What do you do on the train?]]",
+                  "b": "I usually study."
+                },
+                {
+                  "a": "[[~What do you do on Saturdays?]]",
+                  "b": "I go swimming."
+                },
+                {
+                  "a": "[[~Do you like cold water?]]",
+                  "b": "No, I don't!"
+                }
+              ]
+            },
+            "liam": {
+              "pares": [
+                {
+                  "a": "[[~What time do you get up?]]",
+                  "b": "At eight."
+                },
+                {
+                  "a": "[[~How do you go to school?]]",
+                  "b": "My mum drives me."
+                },
+                {
+                  "a": "[[~Do you ever get up early?]]",
+                  "b": "No, never!"
+                },
+                {
+                  "a": "[[~What do you do on Fridays?]]",
+                  "b": "I cook dinner."
+                },
+                {
+                  "a": "[[~Do you like new recipes?]]",
+                  "b": "Yes, I always try new recipes."
+                }
+              ]
+            }
+          },
+          "habla": true
+        },
+        {
+          "t": "pronunciar",
+          "modo": "decir",
+          "voz": "personaje",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "I never get up after seven thirty.",
+              "traduccion": "(Nunca me levanto después de las siete y media.)",
+              "explicacion": "Never se dice con fuerza en la primera sílaba: NEV-er."
+            },
+            "ben": {
+              "texto": "I usually practice basketball after school.",
+              "traduccion": "(Casi siempre practico básquet después de clase.)",
+              "explicacion": "Usually se dice con fuerza en la primera sílaba: U-sually."
+            },
+            "mia": {
+              "texto": "I always take the train.",
+              "traduccion": "(Siempre tomo el tren.)",
+              "explicacion": "Always se dice con fuerza en la primera sílaba: AL-ways."
+            },
+            "liam": {
+              "texto": "I never get up early.",
+              "traduccion": "(Nunca me levanto temprano.)",
+              "explicacion": "Never se dice con fuerza en la primera sílaba: NEV-er."
+            }
+          }
+        },
+        {
+          "t": "vf",
+          "consigna": "Leé cada afirmación y marcá si es verdadera o falsa.",
+          "afirmaciones": [
+            {
+              "texto": "[[He is always late.]] tiene el adverbio en el lugar correcto.",
+              "v": true,
+              "explicacion": "Con is, el adverbio va después."
+            },
+            {
+              "texto": "[[She walks usually to school.]] tiene el adverbio en el lugar correcto.",
+              "v": false,
+              "explicacion": "Va antes del verbo: She usually walks to school."
+            },
+            {
+              "texto": "[[sometimes]] indica que algo pasa más seguido que [[often]].",
+              "v": false,
+              "explicacion": "Es al revés: often es más seguido que sometimes."
+            },
+            {
+              "texto": "[[never]] ya es negativo: no hace falta agregar don't.",
+              "v": true,
+              "explicacion": "Se dice I never eat, no I don't never eat."
+            }
+          ]
+        },
+        {
+          "t": "dictado",
+          "voz": "personaje",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "I usually finish my homework late.",
+              "traduccion": "(Casi siempre termino la tarea tarde.)",
+              "explicacion": "El adverbio usually va antes del verbo."
+            },
+            "ben": {
+              "texto": "I always take the yellow school bus.",
+              "traduccion": "(Siempre tomo el autobús escolar amarillo.)",
+              "explicacion": "El adverbio always va antes del verbo."
+            },
+            "mia": {
+              "texto": "I never practise the violin at night.",
+              "traduccion": "(Nunca practico violín a la noche.)",
+              "explicacion": "El adverbio never va antes del verbo, y no hace falta don't."
+            },
+            "liam": {
+              "texto": "I usually play the guitar after school.",
+              "traduccion": "(Casi siempre toco la guitarra después de clase.)",
+              "explicacion": "El adverbio usually va antes del verbo."
+            }
+          }
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Mirá la tabla de mi semana y armá dos oraciones como las diría yo: una con always y una con never. Pensalas antes de mirar.",
+          "porPersonaje": {
+            "lucy": {
+              "respuesta": "Por ejemplo: [[~I always walk to school.]] (Siempre voy caminando a la escuela.) y [[~I never get up after seven thirty.]] (Nunca me levanto después de las siete y media.) El adverbio va antes del verbo."
+            },
+            "ben": {
+              "respuesta": "Por ejemplo: [[~I always take the yellow school bus.]] (Siempre tomo el autobús escolar amarillo.) y [[~I never arrive late.]] (Nunca llego tarde.) El adverbio va antes del verbo."
+            },
+            "mia": {
+              "respuesta": "Por ejemplo: [[~I always take the train.]] (Siempre tomo el tren.) y [[~I never practise the violin at night.]] (Nunca practico violín a la noche.) El adverbio va antes del verbo."
+            },
+            "liam": {
+              "respuesta": "Por ejemplo: [[~I always go to school by car.]] (Siempre voy a la escuela en auto.) y [[~I never get up early.]] (Nunca me levanto temprano.) El adverbio va antes del verbo."
+            }
+          },
+          "habla": true
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Copiá la escala de los adverbios de frecuencia, de always a never, con su significado. Explicá en castellano dónde va el adverbio en la oración (con un verbo común y con am, is o are). Después escribí en inglés cinco oraciones sobre la semana de {{nombre}}, cada una con un adverbio distinto. Usá la tabla y la entrevista.",
+        "guia": [
+          "¿Cuál es el orden de los adverbios, de más a menos frecuente?",
+          "¿Dónde va el adverbio con un verbo como play o study?",
+          "¿Y dónde va con am, is o are?",
+          "¿Por qué con never no se usa don't?",
+          "¿Qué hace {{nombre}} siempre, casi siempre, a veces y nunca? Fijate en la tabla de su semana."
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Always quiere decir \"siempre\".",
+          "respuesta": true,
+          "explicacion": "Es el adverbio de más frecuencia."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Never va con don't: \"I don't never watch TV\".",
+          "respuesta": false,
+          "explicacion": "Never ya es negativo: I never watch TV."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con is, el adverbio va después: \"He is always happy\".",
+          "respuesta": true,
+          "explicacion": "Con el verbo be va después."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Usually es menos frecuente que sometimes.",
+          "respuesta": false,
+          "explicacion": "Usually es casi siempre; sometimes, a veces."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Often quiere decir \"seguido\".",
+          "respuesta": true,
+          "explicacion": "Está entre usually y sometimes."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"She plays sometimes tennis\" está bien escrita.",
+          "respuesta": false,
+          "explicacion": "Va antes del verbo: She sometimes plays tennis."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué adverbio quiere decir \"a veces\"?",
+          "opciones": [
+            "sometimes",
+            "always",
+            "never",
+            "usually"
+          ],
+          "correcta": 0,
+          "explicacion": "Sometimes = a veces."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la oración bien escrita?",
+          "opciones": [
+            "We usually have lunch at one.",
+            "We have usually lunch at one.",
+            "Usually we have lunch at one o'clock usually.",
+            "We have lunch usually at one."
+          ],
+          "correcta": 0,
+          "explicacion": "El adverbio va antes del verbo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el adverbio de menos frecuencia?",
+          "opciones": [
+            "never",
+            "often",
+            "sometimes",
+            "usually"
+          ],
+          "correcta": 0,
+          "explicacion": "Never = ninguna vez."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"My teacher is ___ on time\" (siempre llega a horario)?",
+          "opciones": [
+            "always",
+            "never",
+            "sometimes",
+            "often"
+          ],
+          "correcta": 0,
+          "explicacion": "Siempre = always."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Dónde va el adverbio con am, is o are?",
+          "opciones": [
+            "Después del verbo",
+            "Antes del verbo",
+            "Al final de la oración",
+            "Al principio de todo"
+          ],
+          "correcta": 0,
+          "explicacion": "He is always late."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"I often read at night\"?",
+          "opciones": [
+            "Leo seguido a la noche",
+            "Nunca leo a la noche",
+            "Siempre leo a la noche",
+            "Leí anoche"
+          ],
+          "correcta": 0,
+          "explicacion": "Often = seguido."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "ALWAYS",
+          "pista": "Siempre."
+        },
+        {
+          "palabra": "NEVER",
+          "pista": "Nunca."
+        },
+        {
+          "palabra": "SOMETIMES",
+          "pista": "A veces."
+        },
+        {
+          "palabra": "USUALLY",
+          "pista": "Casi siempre."
+        },
+        {
+          "palabra": "OFTEN",
+          "pista": "Seguido."
+        },
+        {
+          "palabra": "WEEKEND",
+          "pista": "Fin de semana, en inglés."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "I sometimes study with friends.",
+            "I study sometimes with friends.",
+            "Sometimes I study with friends sometimes.",
+            "I am sometimes study with friends."
+          ],
+          "correcta": 0,
+          "explicacion": "El adverbio va antes del verbo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué adverbio está entre usually y sometimes?",
+          "opciones": [
+            "often",
+            "always",
+            "never",
+            "today"
+          ],
+          "correcta": 0,
+          "explicacion": "Always, usually, often, sometimes, never."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"We are never bored\" tiene el adverbio después de are.",
+          "respuesta": true,
+          "explicacion": "Con el verbo be, el adverbio va después."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Un día de escuela en {{pais}} y en la Argentina",
+      "tiempo": "35 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Adolescentes de distintas culturas",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "En todos los países los y las adolescentes van a la escuela, pero los días no son iguales. Cambia cuándo empieza el año, cómo se viaja, qué se come y qué tareas se hacen. Para contarlo en inglés alcanza con el presente simple y los adverbios de frecuencia:\n\n[[In Argentina, many students go to school in the afternoon.]]\n[[In England, most students wear a school uniform.]]"
+            },
+            "ben": {
+              "texto": "En todos los países los y las adolescentes van a la escuela, pero los días no son iguales. Cambia cuándo empieza el año, cómo se viaja, qué se come y qué tareas se hacen. Para contarlo en inglés alcanza con el presente simple y los adverbios de frecuencia:\n\n[[In Argentina, many students go to school in the afternoon.]]\n[[In the United States, many students take a yellow school bus.]]"
+            },
+            "mia": {
+              "texto": "En todos los países los y las adolescentes van a la escuela, pero los días no son iguales. Cambia cuándo empieza el año, cómo se viaja, qué se come y qué tareas se hacen. Para contarlo en inglés alcanza con el presente simple y los adverbios de frecuencia:\n\n[[In Argentina, many students go to school in the afternoon.]]\n[[In Australia, the school year starts in late January or early February.]]"
+            },
+            "liam": {
+              "texto": "En todos los países los y las adolescentes van a la escuela, pero los días no son iguales. Cambia cuándo empieza el año, cómo se viaja, qué se come y qué tareas se hacen. Para contarlo en inglés alcanza con el presente simple y los adverbios de frecuencia:\n\n[[In Argentina, many students go to school in the afternoon.]]\n[[In Ireland, most students study Irish at school.]]"
+            }
+          }
+        },
+        {
+          "t": "comparar",
+          "titulo": "Argentina y {{pais}} (tocá 🔊 para escuchar)",
+          "columnas": [
+            "País",
+            "Algo de su día de escuela"
+          ],
+          "porPersonaje": {
+            "lucy": {
+              "filas": [
+                [
+                  "Argentina",
+                  "[[Many students go to school in the morning or in the afternoon.]] [[The school year starts in February or March.]]"
+                ],
+                [
+                  "{{pais}}",
+                  "[[Most students wear a school uniform.]] [[Many students have lunch at school.]]"
+                ]
+              ]
+            },
+            "ben": {
+              "filas": [
+                [
+                  "Argentina",
+                  "[[Many students go to school in the morning or in the afternoon.]] [[The school year starts in February or March.]]"
+                ],
+                [
+                  "{{pais}}",
+                  "[[Many students take a yellow school bus.]] [[The school year usually starts in August or September.]]"
+                ]
+              ]
+            },
+            "mia": {
+              "filas": [
+                [
+                  "Argentina",
+                  "[[Many students go to school in the morning or in the afternoon.]] [[The school year starts in February or March.]]"
+                ],
+                [
+                  "{{pais}}",
+                  "[[The school year starts in late January or early February.]] [[Most students wear a school uniform.]]"
+                ]
+              ]
+            },
+            "liam": {
+              "filas": [
+                [
+                  "Argentina",
+                  "[[Many students go to school in the morning or in the afternoon.]] [[The school year starts in February or March.]]"
+                ],
+                [
+                  "{{pais}}",
+                  "[[The school year starts in late August or early September.]] [[Most students study Irish at school.]]"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Mi mensaje",
+          "texto": "Se lo mandé a los estudiantes del intercambio. Tocá 🔊 para escucharlo.",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "Se lo mandé a los estudiantes del intercambio. Tocá 🔊 para escucharlo.\n\n[[~Hi everyone! I live in Bristol, in England.]] [[~I wear a school uniform.]] [[~Classes start at a quarter to nine.]] [[~I usually have lunch at school with my friends.]] [[~On Tuesdays and Thursdays, I rehearse with the drama club.]] [[~And I don't like Mondays!]]"
+            },
+            "ben": {
+              "texto": "Se lo mandé a los estudiantes del intercambio. Tocá 🔊 para escucharlo.\n\n[[~Hi everyone! I live near Chicago, in the USA.]] [[~Every morning I take the yellow school bus.]] [[~Classes start at eight, and I never arrive late.]] [[~I don't eat breakfast at home: I eat at school.]] [[~After school, I practice basketball with my team.]]"
+            },
+            "mia": {
+              "texto": "Se lo mandé a los estudiantes del intercambio. Tocá 🔊 para escucharlo.\n\n[[~Hi everyone! I live in Sydney, Australia.]] [[~My school year starts in summer, at the end of January or in February.]] [[~I take the train to school and I usually study on the train.]] [[~I wear a school uniform.]] [[~I don't like cold water, but I love swimming!]]"
+            },
+            "liam": {
+              "texto": "Se lo mandé a los estudiantes del intercambio. Tocá 🔊 para escucharlo.\n\n[[~Hi everyone! I live in Dublin, Ireland.]] [[~My school year starts at the end of August.]] [[~I wear a school uniform and I study Irish at school.]] [[~My mum drives me to school, because I never get up early.]] [[~I don't walk to school.]]"
+            }
+          },
+          "habla": true
+        },
+        {
+          "t": "unir",
+          "etiqueta": "Uní",
+          "consigna": "Uní cada oración de mi mensaje con su traducción.",
+          "pista": "Buscá primero las palabras que ya conocés, como school, never o don't, y fijate qué traducción las tiene.",
+          "porPersonaje": {
+            "lucy": {
+              "pares": [
+                {
+                  "a": "I wear a school uniform.",
+                  "b": "Uso uniforme escolar."
+                },
+                {
+                  "a": "Classes start at a quarter to nine.",
+                  "b": "Las clases empiezan a las nueve menos cuarto."
+                },
+                {
+                  "a": "I usually have lunch at school with my friends.",
+                  "b": "Casi siempre almuerzo en la escuela con mis amigos."
+                },
+                {
+                  "a": "I rehearse with the drama club.",
+                  "b": "Ensayo con el grupo de teatro."
+                },
+                {
+                  "a": "I don't like Mondays!",
+                  "b": "¡No me gustan los lunes!"
+                }
+              ],
+              "explicacion": "Así queda el mensaje de {{nombre}} en castellano: ¡Hola a todos! Vivo en Bristol, Inglaterra. Uso uniforme escolar. Las clases empiezan a las nueve menos cuarto. Casi siempre almuerzo en la escuela con mis amigos. Los martes y los jueves ensayo con el grupo de teatro. ¡Y no me gustan los lunes!"
+            },
+            "ben": {
+              "pares": [
+                {
+                  "a": "Every morning I take the yellow school bus.",
+                  "b": "Todas las mañanas tomo el autobús escolar amarillo."
+                },
+                {
+                  "a": "Classes start at eight.",
+                  "b": "Las clases empiezan a las ocho."
+                },
+                {
+                  "a": "I never arrive late.",
+                  "b": "Nunca llego tarde."
+                },
+                {
+                  "a": "I don't eat breakfast at home.",
+                  "b": "No desayuno en mi casa."
+                },
+                {
+                  "a": "I practice basketball with my team.",
+                  "b": "Practico básquet con mi equipo."
+                }
+              ],
+              "explicacion": "Así queda el mensaje de {{nombre}} en castellano: ¡Hola a todos! Vivo cerca de Chicago, en Estados Unidos. Todas las mañanas tomo el autobús escolar amarillo. Las clases empiezan a las ocho y nunca llego tarde. No desayuno en mi casa: desayuno en la escuela. Después de clase practico básquet con mi equipo."
+            },
+            "mia": {
+              "pares": [
+                {
+                  "a": "My school year starts in summer.",
+                  "b": "Mi año escolar empieza en verano."
+                },
+                {
+                  "a": "I take the train to school.",
+                  "b": "Voy a la escuela en tren."
+                },
+                {
+                  "a": "I usually study on the train.",
+                  "b": "Casi siempre estudio en el tren."
+                },
+                {
+                  "a": "I wear a school uniform.",
+                  "b": "Uso uniforme escolar."
+                },
+                {
+                  "a": "I don't like cold water.",
+                  "b": "No me gusta el agua fría."
+                }
+              ],
+              "explicacion": "Así queda el mensaje de {{nombre}} en castellano: ¡Hola a todos! Vivo en Sídney, Australia. Mi año escolar empieza en verano, a fines de enero o en febrero. Voy a la escuela en tren y casi siempre estudio en el tren. Uso uniforme escolar. No me gusta el agua fría, ¡pero me encanta nadar!"
+            },
+            "liam": {
+              "pares": [
+                {
+                  "a": "My school year starts at the end of August.",
+                  "b": "Mi año escolar empieza a fines de agosto."
+                },
+                {
+                  "a": "I study Irish at school.",
+                  "b": "Estudio irlandés en la escuela."
+                },
+                {
+                  "a": "My mum drives me to school.",
+                  "b": "Mi mamá me lleva en auto a la escuela."
+                },
+                {
+                  "a": "I never get up early.",
+                  "b": "Nunca me levanto temprano."
+                },
+                {
+                  "a": "I don't walk to school.",
+                  "b": "No voy caminando a la escuela."
+                }
+              ],
+              "explicacion": "Así queda el mensaje de {{nombre}} en castellano: ¡Hola a todos! Vivo en Dublín, Irlanda. Mi año escolar empieza a fines de agosto. Uso uniforme escolar y estudio irlandés en la escuela. Mi mamá me lleva en auto a la escuela, porque nunca me levanto temprano. No voy caminando a la escuela."
+            }
+          },
+          "habla": true
+        },
+        {
+          "t": "pronunciar",
+          "modo": "escuchar",
+          "voz": "personaje",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "I usually have lunch at school with my friends.",
+              "traduccion": "(Casi siempre almuerzo en la escuela con mis amigos.)",
+              "explicacion": "En [[lunch]], la u suena parecida a una a corta."
+            },
+            "ben": {
+              "texto": "Every morning I take the yellow school bus.",
+              "traduccion": "(Todas las mañanas tomo el autobús escolar amarillo.)",
+              "explicacion": "En [[yellow]], la y suena como una i corta: \"ié-lou\"."
+            },
+            "mia": {
+              "texto": "I usually study on the train.",
+              "traduccion": "(Casi siempre estudio en el tren.)",
+              "explicacion": "En [[usually]], la s suena suave, parecida a la y de \"yo\" dicha con fuerza."
+            },
+            "liam": {
+              "texto": "My mum drives me to school.",
+              "traduccion": "(Mi mamá me lleva en auto a la escuela.)",
+              "explicacion": "En [[drives]], la s del final suena como una z."
+            }
+          }
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿De qué país habla cada oración? Mirá las fichas de mi país y de la Argentina.",
+          "categorias": [
+            "Argentina",
+            "{{pais}}"
+          ],
+          "explicacion": "Cada oración está en la ficha de su país.",
+          "pista": "Volvé a mirar las dos fichas: cada oración aparece en una sola.",
+          "porPersonaje": {
+            "lucy": {
+              "items": [
+                {
+                  "texto": "Many students go to school in the morning or in the afternoon.",
+                  "cat": "Argentina"
+                },
+                {
+                  "texto": "The school year starts in February or March.",
+                  "cat": "Argentina"
+                },
+                {
+                  "texto": "Most students wear a school uniform.",
+                  "cat": "{{pais}}"
+                },
+                {
+                  "texto": "Many students have lunch at school.",
+                  "cat": "{{pais}}"
+                }
+              ]
+            },
+            "ben": {
+              "items": [
+                {
+                  "texto": "Many students go to school in the morning or in the afternoon.",
+                  "cat": "Argentina"
+                },
+                {
+                  "texto": "The school year starts in February or March.",
+                  "cat": "Argentina"
+                },
+                {
+                  "texto": "Many students take a yellow school bus.",
+                  "cat": "{{pais}}"
+                },
+                {
+                  "texto": "The school year usually starts in August or September.",
+                  "cat": "{{pais}}"
+                }
+              ]
+            },
+            "mia": {
+              "items": [
+                {
+                  "texto": "Many students go to school in the morning or in the afternoon.",
+                  "cat": "Argentina"
+                },
+                {
+                  "texto": "The school year starts in February or March.",
+                  "cat": "Argentina"
+                },
+                {
+                  "texto": "The school year starts in late January or early February.",
+                  "cat": "{{pais}}"
+                },
+                {
+                  "texto": "Most students wear a school uniform.",
+                  "cat": "{{pais}}"
+                }
+              ]
+            },
+            "liam": {
+              "items": [
+                {
+                  "texto": "Many students go to school in the morning or in the afternoon.",
+                  "cat": "Argentina"
+                },
+                {
+                  "texto": "The school year starts in February or March.",
+                  "cat": "Argentina"
+                },
+                {
+                  "texto": "The school year starts in late August or early September.",
+                  "cat": "{{pais}}"
+                },
+                {
+                  "texto": "Most students study Irish at school.",
+                  "cat": "{{pais}}"
+                }
+              ]
+            }
+          },
+          "habla": true
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá lo que cuento en mi mensaje.",
+          "pista": "Fijate quién hace cada cosa: con I el verbo va sin -s. Si no te acordás, releé el mensaje.",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "I [[wear]] a school uniform. Classes [[start]] at a quarter to nine. I usually [[have]] lunch at school. I [[don't]] like Mondays!",
+              "distractores": [
+                "wears",
+                "starts",
+                "has",
+                "doesn't"
+              ],
+              "explicacion": "Con I y con classes (they) el verbo va sin -s, y el negativo es don't."
+            },
+            "ben": {
+              "texto": "I [[take]] the yellow school bus. Classes [[start]] at eight. I never [[arrive]] late. I [[don't]] eat breakfast at home.",
+              "distractores": [
+                "takes",
+                "starts",
+                "arrives",
+                "doesn't"
+              ],
+              "explicacion": "Con I y con classes (they) el verbo va sin -s, y el negativo es don't."
+            },
+            "mia": {
+              "texto": "I [[take]] the train to school. I usually [[study]] on the train. My school year [[starts]] in summer. I [[don't]] like cold water.",
+              "distractores": [
+                "takes",
+                "studies",
+                "start",
+                "doesn't"
+              ],
+              "explicacion": "Con I el verbo va sin -s y el negativo es don't. My school year es it: por eso starts lleva -s."
+            },
+            "liam": {
+              "texto": "My mum [[drives]] me to school. I never [[get]] up early. I [[study]] Irish at school. I [[don't]] walk to school.",
+              "distractores": [
+                "drive",
+                "gets",
+                "studies",
+                "doesn't"
+              ],
+              "explicacion": "My mum es she: drives lleva -s. Con I el verbo va sin -s y el negativo es don't."
+            }
+          },
+          "habla": true
+        },
+        {
+          "t": "dictado",
+          "voz": "personaje",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "I don't like Mondays.",
+              "traduccion": "(No me gustan los lunes.)",
+              "explicacion": "Con I el negativo es don't, y después va el verbo sin cambios."
+            },
+            "ben": {
+              "texto": "I never arrive late.",
+              "traduccion": "(Nunca llego tarde.)",
+              "explicacion": "Never va antes del verbo, y con never no hace falta don't."
+            },
+            "mia": {
+              "texto": "I don't like cold water.",
+              "traduccion": "(No me gusta el agua fría.)",
+              "explicacion": "Con I el negativo es don't, y después va el verbo sin cambios."
+            },
+            "liam": {
+              "texto": "I study Irish at school.",
+              "traduccion": "(Estudio irlandés en la escuela.)",
+              "explicacion": "Con I, study va sin -ies: la -ies es solo para he, she e it."
+            }
+          }
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Si yo te preguntara cómo es tu día de escuela, ¿qué tres oraciones me contestarías?",
+          "respuesta": "Por ejemplo: [[I go to school in the morning.]] [[I usually take the bus.]] [[I never clean the classroom, but I sometimes help my teacher.]] Usá el presente simple y al menos un adverbio de frecuencia.",
+          "habla": true
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Ahora contá en tu carpeta cómo es mi día. Escribí en inglés un párrafo de seis a ocho oraciones, como si se lo contaras a otra persona: a qué hora me levanto, cómo voy a la escuela, qué hago siempre, a veces y nunca, y qué hago después de clase. Usá lo que fuiste conociendo en las tres partes (el orden de mi día, la tabla de mi semana, la entrevista y mi mensaje) y agregá un detalle que inventes vos. Este párrafo es el comienzo de mi historia para tu trabajo práctico.",
+        "porPersonaje": {
+          "lucy": {
+            "guia": [
+              "Empezá así: [[Lucy is sixteen and she lives in Bristol, in England.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[Every day, she…]] [[Then she…]] [[After school, she…]] [[She never…]] [[She doesn't like…]]",
+              "¿Pusiste -s en los verbos que van con {{nombre}} y con she?",
+              "¿Usaste al menos dos adverbios de frecuencia distintos?",
+              "¿Hay una oración negativa con doesn't?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "ben": {
+            "guia": [
+              "Empezá así: [[Ben is sixteen and he lives near Chicago, in the USA.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[Every day, he…]] [[Then he…]] [[After school, he…]] [[He never…]] [[He doesn't like…]]",
+              "¿Pusiste -s en los verbos que van con {{nombre}} y con he?",
+              "¿Usaste al menos dos adverbios de frecuencia distintos?",
+              "¿Hay una oración negativa con doesn't?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "mia": {
+            "guia": [
+              "Empezá así: [[Mia is sixteen and she lives in Sydney, Australia.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[Every day, she…]] [[Then she…]] [[After school, she…]] [[She never…]] [[She doesn't like…]]",
+              "¿Pusiste -s en los verbos que van con {{nombre}} y con she?",
+              "¿Usaste al menos dos adverbios de frecuencia distintos?",
+              "¿Hay una oración negativa con doesn't?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "liam": {
+            "guia": [
+              "Empezá así: [[Liam is sixteen and he lives in Dublin, Ireland.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[Every day, he…]] [[Then he…]] [[After school, he…]] [[He never…]] [[He doesn't like…]]",
+              "¿Pusiste -s en los verbos que van con {{nombre}} y con he?",
+              "¿Usaste al menos dos adverbios de frecuencia distintos?",
+              "¿Hay una oración negativa con doesn't?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          }
+        },
+        "habla": true
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Según las fichas, en Argentina el año escolar empieza en febrero o en marzo.",
+          "respuesta": true,
+          "explicacion": "The school year starts in February or March."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"She takes the train\" está en presente simple.",
+          "respuesta": true,
+          "explicacion": "Takes: take con she."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"I wears a uniform\" está bien escrita.",
+          "respuesta": false,
+          "explicacion": "Con I el verbo va sin -s: I wear a uniform."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Classes starts at eight\" está bien escrita.",
+          "respuesta": false,
+          "explicacion": "Classes es they: Classes start at eight."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En \"My mum drives me to school\", drives lleva -s porque my mum es she.",
+          "respuesta": true,
+          "explicacion": "My mum = she: drives."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"He don't walk to school\" está bien escrita.",
+          "respuesta": false,
+          "explicacion": "Con he el negativo es doesn't: He doesn't walk to school."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"Classes start at eight\"?",
+          "opciones": [
+            "Las clases terminan a las ocho",
+            "Las clases empiezan a las ocho",
+            "Hay ocho clases",
+            "La clase dura ocho horas"
+          ],
+          "correcta": 1,
+          "explicacion": "Start = empezar."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"school uniform\"?",
+          "opciones": [
+            "Útiles escolares",
+            "Uniforme escolar",
+            "Horario escolar",
+            "Edificio escolar"
+          ],
+          "correcta": 1,
+          "explicacion": "Uniform = uniforme."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se dice \"en Argentina el año empieza en marzo\"?",
+          "opciones": [
+            "The school year start in March.",
+            "The school year starting in March.",
+            "The school year starts in March.",
+            "The school year is start in March."
+          ],
+          "correcta": 2,
+          "explicacion": "The school year es it: starts."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"I take the train\"?",
+          "opciones": [
+            "Tomo el tren",
+            "Pierdo el tren",
+            "Miro el tren",
+            "Manejo el tren"
+          ],
+          "correcta": 0,
+          "explicacion": "Take the train = tomar el tren."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"I ___ get up early\"?",
+          "opciones": [
+            "doesn't",
+            "don't",
+            "isn't",
+            "aren't"
+          ],
+          "correcta": 1,
+          "explicacion": "Con I, el negativo es don't."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "She study at night.",
+            "She studys at night.",
+            "She studies at night.",
+            "She is study at night."
+          ],
+          "correcta": 2,
+          "explicacion": "Study termina en consonante + y: con she cambia a -ies."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "SCHOOL",
+          "pista": "Escuela, en inglés."
+        },
+        {
+          "palabra": "UNIFORM",
+          "pista": "Uniforme, en inglés."
+        },
+        {
+          "palabra": "TRAIN",
+          "pista": "Tren, en inglés."
+        },
+        {
+          "palabra": "LUNCH",
+          "pista": "Almuerzo, en inglés."
+        },
+        {
+          "palabra": "CLASSROOM",
+          "pista": "Aula, en inglés."
+        },
+        {
+          "palabra": "MORNING",
+          "pista": "La mañana, en inglés."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "I usually has lunch at school.",
+            "I have usually lunch at school.",
+            "I usually have lunch at school.",
+            "I am usually have lunch at school."
+          ],
+          "correcta": 2,
+          "explicacion": "Con I el verbo va sin -s, y el adverbio va antes del verbo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué tiempo verbal se usa para contar un día de escuela?",
+          "opciones": [
+            "El presente simple",
+            "El pasado simple",
+            "El futuro",
+            "El pasado continuo"
+          ],
+          "correcta": 0,
+          "explicacion": "Las rutinas van en presente simple."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"In Argentina, the school year starts in February or March\" es un hecho, por eso va en presente simple.",
+          "respuesta": true,
+          "explicacion": "El presente simple se usa para rutinas y hechos."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "[[Present simple]]",
+      "definicion": "Presente simple: el tiempo de las rutinas y los hechos."
+    },
+    {
+      "palabra": "[[doesn't]]",
+      "definicion": "Negativo con he, she e it (does not). Después va el verbo sin -s."
+    },
+    {
+      "palabra": "[[always]]",
+      "definicion": "Siempre."
+    },
+    {
+      "palabra": "[[usually]]",
+      "definicion": "Casi siempre."
+    },
+    {
+      "palabra": "[[sometimes]]",
+      "definicion": "A veces."
+    },
+    {
+      "palabra": "[[never]]",
+      "definicion": "Nunca."
+    },
+    {
+      "palabra": "[[school uniform]]",
+      "definicion": "Uniforme escolar."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "She play football.",
+      "aclaracion": "Con he, she e it el verbo lleva -s: She plays football."
+    },
+    {
+      "error": "She doesn't plays football.",
+      "aclaracion": "Después de doesn't el verbo va sin -s: She doesn't play football."
+    },
+    {
+      "error": "I don't never watch TV.",
+      "aclaracion": "Never ya es negativo: I never watch TV."
+    }
+  ],
+  "personaje_intro": {
+    "porPersonaje": {
+      "lucy": {
+        "texto": "¡Hola! Hoy te cuento cómo es un día mío en Bristol."
+      },
+      "ben": {
+        "texto": "¡Hola! Hoy te cuento cómo es un día mío, cerca de Chicago."
+      },
+      "mia": {
+        "texto": "¡Hola! Hoy te cuento cómo es un día mío en Sídney."
+      },
+      "liam": {
+        "texto": "¡Hola! Hoy te cuento cómo es un día mío en Dublín."
+      }
+    }
+  }
+}

@@ -1,0 +1,1129 @@
+{
+ "id": "bio-4-02",
+ "espacio": "biologia",
+ "eje": "Los sistemas y funciones de nutrición",
+ "titulo": "Nutrición y alimentación",
+ "intro": "Todos los seres vivos se nutren, pero no todos consiguen su materia y su energía de la misma manera. En esta clase vas a ver cómo se nutren distintos organismos, qué función cumple cada nutriente y por qué alimentarse y nutrirse no son lo mismo.",
+ "objetivos": [
+  "Explicar qué es la nutrición y diferenciar a los organismos autótrofos de los heterótrofos.",
+  "Clasificar los nutrientes según su función y reconocer en qué alimentos están.",
+  "Diferenciar alimentación de nutrición y describir qué son los trastornos de la conducta alimentaria y dónde pedir ayuda."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: qué es la nutrición y cómo varía entre los seres vivos, cómo se clasifican los nutrientes según su función y en qué se diferencian la alimentación y la nutrición.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Cómo se nutren los seres vivos",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "Un árbol de tu barrio no come, no tiene boca y nunca se mueve de su lugar. Sin embargo, crece año tras año y fabrica hojas, ramas y frutos. ¿De dónde saca el material para hacerlo? Pensalo un momento y después seguí leyendo."
+    },
+    {
+     "t": "texto",
+     "titulo": "Qué es la nutrición",
+     "texto": "En la clase anterior viste que un organismo es un sistema abierto: intercambia materia y energía con el ambiente. La **nutrición** es el conjunto de procesos con los que un ser vivo consigue esa materia y esa energía, las transforma y las usa para crecer, reparar su cuerpo y mantenerse vivo. También incluye eliminar los desechos.\n\nTodos los seres vivos se nutren, pero no todos lo hacen de la misma manera. La gran diferencia está en de dónde sacan la **materia orgánica**, la que tiene carbono: los glúcidos, los lípidos y las proteínas que viste en la clase 1."
+    },
+    {
+     "t": "imagen",
+     "titulo": "La nutrición, en cuatro pasos",
+     "src": "img/clases/bio-4-02-nutricion.svg",
+     "tipo": "grafico",
+     "alt": "Ilustración de la nutrición en cuatro pasos encadenados: conseguir materia y energía del ambiente; transformarlas; usarlas para crecer, reparar el cuerpo y mantenerse vivo; y eliminar los desechos.",
+     "epigrafe": "Esquema elaborado para esta clase.",
+     "src_movil": "img/clases/bio-4-02-nutricion-movil.svg",
+     "animacion": "svg",
+     "_imagen": true
+    },
+    {
+     "t": "texto",
+     "titulo": "Autótrofos: fabrican su propio alimento",
+     "texto": "Los **autótrofos** fabrican su propia materia orgánica a partir de materia inorgánica. La mayoría usa la energía de la luz del sol para armar glucosa con agua y dióxido de carbono del aire. Ese proceso se llama **fotosíntesis**, y además libera oxígeno. Con esa glucosa y con las sales minerales que toman del suelo, después arman el resto de sus moléculas. El dióxido de carbono tiene carbono, pero es una molécula muy simple que no fabrican los seres vivos para armar su cuerpo: por eso se la cuenta como inorgánica.\n\nSon autótrofos las plantas, las algas y algunas bacterias. El árbol del comienzo no saca su madera del suelo: la arma con el dióxido de carbono del aire y el agua, usando la energía de la luz."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🗣️ ¿Quién lo diría?",
+     "pregunta": "Esta frase es inventada: \"Yo no tengo que salir a buscar comida. Con luz, agua y aire armo todo lo que necesito para crecer\". ¿Quién podría decirla?",
+     "opciones": [
+      "Una planta de lechuga",
+      "Un hongo de sombrero",
+      "Una vaca en el campo",
+      "Una persona en su casa"
+     ],
+     "correcta": 0,
+     "explicacion": "La lechuga es autótrofa: con la luz, el agua y el dióxido de carbono fabrica glucosa por fotosíntesis, y con ella y las sales minerales arma el resto de su materia orgánica.",
+     "pista": "Buscá en el texto qué seres vivos fabrican su propia materia orgánica."
+    },
+    {
+     "t": "texto",
+     "titulo": "Heterótrofos: toman la materia de otros",
+     "texto": "Los **heterótrofos** no pueden fabricar materia orgánica a partir de materia inorgánica. Necesitan tomarla ya hecha, de otros seres vivos o de sus restos, y con ella arman la suya. Son heterótrofos los animales, los hongos y muchas bacterias.\n\nNo todos lo hacen igual. Los **animales** comen los alimentos y los digieren adentro de su cuerpo. Algunos comen plantas (herbívoros), otros comen animales (carnívoros) y otros comen de las dos cosas (omnívoros), como las personas. Los **hongos**, en cambio, sueltan sustancias que digieren el alimento afuera y después absorben lo que queda disuelto. Así se alimentan, por ejemplo, el moho del pan o los hongos que crecen sobre un tronco caído."
+    },
+    {
+     "t": "imagen",
+     "titulo": "Dos maneras de conseguir materia y energía",
+     "src": "img/clases/bio-4-02-autotrofos.svg",
+     "tipo": "grafico",
+     "alt": "Ilustración en dos columnas. A la izquierda, los autótrofos: una planta con raíces en la tierra recibe la luz del sol, toma agua y sales minerales del suelo y dióxido de carbono del aire, fabrica su propia materia orgánica por fotosíntesis y libera oxígeno. A la derecha, los heterótrofos toman la materia orgánica de otros seres vivos: un conejo la come y la digiere adentro de su cuerpo; un hongo sobre un tronco la digiere afuera y la absorbe.",
+     "epigrafe": "Ilustración elaborada para esta clase.",
+     "src_movil": "img/clases/bio-4-02-autotrofos-movil.svg",
+     "animacion": "svg",
+     "_imagen": true
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cada ser vivo es autótrofo o heterótrofo? Si no te acordás, mirá el esquema de arriba.",
+     "categorias": [
+      "Autótrofo",
+      "Heterótrofo"
+     ],
+     "items": [
+      {
+       "texto": "Pasto",
+       "cat": "Autótrofo"
+      },
+      {
+       "texto": "Alga de un río",
+       "cat": "Autótrofo"
+      },
+      {
+       "texto": "Naranjo",
+       "cat": "Autótrofo"
+      },
+      {
+       "texto": "Moho del pan",
+       "cat": "Heterótrofo"
+      },
+      {
+       "texto": "Gato",
+       "cat": "Heterótrofo"
+      },
+      {
+       "texto": "Persona",
+       "cat": "Heterótrofo"
+      }
+     ],
+     "explicacion": "El pasto, el alga y el naranjo hacen fotosíntesis. El moho, el gato y la persona toman la materia orgánica de otros seres vivos.",
+     "pista": "Preguntate si ese ser vivo puede fabricar su alimento con la luz o si tiene que tomarlo de otros."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Pensalo así: la panadería y quien compra el pan",
+     "texto": "Imaginá una panadería que hace su propio pan con harina, agua y el calor del horno. Esa panadería es como un autótrofo: fabrica lo que necesita. Quien entra a comprar el pan es como un heterótrofo: no lo fabrica, lo toma ya hecho. Y si nadie hiciera pan, quien compra no tendría qué llevar. Por eso la materia orgánica que fabrican los autótrofos termina alimentando a todos los demás. Quien compra el pan después lo usa para preparar otra cosa: los heterótrofos también arman sus propias moléculas, pero con materia orgánica que ya estaba hecha."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "La **nutrición** es la forma en que un ser vivo consigue materia y energía, las transforma y las usa. Los **autótrofos**, como las plantas, fabrican su materia orgánica por **fotosíntesis**. Los **heterótrofos**, como los animales y los hongos, la toman de otros seres vivos."
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Completá el dato",
+     "consigna": "¿Cómo se llama el proceso con el que las plantas fabrican su materia orgánica usando la energía de la luz?",
+     "respuesta": "fotosíntesis",
+     "acepta": [
+      "fotosíntesis",
+      "fotosintesis",
+      "la fotosíntesis",
+      "la fotosintesis"
+     ],
+     "formato": "Escribí una sola palabra.",
+     "explicacion": "En la fotosíntesis, la planta usa la luz para armar glucosa con agua y dióxido de carbono, y libera oxígeno.",
+     "pista1": "Pensá en un proceso que solo pueden hacer los seres vivos que tienen luz a su alcance, y que además libera oxígeno.",
+     "relee": "Releé el texto Autótrofos: fabrican su propio alimento."
+    },
+    {
+     "t": "dato",
+     "titulo": "Las plantas también respiran",
+     "texto": "Que una planta haga fotosíntesis no quiere decir que no respire. Sus células hacen respiración celular todo el tiempo, igual que las tuyas: usan oxígeno para sacar energía de la glucosa que fabricaron. De día la fotosíntesis es más intensa y la planta libera más oxígeno del que usa; de noche, sin luz, solo respira."
+    },
+    {
+     "t": "vf",
+     "consigna": "Leé cada afirmación y marcá si es verdadera o falsa.",
+     "afirmaciones": [
+      {
+       "texto": "Los hongos son plantas porque crecen pegados al suelo o a un tronco.",
+       "v": false,
+       "explicacion": "Los hongos no hacen fotosíntesis: son heterótrofos y absorben la materia de otros seres vivos o de sus restos."
+      },
+      {
+       "texto": "La materia orgánica que comen los animales viene, en el fondo, de los autótrofos.",
+       "v": true,
+       "explicacion": "Aunque un animal coma a otro animal, al principio de la cadena siempre hay un autótrofo que fabricó esa materia."
+      },
+      {
+       "texto": "Las personas somos omnívoras: comemos plantas y animales.",
+       "v": true,
+       "explicacion": "Por eso somos heterótrofos que se alimentan de los dos grupos."
+      },
+      {
+       "texto": "Las plantas dejan de respirar porque hacen fotosíntesis.",
+       "v": false,
+       "explicacion": "Sus células hacen respiración celular todo el tiempo, de día y de noche."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: si mañana desaparecieran todas las plantas y las algas del planeta, ¿qué les pasaría a los animales y a los hongos? ¿Por qué?",
+     "respuesta": "Se quedarían sin materia orgánica nueva. Los heterótrofos no pueden fabricarla a partir de agua y dióxido de carbono: la toman de otros seres vivos, y al comienzo de toda cadena hay un autótrofo. Además, faltaría el oxígeno que liberan con la fotosíntesis."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es la nutrición y en qué se diferencian los organismos autótrofos de los heterótrofos. Para cada grupo, nombrá dos ejemplos y contá cómo consiguen su materia orgánica.",
+    "guia": [
+     "¿Qué es la nutrición y para qué le sirve a un ser vivo?",
+     "¿Qué hace un autótrofo para conseguir materia orgánica?",
+     "¿Qué usa una planta para hacer la fotosíntesis?",
+     "¿De dónde toma la materia orgánica un heterótrofo?",
+     "¿En qué se diferencian un animal y un hongo a la hora de alimentarse?",
+     "¿Por qué los heterótrofos dependen de los autótrofos?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Las plantas son autótrofas.",
+     "respuesta": true,
+     "explicacion": "Fabrican su propia materia orgánica por fotosíntesis."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los hongos hacen fotosíntesis.",
+     "respuesta": false,
+     "explicacion": "Son heterótrofos: digieren el alimento afuera y lo absorben."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La fotosíntesis libera oxígeno.",
+     "respuesta": true,
+     "explicacion": "Ese oxígeno es el que usan después los seres vivos para respirar."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los heterótrofos fabrican su materia orgánica con la luz del sol.",
+     "respuesta": false,
+     "explicacion": "Eso lo hacen los autótrofos. Los heterótrofos la toman de otros seres vivos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un animal herbívoro se alimenta de plantas.",
+     "respuesta": true,
+     "explicacion": "Los carnívoros comen animales y los omnívoros, de las dos cosas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La nutrición incluye eliminar los desechos.",
+     "respuesta": true,
+     "explicacion": "Es parte del intercambio de materia con el ambiente."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué necesita una planta para hacer fotosíntesis?",
+     "opciones": [
+      "Luz, agua y dióxido de carbono",
+      "Luz, oxígeno y glucosa",
+      "Agua, sales minerales y oscuridad",
+      "Materia orgánica de otros seres vivos"
+     ],
+     "correcta": 0,
+     "explicacion": "Con agua, dióxido de carbono y la energía de la luz arma glucosa. Las sales minerales las usa después, para fabricar otras moléculas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo se alimenta el moho del pan?",
+     "opciones": [
+      "Hace fotosíntesis sobre la miga",
+      "Digiere el pan afuera y lo absorbe",
+      "Come el pan y lo digiere adentro",
+      "Toma el oxígeno del aire y nada más"
+     ],
+     "correcta": 1,
+     "explicacion": "Los hongos sueltan sustancias que digieren el alimento afuera y después absorben lo disuelto."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tipo de organismo es una persona?",
+     "opciones": [
+      "Autótrofo",
+      "Heterótrofo carnívoro",
+      "Heterótrofo omnívoro",
+      "Autótrofo y heterótrofo"
+     ],
+     "correcta": 2,
+     "explicacion": "Comemos plantas y animales."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la materia orgánica?",
+     "opciones": [
+      "La que tiene carbono, como las proteínas",
+      "El agua y las sales minerales",
+      "El oxígeno que tomamos del aire al respirar",
+      "La luz que llega del sol"
+     ],
+     "correcta": 0,
+     "explicacion": "El agua y las sales son materia inorgánica; la luz es energía. El dióxido de carbono, aunque tiene carbono, se cuenta como inorgánico."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos seres vivos es autótrofo?",
+     "opciones": [
+      "Un hongo de sombrero",
+      "Un perro",
+      "Un alga marina",
+      "Un moho"
+     ],
+     "correcta": 2,
+     "explicacion": "Las algas hacen fotosíntesis, igual que las plantas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hacen las células de una planta durante la noche?",
+     "opciones": [
+      "Fotosíntesis más intensa",
+      "Respiración celular",
+      "Fotosíntesis y respiración a la vez",
+      "Solo absorben agua"
+     ],
+     "correcta": 1,
+     "explicacion": "Sin luz no hay fotosíntesis, pero la respiración celular sigue."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "NUTRICIÓN",
+     "pista": "Procesos con los que un ser vivo consigue materia y energía y las usa."
+    },
+    {
+     "palabra": "AUTÓTROFO",
+     "pista": "Ser vivo que fabrica su propia materia orgánica."
+    },
+    {
+     "palabra": "HETERÓTROFO",
+     "pista": "Ser vivo que toma la materia orgánica de otros."
+    },
+    {
+     "palabra": "FOTOSÍNTESIS",
+     "pista": "Proceso con el que las plantas fabrican materia orgánica usando la luz."
+    },
+    {
+     "palabra": "HONGOS",
+     "pista": "Heterótrofos que digieren el alimento afuera y lo absorben."
+    },
+    {
+     "palabra": "OMNÍVORO",
+     "pista": "Animal que come plantas y animales, como las personas."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué decimos que una vaca es heterótrofa?",
+     "opciones": [
+      "Porque toma la materia orgánica del pasto",
+      "Porque fabrica su alimento con la luz del sol",
+      "Porque digiere el pasto afuera y lo absorbe",
+      "Porque solo necesita agua, aire y sales minerales para crecer"
+     ],
+     "correcta": 0,
+     "explicacion": "La vaca no puede fabricar materia orgánica con materia inorgánica: la toma del pasto, que sí es autótrofo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La fotosíntesis transforma materia inorgánica en materia orgánica.",
+     "respuesta": true,
+     "explicacion": "Con agua y dióxido de carbono, la planta arma glucosa. Después, con la glucosa y las sales minerales, arma sus otras moléculas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué se diferencian un hongo y un animal al alimentarse?",
+     "opciones": [
+      "El hongo digiere afuera; el animal, adentro",
+      "El hongo hace fotosíntesis y el animal no",
+      "El animal absorbe y el hongo come con la boca",
+      "No hay diferencias: los dos comen y digieren igual"
+     ],
+     "correcta": 0,
+     "explicacion": "Los dos son heterótrofos, pero el hongo digiere el alimento fuera de su cuerpo."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Los nutrientes y su función",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "Un plato de fideos, una milanesa y una mandarina te llenan de maneras distintas. ¿Le sirven al cuerpo para lo mismo? Antes de leer, pensá para qué te parece que sirve cada uno."
+    },
+    {
+     "t": "texto",
+     "titulo": "Qué son los nutrientes",
+     "texto": "Los alimentos son lo que comés: el pan, la leche, una manzana. Los **nutrientes** son las sustancias que están dentro de esos alimentos y que el cuerpo usa. Muchas ya las conocés de la clase 1: los glúcidos, los lípidos, las proteínas, el agua y las sales minerales. A esa lista se suman las **vitaminas**, que el cuerpo necesita en cantidades muy pequeñas.\n\nCasi todos los alimentos tienen varios nutrientes a la vez. Para estudiarlos, se los ordena según la función que cumplen en el cuerpo."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Los nutrientes según su función",
+     "columnas": [
+      "",
+      "Qué nutrientes son",
+      "Para qué sirven",
+      "Dónde están (ejemplos)"
+     ],
+     "filas": [
+      [
+       "Energéticos",
+       "Glúcidos y lípidos",
+       "Dan energía al cuerpo",
+       "Pan, arroz, papa y legumbres (glúcidos); aceite, manteca y frutas secas (lípidos)"
+      ],
+      [
+       "Estructurales",
+       "Proteínas",
+       "Forman y reparan los tejidos",
+       "Carne, huevo, leche, queso y legumbres"
+      ],
+      [
+       "Reguladores",
+       "Vitaminas y minerales",
+       "Regulan el funcionamiento del cuerpo",
+       "Frutas y verduras (vitaminas); el hierro de la carne (mineral)"
+      ]
+     ]
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/bio-4-02-alimentos.webp",
+     "tipo": "ilustracion",
+     "animacion": "acercar",
+     "alt": "Ilustración de una mesa con alimentos agrupados: pan, fideos y papas; huevos, carne y lentejas; frutas y verduras como lechuga, tomates, zanahorias, manzana, banana y naranja. Al costado, un vaso de agua y una botella de aceite.",
+     "epigrafe": "Ilustración elaborada para esta clase.",
+     "_imagen": true
+    },
+    {
+     "t": "texto",
+     "titulo": "Qué hace cada grupo",
+     "texto": "Los **energéticos** son el combustible. Los glúcidos, como el almidón de la papa, dan energía rápida; los lípidos guardan energía para más adelante.\n\nLos **estructurales** (también llamados plásticos) son el material de construcción. Las proteínas forman los músculos, la piel y el pelo, y reparan lo que se gasta o se lastima. A ellas se suman algunos minerales, como el calcio de los huesos.\n\nLos **reguladores** no dan energía ni forman tejidos, pero sin ellos las reacciones del cuerpo no funcionan bien. Por ejemplo, la vitamina C ayuda a cicatrizar las heridas y el hierro permite que la sangre transporte oxígeno.\n\nEl **agua** no aporta energía, pero es indispensable: es la mayor parte del cuerpo, transporta sustancias y ayuda a mantener estable la temperatura."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "Los nutrientes [[energéticos]] dan energía al cuerpo; entre ellos están los glúcidos y los [[lípidos]]. Las [[proteínas]] forman y reparan los tejidos. Las vitaminas y los minerales son nutrientes [[reguladores]]. El [[agua]] no aporta energía, pero transporta sustancias.",
+     "explicacion": "Cada grupo de nutrientes tiene una función: dar energía, construir o regular.",
+     "pista": "Fijate en la tabla de los nutrientes según su función: cada fila tiene el nombre del grupo y sus nutrientes."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Pensalo así: una obra en construcción",
+     "texto": "Imaginá que se construye una casa. Los ladrillos y el cemento son el material que forma las paredes: son como las proteínas, los nutrientes **estructurales**. El combustible de las máquinas y la energía que gastan quienes trabajan son como los glúcidos y los lípidos, los **energéticos**. Y la persona que coordina la obra, que no pone ladrillos pero hace que todo funcione en orden, es como las vitaminas y los minerales, los **reguladores**."
+    },
+    {
+     "t": "esquema",
+     "etiqueta": "🧩 Completá el esquema",
+     "consigna": "Completá el esquema de los nutrientes según su función: ubicá cada etiqueta en su casillero. Si no te acordás, mirá la tabla de los nutrientes.",
+     "imagen": {
+      "src": "img/clases/bio-4-02-nutrientes.svg",
+      "tipo": "grafico",
+      "alt": "Esquema con tres tarjetas, una por cada grupo de nutrientes según su función: energéticos, estructurales y reguladores. Cada tarjeta tiene dos casilleros vacíos: \"Qué nutrientes son\" y \"Para qué sirven\".",
+      "epigrafe": "Esquema elaborado para esta clase.",
+      "src_movil": "img/clases/bio-4-02-nutrientes-movil.svg"
+     },
+     "huecos": [
+      {
+       "x": 4.0,
+       "y": 30.7,
+       "w": 27.0,
+       "h": 24.19,
+       "respuesta": "Glúcidos y lípidos",
+       "movil": {
+        "x": 7.69,
+        "y": 12.11,
+        "w": 84.62,
+        "h": 7.63
+       }
+      },
+      {
+       "x": 4.0,
+       "y": 65.58,
+       "w": 27.0,
+       "h": 24.19,
+       "respuesta": "Dan energía al cuerpo",
+       "movil": {
+        "x": 7.69,
+        "y": 22.89,
+        "w": 84.62,
+        "h": 7.63
+       }
+      },
+      {
+       "x": 36.5,
+       "y": 30.7,
+       "w": 27.0,
+       "h": 24.19,
+       "respuesta": "Proteínas",
+       "movil": {
+        "x": 7.69,
+        "y": 44.74,
+        "w": 84.62,
+        "h": 7.63
+       }
+      },
+      {
+       "x": 36.5,
+       "y": 65.58,
+       "w": 27.0,
+       "h": 24.19,
+       "respuesta": "Forman y reparan los tejidos",
+       "movil": {
+        "x": 7.69,
+        "y": 55.53,
+        "w": 84.62,
+        "h": 7.63
+       }
+      },
+      {
+       "x": 69.0,
+       "y": 30.7,
+       "w": 27.0,
+       "h": 24.19,
+       "respuesta": "Vitaminas y minerales",
+       "movil": {
+        "x": 7.69,
+        "y": 77.37,
+        "w": 84.62,
+        "h": 7.63
+       }
+      },
+      {
+       "x": 69.0,
+       "y": 65.58,
+       "w": 27.0,
+       "h": 24.19,
+       "respuesta": "Regulan el funcionamiento del cuerpo",
+       "movil": {
+        "x": 7.69,
+        "y": 88.16,
+        "w": 84.62,
+        "h": 7.63
+       }
+      }
+     ],
+     "explicacion": "Es la misma información de la tabla, ahora en un esquema: cada grupo de nutrientes tiene sus nutrientes y su función.",
+     "pista": "Cada tarjeta del esquema es una fila de la tabla de los nutrientes según su función."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Los **nutrientes** son las sustancias de los alimentos que el cuerpo usa. Según su función son **energéticos** (glúcidos y lípidos), **estructurales** (proteínas) o **reguladores** (vitaminas y minerales). El **agua** no da energía, pero es indispensable."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🔍 Encontrá el error",
+     "pregunta": "Una de estas frases sobre los nutrientes es falsa. ¿Cuál?",
+     "opciones": [
+      "Las vitaminas dan la mayor parte de la energía.",
+      "Las proteínas forman y reparan los tejidos.",
+      "El aceite aporta sobre todo lípidos.",
+      "El agua transporta sustancias y ayuda a regular la temperatura."
+     ],
+     "correcta": 0,
+     "explicacion": "Las vitaminas son reguladoras: no dan energía. La energía viene sobre todo de los glúcidos y los lípidos.",
+     "pista": "Buscá en la tabla cuál es el grupo de nutrientes que da energía."
+    },
+    {
+     "t": "dato",
+     "titulo": "La gráfica de la alimentación diaria",
+     "texto": "El Ministerio de Salud de la Nación publica las Guías Alimentarias para la Población Argentina, actualizadas en 2016. Su gráfica ordena los alimentos en grupos: verduras y frutas; legumbres, cereales, papa, pan y pastas; leche, yogur y queso; carnes y huevos; aceites, frutas secas y semillas. Hay un sexto grupo, de consumo opcional, con productos que tienen mucha azúcar, grasa o sal, y la guía recomienda que no forme parte de la alimentación de todos los días. También aconseja tomar agua segura, usar poca sal y hacer actividad física."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada alimento con el nutriente por el que se lo recomienda.",
+     "pares": [
+      {
+       "a": "Aceite de girasol",
+       "b": "Lípidos"
+      },
+      {
+       "a": "Huevo",
+       "b": "Proteínas"
+      },
+      {
+       "a": "Fideos",
+       "b": "Glúcidos"
+      },
+      {
+       "a": "Naranja",
+       "b": "Vitaminas"
+      }
+     ],
+     "explicacion": "Todos estos alimentos tienen varios nutrientes. El aceite aporta sobre todo lípidos; el huevo, proteínas; los fideos, glúcidos. La naranja se destaca por su vitamina C, aunque la tenga en muy poca cantidad.",
+     "pista": "Buscá cada alimento en la última columna de la tabla de los nutrientes."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: alguien almuerza todos los días solo fideos con manteca. Tiene energía para la tarde, pero ¿qué nutrientes le pueden estar faltando? ¿Por qué importa?",
+     "respuesta": "Los fideos y la manteca aportan sobre todo nutrientes energéticos (glúcidos y lípidos). Le pueden faltar proteínas para formar y reparar los tejidos, y vitaminas y minerales para regular el funcionamiento del cuerpo. Tener energía no quiere decir tener todos los nutrientes."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué son los nutrientes y cómo se clasifican según su función. Para cada grupo, contá qué nutrientes lo forman, para qué sirven y en qué alimentos se encuentran. Agregá qué papel cumple el agua.",
+    "guia": [
+     "¿Qué diferencia hay entre un alimento y un nutriente?",
+     "¿Qué nutrientes son energéticos y para qué sirven?",
+     "¿Qué hacen los nutrientes estructurales?",
+     "¿Por qué las vitaminas y los minerales son reguladores? Nombrá un ejemplo.",
+     "¿Qué hace el agua en el cuerpo, si no aporta energía?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Las proteínas son nutrientes estructurales.",
+     "respuesta": true,
+     "explicacion": "Forman y reparan los tejidos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las vitaminas aportan mucha energía.",
+     "respuesta": false,
+     "explicacion": "Son reguladoras: no dan energía."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un alimento puede tener varios nutrientes a la vez.",
+     "respuesta": true,
+     "explicacion": "Por ejemplo, la leche tiene proteínas, lípidos, glúcidos, calcio y agua."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El agua es un nutriente energético.",
+     "respuesta": false,
+     "explicacion": "No aporta energía, pero transporta sustancias y ayuda a regular la temperatura."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los lípidos son energéticos.",
+     "respuesta": true,
+     "explicacion": "Guardan energía para más adelante."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El hierro permite que la sangre transporte oxígeno.",
+     "respuesta": true,
+     "explicacion": "Por eso es un mineral regulador."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué grupo de nutrientes forma y repara los tejidos?",
+     "opciones": [
+      "Los energéticos, como los glúcidos",
+      "Los estructurales",
+      "Los reguladores, como las vitaminas",
+      "El agua y las sales"
+     ],
+     "correcta": 1,
+     "explicacion": "Las proteínas son el material de construcción del cuerpo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué nutriente predomina en el pan?",
+     "opciones": [
+      "Glúcidos",
+      "Proteínas",
+      "Vitaminas",
+      "Lípidos"
+     ],
+     "correcta": 0,
+     "explicacion": "El pan tiene mucho almidón, que es un glúcido."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos es un nutriente regulador?",
+     "opciones": [
+      "El almidón",
+      "El aceite",
+      "La vitamina C",
+      "La proteína del huevo"
+     ],
+     "correcta": 2,
+     "explicacion": "La vitamina C ayuda, por ejemplo, a cicatrizar las heridas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia hay entre alimento y nutriente?",
+     "opciones": [
+      "Son dos palabras para lo mismo",
+      "El nutriente está dentro del alimento",
+      "El alimento está dentro del nutriente",
+      "Los nutrientes solo están en las frutas y las verduras frescas"
+     ],
+     "correcta": 1,
+     "explicacion": "Los nutrientes están dentro de los alimentos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En la obra en construcción, ¿qué representan los ladrillos?",
+     "opciones": [
+      "Los nutrientes reguladores",
+      "El agua que se usa en la mezcla",
+      "Los nutrientes energéticos",
+      "Los estructurales"
+     ],
+     "correcta": 3,
+     "explicacion": "Los ladrillos forman las paredes, como las proteínas forman los tejidos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué recomienda la gráfica de la alimentación diaria sobre los productos con mucha azúcar, grasa o sal?",
+     "opciones": [
+      "Que no se consuman todos los días",
+      "Que se coman en todas las comidas",
+      "Que reemplacen a las frutas y verduras en el almuerzo",
+      "Que se tomen en lugar del agua"
+     ],
+     "correcta": 0,
+     "explicacion": "Forman un grupo de consumo opcional."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "NUTRIENTE",
+     "pista": "Sustancia de los alimentos que el cuerpo usa."
+    },
+    {
+     "palabra": "ENERGÉTICOS",
+     "pista": "Nutrientes que dan energía: glúcidos y lípidos."
+    },
+    {
+     "palabra": "ESTRUCTURALES",
+     "pista": "Nutrientes que forman y reparan los tejidos."
+    },
+    {
+     "palabra": "REGULADORES",
+     "pista": "Nutrientes que regulan el funcionamiento del cuerpo."
+    },
+    {
+     "palabra": "VITAMINAS",
+     "pista": "Reguladores que hacen falta en cantidades muy pequeñas."
+    },
+    {
+     "palabra": "PROTEÍNAS",
+     "pista": "Nutrientes estructurales que están en la carne, el huevo y la leche."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Después de lastimarse, el cuerpo de una persona tiene que reparar la piel. ¿Qué grupo de nutrientes necesita sobre todo?",
+     "opciones": [
+      "Los estructurales",
+      "Los energéticos",
+      "Los reguladores",
+      "El agua"
+     ],
+     "correcta": 0,
+     "explicacion": "Las proteínas forman y reparan los tejidos. La vitamina C, reguladora, también ayuda a cicatrizar."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los glúcidos y los lípidos son nutrientes energéticos.",
+     "respuesta": true,
+     "explicacion": "Los glúcidos dan energía rápida y los lípidos la guardan para más adelante."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué el agua es indispensable aunque no aporte energía?",
+     "opciones": [
+      "Porque transporta sustancias",
+      "Porque forma los músculos",
+      "Porque es un nutriente energético que se guarda de reserva",
+      "Porque reemplaza a las vitaminas"
+     ],
+     "correcta": 0,
+     "explicacion": "Es la mayor parte del cuerpo y sin ella no hay transporte ni reacciones."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Alimentación y nutrición",
+   "tiempo": "35 a 45 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "Cuando decidís qué vas a comer en el recreo, ¿estás haciendo lo mismo que tu intestino cuando digiere ese alimento una hora después? Las dos cosas tienen que ver con la comida, pero no son iguales."
+    },
+    {
+     "t": "texto",
+     "titulo": "Alimentación y nutrición no son lo mismo",
+     "texto": "La **alimentación** es todo lo que hacés para conseguir, elegir, preparar y comer los alimentos. Es **voluntaria**: vos decidís. Depende de tus gustos, de las costumbres de tu familia, de lo que se consigue en tu zona, del dinero disponible y también de la información que tenés. Por eso se puede aprender y cambiar. En las personas, conseguir el alimento es la alimentación; lo que sigue es el resto de la nutrición.\n\nLa **nutrición** empieza cuando el alimento entra a la boca. A partir de ahí, casi todo ocurre sin que lo decidas: nadie decide digerir ni hacer que la glucosa llegue a una célula. En la nutrición humana trabajan juntos cuatro sistemas. El **digestivo** parte los nutrientes de los alimentos en unidades tan chicas que pueden pasar a la sangre. El **circulatorio** los lleva por la sangre a todas las células. El **respiratorio** aporta el oxígeno que las células usan para obtener energía. Y el **excretor** elimina los desechos."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cada situación es parte de la alimentación o de la nutrición? Si no te acordás, releé el texto de arriba.",
+     "categorias": [
+      "Alimentación",
+      "Nutrición"
+     ],
+     "items": [
+      {
+       "texto": "Elegir qué comprar en el kiosco",
+       "cat": "Alimentación"
+      },
+      {
+       "texto": "Cocinar una tortilla de papas",
+       "cat": "Alimentación"
+      },
+      {
+       "texto": "Leer el envase de un yogur",
+       "cat": "Alimentación"
+      },
+      {
+       "texto": "El intestino digiere un alimento",
+       "cat": "Nutrición"
+      },
+      {
+       "texto": "La glucosa viaja por la sangre",
+       "cat": "Nutrición"
+      },
+      {
+       "texto": "Los riñones eliminan desechos",
+       "cat": "Nutrición"
+      }
+     ],
+     "explicacion": "Elegir, cocinar y leer un envase son decisiones: alimentación. Digerir, transportar y eliminar ocurren solos dentro del cuerpo: nutrición.",
+     "pista": "Preguntate si en esa situación alguien decide algo o si el cuerpo lo hace solo."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená el recorrido de un alimento, desde que lo elegís hasta que tu cuerpo elimina los desechos.",
+     "items": [
+      "Elegir y preparar el alimento",
+      "Llevarlo a la boca",
+      "El sistema digestivo lo parte en nutrientes",
+      "Los nutrientes pasan a la sangre y viajan",
+      "Las células los usan con oxígeno para obtener energía",
+      "El sistema excretor elimina los desechos"
+     ],
+     "explicacion": "Los dos primeros pasos son alimentación; desde la digestión en adelante, es nutrición.",
+     "pista": "Releé el segundo párrafo del texto: los sistemas aparecen en el orden en que actúan."
+    },
+    {
+     "t": "imagen",
+     "titulo": "Del plato a la célula",
+     "src": "img/clases/bio-4-02-recorrido.svg",
+     "tipo": "grafico",
+     "alt": "Esquema del recorrido de un alimento. Primero, la alimentación, fuera del cuerpo y voluntaria: elegir y preparar, y comer. Después, la nutrición, que empieza en la boca y es casi toda involuntaria: digestión en el sistema digestivo; transporte de los nutrientes por la sangre, con el sistema circulatorio; uso en las células, con el oxígeno del sistema respiratorio; y eliminación de los desechos por el sistema excretor.",
+     "epigrafe": "Esquema elaborado para esta clase.",
+     "src_movil": "img/clases/bio-4-02-recorrido-movil.svg",
+     "animacion": "svg",
+     "_imagen": true
+    },
+    {
+     "t": "dato",
+     "titulo": "Los octógonos de los envases",
+     "texto": "Desde la Ley 27.642, sancionada en 2021, muchos alimentos envasados llevan en el frente octógonos negros que avisan cuando un producto tiene exceso de azúcares, grasas, sodio o calorías. Leer el envase antes de comprar es parte de la alimentación: es una decisión que podés tomar."
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/bio-4-02-octogonos.webp",
+     "tipo": "ilustracion",
+     "animacion": "recorrer",
+     "alt": "Ilustración de un paquete de galletitas sin marca con dos octógonos negros: \"Exceso en azúcares\" y \"Exceso en grasas\".",
+     "epigrafe": "Ilustración elaborada para esta clase.",
+     "_imagen": true
+    },
+    {
+     "t": "texto",
+     "titulo": "Los trastornos de la conducta alimentaria",
+     "texto": "A veces la alimentación deja de ser algo cotidiano y se convierte en fuente de miedo, culpa o preocupación constante. Los **trastornos de la conducta alimentaria** son problemas de salud en los que se altera la relación de una persona con la comida y con su propio cuerpo. Los más conocidos son la **anorexia nerviosa**, la **bulimia nerviosa** y el **trastorno por atracón**.\n\nNo son una elección ni una etapa que se pasa sola. Influyen factores biológicos, emocionales y sociales, como la presión por parecerse a ciertos modelos de cuerpo que aparecen en las redes y en la publicidad. Pueden afectar a personas de cualquier edad y de cualquier género, y muchas veces no se notan a simple vista. Se tratan con equipos de salud que trabajan juntos (medicina, psicología y nutrición), y cuanto antes se pide ayuda, mejor.\n\nEn la Argentina, la Ley 26.396, sancionada en 2008, declaró de interés nacional la prevención y el control de los trastornos alimentarios e incluyó su tratamiento en la cobertura de salud."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Si te pasa a vos o a alguien que conocés",
+     "texto": "Hablalo con una **persona adulta de confianza**: alguien de tu familia, un o una docente, el equipo de orientación de tu escuela o un **centro de salud**. Pedir ayuda no es exagerar ni traicionar a nadie. Es la manera de empezar a cuidarse."
+    },
+    {
+     "t": "vf",
+     "consigna": "Leé cada afirmación sobre los trastornos de la conducta alimentaria y marcá si es verdadera o falsa.",
+     "afirmaciones": [
+      {
+       "texto": "Siempre se notan a simple vista.",
+       "v": false,
+       "explicacion": "Muchas veces no se notan: por eso es importante escuchar y pedir ayuda."
+      },
+      {
+       "texto": "Son problemas de salud que necesitan la ayuda de profesionales.",
+       "v": true,
+       "explicacion": "Se tratan con equipos de salud que trabajan juntos."
+      },
+      {
+       "texto": "Solo les pasan a las mujeres.",
+       "v": false,
+       "explicacion": "Pueden afectar a personas de cualquier género."
+      },
+      {
+       "texto": "En ellos influyen factores biológicos, emocionales y sociales.",
+       "v": true,
+       "explicacion": "No tienen una sola causa ni son una elección."
+      }
+     ]
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "Elegí la mejor opción",
+     "pregunta": "Una amiga te cuenta que se siente muy mal con la comida y con su cuerpo, y te pide que no se lo digas a nadie. Según lo que viste en la clase, ¿qué es lo más adecuado?",
+     "opciones": [
+      "Acompañarla a pedir ayuda a una persona adulta de confianza",
+      "Guardar el secreto para que no se enoje",
+      "Decirle que es una etapa de la adolescencia y que se le va a pasar sola",
+      "Buscar en internet una solución y pasársela"
+     ],
+     "correcta": 0,
+     "explicacion": "Son problemas de salud que no se pasan solos. Acompañarla a pedir ayuda es la mejor manera de cuidarla, aunque al principio le cueste.",
+     "pista": "Releé el recuadro sobre qué hacer si te pasa a vos o a alguien que conocés."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: dos personas comen exactamente el mismo almuerzo. ¿Qué puede haber sido distinto en su alimentación y en su nutrición?",
+     "respuesta": "La comida fue la misma, pero la alimentación incluye más que eso: por qué la eligieron, cómo la prepararon, con quién comieron. Y la nutrición depende de cada cuerpo: cómo digiere, qué necesita cada uno según su edad y su actividad, y cómo funcionan sus sistemas."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá la diferencia entre alimentación y nutrición usando como ejemplo una comida cualquiera, desde que se elige hasta que el cuerpo elimina los desechos. Después contá qué son los trastornos de la conducta alimentaria y qué conviene hacer si alguien necesita ayuda.",
+    "guia": [
+     "¿Por qué la alimentación es voluntaria y la nutrición no?",
+     "¿De qué depende lo que come una persona?",
+     "¿Qué hace cada uno de los cuatro sistemas que participan en la nutrición?",
+     "¿Qué son los trastornos de la conducta alimentaria y qué factores influyen?",
+     "¿A quién se puede recurrir para pedir ayuda?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La alimentación es voluntaria.",
+     "respuesta": true,
+     "explicacion": "Vos decidís qué, cómo y cuándo comer."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La nutrición empieza cuando elegís qué comer.",
+     "respuesta": false,
+     "explicacion": "Empieza cuando el alimento entra a la boca."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El sistema circulatorio lleva los nutrientes a las células.",
+     "respuesta": true,
+     "explicacion": "Viajan por la sangre."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El sistema excretor elimina los desechos.",
+     "respuesta": true,
+     "explicacion": "Es el último paso del recorrido."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El sistema respiratorio parte los nutrientes de los alimentos en unidades más chicas.",
+     "respuesta": false,
+     "explicacion": "Eso lo hace el digestivo. El respiratorio aporta el oxígeno."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Leer el envase de un alimento es parte de la alimentación.",
+     "respuesta": true,
+     "explicacion": "Es una decisión que tomás antes de comer."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué sistema parte los nutrientes de los alimentos en unidades más chicas?",
+     "opciones": [
+      "El digestivo",
+      "El respiratorio",
+      "El excretor",
+      "El circulatorio"
+     ],
+     "correcta": 0,
+     "explicacion": "La digestión es el primer paso de la nutrición."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué aporta el sistema respiratorio a la nutrición?",
+     "opciones": [
+      "Los glúcidos que dan energía",
+      "El oxígeno",
+      "Las vitaminas reguladoras",
+      "Los desechos de las células"
+     ],
+     "correcta": 1,
+     "explicacion": "Con oxígeno, las células obtienen energía de los nutrientes."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas situaciones es parte de la nutrición?",
+     "opciones": [
+      "Elegir una fruta en la verdulería del barrio",
+      "Cocinar un guiso",
+      "La sangre lleva glucosa a un músculo",
+      "Leer el envase de una galletita"
+     ],
+     "correcta": 2,
+     "explicacion": "Ocurre sola, dentro del cuerpo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿De qué depende la alimentación de una persona?",
+     "opciones": [
+      "Solo de su edad",
+      "De sus gustos, su familia, su zona y otras cosas",
+      "Solo de la temporada del año en que estamos",
+      "De nada: todas las personas comemos igual"
+     ],
+     "correcta": 1,
+     "explicacion": "Por eso la alimentación se puede aprender y cambiar."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué sistema elimina los desechos?",
+     "opciones": [
+      "El excretor",
+      "El digestivo",
+      "El circulatorio",
+      "El respiratorio"
+     ],
+     "correcta": 0,
+     "explicacion": "El excretor saca del cuerpo los desechos que producen las células."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué avisan los octógonos negros de los envases?",
+     "opciones": [
+      "Que el producto es importado",
+      "Que tiene exceso de azúcares, grasas o sodio",
+      "Que está vencido",
+      "Que tiene pocas vitaminas"
+     ],
+     "correcta": 1,
+     "explicacion": "Los establece la Ley 27.642."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "ALIMENTACIÓN",
+     "pista": "Conseguir, elegir, preparar y comer los alimentos."
+    },
+    {
+     "palabra": "VOLUNTARIA",
+     "pista": "Así es la alimentación: la decidís vos."
+    },
+    {
+     "palabra": "DIGESTIVO",
+     "pista": "Sistema que parte los nutrientes de los alimentos en unidades más chicas."
+    },
+    {
+     "palabra": "CIRCULATORIO",
+     "pista": "Sistema que lleva los nutrientes por la sangre."
+    },
+    {
+     "palabra": "EXCRETOR",
+     "pista": "Sistema que elimina los desechos."
+    },
+    {
+     "palabra": "OCTÓGONOS",
+     "pista": "Sellos negros de los envases que avisan excesos."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué decimos que la alimentación se puede aprender y cambiar?",
+     "opciones": [
+      "Porque es voluntaria",
+      "Porque la hace el sistema digestivo",
+      "Porque ocurre dentro de las células",
+      "Porque es igual para todas las personas"
+     ],
+     "correcta": 0,
+     "explicacion": "La nutrición ocurre sola; la alimentación depende de lo que cada persona elige y sabe."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la nutrición humana trabajan juntos los sistemas digestivo, circulatorio, respiratorio y excretor.",
+     "respuesta": true,
+     "explicacion": "Cada uno cumple una parte del recorrido de los nutrientes."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas afirmaciones sobre los trastornos de la conducta alimentaria es correcta?",
+     "opciones": [
+      "Pueden afectar a cualquier persona",
+      "Siempre se notan a simple vista",
+      "Son una etapa que se pasa sola",
+      "Solo les pasan a las mujeres adultas que hacen deporte"
+     ],
+     "correcta": 0,
+     "explicacion": "Influyen factores biológicos, emocionales y sociales, y cuanto antes se pide ayuda, mejor funciona el tratamiento."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Nutrición",
+   "definicion": "Conjunto de procesos con los que un ser vivo consigue materia y energía, las transforma y las usa. Incluye eliminar los desechos."
+  },
+  {
+   "palabra": "Autótrofo",
+   "definicion": "Ser vivo que fabrica su propia materia orgánica, como las plantas por fotosíntesis."
+  },
+  {
+   "palabra": "Heterótrofo",
+   "definicion": "Ser vivo que toma la materia orgánica de otros seres vivos o de sus restos, como los animales y los hongos."
+  },
+  {
+   "palabra": "Fotosíntesis",
+   "definicion": "Proceso con el que los autótrofos usan la luz para fabricar materia orgánica con agua y dióxido de carbono. Libera oxígeno."
+  },
+  {
+   "palabra": "Nutriente",
+   "definicion": "Sustancia de los alimentos que el cuerpo usa. Según su función puede ser energético, estructural o regulador."
+  },
+  {
+   "palabra": "Alimentación",
+   "definicion": "Conjunto de acciones voluntarias para conseguir, elegir, preparar y comer los alimentos."
+  },
+  {
+   "palabra": "Trastorno de la conducta alimentaria",
+   "definicion": "Problema de salud en el que se altera la relación de una persona con la comida y con su cuerpo. Se trata con equipos de salud."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Alimentación y nutrición son lo mismo.",
+   "aclaracion": "La alimentación es voluntaria: elegir, preparar y comer. La nutrición empieza cuando el alimento entra a la boca, y casi todo ocurre sin que lo decidas."
+  },
+  {
+   "error": "Los hongos son plantas y fabrican su alimento.",
+   "aclaracion": "Los hongos son heterótrofos: digieren el alimento afuera y lo absorben. No hacen fotosíntesis."
+  },
+  {
+   "error": "Las vitaminas dan energía.",
+   "aclaracion": "Las vitaminas son reguladoras. La energía viene sobre todo de los glúcidos y los lípidos."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Pensá en una galletita: desde que la mordés hasta que su glucosa llega a una célula de tu brazo, ¿por qué órganos pasa y qué le ocurre en cada uno?",
+  "conexion": "Con la clase 3, sobre los sistemas digestivo y respiratorio, y la clase 4, sobre los sistemas circulatorio y excretor."
+ }
+}

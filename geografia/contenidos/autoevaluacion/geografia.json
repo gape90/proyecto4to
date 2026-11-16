@@ -1,0 +1,1325 @@
+{
+ "espacio": "geografia",
+ "pares": {
+  "g1|g2": [
+   {
+    "tipo": "vf",
+    "texto": "Los países del BRICS están todos en un mismo continente.",
+    "respuesta": false,
+    "explicacion": "Hay miembros de América (Brasil), Europa y Asia (Rusia), Asia (India, China) y África (Sudáfrica)."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "Entre los miembros del BRICS desde 2024 hay países que la clase 1 ubica en Medio Oriente. ¿Cuáles?",
+    "opciones": [
+     "Brasil, Rusia y la India",
+     "Egipto, Irán y los Emiratos Árabes Unidos",
+     "Sudáfrica, Etiopía e Indonesia",
+     "China, Brasil y Egipto"
+    ],
+    "correcta": 1,
+    "explicacion": "Egipto, Irán y los Emiratos entraron en 2024. La clase 1 dice que Medio Oriente llega hasta el golfo Pérsico y suele incluir a Egipto."
+   }
+  ],
+  "g1|g3": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué diferencia hay entre el origen de un conflicto territorial y el de un sismo?",
+    "opciones": [
+     "Los dos los producen las sociedades",
+     "Los dos los produce el movimiento de las placas",
+     "El conflicto lo producen decisiones de las sociedades; el sismo, el movimiento de las placas",
+     "El conflicto lo produce la naturaleza y el sismo, las fronteras"
+    ],
+    "correcta": 2,
+    "explicacion": "Las fronteras las acuerdan o imponen las sociedades. En cambio, nadie decide dónde chocan las placas."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Una frontera es una línea natural que nadie puede cambiar.",
+    "respuesta": false,
+    "explicacion": "Las fronteras las acuerdan o imponen las sociedades, y por eso pueden cambiar."
+   }
+  ],
+  "g1|g4": [
+   {
+    "tipo": "vf",
+    "texto": "El Sahel es parte de Medio Oriente.",
+    "respuesta": false,
+    "explicacion": "El Sahel es una franja de África al sur del Sahara. Medio Oriente está en el suroeste de Asia y suele incluir a Egipto."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿En qué continente está el Sahel y qué parte de Medio Oriente queda en ese mismo continente?",
+    "opciones": [
+     "Está en Asia, igual que Egipto",
+     "Está en África, igual que el golfo Pérsico",
+     "Está en Europa, igual que Jerusalén",
+     "Está en África, igual que Egipto"
+    ],
+    "correcta": 3,
+    "explicacion": "El Sahel cruza África al sur del Sahara. Egipto, que suele incluirse en Medio Oriente, está en el noreste de África."
+   }
+  ],
+  "g1|g5": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Por dónde sale al mundo el petróleo del golfo Pérsico?",
+    "opciones": [
+     "Por el estrecho de Ormuz, entre Irán y Omán",
+     "Por el estrecho de Gibraltar",
+     "Por el delta interior del Níger",
+     "Por el río Ganges"
+    ],
+    "correcta": 0,
+    "explicacion": "Medio Oriente llega hasta el golfo Pérsico, y de ahí el petróleo sale en barcos por el estrecho de Ormuz."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Entre los países con más reservas probadas de petróleo hay países de Medio Oriente.",
+    "respuesta": true,
+    "explicacion": "Arabia Saudita, Irán, Irak y los Emiratos Árabes Unidos están entre los cinco primeros."
+   }
+  ],
+  "g1|g6": [
+   {
+    "tipo": "vf",
+    "texto": "Una ciudad sagrada y una ciudad global son lo mismo.",
+    "respuesta": false,
+    "explicacion": "La sagrada recibe peregrinaciones por motivos religiosos. La global concentra funciones de dirección de la economía mundial."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "Jerusalén y Londres son ciudades importantes, pero por razones distintas. ¿Cuáles?",
+    "opciones": [
+     "Jerusalén tiene la bolsa más grande del mundo; Londres es sagrada para tres religiones",
+     "Jerusalén es sagrada para tres religiones; Londres concentra funciones de dirección de la economía mundial",
+     "Las dos son importantes por su cantidad de habitantes",
+     "Las dos son sedes de la Unión Europea"
+    ],
+    "correcta": 1,
+    "explicacion": "Jerusalén es sagrada para el judaísmo, el cristianismo y el islam. Londres es una ciudad global: sedes de empresas, bancos y servicios avanzados."
+   }
+  ],
+  "g1|g7": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tienen en común Jerusalén y Varanasi?",
+    "opciones": [
+     "Están en el mismo país",
+     "Pertenecen a la misma megalópolis",
+     "Son ciudades sagradas que reciben peregrinaciones",
+     "Las dos son sagradas solo para el hinduismo"
+    ],
+    "correcta": 2,
+    "explicacion": "La tabla de la clase 7 incluye las dos entre las ciudades sagradas: Jerusalén para tres religiones y Varanasi para el hinduismo."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Varanasi es una ciudad sagrada para el islam.",
+    "respuesta": false,
+    "explicacion": "Varanasi, a orillas del Ganges, es una de las ciudades más sagradas del hinduismo."
+   }
+  ],
+  "g1|g8": [
+   {
+    "tipo": "vf",
+    "texto": "En el mercado común de la Unión Europea circulan libremente mercancías, servicios, personas y capitales.",
+    "respuesta": true,
+    "explicacion": "Esas son las cuatro libertades del mercado común, como si fuera un solo país."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué diferencia hay entre las fronteras interiores de la Unión Europea y varias de las líneas del mapa de Medio Oriente?",
+    "opciones": [
+     "En la UE las fronteras no existen porque los países se unieron en un solo Estado",
+     "Las dos están acordadas y reconocidas por todas las partes",
+     "En Medio Oriente circulan libremente las mercancías y en la UE no",
+     "En la UE circulan libremente mercancías, personas y capitales; varias líneas de Medio Oriente no son fronteras reconocidas"
+    ],
+    "correcta": 3,
+    "explicacion": "El mercado común de la UE permite circular libremente. En Medio Oriente, varias líneas son armisticios, planes o zonas de control."
+   }
+  ],
+  "g1|g9": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué se apoya en una frontera y qué tiene alcance mundial?",
+    "opciones": [
+     "La autoridad de un Estado se apoya en su frontera; una aplicación creada en un centro de innovación puede usarse en cualquier lugar",
+     "Las dos dependen de la frontera donde se crearon",
+     "Las dos tienen alcance mundial",
+     "La frontera tiene alcance mundial y la aplicación depende del territorio"
+    ],
+    "correcta": 0,
+    "explicacion": "El territorio de un Estado termina en su frontera. Lo que se crea en un centro de innovación puede usarse al día siguiente en cualquier lugar."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Lo que se produce en un centro de innovación solo puede usarse dentro del país donde se creó.",
+    "respuesta": false,
+    "explicacion": "Un programa, una aplicación o un descubrimiento tiene alcance mundial."
+   }
+  ],
+  "g1|g10": [
+   {
+    "tipo": "vf",
+    "texto": "Medio Oriente está completamente dentro de Asia.",
+    "respuesta": false,
+    "explicacion": "Suele incluir a Egipto, que está en el noreste de África."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué porcentaje de la población mundial vive en Asia, el continente donde está casi toda la región de Medio Oriente?",
+    "opciones": [
+     "12 %",
+     "58,7 %",
+     "25 %",
+     "80 %"
+    ],
+    "correcta": 1,
+    "explicacion": "La clase 10 da el dato: en Asia vive el 58,7 % de la población mundial."
+   }
+  ],
+  "g1|g11": [
+   {
+    "tipo": "mc",
+    "pregunta": "Entre los temas sin resolver en Medio Oriente, ¿cuál se relaciona con la clase de migraciones y refugiados?",
+    "opciones": [
+     "Las remesas",
+     "La segunda generación en Barcelona",
+     "El de los refugiados de 1948 y sus descendientes",
+     "Las terrazas de cultivo"
+    ],
+    "correcta": 2,
+    "explicacion": "En la tabla de la clase 1, los refugiados figuran como uno de los temas pendientes, y cada parte tiene una posición distinta."
+   },
+   {
+    "tipo": "vf",
+    "texto": "En la guerra de Siria, millones de personas dejaron el país.",
+    "respuesta": true,
+    "explicacion": "La clase 1 lo cuenta como consecuencia de las protestas que se convirtieron en guerra interna."
+   }
+  ],
+  "g1|g12": [
+   {
+    "tipo": "vf",
+    "texto": "La Primavera Árabe empezó con la protesta de un joven vendedor ambulante en Túnez.",
+    "respuesta": true,
+    "explicacion": "Fue en diciembre de 2010, y en pocas semanas las protestas se extendieron a otros países árabes."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué ayudó a difundir las convocatorias de la Primavera Árabe?",
+    "opciones": [
+     "Una campaña de un partido político",
+     "Los diarios impresos únicamente",
+     "La ONU",
+     "Los celulares y las redes sociales"
+    ],
+    "correcta": 3,
+    "explicacion": "La clase 1 dice que, entre los jóvenes, los celulares y las redes ayudaron a difundir las convocatorias."
+   }
+  ],
+  "g2|g3": [
+   {
+    "tipo": "vf",
+    "texto": "Todos los miembros del BRICS están dentro del cinturón de fuego del Pacífico.",
+    "respuesta": false,
+    "explicacion": "El cinturón rodea el Pacífico. Países como Sudáfrica, Egipto o Etiopía no están en él."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "Indonesia entró al BRICS en 2025 y también está en el cinturón de fuego. ¿Qué significa eso para el país?",
+    "opciones": [
+     "Que no tiene riesgo porque es miembro del BRICS",
+     "Forma parte de una región con sismos y volcanes, donde la gestión del riesgo es importante",
+     "Que no hay placas tectónicas en su territorio",
+     "Que sus sismos son más débiles que los de otros países"
+    ],
+    "correcta": 1,
+    "explicacion": "El cinturón de fuego pasa por Indonesia. La gestión del riesgo busca reducir la vulnerabilidad."
+   }
+  ],
+  "g2|g4": [
+   {
+    "tipo": "mc",
+    "pregunta": "Sudáfrica, Egipto y Etiopía son miembros del BRICS. ¿Qué problema de la clase 4 afecta a otra región de su continente?",
+    "opciones": [
+     "Las erupciones del cinturón de fuego",
+     "La sobrepoblación de Japón",
+     "La desertización, sobre todo en el Sahel",
+     "El monzón"
+    ],
+    "correcta": 2,
+    "explicacion": "Los tres están en África, y el Sahel es la franja semiárida donde la desertización es especialmente grave."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Sudáfrica es el único miembro africano del BRICS.",
+    "respuesta": false,
+    "explicacion": "Desde 2024 también son miembros Egipto y Etiopía."
+   }
+  ],
+  "g2|g5": [
+   {
+    "tipo": "vf",
+    "texto": "China, miembro del BRICS, es un país importador de petróleo.",
+    "respuesta": true,
+    "explicacion": "Consume más petróleo del que produce, por eso lo compra afuera."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué miembros del BRICS aparecen entre los países con grandes reservas o gran producción de petróleo?",
+    "opciones": [
+     "Venezuela, Irak y Kuwait",
+     "Estados Unidos, Canadá y Japón",
+     "Brasil, la India y Sudáfrica",
+     "Irán, los Emiratos Árabes Unidos y Rusia"
+    ],
+    "correcta": 3,
+    "explicacion": "Irán y los Emiratos están en la tabla de reservas. Rusia es un gran productor de petróleo y gas. Venezuela no integra el BRICS."
+   }
+  ],
+  "g2|g6": [
+   {
+    "tipo": "mc",
+    "pregunta": "Brasil integra el BRICS. ¿Qué ciudad brasileña está entre las de nivel Alfa del estudio GaWC de 2024?",
+    "opciones": [
+     "São Paulo",
+     "Brasilia",
+     "Río de Janeiro",
+     "Manaos"
+    ],
+    "correcta": 0,
+    "explicacion": "Entre las cuatro ciudades latinoamericanas de nivel Alfa están Buenos Aires, Ciudad de México, Santiago de Chile y São Paulo."
+   },
+   {
+    "tipo": "vf",
+    "texto": "São Paulo, en un país del BRICS, está entre las ciudades de nivel Alfa.",
+    "respuesta": true,
+    "explicacion": "Es una de las cuatro de América Latina en ese nivel."
+   }
+  ],
+  "g2|g7": [
+   {
+    "tipo": "vf",
+    "texto": "Japón es miembro del G7.",
+    "respuesta": true,
+    "explicacion": "Lo es desde el comienzo del grupo."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Cuáles de estos países de la clase 7 son miembros del G7 y no del BRICS?",
+    "opciones": [
+     "India, China y Brasil",
+     "Japón, Alemania y Canadá",
+     "Japón, China y Rusia",
+     "India, Japón y Egipto"
+    ],
+    "correcta": 1,
+    "explicacion": "El G7 reúne a Alemania, Canadá, Estados Unidos, Francia, Italia, Japón y el Reino Unido. India es miembro del BRICS."
+   }
+  ],
+  "g2|g8": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Cuáles de estos países son miembros del G7 y de la Unión Europea a la vez?",
+    "opciones": [
+     "Alemania, Canadá y Japón",
+     "Francia, Estados Unidos e Italia",
+     "Alemania, Francia e Italia",
+     "Italia, Reino Unido y Japón"
+    ],
+    "correcta": 2,
+    "explicacion": "Canadá, Estados Unidos y Japón no están en la UE. El Reino Unido salió en 2020."
+   },
+   {
+    "tipo": "vf",
+    "texto": "El Reino Unido integra hoy el G7 y la Unión Europea.",
+    "respuesta": false,
+    "explicacion": "Integra el G7, pero salió de la Unión Europea en 2020."
+   }
+  ],
+  "g2|g9": [
+   {
+    "tipo": "vf",
+    "texto": "Shenzhen, en China, concentra empresas de electrónica y fábricas de componentes.",
+    "respuesta": true,
+    "explicacion": "Es otro de los centros de innovación que menciona la clase 9."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "La India se destaca en servicios informáticos. ¿Qué ciudad india se conoce como el Silicon Valley de la India?",
+    "opciones": [
+     "Varanasi",
+     "Shenzhen",
+     "Cupertino",
+     "Bangalore"
+    ],
+    "correcta": 3,
+    "explicacion": "Bangalore es un centro de innovación con empresas de programación y servicios informáticos."
+   }
+  ],
+  "g2|g10": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué dos miembros del BRICS son de los países más poblados del mundo?",
+    "opciones": [
+     "China e India",
+     "Brasil y Sudáfrica",
+     "Rusia y Egipto",
+     "Irán y Etiopía"
+    ],
+    "correcta": 0,
+    "explicacion": "La clase 2 los menciona como los más poblados. Desde 2023 el más poblado es la India."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Desde 2023 el país más poblado del mundo es China.",
+    "respuesta": false,
+    "explicacion": "Desde 2023 lo es la India."
+   }
+  ],
+  "g2|g11": [
+   {
+    "tipo": "vf",
+    "texto": "Marruecos es miembro del BRICS.",
+    "respuesta": false,
+    "explicacion": "Los miembros africanos son Sudáfrica, Egipto y Etiopía."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "Egipto es miembro del BRICS. ¿Qué otros países del norte de África cita la clase 11?",
+    "opciones": [
+     "Etiopía, Sudáfrica e Irán",
+     "Marruecos, Argelia y Túnez",
+     "Senegal, Mali y Sudán",
+     "España, Francia e Italia"
+    ],
+    "correcta": 1,
+    "explicacion": "Están muy cerca de Europa. El estrecho de Gibraltar separa a Marruecos de España."
+   }
+  ],
+  "g2|g12": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿En qué se diferencia el BRICS de un movimiento social?",
+    "opciones": [
+     "El BRICS reúne personas y el movimiento social, gobiernos",
+     "No se diferencian: los dos se presentan a elecciones",
+     "El BRICS reúne gobiernos de países; un movimiento social reúne personas que reclaman un cambio",
+     "El BRICS reclama en las plazas y el movimiento hace cumbres"
+    ],
+    "correcta": 2,
+    "explicacion": "Los miembros del BRICS son países que hacen cumbres. Un movimiento social se organiza desde la sociedad."
+   },
+   {
+    "tipo": "vf",
+    "texto": "El BRICS es un movimiento social.",
+    "respuesta": false,
+    "explicacion": "Es un grupo de países que se reúnen y coordinan algunas acciones."
+   }
+  ],
+  "g3|g4": [
+   {
+    "tipo": "vf",
+    "texto": "La desertización tiene solo causas naturales.",
+    "respuesta": false,
+    "explicacion": "Tiene causas naturales, como las sequías, y humanas, como el sobrepastoreo, la tala y el cultivo sin descanso."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "En la desertización y en el riesgo sísmico, ¿qué parte depende de decisiones de la sociedad?",
+    "opciones": [
+     "Nada: son procesos totalmente naturales",
+     "La vulnerabilidad, en un caso; el uso de la tierra, en el otro",
+     "Solo el lugar donde chocan las placas",
+     "Solo la cantidad de lluvia"
+    ],
+    "correcta": 1,
+    "explicacion": "Nadie decide dónde chocan las placas, pero sí cómo se construye. Y la desertización tiene causas humanas, como el sobrepastoreo."
+   }
+  ],
+  "g3|g5": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué país es el mayor productor de petróleo y tiene parte de su territorio dentro del cinturón de fuego?",
+    "opciones": [
+     "Venezuela, por la cordillera",
+     "Arabia Saudita, por el golfo Pérsico",
+     "Estados Unidos, por Alaska",
+     "Irán, por el estrecho de Ormuz"
+    ],
+    "correcta": 2,
+    "explicacion": "El cinturón pasa por Alaska. Estados Unidos produjo casi 22 millones de barriles por día en 2023."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Alaska forma parte del cinturón de fuego del Pacífico.",
+    "respuesta": true,
+    "explicacion": "El cinturón sigue por Alaska y baja por la costa de América hasta Chile."
+   }
+  ],
+  "g3|g6": [
+   {
+    "tipo": "vf",
+    "texto": "Londres está dentro del cinturón de fuego del Pacífico.",
+    "respuesta": false,
+    "explicacion": "El cinturón rodea el Pacífico. Londres no está en él."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué ciudad, que Sassen llamó global en 1991, está en un país del cinturón de fuego?",
+    "opciones": [
+     "Londres",
+     "Nueva York",
+     "Buenos Aires",
+     "Tokio"
+    ],
+    "correcta": 3,
+    "explicacion": "Sassen nombró a Nueva York, Londres y Tokio. Japón está en el cinturón de fuego."
+   }
+  ],
+  "g3|g7": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué hizo Japón para reducir la vulnerabilidad de sus ciudades frente a los sismos?",
+    "opciones": [
+     "Desarrolló técnicas de construcción sismorresistente y sistemas de alerta",
+     "Trasladó todas sus ciudades a la montaña",
+     "Impidió los sismos con obras en las placas",
+     "Dejó de construir edificios"
+    ],
+    "correcta": 0,
+    "explicacion": "La clase 7 explica que, en una región con tantos sismos, se desarrolló ese tipo de tecnología."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Japón está dentro del cinturón de fuego del Pacífico.",
+    "respuesta": true,
+    "explicacion": "El cinturón pasa por Nueva Zelanda, Indonesia, Filipinas y Japón."
+   }
+  ],
+  "g3|g8": [
+   {
+    "tipo": "vf",
+    "texto": "La política de cohesión de la UE busca achicar las diferencias entre regiones.",
+    "respuesta": true,
+    "explicacion": "Destina fondos a las regiones menos desarrolladas."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "La política de cohesión de la UE y la gestión del riesgo en la Argentina tienen algo en común. ¿Qué?",
+    "opciones": [
+     "Las dos las toman solo las empresas",
+     "Son decisiones de los Estados para reducir un problema: las diferencias entre regiones y el daño de un sismo",
+     "Las dos buscan evitar los sismos",
+     "Las dos son decisiones de la ONU"
+    ],
+    "correcta": 1,
+    "explicacion": "La política de cohesión destina fondos a regiones menos desarrolladas. La gestión del riesgo reduce la vulnerabilidad."
+   }
+  ],
+  "g3|g9": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué organismo argentino desarrolla los reglamentos de construcción sismorresistente?",
+    "opciones": [
+     "INVAP",
+     "Petrobras",
+     "El INPRES",
+     "ACNUR"
+    ],
+    "correcta": 2,
+    "explicacion": "El INPRES se creó en 1972. INVAP es una empresa de tecnología creada en 1976 en Bariloche."
+   },
+   {
+    "tipo": "vf",
+    "texto": "INVAP es el organismo que actualiza los reglamentos de construcción sismorresistente.",
+    "respuesta": false,
+    "explicacion": "Eso lo hace el INPRES. INVAP construye satélites y reactores nucleares de investigación."
+   }
+  ],
+  "g3|g10": [
+   {
+    "tipo": "vf",
+    "texto": "Las terrazas de cultivo son escalones que se construyen en las laderas de las montañas.",
+    "respuesta": true,
+    "explicacion": "Así se gana tierra para cultivar donde antes solo había pendiente."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Cómo se formó la cordillera de los Andes?",
+    "opciones": [
+     "Por la acumulación de arena del desierto",
+     "Por el monzón",
+     "Por las terrazas de cultivo",
+     "Por el empuje de las placas, que se chocan y se hunden una bajo otra"
+    ],
+    "correcta": 3,
+    "explicacion": "La placa de Nazca se hunde bajo la Sudamericana, y los Andes se levantaron por ese empuje."
+   }
+  ],
+  "g3|g11": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Cuál de estos fenómenos se explica por el choque de placas y cuál por factores de expulsión y atracción?",
+    "opciones": [
+     "Los sismos, por el choque de placas; las migraciones, por factores de expulsión y atracción",
+     "Los sismos, por las remesas; las migraciones, por las placas",
+     "Los dos, por el choque de placas",
+     "Los dos, por factores de expulsión y atracción"
+    ],
+    "correcta": 0,
+    "explicacion": "Los sismos tienen una causa natural. Las migraciones se explican por situaciones sociales: empleo, salarios, familiares."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Los sismos y las migraciones tienen la misma causa.",
+    "respuesta": false,
+    "explicacion": "Los sismos nacen del choque de placas; las migraciones, de factores de expulsión y de atracción."
+   }
+  ],
+  "g3|g12": [
+   {
+    "tipo": "vf",
+    "texto": "Un movimiento social busca gobernar, como un partido político.",
+    "respuesta": false,
+    "explicacion": "Busca un cambio en la sociedad; no se presenta a elecciones."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "La clase 3 dice que los desastres se pueden prevenir con decisiones del Estado y de la comunidad. ¿Qué rasgo de un movimiento social muestra el papel de la comunidad?",
+    "opciones": [
+     "Se presenta a elecciones",
+     "Es un grupo que se organiza de forma colectiva y sostenida en el tiempo",
+     "Lo forma una sola persona",
+     "Reclama solo un día"
+    ],
+    "correcta": 1,
+    "explicacion": "Un movimiento social no es un partido ni un reclamo de un día."
+   }
+  ],
+  "g4|g5": [
+   {
+    "tipo": "vf",
+    "texto": "El petróleo se repone a la escala de una vida humana.",
+    "respuesta": false,
+    "explicacion": "Es un recurso no renovable."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué recurso se repone y cuál no, según las clases 4 y 5?",
+    "opciones": [
+     "El petróleo se repone cada año; la tierra, nunca",
+     "La tierra puede recuperarse si se cuida; el petróleo no se repone a la escala de una vida humana",
+     "Los dos se reponen rápido",
+     "Ninguno de los dos se puede perder"
+    ],
+    "correcta": 1,
+    "explicacion": "El petróleo tarda millones de años en formarse. La tierra se degrada si se toma más de lo que repone."
+   }
+  ],
+  "g4|g6": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿De qué depende la importancia de una ciudad global y de qué dependen directamente muchas familias del Sahel?",
+    "opciones": [
+     "Las dos, de la cantidad de habitantes",
+     "La ciudad global, de la lluvia; las familias del Sahel, de las bolsas de valores",
+     "La ciudad global, de su conexión con el mundo; las familias del Sahel, de la tierra",
+     "Las dos, de los servicios avanzados"
+    ],
+    "correcta": 2,
+    "explicacion": "Una ciudad global no se define por su tamaño sino por su conexión. En el Sahel se cultiva, se cría ganado y se usa leña."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Las ciudades globales producen sobre todo alimentos.",
+    "respuesta": false,
+    "explicacion": "Concentran funciones de dirección y servicios avanzados."
+   }
+  ],
+  "g4|g7": [
+   {
+    "tipo": "vf",
+    "texto": "En el Sahel llueve poco y solo durante unos meses del año.",
+    "respuesta": true,
+    "explicacion": "Por eso su equilibrio es frágil."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Por qué la población japonesa se concentró en las llanuras de la costa?",
+    "opciones": [
+     "Porque no hay montañas",
+     "Porque en la costa no hay sismos",
+     "Porque el monzón solo llega allí",
+     "Porque Japón tiene mucha montaña y poca llanura"
+    ],
+    "correcta": 3,
+    "explicacion": "Las llanuras costeras son el mejor lugar para construir ciudades, fábricas y puertos."
+   }
+  ],
+  "g4|g8": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tienen en común la PAC y la Gran Muralla Verde?",
+    "opciones": [
+     "Las dos son políticas que intervienen en la producción rural y en el uso de la tierra",
+     "Las dos las lleva adelante la ONU",
+     "Las dos se crearon en 2007",
+     "Las dos buscan evitar sismos"
+    ],
+    "correcta": 0,
+    "explicacion": "La PAC apoya a los productores rurales europeos desde 1962. La Gran Muralla Verde busca recuperar tierras degradadas."
+   },
+   {
+    "tipo": "vf",
+    "texto": "La Gran Muralla Verde la lleva adelante la Unión Europea.",
+    "respuesta": false,
+    "explicacion": "La llevan adelante países africanos, desde 2007."
+   }
+  ],
+  "g4|g9": [
+   {
+    "tipo": "vf",
+    "texto": "INVAP diseña y construye satélites.",
+    "respuesta": true,
+    "explicacion": "También construye reactores nucleares de investigación."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Quién informó cuántos árboles se plantaron en Senegal para la Gran Muralla Verde?",
+    "opciones": [
+     "INVAP",
+     "La Agencia Espacial Europea",
+     "La OPEP",
+     "El INPRES"
+    ],
+    "correcta": 1,
+    "explicacion": "La clase 4 cita a la Agencia Espacial Europea: casi 12 millones de árboles y 25.000 hectáreas."
+   }
+  ],
+  "g4|g10": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué diferencia de lluvias hay entre el Sahel y el sur de Asia?",
+    "opciones": [
+     "En el Sahel llueve todo el año; en el sur de Asia casi nunca",
+     "No hay ninguna diferencia",
+     "En el Sahel llueve poco y pocos meses; en el sur de Asia, el monzón trae lluvias muy fuertes",
+     "En el Sahel hay monzón y en Asia, no"
+    ],
+    "correcta": 2,
+    "explicacion": "El monzón es el viento que trae las lluvias fuertes al sur y sudeste de Asia."
+   },
+   {
+    "tipo": "vf",
+    "texto": "El arroz se cultiva en campos que se inundan con agua de lluvia o de riego.",
+    "respuesta": true,
+    "explicacion": "Se cultiva en arrozales, a menudo con las lluvias del monzón."
+   }
+  ],
+  "g4|g11": [
+   {
+    "tipo": "vf",
+    "texto": "Los factores de expulsión son situaciones del lugar de origen que empujan a irse.",
+    "respuesta": true,
+    "explicacion": "Por ejemplo, la falta de empleo o los salarios bajos."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "Si una tierra pierde su capacidad de producir, ¿qué podría pasar con las familias que dependen de ella?",
+    "opciones": [
+     "Se volverían inmigrantes automáticamente",
+     "Recibirían remesas del Sahel",
+     "Dejarían de necesitar alimentos",
+     "Podrían buscar trabajo en otro lugar: sería un factor de expulsión"
+    ],
+    "correcta": 3,
+    "explicacion": "Los factores de expulsión empujan a irse del lugar de origen."
+   }
+  ],
+  "g4|g12": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué reclamaba el movimiento Fridays for Future?",
+    "opciones": [
+     "Medidas contra el cambio climático",
+     "El voto de las mujeres",
+     "El fin de la segregación",
+     "Precios más bajos del petróleo"
+    ],
+    "correcta": 0,
+    "explicacion": "Nació en 2018 con una estudiante sueca frente al Parlamento de su país."
+   },
+   {
+    "tipo": "vf",
+    "texto": "La Gran Muralla Verde es un movimiento social.",
+    "respuesta": false,
+    "explicacion": "Es un proyecto de países africanos, no un grupo de personas que se organiza para reclamar."
+   }
+  ],
+  "g5|g6": [
+   {
+    "tipo": "vf",
+    "texto": "Por la red de ciudades circulan personas, capitales, información y mercancías.",
+    "respuesta": true,
+    "explicacion": "Esos son los cuatro flujos que pasan por los nudos de la red."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "Por el estrecho de Ormuz pasan barcos con petróleo. ¿Qué tipo de flujo de la red mundial representan?",
+    "opciones": [
+     "Personas",
+     "Mercancías",
+     "Información",
+     "Capitales"
+    ],
+    "correcta": 1,
+    "explicacion": "La clase 6 distingue cuatro flujos: personas, capitales, información y mercancías. Las mercancías viajan en barcos y aviones de carga."
+   }
+  ],
+  "g5|g7": [
+   {
+    "tipo": "mc",
+    "pregunta": "Por el estrecho de Ormuz circula sobre todo petróleo, y a Varanasi llegan peregrinos. ¿Qué flujos son?",
+    "opciones": [
+     "Capitales e información",
+     "Personas e información",
+     "Mercancías y personas",
+     "Mercancías y capitales"
+    ],
+    "correcta": 2,
+    "explicacion": "El petróleo es una mercancía y los peregrinos son personas."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Las peregrinaciones mueven a millones de personas.",
+    "respuesta": true,
+    "explicacion": "Por eso las ciudades sagradas tienen que organizar transporte, alojamiento, agua y seguridad."
+   }
+  ],
+  "g5|g8": [
+   {
+    "tipo": "vf",
+    "texto": "La OPEP se fundó en 1960 para coordinar cuánto producir y defender el precio.",
+    "respuesta": true,
+    "explicacion": "Fue fundada por Irán, Irak, Kuwait, Arabia Saudita y Venezuela."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Cuál se fundó primero: la OPEP o la Comunidad Económica Europea?",
+    "opciones": [
+     "La OPEP, en 1950",
+     "Las dos en 1960",
+     "La OPEP, en 1957",
+     "La Comunidad Económica Europea, en 1957"
+    ],
+    "correcta": 3,
+    "explicacion": "La OPEP se fundó en 1960, en Bagdad. El Tratado de Roma es de 1957."
+   }
+  ],
+  "g5|g9": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Dónde apareció el petróleo argentino en 1907 y dónde se creó INVAP en 1976?",
+    "opciones": [
+     "En Comodoro Rivadavia y en Bariloche",
+     "En Neuquén y en Rosario",
+     "En Bariloche y en Comodoro Rivadavia",
+     "En Comodoro Rivadavia y en Córdoba"
+    ],
+    "correcta": 0,
+    "explicacion": "El petróleo apareció mientras se buscaba agua en Comodoro Rivadavia. INVAP nació en Bariloche."
+   },
+   {
+    "tipo": "vf",
+    "texto": "INVAP fue creada en Comodoro Rivadavia.",
+    "respuesta": false,
+    "explicacion": "Fue creada en 1976 en Bariloche."
+   }
+  ],
+  "g5|g10": [
+   {
+    "tipo": "vf",
+    "texto": "La agricultura extensiva usa grandes superficies, con poca gente y muchas máquinas.",
+    "respuesta": true,
+    "explicacion": "En Asia predomina la intensiva: poca tierra, mucho trabajo."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿En qué provincia está Vaca Muerta?",
+    "opciones": [
+     "Chubut",
+     "Neuquén",
+     "Santa Fe",
+     "Mendoza"
+    ],
+    "correcta": 1,
+    "explicacion": "Vaca Muerta es una formación de shale en Neuquén. La región pampeana, en cambio, se asocia con la agricultura extensiva."
+   }
+  ],
+  "g5|g11": [
+   {
+    "tipo": "mc",
+    "pregunta": "Una guerra puede hacer que una persona se convierta en refugiada. ¿Qué disputa entre Estados por petróleo cita la clase 5?",
+    "opciones": [
+     "La de Venezuela y Brasil",
+     "La de la OPEP y la ONU",
+     "La de Irak y Kuwait, en 1990-1991",
+     "La de Neuquén y Chubut"
+    ],
+    "correcta": 2,
+    "explicacion": "La clase 5 la da como ejemplo de disputa entre Estados. Quien huye de una guerra puede ser refugiado."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Las disputas por el petróleo son siempre guerras entre países.",
+    "respuesta": false,
+    "explicacion": "También hay disputas por las rutas y debates dentro de un país."
+   }
+  ],
+  "g5|g12": [
+   {
+    "tipo": "vf",
+    "texto": "Un movimiento social puede usar marchas, peticiones, boicots y campañas.",
+    "respuesta": true,
+    "explicacion": "Esas son sus formas de acción."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "En el debate sobre Vaca Muerta, ¿cómo se presentan las posiciones?",
+    "opciones": [
+     "Solo se presentan los argumentos de quienes la defienden",
+     "Solo los de quienes la critican",
+     "No hay debate",
+     "Quienes quieren ampliar la extracción y quienes advierten sobre sus efectos en el ambiente"
+    ],
+    "correcta": 3,
+    "explicacion": "La clase presenta las dos miradas sin tomar partido."
+   }
+  ],
+  "g6|g7": [
+   {
+    "tipo": "vf",
+    "texto": "Tokio es una de las ciudades que Saskia Sassen llamó globales en 1991.",
+    "respuesta": true,
+    "explicacion": "Las otras dos son Nueva York y Londres."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué ciudad aparece en la clase 6 como ciudad global y en la 7 como parte de una megalópolis?",
+    "opciones": [
+     "Varanasi",
+     "Tokio",
+     "La Meca",
+     "Bruselas"
+    ],
+    "correcta": 1,
+    "explicacion": "Tokio es una de las tres ciudades que nombró Sassen y es parte de la megalópolis japonesa."
+   }
+  ],
+  "g6|g8": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué ciudad es la sede de la Comisión Europea?",
+    "opciones": [
+     "Londres",
+     "París",
+     "Bruselas",
+     "Berlín"
+    ],
+    "correcta": 2,
+    "explicacion": "La clase 8 dice que la Comisión Europea tiene sede en Bruselas, Bélgica."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Londres es una ciudad global, pero el Reino Unido ya no integra la Unión Europea.",
+    "respuesta": true,
+    "explicacion": "Londres es de nivel Alfa++ según GaWC y el Reino Unido salió en 2020."
+   }
+  ],
+  "g6|g9": [
+   {
+    "tipo": "vf",
+    "texto": "Silicon Valley es una región con varias ciudades, como Cupertino y Mountain View.",
+    "respuesta": true,
+    "explicacion": "No es una ciudad."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tienen en común las ciudades globales y los centros de innovación?",
+    "opciones": [
+     "Los dos se definen por su cantidad de habitantes",
+     "Los dos son ciudades sagradas",
+     "Los dos están en el Sahel",
+     "Concentran funciones o conocimiento y están muy conectados con el resto del mundo"
+    ],
+    "correcta": 3,
+    "explicacion": "Las ciudades globales concentran decisiones y servicios avanzados. Los centros de innovación, conocimiento."
+   }
+  ],
+  "g6|g10": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Un lugar con muchos habitantes por kilómetro cuadrado es siempre una ciudad global?",
+    "opciones": [
+     "No: una ciudad global se define por su conexión con el mundo, no por su tamaño",
+     "Sí: la densidad define a una ciudad global",
+     "Sí, si tiene un río sagrado",
+     "Solo si está en Asia"
+    ],
+    "correcta": 0,
+    "explicacion": "La densidad de población mide habitantes por kilómetro cuadrado. Hay ciudades enormes que no son globales."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Hay ciudades muy grandes que no son ciudades globales.",
+    "respuesta": true,
+    "explicacion": "Lo que importa es la conexión y la capacidad de decisión."
+   }
+  ],
+  "g6|g11": [
+   {
+    "tipo": "vf",
+    "texto": "Sassen señaló que en las ciudades globales crecen a la vez trabajos muy bien pagos y trabajos con salarios bajos.",
+    "respuesta": true,
+    "explicacion": "A eso lo llamó polarización social."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿En qué sectores trabajan muchas personas inmigrantes en el destino, según la clase 11?",
+    "opciones": [
+     "Solo en las finanzas",
+     "Agricultura, construcción, comercio y cuidado de personas",
+     "Solo en las bolsas de valores",
+     "En ninguno"
+    ],
+    "correcta": 1,
+    "explicacion": "También las ciudades globales muestran trabajos con salarios bajos, como la limpieza o el cuidado."
+   }
+  ],
+  "g6|g12": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué lugar de Buenos Aires se volvió símbolo de reclamos?",
+    "opciones": [
+     "El aeropuerto de Ezeiza",
+     "La bolsa de valores",
+     "La Plaza de Mayo",
+     "El Obelisco únicamente"
+    ],
+    "correcta": 2,
+    "explicacion": "La clase 12 la cita como ejemplo de espacio público que los movimientos ocupan."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Los movimientos sociales se territorializan solo en espacios físicos.",
+    "respuesta": false,
+    "explicacion": "También ocupan el espacio digital, por las redes sociales."
+   }
+  ],
+  "g7|g8": [
+   {
+    "tipo": "vf",
+    "texto": "Alemania se especializa en autos, maquinaria y productos químicos.",
+    "respuesta": true,
+    "explicacion": "Es su especialidad dentro de la Unión Europea."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué país de la UE se especializa en autos y maquinaria, y qué país de Asia tiene en Tokio empresas automotrices y de electrónica?",
+    "opciones": [
+     "Países Bajos e India",
+     "Alemania y Japón",
+     "Francia y China",
+     "España y Japón"
+    ],
+    "correcta": 1,
+    "explicacion": "Alemania, en autos, maquinaria y productos químicos. Tokio es sede de empresas de electrónica, automotrices y de robótica."
+   }
+  ],
+  "g7|g9": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tienen en común Tokio y Silicon Valley?",
+    "opciones": [
+     "Las dos son ciudades sagradas",
+     "Las dos están en la costa del Atlántico",
+     "Hay empresas de tecnología, universidades y centros de investigación",
+     "Las dos se llaman Silicon Valley"
+    ],
+    "correcta": 2,
+    "explicacion": "Tokio tiene centros de investigación y universidades que generan innovación. Silicon Valley reúne universidades, empresas e inversores."
+   },
+   {
+    "tipo": "vf",
+    "texto": "En Tokio hay universidades y centros de investigación que generan innovación.",
+    "respuesta": true,
+    "explicacion": "Y empresas de electrónica, automotrices y de robótica."
+   }
+  ],
+  "g7|g10": [
+   {
+    "tipo": "vf",
+    "texto": "Japón tiene mucha montaña y poca llanura.",
+    "respuesta": true,
+    "explicacion": "Por eso la población se concentró en las llanuras de la costa."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "En muchas zonas de Asia hay poca tierra plana. ¿Qué construyen los campesinos para cultivar en las laderas?",
+    "opciones": [
+     "Rutas de alta velocidad",
+     "Ghats",
+     "Invernaderos",
+     "Terrazas de cultivo"
+    ],
+    "correcta": 3,
+    "explicacion": "Son escalones con bordes que retienen el agua y el suelo."
+   }
+  ],
+  "g7|g11": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿En qué se diferencian una peregrinación y una migración?",
+    "opciones": [
+     "La peregrinación es un viaje por motivos religiosos; la migración es un traslado para vivir en otro lugar",
+     "Son lo mismo",
+     "La peregrinación es para trabajar; la migración, para rezar",
+     "La migración es siempre religiosa"
+    ],
+    "correcta": 0,
+    "explicacion": "Una peregrinación es temporal. Quien migra se traslada para vivir allí."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Quien hace una peregrinación a Varanasi es un migrante.",
+    "respuesta": false,
+    "explicacion": "Viaja por motivos religiosos, no para vivir allí."
+   }
+  ],
+  "g7|g12": [
+   {
+    "tipo": "vf",
+    "texto": "Una peregrinación es un movimiento social.",
+    "respuesta": false,
+    "explicacion": "Es un viaje religioso. Un movimiento social reclama un cambio en la sociedad."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "Un movimiento social \"se territorializa\". ¿Qué significa?",
+    "opciones": [
+     "Se presenta a elecciones",
+     "Ocupa un espacio, físico o digital, para hacerse ver",
+     "Se traslada a otro país para vivir",
+     "Construye una megalópolis"
+    ],
+    "correcta": 1,
+    "explicacion": "Ocupa plazas, calles y edificios públicos, y también el espacio digital."
+   }
+  ],
+  "g8|g9": [
+   {
+    "tipo": "vf",
+    "texto": "Silicon Valley está en Europa.",
+    "respuesta": false,
+    "explicacion": "Está en California, Estados Unidos."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué país de la UE se especializó en medicamentos y empresas de tecnología?",
+    "opciones": [
+     "Países Bajos",
+     "Irlanda",
+     "España",
+     "Francia"
+    ],
+    "correcta": 1,
+    "explicacion": "La tabla de la clase 8 lo indica: Irlanda, industria y servicios."
+   }
+  ],
+  "g8|g10": [
+   {
+    "tipo": "mc",
+    "pregunta": "La PAC (Unión Europea) y la revolución verde (Asia) fueron dos formas de...",
+    "opciones": [
+     "Evitar las migraciones",
+     "Frenar el comercio de alimentos",
+     "Apoyar o aumentar la producción rural",
+     "Reducir la población"
+    ],
+    "correcta": 2,
+    "explicacion": "La PAC da apoyo económico a los productores rurales; la revolución verde aumentó la producción con semillas, fertilizantes y riego."
+   },
+   {
+    "tipo": "vf",
+    "texto": "La PAC existe desde 1962.",
+    "respuesta": true,
+    "explicacion": "Da apoyo económico a los productores rurales europeos."
+   }
+  ],
+  "g8|g11": [
+   {
+    "tipo": "vf",
+    "texto": "En la UE los capitales no circulan libremente.",
+    "respuesta": false,
+    "explicacion": "Circulan libremente, junto con mercancías, servicios y personas."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "Aparte de las mercancías, ¿qué circula libremente en el mercado común de la UE?",
+    "opciones": [
+     "Solo los servicios",
+     "Solo las mercancías",
+     "Nada más",
+     "Servicios, personas y capitales"
+    ],
+    "correcta": 3,
+    "explicacion": "Es lo que significa que funcione como si fuera un solo país."
+   }
+  ],
+  "g8|g12": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué no hace un movimiento social, a diferencia de un partido político?",
+    "opciones": [
+     "Presentarse a elecciones",
+     "Hacer marchas",
+     "Reclamar por un tema",
+     "Usar las redes"
+    ],
+    "correcta": 0,
+    "explicacion": "Un movimiento social busca un cambio, no gobernar."
+   },
+   {
+    "tipo": "vf",
+    "texto": "La Unión Europea es un movimiento social.",
+    "respuesta": false,
+    "explicacion": "Es una unión de 27 países con un mercado común."
+   }
+  ],
+  "g9|g10": [
+   {
+    "tipo": "vf",
+    "texto": "La revolución verde usó semillas de alto rendimiento, fertilizantes y riego.",
+    "respuesta": true,
+    "explicacion": "Aumentó mucho la producción en Asia."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué aportó la ciencia a la revolución verde?",
+    "opciones": [
+     "Terrazas de cultivo",
+     "Semillas de alto rendimiento, fertilizantes y riego",
+     "Satélites argentinos",
+     "El monzón"
+    ],
+    "correcta": 1,
+    "explicacion": "Se combinaron en la década de 1960 para aumentar la producción de alimentos."
+   }
+  ],
+  "g9|g11": [
+   {
+    "tipo": "mc",
+    "pregunta": "Cuando migran personas y se exportan productos tecnológicos, ¿qué flujos de la red mundial circulan?",
+    "opciones": [
+     "Solo capitales",
+     "Solo información",
+     "Personas y mercancías",
+     "Ninguno"
+    ],
+    "correcta": 2,
+    "explicacion": "Las personas y las mercancías son dos de los cuatro flujos que describe la clase 6."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Un programa informático creado en un centro de innovación puede usarse al día siguiente en cualquier lugar.",
+    "respuesta": true,
+    "explicacion": "Es lo que se llama alcance mundial."
+   }
+  ],
+  "g9|g12": [
+   {
+    "tipo": "vf",
+    "texto": "Fridays for Future se difundió por las redes sociales.",
+    "respuesta": true,
+    "explicacion": "Un reclamo local se volvió mundial en poco tiempo."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué permite a los movimientos sociales coordinar acciones el mismo día en muchas ciudades?",
+    "opciones": [
+     "Las terrazas de cultivo",
+     "El Shinkansen",
+     "Las remesas",
+     "Las redes sociales"
+    ],
+    "correcta": 3,
+    "explicacion": "Con las redes, los movimientos ocupan también el espacio digital."
+   }
+  ],
+  "g10|g11": [
+   {
+    "tipo": "vf",
+    "texto": "La sobrepoblación es la única causa de las migraciones.",
+    "respuesta": false,
+    "explicacion": "Hay varios factores de expulsión y de atracción, como el empleo, los salarios o los familiares."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué país es el más poblado del mundo desde 2023?",
+    "opciones": [
+     "China",
+     "La India",
+     "Estados Unidos",
+     "Indonesia"
+    ],
+    "correcta": 1,
+    "explicacion": "Asia reúne al 58,7 % de la población mundial."
+   }
+  ],
+  "g10|g12": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tienen en común el debate sobre la revolución verde y el uso del espacio público?",
+    "opciones": [
+     "En los dos hay una sola posición correcta",
+     "En los dos se ignora a quienes critican",
+     "En los dos hay posiciones distintas que valen la pena conocer",
+     "En los dos solo se debate en las redes"
+    ],
+    "correcta": 2,
+    "explicacion": "En ambas clases se presenta lo que dicen quienes lo valoran y quienes señalan sus problemas, sin tomar partido."
+   },
+   {
+    "tipo": "vf",
+    "texto": "En la clase 10, la revolución verde se presenta con solo efectos positivos.",
+    "respuesta": false,
+    "explicacion": "Se presentan también el uso de agua, la contaminación y el endeudamiento."
+   }
+  ],
+  "g11|g12": [
+   {
+    "tipo": "vf",
+    "texto": "Los movimientos sociales pueden usar marchas, peticiones, boicots y campañas.",
+    "respuesta": true,
+    "explicacion": "Son sus formas de acción."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué se presenta en las dos clases sin tomar partido?",
+    "opciones": [
+     "Solo una posición",
+     "Las posiciones de quienes defienden una política y de quienes la critican",
+     "Solo la de los gobiernos",
+     "Ninguna posición"
+    ],
+    "correcta": 1,
+    "explicacion": "La clase 11 presenta las políticas migratorias; la 12, el uso del espacio público."
+   }
+  ]
+ }
+}

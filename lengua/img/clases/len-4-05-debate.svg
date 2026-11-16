@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" role="img" aria-label="Un debate: a la izquierda, una persona en el atril A habla; a la derecha, otra persona en el atril B escucha. En el centro, detrás de un escritorio con un micrófono y un reloj, hay una tercera persona. Abajo, el público." font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect width="1000" height="500" fill="#F7F4FD"/>
+<rect x="0" y="330" width="1000" height="170" fill="#E2DAF6"/>
+<circle cx="150" cy="150" r="30" fill="#4B4FA3"/><rect x="118" y="182" width="64" height="100" rx="20" fill="#4B4FA3"/>
+<path d="M70 230 h160 l-20 140 h-120z" fill="#fff" stroke="#1B1A4A" stroke-width="3"/><text x="150" y="315" font-size="44" font-weight="800" fill="#4B4FA3" text-anchor="middle" >A</text>
+<circle cx="850" cy="150" r="30" fill="#B83A7A"/><rect x="818" y="182" width="64" height="100" rx="20" fill="#B83A7A"/>
+<path d="M770 230 h160 l-20 140 h-120z" fill="#fff" stroke="#1B1A4A" stroke-width="3"/><text x="850" y="315" font-size="44" font-weight="800" fill="#B83A7A" text-anchor="middle" >B</text>
+<path d="M190 60 h200 a14 14 0 0 1 14 14 v44 a14 14 0 0 1 -14 14 h-170 l-22 22 v-22 h-8 a14 14 0 0 1 -14 -14 v-44 a14 14 0 0 1 14 -14z" fill="#fff" stroke="#4B4FA3" stroke-width="3"/><line x1="200" y1="84" x2="380" y2="84" stroke="#B9B4D6" stroke-width="6" stroke-linecap="round"/><line x1="200" y1="102" x2="340" y2="102" stroke="#B9B4D6" stroke-width="6" stroke-linecap="round"/><line x1="200" y1="120" x2="300" y2="120" stroke="#B9B4D6" stroke-width="6" stroke-linecap="round"/>
+<circle cx="500" cy="175" r="28" fill="#1F9D6B"/><rect x="470" y="205" width="60" height="80" rx="18" fill="#1F9D6B"/>
+<rect x="390" y="250" width="220" height="80" rx="8" fill="#8A5A3C"/><path d="M540 250 v-30 q0 -12 12 -12" stroke="#1B1A4A" stroke-width="5" fill="none"/><circle cx="556" cy="206" r="9" fill="#1B1A4A"/>
+<circle cx="440" cy="225" r="20" fill="#fff" stroke="#1B1A4A" stroke-width="4"/><path d="M440 225 v-12 M440 225 h9" stroke="#1B1A4A" stroke-width="4" stroke-linecap="round"/>
+<circle cx="80" cy="430" r="22" fill="#9C96C0"/><rect x="54" y="452" width="52" height="60" rx="18" fill="#9C96C0"/>
+<circle cx="185" cy="430" r="22" fill="#9C96C0"/><rect x="159" y="452" width="52" height="60" rx="18" fill="#9C96C0"/>
+<circle cx="290" cy="430" r="22" fill="#9C96C0"/><rect x="264" y="452" width="52" height="60" rx="18" fill="#9C96C0"/>
+<circle cx="395" cy="430" r="22" fill="#9C96C0"/><rect x="369" y="452" width="52" height="60" rx="18" fill="#9C96C0"/>
+<circle cx="500" cy="430" r="22" fill="#9C96C0"/><rect x="474" y="452" width="52" height="60" rx="18" fill="#9C96C0"/>
+<circle cx="605" cy="430" r="22" fill="#9C96C0"/><rect x="579" y="452" width="52" height="60" rx="18" fill="#9C96C0"/>
+<circle cx="710" cy="430" r="22" fill="#9C96C0"/><rect x="684" y="452" width="52" height="60" rx="18" fill="#9C96C0"/>
+<circle cx="815" cy="430" r="22" fill="#9C96C0"/><rect x="789" y="452" width="52" height="60" rx="18" fill="#9C96C0"/>
+<circle cx="920" cy="430" r="22" fill="#9C96C0"/><rect x="894" y="452" width="52" height="60" rx="18" fill="#9C96C0"/>
+</svg>

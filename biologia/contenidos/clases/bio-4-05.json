@@ -1,0 +1,1048 @@
+{
+ "id": "bio-4-05",
+ "espacio": "biologia",
+ "eje": "El sistema osteo-artro-muscular",
+ "titulo": "El sistema osteo-artro-muscular",
+ "intro": "Cada vez que caminás, escribís o respirás, se mueven huesos, articulaciones y músculos. En esta clase vas a ver cómo están formados, cómo producen el movimiento y qué tienen en común con los de otros animales.",
+ "objetivos": [
+  "Describir la composición de los huesos y clasificar huesos y articulaciones.",
+  "Explicar cómo se contrae un músculo y por qué los músculos trabajan en pares.",
+  "Comparar los esqueletos de distintos animales y reconocer estructuras homólogas como prueba de parentesco."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: cómo están formados y cómo funcionan huesos, articulaciones y músculos, y cómo se comparan los esqueletos de distintos animales.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Huesos y articulaciones",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "Un bebé nace con más de 270 huesos y una persona adulta tiene 206. Nadie pierde huesos en el camino. ¿Qué creés que pasa con los que \"faltan\"? Guardá tu respuesta: al final de esta parte la vas a poder revisar."
+    },
+    {
+     "t": "texto",
+     "titulo": "Un sistema para sostenerte y moverte",
+     "texto": "El **sistema osteo-artro-muscular** está formado por los huesos (*osteo*), las articulaciones (*artro*) y los músculos. Trabajando juntos, sostienen el cuerpo, protegen órganos delicados y permiten el movimiento.\n\nEl conjunto de los huesos es el **esqueleto**. Además de sostener, protege: el cráneo cubre el encéfalo y las costillas rodean el corazón y los pulmones. Los huesos guardan **calcio** y **fósforo**, y en su interior, en la **médula ósea roja**, se fabrican las células de la sangre que viste en la clase 4."
+    },
+    {
+     "t": "texto",
+     "titulo": "De qué está hecho un hueso",
+     "texto": "El hueso es un tejido vivo: tiene células, vasos sanguíneos y nervios. Sus células están rodeadas de una **matriz**, el material que las envuelve, que tiene dos componentes:\n\nUna proteína, el **colágeno**, que le da cierta flexibilidad. Si no lo tuviera, el hueso se partiría como una tiza.\n\nSales minerales de **calcio** y **fósforo**, que le dan dureza.\n\nPor fuera, el hueso es macizo: es el **hueso compacto**. Por dentro y en los extremos tiene una trama con muchos huecos, como una esponja dura: es el **hueso esponjoso**."
+    },
+    {
+     "t": "imagen",
+     "titulo": "Los huesos según su forma",
+     "src": "img/clases/bio-4-05-esqueleto.svg",
+     "tipo": "grafico",
+     "alt": "Ilustración de un esqueleto humano de frente. Están coloreados según su forma: en azul, huesos largos, como el fémur del muslo y el húmero del brazo; en verde, huesos cortos, como los de la muñeca; en rosa, huesos planos, como los del cráneo, las costillas y el omóplato.",
+     "epigrafe": "Ilustración: Mikael Häggström, dominio público, vía Wikimedia Commons. Adaptada para esta clase.",
+     "src_movil": "img/clases/bio-4-05-esqueleto-movil.svg",
+     "animacion": "svg",
+     "_imagen": true
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "La matriz del hueso tiene [[colágeno]], que le da flexibilidad, y sales de [[calcio]] y fósforo, que le dan dureza. Por fuera, el hueso es macizo: es el hueso [[compacto]]. Por dentro tiene una trama con huecos: es el hueso [[esponjoso]].",
+     "explicacion": "Esas son las dos partes de la matriz y los dos tipos de tejido óseo.",
+     "pista": "Releé el texto De qué está hecho un hueso."
+    },
+    {
+     "t": "texto",
+     "titulo": "Huesos largos, cortos y planos",
+     "texto": "Los huesos se clasifican por su forma. Los **largos**, como el fémur del muslo o el húmero del brazo, son más largos que anchos y tienen médula ósea en el centro. Los **cortos**, como los de la muñeca y el tobillo, son chicos y parecidos a un cubo. Los **planos**, como los del cráneo, las costillas y el omóplato, son delgados y anchos: suelen proteger órganos."
+    },
+    {
+     "t": "marcar",
+     "consigna": "Marcá en este texto los nombres de los **huesos planos**. Si no te acordás cuáles son, mirá el texto de arriba.",
+     "texto": "Para jugar al fútbol usás mucho el [[fémur]] y la tibia, que son largos. Si te caés de cabeza, te protege el [[cráneo]]. Cuando respirás, las [[costillas]] se mueven, y al levantar el brazo se desliza el [[omóplato]]. Los huesos de la muñeca, en cambio, son cortos.",
+     "explicacion": "El cráneo, las costillas y el omóplato son huesos planos: delgados, anchos y protectores. El fémur y la tibia son largos, y los de la muñeca son cortos.",
+     "pista": "Ojo: el fémur es un hueso largo. Buscá solo los delgados y anchos que protegen órganos."
+    },
+    {
+     "t": "texto",
+     "titulo": "Las articulaciones",
+     "texto": "Una **articulación** es el lugar donde se unen dos huesos o más. No todas se mueven igual:\n\nLas **inmóviles** no se mueven, como las uniones entre los huesos del cráneo.\n\nLas **semimóviles** se mueven poco, como las uniones entre las vértebras de la columna.\n\nLas **móviles** permiten mucho movimiento, como la rodilla, el codo o el hombro."
+    },
+    {
+     "t": "imagen",
+     "titulo": "Por dentro de una articulación móvil",
+     "src": "img/clases/bio-4-05-articulacion.svg",
+     "tipo": "grafico",
+     "alt": "Ilustración de una articulación móvil, como la rodilla, en corte. Los extremos de los dos huesos están cubiertos de cartílago. Entre ellos hay una cavidad con líquido sinovial, cerrada por una envoltura. Por fuera, los ligamentos unen un hueso con el otro.",
+     "epigrafe": "Ilustración elaborada para esta clase. Las formas están simplificadas.",
+     "src_movil": "img/clases/bio-4-05-articulacion-movil.svg",
+     "animacion": "svg",
+     "_imagen": true
+    },
+    {
+     "t": "texto",
+     "titulo": "Cómo es una articulación móvil",
+     "texto": "En una articulación móvil, los extremos de los huesos están cubiertos por **cartílago**, un tejido liso y algo elástico que evita que hueso roce contra hueso. Entre ellos hay una cavidad con **líquido sinovial**, que lubrica como el aceite en una bisagra. Una **envoltura** fibrosa cierra la articulación, y los **ligamentos**, unas bandas muy resistentes, unen un hueso con el otro."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🗣️ ¿Quién lo diría?",
+     "pregunta": "Esta frase es inventada: \"Yo no soy hueso, pero los cubro en las puntas para que se deslicen sin rozarse\". ¿Qué parte de la articulación podría decirla?",
+     "opciones": [
+      "El ligamento",
+      "El cartílago",
+      "La médula ósea",
+      "El líquido sinovial"
+     ],
+     "correcta": 1,
+     "explicacion": "El cartílago cubre los extremos de los huesos en las articulaciones móviles. El líquido sinovial lubrica, pero no cubre los huesos.",
+     "pista": "Releé el texto Cómo es una articulación móvil: cada parte tiene una tarea distinta."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cómo es cada articulación según su movimiento?",
+     "categorias": [
+      "Inmóvil",
+      "Semimóvil",
+      "Móvil"
+     ],
+     "items": [
+      {
+       "texto": "Entre los huesos del cráneo",
+       "cat": "Inmóvil"
+      },
+      {
+       "texto": "Entre dos vértebras",
+       "cat": "Semimóvil"
+      },
+      {
+       "texto": "La rodilla",
+       "cat": "Móvil"
+      },
+      {
+       "texto": "El hombro",
+       "cat": "Móvil"
+      },
+      {
+       "texto": "El codo",
+       "cat": "Móvil"
+      }
+     ],
+     "explicacion": "El cráneo protege el encéfalo y no se mueve; las vértebras se mueven un poco cada una; la rodilla, el hombro y el codo permiten mucho movimiento.",
+     "pista": "Pensá en tu propio cuerpo: ¿esa parte se dobla mucho, un poco o nada?"
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "El **esqueleto** sostiene, protege, guarda calcio y fósforo y fabrica células de la sangre en la **médula ósea roja**. El hueso tiene **colágeno** (flexibilidad) y **sales de calcio y fósforo** (dureza). Según su forma, los huesos son **largos**, **cortos** o **planos**. Las **articulaciones** pueden ser inmóviles, semimóviles o móviles; en las móviles hay **cartílago**, **líquido sinovial**, una envoltura y **ligamentos**."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Volvé a la pregunta del comienzo: un bebé tiene más de 270 huesos y una persona adulta, 206. ¿Qué pasa con los que \"faltan\"?",
+     "respuesta": "No se pierden: varios huesos que en el bebé están separados se unen entre sí a medida que crece. Por ejemplo, los huesos del cráneo del bebé están separados por zonas blandas que, con los años, se cierran y forman articulaciones inmóviles."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué funciones cumple el esqueleto, de qué está hecho un hueso y cómo se clasifican los huesos y las articulaciones. Describí las partes de una articulación móvil.",
+    "guia": [
+     "¿Qué funciones cumplen los huesos, además de sostener?",
+     "¿Qué aporta el colágeno y qué aportan las sales de calcio y fósforo?",
+     "¿En qué se diferencian el hueso compacto y el esponjoso?",
+     "¿Cómo se clasifican los huesos por su forma? Dá un ejemplo de cada uno.",
+     "¿Qué tipos de articulaciones hay y qué partes tiene una articulación móvil?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "En la médula ósea roja se fabrican células de la sangre.",
+     "respuesta": true,
+     "explicacion": "Glóbulos rojos, glóbulos blancos y plaquetas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El hueso es un tejido sin vida, como una piedra.",
+     "respuesta": false,
+     "explicacion": "Es un tejido vivo: tiene células, vasos sanguíneos y nervios."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El colágeno le da dureza al hueso.",
+     "respuesta": false,
+     "explicacion": "Le da flexibilidad. La dureza la dan las sales de calcio y fósforo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las costillas son huesos planos.",
+     "respuesta": true,
+     "explicacion": "Son delgadas y anchas, y protegen el corazón y los pulmones."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los ligamentos unen un hueso con otro.",
+     "respuesta": true,
+     "explicacion": "Son bandas muy resistentes que mantienen unida la articulación."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las uniones entre los huesos del cráneo son articulaciones móviles.",
+     "respuesta": false,
+     "explicacion": "Son inmóviles."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuántos huesos tiene una persona adulta?",
+     "opciones": [
+      "206",
+      "120",
+      "270",
+      "600"
+     ],
+     "correcta": 0,
+     "explicacion": "Al nacer hay más, pero varios se unen con el crecimiento."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué parte de la articulación lubrica, como el aceite en una bisagra?",
+     "opciones": [
+      "El cartílago que cubre los huesos",
+      "El ligamento",
+      "El líquido sinovial",
+      "La envoltura fibrosa"
+     ],
+     "correcta": 2,
+     "explicacion": "Está en la cavidad entre los dos huesos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tipo de hueso es el fémur?",
+     "opciones": [
+      "Corto",
+      "Largo",
+      "Plano",
+      "Ninguno"
+     ],
+     "correcta": 1,
+     "explicacion": "Es más largo que ancho y tiene médula en el centro."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué minerales guardan los huesos?",
+     "opciones": [
+      "Calcio y fósforo",
+      "Hierro y yodo",
+      "Sodio y cloro",
+      "Carbono y oxígeno"
+     ],
+     "correcta": 0,
+     "explicacion": "Les dan dureza y el cuerpo los puede usar cuando los necesita."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué articulación es semimóvil?",
+     "opciones": [
+      "La rodilla",
+      "La unión entre dos vértebras",
+      "La unión entre huesos del cráneo",
+      "El hombro"
+     ],
+     "correcta": 1,
+     "explicacion": "Cada vértebra se mueve un poco respecto de la otra."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tipo de hueso tiene una trama con muchos huecos?",
+     "opciones": [
+      "El compacto",
+      "El esponjoso",
+      "El cartílago",
+      "El ligamento"
+     ],
+     "correcta": 1,
+     "explicacion": "Está por dentro y en los extremos de los huesos."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "ESQUELETO",
+     "pista": "Conjunto de todos los huesos."
+    },
+    {
+     "palabra": "COLÁGENO",
+     "pista": "Proteína que le da flexibilidad al hueso."
+    },
+    {
+     "palabra": "CARTÍLAGO",
+     "pista": "Cubre los extremos de los huesos en las articulaciones."
+    },
+    {
+     "palabra": "LIGAMENTO",
+     "pista": "Banda que une un hueso con otro."
+    },
+    {
+     "palabra": "FÉMUR",
+     "pista": "Hueso largo del muslo."
+    },
+    {
+     "palabra": "CRÁNEO",
+     "pista": "Huesos planos que protegen el encéfalo."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué le da dureza al hueso?",
+     "opciones": [
+      "Las sales de calcio y fósforo",
+      "El colágeno",
+      "La médula ósea que está en el centro",
+      "El líquido sinovial"
+     ],
+     "correcta": 0,
+     "explicacion": "El colágeno, en cambio, le da flexibilidad."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El cartílago cubre los extremos de los huesos en una articulación móvil.",
+     "respuesta": true,
+     "explicacion": "Así los huesos se deslizan sin rozarse."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué función del esqueleto cumplen las costillas?",
+     "opciones": [
+      "Proteger el corazón y los pulmones",
+      "Fabricar la orina",
+      "Absorber los nutrientes del intestino",
+      "Mover los ojos"
+     ],
+     "correcta": 0,
+     "explicacion": "Son huesos planos que protegen órganos."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Músculos y movimiento",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "Cuando levantás una botella, doblás el codo. Cuando la volvés a apoyar, lo estirás. Ahora probá algo: apoyá la otra mano sobre la parte de adelante de tu brazo mientras lo doblás. ¿Qué sentís? ¿Y si apoyás la mano atrás?"
+    },
+    {
+     "t": "texto",
+     "titulo": "Tres tipos de tejido muscular",
+     "texto": "Tenés más de 600 músculos. No todos son iguales. Según cómo son sus células y cómo se mueven, hay tres tipos de **tejido muscular**:\n\nEl **esquelético** mueve los huesos. Sus células son largas, con rayas, y se contraen cuando vos lo decidís: es **voluntario**.\n\nEl **liso** está en las paredes de órganos como el estómago, el intestino y los vasos sanguíneos. Se contrae sin que lo decidas: es **involuntario**. Las contracciones que empujan el alimento por el tubo digestivo, que viste en la clase 3, son obra de este músculo.\n\nEl **cardíaco** forma el corazón. Tiene rayas, como el esquelético, pero es involuntario: late toda la vida sin que se lo ordenes."
+    },
+    {
+     "t": "imagen",
+     "titulo": "Los tres tipos de tejido muscular, con aumento",
+     "src": "img/clases/bio-4-05-musculos.svg",
+     "tipo": "grafico",
+     "alt": "Ilustración de los tres tipos de tejido muscular vistos con aumento. El esquelético tiene fibras largas con rayas: se mueve por voluntad. El liso tiene células alargadas con forma de huso, sin rayas: está en las paredes de órganos como el estómago y no se mueve por voluntad. El cardíaco tiene fibras con rayas que se ramifican: forma el corazón y tampoco se mueve por voluntad.",
+     "epigrafe": "Ilustración elaborada para esta clase, como se vería con un microscopio. Las proporciones están simplificadas.",
+     "src_movil": "img/clases/bio-4-05-musculos-movil.svg",
+     "animacion": "svg",
+     "_imagen": true
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada tipo de tejido muscular con un lugar donde se encuentra.",
+     "pares": [
+      {
+       "a": "Esquelético",
+       "b": "Los músculos que mueven los huesos"
+      },
+      {
+       "a": "Liso",
+       "b": "La pared del estómago"
+      },
+      {
+       "a": "Cardíaco",
+       "b": "El corazón"
+      }
+     ],
+     "explicacion": "El esquelético mueve los huesos, el liso está en las paredes de los órganos y el cardíaco forma el corazón.",
+     "pista": "Releé el texto Tres tipos de tejido muscular: cada párrafo dice dónde está cada uno."
+    },
+    {
+     "t": "texto",
+     "titulo": "Cómo se contrae un músculo",
+     "texto": "Cada músculo esquelético está formado por miles de **fibras musculares**, células largas y finas. Dentro de ellas hay dos proteínas, la **actina** y la **miosina**, que se deslizan una sobre otra y acortan la fibra. Cuando muchas fibras se acortan a la vez, el músculo se **contrae**.\n\nPara deslizarse, esas proteínas gastan energía del **ATP**, la \"pila recargable\" de la clase 1. Por eso, cuando hacés ejercicio, tus músculos usan más glucosa y más oxígeno.\n\nLos músculos esqueléticos se unen a los huesos por medio de los **tendones**, unos cordones muy resistentes. Cuando el músculo se contrae, tira del tendón y el tendón tira del hueso."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🔍 Encontrá el error",
+     "pregunta": "Una de estas frases sobre los músculos tiene un error. ¿Cuál?",
+     "opciones": [
+      "Los tendones unen los músculos con los huesos.",
+      "La actina y la miosina se deslizan y acortan la fibra.",
+      "El músculo cardíaco se contrae cuando vos lo decidís.",
+      "Para contraerse, el músculo gasta energía del ATP."
+     ],
+     "correcta": 2,
+     "explicacion": "El músculo cardíaco es involuntario: el corazón late sin que se lo ordenes.",
+     "pista": "Releé el texto Tres tipos de tejido muscular: fijate cuáles son voluntarios."
+    },
+    {
+     "t": "texto",
+     "titulo": "Los músculos tiran, pero no empujan",
+     "texto": "Un músculo solo puede hacer fuerza cuando se contrae, y al contraerse tira. No puede empujar. Por eso los músculos trabajan **en pares**: mientras uno se contrae, el otro se relaja. A esos pares se los llama **músculos antagonistas**."
+    },
+    {
+     "t": "brazo",
+     "imagenes": {
+      "sup": "img/clases/bio-4-05-brazo-sup.webp",
+      "ante": "img/clases/bio-4-05-antebrazo.webp",
+      "bic": "img/clases/bio-4-05-biceps.webp",
+      "tri": "img/clases/bio-4-05-triceps.webp"
+     },
+     "fuente": "Ilustración elaborada para esta clase.",
+     "consigna": "Fijate en el brazo del dibujo: adelante del hueso está el **bíceps** y atrás, el **tríceps**.",
+     "prediccion": {
+      "pregunta": "Cuando doblás el codo, ¿qué creés que pasa con los dos músculos?",
+      "opciones": [
+       "Los dos se contraen",
+       "El bíceps se contrae y el tríceps se relaja",
+       "El tríceps se contrae y el bíceps se relaja",
+       "Ninguno cambia"
+      ],
+      "correcta": 1
+     },
+     "estados": {
+      "doblado": "Con el codo doblado, el **bíceps** está contraído (más corto y grueso) y el **tríceps**, relajado.",
+      "extendido": "Con el brazo estirado, el **tríceps** está contraído y el **bíceps**, relajado."
+     },
+     "explicacion": "El bíceps y el tríceps son antagonistas. Para doblar el codo, el bíceps se contrae y tira del antebrazo hacia arriba mientras el tríceps se relaja. Para estirarlo, pasa al revés. Como un músculo solo puede tirar, hace falta otro para volver a la posición inicial."
+    },
+    {
+     "t": "texto",
+     "titulo": "Movimiento y locomoción",
+     "texto": "Para que haya **movimiento** hacen falta las tres partes del sistema: el músculo que se contrae, el hueso que funciona como una barra y la articulación, que es el punto donde se dobla. Y falta una cuarta: la orden que da el **sistema nervioso**, que vas a ver en la clase 6.\n\nLa **locomoción** es un tipo especial de movimiento: el que sirve para trasladar todo el cuerpo de un lugar a otro, como caminar, correr, nadar o saltar."
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/bio-4-05-movimiento.webp",
+     "tipo": "ilustracion",
+     "animacion": "subir",
+     "alt": "Ilustración de tres estudiantes jugando a la pelota en el patio de la escuela. En el centro, uno salta para cabecear, con los codos y las rodillas doblados; a los costados, dos compañeros corren hacia la pelota.",
+     "epigrafe": "Ilustración elaborada para esta clase.",
+     "_imagen": true
+    },
+    {
+     "t": "texto",
+     "titulo": "Para cuidar huesos, músculos y articulaciones",
+     "texto": "La **actividad física** regular fortalece los músculos y los huesos. Los alimentos con **calcio**, como la leche y sus derivados, ayudan a mantener los huesos duros. También importa la **postura**: por ejemplo, llevar la mochila con las dos tiras y no colgada de un solo hombro reparte la carga de forma pareja. Hay hábitos cuyo efecto depende de cómo se hagan: hacer ejercicio con pesas puede fortalecer o lastimar, según la carga y la técnica."
+    },
+    {
+     "t": "clasificar",
+     "estilo": "semaforo",
+     "consigna": "Ubicá cada hábito en el semáforo: ¿cuida los huesos, los músculos y las articulaciones?",
+     "categorias": [
+      "Seguro que sí",
+      "Depende",
+      "Seguro que no"
+     ],
+     "items": [
+      {
+       "texto": "Hacer actividad física varias veces por semana",
+       "cat": "Seguro que sí"
+      },
+      {
+       "texto": "Comer alimentos con calcio",
+       "cat": "Seguro que sí"
+      },
+      {
+       "texto": "Hacer ejercicio con pesas",
+       "cat": "Depende"
+      },
+      {
+       "texto": "Llevar la mochila siempre colgada de un solo hombro",
+       "cat": "Seguro que no"
+      },
+      {
+       "texto": "Pasar el día entero sentado sin moverse",
+       "cat": "Seguro que no"
+      }
+     ],
+     "explicacion": "La actividad física y el calcio cuidan el sistema. Las pesas pueden fortalecer o lastimar según la carga y la técnica. Llevar toda la carga de un solo lado y no moverse en todo el día no lo cuidan.",
+     "pista": "Releé el texto Para cuidar huesos, músculos y articulaciones: ahí aparece qué hábito \"depende\"."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Hay tres tipos de tejido muscular: **esquelético** (voluntario), **liso** y **cardíaco** (involuntarios). La **contracción** ocurre cuando la **actina** y la **miosina** se deslizan y acortan las fibras, gastando ATP. Los **tendones** unen músculo y hueso. Los músculos solo tiran, por eso trabajan en pares **antagonistas**, como el bíceps y el tríceps. La **locomoción** es el movimiento que traslada todo el cuerpo."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué después de correr mucho respirás rápido aunque ya estés quieto? Usá lo que viste sobre el ATP y la respiración celular.",
+     "respuesta": "Tus músculos gastaron mucho ATP y lo recargan con la respiración celular, que necesita oxígeno. Por un rato siguen pidiendo más oxígeno y produciendo dióxido de carbono, y por eso respirás rápido hasta que todo vuelve a lo normal."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá cómo se contrae un músculo esquelético y por qué los músculos trabajan en pares. Usá el ejemplo del bíceps y el tríceps, y nombrá los tres tipos de tejido muscular.",
+    "guia": [
+     "¿Qué diferencia hay entre el tejido muscular esquelético, el liso y el cardíaco?",
+     "¿Qué pasa con la actina y la miosina cuando el músculo se contrae?",
+     "¿Para qué sirven los tendones?",
+     "¿Por qué decimos que los músculos solo tiran?",
+     "¿Qué hacen el bíceps y el tríceps al doblar y al estirar el codo?",
+     "¿Qué diferencia hay entre movimiento y locomoción?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El músculo cardíaco es voluntario.",
+     "respuesta": false,
+     "explicacion": "Es involuntario: el corazón late sin que se lo ordenes."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los tendones unen los músculos con los huesos.",
+     "respuesta": true,
+     "explicacion": "Cuando el músculo se contrae, tira del tendón y este del hueso."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un músculo puede empujar un hueso.",
+     "respuesta": false,
+     "explicacion": "Solo puede tirar. Por eso los músculos trabajan en pares."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Para doblar el codo, el bíceps se contrae.",
+     "respuesta": true,
+     "explicacion": "Mientras tanto, el tríceps se relaja."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El músculo liso está en las paredes del estómago y de los vasos sanguíneos.",
+     "respuesta": true,
+     "explicacion": "Se contrae sin que lo decidas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Para contraerse, el músculo gasta energía del ATP.",
+     "respuesta": true,
+     "explicacion": "La actina y la miosina la usan para deslizarse."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué proteínas se deslizan para contraer el músculo?",
+     "opciones": [
+      "Actina y miosina",
+      "Colágeno y queratina",
+      "Hemoglobina e insulina",
+      "Gluten y caseína"
+     ],
+     "correcta": 0,
+     "explicacion": "Al deslizarse, acortan la fibra muscular."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tipo de músculo empuja el alimento por el tubo digestivo?",
+     "opciones": [
+      "El esquelético",
+      "El liso",
+      "El cardíaco",
+      "Los tendones"
+     ],
+     "correcta": 1,
+     "explicacion": "Es involuntario y está en las paredes de los órganos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo se llaman los músculos que trabajan en pares opuestos?",
+     "opciones": [
+      "Antagonistas",
+      "Lisos",
+      "Voluntarios",
+      "Músculos cardíacos"
+     ],
+     "correcta": 0,
+     "explicacion": "Uno se contrae mientras el otro se relaja."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué músculo se contrae para estirar el codo?",
+     "opciones": [
+      "El bíceps",
+      "El tríceps",
+      "El corazón",
+      "El diafragma"
+     ],
+     "correcta": 1,
+     "explicacion": "El tríceps está en la parte de atrás del brazo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la locomoción?",
+     "opciones": [
+      "Trasladar todo el cuerpo",
+      "Mover solo un dedo de la mano",
+      "La contracción del corazón",
+      "El crecimiento de los huesos"
+     ],
+     "correcta": 0,
+     "explicacion": "Caminar, correr o nadar son ejemplos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tipo de tejido muscular tiene células con forma de huso y sin rayas?",
+     "opciones": [
+      "El esquelético",
+      "El cardíaco",
+      "El liso",
+      "Ninguno"
+     ],
+     "correcta": 2,
+     "explicacion": "Es el que está en las paredes de los órganos."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "TENDÓN",
+     "pista": "Une el músculo con el hueso."
+    },
+    {
+     "palabra": "BÍCEPS",
+     "pista": "Músculo de adelante del brazo que dobla el codo."
+    },
+    {
+     "palabra": "TRÍCEPS",
+     "pista": "Músculo de atrás del brazo que estira el codo."
+    },
+    {
+     "palabra": "MIOSINA",
+     "pista": "Proteína que, junto con la actina, contrae el músculo."
+    },
+    {
+     "palabra": "ANTAGONISTAS",
+     "pista": "Músculos que trabajan en pares opuestos."
+    },
+    {
+     "palabra": "LOCOMOCIÓN",
+     "pista": "Movimiento que traslada todo el cuerpo."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué los músculos trabajan en pares?",
+     "opciones": [
+      "Porque solo pueden tirar, no empujar",
+      "Porque cada uno se cansa muy rápido si trabaja solo",
+      "Porque son involuntarios",
+      "Porque no tienen tendones"
+     ],
+     "correcta": 0,
+     "explicacion": "Uno tira hacia un lado y el otro, hacia el contrario."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El tejido muscular esquelético se contrae cuando vos lo decidís.",
+     "respuesta": true,
+     "explicacion": "Es voluntario."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tres partes del sistema intervienen en cada movimiento?",
+     "opciones": [
+      "Músculo, hueso y articulación",
+      "Corazón, pulmón y riñón",
+      "Cartílago, uña y pelo",
+      "Estómago, hígado y páncreas juntos"
+     ],
+     "correcta": 0,
+     "explicacion": "Y además hace falta la orden del sistema nervioso."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Comparar esqueletos",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "Un ave vuela, una ballena nada, un perro camina y vos escribís con la mano. Parecen cuatro extremidades sin nada en común. Pero si pudieras ver sus huesos, te llevarías una sorpresa."
+    },
+    {
+     "t": "texto",
+     "titulo": "No todos los esqueletos están adentro",
+     "texto": "Los animales sostienen su cuerpo de distintas maneras:\n\nLos **vertebrados**, como los peces, las aves y las personas, tienen un **endoesqueleto**: un esqueleto interno de huesos que crece junto con el animal.\n\nLos **artrópodos**, como los insectos, las arañas y los cangrejos, tienen un **exoesqueleto**: una cubierta externa dura, hecha de una sustancia llamada **quitina**. Como no crece, el animal tiene que cambiarla por una nueva cada tanto: es la **muda**.\n\nOtros, como la lombriz de tierra, tienen un **esqueleto hidrostático**: un líquido a presión dentro del cuerpo, sobre el que hacen fuerza los músculos."
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/bio-4-05-esqueletos.webp",
+     "tipo": "ilustracion",
+     "animacion": "alejar",
+     "alt": "Ilustración de tres animales uno al lado del otro: una hormiga, con un detalle de su cubierta externa dura; una lombriz de tierra, con un detalle de su cuerpo con flechas que empujan hacia afuera; y un gato, con un detalle de su columna y sus costillas.",
+     "epigrafe": "Ilustración elaborada para esta clase.",
+     "_imagen": true
+    },
+    {
+     "t": "comparar",
+     "titulo": "Tres maneras de sostener el cuerpo",
+     "columnas": [
+      "",
+      "Endoesqueleto",
+      "Exoesqueleto",
+      "Esqueleto hidrostático"
+     ],
+     "filas": [
+      [
+       "Dónde está",
+       "Adentro del cuerpo",
+       "Afuera, cubriendo el cuerpo",
+       "Adentro: es un líquido a presión"
+      ],
+      [
+       "De qué está hecho",
+       "Huesos (y cartílago)",
+       "Quitina",
+       "Líquido rodeado de músculos"
+      ],
+      [
+       "Un ejemplo",
+       "Persona, gato, paloma",
+       "Hormiga, araña, cangrejo",
+       "Lombriz de tierra"
+      ],
+      [
+       "¿Crece con el animal?",
+       "Sí",
+       "No: el animal muda",
+       "Sí"
+      ]
+     ]
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Completá el dato",
+     "consigna": "¿Cómo se llama el proceso en el que un insecto cambia su exoesqueleto por uno nuevo y más grande?",
+     "respuesta": "muda",
+     "acepta": [
+      "muda",
+      "la muda",
+      "mudar"
+     ],
+     "formato": "Escribí una sola palabra.",
+     "explicacion": "Como el exoesqueleto de quitina no crece, el animal lo deja y forma uno nuevo.",
+     "pista1": "Pensá en qué le pasa a un animal cuyo esqueleto externo no puede crecer.",
+     "relee": "Releé el texto No todos los esqueletos están adentro."
+    },
+    {
+     "t": "texto",
+     "titulo": "Los mismos huesos, distintas funciones",
+     "texto": "Volvamos al ave, la ballena, el perro y tu brazo. Los cuatro tienen, en la extremidad de adelante, los mismos huesos: un **húmero**, un **radio** y un **cúbito**, y los huesos de la mano. Lo que cambia es la forma y el tamaño, según para qué se usa la extremidad."
+    },
+    {
+     "t": "imagen",
+     "titulo": "Cuatro extremidades, los mismos huesos",
+     "src": "img/clases/bio-4-05-homologos.svg",
+     "tipo": "grafico",
+     "alt": "Ilustración de los huesos de la extremidad de adelante de cuatro vertebrados: una persona, un perro, un ave y una ballena. En los cuatro, los huesos equivalentes tienen el mismo color: el húmero, el radio y el cúbito, los huesos de la muñeca y los de la mano. Cambian la forma y el tamaño: en el ave los huesos de la mano son pocos y largos, y en la ballena son anchos y forman la aleta.",
+     "epigrafe": "Ilustración: Vladlen666, traducción de Angelito7, CC0, vía Wikimedia Commons. Adaptada para esta clase. Las extremidades no están a la misma escala.",
+     "src_movil": "img/clases/bio-4-05-homologos-movil.svg",
+     "animacion": "svg",
+     "_imagen": true
+    },
+    {
+     "t": "texto",
+     "titulo": "Adaptaciones y parentesco",
+     "texto": "Cada una de esas extremidades es una **adaptación**: una característica que le sirve al animal para vivir en su ambiente. En el ave, la mano tiene pocos huesos, largos y en parte soldados entre sí, que sostienen las plumas del ala. En la ballena, los huesos de la mano quedan dentro de una aleta para nadar.\n\nA las estructuras que tienen la misma organización de huesos, aunque cumplan funciones distintas, se las llama **estructuras homólogas**. Que estos animales las compartan es una de las pruebas de que tienen un **antepasado común**: una **conexión evolutiva**.\n\nNo hay que confundirlas con las **estructuras análogas**, que cumplen la misma función pero tienen un origen distinto: el ala de una mariposa y el ala de un ave sirven para volar, pero la de la mariposa no tiene huesos."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "📰 Elegí el titular",
+     "pregunta": "Un diario escolar quiere contar lo que muestran las extremidades del ave, la ballena, el perro y la persona. ¿Qué titular es correcto?",
+     "opciones": [
+      "Cuatro animales, los mismos huesos",
+      "El ave y la mariposa tienen las mismas alas",
+      "La ballena perdió los huesos de la mano al adaptarse al agua",
+      "Cada animal tiene huesos completamente distintos"
+     ],
+     "correcta": 0,
+     "explicacion": "Las cuatro extremidades son homólogas: comparten la organización de huesos, lo que indica un antepasado común. La ballena conserva los huesos de la mano dentro de la aleta.",
+     "pista": "Mirá el dibujo de las cuatro extremidades: fijate los colores."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los huesos de la extremidad de adelante, desde el hombro hasta la punta de los dedos.",
+     "items": [
+      "Húmero",
+      "Radio y cúbito",
+      "Huesos de la muñeca",
+      "Huesos de los dedos"
+     ],
+     "explicacion": "Es el mismo orden en la persona, el perro, el ave y la ballena.",
+     "pista": "Mirá el dibujo: los colores van del hombro a la punta."
+    },
+    {
+     "t": "vf",
+     "consigna": "Leé cada afirmación y marcá si es verdadera o falsa.",
+     "afirmaciones": [
+      {
+       "texto": "Un cangrejo tiene endoesqueleto.",
+       "v": false,
+       "explicacion": "Es un artrópodo: tiene exoesqueleto de quitina."
+      },
+      {
+       "texto": "En la aleta de la ballena están los huesos de la mano.",
+       "v": true,
+       "explicacion": "Quedan dentro de la aleta: es una estructura homóloga al brazo."
+      },
+      {
+       "texto": "Las estructuras análogas tienen la misma organización de huesos.",
+       "v": false,
+       "explicacion": "Esas son las homólogas. Las análogas cumplen la misma función con un origen distinto."
+      },
+      {
+       "texto": "El esqueleto hidrostático es un líquido a presión.",
+       "v": true,
+       "explicacion": "Los músculos hacen fuerza sobre ese líquido, como en la lombriz."
+      }
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Los vertebrados tienen **endoesqueleto**; los artrópodos, **exoesqueleto** de **quitina**, que cambian con la **muda**; y animales como la lombriz, **esqueleto hidrostático**. Las **estructuras homólogas** tienen la misma organización de huesos aunque cumplan funciones distintas, y son una prueba de un **antepasado común**. Las **análogas** cumplen la misma función con un origen distinto."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: un pingüino no vuela, pero tiene alas que usa para nadar. ¿Sus alas son homólogas o análogas a las de una paloma?",
+     "respuesta": "Son homólogas: el pingüino y la paloma son aves, y sus alas tienen la misma organización de huesos. Lo que cambió es la función: en el pingüino, el ala es una adaptación para nadar."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Compará el endoesqueleto, el exoesqueleto y el esqueleto hidrostático. Explicá qué son las estructuras homólogas, con el ejemplo de las extremidades, y por qué son una prueba de parentesco entre los seres vivos.",
+    "guia": [
+     "¿Dónde está y de qué está hecho cada tipo de esqueleto?",
+     "¿Por qué los artrópodos tienen que mudar?",
+     "¿Qué huesos comparten la persona, el perro, el ave y la ballena?",
+     "¿Qué es una adaptación? Dá un ejemplo.",
+     "¿Qué diferencia hay entre estructuras homólogas y análogas?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Los insectos tienen un esqueleto interno de huesos.",
+     "respuesta": false,
+     "explicacion": "Tienen un exoesqueleto de quitina."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El ala de un ave y el brazo de una persona tienen los mismos huesos.",
+     "respuesta": true,
+     "explicacion": "Son estructuras homólogas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La lombriz de tierra tiene un esqueleto hidrostático.",
+     "respuesta": true,
+     "explicacion": "Un líquido a presión sobre el que hacen fuerza los músculos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El ala de una mariposa y la de un ave son estructuras homólogas.",
+     "respuesta": false,
+     "explicacion": "Son análogas: misma función, distinto origen."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El endoesqueleto crece junto con el animal.",
+     "respuesta": true,
+     "explicacion": "Por eso los vertebrados no necesitan mudar."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La aleta de la ballena no tiene huesos.",
+     "respuesta": false,
+     "explicacion": "Tiene húmero, radio, cúbito y los huesos de la mano."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿De qué está hecho el exoesqueleto de los artrópodos?",
+     "opciones": [
+      "Quitina",
+      "Calcio puro",
+      "Cartílago",
+      "Colágeno"
+     ],
+     "correcta": 0,
+     "explicacion": "Es una cubierta externa y dura."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué indican las estructuras homólogas?",
+     "opciones": [
+      "Un antepasado común",
+      "Que los animales viven en el mismo lugar",
+      "Que tienen la misma función",
+      "Que son del mismo tamaño"
+     ],
+     "correcta": 0,
+     "explicacion": "Comparten la organización porque la heredaron."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos animales tiene endoesqueleto?",
+     "opciones": [
+      "La araña",
+      "La hormiga",
+      "La paloma",
+      "La lombriz"
+     ],
+     "correcta": 2,
+     "explicacion": "Es un vertebrado."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es una adaptación?",
+     "opciones": [
+      "Una característica útil en su ambiente",
+      "Una enfermedad que afecta a los huesos",
+      "Un tipo de músculo",
+      "Un hueso de la mano"
+     ],
+     "correcta": 0,
+     "explicacion": "Por ejemplo, la aleta de la ballena para nadar."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hueso está más cerca del hombro?",
+     "opciones": [
+      "El húmero",
+      "El radio",
+      "El cúbito",
+      "Los de la muñeca"
+     ],
+     "correcta": 0,
+     "explicacion": "Después vienen el radio y el cúbito."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué un cangrejo necesita mudar?",
+     "opciones": [
+      "Porque su exoesqueleto no crece",
+      "Porque pierde los huesos",
+      "Porque cambia de color",
+      "Porque se le rompe el cartílago"
+     ],
+     "correcta": 0,
+     "explicacion": "Lo deja y forma uno nuevo, más grande."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "QUITINA",
+     "pista": "Sustancia del exoesqueleto de los artrópodos."
+    },
+    {
+     "palabra": "MUDA",
+     "pista": "Cambio del exoesqueleto por uno nuevo."
+    },
+    {
+     "palabra": "HOMÓLOGAS",
+     "pista": "Estructuras con la misma organización y distinta función."
+    },
+    {
+     "palabra": "HÚMERO",
+     "pista": "Hueso del brazo, cerca del hombro."
+    },
+    {
+     "palabra": "ADAPTACIÓN",
+     "pista": "Característica que le sirve al ser vivo en su ambiente."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tipo de esqueleto tiene una hormiga?",
+     "opciones": [
+      "Exoesqueleto",
+      "Endoesqueleto",
+      "Hidrostático",
+      "No tiene"
+     ],
+     "correcta": 0,
+     "explicacion": "Es un artrópodo: tiene una cubierta externa de quitina."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las extremidades de la persona, el perro, el ave y la ballena son estructuras homólogas.",
+     "respuesta": true,
+     "explicacion": "Tienen la misma organización de huesos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "El ala de una mariposa y la de un ave son…",
+     "opciones": [
+      "Estructuras análogas",
+      "Estructuras homólogas",
+      "Endoesqueletos",
+      "Músculos antagonistas"
+     ],
+     "correcta": 0,
+     "explicacion": "Cumplen la misma función, pero tienen distinto origen."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Esqueleto",
+   "definicion": "Conjunto de los huesos. Sostiene, protege, guarda calcio y fósforo y fabrica células de la sangre."
+  },
+  {
+   "palabra": "Articulación",
+   "definicion": "Lugar donde se unen dos huesos o más. Puede ser inmóvil, semimóvil o móvil."
+  },
+  {
+   "palabra": "Cartílago",
+   "definicion": "Tejido liso que cubre los extremos de los huesos en las articulaciones móviles."
+  },
+  {
+   "palabra": "Tendón",
+   "definicion": "Cordón resistente que une un músculo con un hueso."
+  },
+  {
+   "palabra": "Músculos antagonistas",
+   "definicion": "Pares de músculos que trabajan opuestos: uno se contrae mientras el otro se relaja."
+  },
+  {
+   "palabra": "Exoesqueleto",
+   "definicion": "Esqueleto externo de quitina de los artrópodos. No crece: el animal muda."
+  },
+  {
+   "palabra": "Estructuras homólogas",
+   "definicion": "Estructuras con la misma organización de huesos y funciones distintas; prueban un antepasado común."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Los huesos son materiales sin vida.",
+   "aclaracion": "Son tejido vivo: tienen células, vasos sanguíneos y nervios, y en su médula se fabrican células de la sangre."
+  },
+  {
+   "error": "Un músculo puede empujar el hueso.",
+   "aclaracion": "Los músculos solo tiran al contraerse. Por eso trabajan en pares antagonistas."
+  },
+  {
+   "error": "El ala de un ave y la de una mariposa son estructuras homólogas.",
+   "aclaracion": "Son análogas: cumplen la misma función, pero tienen distinto origen. La de la mariposa no tiene huesos."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Para doblar el codo, el bíceps se contrae. Pero ¿quién le avisa que tiene que contraerse, y cómo le llega ese aviso?",
+  "conexion": "Con la clase 6, sobre el sistema nervioso."
+ }
+}

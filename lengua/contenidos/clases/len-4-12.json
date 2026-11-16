@@ -1,0 +1,1151 @@
+{
+ "id": "len-4-12",
+ "espacio": "lengua",
+ "eje": "Lectura y escritura de textos literarios",
+ "titulo": "El policial y el pensamiento científico",
+ "intro": "El relato policial es un desafío: hay un enigma y alguien tiene que resolverlo razonando. En esta clase vas a conocer las reglas del policial clásico, el método del detective, que se parece mucho al pensamiento científico, y cómo Borges y otros autores argentinos jugaron con el género. Si con tu docente leyeron otro policial, todo lo que aprendas acá te sirve para analizarlo.",
+ "objetivos": [
+  "Reconocer los elementos y la estructura del relato policial clásico.",
+  "Explicar el método del detective y su relación con el pensamiento científico.",
+  "Reconocer cómo Borges y otros autores argentinos transforman las reglas del policial."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés los elementos del policial, el análisis del relato policial que trabajaste con el método del detective y lo que cambian los autores argentinos.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "El género policial y sus reglas",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Un relato para resolver",
+     "texto": "El **relato policial** gira alrededor de un **enigma**, casi siempre un delito: un robo, una desaparición, un crimen. Alguien tiene que descubrir **qué pasó, cómo y quién lo hizo**. Quien investiga es el **detective**, que no resuelve el caso por suerte ni por fuerza, sino **razonando** a partir de las pistas.\n\nEl género nació en 1841, cuando el escritor estadounidense **Edgar Allan Poe** publicó \"Los crímenes de la calle Morgue\", con un detective llamado **Dupin**."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Los elementos del policial clásico",
+     "columnas": [
+      "Elemento",
+      "Qué es"
+     ],
+     "filas": [
+      [
+       "Enigma",
+       "El misterio que hay que resolver"
+      ],
+      [
+       "Detective",
+       "Quien investiga y razona"
+      ],
+      [
+       "Ayudante",
+       "Acompaña al detective y muchas veces cuenta la historia"
+      ],
+      [
+       "Sospechosos",
+       "Personajes que podrían ser culpables"
+      ],
+      [
+       "Pistas o indicios",
+       "Detalles que permiten llegar a la verdad"
+      ],
+      [
+       "Resolución",
+       "Al final, el detective explica cómo llegó a la verdad"
+      ]
+     ]
+    },
+    {
+     "t": "pasos",
+     "titulo": "La estructura del relato policial",
+     "pasos": [
+      {
+       "titulo": "El enigma",
+       "texto": "Aparece el delito o el misterio."
+      },
+      {
+       "titulo": "La investigación",
+       "texto": "El detective observa, reúne pistas e interroga."
+      },
+      {
+       "titulo": "La resolución",
+       "texto": "El detective explica el caso y descubre al culpable."
+      }
+     ]
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Un caso para practicar: \"El caso de la llave de torque\"",
+     "texto": "El lunes a la mañana, en el taller de la escuela, faltaba la llave de torque nueva. El viernes a la tarde la había usado el grupo de Lucía, que la guardó en el armario. Esa tarde, el único otro grupo que entró fue el de Martín, que estuvo lijando madera. El lunes, el armario estaba cerrado con llave, pero en el piso, delante de la puerta, había un poco de **aserrín**. Y en el estante vacío quedó la marca de una mano con **pintura azul**, el color que estaba usando **el grupo de Lucía** para su proyecto."
+    },
+    {
+     "t": "observar",
+     "_imagen": true,
+     "etiqueta": "🔎 Mirá como detective",
+     "consigna": "Entraste al taller el lunes y abriste el armario. Buscá las pistas.",
+     "imagen": {
+      "src": "img/clases/len-4-12-taller.svg",
+      "tipo": "grafico",
+      "alt": "El armario del taller, con las puertas abiertas. En un estante vacío se ve la forma punteada de una herramienta que falta y la marca de una mano de pintura azul. En el piso, delante del armario, hay aserrín. A la derecha, sobre un banco, latas de pintura azul.",
+      "epigrafe": "El armario del taller, el lunes a la mañana. Ilustración elaborada para esta clase."
+     },
+     "preguntas": [
+      {
+       "pregunta": "¿Qué pista hay en el piso, delante del armario?",
+       "opciones": [
+        "Aserrín",
+        "Pintura azul",
+        "Una llave",
+        "Agua"
+       ],
+       "correcta": 0,
+       "explicacion": "El aserrín hace pensar en el grupo que lijó madera.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      },
+      {
+       "pregunta": "¿Qué pista hay en el estante vacío?",
+       "opciones": [
+        "Una mano con pintura azul",
+        "Aserrín del taller",
+        "Una nota firmada",
+        "Una llave rota"
+       ],
+       "correcta": 0,
+       "explicacion": "La marca está justo donde estaba la llave.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      },
+      {
+       "pregunta": "¿A qué grupo apunta la marca azul?",
+       "opciones": [
+        "Al grupo de Lucía",
+        "Al grupo de Martín",
+        "A nadie",
+        "A los docentes"
+       ],
+       "correcta": 0,
+       "explicacion": "El grupo de Lucía estaba usando pintura azul.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá como detective: ¿a qué conclusión podés llegar con las pistas del caso?",
+     "respuesta": "Hay dos pistas, y cada una apunta a un grupo distinto. El **aserrín** hace pensar en el grupo de Martín, que estuvo lijando madera. Pero la **pintura azul** apunta al grupo de Lucía, que fue el último que usó la llave. Un buen detective no se queda con la primera pista: la marca de pintura azul en el estante vacío es la más directa, porque está justo donde estaba la llave. Antes de concluir, habría que comprobar si alguien del grupo de Lucía se la llevó, por ejemplo para terminar su proyecto. Y el aserrín puede haber llegado con cualquiera que pasó por el taller."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Cómo resuelve el caso un detective del policial clásico?",
+     "opciones": [
+      "Razonando con las pistas",
+      "Por pura suerte",
+      "Usando la fuerza",
+      "Esperando una confesión"
+     ],
+     "correcta": 0,
+     "explicacion": "El razonamiento es lo central del género.",
+     "pista": "Releé el primer texto de esta parte."
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Cómo se llama el detective creado por Edgar Allan Poe?",
+     "respuesta": "Dupin",
+     "explicacion": "Apareció en \"Los crímenes de la calle Morgue\" (1841).",
+     "pista": "Está en el primer texto de esta parte.",
+     "formato": "Escribí solo el apellido.",
+     "acepta": [
+      "dupin",
+      "auguste dupin"
+     ]
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "El relato policial gira alrededor de un [[enigma]]. El [[detective]] lo resuelve razonando a partir de las [[pistas]]. El género nació en 1841 con un relato de Edgar Allan [[Poe]].",
+     "distractores": [
+      "poema",
+      "ladrón",
+      "Homero"
+     ],
+     "explicacion": "Estos son los elementos básicos del policial.",
+     "pista": "Todas las palabras están en los textos de esta parte.",
+     "_nuevo": true
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es el relato policial y cuáles son sus elementos y su estructura. Hacelo con el relato policial que trabajaste con tu docente. Si no te indicaron ninguno, usá \"El caso de la llave de torque\", el ejemplo de esta clase. Identificá en el relato el enigma, el detective, los sospechosos y las pistas.",
+    "guia": [
+     "¿Qué es un enigma?",
+     "¿Quién investiga y cómo lo hace?",
+     "¿Cuáles son las tres partes de la estructura del policial?",
+     "¿Qué pistas aparecen en el relato que elegiste y a qué conclusiones llevan?",
+     "¿Quiénes son los sospechosos?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El relato policial gira alrededor de un enigma.",
+     "respuesta": true,
+     "explicacion": "Casi siempre un delito."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el policial clásico, el detective resuelve el caso por suerte.",
+     "respuesta": false,
+     "explicacion": "Lo resuelve razonando a partir de las pistas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Edgar Allan Poe publicó en 1841 uno de los primeros relatos policiales.",
+     "respuesta": true,
+     "explicacion": "\"Los crímenes de la calle Morgue\"."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el policial clásico, al final el detective explica cómo llegó a la verdad.",
+     "respuesta": true,
+     "explicacion": "Es la resolución."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un buen detective se queda con la primera pista que encuentra.",
+     "respuesta": false,
+     "explicacion": "Analiza todas y comprueba antes de concluir."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El ayudante del detective muchas veces cuenta la historia.",
+     "respuesta": true,
+     "explicacion": "Es un narrador testigo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es la primera parte de la estructura del policial?",
+     "opciones": [
+      "El enigma",
+      "La resolución",
+      "La investigación",
+      "El final feliz"
+     ],
+     "correcta": 0,
+     "explicacion": "Después vienen la investigación y la resolución."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es una pista?",
+     "opciones": [
+      "Un detalle que lleva a la verdad",
+      "El nombre del detective del cuento",
+      "El título del cuento",
+      "Un personaje inocente"
+     ],
+     "correcta": 0,
+     "explicacion": "También se la llama indicio."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿De qué país era Edgar Allan Poe?",
+     "opciones": [
+      "De Estados Unidos",
+      "De la Argentina",
+      "De Inglaterra",
+      "De Grecia"
+     ],
+     "correcta": 0,
+     "explicacion": "Fue el iniciador del género."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En el caso de la llave, ¿qué pista apunta al grupo de Lucía?",
+     "opciones": [
+      "La marca de pintura azul",
+      "El aserrín que quedó en el piso",
+      "La lluvia de esa noche",
+      "Las ventanas cerradas"
+     ],
+     "correcta": 0,
+     "explicacion": "Era el color de su proyecto."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hace el detective en la investigación?",
+     "opciones": [
+      "Observa, reúne pistas e interroga",
+      "Espera a que el culpable confiese",
+      "Adivina sin mirar las pruebas",
+      "Le pregunta solo a la policía"
+     ],
+     "correcta": 0,
+     "explicacion": "Después llega la resolución."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Quiénes son los sospechosos?",
+     "opciones": [
+      "Personajes que podrían ser culpables",
+      "Las personas que leen el cuento policial",
+      "Los autores de cuentos policiales",
+      "Los ayudantes del detective"
+     ],
+     "correcta": 0,
+     "explicacion": "El detective tiene que descubrir cuál lo es."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "ENIGMA",
+     "pista": "Misterio que hay que resolver."
+    },
+    {
+     "palabra": "DETECTIVE",
+     "pista": "Quien investiga y razona."
+    },
+    {
+     "palabra": "PISTA",
+     "pista": "Detalle que ayuda a llegar a la verdad."
+    },
+    {
+     "palabra": "POE",
+     "pista": "Escritor que inició el género policial."
+    },
+    {
+     "palabra": "DUPIN",
+     "pista": "Detective creado por Poe."
+    },
+    {
+     "palabra": "SOSPECHOSO",
+     "pista": "Personaje que podría ser culpable."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "En un cuento, el detective resuelve el crimen porque el culpable confiesa sin que nadie se lo pida. ¿Qué regla del policial clásico no se cumple?",
+     "opciones": [
+      "El detective no razona con las pistas",
+      "El cuento no tiene ningún enigma que resolver",
+      "El cuento no tiene personajes",
+      "Se cumplen todas las reglas"
+     ],
+     "correcta": 0,
+     "explicacion": "En el policial clásico, la verdad se alcanza razonando."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué el aserrín no alcanza para acusar al grupo de Martín?",
+     "opciones": [
+      "Porque pudo traerlo cualquiera",
+      "Porque el aserrín es de color azul",
+      "Porque Martín no estuvo en el taller",
+      "Porque el aserrín no se ve"
+     ],
+     "correcta": 0,
+     "explicacion": "Hay que comprobar antes de concluir."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Quien lee un policial también puede intentar resolver el enigma antes que el detective.",
+     "respuesta": true,
+     "explicacion": "Es parte del placer del género."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "El detective que razona: Poe y Conan Doyle",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Dupin y Sherlock Holmes",
+     "texto": "En \"Los crímenes de la calle Morgue\", Poe presenta a **Auguste Dupin**, un detective que resuelve un crimen ocurrido en una habitación cerrada por dentro, algo que parece imposible. La policía no lo logra; Dupin sí, porque **observa con atención y razona**.\n\nUnos años después, el escritor británico **Arthur Conan Doyle** creó al detective más famoso: **Sherlock Holmes**, que apareció por primera vez en _Estudio en escarlata_ (1887). Su amigo, el doctor **Watson**, es quien cuenta sus aventuras."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-12-holmes.jpg",
+     "tipo": "foto",
+     "animacion": "alejar",
+     "alt": "Grabado antiguo en blanco y negro: dos hombres de traje conversan sentados; uno, con bigote y los brazos cruzados, escucha al otro, que sostiene una pipa.",
+     "epigrafe": "Sherlock Holmes (a la derecha, con la pipa) y el doctor Watson, en una ilustración de Sidney Paget para la revista The Strand Magazine (1893).",
+     "fuente": "Sidney Paget, vía Wikimedia Commons (dominio público)."
+    },
+    {
+     "t": "destacado",
+     "titulo": "El detective y el pensamiento científico",
+     "texto": "El detective del policial clásico trabaja como un científico:\n• **Observa** los hechos y los detalles con atención.\n• Formula una **hipótesis**: una explicación posible.\n• **Comprueba** la hipótesis con nuevas pistas o pruebas.\n• Llega a una **conclusión** y la explica.\nPor eso el policial clásico es, también, un elogio de la razón."
+    },
+    {
+     "t": "esquema",
+     "_imagen": true,
+     "consigna": "Completá el esquema con lo que leíste en el recuadro de arriba: ubicá qué hace el detective en cada paso.",
+     "imagen": {
+      "src": "img/clases/len-4-12-metodo.svg",
+      "src_movil": "img/clases/len-4-12-metodo-movil.svg",
+      "tipo": "grafico",
+      "alt": "Esquema de cuatro filas: observar, formular una hipótesis, comprobar y concluir, cada una con un casillero vacío.",
+      "epigrafe": "Esquema elaborado para esta clase."
+     },
+     "huecos": [
+      {
+       "x": 49.0,
+       "y": 17.55,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "Mirar con atención los detalles",
+       "movil": {
+        "x": 4.0,
+        "y": 19.42,
+        "w": 92.0,
+        "h": 11.02
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 37.14,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "Proponer una explicación posible",
+       "movil": {
+        "x": 4.0,
+        "y": 41.47,
+        "w": 92.0,
+        "h": 11.02
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 56.73,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "Buscar pruebas que la confirmen",
+       "movil": {
+        "x": 4.0,
+        "y": 63.52,
+        "w": 92.0,
+        "h": 11.02
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 76.33,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "Explicar la verdad",
+       "movil": {
+        "x": 4.0,
+        "y": 85.56,
+        "w": 92.0,
+        "h": 11.02
+       }
+      }
+     ],
+     "distractores": [
+      "Acusar al primero que aparece",
+      "Esperar a que el culpable confiese"
+     ],
+     "explicacion": "Es el mismo método del recuadro: el que usan los detectives y también las ciencias.",
+     "pista": "Volvé a leer el recuadro del detective y el pensamiento científico."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Dos detectives clásicos",
+     "columnas": [
+      "",
+      "Auguste Dupin",
+      "Sherlock Holmes"
+     ],
+     "filas": [
+      [
+       "Autor",
+       "Edgar Allan Poe (Estados Unidos)",
+       "Arthur Conan Doyle (Gran Bretaña)"
+      ],
+      [
+       "Primer relato",
+       "\"Los crímenes de la calle Morgue\" (1841)",
+       "Estudio en escarlata (1887)"
+      ],
+      [
+       "Quién cuenta",
+       "Un amigo, que narra como testigo",
+       "El doctor Watson, su amigo, como testigo"
+      ],
+      [
+       "Cómo resuelve",
+       "Observando y razonando",
+       "Observando detalles mínimos y razonando"
+      ]
+     ]
+    },
+    {
+     "t": "dato",
+     "titulo": "Un narrador que sabe menos que el detective",
+     "texto": "En estos relatos, quien cuenta no es el detective sino un **amigo que narra como testigo**. Esto tiene una razón: el narrador ve lo mismo que el detective, pero no entiende las pistas. Así, quien lee tampoco sabe la solución hasta el final, y el misterio se mantiene."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los pasos del método del detective.",
+     "items": [
+      "Observar los detalles",
+      "Formular una hipótesis",
+      "Comprobar la hipótesis con pruebas",
+      "Llegar a una conclusión y explicarla"
+     ],
+     "explicacion": "Es el mismo orden que sigue el pensamiento científico.",
+     "pista": "Releé el recuadro del detective y el pensamiento científico."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada personaje con quién es.",
+     "pares": [
+      {
+       "a": "Sherlock Holmes",
+       "b": "Detective creado por Conan Doyle"
+      },
+      {
+       "a": "Watson",
+       "b": "Amigo de Holmes, que cuenta sus aventuras"
+      },
+      {
+       "a": "Dupin",
+       "b": "Detective creado por Poe"
+      },
+      {
+       "a": "Edgar Allan Poe",
+       "b": "Escritor que inició el género policial"
+      }
+     ],
+     "explicacion": "Son los nombres fundamentales del policial clásico.",
+     "pista": "Releé el primer texto y la tabla de esta parte.",
+     "_nuevo": true
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Por qué el narrador del policial clásico suele ser un amigo del detective y no el detective mismo?",
+     "opciones": [
+      "Para no conocer la solución hasta el final",
+      "Porque el detective no sabe escribir bien sus casos",
+      "Porque así el cuento no necesita narrador",
+      "Para que el relato sea más corto y rápido"
+     ],
+     "correcta": 0,
+     "explicacion": "El testigo ve lo mismo que el detective, pero no entiende las pistas.",
+     "pista": "Releé el dato sobre el narrador."
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Cómo se llama la explicación posible que formula el detective antes de comprobarla?",
+     "respuesta": "hipótesis",
+     "explicacion": "Después la comprueba con pruebas.",
+     "pista": "Está en el recuadro del pensamiento científico.",
+     "formato": "Escribí solo la palabra.",
+     "acepta": [
+      "hipotesis",
+      "una hipotesis",
+      "la hipotesis"
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿en qué se parece el trabajo de un detective al de un técnico que busca una falla en un equipo?",
+     "respuesta": "Los dos **observan** los síntomas, formulan una **hipótesis** (\"puede ser la fuente de alimentación\"), la **comprueban** con mediciones y llegan a una **conclusión**. Si la hipótesis no se confirma, prueban con otra. Es el mismo razonamiento: el del pensamiento científico."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá por qué se dice que el detective del policial clásico trabaja como un científico. Describí los pasos de su método y aplicalos al relato policial que leíste. Hacelo con el relato policial que trabajaste con tu docente. Si no te indicaron ninguno, usá \"El caso de la llave de torque\", el ejemplo de esta clase.",
+    "guia": [
+     "¿Quiénes son Dupin y Sherlock Holmes, y quiénes los crearon?",
+     "¿Cuáles son los pasos del método del detective?",
+     "¿Qué observa el detective en el relato que elegiste?",
+     "¿Qué hipótesis formula y cómo la comprueba?",
+     "¿Por qué el narrador sabe menos que el detective?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Sherlock Holmes fue creado por Arthur Conan Doyle.",
+     "respuesta": true,
+     "explicacion": "Apareció en Estudio en escarlata (1887)."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Watson es el detective y Holmes es su ayudante.",
+     "respuesta": false,
+     "explicacion": "Holmes es el detective; Watson, su amigo, cuenta las historias."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Una hipótesis es una explicación posible que hay que comprobar.",
+     "respuesta": true,
+     "explicacion": "Es un paso del método."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El detective clásico trabaja como un científico.",
+     "respuesta": true,
+     "explicacion": "Observa, formula hipótesis, comprueba y concluye."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En \"Los crímenes de la calle Morgue\", la policía resuelve el caso antes que Dupin.",
+     "respuesta": false,
+     "explicacion": "La policía no lo logra; Dupin sí."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El narrador testigo ayuda a mantener el misterio hasta el final.",
+     "respuesta": true,
+     "explicacion": "Ve lo mismo que el detective, pero no entiende las pistas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es el primer paso del método del detective?",
+     "opciones": [
+      "Observar",
+      "Concluir",
+      "Comprobar",
+      "Acusar"
+     ],
+     "correcta": 0,
+     "explicacion": "Mirar con atención los detalles."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Quién cuenta las aventuras de Sherlock Holmes?",
+     "opciones": [
+      "El doctor Watson",
+      "El propio Holmes",
+      "Dupin",
+      "Poe"
+     ],
+     "correcta": 0,
+     "explicacion": "Es su amigo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué año apareció Sherlock Holmes por primera vez?",
+     "opciones": [
+      "En 1887",
+      "En 1841",
+      "En 1955",
+      "En 2001"
+     ],
+     "correcta": 0,
+     "explicacion": "En Estudio en escarlata."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tiene de especial el crimen de la calle Morgue?",
+     "opciones": [
+      "Pasó en una habitación cerrada",
+      "Pasó en un barco en alta mar",
+      "No hubo ninguna víctima",
+      "Lo resolvió la policía de París"
+     ],
+     "correcta": 0,
+     "explicacion": "Parece imposible."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué se hace después de formular una hipótesis?",
+     "opciones": [
+      "Comprobarla con pruebas",
+      "Olvidarla enseguida",
+      "Publicarla sin pruebas",
+      "Cambiar de tema"
+     ],
+     "correcta": 0,
+     "explicacion": "Si no se confirma, se busca otra."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿De qué país era Arthur Conan Doyle?",
+     "opciones": [
+      "De Gran Bretaña",
+      "De Estados Unidos",
+      "De la Argentina",
+      "De México"
+     ],
+     "correcta": 0,
+     "explicacion": "Poe era de Estados Unidos."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "HOLMES",
+     "pista": "Detective creado por Conan Doyle."
+    },
+    {
+     "palabra": "WATSON",
+     "pista": "Amigo que cuenta las aventuras de Holmes."
+    },
+    {
+     "palabra": "HIPÓTESIS",
+     "pista": "Explicación posible que hay que comprobar."
+    },
+    {
+     "palabra": "OBSERVAR",
+     "pista": "Mirar con atención los detalles."
+    },
+    {
+     "palabra": "RAZÓN",
+     "pista": "Capacidad de pensar con lógica que usa el detective."
+    },
+    {
+     "palabra": "MORGUE",
+     "pista": "Calle de los crímenes del cuento de Poe."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Un técnico ve que un equipo no enciende, piensa que puede ser el fusible, lo mide y confirma que está cortado. ¿Qué método usó?",
+     "opciones": [
+      "El mismo del detective",
+      "Adivinar sin medir",
+      "Copiar lo que hizo otro",
+      "Esperar a que se arregle"
+     ],
+     "correcta": 0,
+     "explicacion": "Es el pensamiento científico."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tienen en común Dupin y Holmes?",
+     "opciones": [
+      "Resuelven observando y razonando",
+      "Los dos son policías de carrera",
+      "Los dos nacieron en la Argentina",
+      "Los dos narran sus propias historias"
+     ],
+     "correcta": 0,
+     "explicacion": "Son detectives del policial clásico."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Si una hipótesis no se confirma, el detective formula otra.",
+     "respuesta": true,
+     "explicacion": "Así funciona el método."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Textos que mueven a resolver un problema: Borges y el policial argentino",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Borges y los laberintos",
+     "texto": "**Jorge Luis Borges** (1899-1986), uno de los escritores argentinos más leídos en el mundo, era un gran lector de policiales. Muchos de sus cuentos son como **problemas para pensar**: laberintos, enigmas y razonamientos que obligan a quien lee a resolver algo.\n\nEn \"Los dos reyes y los dos laberintos\", un rey encierra a otro en un laberinto muy complicado, construido por arquitectos. Tiempo después, el rey ofendido se venga: deja al primero en medio del **desierto**, un laberinto sin muros ni puertas, del que tampoco se puede salir. El cuento hace pensar qué es, en realidad, un laberinto."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-12-laberinto.jpg",
+     "tipo": "foto",
+     "animacion": "recorrer-izq",
+     "alt": "Fotografía de un laberinto grande de setos verdes, con caminos angostos entre las plantas y árboles al fondo.",
+     "epigrafe": "Laberinto de setos de Longleat (Inglaterra), diseñado en 1975.",
+     "fuente": "Foto: Lewis Clarke, CC BY-SA 2.0, vía Wikimedia Commons."
+    },
+    {
+     "t": "observar",
+     "_imagen": true,
+     "etiqueta": "🔎 Mirá con atención",
+     "consigna": "Mirá los dos dibujos y pensá en el cuento de Borges.",
+     "imagen": {
+      "src": "img/clases/len-4-12-laberintos.svg",
+      "tipo": "grafico",
+      "alt": "Dos dibujos numerados: el 1, un laberinto de muros visto desde arriba, con una persona en el centro; el 2, un desierto de arena bajo el sol, con una persona en medio.",
+      "epigrafe": "Dos laberintos. Ilustración elaborada para esta clase."
+     },
+     "preguntas": [
+      {
+       "pregunta": "¿Qué dibujo muestra el laberinto en el que el rey ofendido deja al otro rey?",
+       "opciones": [
+        "El 2",
+        "El 1"
+       ],
+       "correcta": 0,
+       "explicacion": "El rey ofendido lo deja en medio del desierto, un laberinto sin muros ni puertas.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      },
+      {
+       "pregunta": "¿Qué tienen en común los dos lugares del cuento?",
+       "opciones": [
+        "De ninguno de los dos se puede salir",
+        "Los dos tienen muros",
+        "Los dos los construyeron arquitectos"
+       ],
+       "correcta": 0,
+       "explicacion": "Por eso el cuento hace pensar qué es, en realidad, un laberinto.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      }
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Cuando el policial juega con sus reglas",
+     "texto": "En \"La muerte y la brújula\", de Borges, el detective **Lönnrot** confía tanto en su razonamiento que busca una explicación cada vez más complicada. Quien lee descubre que la inteligencia del detective también puede convertirse en una **trampa**. Así, Borges usa las reglas del policial clásico para hacer pensar sobre ellas."
+    },
+    {
+     "t": "texto",
+     "titulo": "El policial en la Argentina",
+     "texto": "Muchos escritores argentinos escribieron policiales. **Borges** y **Adolfo Bioy Casares** crearon juntos a **don Isidro Parodi**, un detective que resuelve los casos **desde la celda de una cárcel**, solo escuchando lo que le cuentan. **Rodolfo Walsh** escribió cuentos policiales con comisarios y detectives en escenarios argentinos, y **Marcos Denevi**, la novela _Rosaura a las diez_ (1955), en la que varios personajes cuentan su versión de los hechos."
+    },
+    {
+     "t": "linea",
+     "titulo": "El policial en el tiempo",
+     "eventos": [
+      {
+       "anio": "1841",
+       "titulo": "Los crímenes de la calle Morgue",
+       "texto": "Edgar Allan Poe crea al detective Dupin."
+      },
+      {
+       "anio": "1887",
+       "titulo": "Estudio en escarlata",
+       "texto": "Arthur Conan Doyle presenta a Sherlock Holmes."
+      },
+      {
+       "anio": "1899",
+       "titulo": "Nace Jorge Luis Borges",
+       "texto": "Será uno de los grandes lectores y escritores de policiales."
+      },
+      {
+       "anio": "1955",
+       "titulo": "Rosaura a las diez",
+       "texto": "Marcos Denevi: varios personajes cuentan su versión."
+      }
+     ]
+    },
+    {
+     "t": "comparar",
+     "titulo": "Del policial clásico a sus variantes",
+     "columnas": [
+      "",
+      "Policial clásico",
+      "Variantes de autores argentinos"
+     ],
+     "filas": [
+      [
+       "El detective",
+       "Razona y siempre llega a la verdad",
+       "Puede razonar desde una celda o equivocarse por razonar demasiado"
+      ],
+      [
+       "El enigma",
+       "Se resuelve al final",
+       "A veces se convierte en un problema para quien lee"
+      ],
+      [
+       "Escenarios",
+       "Grandes ciudades europeas o estadounidenses",
+       "Buenos Aires y otros lugares argentinos"
+      ]
+     ]
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cada rasgo es del policial clásico o de una variante de los autores argentinos?",
+     "categorias": [
+      "Policial clásico",
+      "Variante argentina"
+     ],
+     "items": [
+      {
+       "texto": "El detective razona y siempre llega a la verdad",
+       "cat": "Policial clásico"
+      },
+      {
+       "texto": "Un amigo del detective narra como testigo",
+       "cat": "Policial clásico"
+      },
+      {
+       "texto": "Transcurre en Londres o en París",
+       "cat": "Policial clásico"
+      },
+      {
+       "texto": "El detective resuelve el caso desde una celda",
+       "cat": "Variante argentina"
+      },
+      {
+       "texto": "El razonamiento del detective se vuelve una trampa",
+       "cat": "Variante argentina"
+      },
+      {
+       "texto": "Varios personajes cuentan su versión",
+       "cat": "Variante argentina"
+      }
+     ],
+     "explicacion": "Los escritores argentinos tomaron las reglas del policial clásico y jugaron con ellas."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "\"Desde esta celda resuelvo los casos que me cuentan.\" ¿Quién lo diría?",
+     "opciones": [
+      "Don Isidro Parodi",
+      "Sherlock Holmes",
+      "Lönnrot",
+      "Watson"
+     ],
+     "correcta": 0,
+     "explicacion": "Parodi resuelve los casos desde la celda de una cárcel, solo escuchando.",
+     "pista": "Releé el texto sobre el policial en la Argentina.",
+     "etiqueta": "🗣️ ¿Quién lo diría?"
+    },
+    {
+     "t": "verificar",
+     "consigna": "En el cuento de Borges, ¿en qué lugar deja el segundo rey al primero, como si fuera un laberinto sin muros?",
+     "respuesta": "desierto",
+     "explicacion": "Un laberinto sin muros ni puertas del que tampoco se puede salir.",
+     "pista": "Está en el texto sobre Borges y los laberintos.",
+     "formato": "Escribí solo la palabra.",
+     "acepta": [
+      "desierto",
+      "el desierto",
+      "en el desierto"
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué el desierto puede ser un laberinto aunque no tenga paredes?",
+     "respuesta": "Porque un laberinto es un lugar del que es muy difícil encontrar la salida. En el desierto todo parece igual, no hay caminos ni señales, y uno se pierde aunque no haya muros. Borges hace pensar que lo que encierra no siempre son las paredes: a veces es la falta de orientación."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué hacen Borges y otros autores argentinos con las reglas del policial clásico. Contá el cuento de los dos reyes y los dos laberintos, y explicá por qué hace pensar. Si leíste con tu docente otro cuento de Borges o un policial argentino, explicá qué regla del policial clásico cumple o cambia.",
+    "guia": [
+     "¿Por qué los cuentos de Borges son como problemas para pensar?",
+     "¿Qué pasa en \"Los dos reyes y los dos laberintos\"?",
+     "¿Qué le pasa al detective de \"La muerte y la brújula\"?",
+     "¿Qué tiene de especial don Isidro Parodi?",
+     "¿Qué cambia en el policial argentino respecto del clásico?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Borges fue un escritor argentino que admiraba los policiales.",
+     "respuesta": true,
+     "explicacion": "Muchos de sus cuentos son problemas para pensar."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Don Isidro Parodi resuelve los casos recorriendo la ciudad.",
+     "respuesta": false,
+     "explicacion": "Los resuelve desde la celda de una cárcel."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En \"Los dos reyes y los dos laberintos\", el desierto funciona como un laberinto.",
+     "respuesta": true,
+     "explicacion": "Sin muros ni puertas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En \"La muerte y la brújula\", el razonamiento del detective se vuelve una trampa.",
+     "respuesta": true,
+     "explicacion": "Borges juega con las reglas del género."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Rosaura a las diez es una novela de Sherlock Holmes.",
+     "respuesta": false,
+     "explicacion": "Es de Marcos Denevi (1955), y varios personajes cuentan su versión."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Borges y Bioy Casares crearon juntos a don Isidro Parodi.",
+     "respuesta": true,
+     "explicacion": "Escribieron juntos varios libros."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo se llama el detective de \"La muerte y la brújula\"?",
+     "opciones": [
+      "Lönnrot",
+      "Holmes",
+      "Dupin",
+      "Parodi"
+     ],
+     "correcta": 0,
+     "explicacion": "Confía demasiado en su razonamiento."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Quién escribió Rosaura a las diez?",
+     "opciones": [
+      "Marcos Denevi",
+      "Jorge Luis Borges",
+      "Edgar Allan Poe",
+      "Conan Doyle"
+     ],
+     "correcta": 0,
+     "explicacion": "En 1955."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tienen de especial los cuentos de Borges?",
+     "opciones": [
+      "Son problemas para pensar",
+      "Son todos cuentos de humor",
+      "Están escritos en inglés",
+      "No tienen personajes"
+     ],
+     "correcta": 0,
+     "explicacion": "Laberintos, enigmas y razonamientos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hicieron los escritores argentinos con el policial clásico?",
+     "opciones": [
+      "Jugaron con sus reglas",
+      "Lo prohibieron en las editoriales",
+      "Lo copiaron sin ningún cambio",
+      "Lo cambiaron por la tragedia griega"
+     ],
+     "correcta": 0,
+     "explicacion": "Por ejemplo, con un detective en una celda."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué escritor argentino escribió cuentos policiales con comisarios en escenarios argentinos?",
+     "opciones": [
+      "Rodolfo Walsh",
+      "Homero",
+      "Sófocles",
+      "Hesíodo"
+     ],
+     "correcta": 0,
+     "explicacion": "Entre otros autores."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es un laberinto?",
+     "opciones": [
+      "Un lugar del que cuesta salir",
+      "Un tipo de poema con rima",
+      "Un detective que razona",
+      "Una pista que deja el culpable"
+     ],
+     "correcta": 0,
+     "explicacion": "Borges lo usa como imagen de muchos problemas."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "BORGES",
+     "pista": "Escritor argentino de \"La muerte y la brújula\"."
+    },
+    {
+     "palabra": "LABERINTO",
+     "pista": "Lugar del que es difícil salir."
+    },
+    {
+     "palabra": "DESIERTO",
+     "pista": "Laberinto sin muros del cuento de Borges."
+    },
+    {
+     "palabra": "PARODI",
+     "pista": "Detective que resuelve casos desde una celda."
+    },
+    {
+     "palabra": "WALSH",
+     "pista": "Escritor argentino de cuentos policiales."
+    },
+    {
+     "palabra": "BRÚJULA",
+     "pista": "\"La muerte y la ___\", cuento de Borges."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué se dice que Borges juega con las reglas del policial?",
+     "opciones": [
+      "Porque usa sus elementos para hacer pensar",
+      "Porque nunca escribió ningún cuento policial",
+      "Porque copia a Poe sin ningún cambio",
+      "Porque sus cuentos no tienen enigma"
+     ],
+     "correcta": 0,
+     "explicacion": "Toma el género y lo transforma."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tienen en común un cuento de Borges y un problema de lógica?",
+     "opciones": [
+      "Los dos obligan a razonar",
+      "Los dos son tragedias griegas",
+      "Los dos son publicidades",
+      "Los dos se resuelven por suerte"
+     ],
+     "correcta": 0,
+     "explicacion": "Son textos que mueven a resolver un problema."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El policial argentino también ubicó sus historias en escenarios argentinos.",
+     "respuesta": true,
+     "explicacion": "Como los cuentos de Walsh."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Relato policial",
+   "definicion": "Relato que gira alrededor de un enigma que alguien resuelve razonando."
+  },
+  {
+   "palabra": "Enigma",
+   "definicion": "Misterio que hay que resolver."
+  },
+  {
+   "palabra": "Detective",
+   "definicion": "Quien investiga y razona a partir de las pistas."
+  },
+  {
+   "palabra": "Pista",
+   "definicion": "Detalle que permite llegar a la verdad; también se dice indicio."
+  },
+  {
+   "palabra": "Hipótesis",
+   "definicion": "Explicación posible que hay que comprobar."
+  },
+  {
+   "palabra": "Pensamiento científico",
+   "definicion": "Forma de razonar: observar, formular hipótesis, comprobar y concluir."
+  },
+  {
+   "palabra": "Laberinto",
+   "definicion": "Lugar del que es muy difícil encontrar la salida; en Borges, imagen de muchos problemas."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Pensar que el detective resuelve el caso por intuición o suerte.",
+   "aclaracion": "En el policial clásico, la verdad se alcanza razonando a partir de las pistas."
+  },
+  {
+   "error": "Confundir a Watson con el detective.",
+   "aclaracion": "Holmes es el detective; Watson, el amigo que cuenta las historias."
+  },
+  {
+   "error": "Creer que una hipótesis ya es la verdad.",
+   "aclaracion": "Una hipótesis hay que comprobarla con pruebas."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Pensá en una falla que hayas tenido que resolver en el taller o en tu casa: ¿cómo usaste, sin darte cuenta, el método del detective?",
+  "conexion": "Con los discursos técnico y científico: el método del detective es el mismo que usan las ciencias. Y con la guía para analizar una obra, que te sirve para el policial que leas."
+ }
+}

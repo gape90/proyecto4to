@@ -1,0 +1,1409 @@
+{
+  "id": "ing-4-08",
+  "espacio": "lengua-extranjera",
+  "idioma": "en",
+  "eje": "¿Cómo nos comunicamos? TIC y hábitos de comunicación en distintas culturas",
+  "titulo": "Experiencias con la tecnología: el presente perfecto (Present perfect)",
+  "intro": "En esta clase vas a aprender a contar en inglés experiencias de la vida, cosas que alguien hizo alguna vez o nunca hizo, y a hacer preguntas de encuesta con Have you ever…? Al final vas a leer las respuestas de {{nombre}} a una encuesta sobre tecnología.",
+  "objetivos": [
+    "Formar el presente perfecto con have y has + participio, y reconocer los participios irregulares de la clase.",
+    "Usar ever, never, already y yet, y diferenciar el presente perfecto del pasado simple.",
+    "Contar en inglés, en tercera persona, las experiencias de {{nombre}} con la tecnología."
+  ],
+  "tp_aporte": "Para tu trabajo práctico ya tenés cómo se forma el presente perfecto, la lista de participios y un párrafo sobre las experiencias de {{nombre}} con la tecnología.",
+  "personaje_intro": {
+    "porPersonaje": {
+      "lucy": {
+        "texto": "Hoy respondí una encuesta sobre tecnología. ¿Querés saber qué cosas hice y cuáles nunca hice?"
+      },
+      "ben": {
+        "texto": "Hoy respondí una encuesta sobre tecnología. ¿Querés saber qué cosas hice y cuáles nunca hice?"
+      },
+      "mia": {
+        "texto": "Hoy respondí una encuesta sobre tecnología. ¿Querés saber qué cosas hice y cuáles nunca hice?"
+      },
+      "liam": {
+        "texto": "Hoy respondí una encuesta sobre tecnología. ¿Querés saber qué cosas hice y cuáles nunca hice?"
+      }
+    }
+  },
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "El presente perfecto: have y has + participio",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "¿Para qué sirve el presente perfecto?",
+          "texto": "El **presente perfecto** ([[Present perfect]]) cuenta experiencias de la vida, cosas que hicimos alguna vez, **sin decir cuándo**:\n\n[[I have made a video call.]] (Hice una videollamada / alguna vez hice una videollamada.)\n[[She has sent a voice message.]] (Ella mandó un audio.)\n\nSi decimos cuándo pasó (yesterday, last week, in 2023), se usa el **pasado simple**: [[I made a video call yesterday.]]"
+        },
+        {
+          "t": "comparar",
+          "titulo": "Cómo se forma (tocá 🔊 para escuchar)",
+          "columnas": [
+            "",
+            "I, you, we, they",
+            "He, she, it"
+          ],
+          "filas": [
+            [
+              "Afirmativo",
+              "[[They have sent a message.]]",
+              "[[She has sent a message.]]"
+            ],
+            [
+              "Negativo",
+              "[[They haven't sent a message.]]",
+              "[[She hasn't sent a message.]]"
+            ],
+            [
+              "Pregunta",
+              "[[Have they sent a message?]]",
+              "[[Has she sent a message?]]"
+            ],
+            [
+              "Respuesta corta",
+              "[[Yes, they have.]] / [[No, they haven't.]]",
+              "[[Yes, she has.]] / [[No, she hasn't.]]"
+            ]
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar: el participio",
+          "texto": "• Verbos regulares: el participio es igual al pasado, con **-ed**: [[play → played]], [[use → used]], [[record → recorded]].\n• Verbos irregulares: hay que aprenderlos. Los de esta clase: [[be → been]], [[make → made]], [[send → sent]], [[see → seen]], [[write → written]], [[lose → lost]], [[buy → bought]].\n• Formas cortas: [[I've]] = I have, [[she's]] = she has, [[haven't]], [[hasn't]]."
+        },
+        {
+          "t": "pronunciar",
+          "modo": "escuchar",
+          "voz": "personaje",
+          "texto": "She has sent a voice message.",
+          "traduccion": "(Ella mandó un audio.)",
+          "explicacion": "En voice message, voice se dice \"vois\", con una v suave, distinta de la b."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Qué palabra completa cada oración: have o has?",
+          "categorias": [
+            "have",
+            "has"
+          ],
+          "items": [
+            {
+              "texto": "I ___ used a translator app.",
+              "cat": "have"
+            },
+            {
+              "texto": "We ___ made a video.",
+              "cat": "have"
+            },
+            {
+              "texto": "My friends ___ seen the film.",
+              "cat": "have"
+            },
+            {
+              "texto": "My sister ___ bought a new phone.",
+              "cat": "has"
+            },
+            {
+              "texto": "He ___ written a blog post.",
+              "cat": "has"
+            },
+            {
+              "texto": "Our teacher ___ sent the homework.",
+              "cat": "has"
+            }
+          ],
+          "explicacion": "Has va con he, she e it (my sister, he, our teacher). Have va con I, you, we y they (I, we, my friends).",
+          "pista": "Fijate quién hace la acción y buscalo en la tabla de arriba."
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada verbo con su participio.",
+          "pares": [
+            {
+              "a": "send",
+              "b": "sent"
+            },
+            {
+              "a": "write",
+              "b": "written"
+            },
+            {
+              "a": "see",
+              "b": "seen"
+            },
+            {
+              "a": "buy",
+              "b": "bought"
+            },
+            {
+              "a": "be",
+              "b": "been"
+            }
+          ],
+          "explicacion": "Son irregulares: send-sent, write-written, see-seen, buy-bought, be-been.",
+          "pista": "Están todos en el recuadro \"Para recordar\"."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Pasá a negativo: She has lost her phone → She ______ lost her phone.",
+          "respuesta": "hasn't",
+          "acepta": [
+            "hasn't",
+            "hasnt",
+            "has not",
+            "hasn t"
+          ],
+          "formato": "Escribí la forma negativa (podés usar el apóstrofo).",
+          "explicacion": "Negativo de has: hasn't (has not). El participio no cambia.",
+          "pista1": "En el presente perfecto no se usa didn't ni doesn't.",
+          "pista": "Buscá en la tabla la fila del negativo con she."
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "🔍 Encontrá el error",
+          "pregunta": "Una de estas oraciones tiene un error. ¿Cuál es?",
+          "opciones": [
+            "He have sent a message.",
+            "I have seen that video.",
+            "They have made a website.",
+            "She hasn't used the app."
+          ],
+          "correcta": 0,
+          "explicacion": "Con he va has: He has sent a message.",
+          "pista": "Revisá quién hace cada acción y si va con have o con has."
+        },
+        {
+          "t": "dictado",
+          "voz": "personaje",
+          "texto": "I have made a video call.",
+          "traduccion": "(Hice una videollamada.)",
+          "explicacion": "Have + made, el participio irregular de make."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "¿Por qué \"I have made a video call\" no dice cuándo la hizo?",
+          "respuesta": "Porque el presente perfecto cuenta la experiencia, no el momento: lo importante es que alguna vez la hizo. Si queremos decir cuándo, cambiamos al pasado simple: [[I made a video call last night.]]"
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Copiá la tabla del presente perfecto y la lista de participios de la clase. Explicá en castellano para qué se usa y en qué se diferencia del pasado simple. Después escribí en inglés cuatro oraciones sobre experiencias de {{nombre}} con la tecnología (las inventás vos), con has y hasn't.",
+        "guia": [
+          "¿Qué cuenta el presente perfecto? ¿Dice cuándo pasó?",
+          "¿Cuándo va have y cuándo has?",
+          "¿Cómo se forma el participio de los regulares? ¿Y el de los irregulares?",
+          "¿Cómo se niega? ¿Se usa did?",
+          "¿Qué hizo {{nombre}} alguna vez con un celular o una computadora?"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El presente perfecto se forma con have o has + participio.",
+          "respuesta": true,
+          "explicacion": "She has sent a message."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con he se usa have.",
+          "respuesta": false,
+          "explicacion": "Con he, she e it va has."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El participio de write es written.",
+          "respuesta": true,
+          "explicacion": "Es irregular."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El presente perfecto dice exactamente cuándo pasó algo.",
+          "respuesta": false,
+          "explicacion": "Cuenta la experiencia sin decir cuándo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Hasn't es la forma corta de has not.",
+          "respuesta": true,
+          "explicacion": "She hasn't lost her phone."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El participio de los verbos regulares termina en -ed.",
+          "respuesta": true,
+          "explicacion": "Play, played."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el participio de see?",
+          "opciones": [
+            "seen",
+            "saw",
+            "seed",
+            "see"
+          ],
+          "correcta": 0,
+          "explicacion": "See, saw, seen."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"My brother ___ bought a laptop\"?",
+          "opciones": [
+            "has",
+            "have",
+            "is",
+            "did"
+          ],
+          "correcta": 0,
+          "explicacion": "My brother es he: has."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se responde \"Have you used this app?\" si es verdad?",
+          "opciones": [
+            "Yes, I have.",
+            "Yes, I did.",
+            "Yes, I used.",
+            "Yes, I has."
+          ],
+          "correcta": 0,
+          "explicacion": "Respuesta corta con have."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"She has sent a voice message\"?",
+          "opciones": [
+            "Ella mandó un audio",
+            "Ella va a mandar un audio",
+            "Ella está mandando un audio",
+            "Ella nunca manda audios"
+          ],
+          "correcta": 0,
+          "explicacion": "Experiencia en presente perfecto."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el participio de buy?",
+          "opciones": [
+            "bought",
+            "buyed",
+            "buy",
+            "brought"
+          ],
+          "correcta": 0,
+          "explicacion": "Buy, bought, bought."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración necesita el pasado simple y no el presente perfecto?",
+          "opciones": [
+            "I made a video call yesterday.",
+            "I have made a video call.",
+            "She has seen the film with her sister.",
+            "We have used the app."
+          ],
+          "correcta": 0,
+          "explicacion": "Yesterday dice cuándo: pasado simple."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "HAVE",
+          "pista": "Va con I, you, we y they."
+        },
+        {
+          "palabra": "HAS",
+          "pista": "Va con he, she e it."
+        },
+        {
+          "palabra": "SENT",
+          "pista": "Participio de send."
+        },
+        {
+          "palabra": "SEEN",
+          "pista": "Participio de see."
+        },
+        {
+          "palabra": "WRITTEN",
+          "pista": "Participio de write."
+        },
+        {
+          "palabra": "BEEN",
+          "pista": "Participio de be."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "She has made a video.",
+            "She have made a video.",
+            "She has make a video.",
+            "She has maked a video."
+          ],
+          "correcta": 0,
+          "explicacion": "Has + participio irregular made."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué cuenta el presente perfecto?",
+          "opciones": [
+            "Experiencias sin decir cuándo pasaron",
+            "Lo que pasa ahora mismo",
+            "Un plan para mañana",
+            "Un hábito del pasado que ya no existe más"
+          ],
+          "correcta": 0,
+          "explicacion": "Alguna vez, sin fecha."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"They haven't seen the video\" es el negativo de \"They have seen the video\".",
+          "respuesta": true,
+          "explicacion": "Haven't = have not."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Ever, never, already y yet",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Cuatro palabras que acompañan al presente perfecto",
+          "texto": "[[ever]] (alguna vez) va en preguntas: [[Have you ever lost your phone?]] (¿Alguna vez perdiste el celular?)\n[[never]] (nunca) va en oraciones afirmativas y ya niega: [[I have never made a website.]]\n[[already]] (ya) dice que algo pasó antes de lo esperado: [[I have already finished my homework.]]\n[[yet]] (todavía, ya) va al final de negativas y preguntas: [[I haven't finished yet.]] [[Have you finished yet?]]"
+        },
+        {
+          "t": "pasos",
+          "titulo": "Paso a paso: hacer una encuesta con Have you ever…?",
+          "pasos": [
+            {
+              "titulo": "Armá la pregunta",
+              "texto": "[[Have you ever]] + participio: [[Have you ever made a video call?]]"
+            },
+            {
+              "titulo": "Respondé corto",
+              "texto": "[[Yes, I have.]] o [[No, I haven't.]] También se puede decir [[No, never.]]"
+            },
+            {
+              "titulo": "Si querés, contá cuándo",
+              "texto": "Ahí cambiás al pasado simple: [[Yes, I have. I made one last Sunday.]]"
+            },
+            {
+              "titulo": "Contá el resultado en tercera persona",
+              "texto": "[[Ben has made a video call.]] [[Mia has never lost her phone.]]"
+            }
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "• Never ya es negativo: se dice [[I have never seen it]], no \"I haven't never seen it\".\n• Ever, never y already van entre have y el participio: [[have ever made]], [[has already sent]].\n• Yet va al final de la oración."
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená las palabras para armar una pregunta de encuesta.",
+          "items": [
+            "Have",
+            "you",
+            "ever",
+            "used",
+            "a translator app?"
+          ],
+          "explicacion": "Have + you + ever + participio + el resto: Have you ever used a translator app?",
+          "pista": "Mirá el paso 1 del paso a paso: empieza con Have."
+        },
+        {
+          "t": "dictado",
+          "voz": "personaje",
+          "texto": "I have never lost my phone.",
+          "traduccion": "(Nunca perdí el celular.)",
+          "explicacion": "Never va entre have y el participio lost."
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá el chat con la palabra que falta.",
+          "texto": "A: Have you [[ever]] made a podcast? B: No, I have [[never]] made one. But I have [[already]] recorded a video for school. A: Cool! Have you sent it to the teacher [[yet]]?",
+          "distractores": [
+            "always",
+            "did",
+            "still"
+          ],
+          "explicacion": "Ever en la pregunta, never en la afirmativa que niega, already para algo que ya pasó, yet al final de la pregunta.",
+          "pista": "Fijate dónde está cada espacio: en una pregunta, en una afirmativa o al final de la oración."
+        },
+        {
+          "t": "vf",
+          "consigna": "Leé cada afirmación y marcá si es verdadera o falsa.",
+          "afirmaciones": [
+            {
+              "texto": "[[I haven't never seen it.]] está bien escrita.",
+              "v": false,
+              "explicacion": "Never ya niega: I have never seen it."
+            },
+            {
+              "texto": "Yet va al final de la oración.",
+              "v": true,
+              "explicacion": "I haven't finished yet."
+            },
+            {
+              "texto": "[[Have you ever…?]] pregunta por una experiencia de la vida.",
+              "v": true,
+              "explicacion": "¿Alguna vez…?"
+            },
+            {
+              "texto": "Already quiere decir \"nunca\".",
+              "v": false,
+              "explicacion": "Already quiere decir \"ya\"."
+            }
+          ]
+        },
+        {
+          "t": "verificar",
+          "consigna": "Respondé corto, en negativo: Have you ever lost your phone? No, I ______.",
+          "respuesta": "haven't",
+          "acepta": [
+            "haven't",
+            "havent",
+            "have not",
+            "haven t"
+          ],
+          "formato": "Escribí una palabra en inglés (podés usar el apóstrofo).",
+          "explicacion": "La respuesta corta negativa con I es No, I haven't.",
+          "pista1": "La pregunta empieza con have: la respuesta corta usa la misma palabra.",
+          "pista": "Mirá el paso 2 del paso a paso."
+        },
+        {
+          "t": "pronunciar",
+          "modo": "decir",
+          "voz": "personaje",
+          "texto": "Have you ever made a video call?",
+          "traduccion": "(¿Alguna vez hiciste una videollamada?)",
+          "explicacion": "Ever se dice \"éver\", con fuerza en la primera sílaba, y la pregunta sube al final."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "¿Qué diferencia hay entre \"I haven't finished yet\" y \"I have already finished\"?",
+          "respuesta": "La primera dice que todavía no terminaste; la segunda, que ya terminaste. Yet va con negativas y preguntas, al final. Already va con afirmativas, entre have y el participio."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Copiá las cuatro palabras (ever, never, already y yet) con su significado y un ejemplo de cada una. Explicá en castellano dónde va cada una en la oración. Después escribí en inglés cuatro preguntas de encuesta con Have you ever…? sobre la tecnología, y las respuestas que daría {{nombre}} (las inventás vos).",
+        "guia": [
+          "¿En qué tipo de oración va ever? ¿Y never?",
+          "¿Por qué no se usa haven't con never?",
+          "¿Dónde va yet? ¿Y already?",
+          "¿Cómo se responde corto a Have you ever…?",
+          "¿Qué cosas hizo y qué cosas nunca hizo {{nombre}}?"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Ever quiere decir \"alguna vez\".",
+          "respuesta": true,
+          "explicacion": "Have you ever…?"
+        },
+        {
+          "tipo": "vf",
+          "texto": "Never va con haven't.",
+          "respuesta": false,
+          "explicacion": "Never ya es negativo: I have never…"
+        },
+        {
+          "tipo": "vf",
+          "texto": "Yet va al final de la oración.",
+          "respuesta": true,
+          "explicacion": "Have you finished yet?"
+        },
+        {
+          "tipo": "vf",
+          "texto": "Already quiere decir \"ya\".",
+          "respuesta": true,
+          "explicacion": "I have already finished."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Have you ever made a podcast?\" es una pregunta bien formada.",
+          "respuesta": true,
+          "explicacion": "Have + you + ever + participio."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Se responde \"Yes, I did\" a \"Have you ever lost your phone?\".",
+          "respuesta": false,
+          "explicacion": "Se responde Yes, I have."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"I have ___ made a website\"?",
+          "opciones": [
+            "never",
+            "ever",
+            "yet",
+            "didn't"
+          ],
+          "correcta": 0,
+          "explicacion": "Never en una afirmativa: nunca."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"Have you finished ___?\"",
+          "opciones": [
+            "yet",
+            "already",
+            "never",
+            "ever"
+          ],
+          "correcta": 0,
+          "explicacion": "Yet al final de la pregunta."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"Have you ever used a translator app?\"",
+          "opciones": [
+            "¿Alguna vez usaste una aplicación para traducir?",
+            "¿Vas a usar una aplicación?",
+            "¿Usás siempre una aplicación para traducir tus textos?",
+            "¿Nunca usaste una aplicación?"
+          ],
+          "correcta": 0,
+          "explicacion": "Ever = alguna vez."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la respuesta corta negativa?",
+          "opciones": [
+            "No, I haven't.",
+            "No, I didn't.",
+            "No, I don't.",
+            "No, I have not ever."
+          ],
+          "correcta": 0,
+          "explicacion": "Con have, la respuesta usa haven't."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Dónde va already?",
+          "opciones": [
+            "Entre have y el participio",
+            "Al final de la oración",
+            "Antes de have",
+            "Después del objeto, al final de todo"
+          ],
+          "correcta": 0,
+          "explicacion": "I have already sent it."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "She has never lost her phone.",
+            "She hasn't never lost her phone.",
+            "She never has lost her phone.",
+            "She has lost never her phone."
+          ],
+          "correcta": 0,
+          "explicacion": "Has + never + participio."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "EVER",
+          "pista": "Alguna vez."
+        },
+        {
+          "palabra": "NEVER",
+          "pista": "Nunca."
+        },
+        {
+          "palabra": "ALREADY",
+          "pista": "Ya."
+        },
+        {
+          "palabra": "YET",
+          "pista": "Todavía, al final de una negativa."
+        },
+        {
+          "palabra": "SURVEY",
+          "pista": "Encuesta, en inglés."
+        },
+        {
+          "palabra": "PODCAST",
+          "pista": "Programa de audio en internet."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué pregunta está bien formada?",
+          "opciones": [
+            "Have you ever sent a voice message?",
+            "Did you ever have sent a voice message?",
+            "Have you ever send a voice message?",
+            "You have ever sent a voice message?"
+          ],
+          "correcta": 0,
+          "explicacion": "Have + you + ever + participio."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"I haven't sent it ___\"?",
+          "opciones": [
+            "yet",
+            "already",
+            "ever",
+            "never"
+          ],
+          "correcta": 0,
+          "explicacion": "Yet al final de una negativa."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"I have never made a website\" quiere decir que nunca hizo un sitio web.",
+          "respuesta": true,
+          "explicacion": "Never = nunca."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Una encuesta sobre tecnología",
+      "tiempo": "40 a 50 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Las encuestas en inglés",
+          "texto": "Las encuestas sobre el uso de la tecnología suelen tener preguntas con [[Have you ever…?]], porque preguntan por experiencias. Con las respuestas se puede escribir un informe breve en tercera persona: [[Most students have made a video call.]] (La mayoría de los estudiantes hizo una videollamada.)\n\nEn el informe se combinan dos tiempos: el **presente perfecto** para la experiencia y el **pasado simple** si se dice cuándo pasó."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Mis respuestas a la encuesta (tocá 🔊 para escuchar)",
+          "columnas": [
+            "Pregunta",
+            "Mi respuesta"
+          ],
+          "porPersonaje": {
+            "lucy": {
+              "filas": [
+                [
+                  "[[Have you ever made a video call?]]",
+                  "✓ [[Yes, I have.]]"
+                ],
+                [
+                  "[[Have you ever sent a voice message?]]",
+                  "✓ [[Yes, I have.]]"
+                ],
+                [
+                  "[[Have you ever recorded a video?]]",
+                  "✓ [[Yes, I have.]]"
+                ],
+                [
+                  "[[Have you ever made a website?]]",
+                  "✗ [[No, I haven't.]]"
+                ],
+                [
+                  "[[Have you ever used a translator app?]]",
+                  "✓ [[Yes, I have.]]"
+                ],
+                [
+                  "[[Have you ever lost your phone?]]",
+                  "✗ [[No, I haven't.]]"
+                ]
+              ]
+            },
+            "ben": {
+              "filas": [
+                [
+                  "[[Have you ever made a video call?]]",
+                  "✓ [[Yes, I have.]]"
+                ],
+                [
+                  "[[Have you ever sent a voice message?]]",
+                  "✗ [[No, I haven't.]]"
+                ],
+                [
+                  "[[Have you ever recorded a video?]]",
+                  "✓ [[Yes, I have.]]"
+                ],
+                [
+                  "[[Have you ever made a website?]]",
+                  "✗ [[No, I haven't.]]"
+                ],
+                [
+                  "[[Have you ever used a translator app?]]",
+                  "✗ [[No, I haven't.]]"
+                ],
+                [
+                  "[[Have you ever lost your phone?]]",
+                  "✓ [[Yes, I have.]]"
+                ]
+              ]
+            },
+            "mia": {
+              "filas": [
+                [
+                  "[[Have you ever made a video call?]]",
+                  "✓ [[Yes, I have.]]"
+                ],
+                [
+                  "[[Have you ever sent a voice message?]]",
+                  "✓ [[Yes, I have.]]"
+                ],
+                [
+                  "[[Have you ever recorded a video?]]",
+                  "✗ [[No, I haven't.]]"
+                ],
+                [
+                  "[[Have you ever made a website?]]",
+                  "✓ [[Yes, I have.]]"
+                ],
+                [
+                  "[[Have you ever used a translator app?]]",
+                  "✓ [[Yes, I have.]]"
+                ],
+                [
+                  "[[Have you ever lost your phone?]]",
+                  "✗ [[No, I haven't.]]"
+                ]
+              ]
+            },
+            "liam": {
+              "filas": [
+                [
+                  "[[Have you ever made a video call?]]",
+                  "✓ [[Yes, I have.]]"
+                ],
+                [
+                  "[[Have you ever sent a voice message?]]",
+                  "✓ [[Yes, I have.]]"
+                ],
+                [
+                  "[[Have you ever recorded a video?]]",
+                  "✓ [[Yes, I have.]]"
+                ],
+                [
+                  "[[Have you ever made a website?]]",
+                  "✗ [[No, I haven't.]]"
+                ],
+                [
+                  "[[Have you ever used a translator app?]]",
+                  "✗ [[No, I haven't.]]"
+                ],
+                [
+                  "[[Have you ever lost your phone?]]",
+                  "✓ [[Yes, I have.]]"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Te cuento más",
+          "texto": "Además de responder la encuesta, te cuento algunos detalles. Fijate cuándo uso el presente perfecto y cuándo el pasado simple. Tocá 🔊 para escucharlo.",
+          "habla": true,
+          "porPersonaje": {
+            "lucy": {
+              "texto": "Además de responder la encuesta, te cuento algunos detalles. Fijate cuándo uso el presente perfecto y cuándo el pasado simple. Tocá 🔊 para escucharlo.\n\n[[~I have made lots of video calls with my grandparents.]] [[~I have already recorded three videos of our play rehearsals.]] [[~But I have never made a website.]] [[~And I have never lost my phone. I'm very careful!]]"
+            },
+            "ben": {
+              "texto": "Además de responder la encuesta, te cuento algunos detalles. Fijate cuándo uso el presente perfecto y cuándo el pasado simple. Tocá 🔊 para escucharlo.\n\n[[~I have never sent a voice message. I prefer calling!]] [[~I have recorded videos of our basketball games.]] [[~I lost my phone last year, at the gym.]] [[~I haven't bought a new case yet.]]"
+            },
+            "mia": {
+              "texto": "Además de responder la encuesta, te cuento algunos detalles. Fijate cuándo uso el presente perfecto y cuándo el pasado simple. Tocá 🔊 para escucharlo.\n\n[[~I have made a website for a school project.]] [[~I have used a translator app with my grandma's recipes.]] [[~But I have never recorded a video. I'm too shy for that!]] [[~And I have never lost my phone.]]"
+            },
+            "liam": {
+              "texto": "Además de responder la encuesta, te cuento algunos detalles. Fijate cuándo uso el presente perfecto y cuándo el pasado simple. Tocá 🔊 para escucharlo.\n\n[[~I have recorded videos of my band many times.]] [[~I have sent voice messages with new songs to Conor.]] [[~I lost my phone last summer, at the festival.]] [[~I have never made a website, but I want to make one for the band.]]"
+            }
+          }
+        },
+        {
+          "t": "unir",
+          "etiqueta": "Uní",
+          "consigna": "Uní cada parte de lo que te conté con su traducción.",
+          "habla": true,
+          "pista": "Have + participio se traduce con el pasado (hice, grabé, mandé); never, con \"nunca\"; yet, con \"todavía\".",
+          "porPersonaje": {
+            "lucy": {
+              "pares": [
+                {
+                  "a": "I have made lots of video calls.",
+                  "b": "Hice muchas videollamadas."
+                },
+                {
+                  "a": "I have already recorded three videos.",
+                  "b": "Ya grabé tres videos."
+                },
+                {
+                  "a": "I have never made a website.",
+                  "b": "Nunca hice un sitio web."
+                },
+                {
+                  "a": "I have never lost my phone.",
+                  "b": "Nunca perdí el celular."
+                },
+                {
+                  "a": "I'm very careful!",
+                  "b": "¡Soy muy cuidadosa!"
+                }
+              ],
+              "explicacion": "Así queda en castellano: Hice muchas videollamadas con mis abuelos. Ya grabé tres videos de los ensayos de la obra. Pero nunca hice un sitio web. Y nunca perdí el celular. ¡Soy muy cuidadosa!"
+            },
+            "ben": {
+              "pares": [
+                {
+                  "a": "I have never sent a voice message.",
+                  "b": "Nunca mandé un audio."
+                },
+                {
+                  "a": "I prefer calling!",
+                  "b": "¡Prefiero llamar!"
+                },
+                {
+                  "a": "I have recorded videos.",
+                  "b": "Grabé videos."
+                },
+                {
+                  "a": "I lost my phone last year.",
+                  "b": "Perdí el celular el año pasado."
+                },
+                {
+                  "a": "I haven't bought a new case yet.",
+                  "b": "Todavía no compré una funda nueva."
+                }
+              ],
+              "explicacion": "Así queda en castellano: Nunca mandé un audio. ¡Prefiero llamar! Grabé videos de nuestros partidos de básquet. Perdí el celular el año pasado, en el gimnasio. Todavía no compré una funda nueva."
+            },
+            "mia": {
+              "pares": [
+                {
+                  "a": "I have made a website.",
+                  "b": "Hice un sitio web."
+                },
+                {
+                  "a": "I have used a translator app.",
+                  "b": "Usé una aplicación para traducir."
+                },
+                {
+                  "a": "I have never recorded a video.",
+                  "b": "Nunca grabé un video."
+                },
+                {
+                  "a": "I'm too shy for that!",
+                  "b": "¡Soy demasiado tímida para eso!"
+                },
+                {
+                  "a": "I have never lost my phone.",
+                  "b": "Nunca perdí el celular."
+                }
+              ],
+              "explicacion": "Así queda en castellano: Hice un sitio web para un proyecto de la escuela. Usé una aplicación para traducir las recetas de mi abuela. Pero nunca grabé un video. ¡Soy demasiado tímida para eso! Y nunca perdí el celular."
+            },
+            "liam": {
+              "pares": [
+                {
+                  "a": "I have recorded videos of my band.",
+                  "b": "Grabé videos de mi banda."
+                },
+                {
+                  "a": "many times",
+                  "b": "muchas veces"
+                },
+                {
+                  "a": "I have sent voice messages.",
+                  "b": "Mandé audios."
+                },
+                {
+                  "a": "I lost my phone last summer.",
+                  "b": "Perdí el celular el verano pasado."
+                },
+                {
+                  "a": "I want to make one.",
+                  "b": "Quiero hacer uno."
+                }
+              ],
+              "explicacion": "Así queda en castellano: Grabé videos de mi banda muchas veces. Le mandé audios con canciones nuevas a Conor. Perdí el celular el verano pasado, en el festival. Nunca hice un sitio web, pero quiero hacer uno para la banda."
+            }
+          }
+        },
+        {
+          "t": "dictado",
+          "voz": "personaje",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "I have never made a website.",
+              "traduccion": "(Nunca hice un sitio web.)",
+              "explicacion": "Never va entre have y el participio made."
+            },
+            "ben": {
+              "texto": "I have never sent a voice message.",
+              "traduccion": "(Nunca mandé un audio.)",
+              "explicacion": "Never va entre have y el participio sent."
+            },
+            "mia": {
+              "texto": "I have never recorded a video.",
+              "traduccion": "(Nunca grabé un video.)",
+              "explicacion": "Never va entre have y el participio recorded."
+            },
+            "liam": {
+              "texto": "I have never made a website.",
+              "traduccion": "(Nunca hice un sitio web.)",
+              "explicacion": "Never va entre have y el participio made."
+            }
+          }
+        },
+        {
+          "t": "clasificar",
+          "consigna": "Mirá mis respuestas en la tabla. Ayudame a contar mis experiencias en tercera persona: ¿cada oración va con has o con has never?",
+          "habla": true,
+          "categorias": [
+            "has",
+            "has never"
+          ],
+          "explicacion": "Las preguntas con ✓ van con has; las que tienen ✗, con has never.",
+          "pista": "Buscá cada experiencia en la tabla de mis respuestas: ✓ es has y ✗ es has never.",
+          "porPersonaje": {
+            "lucy": {
+              "items": [
+                {
+                  "texto": "Lucy … made a video call.",
+                  "cat": "has"
+                },
+                {
+                  "texto": "Lucy … sent a voice message.",
+                  "cat": "has"
+                },
+                {
+                  "texto": "Lucy … recorded a video.",
+                  "cat": "has"
+                },
+                {
+                  "texto": "Lucy … made a website.",
+                  "cat": "has never"
+                },
+                {
+                  "texto": "Lucy … used a translator app.",
+                  "cat": "has"
+                },
+                {
+                  "texto": "Lucy … lost her phone.",
+                  "cat": "has never"
+                }
+              ]
+            },
+            "ben": {
+              "items": [
+                {
+                  "texto": "Ben … made a video call.",
+                  "cat": "has"
+                },
+                {
+                  "texto": "Ben … sent a voice message.",
+                  "cat": "has never"
+                },
+                {
+                  "texto": "Ben … recorded a video.",
+                  "cat": "has"
+                },
+                {
+                  "texto": "Ben … made a website.",
+                  "cat": "has never"
+                },
+                {
+                  "texto": "Ben … used a translator app.",
+                  "cat": "has never"
+                },
+                {
+                  "texto": "Ben … lost his phone.",
+                  "cat": "has"
+                }
+              ]
+            },
+            "mia": {
+              "items": [
+                {
+                  "texto": "Mia … made a video call.",
+                  "cat": "has"
+                },
+                {
+                  "texto": "Mia … sent a voice message.",
+                  "cat": "has"
+                },
+                {
+                  "texto": "Mia … recorded a video.",
+                  "cat": "has never"
+                },
+                {
+                  "texto": "Mia … made a website.",
+                  "cat": "has"
+                },
+                {
+                  "texto": "Mia … used a translator app.",
+                  "cat": "has"
+                },
+                {
+                  "texto": "Mia … lost her phone.",
+                  "cat": "has never"
+                }
+              ]
+            },
+            "liam": {
+              "items": [
+                {
+                  "texto": "Liam … made a video call.",
+                  "cat": "has"
+                },
+                {
+                  "texto": "Liam … sent a voice message.",
+                  "cat": "has"
+                },
+                {
+                  "texto": "Liam … recorded a video.",
+                  "cat": "has"
+                },
+                {
+                  "texto": "Liam … made a website.",
+                  "cat": "has never"
+                },
+                {
+                  "texto": "Liam … used a translator app.",
+                  "cat": "has never"
+                },
+                {
+                  "texto": "Liam … lost his phone.",
+                  "cat": "has"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "📰 Elegí el titular",
+          "pregunta": "Una revista escolar hizo esta encuesta a 4 estudiantes de distintos países, y los 4 respondieron que sí hicieron una videollamada. ¿Qué titular podría escribir?",
+          "opciones": [
+            "All the students have made a video call",
+            "No student has ever made a video call in their life",
+            "Students made a video call yesterday",
+            "Students are making a video call now"
+          ],
+          "correcta": 0,
+          "explicacion": "Los 4 dijeron que sí: all the students have made… El presente perfecto cuenta la experiencia sin decir cuándo.",
+          "pista": "Si todos dijeron que sí, el titular habla de todos. Y no dice cuándo."
+        },
+        {
+          "t": "pronunciar",
+          "voz": "personaje",
+          "modo": "escuchar",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "I have already recorded three videos.",
+              "traduccion": "(Ya grabé tres videos.)",
+              "explicacion": "Already se dice \"olrédi\", con fuerza en la segunda sílaba."
+            },
+            "ben": {
+              "texto": "I haven't bought a new case yet.",
+              "traduccion": "(Todavía no compré una funda nueva.)",
+              "explicacion": "Bought se dice \"bot\": la gh no suena."
+            },
+            "mia": {
+              "texto": "I have used a translator app.",
+              "traduccion": "(Usé una aplicación para traducir.)",
+              "explicacion": "Used se dice \"iúsd\", con una sola sílaba."
+            },
+            "liam": {
+              "texto": "I have sent voice messages with new songs.",
+              "traduccion": "(Mandé audios con canciones nuevas.)",
+              "explicacion": "En messages la última parte suena \"-iz\": \"mésechiz\"."
+            }
+          }
+        },
+        {
+          "t": "revelar",
+          "habla": true,
+          "pregunta": "¿Hay en lo que te conté alguna oración en pasado simple? Si la hay, ¿por qué no está en presente perfecto? Pensalo antes de mirar.",
+          "porPersonaje": {
+            "lucy": {
+              "respuesta": "No hay ninguna. Todas cuentan experiencias sin decir cuándo (have made, have recorded, have never lost). Si dijera cuándo, por ejemplo [[last Sunday]], cambiaría al pasado simple."
+            },
+            "ben": {
+              "respuesta": "Sí: [[I lost my phone last year, at the gym.]] Va en pasado simple porque dice cuándo pasó: last year. Las demás cuentan experiencias sin fecha."
+            },
+            "mia": {
+              "respuesta": "No hay ninguna. Todas cuentan experiencias sin decir cuándo (have made, have used, have never recorded). Si dijera cuándo, por ejemplo [[last year]], cambiaría al pasado simple."
+            },
+            "liam": {
+              "respuesta": "Sí: [[I lost my phone last summer, at the festival.]] Va en pasado simple porque dice cuándo pasó: last summer. Las demás cuentan experiencias sin fecha."
+            }
+          }
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Ahora contá en tu carpeta mis experiencias con la tecnología, como una parte más de mi biografía. Escribí en inglés un párrafo de cinco a siete oraciones en tercera persona, con lo que respondí en la encuesta: qué hice alguna vez (has + participio) y qué no hice nunca (has never). Si contás cuándo pasó algo, usá el pasado simple. Agregá un detalle que inventes vos.",
+        "habla": true,
+        "porPersonaje": {
+          "lucy": {
+            "guia": [
+              "Empezá así: [[Lucy has made lots of video calls with her grandparents.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[She has already…]] [[She has never…]] [[She hasn't … yet.]] [[Last year, she…]]",
+              "¿Usaste has (y no have) porque es she?",
+              "¿Los participios irregulares están bien escritos (made, sent, lost)?",
+              "¿Cambiaste al pasado simple cuando dijiste cuándo pasó algo?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "ben": {
+            "guia": [
+              "Empezá así: [[Ben has never sent a voice message.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[He has already…]] [[He has never…]] [[He hasn't … yet.]] [[Last year, he…]]",
+              "¿Usaste has (y no have) porque es he?",
+              "¿Los participios irregulares están bien escritos (made, sent, lost)?",
+              "¿Cambiaste al pasado simple cuando dijiste cuándo pasó algo?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "mia": {
+            "guia": [
+              "Empezá así: [[Mia has made a website for a school project.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[She has already…]] [[She has never…]] [[She hasn't … yet.]] [[Last year, she…]]",
+              "¿Usaste has (y no have) porque es she?",
+              "¿Los participios irregulares están bien escritos (made, sent, lost)?",
+              "¿Cambiaste al pasado simple cuando dijiste cuándo pasó algo?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "liam": {
+            "guia": [
+              "Empezá así: [[Liam has recorded videos of his band many times.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[He has already…]] [[He has never…]] [[He hasn't … yet.]] [[Last year, he…]]",
+              "¿Usaste has (y no have) porque es he?",
+              "¿Los participios irregulares están bien escritos (made, sent, lost)?",
+              "¿Cambiaste al pasado simple cuando dijiste cuándo pasó algo?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          }
+        }
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Las encuestas sobre experiencias usan Have you ever…?",
+          "respuesta": true,
+          "explicacion": "Preguntan por la experiencia."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Si se dice cuándo pasó algo, se usa el presente perfecto.",
+          "respuesta": false,
+          "explicacion": "Se usa el pasado simple."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Most students have made a video call\" está en presente perfecto.",
+          "respuesta": true,
+          "explicacion": "Have + made."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Survey quiere decir \"encuesta\".",
+          "respuesta": true,
+          "explicacion": "A survey about technology."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"I lost my phone last year\" está en presente perfecto.",
+          "respuesta": false,
+          "explicacion": "Last year dice cuándo: pasado simple."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Una voice message es un audio.",
+          "respuesta": true,
+          "explicacion": "Mensaje de voz."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"translator app\"?",
+          "opciones": [
+            "Aplicación para traducir",
+            "Aplicación de música",
+            "Juego en línea",
+            "Teléfono nuevo con pantalla grande"
+          ],
+          "correcta": 0,
+          "explicacion": "Translator = traductor."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se cuenta en tercera persona \"I have made a website\"?",
+          "opciones": [
+            "She has made a website.",
+            "She have made a website.",
+            "She has make a website.",
+            "She made a website yesterday."
+          ],
+          "correcta": 0,
+          "explicacion": "She + has + made."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"record a video\"?",
+          "opciones": [
+            "Grabar un video",
+            "Recordar un video",
+            "Borrar un video",
+            "Mirar un video"
+          ],
+          "correcta": 0,
+          "explicacion": "Record = grabar."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración dice cuándo pasó?",
+          "opciones": [
+            "He lost his phone last summer.",
+            "He has lost his phone.",
+            "He has never lost his phone.",
+            "Has he ever lost his phone at school?"
+          ],
+          "correcta": 0,
+          "explicacion": "Last summer: pasado simple."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"Most students\"?",
+          "opciones": [
+            "La mayoría de los estudiantes",
+            "Todos los estudiantes del mundo",
+            "Ningún estudiante",
+            "Pocos estudiantes"
+          ],
+          "correcta": 0,
+          "explicacion": "Most = la mayoría."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"She has ___ lost her phone\"?",
+          "opciones": [
+            "never",
+            "ever",
+            "yet",
+            "didn't"
+          ],
+          "correcta": 0,
+          "explicacion": "Has + never + participio."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "SURVEY",
+          "pista": "Encuesta, en inglés."
+        },
+        {
+          "palabra": "RECORD",
+          "pista": "Grabar, en inglés."
+        },
+        {
+          "palabra": "WEBSITE",
+          "pista": "Sitio web."
+        },
+        {
+          "palabra": "VOICE",
+          "pista": "___ message: audio."
+        },
+        {
+          "palabra": "APP",
+          "pista": "Aplicación, en forma corta."
+        },
+        {
+          "palabra": "LOST",
+          "pista": "Participio de lose."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración cuenta una experiencia sin decir cuándo?",
+          "opciones": [
+            "He has recorded a video.",
+            "He recorded a video yesterday.",
+            "He is recording a video.",
+            "He records videos every day."
+          ],
+          "correcta": 0,
+          "explicacion": "Has + participio."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué tiempo se usa en \"Liam lost his phone last summer\"?",
+          "opciones": [
+            "Pasado simple",
+            "Presente perfecto",
+            "Presente simple",
+            "Pasado continuo"
+          ],
+          "correcta": 0,
+          "explicacion": "Last summer dice cuándo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Mia has never recorded a video\" quiere decir que Mia nunca grabó un video.",
+          "respuesta": true,
+          "explicacion": "Has never = nunca."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "[[Present perfect]]",
+      "definicion": "Presente perfecto: have o has + participio. Cuenta experiencias sin decir cuándo."
+    },
+    {
+      "palabra": "[[ever]]",
+      "definicion": "Alguna vez. Va en preguntas: Have you ever…?"
+    },
+    {
+      "palabra": "[[never]]",
+      "definicion": "Nunca. Va con have, sin not."
+    },
+    {
+      "palabra": "[[already]]",
+      "definicion": "Ya."
+    },
+    {
+      "palabra": "[[yet]]",
+      "definicion": "Todavía (en negativas) o ya (en preguntas). Va al final."
+    },
+    {
+      "palabra": "[[survey]]",
+      "definicion": "Encuesta."
+    },
+    {
+      "palabra": "[[voice message]]",
+      "definicion": "Audio, mensaje de voz."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "She have sent a message.",
+      "aclaracion": "Con she va has: She has sent a message."
+    },
+    {
+      "error": "I haven't never lost my phone.",
+      "aclaracion": "Never ya niega: I have never lost my phone."
+    },
+    {
+      "error": "I have made a video call yesterday.",
+      "aclaracion": "Si se dice cuándo, va el pasado simple: I made a video call yesterday."
+    }
+  ]
+}

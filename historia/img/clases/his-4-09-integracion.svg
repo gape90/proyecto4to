@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" role="img" aria-label="Esquema: el Mercosur está dentro de la Unasur, que está dentro de la CELAC" font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect x="0" y="0" width="1000" height="600" rx="28" fill="#F7F4FD"/>
+<g class="a-ap" style="--d:0s">
+<ellipse cx="500" cy="318" rx="470" ry="270" fill="#FFF3DC" stroke="#EBCB91" stroke-width="3"/>
+<text x="80" y="230.0" font-size="26" font-weight="800" fill="#B26A00" text-anchor="start">CELAC (2011)</text>
+<text x="80" y="262.0" font-size="19" font-weight="700" fill="#4A4870" text-anchor="start">Países de América</text>
+<text x="80" y="286.7" font-size="19" font-weight="700" fill="#4A4870" text-anchor="start">Latina y el Caribe</text>
+</g>
+<g class="a-ap" style="--d:.8s">
+<ellipse cx="560" cy="350" rx="330" ry="200" fill="#FCEAF2" stroke="#F0C3D8" stroke-width="3"/>
+<text x="262" y="330.0" font-size="26" font-weight="800" fill="#B83A7A" text-anchor="start">UNASUR (2008)</text>
+<text x="262" y="362.0" font-size="19" font-weight="700" fill="#4A4870" text-anchor="start">Los doce países</text>
+<text x="262" y="386.7" font-size="19" font-weight="700" fill="#4A4870" text-anchor="start">de América del Sur</text>
+</g>
+<g class="a-ap" style="--d:1.6s">
+<ellipse cx="690" cy="380" rx="170" ry="115" fill="#E6E7F6" stroke="#C5C7EA" stroke-width="3"/>
+<text x="690" y="360" font-size="26" font-weight="800" fill="#4B4FA3" text-anchor="middle">MERCOSUR (1991)</text>
+<text x="690" y="394.0" font-size="20" font-weight="700" fill="#4A4870" text-anchor="middle">Argentina, Brasil,</text>
+<text x="690" y="420.0" font-size="20" font-weight="700" fill="#4A4870" text-anchor="middle">Paraguay y Uruguay</text>
+</g>
+<text x="500" y="46" font-size="30" font-weight="800" fill="#1B1A4A" text-anchor="middle">La integración regional</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" role="img" aria-label="Esquema: cómo se votaba antes de 1912 y desde la Ley Sáenz Peña" font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect x="16" y="16" width="476" height="608" rx="28" fill="#FCEAEA" stroke="#F3C9C9" stroke-width="2"/>
+<rect x="508" y="16" width="476" height="608" rx="28" fill="#D3EFDF" stroke="#A9DEC2" stroke-width="2"/>
+<text x="254" y="66" text-anchor="middle" font-size="30" font-weight="800" fill="#C23B3B">ANTES DE 1912</text>
+<text x="746" y="66" text-anchor="middle" font-size="30" font-weight="800" fill="#1F9D6B">DESDE 1912</text>
+<text x="746" y="94" text-anchor="middle" font-size="20" font-weight="700" fill="#1F9D6B">Ley Sáenz Peña</text>
+<g transform="translate(110,110)"><rect x="70" y="80" width="150" height="14" rx="4" fill="#4A4870"/>
+    <rect x="82" y="94" width="8" height="40" fill="#4A4870"/><rect x="200" y="94" width="8" height="40" fill="#4A4870"/>
+    <rect x="96" y="60" width="44" height="20" rx="3" fill="#fff" stroke="#4A4870" stroke-width="3"/>
+    <line x1="102" y1="67" x2="134" y2="67" stroke="#4A4870" stroke-width="2"/><line x1="102" y1="73" x2="126" y2="73" stroke="#4A4870" stroke-width="2"/>
+    <circle cx="30" cy="40" r="16" fill="#4B4FA3"/><rect x="12" y="58" width="36" height="66" rx="14" fill="#4B4FA3"/>
+    <path d="M40 2 h150 a12 12 0 0 1 12 12 v22 a12 12 0 0 1 -12 12 h-128 l-16 14 l2 -14 h-8 a12 12 0 0 1 -12 -12 v-22 a12 12 0 0 1 12 -12z" fill="#fff" stroke="#C23B3B" stroke-width="3" transform="translate(4,-40)"/>
+    <text x="119" y="-7" text-anchor="middle" font-size="21" font-weight="800" fill="#C23B3B">¡Voto por…!</text>
+    <circle cx="262" cy="40" r="16" fill="#B83A7A"/><rect x="244" y="58" width="36" height="66" rx="14" fill="#B83A7A"/>
+    <path d="M232 22 q-14 10 -4 24" fill="none" stroke="#B83A7A" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="255" cy="38" r="3" fill="#fff"/></g>
+<g transform="translate(600,110)"><rect x="0" y="0" width="120" height="130" rx="8" fill="#4A4870"/>
+    <path d="M8 8 h104 v8 q-13 10 -26 0 q-13 10 -26 0 q-13 10 -26 0 q-13 10 -26 0z" fill="#1F9D6B"/>
+    <path d="M8 16 v106 h22 q-8 -50 0 -106z M112 16 v106 h-22 q8 -50 0 -106z" fill="#2FB57E"/>
+    <rect x="160" y="60" width="110" height="74" rx="8" fill="#fff" stroke="#1F9D6B" stroke-width="4"/>
+    <rect x="190" y="56" width="50" height="8" rx="3" fill="#1F9D6B"/>
+    <text x="215" y="108" text-anchor="middle" font-size="18" font-weight="800" fill="#1F9D6B">URNA</text>
+    <g transform="translate(196,6) rotate(-8)"><rect x="0" y="0" width="44" height="30" rx="3" fill="#FFF3DC" stroke="#B26A00" stroke-width="3"/><path d="M0 0 l22 16 l22 -16" fill="none" stroke="#B26A00" stroke-width="3"/></g></g>
+<text x="50" y="274" font-size="21" font-weight="700" fill="#4A4870">El voto</text>
+<rect x="50" y="282" width="400" height="70" rx="14" fill="#fff" stroke="#C23B3B" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="50" y="394" font-size="21" font-weight="700" fill="#4A4870">Quiénes votaban</text>
+<rect x="50" y="402" width="400" height="70" rx="14" fill="#fff" stroke="#C23B3B" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="50" y="514" font-size="21" font-weight="700" fill="#4A4870">¿Era obligatorio?</text>
+<rect x="50" y="522" width="400" height="70" rx="14" fill="#fff" stroke="#C23B3B" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="550" y="274" font-size="21" font-weight="700" fill="#4A4870">El voto</text>
+<rect x="550" y="282" width="400" height="70" rx="14" fill="#fff" stroke="#1F9D6B" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="550" y="394" font-size="21" font-weight="700" fill="#4A4870">Quiénes votaban</text>
+<rect x="550" y="402" width="400" height="70" rx="14" fill="#fff" stroke="#1F9D6B" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="550" y="514" font-size="21" font-weight="700" fill="#4A4870">¿Era obligatorio?</text>
+<rect x="550" y="522" width="400" height="70" rx="14" fill="#fff" stroke="#1F9D6B" stroke-width="3" stroke-dasharray="10 8"/>
+<path d="M478 180 h30 l-10 -12 M508 180 l-10 12" fill="none" stroke="#5B2A86" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

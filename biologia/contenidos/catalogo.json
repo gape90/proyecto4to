@@ -1,0 +1,107 @@
+{
+ "version": "biologia-0.1",
+ "fuente": "Diseño Curricular de Educación Secundaria Orientada, Santa Fe (Res. 2630/14, Anexo III), Ciclo Orientado, 4.º año, Biología.",
+ "espacios": [
+  {
+   "id": "biologia",
+   "nombre": "Biología",
+   "habilitado": true,
+   "modalidades": [
+    "orientada"
+   ]
+  }
+ ],
+ "contenidos": {
+  "biologia": [
+   {
+    "id": "b1",
+    "eje": "Los sistemas y funciones de nutrición",
+    "titulo": "La química de la vida: biomoléculas y metabolismo",
+    "activo": true,
+    "clase": "bio-4-01",
+    "desglose": [
+     "Las células, los bioelementos y las biomoléculas",
+     "Los organismos como sistemas abiertos: medio interno y homeostasis",
+     "Metabolismo: anabolismo y catabolismo",
+     "Glucólisis, respiración celular y biosíntesis de proteínas"
+    ]
+   },
+   {
+    "id": "b2",
+    "eje": "Los sistemas y funciones de nutrición",
+    "titulo": "Nutrición y alimentación",
+    "activo": true,
+    "clase": "bio-4-02",
+    "desglose": [
+     "Concepto de nutrición y su variedad en los seres vivos",
+     "Clasificación de los nutrientes según su función",
+     "Diferencia entre nutrición y alimentación",
+     "Desórdenes alimentarios (abordaje conceptual)"
+    ]
+   },
+   {
+    "id": "b3",
+    "eje": "Los sistemas y funciones de nutrición",
+    "titulo": "Los sistemas digestivo y respiratorio",
+    "activo": true,
+    "clase": "bio-4-03",
+    "desglose": [
+     "Anatomía y fisiología del sistema digestivo",
+     "Anatomía y fisiología del sistema respiratorio",
+     "Funcionamiento normal y patológico"
+    ]
+   },
+   {
+    "id": "b4",
+    "eje": "Los sistemas y funciones de nutrición",
+    "titulo": "Los sistemas circulatorio y excretor",
+    "activo": true,
+    "clase": "bio-4-04",
+    "desglose": [
+     "Anatomía y fisiología del sistema circulatorio",
+     "Anatomía y fisiología del sistema excretor",
+     "Integración de los cuatro sistemas de nutrición y homeostasis",
+     "Funcionamiento normal y patológico"
+    ]
+   },
+   {
+    "id": "b5",
+    "eje": "El sistema osteo-artro-muscular",
+    "titulo": "El sistema osteo-artro-muscular",
+    "activo": true,
+    "clase": "bio-4-05",
+    "desglose": [
+     "Huesos, músculos y articulaciones: estructura y clasificación",
+     "Constitución química, celular y tisular",
+     "Movimiento y locomoción",
+     "Comparación entre seres vivos: adaptaciones y conexiones evolutivas"
+    ]
+   },
+   {
+    "id": "b6",
+    "eje": "Los sistemas de regulación y control",
+    "titulo": "El sistema nervioso",
+    "activo": true,
+    "clase": "bio-4-06",
+    "desglose": [
+     "Sistema nervioso central, periférico y autónomo",
+     "El tejido nervioso: origen, células y clasificación",
+     "Impulso nervioso, sinapsis y neurotransmisores",
+     "Salud: adicciones (abordaje conceptual)"
+    ]
+   },
+   {
+    "id": "b7",
+    "eje": "Los sistemas de regulación y control",
+    "titulo": "El sistema endocrino y su relación con el nervioso",
+    "activo": true,
+    "clase": "bio-4-07",
+    "desglose": [
+     "Hormonas, glándulas y órganos blanco",
+     "Retroalimentación y desequilibrios hormonales",
+     "Organización del sistema neuroendocrino en vertebrados"
+    ]
+   }
+  ]
+ }
+}

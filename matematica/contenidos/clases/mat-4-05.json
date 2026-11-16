@@ -1,0 +1,937 @@
+{
+ "id": "mat-4-05",
+ "espacio": "matematica",
+ "eje": "Álgebra y funciones",
+ "titulo": "Ecuación completa de segundo grado",
+ "intro": "Una ecuación de segundo grado puede tener dos soluciones, una sola o ninguna. Vas a resolverla completando un cuadrado, después con la fórmula resolvente, y vas a aprender a anticipar cuántas soluciones tiene sin resolverla.",
+ "objetivos": [
+  "Resolver una ecuación de segundo grado completando cuadrados, con dibujos y con cuentas.",
+  "Resolver cualquier ecuación de segundo grado con la fórmula resolvente.",
+  "Anticipar con el discriminante cuántas soluciones tiene una ecuación."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: cómo se completa un cuadrado, con el dibujo y con las cuentas; cómo se usa la fórmula resolvente, y qué te dice el discriminante sobre las soluciones.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Completar el cuadrado",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Una ecuación con x²",
+     "texto": "Una **ecuación de segundo grado** se puede escribir como **ax² + bx + c = 0**, con a distinto de 0. Resolverla es encontrar los valores de x que la cumplen: sus **soluciones** o **raíces**.\n\nUn método es **completar el cuadrado**. Pensemos en x² + 6x = 16. El término x² es el área de un cuadrado de lado x. El término 6x se puede partir en dos rectángulos de lados 3 y x."
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/mat-4-05-completar-cuadrado.svg",
+     "src_movil": "img/clases/mat-4-05-completar-cuadrado-movil.svg",
+     "tipo": "grafico",
+     "animacion": "svg",
+     "alt": "Un cuadrado de lado x y dos rectángulos de lados 3 y x se acomodan formando una L. Falta una esquina de 3 por 3, que vale 9. Al agregarla, queda un cuadrado de lado x + 3.",
+     "epigrafe": "x² + 6x, con áreas: para completar el cuadrado falta la esquina de 9. Esquema elaborado para esta clase."
+    },
+    {
+     "t": "pasos",
+     "titulo": "Resolvé x² + 6x = 16 completando el cuadrado",
+     "pasos": [
+      {
+       "titulo": "Sumá la esquina que falta a los dos lados",
+       "texto": "x² + 6x + 9 = 16 + 9, o sea, x² + 6x + 9 = 25."
+      },
+      {
+       "titulo": "Escribí el cuadrado completo",
+       "texto": "Como x² + 6x + 9 = (x + 3)², queda (x + 3)² = 25."
+      },
+      {
+       "titulo": "Pensá qué números al cuadrado dan 25",
+       "texto": "Son 5 y −5. Entonces x + 3 = 5 o x + 3 = −5."
+      },
+      {
+       "titulo": "Despejá x",
+       "texto": "x = 2 o x = −8. Comprobación: 2² + 6 · 2 = 16 y (−8)² + 6 · (−8) = 64 − 48 = 16."
+      }
+     ]
+    },
+    {
+     "t": "destacado",
+     "texto": "Para completar el cuadrado de **x² + bx**, la esquina que falta es **(b / 2)²**. Con x² + 6x, la mitad de 6 es 3 y 3² = 9. Lo que se suma de un lado de la ecuación se suma también del otro."
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Qué número hay que sumarle a x² + 10x para completar un cuadrado?",
+     "respuesta": "25",
+     "explicacion": "La mitad de 10 es 5, y 5² = 25: x² + 10x + 25 = (x + 5)².",
+     "pista1": "Releé el recuadro: la esquina que falta depende del número que acompaña a x.",
+     "pista": "Calculá la mitad de 10 y elevala al cuadrado."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá con los números que corresponden.",
+     "texto": "Para x² + 8x, la mitad de 8 es [[4]] y la esquina que falta es [[16]]. Entonces x² + 8x + 16 = (x + [[4]])².",
+     "distractores": [
+      "8",
+      "64",
+      "2"
+     ],
+     "explicacion": "4² = 16, y x² + 8x + 16 = (x + 4)².",
+     "pista": "Seguí la regla del recuadro: la mitad del número que acompaña a x, al cuadrado."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los pasos para resolver x² + 4x = 12.",
+     "items": [
+      "Sumar 4 a los dos lados: x² + 4x + 4 = 16",
+      "Escribir el cuadrado: (x + 2)² = 16",
+      "Plantear x + 2 = 4 o x + 2 = −4",
+      "Despejar: x = 2 o x = −6"
+     ],
+     "explicacion": "Es el mismo camino del paso a paso: completar, escribir el cuadrado, pensar las dos raíces y despejar.",
+     "pista": "Seguí el orden del paso a paso de x² + 6x = 16."
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Desafío",
+     "consigna": "Resolvé x² + 6x = 7 completando el cuadrado. ¿Cuál es la solución positiva?",
+     "respuesta": "1",
+     "explicacion": "x² + 6x + 9 = 16, o sea, (x + 3)² = 16. Entonces x + 3 = 4 o x + 3 = −4: x = 1 o x = −7.",
+     "pista1": "Es la misma esquina que en el ejemplo: sumá 9 a los dos lados.",
+     "pista": "Te queda (x + 3)² = 16. ¿Qué números al cuadrado dan 16?"
+    },
+    {
+     "t": "revelar",
+     "pregunta": "¿Por qué de (x + 3)² = 25 salen dos soluciones y no una?",
+     "respuesta": "Porque hay dos números que al cuadrado dan 25: 5 y −5. Si solo usás el 5, perdés la solución x = −8."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Dibujá cómo se completa el cuadrado de x² + 6x y resolvé x² + 6x = 16 paso a paso. Comprobá las dos soluciones.",
+    "guia": [
+     "¿Qué forma tiene una ecuación de segundo grado y qué representan x² y 6x en el dibujo?",
+     "¿Qué esquina falta para completar el cuadrado y cuánto vale?",
+     "¿Cuáles son las dos soluciones de x² + 6x = 16?",
+     "Comprobá las dos soluciones."
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "x² + 6x + 9 = (x + 3)².",
+     "respuesta": true,
+     "explicacion": "Es el cuadrado completo del dibujo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Para completar x² + 10x hay que sumar 10.",
+     "respuesta": false,
+     "explicacion": "Hay que sumar (10 / 2)² = 25."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Si (x + 3)² = 25, entonces x + 3 puede valer 5 o −5.",
+     "respuesta": true,
+     "explicacion": "5² = 25 y (−5)² = 25."
+    },
+    {
+     "tipo": "vf",
+     "texto": "x = 2 es solución de x² + 6x = 16.",
+     "respuesta": true,
+     "explicacion": "4 + 12 = 16."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Al completar el cuadrado, se suma la esquina solo de un lado.",
+     "respuesta": false,
+     "explicacion": "Se suma de los dos lados para no cambiar la ecuación."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Una ecuación de segundo grado puede tener dos soluciones.",
+     "respuesta": true,
+     "explicacion": "Como x² + 6x = 16, con x = 2 y x = −8."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hay que sumar a x² + 8x para completar el cuadrado?",
+     "opciones": [
+      "8",
+      "4",
+      "16",
+      "64"
+     ],
+     "correcta": 2,
+     "explicacion": "(8 / 2)² = 16."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "x² + 4x + 4 es igual a…",
+     "opciones": [
+      "(x + 2)²",
+      "(x + 4)²",
+      "(x + 1)²",
+      "x² + 8"
+     ],
+     "correcta": 0,
+     "explicacion": "(x + 2)² = x² + 4x + 4."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Si (x + 1)² = 9, las soluciones son…",
+     "opciones": [
+      "2 y 4",
+      "3 y −3",
+      "2 y −4",
+      "8 y −10"
+     ],
+     "correcta": 2,
+     "explicacion": "x + 1 = 3 o x + 1 = −3."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En el dibujo, el término 6x se representa con…",
+     "opciones": [
+      "un cuadrado de lado 6",
+      "dos rectángulos de 3 por x",
+      "seis cuadrados chicos",
+      "una esquina de 3 por 3 que falta"
+     ],
+     "correcta": 1,
+     "explicacion": "3x + 3x = 6x."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es solución de x² + 4x = 12?",
+     "opciones": [
+      "3",
+      "−4",
+      "6",
+      "−6"
+     ],
+     "correcta": 3,
+     "explicacion": "36 − 24 = 12."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "La esquina que falta para x² + bx es…",
+     "opciones": [
+      "b²",
+      "(b / 2)²",
+      "(b + 2)²",
+      "b / 2"
+     ],
+     "correcta": 1,
+     "explicacion": "La mitad de b, al cuadrado."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "CUADRADO",
+     "pista": "Figura que se completa agregando la esquina que falta."
+    },
+    {
+     "palabra": "ESQUINA",
+     "pista": "Pieza de (b / 2)² que falta para completar el cuadrado."
+    },
+    {
+     "palabra": "SOLUCIÓN",
+     "pista": "Valor de x que cumple la ecuación."
+    },
+    {
+     "palabra": "RAÍCES",
+     "pista": "Otro nombre de las soluciones de la ecuación."
+    },
+    {
+     "palabra": "COMPROBAR",
+     "pista": "Reemplazar x en la ecuación para ver si se cumple."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué número completa el cuadrado de x² + 12x?",
+     "opciones": [
+      "12",
+      "36",
+      "144",
+      "6"
+     ],
+     "correcta": 1,
+     "explicacion": "(12 / 2)² = 6² = 36."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuáles son las soluciones de (x + 2)² = 16?",
+     "opciones": [
+      "2 y −6",
+      "4 y −4",
+      "14 y −18",
+      "2 y 6"
+     ],
+     "correcta": 0,
+     "explicacion": "x + 2 = 4 o x + 2 = −4."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Para completar el cuadrado hay que sumar el mismo número a los dos lados de la ecuación.",
+     "respuesta": true,
+     "explicacion": "Así la igualdad se sigue cumpliendo."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "La fórmula resolvente",
+   "tiempo": "35 a 45 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Una fórmula para todas",
+     "texto": "Si se completa el cuadrado con letras en lugar de números, en ax² + bx + c = 0, se llega a una fórmula que resuelve **cualquier** ecuación de segundo grado: la **fórmula resolvente**.\n\nPara usarla, primero la ecuación tiene que estar igualada a 0. Después se identifican **a**, **b** y **c**, con su signo."
+    },
+    {
+     "t": "ecuacion",
+     "titulo": "Fórmula resolvente",
+     "formula": "x = (−b ± √(b² − 4ac)) / (2a)",
+     "texto": "El signo ± indica que hay que hacer la cuenta dos veces: una sumando la raíz y otra restándola."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Cómo identificar a, b y c",
+     "columnas": [
+      "Ecuación",
+      "a",
+      "b",
+      "c"
+     ],
+     "filas": [
+      [
+       "2x² − 4x − 6 = 0",
+       "2",
+       "−4",
+       "−6"
+      ],
+      [
+       "x² − 9 = 0",
+       "1",
+       "0 (no hay término con x)",
+       "−9"
+      ],
+      [
+       "3x² + x = 0",
+       "3",
+       "1",
+       "0 (no hay número solo)"
+      ],
+      [
+       "−x² + 2x + 5 = 0",
+       "−1",
+       "2",
+       "5"
+      ]
+     ]
+    },
+    {
+     "t": "pasos",
+     "titulo": "Resolvé 2x² − 4x − 6 = 0",
+     "pasos": [
+      {
+       "titulo": "Identificá a, b y c",
+       "texto": "a = 2, b = −4, c = −6."
+      },
+      {
+       "titulo": "Calculá lo que va dentro de la raíz",
+       "texto": "b² − 4ac = (−4)² − 4 · 2 · (−6) = 16 + 48 = 64."
+      },
+      {
+       "titulo": "Reemplazá en la fórmula",
+       "texto": "x = (4 ± √64) / 4 = (4 ± 8) / 4."
+      },
+      {
+       "titulo": "Hacé las dos cuentas",
+       "texto": "x = 12 / 4 = **3** o x = −4 / 4 = **−1**."
+      }
+     ]
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada ecuación con sus valores de a, b y c.",
+     "pares": [
+      {
+       "a": "x² − 5x + 6 = 0",
+       "b": "a = 1, b = −5, c = 6"
+      },
+      {
+       "a": "2x² + 3x − 1 = 0",
+       "b": "a = 2, b = 3, c = −1"
+      },
+      {
+       "a": "x² − 9 = 0",
+       "b": "a = 1, b = 0, c = −9"
+      },
+      {
+       "a": "−x² + 4x = 0",
+       "b": "a = −1, b = 4, c = 0"
+      }
+     ],
+     "explicacion": "a acompaña a x², b acompaña a x y c es el número solo. Si un término falta, vale 0.",
+     "pista": "Si no te acordás, mirá la tabla de arriba. Cuidado con los signos."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Resolvé x² − 5x + 6 = 0 con la fórmula resolvente. ¿Cuál es la solución mayor?",
+     "respuesta": "3",
+     "explicacion": "b² − 4ac = 25 − 24 = 1. x = (5 ± 1) / 2: x = 3 o x = 2.",
+     "pista1": "a = 1, b = −5 y c = 6. Empezá por b² − 4ac.",
+     "pista": "b² − 4ac = 1. Calculá (5 + 1) / 2 y (5 − 1) / 2."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🔍 Encontrá el error",
+     "pregunta": "Así resolvió una persona x² + 2x − 3 = 0. ¿En qué paso hay un error?",
+     "opciones": [
+      "Se identifica a = 1, b = 2 y c = −3",
+      "b² − 4ac = 4 + 12 = 16",
+      "x = (−2 ± 4) / 2",
+      "Las soluciones son 1 y 3"
+     ],
+     "correcta": 3,
+     "explicacion": "Las cuentas son (−2 + 4) / 2 = 1 y (−2 − 4) / 2 = −3. Las soluciones son 1 y −3.",
+     "pista": "Hacé vos las dos cuentas del último paso."
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Desafío",
+     "consigna": "Resolvé x² + 2x − 15 = 0. ¿Cuál es la solución negativa?",
+     "respuesta": "-5",
+     "explicacion": "b² − 4ac = 4 + 60 = 64. x = (−2 ± 8) / 2: x = 3 o x = −5.",
+     "pista1": "a = 1, b = 2, c = −15. Ojo: menos por menos da más en − 4ac.",
+     "pista": "b² − 4ac = 64 y √64 = 8. Calculá (−2 − 8) / 2."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "¿Qué pasaría si, al calcular b² − 4ac, te diera un número negativo?",
+     "respuesta": "No se podría calcular la raíz cuadrada con números reales, porque ningún número real al cuadrado da negativo. Eso indica que la ecuación **no tiene soluciones reales**. Lo vas a ver en la parte que sigue."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Escribí la fórmula resolvente y explicá cómo se usa, resolviendo 2x² − 4x − 6 = 0 paso a paso. Comprobá una de las soluciones.",
+    "guia": [
+     "¿Qué tiene que pasar con la ecuación antes de usar la fórmula y cómo identificás a, b y c?",
+     "¿Cuáles son las soluciones de 2x² − 4x − 6 = 0?",
+     "Comprobá que x = 3 es solución.",
+     "Resolvé x² − 5x + 6 = 0."
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "En x² − 9 = 0, b vale 0.",
+     "respuesta": true,
+     "explicacion": "No hay término con x."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En 2x² − 4x − 6 = 0, b vale 4.",
+     "respuesta": false,
+     "explicacion": "b = −4: el signo forma parte del número."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El ± de la fórmula indica que hay que hacer dos cuentas.",
+     "respuesta": true,
+     "explicacion": "Una sumando la raíz y otra restándola."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las soluciones de x² − 5x + 6 = 0 son 2 y 3.",
+     "respuesta": true,
+     "explicacion": "4 − 10 + 6 = 0 y 9 − 15 + 6 = 0."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La fórmula resolvente sirve aunque la ecuación no esté igualada a 0.",
+     "respuesta": false,
+     "explicacion": "Primero hay que dejarla igualada a 0."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En 3x² + x = 0, c vale 0.",
+     "respuesta": true,
+     "explicacion": "No hay número solo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En −x² + 2x + 5 = 0, a vale…",
+     "opciones": [
+      "1",
+      "−1",
+      "2",
+      "−2"
+     ],
+     "correcta": 1,
+     "explicacion": "El coeficiente de x² es −1."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En x² + 2x − 15 = 0, b² − 4ac vale…",
+     "opciones": [
+      "64",
+      "−56",
+      "4",
+      "60"
+     ],
+     "correcta": 0,
+     "explicacion": "4 − 4 · 1 · (−15) = 4 + 60 = 64."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Las soluciones de x² + 2x − 3 = 0 son…",
+     "opciones": [
+      "1 y 3",
+      "−1 y 3",
+      "−1 y −3",
+      "1 y −3"
+     ],
+     "correcta": 3,
+     "explicacion": "(−2 ± 4) / 2."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En la fórmula, lo que va dentro de la raíz es…",
+     "opciones": [
+      "b − 4ac",
+      "b² − 4ac",
+      "b² + 4ac",
+      "4ac − b²"
+     ],
+     "correcta": 1,
+     "explicacion": "Es b² − 4ac."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "El denominador de la fórmula resolvente es…",
+     "opciones": [
+      "a",
+      "(b + 2)²",
+      "2a",
+      "4a"
+     ],
+     "correcta": 2,
+     "explicacion": "x = (−b ± √(b² − 4ac)) / (2a)."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es solución de 2x² − 4x − 6 = 0?",
+     "opciones": [
+      "−3",
+      "1",
+      "2",
+      "3"
+     ],
+     "correcta": 3,
+     "explicacion": "18 − 12 − 6 = 0."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "RESOLVENTE",
+     "pista": "Fórmula que resuelve cualquier ecuación de segundo grado."
+    },
+    {
+     "palabra": "COEFICIENTE",
+     "pista": "Número que acompaña a x² o a x."
+    },
+    {
+     "palabra": "SIGNO",
+     "pista": "Hay que respetarlo al identificar a, b y c."
+    },
+    {
+     "palabra": "IGUALADA",
+     "pista": "La ecuación tiene que estar ___ a cero."
+    },
+    {
+     "palabra": "DENOMINADOR",
+     "pista": "En la fórmula resolvente es 2a."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuáles son las soluciones de x² − 7x + 10 = 0?",
+     "opciones": [
+      "2 y 5",
+      "−2 y −5",
+      "1 y 10",
+      "−2 y 5"
+     ],
+     "correcta": 0,
+     "explicacion": "b² − 4ac = 49 − 40 = 9; x = (7 ± 3) / 2."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En 5 − x² + 2x = 0, ¿cuánto valen a, b y c?",
+     "opciones": [
+      "a = 5, b = −1, c = 2",
+      "a = 1, b = 2, c = 5",
+      "a = −1, b = 2, c = 5",
+      "a = 2, b = −1, c = 5"
+     ],
+     "correcta": 2,
+     "explicacion": "Ordenada: −x² + 2x + 5 = 0."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Si se completa el cuadrado con letras en ax² + bx + c = 0, se llega a la fórmula resolvente.",
+     "respuesta": true,
+     "explicacion": "La fórmula es el resultado de completar el cuadrado en general."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "El discriminante",
+   "tiempo": "35 a 45 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Anticipar sin resolver",
+     "texto": "Lo que va dentro de la raíz en la fórmula resolvente se llama **discriminante** y se escribe con la letra griega Δ (delta): **Δ = b² − 4ac**. Con solo calcularlo, sabés cuántas soluciones tiene la ecuación.\n\nTambién se ve en el gráfico de la **parábola** y = ax² + bx + c: las soluciones son los puntos donde la parábola corta el eje x."
+    },
+    {
+     "t": "destacado",
+     "texto": "**Δ > 0:** dos soluciones distintas. La parábola corta el eje x en dos puntos.\n**Δ = 0:** una sola solución. La parábola toca el eje x en un punto.\n**Δ < 0:** ninguna solución real. La parábola no toca el eje x."
+    },
+    {
+     "t": "sim",
+     "sim": "parabola",
+     "titulo": "La parábola y = x² + 4x + c",
+     "inicial": {
+      "a": 1,
+      "b": 4,
+      "c": 0
+     },
+     "fijos": [
+      "a",
+      "b"
+     ],
+     "consigna": "Mové el control de c hasta que la parábola toque el eje x en un solo punto.",
+     "objetivo": {
+      "cumple": {
+       "raices": 1
+      }
+     },
+     "explicacion": "Con c = 4, Δ = 4² − 4 · 1 · 4 = 0: hay una sola solución, x = −2. Si c es más chico, Δ es positivo y hay dos cortes; si es más grande, Δ es negativo y no hay ninguno."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "Calculá el discriminante de cada ecuación. ¿Cuántas soluciones reales tiene?",
+     "categorias": [
+      "Dos soluciones",
+      "Una solución",
+      "Ninguna solución real"
+     ],
+     "items": [
+      {
+       "texto": "x² − 4 = 0",
+       "cat": "Dos soluciones"
+      },
+      {
+       "texto": "2x² − 3x + 1 = 0",
+       "cat": "Dos soluciones"
+      },
+      {
+       "texto": "x² − 6x + 9 = 0",
+       "cat": "Una solución"
+      },
+      {
+       "texto": "x² + 2x + 1 = 0",
+       "cat": "Una solución"
+      },
+      {
+       "texto": "x² + 4 = 0",
+       "cat": "Ninguna solución real"
+      },
+      {
+       "texto": "x² + x + 1 = 0",
+       "cat": "Ninguna solución real"
+      }
+     ],
+     "explicacion": "Los discriminantes son 16 y 1 (positivos), 0 y 0, y −16 y −3 (negativos).",
+     "pista": "Para cada una, identificá a, b y c y calculá b² − 4ac. Después fijate en el signo."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Calculá el discriminante de 3x² − 2x + 5 = 0.",
+     "respuesta": "-56",
+     "explicacion": "Δ = (−2)² − 4 · 3 · 5 = 4 − 60 = −56. Como es negativo, la ecuación no tiene soluciones reales.",
+     "pista1": "a = 3, b = −2, c = 5. Usá Δ = b² − 4ac.",
+     "pista": "(−2)² = 4 y 4 · 3 · 5 = 60. Hacé la resta."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Para qué valor de c la ecuación x² − 6x + c = 0 tiene una sola solución?",
+     "opciones": [
+      "c = 3",
+      "c = 6",
+      "c = 9",
+      "c = 36"
+     ],
+     "correcta": 2,
+     "explicacion": "Hace falta Δ = 0: 36 − 4c = 0, entonces c = 9. Es el cuadrado (x − 3)².",
+     "pista": "Planteá que b² − 4ac sea igual a 0, con b = −6."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "Si Δ = 0, la parábola toca el eje x en un solo punto.",
+       "v": true,
+       "explicacion": "Es el caso de una sola solución."
+      },
+      {
+       "texto": "Si Δ < 0, la ecuación tiene dos soluciones negativas.",
+       "v": false,
+       "explicacion": "Si Δ < 0 no tiene soluciones reales.",
+       "pista": "Releé el recuadro de esta parte."
+      },
+      {
+       "texto": "Para saber cuántas soluciones hay, no hace falta resolver la ecuación.",
+       "v": true,
+       "explicacion": "Alcanza con el signo del discriminante."
+      },
+      {
+       "texto": "x² + 4 = 0 tiene dos soluciones.",
+       "v": false,
+       "explicacion": "Δ = −16: no tiene soluciones reales. Ningún número al cuadrado más 4 da 0.",
+       "pista": "Calculá b² − 4ac con b = 0."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "¿Por qué cuando Δ = 0 hay una sola solución, si la fórmula tiene ±?",
+     "respuesta": "Porque √0 = 0, y sumar o restar 0 da lo mismo: las dos cuentas de la fórmula dan el mismo resultado, x = −b / (2a)."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es el discriminante y qué te dice sobre las soluciones. Dibujá cómo es la parábola en cada uno de los tres casos e incluí un ejemplo de cada uno.",
+    "guia": [
+     "¿Cuál es la fórmula del discriminante y qué pasa con las soluciones si Δ es positivo, cero o negativo?",
+     "Calculá Δ en x² − 4x + 4 = 0 y decí cuántas soluciones tiene.",
+     "Calculá Δ en x² + 2x + 5 = 0 y decí cuántas soluciones tiene.",
+     "¿Cómo se ve cada caso en la parábola?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El discriminante es Δ = b² − 4ac.",
+     "respuesta": true,
+     "explicacion": "Es lo que va dentro de la raíz en la fórmula."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Si Δ > 0, la ecuación tiene dos soluciones distintas.",
+     "respuesta": true,
+     "explicacion": "La parábola corta el eje x en dos puntos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Si Δ < 0, la parábola corta el eje x en dos puntos.",
+     "respuesta": false,
+     "explicacion": "No lo toca: no hay soluciones reales."
+    },
+    {
+     "tipo": "vf",
+     "texto": "x² − 6x + 9 = 0 tiene una sola solución.",
+     "respuesta": true,
+     "explicacion": "Δ = 36 − 36 = 0."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Para usar el discriminante hay que resolver la ecuación primero.",
+     "respuesta": false,
+     "explicacion": "Justamente sirve para anticipar sin resolver."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las soluciones son los puntos donde la parábola corta el eje x.",
+     "respuesta": true,
+     "explicacion": "Ahí y = 0."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "El discriminante de x² − 4 = 0 es…",
+     "opciones": [
+      "−16",
+      "16",
+      "4",
+      "0"
+     ],
+     "correcta": 1,
+     "explicacion": "0 − 4 · 1 · (−4) = 16."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Si Δ = 0, la ecuación tiene…",
+     "opciones": [
+      "dos soluciones",
+      "ninguna solución real",
+      "infinitas soluciones",
+      "una solución"
+     ],
+     "correcta": 3,
+     "explicacion": "La parábola toca el eje x en un punto."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuántas soluciones reales tiene x² + x + 1 = 0?",
+     "opciones": [
+      "Ninguna",
+      "Una",
+      "Dos",
+      "Infinitas"
+     ],
+     "correcta": 0,
+     "explicacion": "Δ = 1 − 4 = −3."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Δ es la letra griega…",
+     "opciones": [
+      "fi",
+      "delta",
+      "lambda",
+      "alfa"
+     ],
+     "correcta": 1,
+     "explicacion": "Se lee delta."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué ecuación tiene Δ negativo?",
+     "opciones": [
+      "x² − 9 = 0",
+      "x² − 2x + 1 = 0",
+      "x² + 9 = 0",
+      "x² − 5x + 6 = 0"
+     ],
+     "correcta": 2,
+     "explicacion": "Δ = 0 − 36 = −36."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Con Δ = 0, la única solución es…",
+     "opciones": [
+      "x = 0",
+      "x = b / a",
+      "x = −b / (2a)",
+      "x = −c / (2b)"
+     ],
+     "correcta": 2,
+     "explicacion": "Las dos cuentas dan −b / (2a)."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "DISCRIMINANTE",
+     "pista": "Δ = b² − 4ac."
+    },
+    {
+     "palabra": "DELTA",
+     "pista": "Nombre de la letra Δ."
+    },
+    {
+     "palabra": "PARÁBOLA",
+     "pista": "Gráfico de y = ax² + bx + c."
+    },
+    {
+     "palabra": "EJE",
+     "pista": "Las soluciones son los cortes con el ___ x."
+    },
+    {
+     "palabra": "ANTICIPAR",
+     "pista": "Saber cuántas soluciones hay antes de resolver."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuántas soluciones tiene 2x² − 3x + 1 = 0?",
+     "opciones": [
+      "Ninguna",
+      "Dos",
+      "Una",
+      "Infinitas"
+     ],
+     "correcta": 1,
+     "explicacion": "Δ = 9 − 8 = 1, que es positivo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo es la parábola si Δ < 0?",
+     "opciones": [
+      "Corta el eje x dos veces",
+      "No toca el eje x",
+      "Toca el eje x en un punto",
+      "Pasa por el origen"
+     ],
+     "correcta": 1,
+     "explicacion": "No hay soluciones reales."
+    },
+    {
+     "tipo": "vf",
+     "texto": "x² − 6x + 9 = 0 tiene una sola solución, x = 3.",
+     "respuesta": true,
+     "explicacion": "Δ = 0 y −b / (2a) = 6 / 2 = 3."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Ecuación de segundo grado",
+   "definicion": "Ecuación que se puede escribir como ax² + bx + c = 0, con a distinto de 0."
+  },
+  {
+   "palabra": "Solución o raíz",
+   "definicion": "Valor de x que cumple la ecuación."
+  },
+  {
+   "palabra": "Completar el cuadrado",
+   "definicion": "Sumar (b / 2)² a x² + bx para escribirlo como un cuadrado: (x + b / 2)²."
+  },
+  {
+   "palabra": "Fórmula resolvente",
+   "definicion": "x = (−b ± √(b² − 4ac)) / (2a). Resuelve cualquier ecuación de segundo grado."
+  },
+  {
+   "palabra": "Discriminante",
+   "definicion": "Δ = b² − 4ac. Su signo indica cuántas soluciones hay."
+  },
+  {
+   "palabra": "Parábola",
+   "definicion": "Gráfico de y = ax² + bx + c. Corta el eje x en las soluciones de la ecuación."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Si (x + 3)² = 25, entonces x + 3 = 5 y la única solución es x = 2.",
+   "aclaracion": "También (−5)² = 25: x + 3 = −5 da la otra solución, x = −8."
+  },
+  {
+   "error": "En 2x² − 4x − 6 = 0, b vale 4.",
+   "aclaracion": "El signo es parte del coeficiente: b = −4."
+  },
+  {
+   "error": "Si Δ es negativo, las soluciones son negativas.",
+   "aclaracion": "Si Δ es negativo, no hay soluciones reales."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Si sabés que una parábola corta el eje x en x = 1 y en x = 5, ¿en qué valor de x está su punto más bajo?",
+  "conexion": "Esto se conecta con la clase de funciones polinómicas, racionales, exponenciales y logarítmicas."
+ }
+}

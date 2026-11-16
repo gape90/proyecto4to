@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" role="img" aria-label="Un multímetro amarillo con pantalla que marca 1.52 V, una perilla con las posiciones OFF, tensión continua, tensión alterna, resistencia y corriente, y tres bornes: 10A, COM y VΩmA. El cable negro sale de COM y llega al polo negativo de una pila; el rojo sale de VΩmA y llega al polo positivo." font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect width="1000" height="600" fill="#fff"/>
+<rect x="120" y="30" width="360" height="540" rx="36" fill="#F2C230"/><rect x="150" y="60" width="300" height="480" rx="24" fill="#2E2E3A"/>
+<rect x="180" y="90" width="240" height="100" rx="10" fill="#B8D3A6"/><text x="372" y="162" font-size="60" font-weight="700" fill="#1B1A1A" text-anchor="end" >1.52</text><text x="380" y="162" font-size="34" font-weight="700" fill="#1B1A1A" text-anchor="start" >V</text>
+<circle cx="300" cy="320" r="85" fill="#4A4A58"/><circle cx="300" cy="320" r="55" fill="#1E1E28"/><rect x="292" y="250" width="16" height="70" rx="8" fill="#F2C230" transform="rotate(40 300 320)"/>
+<text x="300" y="219" font-size="20" font-weight="700" fill="#fff" text-anchor="middle" >OFF</text>
+<text x="369" y="244" font-size="20" font-weight="700" fill="#fff" text-anchor="middle" >V⎓</text>
+<text x="406" y="308" font-size="20" font-weight="700" fill="#fff" text-anchor="middle" >V~</text>
+<text x="394" y="381" font-size="20" font-weight="700" fill="#fff" text-anchor="middle" >Ω</text>
+<text x="337" y="428" font-size="20" font-weight="700" fill="#fff" text-anchor="middle" >A</text>
+<circle cx="190" cy="470" r="20" fill="#E5194F" stroke="#fff" stroke-width="4"/><text x="190" y="515" font-size="20" font-weight="700" fill="#fff" text-anchor="middle" >10A</text>
+<circle cx="300" cy="470" r="20" fill="#111" stroke="#fff" stroke-width="4"/><text x="300" y="515" font-size="20" font-weight="700" fill="#fff" text-anchor="middle" >COM</text>
+<circle cx="410" cy="470" r="20" fill="#E5194F" stroke="#fff" stroke-width="4"/><text x="410" y="515" font-size="20" font-weight="700" fill="#fff" text-anchor="middle" >VΩmA</text>
+<rect x="600" y="320" width="300" height="100" rx="18" fill="#3A3A48"/><rect x="800" y="320" width="100" height="100" rx="18" fill="#C8A23A"/><rect x="900" y="350" width="22" height="40" rx="6" fill="#999"/>
+<text x="950" y="382" font-size="44" font-weight="800" fill="#E5194F" text-anchor="middle" >+</text><text x="575" y="384" font-size="50" font-weight="800" fill="#1B1A4A" text-anchor="middle" >−</text><text x="720" y="300" font-size="26" font-weight="700" fill="#4A4870" text-anchor="middle" >pila</text>
+<path d="M300 470 C320 580 560 560 600 400" stroke="#111" stroke-width="9" fill="none"/>
+<path d="M410 470 C450 600 990 590 922 372" stroke="#E5194F" stroke-width="9" fill="none"/>
+</svg>

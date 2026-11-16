@@ -1,0 +1,889 @@
+{
+ "id": "mat-4-09",
+ "espacio": "matematica",
+ "eje": "Estadística y probabilidad",
+ "titulo": "Medidas de dispersión",
+ "intro": "Dos grupos de datos pueden tener el mismo promedio y ser muy distintos. Vas a ver por qué la media no alcanza para describirlos y a calcular la varianza y la desviación estándar, que miden cuánto se alejan los datos de ese promedio.",
+ "objetivos": [
+  "Explicar con un ejemplo por qué la media no alcanza para describir un conjunto de datos.",
+  "Calcular la varianza de un conjunto de datos a partir de las desviaciones respecto de la media.",
+  "Calcular la desviación estándar e interpretar qué dice sobre los datos."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: el ejemplo de las dos ciudades, el rango, cómo se calcula la varianza paso a paso y qué significa la desviación estándar.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Cuando el promedio no alcanza",
+   "tiempo": "35 a 45 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Dos ciudades, el mismo promedio",
+     "texto": "Las temperaturas máximas de una semana en dos ciudades fueron estas:\n**Ciudad A:** 20°, 21°, 19°, 20°, 20°, 21°, 19°.\n**Ciudad B:** 10°, 30°, 15°, 25°, 20°, 28°, 12°.\n\nEn las dos, la **media** (el promedio) es 20°: la suma da 140 y se divide por 7. Pero en A todos los días fueron parecidos y en B hubo días muy fríos y muy calurosos. La media, que es una **medida de posición**, no muestra esa diferencia."
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/mat-4-09-dos-ciudades.svg",
+     "src_movil": "img/clases/mat-4-09-dos-ciudades-movil.svg",
+     "tipo": "grafico",
+     "animacion": "svg",
+     "alt": "Las temperaturas de las dos ciudades como puntos sobre una recta de 8° a 32°. En la ciudad A los puntos están amontonados entre 19° y 21°; en la ciudad B, desparramados entre 10° y 30°. Una línea marca la media de 20° en las dos.",
+     "epigrafe": "Los datos de las dos ciudades, como puntos. Esquema elaborado para esta clase."
+    },
+    {
+     "t": "destacado",
+     "texto": "Las **medidas de dispersión** dicen cuánto se separan los datos entre sí o de la media. La más simple es el **rango**: el dato mayor menos el dato menor. En A, el rango es 21° − 19° = 2°; en B, 30° − 10° = 20°."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Las notas de Lucía en cuatro pruebas fueron 6, 9, 5 y 8. ¿Cuál es la media?",
+     "respuesta": "7",
+     "explicacion": "6 + 9 + 5 + 8 = 28, y 28 / 4 = 7.",
+     "pista1": "Sumá las cuatro notas.",
+     "pista": "La suma da 28. Dividila por la cantidad de notas."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "Los cuatro grupos tienen media 5. ¿Cuáles tienen poca dispersión y cuáles mucha?",
+     "categorias": [
+      "Poca dispersión",
+      "Mucha dispersión"
+     ],
+     "items": [
+      {
+       "texto": "4, 5, 5, 6",
+       "cat": "Poca dispersión"
+      },
+      {
+       "texto": "5, 5, 5, 5",
+       "cat": "Poca dispersión"
+      },
+      {
+       "texto": "0, 2, 8, 10",
+       "cat": "Mucha dispersión"
+      },
+      {
+       "texto": "1, 9, 1, 9",
+       "cat": "Mucha dispersión"
+      }
+     ],
+     "explicacion": "En los dos primeros los datos están pegados a 5 (rangos 2 y 0). En los otros están lejos de 5 (rangos 10 y 8).",
+     "pista": "Calculá el rango de cada grupo."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "Una persona quiere vivir donde las temperaturas sean parecidas todos los días. Con los datos de la semana, ¿qué ciudad le conviene?",
+     "opciones": [
+      "La ciudad A",
+      "La ciudad B",
+      "Cualquiera de las dos",
+      "No se puede saber"
+     ],
+     "correcta": 0,
+     "explicacion": "Las dos tienen media 20°, pero en A los datos varían muy poco: su rango es 2°, contra 20° en B.",
+     "pista": "La media es igual. Mirá el rango de cada ciudad."
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Desafío",
+     "consigna": "En otra semana, la ciudad C tuvo 18°, 22°, 20°, 25°, 15°, 20° y una temperatura más que falta. Si la media fue 20°, ¿cuál fue la temperatura que falta?",
+     "respuesta": "20",
+     "explicacion": "Con media 20° en 7 días, la suma es 140. Los seis datos conocidos suman 120, así que el que falta es 140 − 120 = 20°.",
+     "pista1": "Si la media es 20 y hay 7 datos, ¿cuánto tiene que dar la suma?",
+     "pista": "La suma tiene que ser 140. Sumá los seis datos conocidos y fijate cuánto falta."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Si una noticia dice \"la temperatura media de la semana fue de 20°\", ¿alcanza para saber cómo vestirte cada día?",
+     "respuesta": "No. Con la misma media puede haber días de 10° y días de 30°, como en la ciudad B. Hace falta saber también cuánto varían los datos: eso es la dispersión."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá con el ejemplo de las dos ciudades por qué la media no alcanza para describir un conjunto de datos. Calculá la media y el rango de cada ciudad.",
+    "guia": [
+     "¿Cuál es la media de cada ciudad y cómo la calculaste?",
+     "¿Cuánto vale el rango en cada ciudad?",
+     "¿En qué se diferencian los datos de A y de B?",
+     "¿Por qué la media sola no alcanza y qué es una medida de dispersión?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Las ciudades A y B tienen la misma media.",
+     "respuesta": true,
+     "explicacion": "Las dos tienen 20°."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Si dos grupos tienen la misma media, sus datos son parecidos.",
+     "respuesta": false,
+     "explicacion": "Pueden estar muy dispersos, como en la ciudad B."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El rango es el dato mayor menos el dato menor.",
+     "respuesta": true,
+     "explicacion": "Es la medida de dispersión más simple."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El rango de la ciudad B es 20°.",
+     "respuesta": true,
+     "explicacion": "30° − 10° = 20°."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La media es una medida de dispersión.",
+     "respuesta": false,
+     "explicacion": "Es una medida de posición."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En 5, 5, 5, 5 no hay dispersión.",
+     "respuesta": true,
+     "explicacion": "Todos los datos son iguales a la media."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "La media de 2, 4, 9 es…",
+     "opciones": [
+      "4",
+      "15",
+      "5",
+      "9"
+     ],
+     "correcta": 2,
+     "explicacion": "15 / 3 = 5."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "El rango de 3, 8, 12, 5 es…",
+     "opciones": [
+      "9",
+      "12",
+      "7",
+      "28"
+     ],
+     "correcta": 0,
+     "explicacion": "12 − 3 = 9."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué grupo tiene más dispersión?",
+     "opciones": [
+      "7, 7, 8, 8",
+      "6, 7, 8, 9",
+      "1, 4, 11, 14",
+      "7, 7, 7, 9"
+     ],
+     "correcta": 2,
+     "explicacion": "Sus datos están más separados: rango 13."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Una medida de dispersión indica…",
+     "opciones": [
+      "el dato más repetido",
+      "cuánto se separan los datos",
+      "el dato del medio",
+      "la suma de los datos"
+     ],
+     "correcta": 1,
+     "explicacion": "Mide qué tan desparramados están."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En la ciudad A, el rango es…",
+     "opciones": [
+      "20°",
+      "21°",
+      "19°",
+      "2°"
+     ],
+     "correcta": 3,
+     "explicacion": "21° − 19° = 2°."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "La suma de las 7 temperaturas de cada ciudad es…",
+     "opciones": [
+      "140",
+      "20",
+      "147",
+      "70"
+     ],
+     "correcta": 0,
+     "explicacion": "20 · 7 = 140."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "MEDIA",
+     "pista": "El promedio de los datos."
+    },
+    {
+     "palabra": "DISPERSIÓN",
+     "pista": "Cuánto se separan los datos entre sí."
+    },
+    {
+     "palabra": "RANGO",
+     "pista": "Dato mayor menos dato menor."
+    },
+    {
+     "palabra": "POSICIÓN",
+     "pista": "Tipo de medida que es la media."
+    },
+    {
+     "palabra": "PROMEDIO",
+     "pista": "Suma de los datos dividida por la cantidad."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué la media no alcanza para comparar las dos ciudades?",
+     "opciones": [
+      "Porque se calcula mal",
+      "Porque es igual en las dos aunque los datos sean muy distintos",
+      "Porque las ciudades son lejanas",
+      "Porque hay pocos datos"
+     ],
+     "correcta": 1,
+     "explicacion": "La media no muestra cuánto varían los datos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es el rango de 15, 22, 9, 18?",
+     "opciones": [
+      "13",
+      "9",
+      "22",
+      "16"
+     ],
+     "correcta": 0,
+     "explicacion": "22 − 9 = 13."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Dos grupos con la misma media pueden tener rangos muy distintos.",
+     "respuesta": true,
+     "explicacion": "Como las ciudades A y B: 2° y 20°."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "La varianza",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Medir cuánto se aleja cada dato",
+     "texto": "El rango solo usa dos datos. Para tener en cuenta todos, se mira cuánto se aleja **cada dato** de la media: esa diferencia es su **desviación**. Algunas desviaciones son positivas y otras negativas, y **siempre suman 0**. Por eso se elevan al cuadrado antes de sumar: así no se cancelan."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Varianza de 2, 4, 6 y 8 (media 5)",
+     "columnas": [
+      "Dato",
+      "Desviación (dato − 5)",
+      "Desviación al cuadrado"
+     ],
+     "filas": [
+      [
+       "2",
+       "−3",
+       "9"
+      ],
+      [
+       "4",
+       "−1",
+       "1"
+      ],
+      [
+       "6",
+       "1",
+       "1"
+      ],
+      [
+       "8",
+       "3",
+       "9"
+      ],
+      [
+       "Suma",
+       "0",
+       "20"
+      ]
+     ]
+    },
+    {
+     "t": "destacado",
+     "texto": "La **varianza** es el promedio de las desviaciones al cuadrado: se suman los cuadrados y se divide por la cantidad de datos. En la tabla: 20 / 4 = **5**. Cuanto más grande es la varianza, más dispersos están los datos. Si todos los datos son iguales, la varianza es 0."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los pasos para calcular la varianza.",
+     "items": [
+      "Calcular la media",
+      "Restar la media a cada dato",
+      "Elevar cada desviación al cuadrado",
+      "Sumar los cuadrados",
+      "Dividir por la cantidad de datos"
+     ],
+     "explicacion": "Es el orden de las columnas de la tabla: dato, desviación, cuadrado, suma y división.",
+     "pista": "Seguí las columnas de la tabla de izquierda a derecha."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Calculá la varianza de 1, 5, 6 y 8. Su media es 5.",
+     "respuesta": "6.5",
+     "tolerancia": 1e-06,
+     "explicacion": "Desviaciones: −4, 0, 1, 3. Cuadrados: 16, 0, 1, 9. Suman 26, y 26 / 4 = 6,5.",
+     "pista1": "Armá una tabla como la de arriba, con las desviaciones y sus cuadrados.",
+     "pista": "Los cuadrados son 16, 0, 1 y 9. Sumalos y dividí por 4."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto.",
+     "texto": "La desviación de un dato es su diferencia con la [[media]]. Las desviaciones se elevan al [[cuadrado]] para que no se [[cancelen]]. La varianza es el [[promedio]] de esos cuadrados.",
+     "distractores": [
+      "suma",
+      "rango",
+      "cubo",
+      "repitan"
+     ],
+     "explicacion": "Así se arma la varianza.",
+     "pista": "Releé el texto del principio y el recuadro."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "La suma de las desviaciones respecto de la media es siempre 0.",
+       "v": true,
+       "explicacion": "Lo que sobra de un lado compensa lo que falta del otro."
+      },
+      {
+       "texto": "La varianza puede ser negativa.",
+       "v": false,
+       "explicacion": "Es un promedio de cuadrados: siempre da 0 o más.",
+       "pista": "Pensá qué signo tiene un número al cuadrado."
+      },
+      {
+       "texto": "Si todos los datos son iguales, la varianza es 0.",
+       "v": true,
+       "explicacion": "Todas las desviaciones son 0."
+      },
+      {
+       "texto": "La varianza de temperaturas en grados se mide en grados.",
+       "v": false,
+       "explicacion": "Se mide en grados al cuadrado, porque se elevaron las desviaciones al cuadrado.",
+       "pista": "Pensá qué pasa con la unidad cuando elevás al cuadrado."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "¿Por qué no se pueden sumar directamente las desviaciones para medir la dispersión?",
+     "respuesta": "Porque siempre dan 0: en la tabla, −3 − 1 + 1 + 3 = 0. Al elevarlas al cuadrado todas quedan positivas y ya no se cancelan."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Copiá la tabla de la varianza de 2, 4, 6 y 8, explicá cada columna y calculá la varianza de 1, 5, 6 y 8 con una tabla igual.",
+    "guia": [
+     "¿Qué es la desviación de un dato y por qué todas suman 0?",
+     "¿Para qué se elevan las desviaciones al cuadrado?",
+     "Calculá la varianza de 1, 5, 6 y 8 con una tabla.",
+     "¿Qué indica una varianza grande?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La desviación de un dato es su diferencia con la media.",
+     "respuesta": true,
+     "explicacion": "Dato menos media."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La varianza de 2, 4, 6, 8 es 5.",
+     "respuesta": true,
+     "explicacion": "20 / 4 = 5."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La varianza se calcula sumando las desviaciones sin elevarlas.",
+     "respuesta": false,
+     "explicacion": "Se elevan al cuadrado."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Una varianza grande indica datos muy dispersos.",
+     "respuesta": true,
+     "explicacion": "Se alejan mucho de la media."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La varianza de 3, 3, 3 es 3.",
+     "respuesta": false,
+     "explicacion": "Es 0: todos los datos son iguales."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La desviación de 2 respecto de la media 5 es −3.",
+     "respuesta": true,
+     "explicacion": "2 − 5 = −3."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Si la media es 10, la desviación del dato 13 es…",
+     "opciones": [
+      "3",
+      "−3",
+      "13",
+      "23"
+     ],
+     "correcta": 0,
+     "explicacion": "13 − 10 = 3."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "La varianza de 4, 6 (media 5) es…",
+     "opciones": [
+      "2",
+      "0",
+      "1",
+      "5"
+     ],
+     "correcta": 2,
+     "explicacion": "(1 + 1) / 2 = 1."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué se elevan al cuadrado las desviaciones?",
+     "opciones": [
+      "Para que den más grande",
+      "Para que no se cancelen",
+      "Para redondear",
+      "Para que den enteras"
+     ],
+     "correcta": 1,
+     "explicacion": "Sumadas sin elevar, dan 0."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "La varianza de 0, 10 (media 5) es…",
+     "opciones": [
+      "5",
+      "10",
+      "50",
+      "25"
+     ],
+     "correcta": 3,
+     "explicacion": "(25 + 25) / 2 = 25."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "La varianza se divide por…",
+     "opciones": [
+      "la media",
+      "la cantidad de datos",
+      "el rango",
+      "2"
+     ],
+     "correcta": 1,
+     "explicacion": "Es un promedio de los cuadrados."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál tiene mayor varianza?",
+     "opciones": [
+      "5, 5, 5",
+      "4, 5, 6",
+      "1, 5, 9",
+      "5, 5, 6"
+     ],
+     "correcta": 2,
+     "explicacion": "Sus datos se alejan más de la media."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "VARIANZA",
+     "pista": "Promedio de las desviaciones al cuadrado."
+    },
+    {
+     "palabra": "DESVIACIÓN",
+     "pista": "Diferencia entre un dato y la media."
+    },
+    {
+     "palabra": "CUADRADO",
+     "pista": "Las desviaciones se elevan al ___."
+    },
+    {
+     "palabra": "CANCELAN",
+     "pista": "Sin elevarlas, las desviaciones se ___."
+    },
+    {
+     "palabra": "CERO",
+     "pista": "Suma de todas las desviaciones."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es la varianza de 3, 5, 7 (media 5)?",
+     "opciones": [
+      "2",
+      "4",
+      "8",
+      "8/3"
+     ],
+     "correcta": 3,
+     "explicacion": "(4 + 0 + 4) / 3 = 8/3 ≈ 2,67."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué dice una varianza de 0?",
+     "opciones": [
+      "Que los datos son muy dispersos",
+      "Que todos los datos son iguales",
+      "Que la media es 0",
+      "Que hay un error"
+     ],
+     "correcta": 1,
+     "explicacion": "Ninguna desviación es distinta de 0."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Para calcular la varianza primero hay que conocer la media.",
+     "respuesta": true,
+     "explicacion": "Las desviaciones se miden desde la media."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "La desviación estándar",
+   "tiempo": "35 a 45 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Volver a la unidad de los datos",
+     "texto": "La varianza está en unidades al cuadrado, y eso la hace difícil de interpretar. La **desviación estándar** es la **raíz cuadrada de la varianza**: vuelve a la misma unidad que los datos. Se puede pensar como una distancia típica de los datos a la media."
+    },
+    {
+     "t": "ecuacion",
+     "titulo": "Desviación estándar",
+     "formula": "desviación estándar = √varianza",
+     "texto": "Con 2, 4, 6 y 8, la varianza es 5 y la desviación estándar es √5 ≈ 2,24."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Pensalo así: las dos ciudades",
+     "texto": "En la ciudad A, la desviación estándar es de alrededor de 0,76°: los días se alejan menos de 1° de la media de 20°. En la ciudad B es de alrededor de 7,35°: los días se alejan en general más de 7° de la media. Con la media y la desviación estándar juntas ya se ve la diferencia entre las dos ciudades."
+    },
+    {
+     "t": "sim",
+     "sim": "dispersion",
+     "titulo": "Cinco datos y su dispersión",
+     "inicial": [
+      4,
+      5,
+      5,
+      6,
+      5
+     ],
+     "consigna": "Mové los cinco datos para que la media siga siendo 5 y la desviación estándar sea 4 o más.",
+     "objetivo": {
+      "cumple": {
+       "media": 5,
+       "desvio": [
+        4,
+        10
+       ]
+      },
+      "cerca": {
+       "media": 5
+      },
+      "mensaje_cerca": "La media está en 5. Ahora alejá los datos de la media, sin que cambie."
+     },
+     "explicacion": "Para que la media siga en 5, lo que alejás para un lado lo tenés que alejar también para el otro, como en 0, 0, 5, 10, 10. Cuanto más se separan los datos de la media, más grande es la desviación estándar."
+    },
+    {
+     "t": "verificar",
+     "consigna": "La varianza de un grupo de datos es 6,25. ¿Cuál es su desviación estándar?",
+     "respuesta": "2.5",
+     "tolerancia": 1e-06,
+     "explicacion": "√6,25 = 2,5, porque 2,5 · 2,5 = 6,25.",
+     "pista1": "La desviación estándar es la raíz cuadrada de la varianza.",
+     "pista": "Buscá un número que multiplicado por sí mismo dé 6,25."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada grupo de datos con su desviación estándar. Todos tienen media 5.",
+     "pares": [
+      {
+       "a": "5, 5, 5, 5",
+       "b": "0"
+      },
+      {
+       "a": "4, 6, 4, 6",
+       "b": "1"
+      },
+      {
+       "a": "3, 7, 3, 7",
+       "b": "2"
+      },
+      {
+       "a": "1, 9, 1, 9",
+       "b": "4"
+      }
+     ],
+     "explicacion": "En cada grupo, todos los datos se alejan lo mismo de la media: 0, 1, 2 y 4. Esa distancia es la desviación estándar.",
+     "pista": "Fijate cuánto se aleja cada dato de 5 en cada grupo."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "En una prueba, dos cursos tienen media 7. En uno la desviación estándar es 0,5 y en el otro es 2,5. ¿Qué significa?",
+     "opciones": [
+      "En el primero las notas están más cerca de 7",
+      "En el segundo las notas están más cerca de 7",
+      "Los dos cursos tienen notas iguales",
+      "El primero tiene más estudiantes"
+     ],
+     "correcta": 0,
+     "explicacion": "Una desviación estándar chica indica que las notas se alejan poco de la media. En el segundo curso hay notas mucho más altas y más bajas que 7.",
+     "pista": "La desviación estándar es como una distancia típica a la media."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "¿Puede la desviación estándar ser más grande que el rango?",
+     "respuesta": "No. La desviación estándar es una distancia típica a la media, y ningún dato puede estar más lejos de la media que la distancia entre el mayor y el menor."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es la desviación estándar, cómo se calcula a partir de la varianza y qué te dice sobre las dos ciudades. Incluí un ejemplo calculado.",
+    "guia": [
+     "¿Qué relación hay entre la desviación estándar y la varianza, y en qué unidad está?",
+     "¿Cuánto vale la desviación estándar de 2, 4, 6 y 8?",
+     "¿Qué indica una desviación estándar chica? ¿Y una grande?",
+     "¿Qué diferencia entre las dos ciudades muestra la desviación estándar?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La desviación estándar es la raíz cuadrada de la varianza.",
+     "respuesta": true,
+     "explicacion": "Así vuelve a la unidad de los datos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Si la varianza es 9, la desviación estándar es 3.",
+     "respuesta": true,
+     "explicacion": "√9 = 3."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La desviación estándar está en unidades al cuadrado.",
+     "respuesta": false,
+     "explicacion": "Está en la misma unidad que los datos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La ciudad B tiene mayor desviación estándar que la A.",
+     "respuesta": true,
+     "explicacion": "7,35° contra 0,76°."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Una desviación estándar de 0 indica datos muy dispersos.",
+     "respuesta": false,
+     "explicacion": "Indica que todos los datos son iguales."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Con la media y la desviación estándar se describe mejor un grupo de datos que con la media sola.",
+     "respuesta": true,
+     "explicacion": "Se sabe dónde están y cuánto varían."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Si la varianza es 16, la desviación estándar es…",
+     "opciones": [
+      "8",
+      "4",
+      "256",
+      "16"
+     ],
+     "correcta": 1,
+     "explicacion": "√16 = 4."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué grupo tiene desviación estándar 0?",
+     "opciones": [
+      "1, 2, 3",
+      "0, 10",
+      "4, 4, 4",
+      "2, 4, 6"
+     ],
+     "correcta": 2,
+     "explicacion": "Todos los datos son iguales."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "La desviación estándar de 2, 4, 6, 8 es aproximadamente…",
+     "opciones": [
+      "2,24",
+      "5",
+      "20",
+      "1,5"
+     ],
+     "correcta": 0,
+     "explicacion": "√5 ≈ 2,24."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Una desviación estándar grande indica que los datos…",
+     "opciones": [
+      "son todos iguales",
+      "están muy cerca de la media",
+      "son negativos",
+      "se alejan mucho de la media"
+     ],
+     "correcta": 3,
+     "explicacion": "Están dispersos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "La desviación estándar de 3, 7, 3, 7 es…",
+     "opciones": [
+      "4",
+      "2",
+      "5",
+      "10"
+     ],
+     "correcta": 1,
+     "explicacion": "Cada dato se aleja 2 de la media 5."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué se usa la desviación estándar además de la varianza?",
+     "opciones": [
+      "Porque está en la unidad de los datos",
+      "Porque es siempre más grande",
+      "Porque es más fácil de sumar",
+      "Porque no necesita la media"
+     ],
+     "correcta": 0,
+     "explicacion": "Se interpreta más fácil."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "ESTÁNDAR",
+     "pista": "Desviación ___: raíz cuadrada de la varianza."
+    },
+    {
+     "palabra": "RAÍZ",
+     "pista": "Operación que lleva de la varianza a la desviación estándar."
+    },
+    {
+     "palabra": "UNIDAD",
+     "pista": "La desviación estándar vuelve a la misma ___ que los datos."
+    },
+    {
+     "palabra": "TÍPICA",
+     "pista": "Distancia ___ de los datos a la media."
+    },
+    {
+     "palabra": "TEMPERATURA",
+     "pista": "Dato del ejemplo de las dos ciudades."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "La varianza de un grupo es 2,25. ¿Cuál es la desviación estándar?",
+     "opciones": [
+      "1,5",
+      "4,5",
+      "1,125",
+      "5,06"
+     ],
+     "correcta": 0,
+     "explicacion": "√2,25 = 1,5."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Dos grupos tienen media 10. El A tiene desviación estándar 1 y el B, 6. ¿Cuál tiene datos más parecidos entre sí?",
+     "opciones": [
+      "El B",
+      "Los dos iguales",
+      "El A",
+      "No se puede saber"
+     ],
+     "correcta": 2,
+     "explicacion": "Menor desviación estándar, datos más cerca de la media."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La desviación estándar de la ciudad A es menor que 1°.",
+     "respuesta": true,
+     "explicacion": "Es de alrededor de 0,76°."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Media",
+   "definicion": "Promedio: suma de los datos dividida por la cantidad de datos. Es una medida de posición."
+  },
+  {
+   "palabra": "Medida de dispersión",
+   "definicion": "Número que indica cuánto se separan los datos entre sí o de la media."
+  },
+  {
+   "palabra": "Rango",
+   "definicion": "Dato mayor menos dato menor."
+  },
+  {
+   "palabra": "Desviación",
+   "definicion": "Diferencia entre un dato y la media."
+  },
+  {
+   "palabra": "Varianza",
+   "definicion": "Promedio de las desviaciones al cuadrado. Está en unidades al cuadrado."
+  },
+  {
+   "palabra": "Desviación estándar",
+   "definicion": "Raíz cuadrada de la varianza. Es una distancia típica de los datos a la media, en la misma unidad que los datos."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Si dos grupos tienen la misma media, sus datos son parecidos.",
+   "aclaracion": "Pueden ser muy distintos, como las ciudades A y B: hace falta una medida de dispersión."
+  },
+  {
+   "error": "La varianza se calcula sumando las desviaciones.",
+   "aclaracion": "Esa suma da siempre 0. Hay que elevar cada desviación al cuadrado antes de sumar y después dividir por la cantidad de datos."
+  },
+  {
+   "error": "La varianza y la desviación estándar son lo mismo.",
+   "aclaracion": "La desviación estándar es la raíz cuadrada de la varianza, y está en la misma unidad que los datos."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Si tirás un dado 60 veces y anotás los resultados, ¿cuántas veces esperás que salga cada número? ¿Y por qué los resultados reales no van a ser exactamente esos?",
+  "conexion": "Esto se conecta con la clase \"Probabilidades\"."
+ }
+}

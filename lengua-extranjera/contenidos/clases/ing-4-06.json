@@ -1,0 +1,1274 @@
+{
+  "id": "ing-4-06",
+  "espacio": "lengua-extranjera",
+  "idioma": "en",
+  "eje": "¿Cómo cambió el mundo? Presente y pasado de distintas sociedades",
+  "titulo": "Comparar lugares y personas: comparativos y superlativos",
+  "intro": "En esta clase vas a aprender a comparar en inglés dos cosas, a elegir la más importante entre muchas y a decir que dos cosas son iguales. Al final, {{nombre}} te va a contar cómo es su lugar comparándolo con otros.",
+  "objetivos": [
+    "Formar comparativos con -er, more y than, y reconocer los irregulares better y worse.",
+    "Usar superlativos con the -est y the most, y comparar cosas iguales con as … as.",
+    "Describir en inglés el lugar donde vive {{nombre}} y a las personas de su historia, comparando."
+  ],
+  "tp_aporte": "Para tu trabajo práctico ya tenés las reglas del comparativo y del superlativo, y un párrafo que describe el lugar donde vive {{nombre}}.",
+  "personaje_intro": {
+    "porPersonaje": {
+      "lucy": {
+        "texto": "Hoy te cuento cómo es mi lugar comparándolo con otros. ¡Vas a ver que comparar es muy útil para describir!"
+      },
+      "ben": {
+        "texto": "Hoy te cuento cómo es mi lugar comparándolo con otros. ¡Vas a ver que comparar es muy útil para describir!"
+      },
+      "mia": {
+        "texto": "Hoy te cuento cómo es mi lugar comparándolo con otros. ¡Vas a ver que comparar es muy útil para describir!"
+      },
+      "liam": {
+        "texto": "Hoy te cuento cómo es mi lugar comparándolo con otros. ¡Vas a ver que comparar es muy útil para describir!"
+      }
+    }
+  },
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "Comparar dos cosas: -er, more y than",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "revelar",
+          "etiqueta": "💭 Antes de empezar",
+          "pregunta": "Pensá en dos lugares que conocés: tu ciudad y otra más grande. ¿Cómo dirías en castellano en qué se diferencian? Fijate qué palabra usás para comparar.",
+          "respuesta": "Seguramente usaste \"más… que\": \"Rosario es más grande que mi pueblo\". En inglés pasa algo parecido, pero hay dos formas de decir \"más\": a veces se agrega **-er** al adjetivo y a veces se pone **more** adelante. En esta parte vas a ver cuándo va cada una."
+        },
+        {
+          "t": "texto",
+          "titulo": "¿Cómo se compara en inglés?",
+          "texto": "Para comparar dos cosas o dos personas se usa el **comparativo** del adjetivo, seguido de [[than]] (que):\n\n[[My town is smaller than Chicago.]] (Mi pueblo es más chico que Chicago.)\n[[This book is more interesting than that film.]] (Este libro es más interesante que esa película.)\n\nEl comparativo se forma de dos maneras, según el largo del adjetivo."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Cómo se forma el comparativo (tocá 🔊 para escuchar)",
+          "columnas": [
+            "Adjetivo",
+            "Regla",
+            "Ejemplo"
+          ],
+          "filas": [
+            [
+              "Corto (una sílaba)",
+              "Se agrega **-er**",
+              "[[tall → taller]], [[old → older]]"
+            ],
+            [
+              "Termina en -e",
+              "Se agrega solo **-r**",
+              "[[nice → nicer]], [[large → larger]]"
+            ],
+            [
+              "Termina en consonante + vocal + consonante",
+              "Se duplica la última letra",
+              "[[big → bigger]], [[hot → hotter]]"
+            ],
+            [
+              "Termina en -y",
+              "La y cambia por **-ier**",
+              "[[busy → busier]], [[funny → funnier]]"
+            ],
+            [
+              "Largo (dos sílabas o más)",
+              "Se pone **more** adelante",
+              "[[more expensive]], [[more beautiful]]"
+            ],
+            [
+              "Irregular",
+              "Cambia toda la palabra",
+              "[[good → better]], [[bad → worse]]"
+            ]
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "• Comparativo + [[than]]: [[Sydney is bigger than Bristol.]]\n• Nunca se usan juntos more y -er: se dice [[bigger]], no \"more bigger\".\n• [[good]] y [[bad]] son irregulares: [[better]] (mejor) y [[worse]] (peor)."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cómo se forma el comparativo de cada adjetivo?",
+          "categorias": [
+            "Con -er o -ier",
+            "Con more"
+          ],
+          "items": [
+            {
+              "texto": "cold",
+              "cat": "Con -er o -ier"
+            },
+            {
+              "texto": "happy",
+              "cat": "Con -er o -ier"
+            },
+            {
+              "texto": "fast",
+              "cat": "Con -er o -ier"
+            },
+            {
+              "texto": "expensive",
+              "cat": "Con more"
+            },
+            {
+              "texto": "popular",
+              "cat": "Con more"
+            },
+            {
+              "texto": "dangerous",
+              "cat": "Con more"
+            }
+          ],
+          "explicacion": "Cold y fast son cortos: colder, faster. Happy termina en -y: happier. Expensive, popular y dangerous son largos: van con more.",
+          "pista": "Contá las sílabas de cada adjetivo y mirá la tabla de arriba. Ojo con los que terminan en -y."
+        },
+        {
+          "t": "dictado",
+          "voz": "personaje",
+          "texto": "This film is better than the book.",
+          "traduccion": "(Esta película es mejor que el libro.)",
+          "explicacion": "Better es el comparativo irregular de good, y después va than."
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá las comparaciones con el comparativo correcto.",
+          "texto": "A train is [[faster]] than a bus. Summer is [[hotter]] than winter. A phone is [[more expensive]] than a pen.",
+          "distractores": [
+            "fastest",
+            "hoter",
+            "expensiver"
+          ],
+          "explicacion": "Fast suma -er. Hot duplica la t: hotter. Expensive es largo: more expensive.",
+          "pista": "Revisá en la tabla qué pasa con las palabras cortas como hot y con las largas como expensive."
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "🔍 Encontrá el error",
+          "pregunta": "Una de estas oraciones tiene un error. ¿Cuál es?",
+          "opciones": [
+            "My brother is more tall than me.",
+            "My sister is older than me.",
+            "This film is better than the book.",
+            "Today is colder than yesterday."
+          ],
+          "correcta": 0,
+          "explicacion": "Tall es corto: el comparativo es taller, sin more. Se dice: My brother is taller than me.",
+          "pista": "Fijate si alguna oración usa more con un adjetivo corto."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Escribí el comparativo de good (bueno).",
+          "respuesta": "better",
+          "acepta": [
+            "better"
+          ],
+          "formato": "Escribí una palabra en inglés.",
+          "explicacion": "Good es irregular: better (mejor).",
+          "pista1": "Good no sigue la regla de -er. Buscá en la tabla la fila de los irregulares.",
+          "pista": "Está en la última fila de la tabla y en el recuadro \"Para recordar\"."
+        },
+        {
+          "t": "pronunciar",
+          "modo": "escuchar",
+          "voz": "personaje",
+          "texto": "My town is smaller than Chicago.",
+          "traduccion": "(Mi pueblo es más chico que Chicago.)",
+          "explicacion": "Than se dice suave y rápido, casi \"dhan\", con la lengua entre los dientes."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "¿Por qué big duplica la g (bigger) y tall no duplica la l (taller)?",
+          "respuesta": "Big termina en consonante + vocal + consonante (b-i-g): por eso se duplica la g antes de -er. Tall termina en dos consonantes (ll), así que solo se agrega -er. Es la misma regla que en el pasado simple: stop → stopped."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Copiá la tabla de las reglas del comparativo con un ejemplo de cada fila. Explicá en castellano cuándo se usa -er y cuándo more. Después escribí en inglés cuatro oraciones que comparen dos lugares que conoce {{nombre}} (los inventás vos): su ciudad y otra.",
+        "guia": [
+          "¿Qué palabra va siempre después del comparativo?",
+          "¿Cuándo se agrega -er y cuándo se usa more?",
+          "¿Qué pasa con big, hot y busy?",
+          "¿Cuáles son los comparativos de good y bad?",
+          "¿Qué lugar es más grande, más tranquilo o más caro para {{nombre}}?"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Para comparar dos cosas se usa than después del adjetivo.",
+          "respuesta": true,
+          "explicacion": "Bigger than, more expensive than."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El comparativo de big es biger.",
+          "respuesta": false,
+          "explicacion": "Se duplica la g: bigger."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los adjetivos largos forman el comparativo con more.",
+          "respuesta": true,
+          "explicacion": "More beautiful, more expensive."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"More taller\" está bien escrito.",
+          "respuesta": false,
+          "explicacion": "Nunca van juntos more y -er: taller."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El comparativo de bad es worse.",
+          "respuesta": true,
+          "explicacion": "Bad es irregular: worse."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El comparativo de busy es busyer.",
+          "respuesta": false,
+          "explicacion": "La y cambia por -ier: busier."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el comparativo de happy?",
+          "opciones": [
+            "happier",
+            "happyer",
+            "more happy than",
+            "happiest"
+          ],
+          "correcta": 0,
+          "explicacion": "Termina en -y: la y cambia por -ier."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"Sydney is bigger than Bristol\"?",
+          "opciones": [
+            "Sídney es más grande que Bristol",
+            "Sídney es tan grande como Bristol",
+            "Sídney es la ciudad más grande",
+            "Bristol es más grande que Sídney"
+          ],
+          "correcta": 0,
+          "explicacion": "Bigger than = más grande que."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"A plane is ___ than a car\"?",
+          "opciones": [
+            "faster",
+            "more fast",
+            "fastest",
+            "fast"
+          ],
+          "correcta": 0,
+          "explicacion": "Fast es corto: faster."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el comparativo de good?",
+          "opciones": [
+            "better",
+            "gooder",
+            "more good",
+            "best"
+          ],
+          "correcta": 0,
+          "explicacion": "Good es irregular: better."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "Football is more popular than tennis.",
+            "Football is popularer than tennis.",
+            "Football is more popular that tennis.",
+            "Football is popular than tennis."
+          ],
+          "correcta": 0,
+          "explicacion": "Popular es largo: more popular, y después than."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el comparativo de nice?",
+          "opciones": [
+            "nicer",
+            "niceer",
+            "more nice",
+            "nicest"
+          ],
+          "correcta": 0,
+          "explicacion": "Termina en -e: se agrega solo -r."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "THAN",
+          "pista": "Que, para comparar."
+        },
+        {
+          "palabra": "BETTER",
+          "pista": "Comparativo de good."
+        },
+        {
+          "palabra": "WORSE",
+          "pista": "Comparativo de bad."
+        },
+        {
+          "palabra": "BIGGER",
+          "pista": "Comparativo de big."
+        },
+        {
+          "palabra": "MORE",
+          "pista": "Va antes de los adjetivos largos."
+        },
+        {
+          "palabra": "TALLER",
+          "pista": "Comparativo de tall."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "My sister is older than me.",
+            "My sister is more old than me.",
+            "My sister is older that me.",
+            "My sister is oldest than me."
+          ],
+          "correcta": 0,
+          "explicacion": "Old es corto: older, y después than."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se forma el comparativo de expensive?",
+          "opciones": [
+            "more expensive",
+            "expensiver",
+            "expensivest",
+            "most expensive"
+          ],
+          "correcta": 0,
+          "explicacion": "Es un adjetivo largo: va con more."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Hotter\" es el comparativo de hot.",
+          "respuesta": true,
+          "explicacion": "Se duplica la t y se agrega -er."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "El más de todos: superlativos y as … as",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "¿Qué es el superlativo?",
+          "texto": "El comparativo compara dos cosas. El **superlativo** elige una entre muchas: la más alta, el más caro, la mejor. Siempre va con [[the]] adelante:\n\n[[Ben is the tallest student in his class.]] (Ben es el estudiante más alto de su clase.)\n[[This is the most expensive phone in the shop.]] (Este es el teléfono más caro del negocio.)\n\nPara decir dónde se compara se usa [[in]]: [[in my family]], [[in the city]], [[in the world]]."
+        },
+        {
+          "t": "pasos",
+          "titulo": "Paso a paso: del adjetivo al superlativo",
+          "pasos": [
+            {
+              "titulo": "Mirá el largo del adjetivo",
+              "texto": "Si es corto, va a llevar -est. Si es largo, va a llevar most."
+            },
+            {
+              "titulo": "Aplicá las mismas reglas de escritura que en el comparativo",
+              "texto": "[[big → the biggest]], [[nice → the nicest]], [[funny → the funniest]], [[beautiful → the most beautiful]]."
+            },
+            {
+              "titulo": "Revisá si es irregular",
+              "texto": "[[good → better → the best]] (el mejor). [[bad → worse → the worst]] (el peor)."
+            },
+            {
+              "titulo": "Agregá the y el lugar o el grupo",
+              "texto": "[[It is the best day of the year.]] [[She is the youngest in her family.]]"
+            }
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar: as … as",
+          "texto": "Para decir que dos cosas son **iguales** se usa [[as]] + adjetivo + [[as]] (tan… como): [[My sister is as tall as my mum.]] (Mi hermana es tan alta como mi mamá.)\nEn negativo dice que no son iguales: [[The bus isn't as fast as the train.]] (El colectivo no es tan rápido como el tren.)\nCon as … as el adjetivo no cambia: no lleva -er ni more."
+        },
+        {
+          "t": "pronunciar",
+          "modo": "escuchar",
+          "voz": "personaje",
+          "texto": "It is the best day of the year.",
+          "traduccion": "(Es el mejor día del año.)",
+          "explicacion": "En best, la s y la t suenan juntas al final, sin agregar una e: \"best\"."
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada adjetivo con su superlativo.",
+          "pares": [
+            {
+              "a": "big",
+              "b": "the biggest"
+            },
+            {
+              "a": "good",
+              "b": "the best"
+            },
+            {
+              "a": "happy",
+              "b": "the happiest"
+            },
+            {
+              "a": "interesting",
+              "b": "the most interesting"
+            },
+            {
+              "a": "bad",
+              "b": "the worst"
+            }
+          ],
+          "explicacion": "Big duplica la g, happy cambia la y por -iest, interesting es largo y va con most. Good y bad son irregulares.",
+          "pista": "Volvé al paso a paso: el paso 2 tiene las reglas y el paso 3, los irregulares."
+        },
+        {
+          "t": "vf",
+          "consigna": "Leé cada afirmación y marcá si es verdadera o falsa.",
+          "afirmaciones": [
+            {
+              "texto": "[[the most fast]] está bien escrito.",
+              "v": false,
+              "explicacion": "Fast es corto: the fastest."
+            },
+            {
+              "texto": "El superlativo siempre lleva the adelante.",
+              "v": true,
+              "explicacion": "The tallest, the most expensive, the best."
+            },
+            {
+              "texto": "[[as tall as]] quiere decir \"más alto que\".",
+              "v": false,
+              "explicacion": "Quiere decir \"tan alto como\": dos cosas iguales."
+            },
+            {
+              "texto": "Con as … as el adjetivo no cambia.",
+              "v": true,
+              "explicacion": "As fast as, no \"as faster as\"."
+            }
+          ]
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "🗣️ ¿Quién lo diría?",
+          "pregunta": "Esta frase es inventada: \"It's the best day of the year: we won the final!\" ¿Quién la diría?",
+          "opciones": [
+            "Una jugadora después de ganar un campeonato",
+            "Alguien que perdió el partido más importante del año",
+            "Una persona que no juega a nada",
+            "Alguien a quien no le gustan los deportes"
+          ],
+          "correcta": 0,
+          "explicacion": "The best es el superlativo de good: para esa persona es el mejor día del año, porque ganó la final.",
+          "pista": "The best quiere decir \"el mejor\". ¿Quién diría que es el mejor día del año?"
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá con el superlativo de bad: It was ______ film of the year.",
+          "respuesta": "the worst",
+          "acepta": [
+            "the worst"
+          ],
+          "formato": "Escribí dos palabras en inglés.",
+          "explicacion": "Bad es irregular: the worst (la peor).",
+          "pista1": "Bad no sigue la regla. Mirá el paso 3 del paso a paso.",
+          "pista": "Recordá que el superlativo lleva the adelante."
+        },
+        {
+          "t": "dictado",
+          "voz": "personaje",
+          "texto": "The bus isn't as fast as the train.",
+          "traduccion": "(El colectivo no es tan rápido como el tren.)",
+          "explicacion": "As + adjetivo + as. En negativo: isn't as fast as."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "¿Por qué se dice \"the best\" y no \"the goodest\"?",
+          "respuesta": "Porque good es irregular: no sigue la regla de -est. Pasa lo mismo en castellano: no decimos \"más bueno de todos\" en una prueba, decimos \"el mejor\". Por eso conviene aprender good, better, the best y bad, worse, the worst de memoria."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Copiá el paso a paso del superlativo con un ejemplo de cada paso. Explicá en castellano la diferencia entre comparativo, superlativo y as … as. Después escribí en inglés cuatro oraciones sobre la familia o la escuela de {{nombre}} (las inventás vos): dos con superlativos, una con as … as y una con not as … as.",
+        "guia": [
+          "¿Qué diferencia hay entre comparar dos cosas y elegir una entre muchas?",
+          "¿Cuándo va -est y cuándo most?",
+          "¿Cuáles son los superlativos de good y bad?",
+          "¿Qué quiere decir as … as? ¿Cambia el adjetivo?",
+          "¿Quién es el más alto, el más chico o el más divertido de la familia de {{nombre}}?"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El superlativo de tall es the tallest.",
+          "respuesta": true,
+          "explicacion": "Tall es corto: the tallest."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El superlativo de good es the goodest.",
+          "respuesta": false,
+          "explicacion": "Es irregular: the best."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los adjetivos largos forman el superlativo con the most.",
+          "respuesta": true,
+          "explicacion": "The most beautiful."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"As fast as\" quiere decir \"tan rápido como\".",
+          "respuesta": true,
+          "explicacion": "Dos cosas iguales."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El superlativo no lleva the.",
+          "respuesta": false,
+          "explicacion": "Siempre lleva the: the biggest."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El superlativo de funny es the funniest.",
+          "respuesta": true,
+          "explicacion": "La y cambia por -iest."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"the worst\"?",
+          "opciones": [
+            "El peor",
+            "El mejor",
+            "Más malo que",
+            "Tan malo como"
+          ],
+          "correcta": 0,
+          "explicacion": "Bad, worse, the worst."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"She is the ___ girl in the class\"?",
+          "opciones": [
+            "tallest",
+            "taller",
+            "most tall",
+            "tall"
+          ],
+          "correcta": 0,
+          "explicacion": "Superlativo de tall: the tallest."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el superlativo de beautiful?",
+          "opciones": [
+            "the most beautiful",
+            "the beautifulest",
+            "more beautiful",
+            "the more beautiful"
+          ],
+          "correcta": 0,
+          "explicacion": "Es largo: the most."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se dice \"Mi hermana es tan alta como mi mamá\"?",
+          "opciones": [
+            "My sister is as tall as my mum.",
+            "My sister is taller than my mum.",
+            "My sister is the tallest.",
+            "My sister is as taller as my mum."
+          ],
+          "correcta": 0,
+          "explicacion": "As + adjetivo sin cambios + as."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el superlativo de big?",
+          "opciones": [
+            "the biggest",
+            "the bigest",
+            "the most big",
+            "bigger"
+          ],
+          "correcta": 0,
+          "explicacion": "Se duplica la g."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra va antes del lugar en \"the best student ___ the class\"?",
+          "opciones": [
+            "in",
+            "than",
+            "as",
+            "of the"
+          ],
+          "correcta": 0,
+          "explicacion": "Para el lugar o el grupo se usa in."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "BEST",
+          "pista": "El mejor: the ___."
+        },
+        {
+          "palabra": "WORST",
+          "pista": "El peor: the ___."
+        },
+        {
+          "palabra": "BIGGEST",
+          "pista": "Superlativo de big."
+        },
+        {
+          "palabra": "MOST",
+          "pista": "Va antes de los adjetivos largos en el superlativo."
+        },
+        {
+          "palabra": "TALLEST",
+          "pista": "Superlativo de tall."
+        },
+        {
+          "palabra": "FUNNIEST",
+          "pista": "Superlativo de funny."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "It is the most expensive phone in the shop.",
+            "It is the expensivest phone in the shop.",
+            "It is most expensive phone in the shop.",
+            "It is the more expensive phone in the shop."
+          ],
+          "correcta": 0,
+          "explicacion": "Adjetivo largo: the most expensive."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué expresa \"as … as\"?",
+          "opciones": [
+            "Que dos cosas son iguales",
+            "Que una es más que la otra",
+            "Que una es la más de todas",
+            "Que algo pasó antes"
+          ],
+          "correcta": 0,
+          "explicacion": "Tan… como."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"The best\" es el superlativo de good.",
+          "respuesta": true,
+          "explicacion": "Good, better, the best."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Comparar lugares y personas: mi mundo",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Comparar para describir",
+          "texto": "Comparar sirve para describir sin dar muchos datos: en vez de decir cuántos habitantes tiene una ciudad, alcanza con decir que es **más grande** o **más tranquila** que otra. Por eso los comparativos y los superlativos aparecen tanto cuando alguien cuenta dónde vive o cómo es su familia.\n\nEn una misma descripción se pueden combinar: [[My town is quieter than the city, but it is the friendliest place I know.]]"
+        },
+        {
+          "t": "dato",
+          "titulo": "Palabras para describir lugares",
+          "texto": "[[quiet]] (tranquilo) y [[noisy]] (ruidoso), [[busy]] (con mucho movimiento), [[expensive]] (caro) y [[cheap]] (barato), [[friendly]] (amigable), [[exciting]] (emocionante). Con todas se pueden armar comparativos y superlativos: [[noisier]], [[the busiest]], [[more expensive]], [[the most exciting]]."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Te comparo mi mundo",
+          "texto": "Te cuento cómo es mi mundo comparando lugares y personas. Tocá 🔊 para escucharlo.",
+          "habla": true,
+          "porPersonaje": {
+            "lucy": {
+              "texto": "Te cuento cómo es mi mundo comparando lugares y personas. Tocá 🔊 para escucharlo.\n\n[[~My friend Emma and I are very different.]] [[~Emma is taller than me, and she is more talkative.]] [[~I am quieter, but on the stage I am the loudest!]] [[~Bristol is smaller than London.]] [[~But for me, it is the best city in England.]]"
+            },
+            "ben": {
+              "texto": "Te cuento cómo es mi mundo comparando lugares y personas. Tocá 🔊 para escucharlo.\n\n[[~My sister is two years older than me.]] [[~She is more organized than me, but I am faster!]] [[~Our town is smaller and quieter than Chicago.]] [[~The most exciting day of my year is the city final.]]"
+            },
+            "mia": {
+              "texto": "Te cuento cómo es mi mundo comparando lugares y personas. Tocá 🔊 para escucharlo.\n\n[[~Sydney is bigger and busier than my old town.]] [[~It is noisier, too.]] [[~My old school was smaller than my new school.]] [[~The beach is my favourite place.]] [[~For me, it is the most beautiful place in the city.]]"
+            },
+            "liam": {
+              "texto": "Te cuento cómo es mi mundo comparando lugares y personas. Tocá 🔊 para escucharlo.\n\n[[~Conor is the best singer in our band.]] [[~I am a better guitar player than him, but he is funnier than me!]] [[~Dublin is bigger than my grandparents' town.]] [[~It is more expensive, too.]] [[~Our practice room is the smallest room in the school.]]"
+            }
+          }
+        },
+        {
+          "t": "unir",
+          "etiqueta": "Uní",
+          "consigna": "Uní cada parte de lo que te conté con su traducción.",
+          "habla": true,
+          "pista": "Las palabras con -er o more se traducen con \"más…\"; las que llevan the y -est o most, con \"el más…\" o \"la más…\".",
+          "porPersonaje": {
+            "lucy": {
+              "pares": [
+                {
+                  "a": "Emma is taller than me.",
+                  "b": "Emma es más alta que yo."
+                },
+                {
+                  "a": "She is more talkative.",
+                  "b": "Es más conversadora."
+                },
+                {
+                  "a": "I am quieter.",
+                  "b": "Yo soy más callada."
+                },
+                {
+                  "a": "Bristol is smaller than London.",
+                  "b": "Bristol es más chica que Londres."
+                },
+                {
+                  "a": "It is the best city in England.",
+                  "b": "Es la mejor ciudad de Inglaterra."
+                }
+              ],
+              "explicacion": "Así queda en castellano: Mi amiga Emma y yo somos muy distintas. Emma es más alta que yo y es más conversadora. Yo soy más callada, pero en el escenario ¡soy la que habla más fuerte! Bristol es más chica que Londres. Pero para mí es la mejor ciudad de Inglaterra."
+            },
+            "ben": {
+              "pares": [
+                {
+                  "a": "My sister is older than me.",
+                  "b": "Mi hermana es más grande que yo."
+                },
+                {
+                  "a": "She is more organized.",
+                  "b": "Es más organizada."
+                },
+                {
+                  "a": "I am faster!",
+                  "b": "¡Yo soy más rápido!"
+                },
+                {
+                  "a": "Our town is quieter than Chicago.",
+                  "b": "Nuestro pueblo es más tranquilo que Chicago."
+                },
+                {
+                  "a": "the most exciting day",
+                  "b": "el día más emocionante"
+                }
+              ],
+              "explicacion": "Así queda en castellano: Mi hermana es dos años más grande que yo. Es más organizada que yo, ¡pero yo soy más rápido! Nuestro pueblo es más chico y más tranquilo que Chicago. El día más emocionante de mi año es la final de la ciudad."
+            },
+            "mia": {
+              "pares": [
+                {
+                  "a": "Sydney is bigger.",
+                  "b": "Sídney es más grande."
+                },
+                {
+                  "a": "It is noisier, too.",
+                  "b": "También es más ruidosa."
+                },
+                {
+                  "a": "My old school was smaller.",
+                  "b": "Mi escuela de antes era más chica."
+                },
+                {
+                  "a": "my favourite place",
+                  "b": "mi lugar favorito"
+                },
+                {
+                  "a": "the most beautiful place",
+                  "b": "el lugar más lindo"
+                }
+              ],
+              "explicacion": "Así queda en castellano: Sídney es más grande y tiene más movimiento que mi pueblo de antes. También es más ruidosa. Mi escuela de antes era más chica que mi escuela nueva. La playa es mi lugar favorito. Para mí, es el lugar más lindo de la ciudad."
+            },
+            "liam": {
+              "pares": [
+                {
+                  "a": "Conor is the best singer.",
+                  "b": "Conor es el mejor cantante."
+                },
+                {
+                  "a": "I am a better guitar player.",
+                  "b": "Yo toco mejor la guitarra."
+                },
+                {
+                  "a": "He is funnier than me!",
+                  "b": "¡Él es más gracioso que yo!"
+                },
+                {
+                  "a": "It is more expensive.",
+                  "b": "Es más cara."
+                },
+                {
+                  "a": "the smallest room",
+                  "b": "la sala más chica"
+                }
+              ],
+              "explicacion": "Así queda en castellano: Conor es el mejor cantante de nuestra banda. Yo toco la guitarra mejor que él, ¡pero él es más gracioso que yo! Dublín es más grande que el pueblo de mis abuelos. También es más cara. Nuestra sala de ensayo es la sala más chica de la escuela."
+            }
+          }
+        },
+        {
+          "t": "dictado",
+          "voz": "personaje",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "Emma is taller than me.",
+              "traduccion": "(Emma es más alta que yo.)",
+              "explicacion": "Tall es corto: taller, y después than."
+            },
+            "ben": {
+              "texto": "My sister is older than me.",
+              "traduccion": "(Mi hermana es más grande que yo.)",
+              "explicacion": "Old es corto: older, y después than."
+            },
+            "mia": {
+              "texto": "Sydney is bigger than my old town.",
+              "traduccion": "(Sídney es más grande que mi pueblo de antes.)",
+              "explicacion": "Big duplica la g: bigger."
+            },
+            "liam": {
+              "texto": "He is funnier than me!",
+              "traduccion": "(¡Él es más gracioso que yo!)",
+              "explicacion": "Funny termina en -y: funnier."
+            }
+          }
+        },
+        {
+          "t": "clasificar",
+          "consigna": "Ayudame a separar lo que te conté: ¿qué oraciones comparan dos cosas y cuáles eligen una entre todas?",
+          "habla": true,
+          "categorias": [
+            "Comparativo",
+            "Superlativo"
+          ],
+          "explicacion": "Las que comparan dos cosas tienen -er o more y than. Las que eligen una entre todas tienen the y -est, most o best.",
+          "pista": "Buscá the: si está antes del adjetivo, es superlativo.",
+          "porPersonaje": {
+            "lucy": {
+              "items": [
+                {
+                  "texto": "Emma is taller than me.",
+                  "cat": "Comparativo"
+                },
+                {
+                  "texto": "She is more talkative.",
+                  "cat": "Comparativo"
+                },
+                {
+                  "texto": "Bristol is smaller than London.",
+                  "cat": "Comparativo"
+                },
+                {
+                  "texto": "On the stage I am the loudest!",
+                  "cat": "Superlativo"
+                },
+                {
+                  "texto": "It is the best city in England.",
+                  "cat": "Superlativo"
+                }
+              ]
+            },
+            "ben": {
+              "items": [
+                {
+                  "texto": "My sister is older than me.",
+                  "cat": "Comparativo"
+                },
+                {
+                  "texto": "She is more organized than me.",
+                  "cat": "Comparativo"
+                },
+                {
+                  "texto": "Our town is quieter than Chicago.",
+                  "cat": "Comparativo"
+                },
+                {
+                  "texto": "the most exciting day of my year",
+                  "cat": "Superlativo"
+                }
+              ]
+            },
+            "mia": {
+              "items": [
+                {
+                  "texto": "Sydney is bigger than my old town.",
+                  "cat": "Comparativo"
+                },
+                {
+                  "texto": "It is noisier, too.",
+                  "cat": "Comparativo"
+                },
+                {
+                  "texto": "My old school was smaller.",
+                  "cat": "Comparativo"
+                },
+                {
+                  "texto": "the most beautiful place in the city",
+                  "cat": "Superlativo"
+                }
+              ]
+            },
+            "liam": {
+              "items": [
+                {
+                  "texto": "Conor is the best singer in our band.",
+                  "cat": "Superlativo"
+                },
+                {
+                  "texto": "He is funnier than me!",
+                  "cat": "Comparativo"
+                },
+                {
+                  "texto": "It is more expensive, too.",
+                  "cat": "Comparativo"
+                },
+                {
+                  "texto": "the smallest room in the school",
+                  "cat": "Superlativo"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá la descripción de un pueblo con las palabras que faltan.",
+          "texto": "My town is [[quieter]] than the city, and the people are very friendly. The [[best]] place is the square. In summer it is as hot [[as]] the city, but it is [[cheaper]] to live here.",
+          "distractores": [
+            "quietest",
+            "better",
+            "than",
+            "more cheap"
+          ],
+          "explicacion": "Quieter than compara dos lugares; the best elige uno entre todos; as hot as dice que son iguales; cheap es corto: cheaper.",
+          "pista": "Mirá la palabra que viene después de cada espacio: than pide comparativo, the pide superlativo y as … as no cambia el adjetivo."
+        },
+        {
+          "t": "pronunciar",
+          "voz": "personaje",
+          "modo": "escuchar",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "It is the best city in England.",
+              "traduccion": "(Es la mejor ciudad de Inglaterra.)",
+              "explicacion": "En best, la s y la t se dicen juntas al final: \"best\", sin agregar una e."
+            },
+            "ben": {
+              "texto": "The most exciting day of my year is the city final.",
+              "traduccion": "(El día más emocionante de mi año es la final de la ciudad.)",
+              "explicacion": "Exciting lleva la fuerza en la segunda sílaba: ex-CAI-ting."
+            },
+            "mia": {
+              "texto": "It is the most beautiful place in the city.",
+              "traduccion": "(Es el lugar más lindo de la ciudad.)",
+              "explicacion": "Beautiful se dice \"biútiful\", con fuerza en la primera sílaba."
+            },
+            "liam": {
+              "texto": "Conor is the best singer in our band.",
+              "traduccion": "(Conor es el mejor cantante de nuestra banda.)",
+              "explicacion": "En singer la g casi no suena: \"sínguer\" muy suave."
+            }
+          }
+        },
+        {
+          "t": "revelar",
+          "habla": true,
+          "pregunta": "Si tuvieras que contar en una oración cómo es mi lugar, con un comparativo y un superlativo, ¿cómo la armarías? Pensala antes de mirar.",
+          "porPersonaje": {
+            "lucy": {
+              "respuesta": "Por ejemplo: [[Bristol is smaller than London, but for Lucy it is the best city in England.]] Fijate que con Lucy se usa is."
+            },
+            "ben": {
+              "respuesta": "Por ejemplo: [[Ben's town is quieter than Chicago, and the most exciting day of his year is the city final.]]"
+            },
+            "mia": {
+              "respuesta": "Por ejemplo: [[Sydney is bigger than Mia's old town, and the beach is the most beautiful place for her.]]"
+            },
+            "liam": {
+              "respuesta": "Por ejemplo: [[Dublin is bigger than Liam's grandparents' town, and Conor is the best singer in his band.]]"
+            }
+          }
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Ahora describí en tu carpeta mi lugar y a las personas que conocés de mi historia. Escribí en inglés un párrafo de cinco a siete oraciones en tercera persona, con al menos dos comparativos, un superlativo y una oración con as … as. Agregá un detalle que inventes vos. Este párrafo describe dónde vivo para tu trabajo práctico.",
+        "habla": true,
+        "porPersonaje": {
+          "lucy": {
+            "guia": [
+              "Empezá así: [[Lucy lives in Bristol. Bristol is smaller than London.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[She is … than…]] [[The best… is…]] [[… is as … as…]] [[… isn't as … as…]]",
+              "¿Cada comparativo tiene -er o more, y después than?",
+              "¿El superlativo tiene the adelante?",
+              "¿Usaste she y el verbo con -s cuando hablás de Lucy?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "ben": {
+            "guia": [
+              "Empezá así: [[Ben lives near Chicago. His town is quieter than Chicago.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[He is … than…]] [[The best… is…]] [[… is as … as…]] [[… isn't as … as…]]",
+              "¿Cada comparativo tiene -er o more, y después than?",
+              "¿El superlativo tiene the adelante?",
+              "¿Usaste he y el verbo con -s cuando hablás de Ben?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "mia": {
+            "guia": [
+              "Empezá así: [[Mia lives in Sydney. Sydney is bigger than her old town.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[She is … than…]] [[The best… is…]] [[… is as … as…]] [[… isn't as … as…]]",
+              "¿Cada comparativo tiene -er o more, y después than?",
+              "¿El superlativo tiene the adelante?",
+              "¿Usaste she y el verbo con -s cuando hablás de Mia?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "liam": {
+            "guia": [
+              "Empezá así: [[Liam lives in Dublin. Dublin is bigger than his grandparents' town.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[He is … than…]] [[The best… is…]] [[… is as … as…]] [[… isn't as … as…]]",
+              "¿Cada comparativo tiene -er o more, y después than?",
+              "¿El superlativo tiene the adelante?",
+              "¿Usaste he y el verbo con -s cuando hablás de Liam?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          }
+        }
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "En una descripción se pueden combinar comparativos y superlativos.",
+          "respuesta": true,
+          "explicacion": "Quieter than… the friendliest place."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Quiet quiere decir \"ruidoso\".",
+          "respuesta": false,
+          "explicacion": "Quiet es tranquilo; noisy es ruidoso."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El comparativo de noisy es noisier.",
+          "respuesta": true,
+          "explicacion": "La y cambia por -ier."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Cheap quiere decir \"caro\".",
+          "respuesta": false,
+          "explicacion": "Cheap es barato; expensive es caro."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"The most exciting\" es un superlativo.",
+          "respuesta": true,
+          "explicacion": "The most + adjetivo largo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"My town is as quiet as the city\" dice que las dos son iguales de tranquilas.",
+          "respuesta": true,
+          "explicacion": "As … as: tan… como."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir busy cuando se habla de una ciudad?",
+          "opciones": [
+            "Con mucho movimiento",
+            "Vacía",
+            "Barata",
+            "Tranquila y con pocos autos"
+          ],
+          "correcta": 0,
+          "explicacion": "A busy city tiene mucha gente y mucho movimiento."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el superlativo de friendly?",
+          "opciones": [
+            "the friendliest",
+            "the friendlyest",
+            "the most friendlier",
+            "friendlier"
+          ],
+          "correcta": 0,
+          "explicacion": "La y cambia por -iest."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"London is ___ than Bristol\"?",
+          "opciones": [
+            "bigger",
+            "biggest",
+            "more big",
+            "as big"
+          ],
+          "correcta": 0,
+          "explicacion": "Comparación entre dos ciudades: bigger than."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"the most beautiful place\"?",
+          "opciones": [
+            "El lugar más lindo",
+            "Un lugar más lindo que otro",
+            "Un lugar tan lindo como otro",
+            "El lugar menos lindo"
+          ],
+          "correcta": 0,
+          "explicacion": "The most + adjetivo: el más."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el contrario de expensive?",
+          "opciones": [
+            "cheap",
+            "quiet",
+            "busy",
+            "friendly"
+          ],
+          "correcta": 0,
+          "explicacion": "Cheap = barato."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "It is the friendliest place I know.",
+            "It is the most friendliest place I know.",
+            "It is friendliest place I know.",
+            "It is the friendlyest place I know."
+          ],
+          "correcta": 0,
+          "explicacion": "The + friendliest, sin most."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "QUIET",
+          "pista": "Tranquilo, en inglés."
+        },
+        {
+          "palabra": "NOISY",
+          "pista": "Ruidoso, en inglés."
+        },
+        {
+          "palabra": "CHEAP",
+          "pista": "Barato, en inglés."
+        },
+        {
+          "palabra": "BUSY",
+          "pista": "Con mucho movimiento."
+        },
+        {
+          "palabra": "FRIENDLY",
+          "pista": "Amigable, en inglés."
+        },
+        {
+          "palabra": "PLACE",
+          "pista": "Lugar, en inglés."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración compara dos lugares?",
+          "opciones": [
+            "Sydney is busier than my old town.",
+            "Sydney is the busiest city I know.",
+            "Sydney is a busy city.",
+            "Sydney is as busy as."
+          ],
+          "correcta": 0,
+          "explicacion": "Comparativo + than."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"It is ___ cheapest shop in town\"?",
+          "opciones": [
+            "the",
+            "than",
+            "as",
+            "more"
+          ],
+          "correcta": 0,
+          "explicacion": "El superlativo lleva the."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Noisy\" y \"quiet\" son opuestos.",
+          "respuesta": true,
+          "explicacion": "Ruidoso y tranquilo."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "[[than]]",
+      "definicion": "Que. Va después del comparativo: bigger than."
+    },
+    {
+      "palabra": "[[more]] / [[the most]]",
+      "definicion": "Más / el más. Van con los adjetivos largos."
+    },
+    {
+      "palabra": "[[better]] / [[the best]]",
+      "definicion": "Mejor / el mejor. Comparativo y superlativo de good."
+    },
+    {
+      "palabra": "[[worse]] / [[the worst]]",
+      "definicion": "Peor / el peor. Comparativo y superlativo de bad."
+    },
+    {
+      "palabra": "[[as … as]]",
+      "definicion": "Tan… como. Dice que dos cosas son iguales."
+    },
+    {
+      "palabra": "[[quiet]] / [[noisy]]",
+      "definicion": "Tranquilo / ruidoso."
+    },
+    {
+      "palabra": "[[cheap]] / [[expensive]]",
+      "definicion": "Barato / caro."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "My brother is more tall than me.",
+      "aclaracion": "Tall es corto: My brother is taller than me."
+    },
+    {
+      "error": "It is the goodest film.",
+      "aclaracion": "Good es irregular: It is the best film."
+    },
+    {
+      "error": "She is as taller as her mum.",
+      "aclaracion": "Con as … as el adjetivo no cambia: She is as tall as her mum."
+    }
+  ]
+}

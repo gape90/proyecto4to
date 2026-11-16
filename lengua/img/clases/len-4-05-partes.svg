@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 490" role="img" aria-label="Las partes del texto sobre educación física" font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect width="1000" height="490" fill="#FFFFFF"/>
+<text x="500" y="52" text-anchor="middle" font-size="28" font-weight="800" fill="#5B2A86">Las partes del texto sobre educación física</text>
+<rect x="20" y="86" width="410" height="80" rx="16" fill="#E2DAF6" stroke="#5B2A86" stroke-width="2.5"/>
+<text x="225" y="133.0" text-anchor="middle" font-size="20" font-weight="700" fill="#1B1A4A">Tesis</text>
+<path d="M440 126.0 H478 m-10 -9 l10 9 l-10 9" stroke="#4B4FA3" stroke-width="3" fill="none"/>
+<rect x="490" y="86" width="490" height="80" rx="14" fill="#EFEAFB" stroke="#4B4FA3" stroke-width="2" stroke-dasharray="7 6"/>
+<rect x="20" y="182" width="410" height="80" rx="16" fill="#E2DAF6" stroke="#5B2A86" stroke-width="2.5"/>
+<text x="225" y="229.0" text-anchor="middle" font-size="20" font-weight="700" fill="#1B1A4A">Argumento 1</text>
+<path d="M440 222.0 H478 m-10 -9 l10 9 l-10 9" stroke="#4B4FA3" stroke-width="3" fill="none"/>
+<rect x="490" y="182" width="490" height="80" rx="14" fill="#EFEAFB" stroke="#4B4FA3" stroke-width="2" stroke-dasharray="7 6"/>
+<rect x="20" y="278" width="410" height="80" rx="16" fill="#E2DAF6" stroke="#5B2A86" stroke-width="2.5"/>
+<text x="225" y="325.0" text-anchor="middle" font-size="20" font-weight="700" fill="#1B1A4A">Argumento 2</text>
+<path d="M440 318.0 H478 m-10 -9 l10 9 l-10 9" stroke="#4B4FA3" stroke-width="3" fill="none"/>
+<rect x="490" y="278" width="490" height="80" rx="14" fill="#EFEAFB" stroke="#4B4FA3" stroke-width="2" stroke-dasharray="7 6"/>
+<rect x="20" y="374" width="410" height="80" rx="16" fill="#E2DAF6" stroke="#5B2A86" stroke-width="2.5"/>
+<text x="225" y="421.0" text-anchor="middle" font-size="20" font-weight="700" fill="#1B1A4A">Conclusión</text>
+<path d="M440 414.0 H478 m-10 -9 l10 9 l-10 9" stroke="#4B4FA3" stroke-width="3" fill="none"/>
+<rect x="490" y="374" width="490" height="80" rx="14" fill="#EFEAFB" stroke="#4B4FA3" stroke-width="2" stroke-dasharray="7 6"/>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 900" role="img" aria-label="Ilustración: la riqueza de un país es como una torta que se reparte entre salarios de los trabajadores y ganancias y rentas de los dueños; el Estado pone las reglas del reparto" font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect x="0" y="0" width="500" height="900" rx="28" fill="#F7F4FD"/>
+<text x="250" y="50" font-size="28" font-weight="800" fill="#1B1A4A" text-anchor="middle">La riqueza de un país,</text>
+<text x="250" y="86" font-size="28" font-weight="800" fill="#1B1A4A" text-anchor="middle">como una torta</text>
+<g>
+  <ellipse cx="250" cy="298" rx="170" ry="105.4" fill="#C98B5A"/>
+  <path d="M250 280 L250 174.6 A170 105.4 0 0 0 250 385.4z" fill="#4B4FA3" opacity=".88"/>
+  <path d="M250 280 L250 174.6 A170 105.4 0 0 1 250 385.4z" fill="#B83A7A" opacity=".88"/>
+  <ellipse cx="250" cy="280" rx="170" ry="105.4" fill="none" stroke="#C98B5A" stroke-width="4"/>
+  <line x1="250" y1="174.6" x2="250" y2="385.4" stroke="#fff" stroke-width="5" stroke-dasharray="10 6"/>
+  <path d="M206 158.6 q44 -30 88 0" fill="none" stroke="#1B1A4A" stroke-width="4" stroke-linecap="round"/>
+  <path d="M206 158.6 l4 -14 M206 158.6 l14 2 M294 158.6 l-4 -14 M294 158.6 l-14 2" fill="none" stroke="#1B1A4A" stroke-width="4" stroke-linecap="round"/>
+</g>
+<rect x="40" y="452" width="26" height="26" rx="6" fill="#4B4FA3"/>
+<text x="78" y="470.0" font-size="22" font-weight="700" fill="#1B1A4A" text-anchor="start">Salarios</text>
+<text x="78" y="498.6" font-size="22" font-weight="700" fill="#1B1A4A" text-anchor="start">(para los trabajadores)</text>
+<rect x="40" y="542" width="26" height="26" rx="6" fill="#B83A7A"/>
+<text x="78" y="560.0" font-size="22" font-weight="700" fill="#1B1A4A" text-anchor="start">Ganancias y rentas</text>
+<text x="78" y="588.6" font-size="22" font-weight="700" fill="#1B1A4A" text-anchor="start">(para los dueños de las empresas</text>
+<text x="78" y="617.2" font-size="22" font-weight="700" fill="#1B1A4A" text-anchor="start">y de la tierra)</text>
+<g transform="translate(40,650)"><circle cx="30" cy="20" r="18" fill="#5B2A86"/><rect x="10" y="42" width="40" height="74" rx="16" fill="#5B2A86"/>
+  <rect x="44" y="52" width="54" height="40" rx="4" fill="#fff" stroke="#5B2A86" stroke-width="4"/><line x1="71" y1="52" x2="71" y2="92" stroke="#5B2A86" stroke-width="3"/>
+  <line x1="50" y1="64" x2="66" y2="64" stroke="#5B2A86" stroke-width="2"/><line x1="50" y1="72" x2="66" y2="72" stroke="#5B2A86" stroke-width="2"/><line x1="76" y1="64" x2="92" y2="64" stroke="#5B2A86" stroke-width="2"/><line x1="76" y1="72" x2="92" y2="72" stroke="#5B2A86" stroke-width="2"/></g>
+<text x="160" y="700.0" font-size="22" font-weight="700" fill="#5B2A86" text-anchor="start">El Estado puede poner</text>
+<text x="160" y="728.6" font-size="22" font-weight="700" fill="#5B2A86" text-anchor="start">las reglas del reparto</text>
+<text x="250" y="820.0" font-size="19" font-weight="600" fill="#4A4870" text-anchor="middle">¿Dónde se corta? Depende de la fuerza de</text>
+<text x="250" y="844.7" font-size="19" font-weight="600" fill="#4A4870" text-anchor="middle">cada grupo y de lo que decide el Estado.</text>
+</svg>

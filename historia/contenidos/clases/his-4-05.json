@@ -1,0 +1,1236 @@
+{
+  "id": "his-4-05",
+  "espacio": "historia",
+  "eje": "Crisis, Estado e industrialización",
+  "titulo": "Disputas por la distribución de la riqueza (1930-1955)",
+  "intro": "Entre 1930 y 1955, empresarios y trabajadores se disputaron cómo repartir la riqueza que producía el país. Vas a ver quiénes eran, qué querían, y cómo el Estado intervino de formas muy distintas: primero a favor de los grandes productores y después a favor de los trabajadores.",
+  "tp_aporte": "Para tu trabajo práctico ya tenés: qué es la distribución de la riqueza, quiénes la disputaban, y cómo cambiaron los mecanismos de intervención del Estado entre la Década Infame y el peronismo. Te sirve para unir las clases 3 y 4.",
+  "objetivos": [
+    "Explicar qué es la distribución de la riqueza y quiénes la disputaban entre 1930 y 1955.",
+    "Reconocer los mecanismos de intervención del Estado entre 1930 y 1943 y a quiénes favorecían.",
+    "Comparar la intervención del Estado conservador y del Estado peronista, y la reacción de empresarios y trabajadores."
+  ],
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "¿Cómo se reparte la riqueza?",
+      "tiempo": "30 a 40 min",
+      "recordas": "En las clases anteriores viste a obreros, empresarios y al Estado. ¿Qué querían los trabajadores y qué querían los dueños de las empresas y del campo?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "La riqueza que produce un país",
+          "texto": "Todo lo que un país produce en un año (cosechas, carne, productos de las fábricas, servicios) forma su **riqueza** o **ingreso nacional**. Esa riqueza se reparte entre distintos grupos: una parte va a los **trabajadores** como **salarios** y otra parte va a los **dueños** de las empresas y de la tierra como **ganancias** y **rentas**.\n\nCómo se reparte no es algo natural ni fijo: depende de la fuerza de cada grupo y de lo que decide el **Estado**. Por eso hay **disputas por la distribución de la riqueza**."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Pensalo así",
+          "texto": "Imaginá que un grupo hace una torta entre todos. Unos pusieron los ingredientes y el horno; otros, el trabajo de cocinar. ¿Cómo se reparte la torta? Si nadie pone reglas, quien tiene más poder se lleva la porción más grande. El Estado puede actuar como quien pone las reglas del reparto."
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "src": "img/clases/his-4-05-torta.svg",
+          "src_movil": "img/clases/his-4-05-torta-movil.svg",
+          "tipo": "grafico",
+          "alt": "Ilustración: una torta partida en dos, salarios para los trabajadores y ganancias y rentas para los dueños; una flecha muestra que el corte se puede mover y una persona con un libro representa al Estado, que pone las reglas del reparto.",
+          "epigrafe": "El \"Pensalo así\", en un dibujo. Esquema elaborado para esta clase."
+        },
+        {
+          "t": "texto",
+          "titulo": "Quiénes se disputaban la riqueza",
+          "texto": "Entre 1930 y 1955 los grandes protagonistas de esta disputa fueron:\n\n**Los sectores empresariales**: los grandes **terratenientes y ganaderos**, organizados en la **Sociedad Rural Argentina** (1866), y los **industriales**, organizados en la **Unión Industrial Argentina** (1887).\n\n**El movimiento obrero**: los trabajadores organizados en **sindicatos**, que en 1930 formaron la **CGT** (Confederación General del Trabajo)."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Los actores de la disputa",
+          "columnas": [
+            "",
+            "Sectores empresariales",
+            "Movimiento obrero"
+          ],
+          "filas": [
+            [
+              "Quiénes",
+              "Terratenientes, ganaderos e industriales",
+              "Trabajadores del campo, las fábricas y los servicios"
+            ],
+            [
+              "Cómo se organizan",
+              "Sociedad Rural Argentina, Unión Industrial Argentina",
+              "Sindicatos y la CGT"
+            ],
+            [
+              "Qué quieren",
+              "Más ganancias, menos impuestos y menos costos",
+              "Mejores salarios y condiciones de trabajo"
+            ],
+            [
+              "Cómo presionan",
+              "Negocian con el gobierno, usan su poder económico",
+              "Huelgas, movilizaciones y negociación"
+            ]
+          ]
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada uno pertenece a los sectores empresariales o al movimiento obrero? Si tenés dudas, mirá la tabla de los actores.",
+          "categorias": [
+            "Sectores empresariales",
+            "Movimiento obrero"
+          ],
+          "items": [
+            {
+              "texto": "Sociedad Rural Argentina",
+              "cat": "Sectores empresariales"
+            },
+            {
+              "texto": "CGT",
+              "cat": "Movimiento obrero"
+            },
+            {
+              "texto": "Unión Industrial Argentina",
+              "cat": "Sectores empresariales"
+            },
+            {
+              "texto": "Sindicato de trabajadores textiles",
+              "cat": "Movimiento obrero"
+            },
+            {
+              "texto": "Grandes ganaderos",
+              "cat": "Sectores empresariales"
+            },
+            {
+              "texto": "Huelga para pedir aumento de salarios",
+              "cat": "Movimiento obrero"
+            }
+          ],
+          "explicacion": "Los empresarios (del campo y de la industria) buscaban más ganancias; los trabajadores, organizados en sindicatos, buscaban mejores salarios."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Por qué decimos que el reparto de la riqueza es una \"disputa\"?",
+          "opciones": [
+            "Cada grupo quiere una parte mayor, según su fuerza",
+            "La riqueza se reparte siempre en partes iguales",
+            "Solo los trabajadores producen toda la riqueza",
+            "El Estado no tiene nada que ver con el reparto"
+          ],
+          "correcta": 0,
+          "explicacion": "El reparto no es natural ni fijo: cambia según la fuerza de cada grupo y las decisiones del Estado.",
+          "pista": "Releé el segundo párrafo del primer texto."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Buscá en el texto en qué año se fundó la Sociedad Rural Argentina y en qué año se formó la CGT. ¿Cuántos años antes que los trabajadores se organizaron los terratenientes?",
+          "respuesta": "64",
+          "explicacion": "La Sociedad Rural es de 1866 y la CGT de 1930: los terratenientes se organizaron **64 años antes**.",
+          "pista": "Restá el año de la Sociedad Rural al año de la CGT.",
+          "pista1": "Los dos años están en el texto \"Quiénes se disputaban la riqueza\"."
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada actor con su organización.",
+          "pares": [
+            {
+              "a": "Terratenientes y ganaderos",
+              "b": "Sociedad Rural Argentina (1866)"
+            },
+            {
+              "a": "Industriales",
+              "b": "Unión Industrial Argentina (1887)"
+            },
+            {
+              "a": "Trabajadores",
+              "b": "Sindicatos y la CGT (1930)"
+            }
+          ],
+          "explicacion": "Cada grupo se organizaba para disputar la riqueza.",
+          "pista": "Releé los textos de esta parte.",
+          "_nuevo": true
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué crees que los terratenientes se organizaron mucho antes que los trabajadores?",
+          "respuesta": "Porque eran el grupo más poderoso desde el siglo XIX, cuando la economía se basaba en el campo. Los obreros industriales crecieron después, con las fábricas, y les costó más organizarse porque eran perseguidos y tenían menos recursos. Organizarse da fuerza para disputar la riqueza."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué significa la distribución de la riqueza y quiénes la disputaban entre 1930 y 1955. Contá entre quiénes se reparte la riqueza de un país, qué querían los sectores empresariales y el movimiento obrero, cómo se organizaba cada uno y qué papel tiene el Estado.",
+        "guia": [
+          "¿Qué es la riqueza o ingreso nacional y entre quiénes se reparte?",
+          "¿Quiénes formaban los sectores empresariales y cómo se organizaban?",
+          "¿Cómo se organizaba el movimiento obrero?",
+          "¿Qué quería cada grupo y cómo presionaba?",
+          "¿Por qué el Estado es importante en esta disputa?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "riqueza",
+              "ingreso"
+            ],
+            "p": "qué es la riqueza"
+          },
+          {
+            "k": [
+              "salario",
+              "ganancia",
+              "renta"
+            ],
+            "p": "cómo se reparte"
+          },
+          {
+            "k": [
+              "sociedad rural",
+              "union industrial",
+              "terraten",
+              "industrial"
+            ],
+            "p": "los sectores empresariales"
+          },
+          {
+            "k": [
+              "sindicato",
+              "cgt"
+            ],
+            "p": "el movimiento obrero"
+          },
+          {
+            "k": [
+              "estado",
+              "reglas"
+            ],
+            "p": "el papel del Estado"
+          }
+        ],
+        "referencia": "La riqueza o ingreso nacional es lo que produce un país; se reparte entre salarios (trabajadores) y ganancias o rentas (dueños de empresas y tierras). Los sectores empresariales eran terratenientes y ganaderos (Sociedad Rural Argentina, 1866) e industriales (Unión Industrial Argentina, 1887), que buscaban más ganancias. El movimiento obrero se organizaba en sindicatos y la CGT (1930) y buscaba mejores salarios. El reparto depende de la fuerza de cada grupo y de lo que decide el Estado.",
+        "minPalabras": 35
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "La riqueza de un país se reparte entre salarios, ganancias y rentas.",
+          "respuesta": true,
+          "explicacion": "Los salarios van a los trabajadores; las ganancias y rentas, a los dueños de empresas y tierras."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La forma en que se reparte la riqueza es natural y nunca cambia.",
+          "respuesta": false,
+          "explicacion": "Depende de la fuerza de cada grupo y de lo que decide el Estado."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Sociedad Rural Argentina reunía a grandes terratenientes y ganaderos.",
+          "respuesta": true,
+          "explicacion": "Se fundó en 1866."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La CGT reunía a los empresarios industriales.",
+          "respuesta": false,
+          "explicacion": "La CGT reunía a los sindicatos de trabajadores. Los industriales estaban en la Unión Industrial Argentina."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La CGT se formó en 1930.",
+          "respuesta": true,
+          "explicacion": "Es la Confederación General del Trabajo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los trabajadores usaban las huelgas para presionar por mejores salarios.",
+          "respuesta": true,
+          "explicacion": "También las movilizaciones y la negociación."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los empresarios buscaban pagar más impuestos.",
+          "respuesta": false,
+          "explicacion": "Buscaban más ganancias, menos impuestos y menos costos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es el ingreso nacional?",
+          "opciones": [
+            "Todo lo que produce un país en un año",
+            "El sueldo de un trabajador",
+            "Lo que gana el Estado con impuestos",
+            "Las deudas de un país"
+          ],
+          "correcta": 0,
+          "explicacion": "Esa riqueza se reparte entre distintos grupos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se organizaban los industriales?",
+          "opciones": [
+            "En la Unión Industrial Argentina",
+            "En la CGT",
+            "En la Sociedad Rural Argentina",
+            "En los sindicatos"
+          ],
+          "correcta": 0,
+          "explicacion": "Se fundó en 1887."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué querían los trabajadores?",
+          "opciones": [
+            "Mejores salarios y condiciones",
+            "Más ganancias para las empresas",
+            "Menos sindicatos",
+            "Que el Estado no interviniera nunca"
+          ],
+          "correcta": 0,
+          "explicacion": "Para eso se organizaban en sindicatos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué parte de la riqueza va a los trabajadores?",
+          "opciones": [
+            "Los salarios",
+            "Las rentas",
+            "Las ganancias",
+            "Los impuestos"
+          ],
+          "correcta": 0,
+          "explicacion": "Las ganancias y rentas van a los dueños."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estos es un actor del movimiento obrero?",
+          "opciones": [
+            "Un sindicato",
+            "La Sociedad Rural Argentina",
+            "Un gran ganadero",
+            "La Unión Industrial Argentina"
+          ],
+          "correcta": 0,
+          "explicacion": "Los sindicatos se unieron en la CGT."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué puede hacer el Estado en esta disputa?",
+          "opciones": [
+            "Poner reglas que favorezcan a un grupo",
+            "Nada, porque el reparto es algo natural",
+            "Solo cobrar multas a quienes no pagan",
+            "Prohibir que se produzca más riqueza"
+          ],
+          "correcta": 0,
+          "explicacion": "Como quien pone las reglas para repartir la torta."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "RIQUEZA",
+          "pista": "Todo lo que produce un país; se reparte entre distintos grupos."
+        },
+        {
+          "palabra": "SALARIOS",
+          "pista": "La parte de la riqueza que va a los trabajadores."
+        },
+        {
+          "palabra": "GANANCIAS",
+          "pista": "La parte de la riqueza que va a los dueños de las empresas."
+        },
+        {
+          "palabra": "SOCIEDAD RURAL",
+          "pista": "Organización de los grandes terratenientes y ganaderos."
+        },
+        {
+          "palabra": "CGT",
+          "pista": "Confederación de sindicatos formada en 1930."
+        },
+        {
+          "palabra": "TERRATENIENTES",
+          "pista": "Dueños de grandes extensiones de tierra."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Entre quiénes era la principal disputa por la riqueza entre 1930 y 1955?",
+          "opciones": [
+            "Empresarios y movimiento obrero",
+            "Entre la Argentina y el Brasil",
+            "Entre los radicales y los socialistas",
+            "Entre el Ejército y la Iglesia católica"
+          ],
+          "correcta": 0,
+          "explicacion": "Empresarios del campo y de la industria por un lado; trabajadores organizados en sindicatos por el otro. El Estado ponía las reglas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿De qué depende cómo se reparte la riqueza?",
+          "opciones": [
+            "De la fuerza de cada grupo y del Estado",
+            "De la suerte de cada persona",
+            "Del clima y de las cosechas de cada año",
+            "De nada: siempre se reparte igual"
+          ],
+          "correcta": 0,
+          "explicacion": "Por eso es una disputa: el reparto puede cambiar."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los terratenientes y ganaderos se organizaban en la Sociedad Rural Argentina.",
+          "respuesta": true,
+          "explicacion": "Y los industriales, en la Unión Industrial Argentina."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "1930-1943: un Estado a favor de los grandes productores",
+      "tiempo": "30 a 40 min",
+      "recordas": "¿Qué recordás de la Década Infame y de cómo intervino el Estado en la economía después de la crisis de 1929?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "El Estado interviene… ¿a favor de quién?",
+          "texto": "Después de la crisis de 1929, los gobiernos conservadores de la **Década Infame** empezaron a intervenir en la economía. Pero lo hicieron sobre todo para **proteger a los grandes productores**: los ganaderos, los exportadores y las empresas, muchas de ellas extranjeras.\n\nLos trabajadores, en cambio, tenían **salarios bajos**, jornadas largas y pocos derechos. Cuando hacían huelga, muchas veces eran **reprimidos**."
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "src": "img/clases/his-4-05-trabajadores-villa.jpg",
+          "tipo": "foto",
+          "animacion": "acercar-izq",
+          "alt": "Fotografía en blanco y negro: una larga fila de trabajadores con latas y recipientes en la mano, junto a vagones de tren, en una de las primeras villas de emergencia de Buenos Aires.",
+          "epigrafe": "Trabajadores en una de las primeras villas de emergencia de la ciudad de Buenos Aires.",
+          "fuente": "Autor no especificado, vía Wikimedia Commons (dominio público)."
+        },
+        {
+          "t": "pasos",
+          "titulo": "Los mecanismos de intervención del Estado conservador",
+          "pasos": [
+            {
+              "titulo": "Control de cambios (1931)",
+              "texto": "El Estado decide quién puede comprar monedas extranjeras y cuántas."
+            },
+            {
+              "titulo": "Juntas reguladoras (1933)",
+              "texto": "Juntas de granos y de carnes ordenan la producción y sostienen los precios para los productores."
+            },
+            {
+              "titulo": "Pacto Roca-Runciman (1933)",
+              "texto": "Asegura la venta de carne al Reino Unido, con ventajas para los grandes ganaderos y para los frigoríficos y empresas británicas."
+            },
+            {
+              "titulo": "Banco Central (1935)",
+              "texto": "Regula la moneda y el crédito."
+            }
+          ]
+        },
+        {
+          "t": "opcion",
+          "pregunta": "Según el texto, ¿a quiénes protegía sobre todo la intervención del Estado entre 1930 y 1943?",
+          "opciones": [
+            "A los grandes productores y exportadores",
+            "A los trabajadores de las fábricas",
+            "A los sindicatos y a la CGT",
+            "A los pequeños comerciantes de barrio"
+          ],
+          "correcta": 0,
+          "explicacion": "El Estado intervino, pero para sostener a los grandes productores; los trabajadores tenían salarios bajos y pocos derechos.",
+          "pista": "Releé el primer párrafo."
+        },
+        {
+          "t": "texto",
+          "titulo": "El movimiento obrero crece",
+          "texto": "Mientras tanto, con la **industrialización** crecía la cantidad de obreros en las ciudades. Los sindicatos se fortalecieron y en 1930 formaron la **CGT**.\n\nHubo grandes huelgas, como la **huelga de la construcción** de 1935-1936 en Buenos Aires, que llegó a paralizar la ciudad. Pero el Estado no reconocía la mayoría de los reclamos: los salarios casi no mejoraban mientras la industria crecía."
+        },
+        {
+          "t": "linea",
+          "titulo": "La disputa entre 1930 y 1943",
+          "eventos": [
+            {
+              "anio": "1930",
+              "titulo": "Golpe de Uriburu y nace la CGT",
+              "texto": "Empiezan los gobiernos conservadores. Los sindicatos se unen en la CGT."
+            },
+            {
+              "anio": "1931",
+              "titulo": "Control de cambios",
+              "texto": "El Estado regula la compra de monedas extranjeras."
+            },
+            {
+              "anio": "1933",
+              "titulo": "Pacto Roca-Runciman y juntas reguladoras",
+              "texto": "Se protege la venta de carne y los precios para los productores."
+            },
+            {
+              "anio": "1935-1936",
+              "titulo": "Huelga de la construcción",
+              "texto": "Una gran huelga paraliza Buenos Aires."
+            },
+            {
+              "anio": "1943",
+              "titulo": "Golpe militar",
+              "texto": "Termina la Década Infame. Empieza una nueva etapa."
+            }
+          ]
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená estos hechos de más antiguo a más reciente. Los años no están: buscalos en la línea de tiempo.",
+          "items": [
+            "Los sindicatos forman la CGT",
+            "Se establece el control de cambios",
+            "Se firma el Pacto Roca-Runciman",
+            "Una gran huelga de la construcción paraliza Buenos Aires",
+            "Un golpe militar termina con la Década Infame"
+          ],
+          "explicacion": "Mientras el Estado protegía a los grandes productores, el movimiento obrero crecía y se organizaba.",
+          "pista": "Todos los hechos están en la línea \"La disputa entre 1930 y 1943\"."
+        },
+        {
+          "t": "vf",
+          "afirmaciones": [
+            {
+              "texto": "Entre 1930 y 1943, el Estado intervenía sobre todo para proteger a los grandes productores.",
+              "v": true,
+              "explicacion": "Protegía a ganaderos, exportadores y empresas, muchas de ellas extranjeras."
+            },
+            {
+              "texto": "En esos años los salarios subieron mucho.",
+              "v": false,
+              "explicacion": "Los salarios casi no mejoraban, aunque la industria crecía."
+            },
+            {
+              "texto": "En 1930 los sindicatos se unieron y formaron la CGT.",
+              "v": true,
+              "explicacion": "Lo dicen el texto \"El movimiento obrero crece\" y la línea de tiempo."
+            },
+            {
+              "texto": "El Estado reconocía la mayoría de los reclamos de los trabajadores.",
+              "v": false,
+              "explicacion": "No los reconocía, y muchas huelgas eran reprimidas."
+            }
+          ]
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá el texto con las palabras que corresponden.",
+          "texto": "Entre 1930 y 1943 el Estado intervino sobre todo a favor de los grandes [[productores]]. Los trabajadores tenían salarios [[bajos]] y muchas huelgas eran reprimidas. Aun así, el movimiento [[obrero]] creció: en 1935-1936 hubo una gran huelga de la [[construcción]].",
+          "distractores": [
+            "consumidores",
+            "altos",
+            "empresario",
+            "industria"
+          ],
+          "explicacion": "La riqueza crecía, pero se repartía de manera desigual.",
+          "pista": "Todas las palabras están en los textos de esta parte.",
+          "_nuevo": true
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: si la industria crecía y había más obreros, ¿por qué los salarios casi no mejoraban?",
+          "respuesta": "Porque el Estado de esos años no ponía reglas a favor de los trabajadores: no obligaba a los empresarios a negociar ni a subir los salarios, y muchas huelgas eran reprimidas. Los empresarios se quedaban con la mayor parte de lo que se ganaba con la industria. La riqueza crecía, pero se repartía de manera muy desigual."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá cómo intervino el Estado en la economía entre 1930 y 1943 y a quiénes favoreció. Nombrá al menos dos mecanismos de intervención, contá cómo era la situación de los trabajadores y cómo se fortaleció el movimiento obrero.",
+        "guia": [
+          "¿A quiénes protegía la intervención del Estado en esos años?",
+          "¿Qué mecanismos usó (control de cambios, juntas, Pacto Roca-Runciman, Banco Central)?",
+          "¿Cómo era la situación de los trabajadores?",
+          "¿Cómo se organizó el movimiento obrero y qué huelga importante hubo?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "grandes productores",
+              "ganadero",
+              "exportador",
+              "empresa"
+            ],
+            "p": "a quiénes favorecía"
+          },
+          {
+            "k": [
+              "control de cambios",
+              "junta",
+              "roca",
+              "runciman",
+              "banco central"
+            ],
+            "p": "los mecanismos de intervención"
+          },
+          {
+            "k": [
+              "salario",
+              "reprim",
+              "derechos"
+            ],
+            "p": "la situación de los trabajadores"
+          },
+          {
+            "k": [
+              "cgt",
+              "sindicato",
+              "huelga",
+              "construccion"
+            ],
+            "p": "el crecimiento del movimiento obrero"
+          }
+        ],
+        "referencia": "Entre 1930 y 1943 el Estado intervino para proteger a los grandes productores, exportadores y empresas: control de cambios (1931), juntas reguladoras de granos y carnes (1933), Pacto Roca-Runciman (1933) y Banco Central (1935). Los trabajadores tenían salarios bajos, jornadas largas y pocos derechos, y sus huelgas eran reprimidas. Con la industrialización creció la cantidad de obreros; los sindicatos formaron la CGT (1930) y hubo grandes huelgas, como la de la construcción (1935-1936).",
+        "minPalabras": 35
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Entre 1930 y 1943 el Estado intervino sobre todo para proteger a los grandes productores.",
+          "respuesta": true,
+          "explicacion": "Ganaderos, exportadores y empresas, muchas extranjeras."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la Década Infame los trabajadores tenían salarios altos y muchos derechos.",
+          "respuesta": false,
+          "explicacion": "Tenían salarios bajos, jornadas largas y pocos derechos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Las juntas reguladoras sostenían los precios para los productores.",
+          "respuesta": true,
+          "explicacion": "Había juntas de granos y de carnes."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Pacto Roca-Runciman benefició a los grandes ganaderos y a empresas británicas.",
+          "respuesta": true,
+          "explicacion": "Aseguraba la venta de carne al Reino Unido."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La huelga de la construcción de 1935-1936 paralizó Buenos Aires.",
+          "respuesta": true,
+          "explicacion": "Fue una de las huelgas más grandes de esos años."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con la industrialización bajó la cantidad de obreros.",
+          "respuesta": false,
+          "explicacion": "Creció la cantidad de obreros en las ciudades."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Banco Central se creó en 1935.",
+          "respuesta": true,
+          "explicacion": "Regula la moneda y el crédito."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué mecanismo estableció el Estado en 1931?",
+          "opciones": [
+            "El control de cambios",
+            "El aguinaldo para los trabajadores",
+            "El voto de las mujeres",
+            "La creación de la CGT"
+          ],
+          "correcta": 0,
+          "explicacion": "Regulaba la compra de monedas extranjeras."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿A quién beneficiaba más el Pacto Roca-Runciman?",
+          "opciones": [
+            "A ganaderos y empresas británicas",
+            "A los obreros de la construcción",
+            "A los sindicatos y a la CGT",
+            "A los pequeños comerciantes del país"
+          ],
+          "correcta": 0,
+          "explicacion": "Aseguraba la venta de carne al Reino Unido."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué pasaba muchas veces con las huelgas obreras en esos años?",
+          "opciones": [
+            "Eran reprimidas",
+            "El Estado aceptaba todos los reclamos",
+            "No había huelgas",
+            "Las organizaba el gobierno"
+          ],
+          "correcta": 0,
+          "explicacion": "El Estado no reconocía la mayoría de los reclamos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué gran huelga hubo en 1935-1936?",
+          "opciones": [
+            "La huelga de la construcción",
+            "La Semana Trágica de Buenos Aires",
+            "Las huelgas de la Patagonia",
+            "La movilización del 17 de octubre"
+          ],
+          "correcta": 0,
+          "explicacion": "La Semana Trágica y la Patagonia fueron durante los gobiernos radicales."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué pasaba con los salarios mientras la industria crecía?",
+          "opciones": [
+            "Casi no mejoraban",
+            "Subían mucho",
+            "Los fijaba la CGT",
+            "Desaparecían"
+          ],
+          "correcta": 0,
+          "explicacion": "La riqueza crecía, pero se repartía de manera desigual."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estos NO fue un mecanismo de intervención de 1930-1943?",
+          "opciones": [
+            "El aguinaldo",
+            "Las juntas reguladoras",
+            "El control de cambios",
+            "El Banco Central"
+          ],
+          "correcta": 0,
+          "explicacion": "El aguinaldo se estableció a fines de 1945."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "JUNTAS",
+          "pista": "Organismos de granos y de carnes que sostenían los precios."
+        },
+        {
+          "palabra": "CONTROL DE CAMBIOS",
+          "pista": "Mecanismo de 1931 para regular la compra de monedas extranjeras."
+        },
+        {
+          "palabra": "HUELGA",
+          "pista": "Medida de los obreros de la construcción en 1935-1936."
+        },
+        {
+          "palabra": "FRIGORÍFICOS",
+          "pista": "Empresas británicas beneficiadas por el Pacto Roca-Runciman."
+        },
+        {
+          "palabra": "REPRESIÓN",
+          "pista": "Lo que sufrían muchas huelgas en la Década Infame."
+        },
+        {
+          "palabra": "BANCO CENTRAL",
+          "pista": "Se creó en 1935 para regular la moneda y el crédito."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo intervino el Estado entre 1930 y 1943?",
+          "opciones": [
+            "Protegiendo sobre todo a los grandes productores",
+            "Con leyes que subieron mucho los salarios obreros",
+            "Sin intervenir de ninguna manera en la economía",
+            "Entregándoles las fábricas a los propios obreros"
+          ],
+          "correcta": 0,
+          "explicacion": "Control de cambios, juntas reguladoras, Pacto Roca-Runciman y Banco Central."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué pasó con el movimiento obrero en esos años?",
+          "opciones": [
+            "Creció y se organizó en la CGT",
+            "Desapareció",
+            "Se unió a la Sociedad Rural Argentina",
+            "Gobernó el país durante toda la década"
+          ],
+          "correcta": 0,
+          "explicacion": "Hubo grandes huelgas, como la de la construcción (1935-1936), aunque el Estado no reconocía sus reclamos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la Década Infame la riqueza crecía, pero se repartía de manera muy desigual.",
+          "respuesta": true,
+          "explicacion": "Los salarios casi no mejoraban mientras la industria crecía."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "1943-1955: un Estado que arbitra a favor de los trabajadores",
+      "tiempo": "40 a 50 min",
+      "recordas": "¿Qué recordás de lo que hizo Perón desde la Secretaría de Trabajo y de los derechos que se ampliaron con el peronismo?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Cambian las reglas del reparto",
+          "texto": "Desde 1943, con Perón en la **Secretaría de Trabajo y Previsión** y después como presidente, el Estado cambió de lado en la disputa. Pasó a actuar como **árbitro** entre empresarios y trabajadores, pero **inclinando la balanza a favor de los trabajadores**.\n\nEl objetivo era **redistribuir el ingreso**: que una parte mayor de la riqueza llegara a los salarios."
+        },
+        {
+          "t": "pasos",
+          "titulo": "Los mecanismos de intervención del Estado peronista",
+          "pasos": [
+            {
+              "titulo": "Convenios colectivos",
+              "texto": "Sindicatos y empresarios negocian salarios y condiciones, con el Estado en el medio."
+            },
+            {
+              "titulo": "Nuevos derechos",
+              "texto": "Aguinaldo, vacaciones pagas, indemnización, tribunales de trabajo y el Estatuto del Peón rural (1944)."
+            },
+            {
+              "titulo": "Control de precios y alquileres",
+              "texto": "El Estado fija precios máximos y congela los alquileres para que el salario alcance para más."
+            },
+            {
+              "titulo": "El IAPI",
+              "texto": "Compra la cosecha a precio fijo y la vende más cara afuera; con esa diferencia financia la industria y las políticas sociales."
+            },
+            {
+              "titulo": "Crédito para la industria",
+              "texto": "Préstamos baratos para que las fábricas crezcan y den trabajo."
+            }
+          ]
+        },
+        {
+          "t": "dato",
+          "titulo": "El resultado",
+          "texto": "Hacia 1950, la parte de la riqueza que llegaba a los trabajadores como salarios alcanzó **cerca de la mitad del ingreso nacional**, mucho más que en la década de 1930."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Dos formas de intervenir: 1930-1943 y 1943-1955",
+          "columnas": [
+            "",
+            "Estado conservador (1930-1943)",
+            "Estado peronista (1943-1955)"
+          ],
+          "filas": [
+            [
+              "A quién favorece",
+              "Grandes productores, exportadores y empresas",
+              "Trabajadores e industria nacional"
+            ],
+            [
+              "Mecanismos",
+              "Control de cambios, juntas, Pacto Roca-Runciman, Banco Central",
+              "Convenios colectivos, derechos laborales, control de precios, IAPI, crédito industrial"
+            ],
+            [
+              "Salarios",
+              "Bajos; casi no mejoraban",
+              "Suben; más poder de compra"
+            ],
+            [
+              "Sindicatos",
+              "Poco reconocidos; huelgas reprimidas",
+              "Reconocidos y muy fuertes, aliados del gobierno"
+            ]
+          ]
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "src": "img/clases/his-4-05-balanzas.svg",
+          "src_movil": "img/clases/his-4-05-balanzas-movil.svg",
+          "tipo": "grafico",
+          "alt": "Dos balanzas con el Estado en el centro. Entre 1930 y 1943 baja el plato de los grandes productores, exportadores y empresas; entre 1943 y 1955 baja el plato de los trabajadores y la industria nacional.",
+          "epigrafe": "La fila \"A quién favorece\" de la tabla, en un dibujo. Esquema elaborado para esta clase.",
+          "animacion": "svg"
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada mecanismo es del Estado conservador (1930-1943) o del Estado peronista (1943-1955)? Usá la tabla para ayudarte.",
+          "categorias": [
+            "Estado conservador (1930-1943)",
+            "Estado peronista (1943-1955)"
+          ],
+          "items": [
+            {
+              "texto": "Pacto Roca-Runciman",
+              "cat": "Estado conservador (1930-1943)"
+            },
+            {
+              "texto": "Convenios colectivos",
+              "cat": "Estado peronista (1943-1955)"
+            },
+            {
+              "texto": "Juntas reguladoras de granos y carnes",
+              "cat": "Estado conservador (1930-1943)"
+            },
+            {
+              "texto": "IAPI",
+              "cat": "Estado peronista (1943-1955)"
+            },
+            {
+              "texto": "Estatuto del Peón rural",
+              "cat": "Estado peronista (1943-1955)"
+            },
+            {
+              "texto": "Control de precios y alquileres",
+              "cat": "Estado peronista (1943-1955)"
+            }
+          ],
+          "explicacion": "Los dos Estados intervinieron en la economía, pero con mecanismos distintos y a favor de grupos distintos."
+        },
+        {
+          "t": "texto",
+          "titulo": "Cómo reaccionaron los empresarios",
+          "texto": "No todos reaccionaron igual. Los **grandes terratenientes** de la Sociedad Rural se opusieron al IAPI, porque se quedaba con parte de lo que ganaban con sus cosechas. La **Unión Industrial Argentina** también se opuso al principio a las leyes laborales. Pero otros empresarios, sobre todo **industriales pequeños y medianos** que vendían en el mercado interno, apoyaron al gobierno: en 1952 formaron la **CGE** (Confederación General Económica)."
+        },
+        {
+          "t": "texto",
+          "titulo": "Cuando el reparto se complica",
+          "texto": "Hacia 1949 empezaron los problemas económicos: bajaron los precios de lo que el país exportaba y hubo sequías. Con menos riqueza para repartir, la disputa volvió a crecer. En **1952** el gobierno lanzó un plan que **congeló los salarios** por dos años y pidió ahorrar. En **1955** organizó el **Congreso de la Productividad**, donde pidió a los trabajadores producir más. Los empresarios reclamaban menos poder para los sindicatos."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Por qué la disputa por la riqueza volvió a crecer después de 1949?",
+          "opciones": [
+            "Había menos riqueza para repartir",
+            "Los sindicatos desaparecieron",
+            "Los salarios subieron sin parar cada mes",
+            "El Estado dejó de intervenir en la economía"
+          ],
+          "correcta": 0,
+          "explicacion": "Cuando la torta se achica, cada grupo pelea más por su porción.",
+          "pista": "Releé el texto \"Cuando el reparto se complica\"."
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "🗣️ ¿Quién lo diría?",
+          "pregunta": "Esta frase es inventada, para pensar: \"El IAPI se queda con parte de lo que ganamos con nuestras cosechas\". ¿Quién la diría con más probabilidad?",
+          "opciones": [
+            "Un terrateniente de la Sociedad Rural",
+            "Un dirigente sindical de la CGT",
+            "Un pequeño industrial de la CGE, que apoyaba al gobierno"
+          ],
+          "correcta": 0,
+          "explicacion": "Los **grandes terratenientes** de la Sociedad Rural se opusieron al IAPI, porque se quedaba con parte de lo que ganaban con sus cosechas.",
+          "pista": "Volvé a leer el texto \"Cómo reaccionaron los empresarios\"."
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada mecanismo del Estado peronista con lo que hacía.",
+          "pares": [
+            {
+              "a": "Convenios colectivos",
+              "b": "Sindicatos y empresarios negocian salarios con el Estado en el medio"
+            },
+            {
+              "a": "IAPI",
+              "b": "Compra la cosecha a precio fijo y la vende más cara afuera"
+            },
+            {
+              "a": "Estatuto del Peón (1944)",
+              "b": "Da derechos a los trabajadores rurales"
+            },
+            {
+              "a": "Control de precios y alquileres",
+              "b": "Ayuda a que el salario alcance para más"
+            }
+          ],
+          "explicacion": "Así el Estado buscó redistribuir el ingreso.",
+          "pista": "Releé los textos de esta parte.",
+          "_nuevo": true
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué algunos empresarios industriales apoyaron al peronismo, aunque tenían que pagar mejores salarios?",
+          "respuesta": "Porque vendían en el mercado interno: si los trabajadores ganaban más, compraban más productos de sus fábricas. Además, el Estado les daba crédito barato y protegía la industria nacional. Para ellos, el aumento de los salarios también era un aumento de las ventas."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Compará cómo intervino el Estado entre 1930 y 1943 y entre 1943 y 1955. Explicá a quién favoreció cada uno, nombrá mecanismos de cada etapa, contá cómo reaccionaron los distintos empresarios ante el peronismo y por qué la disputa volvió a crecer después de 1949.",
+        "guia": [
+          "¿A quién favorecía el Estado conservador y a quién el Estado peronista?",
+          "¿Qué mecanismos usó cada uno?",
+          "¿Qué significa \"redistribuir el ingreso\"?",
+          "¿Qué empresarios se opusieron al peronismo y cuáles lo apoyaron? ¿Por qué?",
+          "¿Qué pasó desde 1949 y qué medidas tomó el gobierno?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "conservador",
+              "1930"
+            ],
+            "p": "el Estado conservador"
+          },
+          {
+            "k": [
+              "peronis",
+              "1943",
+              "peron"
+            ],
+            "p": "el Estado peronista"
+          },
+          {
+            "k": [
+              "convenio",
+              "iapi",
+              "precios",
+              "aguinaldo",
+              "estatuto del peon"
+            ],
+            "p": "mecanismos del peronismo"
+          },
+          {
+            "k": [
+              "redistribu",
+              "salario"
+            ],
+            "p": "la redistribución del ingreso"
+          },
+          {
+            "k": [
+              "sociedad rural",
+              "union industrial",
+              "cge",
+              "pequeños",
+              "medianos"
+            ],
+            "p": "la reacción de los empresarios"
+          },
+          {
+            "k": [
+              "1949",
+              "1952",
+              "productividad",
+              "sequia"
+            ],
+            "p": "los problemas desde 1949"
+          }
+        ],
+        "referencia": "Entre 1930 y 1943 el Estado favoreció a los grandes productores (control de cambios, juntas, Pacto Roca-Runciman, Banco Central) y los salarios casi no mejoraban. Entre 1943 y 1955 el Estado actuó como árbitro a favor de los trabajadores y buscó redistribuir el ingreso: convenios colectivos, aguinaldo, vacaciones, Estatuto del Peón (1944), control de precios y alquileres, IAPI y crédito industrial; hacia 1950 los salarios llegaron a cerca de la mitad del ingreso nacional. La Sociedad Rural se opuso al IAPI y la UIA a las leyes laborales; pequeños y medianos industriales apoyaron al gobierno (CGE, 1952). Desde 1949 la crisis reavivó la disputa: congelamiento de salarios (1952) y Congreso de la Productividad (1955).",
+        "minPalabras": 45
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Desde 1943 el Estado inclinó la balanza a favor de los trabajadores.",
+          "respuesta": true,
+          "explicacion": "Actuó como árbitro, pero buscando redistribuir el ingreso hacia los salarios."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En los convenios colectivos negocian sindicatos y empresarios, con el Estado en el medio.",
+          "respuesta": true,
+          "explicacion": "Fue uno de los mecanismos centrales del peronismo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Estatuto del Peón rural es de 1944.",
+          "respuesta": true,
+          "explicacion": "Dio derechos a los trabajadores del campo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Sociedad Rural apoyó con entusiasmo al IAPI.",
+          "respuesta": false,
+          "explicacion": "Se opuso, porque el IAPI se quedaba con parte de lo que ganaban con sus cosechas."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La CGE reunió a empresarios que apoyaban al gobierno.",
+          "respuesta": true,
+          "explicacion": "Sobre todo industriales pequeños y medianos; se formó en 1952."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Hacia 1950, los salarios llegaron a cerca de la mitad del ingreso nacional.",
+          "respuesta": true,
+          "explicacion": "Mucho más que en la década de 1930."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En 1952 el gobierno aumentó mucho los salarios.",
+          "respuesta": false,
+          "explicacion": "Lanzó un plan que congeló los salarios por dos años."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué buscaba el Estado peronista con sus mecanismos?",
+          "opciones": [
+            "Redistribuir el ingreso hacia los trabajadores",
+            "Bajar los salarios para que hubiera más empleo",
+            "Favorecer solo a los grandes terratenientes",
+            "No intervenir y dejar que decidiera el mercado"
+          ],
+          "correcta": 0,
+          "explicacion": "Que una parte mayor de la riqueza llegara a los salarios."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué hacía el IAPI?",
+          "opciones": [
+            "Compraba cosechas y las vendía afuera",
+            "Organizaba huelgas en las fábricas",
+            "Fijaba los alquileres de las viviendas",
+            "Daba créditos baratos a los terratenientes"
+          ],
+          "correcta": 0,
+          "explicacion": "Con la diferencia financiaba la industria y las políticas sociales."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Para qué se congelaban los alquileres y se fijaban precios máximos?",
+          "opciones": [
+            "Para que el salario alcanzara para más",
+            "Para que subieran los precios de todo",
+            "Para ayudar a los dueños de las tierras",
+            "Para que cerraran las fábricas extranjeras"
+          ],
+          "correcta": 0,
+          "explicacion": "Es otra forma de cuidar el poder de compra."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué empresarios apoyaron al peronismo?",
+          "opciones": [
+            "Pequeños y medianos industriales",
+            "Los grandes terratenientes de la Sociedad Rural",
+            "Los frigoríficos británicos instalados en el país",
+            "Ninguno: todos los empresarios se opusieron"
+          ],
+          "correcta": 0,
+          "explicacion": "Formaron la CGE en 1952."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué pidió el gobierno en el Congreso de la Productividad (1955)?",
+          "opciones": [
+            "Que los trabajadores produjeran más",
+            "Que se cerraran los sindicatos del país",
+            "Que se subieran los alquileres de las viviendas",
+            "Que se disolviera la CGT"
+          ],
+          "correcta": 0,
+          "explicacion": "Era un momento de problemas económicos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué la disputa volvió a crecer después de 1949?",
+          "opciones": [
+            "Porque había menos riqueza para repartir",
+            "Porque había demasiada riqueza acumulada",
+            "Porque ya no había empresarios en el país",
+            "Porque terminó la industria nacional"
+          ],
+          "correcta": 0,
+          "explicacion": "Bajaron los precios de las exportaciones y hubo sequías."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "REDISTRIBUCIÓN",
+          "pista": "Lo que buscaba el Estado peronista con el ingreso."
+        },
+        {
+          "palabra": "CONVENIOS",
+          "pista": "Acuerdos colectivos entre sindicatos y empresarios."
+        },
+        {
+          "palabra": "ÁRBITRO",
+          "pista": "Papel del Estado entre empresarios y trabajadores."
+        },
+        {
+          "palabra": "IAPI",
+          "pista": "Compraba la cosecha a precio fijo y la vendía más cara afuera."
+        },
+        {
+          "palabra": "PRODUCTIVIDAD",
+          "pista": "Nombre del congreso de 1955 que pidió producir más."
+        },
+        {
+          "palabra": "CGE",
+          "pista": "Confederación de empresarios que apoyaban al gobierno, formada en 1952."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la gran diferencia entre la intervención del Estado en 1930-1943 y en 1943-1955?",
+          "opciones": [
+            "A quién favorecía el Estado en cada etapa",
+            "Antes de 1943 el Estado no intervenía para nada",
+            "Después de 1943 el Estado dejó de intervenir",
+            "No hubo diferencias"
+          ],
+          "correcta": 0,
+          "explicacion": "Los dos Estados intervinieron, pero con mecanismos distintos y a favor de grupos distintos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué los empresarios no reaccionaron todos igual ante el peronismo?",
+          "opciones": [
+            "Las medidas los afectaban de manera distinta",
+            "Todos los empresarios apoyaban al gobierno",
+            "Todos los empresarios se oponían al gobierno",
+            "A ninguno le importaba la economía del país"
+          ],
+          "correcta": 0,
+          "explicacion": "La Sociedad Rural se opuso al IAPI; los pequeños y medianos industriales que vendían en el mercado interno lo apoyaron."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Cuando hay menos riqueza para repartir, la disputa entre empresarios y trabajadores suele crecer.",
+          "respuesta": true,
+          "explicacion": "Pasó después de 1949: congelamiento de salarios y reclamos para limitar el poder de los sindicatos."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Distribución de la riqueza",
+      "definicion": "Cómo se reparte lo que produce un país entre salarios, ganancias y rentas."
+    },
+    {
+      "palabra": "Ingreso nacional",
+      "definicion": "Todo lo que produce un país en un año."
+    },
+    {
+      "palabra": "Sectores empresariales",
+      "definicion": "Dueños de tierras, campos y fábricas: terratenientes, ganaderos e industriales."
+    },
+    {
+      "palabra": "Movimiento obrero",
+      "definicion": "Trabajadores organizados en sindicatos para defender sus derechos. En 1930 formaron la CGT."
+    },
+    {
+      "palabra": "Mecanismos de intervención",
+      "definicion": "Herramientas que usa el Estado para ordenar la economía: control de cambios, juntas, control de precios, convenios, etc."
+    },
+    {
+      "palabra": "Convenio colectivo",
+      "definicion": "Acuerdo entre sindicatos y empresarios sobre salarios y condiciones de trabajo."
+    },
+    {
+      "palabra": "Redistribución del ingreso",
+      "definicion": "Cambiar el reparto de la riqueza para que una parte mayor llegue a los trabajadores."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "El Estado empezó a intervenir en la economía recién con Perón.",
+      "aclaracion": "Ya intervenía desde 1930, pero a favor de los grandes productores. Con el peronismo cambió a quién favorecía."
+    },
+    {
+      "error": "Todos los empresarios estaban en contra del peronismo.",
+      "aclaracion": "Los grandes terratenientes y al principio la UIA se opusieron, pero muchos industriales pequeños y medianos lo apoyaron (CGE)."
+    },
+    {
+      "error": "El reparto de la riqueza es natural y no se puede cambiar.",
+      "aclaracion": "Depende de la fuerza de cada grupo y de las reglas que pone el Estado."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "Hoy también se discute cuánto deben aumentar los salarios, los precios o los impuestos. Buscá una noticia sobre paritarias o aumentos de precios: ¿quiénes están en la disputa y qué papel tiene el Estado?",
+    "conexion": "Con tu trabajo práctico: ahí vas a relacionar este tema con un ejemplo del presente."
+  }
+}

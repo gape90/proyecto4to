@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="200 0 600 420" role="img" aria-label="Ilustración del cuerpo humano de frente con el sistema urinario. A la altura de la cintura, a los dos lados de la columna, están los dos riñones; a cada riñón le llega sangre por una arteria y la sangre limpia sale por una vena. De cada riñón baja un uréter hasta la vejiga, en la parte baja del abdomen, y de la vejiga sale la uretra." font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<defs><linearGradient id="ur-piel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FCE7DA"/><stop offset="1" stop-color="#F1C9B3"/></linearGradient><radialGradient id="ur-fondo" cx=".5" cy=".45" r=".7"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F1ECFA"/></radialGradient><filter id="ur-sombra" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#2B1F4A" flood-opacity=".14"/></filter><filter id="ur-sombra2" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#2B1F4A" flood-opacity=".18"/></filter><marker id="ur-e" viewBox="0 0 12 12" refX="8" refY="6" markerWidth="5" markerHeight="5" orient="auto"><path d="M1 1 L11 6 L1 11 Q4 6 1 1Z" fill="#1F9D6B"/></marker><marker id="ur-s" viewBox="0 0 12 12" refX="8" refY="6" markerWidth="5" markerHeight="5" orient="auto"><path d="M1 1 L11 6 L1 11 Q4 6 1 1Z" fill="#E8641B"/></marker><marker id="ur-v" viewBox="0 0 12 12" refX="8" refY="6" markerWidth="5" markerHeight="5" orient="auto"><path d="M1 1 L11 6 L1 11 Q4 6 1 1Z" fill="#5B2A86"/></marker><marker id="ur-u" viewBox="0 0 12 12" refX="8" refY="6" markerWidth="5" markerHeight="5" orient="auto"><path d="M1 1 L11 6 L1 11 Q4 6 1 1Z" fill="#B8860B"/></marker><linearGradient id="ur-rinon" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#D98571"/><stop offset="1" stop-color="#A9493A"/></linearGradient><radialGradient id="ur-vej" cx=".4" cy=".35" r=".7"><stop offset="0" stop-color="#FCE7A6"/><stop offset="1" stop-color="#E2B33F"/></radialGradient></defs>
+<rect x="0" y="0" width="1000" height="420" rx="28" fill="#F7F4FD"/>
+<g class="a-ap" style="--d:0.0s"><rect x="0" y="0" width="1000" height="420" rx="26" fill="url(#ur-fondo)"/></g>
+<g class="a-ap" style="--d:0.1s"><clipPath id="ur-rec"><rect x="0" y="0" width="1000" height="420" rx="26"/></clipPath><g clip-path="url(#ur-rec)"><g transform="translate(266.71999999999997 -141.20000000000002) scale(1.08)"><g filter="url(#ur-sombra)"><g
+     transform="translate(-85.217079,-4.0042005)"
+    
+     style="fill:url(#ur-piel);stroke:#D9A88E;stroke-width:0.9;stroke-linejoin:round"
+    
+     id="ur-layer5"
+    >
+    <path
+       id="ur-path57"
+       d="m 329.9125,95.888749 h 3.667 c 0,0 8.20399,-4.18899 7.33099,-24.089972 0,0 0,-4.888994 -3.49,-4.888994 0,0 -3.492,-0.523 -4.62699,4.626995 0,0 2.70599,-11.085989 1.83199,-18.940981 0,0 -2.09399,-10.298988 -7.15699,-17.978978 -5.06199,-7.682 -17.28198,-12.04599 -17.28198,-12.04599 0,0 -5.759,-3.141 -15.35999,-3.141 -9.60099,0 -17.45798,3.665 -17.45798,3.665 0,0 -14.48698,8.55299 -17.10698,21.47098 0,0 -3.839,14.489981 -1.396,25.83597 0,0 -3.83899,-2.443998 -6.28399,-2.443998 0,0 -5.58499,2.443998 -2.09401,14.664986 l 7.157,13.790982 c 0,0 4.887,4.189001 4.887,-2.79299 0,0 2.44399,16.233991 1.74599,16.932991 0,0 2.09601,13.96497 1.397,23.39197 0,0 1.572,7.85499 -11.52099,13.96398 0,0 -14.48898,6.63499 -25.13697,13.96599 -10.64799,7.33199 -13.26798,4.36299 -25.66098,9.42698 0,0 -14.83898,2.618 -22.69397,28.45398 0,0 -7.67999,19.89998 -1.571,34.56496 0,0 2.792,18.67898 -2.095,27.58098 0,0 -6.45999,19.02697 -5.23699,40.67295 0,0 -19.55098,36.48496 -19.55098,45.03796 0,0 -0.523,27.58197 -2.094,31.42097 l -9.94999,32.81796 c 0,0 -1.049,8.902 -13.79099,10.299 0,0 -17.45698,8.90198 -27.05796,21.12197 l -5.236994,6.809 c 0,0 -2.093998,7.15899 9.426994,1.746 0,0 3.49199,-0.52401 5.67398,-5.674 0,0 6.19599,-0.09 8.46499,-3.928 0,0 3.404,-1.22199 3.404,3.405 l -3.753,47.91895 c 0,0 1.223,8.728 4.714,2.792 0,0 -1.746,13.78899 7.67999,2.619 0,0 1.222,8.37899 6.98299,0.696 l 3.491,-5.06299 h 4.88799 c 0,0 11.52099,-10.646 16.05899,-27.58098 0,0 8.72899,-19.54998 5.76099,-33.33997 0,0 -1.223,-10.47599 2.793,-14.49098 l 25.13697,-50.79795 c 0,0 7.158,-17.98099 7.158,-32.46897 l 5.41099,-9.07799 1.222,-15.18699 c 0,0 7.157,-14.31498 8.37899,-25.48697 l 1.397,-4.01499 c 0,0 3.42309,21.87177 6.284,28.80296 7.93744,19.23023 5.74164,13.51453 4.1134,39.03461 1.222,3.143 0,0.698 0,0.698 0,0 -4.53799,24.61298 -5.411,36.30997 0,0 -6.69406,48.2183 -0.58307,68.46929 0,0 19.91615,68.44053 21.25665,75.68223 2.97696,16.08222 5.22376,20.64052 5.58599,28.45396 l 1.222,26.35898 c 0,0 1.746,9.251 0.523,16.05998 0,0 -4.189,28.27898 -4.189,36.48297 0,0 4.888,38.57896 10.99899,54.11595 0,0 8.378,32.99196 8.378,44.51395 0,0 0.52499,13.78999 -6.632,18.85298 0,0 -11.34799,17.63099 -15.18699,19.55198 l -15.01398,10.82399 c 0,0 -2.094,6.982 0,9.07599 0,0 -0.262,4.74199 3.84099,6.343 h 1.57001 c 0,0 -1.74601,5.00499 5.93599,3.78099 l 3.141,2.097 c 0,0 3.49099,1.337 6.28398,-2.271 0,0 -0.0658,2.95698 3.492,3.841 h 5.935 l 6.89599,-6.89599 c 0,0 6.37199,-0.09 8.46599,-4.274 0,0 1.397,1.223 14.14099,-13.44199 0,0 9.60099,-1.397 10.64799,-9.59999 0,0 1.57,-7.15699 -2.27,-18.15598 l 1.222,-10.47398 c 0,0 -1.921,-16.75899 -3.491,-22.16999 -1.56999,-5.412 3.928,-54.37594 1.223,-57.08394 0,0 3.316,-39.62596 0.872,-49.39995 -2.444,-9.77599 -4.538,-15.01299 -4.538,-15.01299 0,0 1.15597,-10.52463 1.14783,-12.3751 -0.0165,-3.74628 1.67509,-8.89415 2.2002,-13.13852 1.4005,-11.32001 0.9,-23.30514 0.84098,-34.71131 -0.0939,-18.15463 0.21352,-52.24508 0.27043,-54.46395 l 0.78346,-30.54897 c 0,0 0.7152,20.12948 0.78854,30.19897 0.13054,17.9227 -0.85374,38.11363 -0.62044,53.76595 0,0 -0.49277,23.43486 0.523,35.08796 0.54246,6.22319 1.39699,14.13998 2.967,18.50399 v 10.99698 c 0,0 -3.402,10.47499 -3.402,12.65499 0,2.18299 0.436,28.89097 0.436,28.89097 l 2.443,26.18598 1.57099,17.97997 c 0,0 3.404,24.36098 -0.52299,37.70497 0,0 -2.09401,13.44199 -2.09401,15.88598 0,2.444 1.56901,3.489 1.56901,6.459 v 12.21998 c 0,0 -3.316,8.20399 1.39699,14.83799 0,0 15.18699,12.74498 18.50499,18.50598 0,0 4.71199,3.841 8.55299,5.58599 0,0 9.94899,10.99499 16.23398,2.791 l 1.135,-1.13399 2.87999,2.88099 c 0,0 5.06301,2.094 5.06301,-3.491 h 4.01499 c 0,0 3.316,-0.178 1.221,-4.017 0,0 5.06299,2.27001 5.06299,-2.61799 v -2.968 c 0,0 2.969,0 2.969,-2.966 l -1.397,-6.63499 -9.33899,-9.33899 c 0,0 -3.579,-0.61 -7.419,-4.45199 l -15.01398,-19.37498 0.17601,-5.938 c 0,0 -5.236,-5.76099 -2.619,-25.66097 l 6.98199,-29.84997 c 0,0 3.17979,-15.43931 5.23699,-24.61298 0,0 11.17199,-44.16496 3.144,-61.27294 0,0 -3.492,-21.81998 -2.445,-28.27796 0,0 2.619,-16.409 2.619,-26.35898 0,0 17.45698,-52.71895 17.45698,-55.85995 0,0 10.82199,-37.18296 9.94899,-45.56195 l 2.27,-53.41795 c -0.62166,-14.33634 -7.7538,-31.1698 -8.552,-45.56095 -2.52412,-25.09365 -3.2123,-17.50126 -0.69899,-49.46827 v -26.18496 c 0,0 6.28499,6.45898 9.42699,20.77297 3.14299,14.31399 11.69699,24.61298 11.69699,24.61298 l 0.872,2.62 v 25.66097 c 0,9.77499 5.58599,37.00696 6.98199,40.67396 1.397,3.665 4.364,17.80398 4.364,22.69198 l 1.91999,5.93599 c 0,0 0.697,8.204 -0.698,12.74199 0,0 -5.06299,6.45999 -9.77498,11.17399 0,0 -5.936,10.82098 -8.38,15.71098 0,0 -5.87499,10.29999 -7.50599,10.29999 0,0 0.524,5.933 9.07799,2.094 l 6.808,-6.81 0.873,7.683 4.36399,22.51898 2.26899,8.90198 c 0,0 1.04901,4.016 5.325,5.32401 l 1.31,0.26099 c 0,0 -0.524,7.683 3.83999,8.90499 0,0 3.229,0.349 3.229,-3.23 l 1.135,-1.13599 c 0,0 1.745,3.491 3.491,3.491 1.745,0 4.36299,-5.761 4.36299,-5.761 l 0.69801,-5.76099 c 0,0 2.09599,0.87499 3.31799,0.87499 1.221,0 3.83999,-2.621 3.83999,-2.621 l 6.634,-24.96197 1.56999,-21.64498 -4.88799,-17.45598 c 0,0 0.873,-3.84099 -0.174,-7.68199 0,0 0.174,-56.73295 1.745,-58.30394 0,0 2.442,-29.85097 -0.874,-42.94296 l -1.745,-19.02798 c 0,0 -5.93499,-15.18799 -7.15699,-18.50298 -1.221,-3.317 -6.981,-31.07397 -9.42699,-37.70697 -0.35419,-3.26174 -6.70555,-18.83674 -6.80799,-20.42498 0,-1.91899 1.22299,-32.81896 -21.47099,-57.60494 0,0 -4.53799,-6.98199 -28.62896,-11.87099 L 330.7885,142.32571 c -2.83308,-2.01427 -4.55522,-4.158 -5.75999,-8.20499 v -24.43897 c -0.003,0 4.88399,-2.099 4.88399,-13.793001 z"
+      
+       fill="#f2f2f2"
+       stroke="#979a9b"
+       stroke-width="0.632"
+      
+       style="fill:url(#ur-piel);stroke:#D9A88E;stroke-width:0.9;stroke-linejoin:round" />
+    
+    
+    
+    
+    <path
+      
+       id="ur-path14097"
+       d="m 296.29563,37.100218 -0.28452,38.219235"
+       style="fill:url(#ur-piel);stroke:#D9A88E;stroke-width:0.9;stroke-linejoin:round"
+       />
+    <path
+      
+      
+       id="ur-path14099"
+       d="m 287.10425,81.018701 -0.21178,5.344622 1.61315,5.45989"
+       style="fill:url(#ur-piel);stroke:#D9A88E;stroke-width:0.9;stroke-linejoin:round" />
+    <path
+      
+      
+       id="ur-path14101"
+       d="m 265.42514,67.501882 21.94235,13.780051"
+       style="fill:url(#ur-piel);stroke:#D9A88E;stroke-width:0.9;stroke-linejoin:round" />
+    <path
+      
+      
+       id="ur-path14103"
+       d="m 287.37815,81.029347 c 2.05433,1.243176 5.27375,0.959406 7.63143,1.993476"
+       style="fill:url(#ur-piel);stroke:#D9A88E;stroke-width:0.9;stroke-linejoin:round" />
+    <path
+      
+      
+       id="ur-path14105"
+       d="m 292.10415,97.407193 c 2.81267,0.764959 5.62534,0.566459 8.43802,0.186133"
+       style="fill:url(#ur-piel);stroke:#D9A88E;stroke-width:0.9;stroke-linejoin:round" />
+    <path
+      
+      
+       id="ur-path14107"
+       d="m 294.86419,82.847336 2.50307,0.08774 7.83521,-1.629274 13.25358,-6.488943 9.63374,-4.336858"
+       style="fill:url(#ur-piel);stroke:#D9A88E;stroke-width:0.9;stroke-linejoin:round" />
+    <path
+      
+      
+       id="ur-path14109"
+       d="m 303.959,91.590091 1.69831,-10.620205"
+       style="fill:url(#ur-piel);stroke:#D9A88E;stroke-width:0.9;stroke-linejoin:round" />
+    
+    
+  </g></g><path d="M219 250 L219 420" stroke="#C62828" stroke-width="5.5" stroke-linecap="round"/><path d="M207 250 L207 420" stroke="#1E5AA8" stroke-width="6.5" stroke-linecap="round"/><path d="M219 320 L250 316 M219 330 L184 332" stroke="#C62828" stroke-width="3.2" stroke-linecap="round"/><path d="M207 322 L182 320 M207 336 L248 334" stroke="#1E5AA8" stroke-width="3.6" stroke-linecap="round"/><g transform="translate(171 324) scale(-1.15 1.15)"><path d="M-6 -26 C-26 -28 -32 -6 -28 8 C-25 20 -24 30 -10 32 C2 34 9 22 7 12 C6 6 1 4 2 -2 C3 -9 9 -11 8 -17 C7 -24 1 -26 -6 -26Z" fill="url(#ur-rinon)" stroke="#8E3B2E" stroke-width="1.4"/><path d="M-20 -14 C-25 -2 -24 12 -18 22" stroke="#F4B7A8" stroke-width="2.5" fill="none" stroke-linecap="round" opacity=".8"/><path d="M2 -2 C-4 2 -6 4 -8 6" stroke="#E9C46A" stroke-width="3" fill="none" stroke-linecap="round"/></g><g transform="translate(261 324) scale(1.15 1.15)"><path d="M-6 -26 C-26 -28 -32 -6 -28 8 C-25 20 -24 30 -10 32 C2 34 9 22 7 12 C6 6 1 4 2 -2 C3 -9 9 -11 8 -17 C7 -24 1 -26 -6 -26Z" fill="url(#ur-rinon)" stroke="#8E3B2E" stroke-width="1.4"/><path d="M-20 -14 C-25 -2 -24 12 -18 22" stroke="#F4B7A8" stroke-width="2.5" fill="none" stroke-linecap="round" opacity=".8"/><path d="M2 -2 C-4 2 -6 4 -8 6" stroke="#E9C46A" stroke-width="3" fill="none" stroke-linecap="round"/></g><path d="M180 336 C186 365 198 400 206 432" stroke="#E2B33F" stroke-width="3.6" fill="none" stroke-linecap="round"/><path d="M252 336 C246 365 234 400 226 432" stroke="#E2B33F" stroke-width="3.6" fill="none" stroke-linecap="round"/><path d="M216 424 C232 424 236 440 232 450 C228 460 222 463 216 463 C210 463 204 460 200 450 C196 440 200 424 216 424Z" fill="url(#ur-vej)" stroke="#B8860B" stroke-width="1.6"/><path d="M216 463 L216 480" stroke="#E2B33F" stroke-width="3.4" stroke-linecap="round"/><g class="a-vida"><circle r="2.6" fill="#FFF3C4" stroke="#B8860B" stroke-width=".8" opacity="0"><animateMotion path="M180 338 C186 365 198 400 206 430" dur="3s" begin="2.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="3s" begin="2.6s" repeatCount="indefinite"/></circle><circle r="2.6" fill="#FFF3C4" stroke="#B8860B" stroke-width=".8" opacity="0"><animateMotion path="M252 338 C246 365 234 400 226 430" dur="3s" begin="3.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="3s" begin="3.6s" repeatCount="indefinite"/></circle><circle r="2.6" fill="#FFF3C4" stroke="#B8860B" stroke-width=".8" opacity="0"><animateMotion path="M180 338 C186 365 198 400 206 430" dur="3s" begin="4.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="3s" begin="4.1s" repeatCount="indefinite"/></circle><circle r="2.6" fill="#FFF3C4" stroke="#B8860B" stroke-width=".8" opacity="0"><animateMotion path="M252 338 C246 365 234 400 226 430" dur="3s" begin="5.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="3s" begin="5.1s" repeatCount="indefinite"/></circle></g></g></g></g>
+<g class="a-ap" style="--d:1.2s"><path d="M439.5 195.8 L300 160" stroke="#8E3B2E" stroke-width="2.5"/><circle cx="439.5" cy="195.8" r="5.5" fill="#8E3B2E" stroke="#fff" stroke-width="2"/><text x="290" y="167" font-size="21" font-weight="800" fill="#8E3B2E" text-anchor="end">Riñón</text></g>
+<g class="a-ap" style="--d:1.3499999999999999s"><path d="M480.6 285.4 L300 300" stroke="#8A6C00" stroke-width="2.5"/><circle cx="480.6" cy="285.4" r="5.5" fill="#8A6C00" stroke="#fff" stroke-width="2"/><text x="290" y="307" font-size="21" font-weight="800" fill="#8A6C00" text-anchor="end">Uréter</text></g>
+<g class="a-ap" style="--d:1.5s"><path d="M490.3 150.4 L300 70" stroke="#1E5AA8" stroke-width="2.5"/><circle cx="490.3" cy="150.4" r="5.5" fill="#1E5AA8" stroke="#fff" stroke-width="2"/><text x="290" y="77" font-size="21" font-weight="800" fill="#1E5AA8" text-anchor="end">Vena</text></g>
+<g class="a-ap" style="--d:1.5s"><path d="M503.2 150.4 L700 70" stroke="#C62828" stroke-width="2.5"/><circle cx="503.2" cy="150.4" r="5.5" fill="#C62828" stroke="#fff" stroke-width="2"/><text x="710" y="77" font-size="21" font-weight="800" fill="#C62828" text-anchor="start">Arteria</text></g>
+<g class="a-ap" style="--d:1.65s"><path d="M510.8 338.3 L700 300" stroke="#8A6C00" stroke-width="2.5"/><circle cx="510.8" cy="338.3" r="5.5" fill="#8A6C00" stroke="#fff" stroke-width="2"/><text x="710" y="307" font-size="21" font-weight="800" fill="#8A6C00" text-anchor="start">Vejiga</text></g>
+<g class="a-ap" style="--d:1.8s"><path d="M500.0 372.9 L700 380" stroke="#8A6C00" stroke-width="2.5"/><circle cx="500.0" cy="372.9" r="5.5" fill="#8A6C00" stroke="#fff" stroke-width="2"/><text x="710" y="387" font-size="21" font-weight="800" fill="#8A6C00" text-anchor="start">Uretra</text></g>
+</svg>

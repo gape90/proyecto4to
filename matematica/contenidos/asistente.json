@@ -1,0 +1,1946 @@
+{
+ "descripcion": "Contenido del asistente de Matemática (sin IA): palabras de las 10 clases y 3 temas por parte. Revisar con docente de Matemática antes de usar con estudiantes.",
+ "palabras": [
+  {
+   "palabra": "Racional",
+   "definicion": "Número que se puede escribir como fracción de dos enteros. Sus decimales son finitos o periódicos.",
+   "formas": [
+    "racionales",
+    "numero racional"
+   ]
+  },
+  {
+   "palabra": "Irracional",
+   "definicion": "Número que no se puede escribir como fracción. Tiene infinitos decimales sin período.",
+   "formas": [
+    "irracionales",
+    "numero irracional"
+   ]
+  },
+  {
+   "palabra": "Raíz exacta",
+   "definicion": "Raíz que da un número entero, porque el radicando es una potencia perfecta. Por ejemplo, ∛27 = 3.",
+   "formas": [
+    "raiz exacta",
+    "raices exactas",
+    "exacta"
+   ]
+  },
+  {
+   "palabra": "Truncar",
+   "definicion": "Cortar un número en cierto decimal y descartar las cifras que siguen.",
+   "formas": [
+    "truncamiento",
+    "truncado"
+   ]
+  },
+  {
+   "palabra": "Redondear",
+   "definicion": "Aproximar mirando la cifra siguiente: si es 5 o más, sube la última cifra.",
+   "formas": [
+    "redondeo",
+    "redondeado"
+   ]
+  },
+  {
+   "palabra": "Error absoluto",
+   "definicion": "Distancia entre el valor real y el aproximado: | real − aproximado |.",
+   "formas": [
+    "error"
+   ]
+  },
+  {
+   "palabra": "Acotar",
+   "definicion": "Encontrar dos valores entre los que está un número.",
+   "formas": [
+    "acotamiento",
+    "cota",
+    "acotado"
+   ]
+  },
+  {
+   "palabra": "Números reales",
+   "definicion": "Todos los racionales y los irracionales juntos. Cada uno tiene un punto en la recta.",
+   "formas": [
+    "reales",
+    "numero real"
+   ]
+  },
+  {
+   "palabra": "Recta numérica",
+   "definicion": "Recta en la que cada punto corresponde a un número real.",
+   "formas": [
+    "recta",
+    "recta real"
+   ]
+  },
+  {
+   "palabra": "Conmensurables",
+   "definicion": "Segmentos que tienen una unidad común: su cociente es racional.",
+   "formas": [
+    "conmensurable"
+   ]
+  },
+  {
+   "palabra": "Inconmensurables",
+   "definicion": "Segmentos sin unidad común: su cociente es irracional, como el lado y la diagonal de un cuadrado.",
+   "formas": [
+    "inconmensurable"
+   ]
+  },
+  {
+   "palabra": "Medida empírica",
+   "definicion": "La que se obtiene con un instrumento. Siempre es una aproximación.",
+   "formas": [
+    "empirica",
+    "empirico"
+   ]
+  },
+  {
+   "palabra": "Número áureo",
+   "definicion": "φ = (1 + √5) / 2 ≈ 1,618. Es irracional.",
+   "formas": [
+    "aureo",
+    "fi",
+    "phi",
+    "proporcion aurea"
+   ]
+  },
+  {
+   "palabra": "Sucesión de Fibonacci",
+   "definicion": "Sucesión en la que cada término es la suma de los dos anteriores: 1, 1, 2, 3, 5, 8, …",
+   "formas": [
+    "fibonacci"
+   ]
+  },
+  {
+   "palabra": "Radical",
+   "definicion": "Expresión con una raíz, como √5 o ∛2.",
+   "formas": [
+    "radicales"
+   ]
+  },
+  {
+   "palabra": "Propiedad del producto",
+   "definicion": "√(a · b) = √a · √b, para raíces del mismo índice.",
+   "formas": [
+    "producto de raices"
+   ]
+  },
+  {
+   "palabra": "Propiedad del cociente",
+   "definicion": "√(a / b) = √a / √b, con b distinto de 0.",
+   "formas": [
+    "cociente de raices"
+   ]
+  },
+  {
+   "palabra": "Extraer factores",
+   "definicion": "Sacar de la raíz la raíz de un cuadrado perfecto: √50 = 5√2.",
+   "formas": [
+    "extraer",
+    "sacar factores",
+    "simplificar radical"
+   ]
+  },
+  {
+   "palabra": "Radicales semejantes",
+   "definicion": "Los que tienen el mismo índice y el mismo radicando. Se pueden sumar: 2√3 + 5√3 = 7√3.",
+   "formas": [
+    "semejantes",
+    "semejante"
+   ]
+  },
+  {
+   "palabra": "Racionalizar",
+   "definicion": "Transformar una fracción para que no quede una raíz en el denominador.",
+   "formas": [
+    "racionalizacion",
+    "racionalizado"
+   ]
+  },
+  {
+   "palabra": "Expresiones equivalentes",
+   "definicion": "Escrituras distintas que representan el mismo número.",
+   "formas": [
+    "equivalentes",
+    "equivalente"
+   ]
+  },
+  {
+   "palabra": "Sucesión",
+   "definicion": "Lista ordenada de números. Cada uno es un término: a₁, a₂, …, aₙ.",
+   "formas": [
+    "sucesiones"
+   ]
+  },
+  {
+   "palabra": "Término general",
+   "definicion": "Fórmula que da el término aₙ de cualquier posición n.",
+   "formas": [
+    "termino general",
+    "an"
+   ]
+  },
+  {
+   "palabra": "Sucesión aritmética",
+   "definicion": "Cada término se obtiene sumando al anterior la diferencia d: aₙ = a₁ + (n − 1) · d.",
+   "formas": [
+    "aritmetica"
+   ]
+  },
+  {
+   "palabra": "Diferencia",
+   "definicion": "Número que se suma en cada salto de una sucesión aritmética.",
+   "formas": [
+    "d"
+   ]
+  },
+  {
+   "palabra": "Sucesión geométrica",
+   "definicion": "Cada término se obtiene multiplicando el anterior por la razón r: aₙ = a₁ · rⁿ⁻¹.",
+   "formas": [
+    "geometrica"
+   ]
+  },
+  {
+   "palabra": "Razón",
+   "definicion": "Número por el que se multiplica en cada salto de una sucesión geométrica.",
+   "formas": [
+    "r"
+   ]
+  },
+  {
+   "palabra": "Ecuación de segundo grado",
+   "definicion": "Ecuación que se puede escribir como ax² + bx + c = 0, con a distinto de 0.",
+   "formas": [
+    "ecuacion cuadratica",
+    "cuadratica"
+   ]
+  },
+  {
+   "palabra": "Solución o raíz",
+   "definicion": "Valor de x que cumple la ecuación.",
+   "formas": [
+    "solucion",
+    "soluciones",
+    "raices de la ecuacion"
+   ]
+  },
+  {
+   "palabra": "Completar el cuadrado",
+   "definicion": "Sumar (b / 2)² a x² + bx para escribirlo como un cuadrado: (x + b / 2)².",
+   "formas": [
+    "completar cuadrados",
+    "completamiento de cuadrados"
+   ]
+  },
+  {
+   "palabra": "Fórmula resolvente",
+   "definicion": "x = (−b ± √(b² − 4ac)) / (2a). Resuelve cualquier ecuación de segundo grado.",
+   "formas": [
+    "resolvente",
+    "bhaskara"
+   ]
+  },
+  {
+   "palabra": "Discriminante",
+   "definicion": "Δ = b² − 4ac. Su signo indica cuántas soluciones hay.",
+   "formas": [
+    "delta"
+   ]
+  },
+  {
+   "palabra": "Parábola",
+   "definicion": "Gráfico de y = ax² + bx + c. Corta el eje x en las soluciones de la ecuación.",
+   "formas": [
+    "parabolas"
+   ]
+  },
+  {
+   "palabra": "Función",
+   "definicion": "Relación que asigna a cada valor de x un único valor de y.",
+   "formas": [
+    "funciones"
+   ]
+  },
+  {
+   "palabra": "Dominio",
+   "definicion": "Conjunto de valores de x que se pueden usar en la función.",
+   "formas": [
+    "dominios"
+   ]
+  },
+  {
+   "palabra": "Máximo y mínimo",
+   "definicion": "Valor más alto o más bajo que toma la función.",
+   "formas": [
+    "maximo",
+    "minimo"
+   ]
+  },
+  {
+   "palabra": "Asíntota",
+   "definicion": "Recta a la que el gráfico se acerca cada vez más sin tocarla.",
+   "formas": [
+    "asintotas"
+   ]
+  },
+  {
+   "palabra": "Función exponencial",
+   "definicion": "y = aˣ: la x está en el exponente. Crece si a > 1 y decrece si 0 < a < 1.",
+   "formas": [
+    "exponencial"
+   ]
+  },
+  {
+   "palabra": "Logaritmo",
+   "definicion": "logₐ x es el exponente al que hay que elevar a para obtener x: log₂ 8 = 3.",
+   "formas": [
+    "logaritmos",
+    "log",
+    "logaritmica"
+   ]
+  },
+  {
+   "palabra": "Modelizar",
+   "definicion": "Describir una situación real con una función.",
+   "formas": [
+    "modelizacion",
+    "modelo"
+   ]
+  },
+  {
+   "palabra": "Seno",
+   "definicion": "En el triángulo rectángulo, cateto opuesto / hipotenusa. En la circunferencia trigonométrica, la coordenada y del punto P.",
+   "formas": [
+    "sen"
+   ]
+  },
+  {
+   "palabra": "Coseno",
+   "definicion": "En el triángulo rectángulo, cateto adyacente / hipotenusa. En la circunferencia trigonométrica, la coordenada x del punto P.",
+   "formas": [
+    "cos"
+   ]
+  },
+  {
+   "palabra": "Hipotenusa",
+   "definicion": "Lado opuesto al ángulo recto. Es el más largo.",
+   "formas": []
+  },
+  {
+   "palabra": "Circunferencia trigonométrica",
+   "definicion": "Circunferencia de radio 1 con centro en el origen, donde se miden los ángulos desde el eje x.",
+   "formas": [
+    "circunferencia",
+    "circulo trigonometrico"
+   ]
+  },
+  {
+   "palabra": "Cuadrante",
+   "definicion": "Cada una de las cuatro partes en que los ejes dividen el plano.",
+   "formas": [
+    "cuadrantes"
+   ]
+  },
+  {
+   "palabra": "Ángulo de referencia",
+   "definicion": "Ángulo del primer cuadrante con el mismo seno y coseno, salvo el signo.",
+   "formas": [
+    "referencia"
+   ]
+  },
+  {
+   "palabra": "Medición indirecta",
+   "definicion": "Cálculo de una medida a partir de otras que sí se pueden medir, como ángulos y distancias.",
+   "formas": [
+    "mediciones indirectas",
+    "indirecta"
+   ]
+  },
+  {
+   "palabra": "Teodolito",
+   "definicion": "Instrumento que mide ángulos en el terreno con mucha precisión.",
+   "formas": []
+  },
+  {
+   "palabra": "Teorema del seno",
+   "definicion": "a / sen A = b / sen B = c / sen C. Se usa con dos ángulos y un lado.",
+   "formas": [
+    "ley del seno"
+   ]
+  },
+  {
+   "palabra": "Teorema del coseno",
+   "definicion": "c² = a² + b² − 2ab · cos C. Se usa con dos lados y el ángulo entre ellos, o con los tres lados.",
+   "formas": [
+    "ley del coseno"
+   ]
+  },
+  {
+   "palabra": "Lado opuesto",
+   "definicion": "El lado que está enfrente de un ángulo: a enfrente de A, b de B, c de C.",
+   "formas": []
+  },
+  {
+   "palabra": "Suma de ángulos",
+   "definicion": "Los tres ángulos de un triángulo suman siempre 180°.",
+   "formas": [
+    "suma de los angulos"
+   ]
+  },
+  {
+   "palabra": "Media",
+   "definicion": "Promedio: suma de los datos dividida por la cantidad de datos. Es una medida de posición.",
+   "formas": [
+    "promedio"
+   ]
+  },
+  {
+   "palabra": "Medida de dispersión",
+   "definicion": "Número que indica cuánto se separan los datos entre sí o de la media.",
+   "formas": [
+    "dispersion"
+   ]
+  },
+  {
+   "palabra": "Rango",
+   "definicion": "Dato mayor menos dato menor.",
+   "formas": [
+    "recorrido"
+   ]
+  },
+  {
+   "palabra": "Desviación",
+   "definicion": "Diferencia entre un dato y la media.",
+   "formas": [
+    "desvio"
+   ]
+  },
+  {
+   "palabra": "Varianza",
+   "definicion": "Promedio de las desviaciones al cuadrado. Está en unidades al cuadrado.",
+   "formas": []
+  },
+  {
+   "palabra": "Desviación estándar",
+   "definicion": "Raíz cuadrada de la varianza. Es una distancia típica de los datos a la media, en la misma unidad que los datos.",
+   "formas": [
+    "desvio estandar",
+    "desviacion tipica"
+   ]
+  },
+  {
+   "palabra": "Regla de Laplace",
+   "definicion": "P = casos favorables / casos posibles, cuando todos los resultados tienen la misma chance.",
+   "formas": [
+    "laplace"
+   ]
+  },
+  {
+   "palabra": "Sucesos excluyentes",
+   "definicion": "No pueden pasar a la vez: P(A o B) = P(A) + P(B).",
+   "formas": [
+    "excluyentes",
+    "excluyente"
+   ]
+  },
+  {
+   "palabra": "Sucesos independientes",
+   "definicion": "Uno no cambia la probabilidad del otro: P(A y B) = P(A) · P(B).",
+   "formas": [
+    "independientes",
+    "independiente"
+   ]
+  },
+  {
+   "palabra": "Probabilidad condicionada",
+   "definicion": "P(B | A): probabilidad de B sabiendo que ocurrió A.",
+   "formas": [
+    "condicionada",
+    "condicional"
+   ]
+  },
+  {
+   "palabra": "Árbol de probabilidades",
+   "definicion": "Esquema con ramas; cada camino se calcula multiplicando sus ramas.",
+   "formas": [
+    "arbol",
+    "diagrama de arbol"
+   ]
+  },
+  {
+   "palabra": "Probabilidad total",
+   "definicion": "Suma de las probabilidades de todos los caminos que llevan a un resultado.",
+   "formas": []
+  },
+  {
+   "palabra": "Pruebas repetidas",
+   "definicion": "Repetir un experimento independiente: se multiplica en cada secuencia y se suman las secuencias que sirven.",
+   "formas": [
+    "repetidas"
+   ]
+  },
+  {
+   "palabra": "Radicando",
+   "definicion": "El número que está dentro de la raíz. En √50, el radicando es 50.",
+   "formas": [
+    "radicandos"
+   ]
+  },
+  {
+   "palabra": "Índice",
+   "definicion": "El número que indica qué raíz es: 2 en la cuadrada, 3 en la cúbica. En ∛8, el índice es 3.",
+   "formas": [
+    "indice de la raiz"
+   ]
+  },
+  {
+   "palabra": "Cuadrado perfecto",
+   "definicion": "Número que es el cuadrado de un entero, como 1, 4, 9, 16, 25, 36 o 49.",
+   "formas": [
+    "cuadrados perfectos"
+   ]
+  },
+  {
+   "palabra": "Período",
+   "definicion": "Grupo de cifras decimales que se repite para siempre, como el 3 en 0,333…",
+   "formas": [
+    "periodico",
+    "periodica",
+    "periodo"
+   ]
+  },
+  {
+   "palabra": "Aproximación",
+   "definicion": "Número cercano a otro que se usa en su lugar, porque el verdadero tiene infinitos decimales o no hace falta tanta precisión.",
+   "formas": [
+    "aproximar",
+    "aproximado"
+   ]
+  },
+  {
+   "palabra": "Valor absoluto",
+   "definicion": "La distancia de un número al 0, sin signo. |−3| = 3 y |3| = 3. Se escribe entre barras.",
+   "formas": [
+    "modulo"
+   ]
+  },
+  {
+   "palabra": "Naturales",
+   "definicion": "Los números 1, 2, 3, 4… que se usan para contar.",
+   "formas": [
+    "numeros naturales",
+    "natural"
+   ]
+  },
+  {
+   "palabra": "Enteros",
+   "definicion": "Los naturales, el 0 y los negativos: …, −2, −1, 0, 1, 2, …",
+   "formas": [
+    "numeros enteros",
+    "entero"
+   ]
+  },
+  {
+   "palabra": "Unidad común",
+   "definicion": "Medida que entra una cantidad entera de veces en dos segmentos, sin que sobre nada.",
+   "formas": [
+    "unidad"
+   ]
+  },
+  {
+   "palabra": "Cociente",
+   "definicion": "Resultado de una división.",
+   "formas": [
+    "cocientes"
+   ]
+  },
+  {
+   "palabra": "Denominador",
+   "definicion": "El número de abajo de una fracción.",
+   "formas": [
+    "denominadores"
+   ]
+  },
+  {
+   "palabra": "Contraejemplo",
+   "definicion": "Un caso que muestra que una regla no se cumple siempre.",
+   "formas": [
+    "contraejemplos"
+   ]
+  },
+  {
+   "palabra": "Término",
+   "definicion": "Cada uno de los números de una sucesión.",
+   "formas": [
+    "terminos"
+   ]
+  },
+  {
+   "palabra": "Regularidad",
+   "definicion": "Lo que se repite siempre igual al pasar de un término al siguiente.",
+   "formas": [
+    "patron",
+    "regla"
+   ]
+  },
+  {
+   "palabra": "Coeficiente",
+   "definicion": "Número que multiplica a una letra. En 2x² − 4x − 6, los coeficientes son 2, −4 y −6.",
+   "formas": [
+    "coeficientes"
+   ]
+  },
+  {
+   "palabra": "Imagen",
+   "definicion": "Los valores que toma y en una función.",
+   "formas": [
+    "codominio",
+    "recorrido de la funcion"
+   ]
+  },
+  {
+   "palabra": "Base",
+   "definicion": "En aˣ o en logₐ x, es el número a.",
+   "formas": []
+  },
+  {
+   "palabra": "Exponente",
+   "definicion": "El número chiquito de arriba en una potencia: en 2³, el exponente es 3.",
+   "formas": [
+    "potencia"
+   ]
+  },
+  {
+   "palabra": "Cateto",
+   "definicion": "Cada uno de los dos lados que forman el ángulo recto en un triángulo rectángulo.",
+   "formas": [
+    "catetos",
+    "cateto opuesto",
+    "cateto adyacente"
+   ]
+  },
+  {
+   "palabra": "Ángulos notables",
+   "definicion": "Ángulos cuyos senos y cosenos conviene conocer: 0°, 30°, 45°, 60° y 90°.",
+   "formas": [
+    "notables"
+   ]
+  },
+  {
+   "palabra": "Grados",
+   "definicion": "Unidad para medir ángulos. Un giro completo son 360°. La calculadora tiene que estar en modo DEG.",
+   "formas": [
+    "deg",
+    "grado"
+   ]
+  },
+  {
+   "palabra": "Probabilidad",
+   "definicion": "Número entre 0 y 1 que mide qué tan posible es que pase algo.",
+   "formas": [
+    "probabilidades",
+    "chance"
+   ]
+  },
+  {
+   "palabra": "Suceso",
+   "definicion": "Algo que puede pasar en un experimento aleatorio, como \"sale par\" al tirar un dado.",
+   "formas": [
+    "sucesos",
+    "evento"
+   ]
+  },
+  {
+   "palabra": "Experimento aleatorio",
+   "definicion": "Experimento cuyo resultado no se puede saber de antemano, como tirar un dado.",
+   "formas": [
+    "aleatorio",
+    "azar"
+   ]
+  },
+  {
+   "palabra": "Reposición",
+   "definicion": "Devolver lo que se sacó antes de volver a sacar. Sin reposición, lo que salió ya no está.",
+   "formas": [
+    "con reposicion",
+    "sin reposicion"
+   ]
+  },
+  {
+   "palabra": "Sucesos dependientes",
+   "definicion": "Sucesos en los que lo que pasa en uno cambia la probabilidad del otro.",
+   "formas": [
+    "dependientes",
+    "dependiente"
+   ]
+  }
+ ],
+ "temas": [
+  {
+   "id": "mat-4-01-c1-1",
+   "clase": "mat-4-01",
+   "capsula": "c1",
+   "boton": "Racional o irracional",
+   "otra_manera": "Preguntate: ¿lo puedo escribir como una fracción? Si sí, es **racional**, y sus decimales terminan o repiten un grupo de cifras. Si no se puede, es **irracional**: los decimales siguen para siempre sin repetir ningún patrón, como en √2 o π.",
+   "vida_real": "Es como una canción con estribillo: en 0,333… el 3 se repite siempre. En π no hay estribillo: las cifras nunca vuelven a repetirse en el mismo orden.",
+   "claves": [
+    "racional",
+    "irracional",
+    "fraccion",
+    "periodico",
+    "decimales"
+   ],
+   "parte": "Racionales, irracionales y raíces"
+  },
+  {
+   "id": "mat-4-01-c1-2",
+   "clase": "mat-4-01",
+   "capsula": "c1",
+   "boton": "Raíz exacta o no exacta",
+   "otra_manera": "Una raíz es **exacta** cuando el número de adentro es un cuadrado perfecto (o un cubo perfecto, si es raíz cúbica): √49 = 7 porque 7 · 7 = 49. Si no lo es, como √50, la raíz es irracional y queda entre dos enteros.",
+   "vida_real": "Con 49 baldosas armás un cuadrado de 7 por 7. Con 50 sobra una: no hay cuadrado justo, y por eso √50 no es un entero.",
+   "claves": [
+    "raiz exacta",
+    "cuadrado perfecto",
+    "raiz",
+    "radicando",
+    "exacta"
+   ],
+   "parte": "Racionales, irracionales y raíces"
+  },
+  {
+   "id": "mat-4-01-c1-3",
+   "clase": "mat-4-01",
+   "capsula": "c1",
+   "boton": "Entre qué enteros está una raíz",
+   "otra_manera": "Para ubicar √20, buscá los cuadrados perfectos que la rodean: 4² = 16 y 5² = 25. Como 20 está entre 16 y 25, √20 está entre 4 y 5.",
+   "vida_real": "Es como saber en qué cuadra está una casa aunque no sepas el número exacto: sabés que queda entre la esquina 4 y la esquina 5.",
+   "claves": [
+    "entre que enteros",
+    "ubicar raiz",
+    "recta",
+    "cuadrados cercanos"
+   ],
+   "parte": "Racionales, irracionales y raíces"
+  },
+  {
+   "id": "mat-4-01-c2-1",
+   "clase": "mat-4-01",
+   "capsula": "c2",
+   "boton": "Truncar",
+   "otra_manera": "**Truncar** es cortar el número en un decimal y tirar todo lo que sigue, sin mirarlo. π truncado a 3 decimales: 3,141|59… queda 3,141.",
+   "vida_real": "Es como cortar una tela con tijera en la marca: lo que sobra se descarta, sea mucho o poco.",
+   "claves": [
+    "truncar",
+    "cortar",
+    "truncado"
+   ],
+   "parte": "Aproximar: truncar y redondear"
+  },
+  {
+   "id": "mat-4-01-c2-2",
+   "clase": "mat-4-01",
+   "capsula": "c2",
+   "boton": "Redondear",
+   "otra_manera": "Para **redondear** mirás la cifra que sigue a la última que querés dejar. Si es 5 o más, la última sube 1; si es menor que 5, queda igual. π a 3 decimales: después del 3,141 viene un 5, así que queda 3,142.",
+   "vida_real": "Cuando pagás en efectivo y el precio termina en centavos, a veces se redondea para arriba o para abajo según cuánto falte.",
+   "claves": [
+    "redondear",
+    "redondeo",
+    "cifra siguiente",
+    "5 o mas"
+   ],
+   "parte": "Aproximar: truncar y redondear"
+  },
+  {
+   "id": "mat-4-01-c2-3",
+   "clase": "mat-4-01",
+   "capsula": "c2",
+   "boton": "Por qué truncar y redondear dan distinto",
+   "otra_manera": "Dan distinto solo cuando la cifra siguiente es 5 o más: ahí el redondeo sube la última cifra y el truncamiento no. Si la cifra siguiente es menor que 5, los dos métodos dan lo mismo.",
+   "vida_real": "Con √5 = 2,236…, a 2 decimales: truncado 2,23, redondeado 2,24, porque la cifra que sigue es 6.",
+   "claves": [
+    "distinto",
+    "diferencia truncar redondear",
+    "dan igual"
+   ],
+   "parte": "Aproximar: truncar y redondear"
+  },
+  {
+   "id": "mat-4-01-c3-1",
+   "clase": "mat-4-01",
+   "capsula": "c3",
+   "boton": "Error absoluto",
+   "otra_manera": "El **error absoluto** es cuánto te alejaste del valor verdadero al aproximar: valor real menos aproximado, sin el signo. Si aproximás π por 3,14, te equivocás en 0,00159…",
+   "vida_real": "Si una tabla mide 1,414 m y la cortás a 1,41 m, el pedazo que falta es el error.",
+   "claves": [
+    "error",
+    "error absoluto",
+    "valor absoluto",
+    "equivoco"
+   ],
+   "parte": "Acotar el error"
+  },
+  {
+   "id": "mat-4-01-c3-2",
+   "clase": "mat-4-01",
+   "capsula": "c3",
+   "boton": "Acotar un número",
+   "otra_manera": "**Acotar** es encerrar un número entre dos valores conocidos: 3,14 < π < 3,15. No sabés todos los decimales de π, pero sabés seguro entre qué números está.",
+   "vida_real": "Es como decir \"llego entre las 8 y las 8 y cuarto\": no das el minuto exacto, pero das un rango seguro.",
+   "claves": [
+    "acotar",
+    "cota",
+    "entre dos valores"
+   ],
+   "parte": "Acotar el error"
+  },
+  {
+   "id": "mat-4-01-c3-3",
+   "clase": "mat-4-01",
+   "capsula": "c3",
+   "boton": "Cuántos decimales usar",
+   "otra_manera": "Si truncás a 3 decimales, el error es menor que 0,001. Entonces elegís los decimales según la precisión que necesitás: para un error menor que 1 mm, trabajás en metros con 3 decimales.",
+   "vida_real": "Para cortar una madera alcanza con milímetros; no tiene sentido usar diez decimales si la sierra no corta tan fino.",
+   "claves": [
+    "cuantos decimales",
+    "precision",
+    "milimetro"
+   ],
+   "parte": "Acotar el error"
+  },
+  {
+   "id": "mat-4-02-c1-1",
+   "clase": "mat-4-02",
+   "capsula": "c1",
+   "boton": "Los conjuntos numéricos",
+   "otra_manera": "Pensalo como cajas una dentro de otra: los **naturales** están dentro de los **enteros**, que están dentro de los **racionales**. Los **irracionales** están en otra caja, al lado. Y todos juntos forman los **reales**.",
+   "vida_real": "Como tu ciudad, que está dentro de la provincia, que está dentro del país.",
+   "claves": [
+    "conjuntos",
+    "naturales",
+    "enteros",
+    "reales",
+    "racionales"
+   ],
+   "parte": "Los números reales y la recta"
+  },
+  {
+   "id": "mat-4-02-c1-2",
+   "clase": "mat-4-02",
+   "capsula": "c1",
+   "boton": "√2 con regla y compás",
+   "otra_manera": "Dibujás un cuadrado de lado 1 sobre la recta. Su diagonal mide √2 por Pitágoras. Pinchás el compás en 0, lo abrís hasta la punta de la diagonal y bajás el arco hasta la recta: ahí está √2, entre 1 y 2.",
+   "vida_real": "Es como medir una distancia con un hilo y después estirar ese hilo sobre el piso para ver hasta dónde llega.",
+   "claves": [
+    "compas",
+    "raiz de 2 en la recta",
+    "diagonal",
+    "construccion"
+   ],
+   "parte": "Los números reales y la recta"
+  },
+  {
+   "id": "mat-4-02-c1-3",
+   "clase": "mat-4-02",
+   "capsula": "c1",
+   "boton": "Infinitos números entre dos",
+   "otra_manera": "Entre 1 y 2 hay 1,5; entre 1 y 1,5 hay 1,25; y así sin fin. Entre dos números reales siempre podés meter otro más.",
+   "vida_real": "Es como acercarte a una puerta caminando cada vez la mitad de lo que te falta: siempre hay un paso más.",
+   "claves": [
+    "infinitos",
+    "entre 1 y 2",
+    "densidad",
+    "siguiente"
+   ],
+   "parte": "Los números reales y la recta"
+  },
+  {
+   "id": "mat-4-02-c2-1",
+   "clase": "mat-4-02",
+   "capsula": "c2",
+   "boton": "Unidad común",
+   "otra_manera": "Dos segmentos tienen **unidad común** si hay una medida que entra justo, sin que sobre, en los dos. En 12 cm y 8 cm, 4 cm entra 3 y 2 veces.",
+   "vida_real": "Si tenés dos tablas de 12 y 8 baldosas de largo, con baldosas de 4 cubrís las dos sin cortar ninguna.",
+   "claves": [
+    "unidad comun",
+    "conmensurables",
+    "medir"
+   ],
+   "parte": "Segmentos inconmensurables"
+  },
+  {
+   "id": "mat-4-02-c2-2",
+   "clase": "mat-4-02",
+   "capsula": "c2",
+   "boton": "Inconmensurables",
+   "otra_manera": "Son segmentos sin ninguna unidad común, por más chica que la busques. Pasa cuando al dividir sus medidas da un irracional, como la diagonal y el lado de un cuadrado: da √2.",
+   "vida_real": "Es como intentar cubrir dos tablas con baldosas iguales y que siempre sobre un pedacito en alguna, por más chicas que las hagas.",
+   "claves": [
+    "inconmensurables",
+    "sin unidad comun",
+    "lado y diagonal"
+   ],
+   "parte": "Segmentos inconmensurables"
+  },
+  {
+   "id": "mat-4-02-c2-3",
+   "clase": "mat-4-02",
+   "capsula": "c2",
+   "boton": "Medir con regla y medida matemática",
+   "otra_manera": "Una regla siempre te da un número con pocos decimales: es una **medida empírica**, una aproximación. La **medida matemática** de la diagonal es √2, que tiene infinitos decimales, así que ninguna regla la da exacta.",
+   "vida_real": "El metro del carpintero marca milímetros: para la diagonal te dirá 14,1 cm, no √200 cm.",
+   "claves": [
+    "medida empirica",
+    "regla",
+    "medida matematica"
+   ],
+   "parte": "Segmentos inconmensurables"
+  },
+  {
+   "id": "mat-4-02-c3-1",
+   "clase": "mat-4-02",
+   "capsula": "c3",
+   "boton": "El número áureo",
+   "otra_manera": "φ es el número que aparece al dividir un segmento de manera que el todo es a la parte grande como la grande es a la chica. Vale (1 + √5) / 2 ≈ 1,618 y es irracional porque contiene √5.",
+   "vida_real": "En el pentágono regular, la diagonal dividida por el lado da justo φ.",
+   "claves": [
+    "numero aureo",
+    "fi",
+    "phi",
+    "1,618"
+   ],
+   "parte": "El número áureo"
+  },
+  {
+   "id": "mat-4-02-c3-2",
+   "clase": "mat-4-02",
+   "capsula": "c3",
+   "boton": "La sucesión de Fibonacci",
+   "otra_manera": "Empezás con 1 y 1, y cada número nuevo es la suma de los dos anteriores: 1, 1, 2, 3, 5, 8, 13, 21… Para seguirla, sumás siempre los dos últimos.",
+   "vida_real": "En muchos girasoles, las espirales de semillas que giran para cada lado suelen ser dos números seguidos de Fibonacci, como 34 y 55.",
+   "claves": [
+    "fibonacci",
+    "sucesion de fibonacci",
+    "suma de los dos anteriores"
+   ],
+   "parte": "El número áureo"
+  },
+  {
+   "id": "mat-4-02-c3-3",
+   "clase": "mat-4-02",
+   "capsula": "c3",
+   "boton": "Los cocientes que se acercan a φ",
+   "otra_manera": "Si dividís cada término de Fibonacci por el anterior (3/2, 5/3, 8/5…), los resultados quedan a veces un poco por arriba y a veces un poco por debajo de φ, y cada vez más cerca. Nunca llegan, porque son fracciones y φ es irracional.",
+   "vida_real": "Es como estacionar acomodando el auto: cada maniobra te deja más cerca del lugar justo, una vez de un lado y otra del otro.",
+   "claves": [
+    "cocientes",
+    "se acercan",
+    "fibonacci y aureo"
+   ],
+   "parte": "El número áureo"
+  },
+  {
+   "id": "mat-4-03-c1-1",
+   "clase": "mat-4-03",
+   "capsula": "c1",
+   "boton": "Propiedad del producto",
+   "otra_manera": "Podés juntar dos raíces del mismo índice en una sola multiplicando lo de adentro: √2 · √8 = √16 = 4. Y también al revés: separar √36 en √4 · √9.",
+   "vida_real": "Es como juntar dos bolsas chicas en una grande: el contenido es el mismo, solo cambia cómo lo guardás.",
+   "claves": [
+    "producto",
+    "propiedad del producto",
+    "multiplicar raices"
+   ],
+   "parte": "Propiedades de los radicales"
+  },
+  {
+   "id": "mat-4-03-c1-2",
+   "clase": "mat-4-03",
+   "capsula": "c1",
+   "boton": "La raíz no se reparte en una suma",
+   "otra_manera": "En la suma no vale lo mismo que en el producto: √(9 + 16) = √25 = 5, pero √9 + √16 = 3 + 4 = 7. Primero se resuelve lo de adentro de la raíz.",
+   "vida_real": "Dos cuadrados de lado 3 y de lado 4, puestos uno al lado del otro, miden 7. Pero un cuadrado con el área de los dos juntos tiene lado 5.",
+   "claves": [
+    "suma",
+    "raiz de una suma",
+    "no se reparte",
+    "resta"
+   ],
+   "parte": "Propiedades de los radicales"
+  },
+  {
+   "id": "mat-4-03-c1-3",
+   "clase": "mat-4-03",
+   "capsula": "c1",
+   "boton": "Contraejemplo",
+   "otra_manera": "Un **contraejemplo** es un solo caso que muestra que una regla no vale siempre. Con √(9 + 16) ≠ √9 + √16 ya alcanza para probar que la raíz no se reparte en una suma.",
+   "vida_real": "Si alguien dice \"todos los colectivos pasan llenos\", con que pase uno vacío ya demostraste que no es cierto.",
+   "claves": [
+    "contraejemplo",
+    "probar que no"
+   ],
+   "parte": "Propiedades de los radicales"
+  },
+  {
+   "id": "mat-4-03-c2-1",
+   "clase": "mat-4-03",
+   "capsula": "c2",
+   "boton": "Simplificar un radical",
+   "otra_manera": "Buscá el cuadrado perfecto más grande que divide al número de adentro, y sacalo afuera como su raíz: √50 = √(25 · 2) = 5√2. El 25 sale como 5.",
+   "vida_real": "Es como ordenar un placard: lo que se puede doblar (el cuadrado perfecto) sale ordenado, y lo que no, queda adentro.",
+   "claves": [
+    "simplificar",
+    "extraer",
+    "sacar factores",
+    "radical simplificado"
+   ],
+   "parte": "Simplificar radicales"
+  },
+  {
+   "id": "mat-4-03-c2-2",
+   "clase": "mat-4-03",
+   "capsula": "c2",
+   "boton": "Radicales semejantes",
+   "otra_manera": "Son los que tienen la misma raíz con el mismo número adentro, como 3√2 y 5√2. Se suman como si fueran objetos iguales: 3√2 + 5√2 = 8√2.",
+   "vida_real": "3 manzanas más 5 manzanas son 8 manzanas; pero 3 manzanas más 5 peras no se juntan en un solo número.",
+   "claves": [
+    "semejantes",
+    "sumar radicales",
+    "mismo radicando"
+   ],
+   "parte": "Simplificar radicales"
+  },
+  {
+   "id": "mat-4-03-c2-3",
+   "clase": "mat-4-03",
+   "capsula": "c2",
+   "boton": "Simplificar antes de sumar",
+   "otra_manera": "A veces dos radicales no parecen semejantes, pero sí lo son después de simplificar: √8 + √18 = 2√2 + 3√2 = 5√2.",
+   "vida_real": "Dos paquetes con etiquetas distintas pueden tener adentro lo mismo: hay que abrirlos para darte cuenta.",
+   "claves": [
+    "simplificar antes",
+    "raiz de 8 mas raiz de 18"
+   ],
+   "parte": "Simplificar radicales"
+  },
+  {
+   "id": "mat-4-03-c3-1",
+   "clase": "mat-4-03",
+   "capsula": "c3",
+   "boton": "Racionalizar",
+   "otra_manera": "**Racionalizar** es sacar la raíz de abajo de la fracción. Multiplicás arriba y abajo por esa raíz: 1/√2 = √2/2. Como multiplicás por algo que vale 1, el número no cambia.",
+   "vida_real": "Es como escribir 1/2 como 2/4: cambia cómo se ve, pero es la misma cantidad.",
+   "claves": [
+    "racionalizar",
+    "denominador",
+    "raiz abajo"
+   ],
+   "parte": "Racionalizar y argumentar equivalencias"
+  },
+  {
+   "id": "mat-4-03-c3-2",
+   "clase": "mat-4-03",
+   "capsula": "c3",
+   "boton": "Escrituras equivalentes",
+   "otra_manera": "Dos escrituras son **equivalentes** si representan el mismo número, como √12 y 2√3. Para justificarlo, mostrás los pasos de una a la otra y nombrás la propiedad que usaste.",
+   "vida_real": "Es como decir \"media hora\" o \"30 minutos\": dos maneras de nombrar lo mismo.",
+   "claves": [
+    "equivalentes",
+    "misma escritura",
+    "justificar"
+   ],
+   "parte": "Racionalizar y argumentar equivalencias"
+  },
+  {
+   "id": "mat-4-03-c3-3",
+   "clase": "mat-4-03",
+   "capsula": "c3",
+   "boton": "Comprobar con la calculadora",
+   "otra_manera": "La calculadora sirve para chequear: si dos expresiones dan el mismo valor aproximado (1/√2 y √2/2 dan 0,707…), es una buena señal. Pero la prueba son los pasos con propiedades.",
+   "vida_real": "Si dos llaves abren la misma puerta, probablemente sean copias; para estar seguro, las comparás diente por diente.",
+   "claves": [
+    "calculadora",
+    "comprobar",
+    "verificar"
+   ],
+   "parte": "Racionalizar y argumentar equivalencias"
+  },
+  {
+   "id": "mat-4-04-c1-1",
+   "clase": "mat-4-04",
+   "capsula": "c1",
+   "boton": "Qué es una sucesión",
+   "otra_manera": "Una **sucesión** es una lista de números en orden. Cada uno es un término, y aₙ quiere decir \"el término que está en el lugar n\": a₁ el primero, a₅ el quinto.",
+   "vida_real": "Como los números de las casas de una cuadra: cada casa tiene su lugar y su número.",
+   "claves": [
+    "sucesion",
+    "termino",
+    "an",
+    "posicion"
+   ],
+   "parte": "De la regularidad a la fórmula"
+  },
+  {
+   "id": "mat-4-04-c1-2",
+   "clase": "mat-4-04",
+   "capsula": "c1",
+   "boton": "De la regularidad a la fórmula",
+   "otra_manera": "Buscás qué se repite al pasar de un término al siguiente. En la guarda, cada cuadrado agrega 3 palitos y hay 1 de arranque: aₙ = 3 · n + 1. Después la probás con los primeros términos.",
+   "vida_real": "Si un taxi cobra una bajada de bandera y una tarifa fija por cuadra, con una cuenta sabés cuánto pagás por cualquier viaje.",
+   "claves": [
+    "regularidad",
+    "formula",
+    "palitos",
+    "guarda"
+   ],
+   "parte": "De la regularidad a la fórmula"
+  },
+  {
+   "id": "mat-4-04-c1-3",
+   "clase": "mat-4-04",
+   "capsula": "c1",
+   "boton": "Comprobar una fórmula",
+   "otra_manera": "Antes de confiar en una fórmula, reemplazá n por 1, 2 y 3 y fijate si da los términos que ya conocés. Si da bien, la podés usar para posiciones lejanas.",
+   "vida_real": "Es como probar una receta nueva con una porción chica antes de cocinar para muchos.",
+   "claves": [
+    "comprobar formula",
+    "verificar formula"
+   ],
+   "parte": "De la regularidad a la fórmula"
+  },
+  {
+   "id": "mat-4-04-c2-1",
+   "clase": "mat-4-04",
+   "capsula": "c2",
+   "boton": "Sucesión aritmética",
+   "otra_manera": "En una **aritmética** se suma siempre el mismo número, la **diferencia** d. 7, 12, 17, 22… suma 5 cada vez. Si d es negativa, la sucesión baja.",
+   "vida_real": "Un ahorro de $200 por semana: cada semana tenés $200 más que la anterior.",
+   "claves": [
+    "aritmetica",
+    "diferencia",
+    "se suma lo mismo"
+   ],
+   "parte": "Sucesiones aritméticas"
+  },
+  {
+   "id": "mat-4-04-c2-2",
+   "clase": "mat-4-04",
+   "capsula": "c2",
+   "boton": "Por qué la fórmula usa n − 1",
+   "otra_manera": "Del primer término al término n hay n − 1 saltos. Para llegar al décimo, partís del primero y das 9 saltos: a₁₀ = a₁ + 9 · d.",
+   "vida_real": "Para subir del piso 1 al piso 10 no subís 10 tramos de escalera, sino 9.",
+   "claves": [
+    "n menos 1",
+    "saltos",
+    "por que n-1"
+   ],
+   "parte": "Sucesiones aritméticas"
+  },
+  {
+   "id": "mat-4-04-c2-3",
+   "clase": "mat-4-04",
+   "capsula": "c2",
+   "boton": "Encontrar la diferencia",
+   "otra_manera": "Si conocés dos términos, restalos y dividí por la cantidad de saltos entre ellos. Con a₁ = 3 y a₅ = 23: hay 4 saltos y 20 de diferencia, así que d = 5.",
+   "vida_real": "Si en 4 semanas tus ahorros pasaron de $3000 a $23 000, ahorraste $5000 por semana.",
+   "claves": [
+    "encontrar d",
+    "calcular diferencia"
+   ],
+   "parte": "Sucesiones aritméticas"
+  },
+  {
+   "id": "mat-4-04-c3-1",
+   "clase": "mat-4-04",
+   "capsula": "c3",
+   "boton": "Sucesión geométrica",
+   "otra_manera": "En una **geométrica** se multiplica siempre por el mismo número, la **razón** r. 3, 6, 12, 24… multiplica por 2. Si 0 < r < 1, los términos se achican.",
+   "vida_real": "Una noticia que cada persona reenvía a 3 más: la cantidad que la recibe se triplica en cada paso.",
+   "claves": [
+    "geometrica",
+    "razon",
+    "se multiplica"
+   ],
+   "parte": "Sucesiones geométricas"
+  },
+  {
+   "id": "mat-4-04-c3-2",
+   "clase": "mat-4-04",
+   "capsula": "c3",
+   "boton": "La fórmula geométrica",
+   "otra_manera": "aₙ = a₁ · rⁿ⁻¹: partís del primero y multiplicás por r tantas veces como saltos haya, n − 1. Por eso aparece una potencia.",
+   "vida_real": "Si algo se duplica cada día durante 5 días, multiplicaste por 2 cinco veces: 2⁵.",
+   "claves": [
+    "formula geometrica",
+    "potencia",
+    "a1 por r"
+   ],
+   "parte": "Sucesiones geométricas"
+  },
+  {
+   "id": "mat-4-04-c3-3",
+   "clase": "mat-4-04",
+   "capsula": "c3",
+   "boton": "Sumar o multiplicar: quién crece más",
+   "otra_manera": "Al principio una aritmética y una geométrica pueden ir parejas, pero la geométrica con r > 1 agrega cada vez más, porque multiplica lo que ya tiene. A la larga siempre gana.",
+   "vida_real": "Ahorrar $2 más por día contra duplicar lo ahorrado cada día: el segundo arranca igual, pero en una semana deja muy atrás al primero.",
+   "claves": [
+    "crecimiento",
+    "quien crece mas",
+    "comparar"
+   ],
+   "parte": "Sucesiones geométricas"
+  },
+  {
+   "id": "mat-4-05-c1-1",
+   "clase": "mat-4-05",
+   "capsula": "c1",
+   "boton": "Completar el cuadrado",
+   "otra_manera": "Para x² + 6x, pensá en áreas: un cuadrado de lado x y dos rectángulos de 3 por x. Juntos forman una L a la que le falta una esquina de 3 · 3 = 9. Agregándola queda (x + 3)².",
+   "vida_real": "Es como completar un rompecabezas cuadrado al que le falta la pieza de la esquina.",
+   "claves": [
+    "completar el cuadrado",
+    "esquina",
+    "x2 + 6x"
+   ],
+   "parte": "Completar el cuadrado"
+  },
+  {
+   "id": "mat-4-05-c1-2",
+   "clase": "mat-4-05",
+   "capsula": "c1",
+   "boton": "Por qué hay dos soluciones",
+   "otra_manera": "Si (x + 3)² = 25, x + 3 puede ser 5 o −5, porque los dos al cuadrado dan 25. Cada caso da una solución: x = 2 o x = −8.",
+   "vida_real": "Si te dicen que un número al cuadrado da 25, no sabés si era 5 o −5: hay dos candidatos.",
+   "claves": [
+    "dos soluciones",
+    "mas o menos",
+    "5 y -5"
+   ],
+   "parte": "Completar el cuadrado"
+  },
+  {
+   "id": "mat-4-05-c1-3",
+   "clase": "mat-4-05",
+   "capsula": "c1",
+   "boton": "Comprobar una solución",
+   "otra_manera": "Reemplazá x por el valor que encontraste en la ecuación original. Si los dos lados dan igual, la solución está bien: con x = 2, 2² + 6 · 2 = 16.",
+   "vida_real": "Es como probar una llave en la cerradura: si abre, es la correcta.",
+   "claves": [
+    "comprobar solucion",
+    "reemplazar"
+   ],
+   "parte": "Completar el cuadrado"
+  },
+  {
+   "id": "mat-4-05-c2-1",
+   "clase": "mat-4-05",
+   "capsula": "c2",
+   "boton": "Usar la fórmula resolvente",
+   "otra_manera": "Primero dejá la ecuación igualada a 0. Identificá a, b y c con su signo. Calculá b² − 4ac, sacá la raíz y hacé las dos cuentas: una sumando y otra restando.",
+   "vida_real": "Es como una receta: si seguís los pasos en orden, el resultado sale.",
+   "claves": [
+    "formula resolvente",
+    "resolvente",
+    "como se usa"
+   ],
+   "parte": "La fórmula resolvente"
+  },
+  {
+   "id": "mat-4-05-c2-2",
+   "clase": "mat-4-05",
+   "capsula": "c2",
+   "boton": "Identificar a, b y c",
+   "otra_manera": "a es el número que acompaña a x², b el que acompaña a x y c el número solo. El signo va con el número: en 2x² − 4x − 6 = 0, b = −4. Si falta un término, vale 0.",
+   "vida_real": "Como armar un pedido: anotás cuántas de cada cosa, y si no pediste nada de algo, ponés 0.",
+   "claves": [
+    "a b c",
+    "coeficientes",
+    "identificar"
+   ],
+   "parte": "La fórmula resolvente"
+  },
+  {
+   "id": "mat-4-05-c2-3",
+   "clase": "mat-4-05",
+   "capsula": "c2",
+   "boton": "El signo ±",
+   "otra_manera": "El ± indica que la fórmula se calcula dos veces: una con más y otra con menos. Por eso puede haber dos soluciones distintas.",
+   "vida_real": "Es como una bifurcación en el camino: desde el mismo punto salen dos rutas.",
+   "claves": [
+    "mas menos",
+    "dos cuentas"
+   ],
+   "parte": "La fórmula resolvente"
+  },
+  {
+   "id": "mat-4-05-c3-1",
+   "clase": "mat-4-05",
+   "capsula": "c3",
+   "boton": "El discriminante",
+   "otra_manera": "Δ = b² − 4ac es lo que va dentro de la raíz de la fórmula. Con solo calcularlo sabés cuántas soluciones hay, sin resolver toda la ecuación.",
+   "vida_real": "Es como mirar el pronóstico antes de salir: no viviste el día, pero ya sabés qué esperar.",
+   "claves": [
+    "discriminante",
+    "delta",
+    "b2 - 4ac"
+   ],
+   "parte": "El discriminante"
+  },
+  {
+   "id": "mat-4-05-c3-2",
+   "clase": "mat-4-05",
+   "capsula": "c3",
+   "boton": "Los tres casos",
+   "otra_manera": "Si Δ es positivo, hay dos soluciones. Si Δ es 0, hay una sola. Si Δ es negativo, no hay soluciones reales, porque no existe la raíz de un negativo.",
+   "vida_real": "Una pelota que tirás puede cruzar una línea del piso dos veces, apenas tocarla una vez o no llegar nunca.",
+   "claves": [
+    "tres casos",
+    "positivo",
+    "negativo",
+    "cero"
+   ],
+   "parte": "El discriminante"
+  },
+  {
+   "id": "mat-4-05-c3-3",
+   "clase": "mat-4-05",
+   "capsula": "c3",
+   "boton": "Soluciones y parábola",
+   "otra_manera": "Las soluciones de ax² + bx + c = 0 son los puntos donde la parábola y = ax² + bx + c corta el eje x. Por eso el gráfico muestra cuántas hay.",
+   "vida_real": "Si dibujás el recorrido de una pelota, los puntos donde toca el piso son las soluciones.",
+   "claves": [
+    "parabola",
+    "corta el eje",
+    "grafico"
+   ],
+   "parte": "El discriminante"
+  },
+  {
+   "id": "mat-4-06-c1-1",
+   "clase": "mat-4-06",
+   "capsula": "c1",
+   "boton": "Cuatro maneras de mostrar una función",
+   "otra_manera": "La misma función se puede decir con palabras, mostrar en una tabla, dibujar en un gráfico o escribir con una fórmula. Las cuatro cuentan lo mismo.",
+   "vida_real": "Un recorrido se puede contar, anotar en una lista de calles, marcar en un mapa o dar como coordenadas.",
+   "claves": [
+    "representaciones",
+    "tabla",
+    "grafico",
+    "formula"
+   ],
+   "parte": "Funciones polinómicas"
+  },
+  {
+   "id": "mat-4-06-c1-2",
+   "clase": "mat-4-06",
+   "capsula": "c1",
+   "boton": "Cortes con los ejes",
+   "otra_manera": "El corte con el eje y se encuentra poniendo x = 0. Los cortes con el eje x son los valores de x donde y = 0: en y = x² − 4, x = 2 y x = −2.",
+   "vida_real": "En un mapa, los cortes con los ejes son los lugares donde un camino cruza las dos avenidas principales.",
+   "claves": [
+    "cortes con los ejes",
+    "corte eje x",
+    "corte eje y"
+   ],
+   "parte": "Funciones polinómicas"
+  },
+  {
+   "id": "mat-4-06-c1-3",
+   "clase": "mat-4-06",
+   "capsula": "c1",
+   "boton": "Máximo y mínimo",
+   "otra_manera": "Con potencia par, el gráfico tiene forma de U y su punto más bajo es el **mínimo**. Si el número de adelante es negativo, la U se da vuelta y tiene un **máximo**.",
+   "vida_real": "Un tobogán en U tiene un punto más bajo; una montaña tiene un punto más alto.",
+   "claves": [
+    "maximo",
+    "minimo",
+    "forma de u"
+   ],
+   "parte": "Funciones polinómicas"
+  },
+  {
+   "id": "mat-4-06-c2-1",
+   "clase": "mat-4-06",
+   "capsula": "c2",
+   "boton": "El dominio de una racional",
+   "otra_manera": "En y = k / (x − h), x no puede valer h, porque el denominador daría 0 y no se puede dividir por 0. El dominio son todos los reales menos h.",
+   "vida_real": "Es como una calle con un pozo: podés pasar por todos lados menos por ese punto.",
+   "claves": [
+    "dominio",
+    "no se puede dividir por 0",
+    "x distinto de h"
+   ],
+   "parte": "Funciones racionales"
+  },
+  {
+   "id": "mat-4-06-c2-2",
+   "clase": "mat-4-06",
+   "capsula": "c2",
+   "boton": "Asíntotas",
+   "otra_manera": "Una **asíntota** es una recta a la que el gráfico se acerca cada vez más sin tocarla. En y = k / (x − h), la vertical es x = h y la horizontal es y = 0.",
+   "vida_real": "Al repartir $1200 entre cada vez más personas, a cada una le toca menos, pero nunca $0.",
+   "claves": [
+    "asintota",
+    "vertical",
+    "horizontal"
+   ],
+   "parte": "Funciones racionales"
+  },
+  {
+   "id": "mat-4-06-c2-3",
+   "clase": "mat-4-06",
+   "capsula": "c2",
+   "boton": "Modelizar un reparto",
+   "otra_manera": "Si se reparten $1200 entre x personas, a cada una le toca y = 1200 / x. Cuantas más personas, menos le toca a cada una.",
+   "vida_real": "Una pizza entre 2 da porciones grandes; entre 8, porciones chicas.",
+   "claves": [
+    "reparto",
+    "modelizar",
+    "1200 / x"
+   ],
+   "parte": "Funciones racionales"
+  },
+  {
+   "id": "mat-4-06-c3-1",
+   "clase": "mat-4-06",
+   "capsula": "c3",
+   "boton": "La función exponencial",
+   "otra_manera": "En y = aˣ la x está en el exponente. Si a > 1 crece cada vez más rápido; si 0 < a < 1, decrece. Siempre pasa por (0, 1) y nunca da negativo.",
+   "vida_real": "Bacterias que se duplican cada hora: el crecimiento se acelera hora a hora.",
+   "claves": [
+    "exponencial",
+    "a a la x",
+    "crece",
+    "decrece"
+   ],
+   "parte": "Funciones exponenciales y logarítmicas"
+  },
+  {
+   "id": "mat-4-06-c3-2",
+   "clase": "mat-4-06",
+   "capsula": "c3",
+   "boton": "Qué es un logaritmo",
+   "otra_manera": "Un logaritmo responde: ¿a qué exponente hay que elevar la base para obtener el número? log₂ 8 = 3 porque 2³ = 8.",
+   "vida_real": "Si una colonia se duplica cada hora y querés saber cuántas horas tarda en multiplicarse por 8, la respuesta es log₂ 8 = 3.",
+   "claves": [
+    "logaritmo",
+    "log",
+    "exponente"
+   ],
+   "parte": "Funciones exponenciales y logarítmicas"
+  },
+  {
+   "id": "mat-4-06-c3-3",
+   "clase": "mat-4-06",
+   "capsula": "c3",
+   "boton": "Exponencial y logaritmo, al revés",
+   "otra_manera": "La exponencial parte del exponente y da el resultado; el logaritmo parte del resultado y da el exponente. Por eso la logarítmica solo acepta x positivos y pasa por (1, 0).",
+   "vida_real": "Es como sumar y restar: una operación deshace lo que hizo la otra.",
+   "claves": [
+    "inversa",
+    "relacion exponencial logaritmo"
+   ],
+   "parte": "Funciones exponenciales y logarítmicas"
+  },
+  {
+   "id": "mat-4-07-c1-1",
+   "clase": "mat-4-07",
+   "capsula": "c1",
+   "boton": "Nombrar los lados",
+   "otra_manera": "La **hipotenusa** es el lado de enfrente del ángulo recto. Mirando el ángulo α: el **cateto opuesto** está enfrente de α y el **adyacente** forma α junto con la hipotenusa.",
+   "vida_real": "Si estás parado en el ángulo α, el opuesto es la pared de enfrente y el adyacente es el piso que pisás.",
+   "claves": [
+    "hipotenusa",
+    "cateto opuesto",
+    "cateto adyacente",
+    "lados"
+   ],
+   "parte": "Seno y coseno en el triángulo rectángulo"
+  },
+  {
+   "id": "mat-4-07-c1-2",
+   "clase": "mat-4-07",
+   "capsula": "c1",
+   "boton": "Seno y coseno",
+   "otra_manera": "**sen α = opuesto / hipotenusa** y **cos α = adyacente / hipotenusa**. Con el triángulo 3, 4, 5 y α enfrente del 3: sen α = 0,6 y cos α = 0,8.",
+   "vida_real": "En una rampa, el seno dice qué parte del largo es subida y el coseno, qué parte es avance horizontal.",
+   "claves": [
+    "seno",
+    "coseno",
+    "definicion"
+   ],
+   "parte": "Seno y coseno en el triángulo rectángulo"
+  },
+  {
+   "id": "mat-4-07-c1-3",
+   "clase": "mat-4-07",
+   "capsula": "c1",
+   "boton": "No depende del tamaño",
+   "otra_manera": "Si agrandás el triángulo sin cambiar sus ángulos, todos los lados crecen en la misma proporción. Por eso el seno y el coseno siguen siendo los mismos.",
+   "vida_real": "Una foto ampliada tiene las mismas formas: solo cambia el tamaño.",
+   "claves": [
+    "tamaño",
+    "semejantes",
+    "no cambia"
+   ],
+   "parte": "Seno y coseno en el triángulo rectángulo"
+  },
+  {
+   "id": "mat-4-07-c2-1",
+   "clase": "mat-4-07",
+   "capsula": "c2",
+   "boton": "La circunferencia trigonométrica",
+   "otra_manera": "Es una circunferencia de radio 1 con centro en el origen. Cada ángulo marca un punto P: su coordenada x es el coseno y su coordenada y es el seno.",
+   "vida_real": "Es como una vuelta al mundo de la plaza: según cuánto giró la cabina, está más alta o más baja y más a un lado o al otro.",
+   "claves": [
+    "circunferencia trigonometrica",
+    "radio 1",
+    "punto p"
+   ],
+   "parte": "La circunferencia trigonométrica"
+  },
+  {
+   "id": "mat-4-07-c2-2",
+   "clase": "mat-4-07",
+   "capsula": "c2",
+   "boton": "Ángulos notables",
+   "otra_manera": "Hay ángulos cuyos valores conviene tener a mano: sen 30° = 0,5; sen 45° = cos 45° ≈ 0,71; cos 60° = 0,5; sen 90° = 1. Están en la tabla de la clase.",
+   "vida_real": "Son como los números de teléfono que más usás: conviene saberlos de memoria.",
+   "claves": [
+    "notables",
+    "30 45 60",
+    "tabla"
+   ],
+   "parte": "La circunferencia trigonométrica"
+  },
+  {
+   "id": "mat-4-07-c2-3",
+   "clase": "mat-4-07",
+   "capsula": "c2",
+   "boton": "Los signos en cada cuadrante",
+   "otra_manera": "El seno es positivo arriba del eje x (cuadrantes 1 y 2) y el coseno es positivo a la derecha del eje y (cuadrantes 1 y 4). En el tercero, los dos son negativos.",
+   "vida_real": "En un mapa con el centro en la plaza: arriba es norte (seno positivo) y a la derecha es este (coseno positivo).",
+   "claves": [
+    "signos",
+    "cuadrantes",
+    "positivo negativo"
+   ],
+   "parte": "La circunferencia trigonométrica"
+  },
+  {
+   "id": "mat-4-07-c3-1",
+   "clase": "mat-4-07",
+   "capsula": "c3",
+   "boton": "Ángulo de referencia",
+   "otra_manera": "Para un ángulo de otro cuadrante, buscá cuánto le falta o le sobra para llegar al eje x: 150° está a 30° de 180°. Usás los valores de 30° y le ponés el signo del cuadrante.",
+   "vida_real": "Es como un reflejo en el espejo: la misma figura, dada vuelta.",
+   "claves": [
+    "angulo de referencia",
+    "reducir",
+    "otro cuadrante"
+   ],
+   "parte": "Ángulos de otros cuadrantes"
+  },
+  {
+   "id": "mat-4-07-c3-2",
+   "clase": "mat-4-07",
+   "capsula": "c3",
+   "boton": "Ángulos simétricos",
+   "otra_manera": "30°, 150°, 210° y 330° tienen puntos simétricos en la circunferencia: el seno y el coseno tienen los mismos valores, 0,5 y 0,87, y solo cambian los signos.",
+   "vida_real": "Cuatro personas paradas en las cuatro esquinas de una plaza cuadrada están a la misma distancia del centro, cada una en una dirección.",
+   "claves": [
+    "simetricos",
+    "150 210 330"
+   ],
+   "parte": "Ángulos de otros cuadrantes"
+  },
+  {
+   "id": "mat-4-07-c3-3",
+   "clase": "mat-4-07",
+   "capsula": "c3",
+   "boton": "sen² α + cos² α = 1",
+   "otra_manera": "Como el radio mide 1, por Pitágoras el seno al cuadrado más el coseno al cuadrado da 1. Si sabés uno, calculás el otro: con sen α = 0,6, cos α = 0,8.",
+   "vida_real": "Es el mismo teorema de Pitágoras de siempre, aplicado al triángulo que se forma dentro de la circunferencia.",
+   "claves": [
+    "identidad",
+    "pitagoras",
+    "sen2 + cos2"
+   ],
+   "parte": "Ángulos de otros cuadrantes"
+  },
+  {
+   "id": "mat-4-08-c1-1",
+   "clase": "mat-4-08",
+   "capsula": "c1",
+   "boton": "Medición indirecta",
+   "otra_manera": "Es calcular una medida que no podés alcanzar a partir de otras que sí: un ángulo y una distancia. Con eso y el seno o el coseno sale lo que falta.",
+   "vida_real": "Calcular la altura a la que vuela un barrilete sabiendo cuánto hilo soltaste y qué ángulo forma.",
+   "claves": [
+    "medicion indirecta",
+    "teodolito",
+    "calcular sin medir"
+   ],
+   "parte": "Medir sin llegar: triángulos rectángulos"
+  },
+  {
+   "id": "mat-4-08-c1-2",
+   "clase": "mat-4-08",
+   "capsula": "c1",
+   "boton": "¿Seno o coseno?",
+   "otra_manera": "Si lo que buscás está enfrente del ángulo (una altura), usás el seno. Si está pegado al ángulo (un avance horizontal), usás el coseno. En los dos casos se multiplica por la hipotenusa.",
+   "vida_real": "En una escalera apoyada: la altura en la pared sale con el seno y la distancia del pie a la pared, con el coseno.",
+   "claves": [
+    "seno o coseno",
+    "que razon uso"
+   ],
+   "parte": "Medir sin llegar: triángulos rectángulos"
+  },
+  {
+   "id": "mat-4-08-c1-3",
+   "clase": "mat-4-08",
+   "capsula": "c1",
+   "boton": "Calculadora en grados",
+   "otra_manera": "Para calcular sen 30° la calculadora tiene que estar en modo grados (DEG). Si está en otro modo, el resultado es otro.",
+   "vida_real": "Es como un termómetro en Fahrenheit en lugar de Celsius: el número cambia aunque la temperatura sea la misma.",
+   "claves": [
+    "calculadora",
+    "deg",
+    "modo grados"
+   ],
+   "parte": "Medir sin llegar: triángulos rectángulos"
+  },
+  {
+   "id": "mat-4-08-c2-1",
+   "clase": "mat-4-08",
+   "capsula": "c2",
+   "boton": "Teorema del seno",
+   "otra_manera": "En cualquier triángulo, cada lado dividido por el seno de su ángulo opuesto da lo mismo. Si conocés dos ángulos y un lado, armás una igualdad y despejás el lado que buscás.",
+   "vida_real": "Medir el ancho de un río sin cruzarlo: con una base en tu orilla y dos ángulos hacia un árbol de enfrente.",
+   "claves": [
+    "teorema del seno",
+    "ley del seno"
+   ],
+   "parte": "El teorema del seno"
+  },
+  {
+   "id": "mat-4-08-c2-2",
+   "clase": "mat-4-08",
+   "capsula": "c2",
+   "boton": "Lado opuesto a un ángulo",
+   "otra_manera": "Cada lado está enfrente de un ángulo: a enfrente de A, b de B, c de C. En el teorema del seno siempre van juntos el lado y su ángulo de enfrente.",
+   "vida_real": "En un terreno triangular con un poste en cada esquina, desde cada poste se ve de frente el lado opuesto.",
+   "claves": [
+    "lado opuesto",
+    "a b c",
+    "notacion"
+   ],
+   "parte": "El teorema del seno"
+  },
+  {
+   "id": "mat-4-08-c2-3",
+   "clase": "mat-4-08",
+   "capsula": "c2",
+   "boton": "El ángulo que falta",
+   "otra_manera": "Los ángulos de un triángulo suman 180°. Si conocés dos, restás: en el río, 180° − 60° − 75° = 45°.",
+   "vida_real": "Si de una torta cortada en tres porciones ya sabés el tamaño de dos, la tercera es lo que queda.",
+   "claves": [
+    "180",
+    "suma de angulos",
+    "angulo que falta"
+   ],
+   "parte": "El teorema del seno"
+  },
+  {
+   "id": "mat-4-08-c3-1",
+   "clase": "mat-4-08",
+   "capsula": "c3",
+   "boton": "Teorema del coseno",
+   "otra_manera": "c² = a² + b² − 2ab · cos C. Se usa cuando conocés dos lados y el ángulo entre ellos, o los tres lados. Si C = 90°, se convierte en Pitágoras.",
+   "vida_real": "Dos caminos salen del mismo cruce con cierto ángulo: con este teorema calculás qué tan lejos quedan sus extremos.",
+   "claves": [
+    "teorema del coseno",
+    "ley del coseno"
+   ],
+   "parte": "El teorema del coseno"
+  },
+  {
+   "id": "mat-4-08-c3-2",
+   "clase": "mat-4-08",
+   "capsula": "c3",
+   "boton": "Qué teorema elegir",
+   "otra_manera": "Mirá qué datos tenés. Dos ángulos y un lado: teorema del seno. Dos lados y el ángulo entre ellos, o tres lados: teorema del coseno. Triángulo rectángulo con hipotenusa y ángulo: seno y coseno directos.",
+   "vida_real": "Es como elegir herramienta: para un tornillo, destornillador; para un clavo, martillo.",
+   "claves": [
+    "que teorema",
+    "elegir",
+    "cual uso"
+   ],
+   "parte": "El teorema del coseno"
+  },
+  {
+   "id": "mat-4-08-c3-3",
+   "clase": "mat-4-08",
+   "capsula": "c3",
+   "boton": "Hallar un ángulo con tres lados",
+   "otra_manera": "Con los tres lados, ponés los números en el teorema del coseno y despejás cos C. Después buscás el ángulo con ese coseno: con 5, 7 y 8, cos C = 0,5 y C = 60°.",
+   "vida_real": "Con tres varillas de largo fijo se arma un solo triángulo: sus ángulos ya están decididos.",
+   "claves": [
+    "hallar angulo",
+    "tres lados"
+   ],
+   "parte": "El teorema del coseno"
+  },
+  {
+   "id": "mat-4-09-c1-1",
+   "clase": "mat-4-09",
+   "capsula": "c1",
+   "boton": "Por qué la media no alcanza",
+   "otra_manera": "Dos grupos pueden tener el mismo promedio y ser muy distintos: la ciudad A tuvo días parecidos y la B, días muy fríos y muy calurosos. La media sola no muestra esa diferencia.",
+   "vida_real": "Dos estudiantes con promedio 7: uno sacó siempre 7 y otro sacó 4 y 10. El promedio es igual, pero no son iguales.",
+   "claves": [
+    "media",
+    "promedio",
+    "no alcanza"
+   ],
+   "parte": "Cuando el promedio no alcanza"
+  },
+  {
+   "id": "mat-4-09-c1-2",
+   "clase": "mat-4-09",
+   "capsula": "c1",
+   "boton": "Medida de dispersión",
+   "otra_manera": "Una **medida de dispersión** dice qué tan desparramados están los datos. Si están todos juntos, la dispersión es chica; si están lejos unos de otros, es grande.",
+   "vida_real": "En una foto grupal, si todos están apretados en el centro hay poca dispersión; si están por toda la plaza, mucha.",
+   "claves": [
+    "dispersion",
+    "desparramados",
+    "medida de dispersion"
+   ],
+   "parte": "Cuando el promedio no alcanza"
+  },
+  {
+   "id": "mat-4-09-c1-3",
+   "clase": "mat-4-09",
+   "capsula": "c1",
+   "boton": "El rango",
+   "otra_manera": "El **rango** es el dato más grande menos el más chico. En la ciudad A es 2°; en la B, 20°. Es fácil de calcular, pero solo mira dos datos.",
+   "vida_real": "La diferencia entre la persona más alta y la más baja del curso.",
+   "claves": [
+    "rango",
+    "mayor menos menor"
+   ],
+   "parte": "Cuando el promedio no alcanza"
+  },
+  {
+   "id": "mat-4-09-c2-1",
+   "clase": "mat-4-09",
+   "capsula": "c2",
+   "boton": "Desviación de un dato",
+   "otra_manera": "La **desviación** es cuánto se aleja un dato de la media: el dato menos la media. Si la media es 5, el dato 8 tiene desviación 3 y el dato 2, desviación −3.",
+   "vida_real": "Si el colectivo pasa a las 8 en promedio, un día que pasó 8:03 se desvió 3 minutos.",
+   "claves": [
+    "desviacion",
+    "dato menos media"
+   ],
+   "parte": "La varianza"
+  },
+  {
+   "id": "mat-4-09-c2-2",
+   "clase": "mat-4-09",
+   "capsula": "c2",
+   "boton": "Por qué se eleva al cuadrado",
+   "otra_manera": "Las desviaciones positivas y negativas se compensan y siempre suman 0. Al elevarlas al cuadrado quedan todas positivas y ya no se anulan.",
+   "vida_real": "Si contás los pasos que diste para adelante y para atrás con signo, podés terminar en 0 aunque hayas caminado mucho.",
+   "claves": [
+    "cuadrado",
+    "se cancelan",
+    "suman cero"
+   ],
+   "parte": "La varianza"
+  },
+  {
+   "id": "mat-4-09-c2-3",
+   "clase": "mat-4-09",
+   "capsula": "c2",
+   "boton": "Calcular la varianza",
+   "otra_manera": "La **varianza** es el promedio de las desviaciones al cuadrado: calculás la media, restás la media a cada dato, elevás al cuadrado, sumás y dividís por la cantidad de datos.",
+   "vida_real": "Es una tabla con columnas: dato, desviación, desviación al cuadrado. Al final, sumás la última columna y dividís.",
+   "claves": [
+    "varianza",
+    "calcular varianza",
+    "pasos"
+   ],
+   "parte": "La varianza"
+  },
+  {
+   "id": "mat-4-09-c3-1",
+   "clase": "mat-4-09",
+   "capsula": "c3",
+   "boton": "Desviación estándar",
+   "otra_manera": "Es la raíz cuadrada de la varianza. Vuelve a la misma unidad que los datos y se puede pensar como la distancia típica de los datos a la media.",
+   "vida_real": "En la ciudad A los días se alejan menos de 1° de la media; en la B, más de 7°.",
+   "claves": [
+    "desviacion estandar",
+    "raiz de la varianza"
+   ],
+   "parte": "La desviación estándar"
+  },
+  {
+   "id": "mat-4-09-c3-2",
+   "clase": "mat-4-09",
+   "capsula": "c3",
+   "boton": "Interpretar la desviación estándar",
+   "otra_manera": "Chica: los datos están cerca de la media y son parecidos entre sí. Grande: hay datos muy por encima y muy por debajo de la media.",
+   "vida_real": "Dos cursos con media 7: si la desviación estándar es 0,5, casi todos sacaron cerca de 7; si es 2,5, hubo notas muy variadas.",
+   "claves": [
+    "interpretar",
+    "chica",
+    "grande"
+   ],
+   "parte": "La desviación estándar"
+  },
+  {
+   "id": "mat-4-09-c3-3",
+   "clase": "mat-4-09",
+   "capsula": "c3",
+   "boton": "Media y desviación juntas",
+   "otra_manera": "La media dice alrededor de qué número están los datos y la desviación estándar, cuánto se alejan. Con las dos describís mucho mejor un grupo que con una sola.",
+   "vida_real": "Para saber qué ropa llevar a una ciudad, sirve conocer la temperatura media y también cuánto cambia de un día a otro.",
+   "claves": [
+    "media y desviacion",
+    "describir datos"
+   ],
+   "parte": "La desviación estándar"
+  },
+  {
+   "id": "mat-4-10-c1-1",
+   "clase": "mat-4-10",
+   "capsula": "c1",
+   "boton": "La regla de Laplace",
+   "otra_manera": "Si todos los resultados tienen la misma chance, la probabilidad es casos favorables dividido casos posibles. En un dado, P(par) = 3/6 = 1/2.",
+   "vida_real": "Si en una bolsa hay 10 papelitos y 3 tienen premio, tu chance de sacar premio es 3 de 10.",
+   "claves": [
+    "laplace",
+    "favorables",
+    "posibles"
+   ],
+   "parte": "Sucesos excluyentes y no excluyentes"
+  },
+  {
+   "id": "mat-4-10-c1-2",
+   "clase": "mat-4-10",
+   "capsula": "c1",
+   "boton": "Excluyentes o no",
+   "otra_manera": "Son **excluyentes** si no pueden pasar juntos, como \"sale 2\" y \"sale 5\". Son **no excluyentes** si hay resultados que cumplen los dos, como \"par\" y \"más que 3\", que comparten el 4 y el 6.",
+   "vida_real": "Estar en primer año y en quinto a la vez es imposible; usar anteojos y estar en quinto, no.",
+   "claves": [
+    "excluyentes",
+    "no excluyentes",
+    "a la vez"
+   ],
+   "parte": "Sucesos excluyentes y no excluyentes"
+  },
+  {
+   "id": "mat-4-10-c1-3",
+   "clase": "mat-4-10",
+   "capsula": "c1",
+   "boton": "Por qué se resta en la fórmula",
+   "otra_manera": "En P(A o B) = P(A) + P(B) − P(A y B) se resta porque los resultados comunes se contaron dos veces, una en A y otra en B.",
+   "vida_real": "Si contás los que juegan al fútbol y los que juegan al vóley, quien juega a los dos aparece en las dos listas: hay que contarlo una sola vez.",
+   "claves": [
+    "restar",
+    "contar dos veces",
+    "a o b"
+   ],
+   "parte": "Sucesos excluyentes y no excluyentes"
+  },
+  {
+   "id": "mat-4-10-c2-1",
+   "clase": "mat-4-10",
+   "capsula": "c2",
+   "boton": "Independientes o dependientes",
+   "otra_manera": "Son **independientes** si lo primero no cambia la chance de lo segundo, como dos tiradas de un dado. Son **dependientes** si sí la cambia, como sacar bolillas sin devolverlas.",
+   "vida_real": "Sacar una figurita de un sobre y no devolverla cambia lo que queda; tirar una moneda dos veces, no.",
+   "claves": [
+    "independientes",
+    "dependientes",
+    "sin reposicion"
+   ],
+   "parte": "Sucesos dependientes y probabilidad condicionada"
+  },
+  {
+   "id": "mat-4-10-c2-2",
+   "clase": "mat-4-10",
+   "capsula": "c2",
+   "boton": "Probabilidad condicionada",
+   "otra_manera": "P(B | A) es la probabilidad de B sabiendo que ya pasó A. Se calcula con lo que queda después de A: si salió una roja de la bolsa, quedan 2 rojas de 4.",
+   "vida_real": "La chance de que llueva sabiendo que está nublado es distinta de la chance de que llueva en un día cualquiera.",
+   "claves": [
+    "condicionada",
+    "sabiendo que",
+    "p de b dado a"
+   ],
+   "parte": "Sucesos dependientes y probabilidad condicionada"
+  },
+  {
+   "id": "mat-4-10-c2-3",
+   "clase": "mat-4-10",
+   "capsula": "c2",
+   "boton": "Leer un árbol",
+   "otra_manera": "Cada rama tiene su probabilidad. Para un camino completo, multiplicás las ramas que recorrés: roja y roja = 3/5 · 2/4. Todos los caminos juntos suman 1.",
+   "vida_real": "Es como un mapa de recorridos: cada camino tiene sus tramos, y para saber la chance de llegar por uno multiplicás los tramos.",
+   "claves": [
+    "arbol",
+    "ramas",
+    "camino"
+   ],
+   "parte": "Sucesos dependientes y probabilidad condicionada"
+  },
+  {
+   "id": "mat-4-10-c3-1",
+   "clase": "mat-4-10",
+   "capsula": "c3",
+   "boton": "Probabilidad total",
+   "otra_manera": "Si a un mismo resultado se llega por varios caminos del árbol, sumás esos caminos. La segunda es roja por RR o por AR: 6/20 + 6/20 = 3/5.",
+   "vida_real": "Si podés llegar a la escuela en colectivo o caminando, la chance de llegar es la suma de las dos maneras.",
+   "claves": [
+    "probabilidad total",
+    "sumar caminos"
+   ],
+   "parte": "Probabilidad total y pruebas repetidas"
+  },
+  {
+   "id": "mat-4-10-c3-2",
+   "clase": "mat-4-10",
+   "capsula": "c3",
+   "boton": "Pruebas repetidas",
+   "otra_manera": "Cuando repetís un experimento independiente, cada secuencia se calcula multiplicando y, si varias secuencias sirven, se suman. Con tres monedas, 2 caras salen en 3 secuencias: 3 · 1/8 = 3/8.",
+   "vida_real": "Tirar tres veces una moneda es como hacer tres sorteos separados: ninguno influye en el otro.",
+   "claves": [
+    "pruebas repetidas",
+    "secuencias",
+    "tres monedas"
+   ],
+   "parte": "Probabilidad total y pruebas repetidas"
+  },
+  {
+   "id": "mat-4-10-c3-3",
+   "clase": "mat-4-10",
+   "capsula": "c3",
+   "boton": "Al menos uno",
+   "otra_manera": "Para \"al menos una cara\" es más fácil pensar en lo contrario: \"ninguna cara\" es solo SSS, con probabilidad 1/8. Entonces la respuesta es 1 − 1/8 = 7/8.",
+   "vida_real": "Para saber la chance de que al menos un amigo venga, a veces conviene calcular la chance de que no venga ninguno.",
+   "claves": [
+    "al menos",
+    "contrario",
+    "1 menos"
+   ],
+   "parte": "Probabilidad total y pruebas repetidas"
+  }
+ ]
+}

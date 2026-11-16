@@ -1,0 +1,1129 @@
+{
+ "id": "bio-4-07",
+ "espacio": "biologia",
+ "eje": "Los sistemas de regulación y control",
+ "titulo": "El sistema endocrino y su relación con el nervioso",
+ "intro": "Además de los impulsos nerviosos, el cuerpo se coordina con hormonas que viajan por la sangre. En esta clase vas a ver qué glándulas las fabrican, cómo mantienen el equilibrio del cuerpo y cómo trabajan junto con el sistema nervioso.",
+ "objetivos": [
+  "Reconocer las principales glándulas endocrinas y comparar el sistema endocrino con el nervioso.",
+  "Explicar la regulación de la glucosa como un ejemplo de retroalimentación negativa y describir algunos desequilibrios.",
+  "Explicar la coordinación neuroendocrina con el ejemplo de la metamorfosis de la rana."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: las glándulas y las hormonas, la regulación de la glucosa y sus desequilibrios, y la coordinación entre el sistema nervioso y el endocrino.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Hormonas y glándulas",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "Un perro te ladra de golpe detrás de una reja. En un segundo el corazón se acelera: eso lo hizo el sistema nervioso, como viste en la clase 6. Pero el perro ya se calmó y vos seguís con las manos temblando y el corazón rápido durante varios minutos. ¿Qué sigue actuando en tu cuerpo?"
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/bio-4-07-susto.webp",
+     "tipo": "ilustracion",
+     "animacion": "bajar",
+     "alt": "Ilustración de un adolescente con mochila que camina por la vereda y se sobresalta, con la mano en el pecho, porque un perro le ladra desde atrás de una reja.",
+     "epigrafe": "Ilustración elaborada para esta clase.",
+     "_imagen": true
+    },
+    {
+     "t": "texto",
+     "titulo": "Mensajes que viajan por la sangre",
+     "texto": "El **sistema endocrino** es el otro gran sistema que coordina el cuerpo. Está formado por **glándulas endocrinas**, que fabrican unas sustancias llamadas **hormonas** y las vuelcan a la sangre.\n\nLa sangre lleva las hormonas a todo el cuerpo, pero cada hormona actúa solo sobre algunos órganos: sus **órganos blanco**. Son los que tienen células con **receptores** para esa hormona, como una cerradura que solo abre con su llave.\n\nNo todas las glándulas son endocrinas. Las **glándulas exocrinas**, como las salivales o las del sudor, vuelcan lo que fabrican por un conducto hacia afuera o hacia una cavidad. El páncreas hace las dos cosas: el jugo pancreático de la clase 3 va al intestino, y sus hormonas van a la sangre."
+    },
+    {
+     "t": "marcar",
+     "consigna": "Marcá en este texto las glándulas que vuelcan lo que fabrican **a la sangre**. Si dudás, releé el texto de arriba.",
+     "texto": "Cuando tenés hambre y olés comida, las glándulas salivales llenan la boca de saliva. Si hace calor, las glándulas del sudor te mojan la piel. Mientras tanto, el [[páncreas]] vuelca insulina a la sangre, y la [[tiroides]] y las [[suprarrenales]] hacen lo mismo con sus hormonas.",
+     "explicacion": "El páncreas, la tiroides y las suprarrenales vuelcan hormonas a la sangre: actúan como glándulas endocrinas. Las salivales y las del sudor son exocrinas.",
+     "pista": "Las salivales y las del sudor vuelcan lo que fabrican por un conducto, no a la sangre."
+    },
+    {
+     "t": "imagen",
+     "titulo": "Las principales glándulas endocrinas",
+     "src": "img/clases/bio-4-07-glandulas.svg",
+     "tipo": "grafico",
+     "alt": "Ilustración de una persona de frente con sus principales glándulas endocrinas: en la cabeza, el hipotálamo y la hipófisis; en el cuello, la tiroides; sobre los riñones, las dos glándulas suprarrenales; detrás del estómago, el páncreas; y en la parte baja del abdomen, los ovarios o los testículos.",
+     "epigrafe": "Ilustración elaborada para esta clase. Las formas y los tamaños están simplificados.",
+     "src_movil": "img/clases/bio-4-07-glandulas-movil.svg",
+     "animacion": "svg",
+     "_imagen": true
+    },
+    {
+     "t": "texto",
+     "titulo": "Qué hace cada glándula",
+     "texto": "El **hipotálamo**, que es parte del encéfalo, y la **hipófisis**, una glándula del tamaño de un garbanzo que cuelga debajo de él, controlan a muchas otras glándulas. La hipófisis también fabrica la **hormona del crecimiento**.\n\nLa **tiroides**, en el cuello, fabrica las **hormonas tiroideas**, que regulan cuánta energía usa el cuerpo. Para fabricarlas necesita **yodo**.\n\nLas **suprarrenales**, sobre los riñones, fabrican **adrenalina**, que prepara el cuerpo ante un peligro, y otras hormonas, como el **cortisol**.\n\nEl **páncreas** fabrica **insulina** y **glucagón**, que regulan la glucosa de la sangre.\n\nLos **ovarios** fabrican **estrógenos** y **progesterona**, y los **testículos**, **testosterona**. Estas hormonas producen los cambios del cuerpo en la pubertad."
+    },
+    {
+     "t": "tocar",
+     "svg": "img/clases/bio-4-07-tocar.svg",
+     "vista": "120 10 190 460",
+     "consigna": "En este dibujo hay seis puntos marcados sobre las glándulas. Leé cada pregunta y tocá el punto que corresponde.",
+     "alt": "Ilustración del cuerpo humano con las glándulas endocrinas marcadas: una en la cabeza, una en el cuello, dos sobre los riñones, una detrás del estómago y una en la parte baja del abdomen.",
+     "fuente": "Ilustración elaborada para esta clase.",
+     "puntos": [
+      {
+       "id": "hipofisis",
+       "x": 211,
+       "y": 62,
+       "nombre": "Hipófisis",
+       "articulo": "la hipófisis"
+      },
+      {
+       "id": "tiroides",
+       "x": 211,
+       "y": 122,
+       "nombre": "Tiroides",
+       "articulo": "la tiroides"
+      },
+      {
+       "id": "supra_i",
+       "x": 190,
+       "y": 327,
+       "nombre": "Suprarrenal",
+       "articulo": "una suprarrenal"
+      },
+      {
+       "id": "supra_d",
+       "x": 232,
+       "y": 327,
+       "nombre": "Suprarrenal",
+       "articulo": "una suprarrenal"
+      },
+      {
+       "id": "pancreas",
+       "x": 226,
+       "y": 358,
+       "nombre": "Páncreas",
+       "articulo": "el páncreas"
+      },
+      {
+       "id": "gonadas",
+       "x": 211,
+       "y": 436,
+       "nombre": "Ovarios o testículos",
+       "articulo": "los ovarios o los testículos"
+      }
+     ],
+     "preguntas": [
+      {
+       "pregunta": "Tocá una de las glándulas que fabrican la adrenalina que te dejó temblando con el ladrido del perro.",
+       "correcta": [
+        "supra_i",
+        "supra_d"
+       ],
+       "explicacion": "Las suprarrenales están sobre los riñones y fabrican adrenalina.",
+       "pista": "Buscá dos glándulas iguales, una de cada lado, más abajo del pecho."
+      },
+      {
+       "pregunta": "Tocá la glándula que necesita yodo para fabricar sus hormonas.",
+       "correcta": "tiroides",
+       "explicacion": "La tiroides usa el yodo para fabricar las hormonas tiroideas.",
+       "pista": "Releé el texto Qué hace cada glándula: buscá dónde aparece el yodo."
+      },
+      {
+       "pregunta": "Tocá la glándula que fabrica insulina.",
+       "correcta": "pancreas",
+       "explicacion": "El páncreas fabrica insulina y glucagón, y además el jugo pancreático que va al intestino.",
+       "pista": "Es la misma glándula que fabrica el jugo pancreático de la clase 3."
+      },
+      {
+       "pregunta": "Tocá la glándula que controla a muchas otras y fabrica la hormona del crecimiento.",
+       "correcta": "hipofisis",
+       "explicacion": "La hipófisis cuelga debajo del hipotálamo, en el encéfalo.",
+       "pista": "Está en la cabeza."
+      }
+     ],
+     "cierre": "Cada glándula está en un lugar distinto del cuerpo, pero todas vuelcan sus hormonas a la misma sangre."
+    },
+    {
+     "t": "texto",
+     "titulo": "Dos sistemas que se complementan",
+     "texto": "El sistema nervioso y el endocrino coordinan el cuerpo, pero de maneras distintas. Fijate en la tabla."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Sistema nervioso y sistema endocrino",
+     "columnas": [
+      "",
+      "Sistema nervioso",
+      "Sistema endocrino"
+     ],
+     "filas": [
+      [
+       "Mensajero",
+       "Impulso nervioso y neurotransmisores",
+       "Hormonas"
+      ],
+      [
+       "Por dónde viaja",
+       "Por las neuronas",
+       "Por la sangre"
+      ],
+      [
+       "Velocidad",
+       "Muy rápido: milésimas de segundo",
+       "Más lento: de segundos a horas"
+      ],
+      [
+       "Cuánto dura el efecto",
+       "Poco",
+       "Más tiempo: minutos, días o años"
+      ],
+      [
+       "A quién llega",
+       "A células precisas",
+       "A todos los órganos con el receptor"
+      ]
+     ]
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cuál de los dos sistemas se describe en cada frase?",
+     "categorias": [
+      "Sistema nervioso",
+      "Sistema endocrino"
+     ],
+     "items": [
+      {
+       "texto": "El mensaje viaja por la sangre",
+       "cat": "Sistema endocrino"
+      },
+      {
+       "texto": "Responde en milésimas de segundo",
+       "cat": "Sistema nervioso"
+      },
+      {
+       "texto": "Usa neurotransmisores",
+       "cat": "Sistema nervioso"
+      },
+      {
+       "texto": "Su efecto puede durar días",
+       "cat": "Sistema endocrino"
+      },
+      {
+       "texto": "Sus mensajeros son hormonas",
+       "cat": "Sistema endocrino"
+      },
+      {
+       "texto": "El mensaje viaja por neuronas",
+       "cat": "Sistema nervioso"
+      }
+     ],
+     "explicacion": "El nervioso es rápido y preciso, con impulsos y neurotransmisores. El endocrino es más lento y duradero, con hormonas que viajan por la sangre.",
+     "pista": "Buscá cada frase en la tabla de arriba."
+    },
+    {
+     "t": "texto",
+     "titulo": "El susto, de nuevo",
+     "texto": "Ante el ladrido, el sistema nervioso actuó primero: el simpático aceleró el corazón en un instante. Al mismo tiempo, ordenó a las suprarrenales que liberaran **adrenalina**. La adrenalina viajó por la sangre y mantuvo el corazón acelerado y los músculos listos. Como las hormonas tardan en retirarse de la sangre, el efecto dura varios minutos, aunque el peligro ya haya pasado."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🗣️ ¿Quién lo diría?",
+     "pregunta": "Esta frase es inventada: \"Viajo por la sangre a todo el cuerpo, pero solo me responden las células que tienen mi receptor\". ¿Quién podría decirla?",
+     "opciones": [
+      "Un neurotransmisor",
+      "Una hormona",
+      "Un impulso nervioso",
+      "Una glándula exocrina"
+     ],
+     "correcta": 1,
+     "explicacion": "Las hormonas viajan por la sangre y actúan sobre sus órganos blanco, que tienen el receptor. Los neurotransmisores, en cambio, solo cruzan el espacio sináptico.",
+     "pista": "Fijate por dónde viaja: buscá esa fila en la tabla."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Las **glándulas endocrinas** fabrican **hormonas** que viajan por la sangre hasta sus **órganos blanco**, que tienen **receptores**. Las principales son el **hipotálamo** y la **hipófisis**, la **tiroides**, las **suprarrenales**, el **páncreas**, los **ovarios** y los **testículos**. El sistema nervioso es rápido y de efecto breve; el endocrino, más lento y duradero. Muchas veces trabajan juntos, como en un susto."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Volvé a la pregunta del comienzo: el perro ya se calmó, pero seguís con el corazón rápido. ¿Qué sigue actuando?",
+     "respuesta": "La adrenalina. El sistema nervioso ordenó a las suprarrenales que la liberaran, y como viaja por la sangre y tarda en retirarse, su efecto dura varios minutos."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es el sistema endocrino y cómo actúan las hormonas. Nombrá las principales glándulas, dónde están y qué fabrican, y compará el sistema endocrino con el nervioso.",
+    "guia": [
+     "¿Qué es una hormona y qué es un órgano blanco?",
+     "¿Qué diferencia hay entre una glándula endocrina y una exocrina?",
+     "¿Dónde están la hipófisis, la tiroides, las suprarrenales y el páncreas, y qué fabrican?",
+     "¿En qué se diferencian el sistema nervioso y el endocrino?",
+     "¿Cómo trabajan juntos en un susto?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Las hormonas viajan por la sangre.",
+     "respuesta": true,
+     "explicacion": "Llegan a todo el cuerpo, pero actúan solo sobre sus órganos blanco."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las glándulas salivales son endocrinas.",
+     "respuesta": false,
+     "explicacion": "Son exocrinas: vuelcan la saliva por un conducto hacia la boca."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La tiroides necesita yodo para fabricar sus hormonas.",
+     "respuesta": true,
+     "explicacion": "Por eso es importante el yodo en la alimentación."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El efecto de las hormonas suele durar menos que el de los impulsos nerviosos.",
+     "respuesta": false,
+     "explicacion": "Dura más: minutos, días o incluso años."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El páncreas es una glándula endocrina y también exocrina.",
+     "respuesta": true,
+     "explicacion": "Fabrica hormonas y el jugo pancreático."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las suprarrenales están sobre los riñones.",
+     "respuesta": true,
+     "explicacion": "De ahí viene su nombre."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué glándula fabrica la hormona del crecimiento?",
+     "opciones": [
+      "La hipófisis",
+      "La tiroides",
+      "El páncreas",
+      "Las suprarrenales"
+     ],
+     "correcta": 0,
+     "explicacion": "Cuelga debajo del hipotálamo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es un órgano blanco?",
+     "opciones": [
+      "Un órgano con receptores para una hormona",
+      "Una glándula exocrina",
+      "Un órgano de color blanco",
+      "Un hueso que protege a las glándulas"
+     ],
+     "correcta": 0,
+     "explicacion": "Solo esos órganos responden a la hormona."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hormona prepara el cuerpo ante un peligro?",
+     "opciones": [
+      "La insulina",
+      "La adrenalina",
+      "El glucagón",
+      "La hormona del crecimiento"
+     ],
+     "correcta": 1,
+     "explicacion": "La fabrican las suprarrenales."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde está la tiroides?",
+     "opciones": [
+      "En la cabeza",
+      "En el cuello",
+      "Sobre los riñones",
+      "En el abdomen"
+     ],
+     "correcta": 1,
+     "explicacion": "Tiene forma de mariposa."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hormona fabrican los testículos?",
+     "opciones": [
+      "Estrógeno",
+      "Testosterona",
+      "Insulina",
+      "Hormona del crecimiento"
+     ],
+     "correcta": 1,
+     "explicacion": "Los ovarios fabrican estrógenos y progesterona."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de los dos sistemas responde más rápido?",
+     "opciones": [
+      "El nervioso",
+      "El endocrino",
+      "Los dos igual",
+      "Ninguno"
+     ],
+     "correcta": 0,
+     "explicacion": "Responde en milésimas de segundo."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "HORMONA",
+     "pista": "Sustancia que una glándula vuelca a la sangre."
+    },
+    {
+     "palabra": "HIPÓFISIS",
+     "pista": "Glándula debajo del hipotálamo que controla a otras."
+    },
+    {
+     "palabra": "TIROIDES",
+     "pista": "Glándula del cuello que necesita yodo."
+    },
+    {
+     "palabra": "ADRENALINA",
+     "pista": "Hormona que prepara el cuerpo ante un peligro."
+    },
+    {
+     "palabra": "RECEPTOR",
+     "pista": "Lo tiene la célula que responde a una hormona."
+    },
+    {
+     "palabra": "PÁNCREAS",
+     "pista": "Fabrica insulina y glucagón."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por dónde viajan las hormonas?",
+     "opciones": [
+      "Por la sangre",
+      "Por las neuronas",
+      "Por un conducto hacia afuera",
+      "Por los nervios"
+     ],
+     "correcta": 0,
+     "explicacion": "Así llegan a todo el cuerpo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Una hormona actúa sobre todas las células del cuerpo por igual.",
+     "respuesta": false,
+     "explicacion": "Actúa solo sobre las que tienen su receptor: las de sus órganos blanco."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué glándulas fabrican la adrenalina?",
+     "opciones": [
+      "Las suprarrenales",
+      "La tiroides",
+      "Los ovarios",
+      "Las glándulas salivales"
+     ],
+     "correcta": 0,
+     "explicacion": "Están sobre los riñones."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "El equilibrio y sus desequilibrios",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "Después de un plato de fideos, la glucosa de tu sangre sube. Después de correr un rato, baja. Sin embargo, en una persona sana, nunca se va muy lejos de un nivel normal. ¿Quién la mantiene a raya?"
+    },
+    {
+     "t": "texto",
+     "titulo": "Dos hormonas para la glucosa",
+     "texto": "En la clase 1 viste la **homeostasis**: el cuerpo mantiene estables sus condiciones internas. La cantidad de glucosa en la sangre, la **glucemia**, es un ejemplo. La regula el páncreas con dos hormonas que hacen lo contrario una de la otra:\n\nLa **insulina** baja la glucosa. Hace que las células la tomen para obtener energía y que el hígado la guarde como **glucógeno**.\n\nEl **glucagón** la sube. Hace que el hígado desarme el glucógeno y libere glucosa a la sangre."
+    },
+    {
+     "t": "texto",
+     "titulo": "La retroalimentación negativa",
+     "texto": "Cuando la glucosa sube, el páncreas lo detecta y libera insulina; la glucosa baja y el páncreas deja de liberarla. Cuando baja de más, libera glucagón. La respuesta siempre va en contra del cambio que la provocó. A ese mecanismo se lo llama **retroalimentación negativa**.\n\nPensalo así: es como un termostato. Si la casa se enfría, enciende la estufa; cuando llega a la temperatura buscada, la apaga."
+    },
+    {
+     "t": "simulador",
+     "titulo": "La glucosa en la sangre",
+     "consigna": "Probá qué pasa con la glucosa en distintas situaciones. Usá al menos dos botones.",
+     "prediccion": {
+      "pregunta": "Si comés un plato de fideos, ¿qué creés que hace el páncreas?",
+      "opciones": [
+       "Libera insulina para bajar la glucosa",
+       "Libera glucagón para subirla todavía más",
+       "No hace nada",
+       "Deja de funcionar"
+      ],
+      "correcta": 0
+     },
+     "organos": [
+      {
+       "id": "pancreas",
+       "nombre": "Páncreas",
+       "img": "img/clases/bio-4-07-pancreas.svg"
+      },
+      {
+       "id": "higado",
+       "nombre": "Hígado",
+       "img": "img/clases/bio-4-07-higado.svg"
+      }
+     ],
+     "fuente": "Dibujos del páncreas y el hígado: Mariana Ruiz Villarreal (LadyofHats), dominio público, vía Wikimedia Commons.",
+     "acciones": [
+      {
+       "icono": "<svg viewBox=\"0 0 24 24\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#6B3FA0\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"13\" r=\"7\"/><circle cx=\"12\" cy=\"13\" r=\"3.5\"/><path d=\"M3 3v5a2 2 0 0 0 2 2M5 3v18M21 3c-1.5 1-2 3-2 5s.5 3 2 3v10\"/></svg>",
+       "boton": "Comer un plato de fideos",
+       "paso1": "Los hidratos de carbono se digieren y la **glucosa** pasa a la sangre: la glucemia sube.",
+       "pico": 96,
+       "organo": "pancreas",
+       "hormona": "libera insulina",
+       "organo2": "higado",
+       "hormona2": "guarda glucógeno",
+       "paso2": "El páncreas detecta el aumento y libera **insulina**. Las células toman glucosa y el hígado guarda una parte.",
+       "final": 58,
+       "paso3": "La glucemia vuelve al nivel normal y el páncreas deja de liberar insulina."
+      },
+      {
+       "icono": "<svg viewBox=\"0 0 24 24\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#6B3FA0\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"15\" cy=\"4.5\" r=\"2\"/><path d=\"M8 21l3-6 3 2v4M6 12l3-4 4 1 3 4 3 1M11 15l-2-3\"/></svg>",
+       "boton": "Correr un buen rato",
+       "paso1": "Los músculos gastan mucha glucosa para obtener energía: la glucemia baja.",
+       "pico": 24,
+       "organo": "pancreas",
+       "hormona": "libera glucagón",
+       "organo2": "higado",
+       "hormona2": "libera glucosa",
+       "paso2": "El páncreas detecta la baja y libera **glucagón**. El hígado desarma el glucógeno y suelta glucosa a la sangre.",
+       "final": 54,
+       "paso3": "La glucemia vuelve al nivel normal."
+      },
+      {
+       "icono": "<svg viewBox=\"0 0 24 24\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#6B3FA0\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"13\" r=\"7\"/><circle cx=\"12\" cy=\"13\" r=\"3.5\"/><path d=\"M4 4l16 16\"/></svg>",
+       "boton": "Comer, sin insulina",
+       "paso1": "Este caso muestra qué pasa en la **diabetes tipo 1**: la glucosa sube después de comer.",
+       "pico": 98,
+       "organo": "pancreas",
+       "hormona": "no fabrica insulina",
+       "paso2": "El páncreas no fabrica insulina. Las células no pueden tomar bien la glucosa y el hígado no la guarda.",
+       "final": 100,
+       "paso3": "La glucosa queda alta en la sangre. Por eso las personas con diabetes tipo 1 necesitan recibir insulina."
+      }
+     ],
+     "explicacion": "El páncreas responde en contra del cambio: si la glucosa sube, libera insulina; si baja, glucagón. Eso es retroalimentación negativa. Si falta la insulina, la glucosa queda alta."
+    },
+    {
+     "t": "texto",
+     "titulo": "Cuando el equilibrio se rompe: la diabetes",
+     "texto": "La **diabetes** es una enfermedad en la que la glucosa de la sangre queda alta durante mucho tiempo. Puede dar mucha sed, ganas de orinar seguido y cansancio. Hay dos tipos principales:\n\nEn la **diabetes tipo 1**, el páncreas deja de fabricar insulina. Suele aparecer en la infancia o la adolescencia, y la persona necesita recibir insulina.\n\nEn la **diabetes tipo 2**, el páncreas fabrica insulina, pero las células no responden bien a ella. Es la más frecuente. Influyen la herencia y los hábitos, como la alimentación y la actividad física. Muchas veces se controla con cambios de hábitos y medicamentos."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada tipo de diabetes con lo que pasa con la insulina.",
+     "pares": [
+      {
+       "a": "Diabetes tipo 1",
+       "b": "El páncreas deja de fabricar insulina"
+      },
+      {
+       "a": "Diabetes tipo 2",
+       "b": "Hay insulina, pero las células no responden bien"
+      }
+     ],
+     "explicacion": "En las dos, la glucosa queda alta, pero por razones distintas.",
+     "pista": "Releé el texto Cuando el equilibrio se rompe: la diabetes."
+    },
+    {
+     "t": "texto",
+     "titulo": "Otro desequilibrio: el bocio",
+     "texto": "Si en la alimentación falta **yodo**, la tiroides no puede fabricar suficientes hormonas. La hipófisis la estimula cada vez más, y la tiroides crece hasta formar un bulto en el cuello: el **bocio**.\n\nEn algunas regiones de la Argentina, el bocio era muy común porque el agua y los alimentos tenían poco yodo. Desde 1967, una ley nacional, la **Ley 17.259**, obliga a agregar yodo a la sal que se vende para consumo. Así, una cucharadita de sal en la comida aporta el yodo que hace falta."
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Completá el dato",
+     "consigna": "¿Qué sustancia se agrega a la sal, por ley, para prevenir el bocio?",
+     "respuesta": "yodo",
+     "acepta": [
+      "yodo",
+      "el yodo",
+      "iodo"
+     ],
+     "formato": "Escribí una sola palabra.",
+     "explicacion": "La tiroides necesita yodo para fabricar sus hormonas.",
+     "pista1": "Pensá en qué necesita la tiroides para fabricar sus hormonas.",
+     "relee": "Releé el texto Otro desequilibrio: el bocio."
+    },
+    {
+     "t": "vf",
+     "consigna": "Leé cada afirmación y marcá si es verdadera o falsa.",
+     "afirmaciones": [
+      {
+       "texto": "La insulina sube la glucosa de la sangre.",
+       "v": false,
+       "explicacion": "La baja. El glucagón la sube."
+      },
+      {
+       "texto": "En la retroalimentación negativa, la respuesta va en contra del cambio.",
+       "v": true,
+       "explicacion": "Como un termostato que apaga la estufa cuando la casa ya está caliente."
+      },
+      {
+       "texto": "El hígado guarda glucosa en forma de glucógeno.",
+       "v": true,
+       "explicacion": "Y la libera cuando el glucagón se lo indica."
+      },
+      {
+       "texto": "En la diabetes tipo 2 el páncreas no fabrica nada de insulina.",
+       "v": false,
+       "explicacion": "Fabrica insulina, pero las células no responden bien. Eso pasa en la tipo 2; en la tipo 1 deja de fabricarla."
+      }
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "La **insulina** baja la glucemia y el **glucagón** la sube: las dos las fabrica el **páncreas**. La **retroalimentación negativa** es una respuesta que va en contra del cambio. En la **diabetes tipo 1** falta insulina; en la **tipo 2**, las células no responden bien a ella. La falta de **yodo** puede causar **bocio**; por eso, desde 1967, la sal tiene yodo agregado por ley."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: una persona con diabetes tipo 1 se aplica insulina antes de comer. ¿Por qué justo antes de comer?",
+     "respuesta": "Porque después de comer la glucosa sube. Su páncreas no fabrica insulina, así que la recibe desde afuera para que las células puedan tomar esa glucosa y la glucemia no quede alta."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá cómo el páncreas regula la glucosa de la sangre y qué es la retroalimentación negativa. Describí la diabetes tipo 1 y tipo 2, y el bocio.",
+    "guia": [
+     "¿Qué hacen la insulina y el glucagón?",
+     "¿Qué pasa en el cuerpo después de comer y después de correr?",
+     "¿Qué es la retroalimentación negativa? Dá un ejemplo.",
+     "¿En qué se diferencian la diabetes tipo 1 y la tipo 2?",
+     "¿Por qué la falta de yodo produce bocio y qué dispone la Ley 17.259?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El glucagón sube la glucosa de la sangre.",
+     "respuesta": true,
+     "explicacion": "Hace que el hígado libere glucosa."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Después de comer fideos, el páncreas libera glucagón.",
+     "respuesta": false,
+     "explicacion": "Libera insulina, porque la glucosa sube."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La diabetes tipo 2 es la más frecuente.",
+     "respuesta": true,
+     "explicacion": "Influyen la herencia y los hábitos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El bocio es un crecimiento de la tiroides.",
+     "respuesta": true,
+     "explicacion": "Puede producirse por falta de yodo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un termostato es un ejemplo de retroalimentación negativa.",
+     "respuesta": true,
+     "explicacion": "Apaga la estufa cuando la casa llega a la temperatura buscada."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La sal en la Argentina tiene yodo agregado por ley desde 2010.",
+     "respuesta": false,
+     "explicacion": "Desde 1967, por la Ley 17.259."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hormona baja la glucosa de la sangre?",
+     "opciones": [
+      "La insulina",
+      "El glucagón",
+      "La adrenalina",
+      "La hormona del crecimiento"
+     ],
+     "correcta": 0,
+     "explicacion": "La fabrica el páncreas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo guarda el hígado la glucosa?",
+     "opciones": [
+      "Como almidón",
+      "Como glucógeno",
+      "Como grasa en los huesos",
+      "Como urea"
+     ],
+     "correcta": 1,
+     "explicacion": "Lo desarma cuando hace falta."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué pasa en la diabetes tipo 1?",
+     "opciones": [
+      "El páncreas deja de fabricar insulina",
+      "Las células no responden a la insulina",
+      "Falta yodo",
+      "Sobra glucagón"
+     ],
+     "correcta": 0,
+     "explicacion": "Por eso la persona necesita recibir insulina."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué nutriente necesita la tiroides?",
+     "opciones": [
+      "Hierro",
+      "Yodo",
+      "Calcio",
+      "Sodio"
+     ],
+     "correcta": 1,
+     "explicacion": "Sin él, no fabrica suficientes hormonas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos puede ser un signo de diabetes?",
+     "opciones": [
+      "Mucha sed",
+      "Pelo más claro",
+      "Uñas más largas",
+      "Mejor vista"
+     ],
+     "correcta": 0,
+     "explicacion": "También ganas de orinar seguido y cansancio."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la glucemia?",
+     "opciones": [
+      "La glucosa en la sangre",
+      "Una glándula",
+      "Un tipo de diabetes",
+      "Una hormona que fabrica el hígado"
+     ],
+     "correcta": 0,
+     "explicacion": "El páncreas la mantiene en un nivel normal."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "INSULINA",
+     "pista": "Hormona que baja la glucosa."
+    },
+    {
+     "palabra": "GLUCAGÓN",
+     "pista": "Hormona que sube la glucosa."
+    },
+    {
+     "palabra": "GLUCÓGENO",
+     "pista": "Forma en que el hígado guarda la glucosa."
+    },
+    {
+     "palabra": "DIABETES",
+     "pista": "Enfermedad con la glucosa alta."
+    },
+    {
+     "palabra": "BOCIO",
+     "pista": "Crecimiento de la tiroides."
+    },
+    {
+     "palabra": "YODO",
+     "pista": "Se agrega a la sal por ley."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Si la glucosa baja después de correr, ¿qué libera el páncreas?",
+     "opciones": [
+      "Glucagón",
+      "Insulina",
+      "Adrenalina",
+      "Yodo"
+     ],
+     "correcta": 0,
+     "explicacion": "Para que el hígado suelte glucosa."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la retroalimentación negativa, la respuesta refuerza el cambio.",
+     "respuesta": false,
+     "explicacion": "Va en contra del cambio y lo corrige."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia hay entre la diabetes tipo 1 y la tipo 2?",
+     "opciones": [
+      "En la 1 falta insulina; en la 2, no se responde bien a ella",
+      "La 1 es por falta de yodo en la sal",
+      "La 2 aparece solo en bebés recién nacidos",
+      "No hay ninguna diferencia entre las dos"
+     ],
+     "correcta": 0,
+     "explicacion": "En las dos la glucosa queda alta."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Nervios y hormonas juntos",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "Un renacuajo vive en el agua, respira con branquias y nada con la cola. En pocas semanas se convierte en una rana con patas y pulmones, que puede salir del agua. ¿Quién da la orden de semejante cambio?"
+    },
+    {
+     "t": "texto",
+     "titulo": "El hipotálamo: donde se unen los dos sistemas",
+     "texto": "El **hipotálamo** es una parte del encéfalo, o sea, del sistema nervioso. Pero algunas de sus neuronas fabrican hormonas. Por eso es el punto donde el sistema nervioso y el endocrino se conectan: se habla de **coordinación neuroendocrina**.\n\nEl hipotálamo recibe información del cuerpo y del ambiente a través del sistema nervioso, y le envía órdenes a la **hipófisis**. La hipófisis, a su vez, libera hormonas que estimulan a otras glándulas, como la tiroides, las suprarrenales, los ovarios y los testículos. Es una cadena de órdenes."
+    },
+    {
+     "t": "imagen",
+     "titulo": "Una cadena de órdenes: hipotálamo, hipófisis y tiroides",
+     "src": "img/clases/bio-4-07-eje.svg",
+     "tipo": "grafico",
+     "alt": "Esquema en cadena. El hipotálamo, en el encéfalo, envía una orden a la hipófisis. La hipófisis libera una hormona que estimula la tiroides. La tiroides fabrica hormonas tiroideas, que viajan por la sangre hasta los órganos: en una persona regulan el uso de la energía; en un renacuajo, desencadenan la metamorfosis. Una flecha punteada vuelve desde las hormonas tiroideas hacia el hipotálamo y la hipófisis: cuando hay suficiente cantidad, frenan la orden.",
+     "epigrafe": "Esquema elaborado para esta clase.",
+     "src_movil": "img/clases/bio-4-07-eje-movil.svg",
+     "animacion": "svg",
+     "_imagen": true
+    },
+    {
+     "t": "texto",
+     "titulo": "La cadena también se frena",
+     "texto": "Cuando las hormonas tiroideas llegan a la cantidad necesaria, actúan también sobre el hipotálamo y la hipófisis, y frenan la orden. Es otra vez la **retroalimentación negativa** de la parte 2. Así la cantidad de hormona se mantiene estable.\n\nEn el bocio pasa lo contrario: como falta yodo, la tiroides no fabrica suficientes hormonas, la orden no se frena y la tiroides recibe cada vez más estímulo."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "El [[hipotálamo]], que es parte del encéfalo, envía una orden a la [[hipófisis]]. Esta libera una hormona que estimula la [[tiroides]]. Cuando hay suficientes hormonas tiroideas, la orden se frena: es [[retroalimentación]] negativa.",
+     "explicacion": "Es la cadena del esquema, con su freno.",
+     "pista": "Mirá el esquema de la cadena de órdenes."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená la cadena de órdenes, desde que se da la orden hasta que responden los órganos.",
+     "items": [
+      "El hipotálamo da la orden",
+      "La hipófisis libera una hormona que estimula la tiroides",
+      "La tiroides fabrica hormonas tiroideas",
+      "Las hormonas viajan por la sangre",
+      "Los órganos responden"
+     ],
+     "explicacion": "Es la cadena del esquema: hipotálamo, hipófisis, tiroides, sangre y órganos.",
+     "pista": "Seguí las flechas del esquema de arriba."
+    },
+    {
+     "t": "texto",
+     "titulo": "La metamorfosis de la rana",
+     "texto": "En el renacuajo, cuando llega el momento, el hipotálamo y la hipófisis estimulan a la tiroides. Las **hormonas tiroideas** desencadenan la **metamorfosis**: la cola se reabsorbe, crecen las patas, los pulmones reemplazan a las branquias y cambia el sistema digestivo.\n\nLa misma cadena existe en todos los **vertebrados**: peces, anfibios, reptiles, aves y mamíferos. En las personas, por ejemplo, el hipotálamo y la hipófisis activan los ovarios y los testículos al comenzar la pubertad."
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/bio-4-07-metamorfosis.webp",
+     "tipo": "ilustracion",
+     "animacion": "alejar",
+     "alt": "Ilustración de la metamorfosis de la rana en cinco etapas, de izquierda a derecha, sobre una hoja de camalote: un renacuajo sin patas, un renacuajo con patas de atrás, uno con cuatro patas y la cola más corta, una rana joven con un resto de cola y una rana adulta.",
+     "epigrafe": "Ilustración elaborada para esta clase.",
+     "_imagen": true
+    },
+    {
+     "t": "dato",
+     "titulo": "Dato curioso",
+     "texto": "En 1912, el médico Friedrich Gudernatsch alimentó renacuajos con trocitos de tiroides de caballo. Los renacuajos se transformaron en ranas antes de tiempo, y muy pequeñas. Fue una de las primeras pruebas de que la tiroides controla la metamorfosis."
+    },
+    {
+     "t": "historieta",
+     "titulo": "Tres opiniones",
+     "situacion": "En una clase de Biología, el grupo mira un video de un renacuajo que se transforma en rana. Tres estudiantes discuten por qué ocurre.",
+     "personajes": [
+      {
+       "nombre": "Lucía",
+       "img": "img/clases/bio-4-07-lucia.webp",
+       "color": "#6B3FA0",
+       "dice": "El renacuajo decide cambiar cuando tiene ganas de salir del agua.",
+       "por_que": "El renacuajo no decide su metamorfosis: la desencadenan las hormonas tiroideas."
+      },
+      {
+       "nombre": "Mateo",
+       "img": "img/clases/bio-4-07-mateo.webp",
+       "color": "#2F5597",
+       "dice": "Lo desencadenan las hormonas de la tiroides, que se activa por orden del hipotálamo y la hipófisis.",
+       "por_que": ""
+      },
+      {
+       "nombre": "Sofía",
+       "img": "img/clases/bio-4-07-sofia.webp",
+       "color": "#4E7A1E",
+       "dice": "Es porque come mucho y crece. Al ser más grande, se convierte en rana.",
+       "por_que": "Crecer no alcanza: en el experimento de Gudernatsch, los renacuajos se transformaron antes de tiempo, y siendo muy pequeños, por las hormonas tiroideas."
+      }
+     ],
+     "pregunta": "¿Quién tiene razón?",
+     "correcta": 1,
+     "explicacion": "La metamorfosis es un ejemplo de coordinación neuroendocrina: el hipotálamo y la hipófisis estimulan la tiroides, y sus hormonas producen los cambios.",
+     "pista": "Releé el texto La metamorfosis de la rana."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "📰 Elegí el titular",
+     "pregunta": "Una revista de ciencia para estudiantes publica una nota sobre lo que viste en esta parte. ¿Qué titular es correcto?",
+     "opciones": [
+      "El hipotálamo une los sistemas nervioso y endocrino",
+      "La hipófisis trabaja sola, sin recibir órdenes de nadie",
+      "Solo las ranas tienen hipófisis",
+      "Las hormonas tiroideas no cambian nada en el renacuajo"
+     ],
+     "correcta": 0,
+     "explicacion": "El hipotálamo es parte del encéfalo y fabrica hormonas que controlan la hipófisis. Esta cadena existe en todos los vertebrados.",
+     "pista": "Releé el texto El hipotálamo: donde se unen los dos sistemas."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "El **hipotálamo** es parte del encéfalo y fabrica hormonas: ahí se unen el sistema nervioso y el endocrino (**coordinación neuroendocrina**). Controla la **hipófisis**, que estimula a otras glándulas, como la **tiroides**. Cuando hay suficientes hormonas, la orden se frena (**retroalimentación negativa**). En los anfibios, las **hormonas tiroideas** desencadenan la **metamorfosis**. Esta cadena existe en todos los **vertebrados**."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: si a un renacuajo le quitaran la tiroides, ¿qué creés que pasaría?",
+     "respuesta": "No haría la metamorfosis: seguiría siendo renacuajo, aunque siguiera creciendo. Sin hormonas tiroideas, no hay orden para transformarse. Experimentos así se hicieron y muestran justamente eso."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es la coordinación neuroendocrina y por qué el hipotálamo es clave. Describí la cadena hipotálamo, hipófisis y tiroides, cómo se frena, y qué tiene que ver con la metamorfosis de la rana.",
+    "guia": [
+     "¿Por qué el hipotálamo une el sistema nervioso y el endocrino?",
+     "¿Qué hace la hipófisis?",
+     "¿Cómo es la cadena de órdenes hasta la tiroides?",
+     "¿Cómo se frena esa cadena?",
+     "¿Qué cambios produce la metamorfosis y qué hormonas la desencadenan?",
+     "¿En qué animales existe esta cadena?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El hipotálamo forma parte del encéfalo.",
+     "respuesta": true,
+     "explicacion": "Y algunas de sus neuronas fabrican hormonas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La hipófisis controla a otras glándulas.",
+     "respuesta": true,
+     "explicacion": "Por ejemplo, la tiroides."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las hormonas tiroideas desencadenan la metamorfosis de la rana.",
+     "respuesta": true,
+     "explicacion": "La cola se reabsorbe y crecen las patas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La cadena hipotálamo-hipófisis existe solo en los mamíferos.",
+     "respuesta": false,
+     "explicacion": "Existe en todos los vertebrados."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Cuando hay suficientes hormonas tiroideas, la orden se frena.",
+     "respuesta": true,
+     "explicacion": "Es retroalimentación negativa."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la metamorfosis, las branquias reemplazan a los pulmones.",
+     "respuesta": false,
+     "explicacion": "Al revés: los pulmones reemplazan a las branquias."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde se unen el sistema nervioso y el endocrino?",
+     "opciones": [
+      "En el hipotálamo",
+      "En el páncreas",
+      "En los riñones",
+      "En la pared del estómago"
+     ],
+     "correcta": 0,
+     "explicacion": "Es parte del encéfalo y fabrica hormonas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué glándula recibe directamente las órdenes del hipotálamo?",
+     "opciones": [
+      "La tiroides",
+      "La hipófisis",
+      "El páncreas",
+      "Las suprarrenales"
+     ],
+     "correcta": 1,
+     "explicacion": "Cuelga debajo del hipotálamo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué le pasa a la cola del renacuajo durante la metamorfosis?",
+     "opciones": [
+      "Se reabsorbe",
+      "Crece más",
+      "Se convierte en una pata",
+      "No cambia"
+     ],
+     "correcta": 0,
+     "explicacion": "El cuerpo la reabsorbe."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hizo Gudernatsch en 1912?",
+     "opciones": [
+      "Dio tiroides a renacuajos",
+      "Descubrió la insulina",
+      "Inventó el primer microscopio",
+      "Agregó yodo a la sal de cocina"
+     ],
+     "correcta": 0,
+     "explicacion": "Los renacuajos se transformaron antes de tiempo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué glándulas activan el hipotálamo y la hipófisis al comenzar la pubertad?",
+     "opciones": [
+      "Los ovarios y los testículos",
+      "Las glándulas salivales",
+      "El páncreas y el hígado",
+      "Los riñones y la vejiga urinaria"
+     ],
+     "correcta": 0,
+     "explicacion": "Fabrican las hormonas sexuales."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo se llama el mecanismo que frena la cadena de órdenes?",
+     "opciones": [
+      "Retroalimentación negativa",
+      "Metamorfosis",
+      "Sinapsis",
+      "Coordinación por reflejo medular"
+     ],
+     "correcta": 0,
+     "explicacion": "La respuesta va en contra del cambio."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "HIPOTÁLAMO",
+     "pista": "Parte del encéfalo que fabrica hormonas."
+    },
+    {
+     "palabra": "METAMORFOSIS",
+     "pista": "Transformación del renacuajo en rana."
+    },
+    {
+     "palabra": "RENACUAJO",
+     "pista": "Larva de la rana, que vive en el agua."
+    },
+    {
+     "palabra": "VERTEBRADOS",
+     "pista": "Animales con columna vertebral."
+    },
+    {
+     "palabra": "BRANQUIAS",
+     "pista": "Con ellas respira el renacuajo."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué se dice que el hipotálamo une los dos sistemas?",
+     "opciones": [
+      "Es parte del encéfalo y fabrica hormonas",
+      "Porque está en el cuello, junto a la tiroides",
+      "Porque fabrica insulina",
+      "Porque es un músculo"
+     ],
+     "correcta": 0,
+     "explicacion": "Es nervioso y endocrino a la vez."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La metamorfosis de la rana es un ejemplo de coordinación neuroendocrina.",
+     "respuesta": true,
+     "explicacion": "Intervienen el hipotálamo, la hipófisis y la tiroides."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué glándula fabrica las hormonas que desencadenan la metamorfosis?",
+     "opciones": [
+      "La tiroides",
+      "El páncreas",
+      "Las suprarrenales",
+      "Los ovarios"
+     ],
+     "correcta": 0,
+     "explicacion": "Lo hace por orden de la hipófisis."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Hormona",
+   "definicion": "Sustancia que fabrica una glándula endocrina y viaja por la sangre hasta sus órganos blanco."
+  },
+  {
+   "palabra": "Glándula endocrina",
+   "definicion": "Glándula que vuelca sus hormonas a la sangre."
+  },
+  {
+   "palabra": "Órgano blanco",
+   "definicion": "Órgano cuyas células tienen receptores para una hormona y responden a ella."
+  },
+  {
+   "palabra": "Insulina",
+   "definicion": "Hormona del páncreas que baja la glucosa de la sangre."
+  },
+  {
+   "palabra": "Retroalimentación negativa",
+   "definicion": "Mecanismo en el que la respuesta va en contra del cambio que la provocó y lo corrige."
+  },
+  {
+   "palabra": "Hipotálamo",
+   "definicion": "Parte del encéfalo que fabrica hormonas y controla la hipófisis: une el sistema nervioso y el endocrino."
+  },
+  {
+   "palabra": "Metamorfosis",
+   "definicion": "Transformación del renacuajo en rana, desencadenada por las hormonas tiroideas."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Las hormonas actúan sobre todas las células del cuerpo.",
+   "aclaracion": "Viajan a todo el cuerpo, pero actúan solo sobre las células que tienen su receptor."
+  },
+  {
+   "error": "La insulina sube el azúcar de la sangre.",
+   "aclaracion": "La baja. La que la sube es el glucagón."
+  },
+  {
+   "error": "El sistema nervioso y el endocrino funcionan por separado.",
+   "aclaracion": "Trabajan juntos: el hipotálamo, que es parte del encéfalo, controla la hipófisis, y el sistema nervioso ordena liberar adrenalina."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Pensá en todo lo que viste en estas siete clases: ¿qué sistemas intervienen, y cómo se coordinan, cuando corrés para alcanzar un colectivo?",
+  "conexion": "Con todas las clases anteriores y con tu trabajo práctico."
+ }
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 330" role="img" aria-label="Cuatro tarjetas con un dibujo cada una: el paisaje, los trabajos y las costumbres, la lengua y la historia." font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect width="1000" height="330" fill="#fff"/>
+<rect x="20" y="20" width="225" height="290" rx="22" fill="#EFEAFB" stroke="#E2DAF6" stroke-width="3"/>
+<circle cx="172" cy="80" r="22" fill="#F0731E"/><path d="M52 170 L107 90 L147 140 L172 110 L212 170Z" fill="#4B4FA3"/><rect x="52" y="168" width="160" height="14" rx="6" fill="#1F9D6B"/>
+<text x="132" y="262" font-size="24" font-weight="800" fill="#1B1A4A" text-anchor="middle" >El paisaje</text>
+<rect x="265" y="20" width="225" height="290" rx="22" fill="#EFEAFB" stroke="#E2DAF6" stroke-width="3"/>
+<path d="M317 120 H437 Q432 180 377 180 Q322 180 317 120Z" fill="#B83A7A"/><rect x="307" y="110" width="140" height="14" rx="7" fill="#5B2A86"/><path d="M352 100 q-8 -20 6 -36 M377 100 q-8 -20 6 -36 M402 100 q-8 -20 6 -36" stroke="#E2DAF6" stroke-width="5" fill="none" stroke-linecap="round"/>
+<text x="377" y="245" font-size="24" font-weight="800" fill="#1B1A4A" text-anchor="middle" >Los trabajos y</text><text x="377" y="275" font-size="24" font-weight="800" fill="#1B1A4A" text-anchor="middle" >las costumbres</text>
+<rect x="510" y="20" width="225" height="290" rx="22" fill="#EFEAFB" stroke="#E2DAF6" stroke-width="3"/>
+<path d="M552 70 h140 a16 16 0 0 1 16 16 v60 a16 16 0 0 1 -16 16 h-90 l-30 26 v-26 h-20 a16 16 0 0 1 -16 -16 v-60 a16 16 0 0 1 16 -16z" fill="#4B4FA3"/><text x="622" y="128" font-size="26" font-weight="800" fill="#fff" text-anchor="middle" >&quot;gurí&quot;</text>
+<text x="622" y="262" font-size="24" font-weight="800" fill="#1B1A4A" text-anchor="middle" >La lengua</text>
+<rect x="755" y="20" width="225" height="290" rx="22" fill="#EFEAFB" stroke="#E2DAF6" stroke-width="3"/>
+<path d="M827 70 H907 L873 125 L907 180 H827 L861 125Z" fill="#E2DAF6" stroke="#5B2A86" stroke-width="5"/><path d="M845 168 H889 L867 140Z" fill="#F0731E"/>
+<text x="867" y="262" font-size="24" font-weight="800" fill="#1B1A4A" text-anchor="middle" >La historia</text>
+</svg>

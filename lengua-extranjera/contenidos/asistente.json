@@ -1,0 +1,1924 @@
+{
+  "descripcion": "Contenido del asistente de Lengua Extranjera (Inglés), sin IA. Revisar con docente de Inglés antes de usar con estudiantes.",
+  "palabras": [
+    {
+      "palabra": "Pasado simple",
+      "definicion": "Tiempo verbal que cuenta acciones terminadas en el pasado. En inglés se llama Past simple y el verbo es igual para todas las personas: I worked, she worked.",
+      "formas": [
+        "past simple",
+        "pasado",
+        "simple past"
+      ]
+    },
+    {
+      "palabra": "Verbo regular",
+      "definicion": "Verbo que forma el pasado agregando -ed (work → worked), o -d si termina en e (live → lived).",
+      "formas": [
+        "verbos regulares",
+        "regular",
+        "regulares"
+      ]
+    },
+    {
+      "palabra": "Verbo irregular",
+      "definicion": "Verbo cuyo pasado no termina en -ed y hay que aprenderlo de memoria: go → went, write → wrote.",
+      "formas": [
+        "verbos irregulares",
+        "irregular",
+        "irregulares"
+      ]
+    },
+    {
+      "palabra": "Forma base",
+      "definicion": "El verbo tal como aparece en el diccionario, sin -ed, sin -s y sin forma irregular: win, go, play. Va después de did, didn't y used to.",
+      "formas": [
+        "verbo base",
+        "base",
+        "infinitivo"
+      ]
+    },
+    {
+      "palabra": "-ed",
+      "definicion": "Terminación del pasado de los verbos regulares. Se pronuncia /t/ (worked), /d/ (played) o /ɪd/ (wanted).",
+      "formas": [
+        "ed",
+        "terminacion ed"
+      ]
+    },
+    {
+      "palabra": "Did",
+      "definicion": "Auxiliar para preguntar en pasado: Did she win the prize? Después va el verbo base.",
+      "formas": [
+        "did"
+      ]
+    },
+    {
+      "palabra": "Didn't",
+      "definicion": "Forma corta de did not. Sirve para negar en pasado: She didn't win. Después va el verbo base.",
+      "formas": [
+        "didnt",
+        "did not",
+        "didn t"
+      ]
+    },
+    {
+      "palabra": "Was",
+      "definicion": "Pasado del verbo be (ser o estar) con I, he, she e it: She was a doctor.",
+      "formas": [
+        "was"
+      ]
+    },
+    {
+      "palabra": "Were",
+      "definicion": "Pasado del verbo be (ser o estar) con you, we y they: They were inventors.",
+      "formas": [
+        "were"
+      ]
+    },
+    {
+      "palabra": "Was born",
+      "definicion": "Nació. En inglés \"nacer\" se dice con el verbo be: He was born in 1847.",
+      "formas": [
+        "born",
+        "was born",
+        "were born"
+      ]
+    },
+    {
+      "palabra": "Yesterday",
+      "definicion": "Ayer.",
+      "formas": [
+        "yesterday"
+      ]
+    },
+    {
+      "palabra": "Ago",
+      "definicion": "Hace (tiempo). Two years ago: hace dos años.",
+      "formas": [
+        "ago"
+      ]
+    },
+    {
+      "palabra": "Last",
+      "definicion": "Pasado, pasada, en expresiones de tiempo: last week (la semana pasada), last Saturday (el sábado pasado).",
+      "formas": [
+        "last",
+        "last week"
+      ]
+    },
+    {
+      "palabra": "Went",
+      "definicion": "Ir, en pasado: fui, fue, fueron. Es el pasado irregular de go.",
+      "formas": [
+        "went",
+        "go"
+      ]
+    },
+    {
+      "palabra": "Became",
+      "definicion": "Se convirtió, llegó a ser. Es el pasado irregular de become.",
+      "formas": [
+        "became",
+        "become"
+      ]
+    },
+    {
+      "palabra": "Won",
+      "definicion": "Ganó. Es el pasado irregular de win.",
+      "formas": [
+        "won",
+        "win"
+      ]
+    },
+    {
+      "palabra": "Wrote",
+      "definicion": "Escribió. Es el pasado irregular de write.",
+      "formas": [
+        "wrote",
+        "write"
+      ]
+    },
+    {
+      "palabra": "Built",
+      "definicion": "Construyó. Es el pasado irregular de build.",
+      "formas": [
+        "built",
+        "build"
+      ]
+    },
+    {
+      "palabra": "Found",
+      "definicion": "Encontró. Es el pasado irregular de find.",
+      "formas": [
+        "found",
+        "find"
+      ]
+    },
+    {
+      "palabra": "Patented",
+      "definicion": "Patentó: registró un invento a su nombre. Es el pasado de patent.",
+      "formas": [
+        "patented",
+        "patent",
+        "patentar"
+      ]
+    },
+    {
+      "palabra": "Moved",
+      "definicion": "Se mudó. Es el pasado de move.",
+      "formas": [
+        "moved",
+        "move"
+      ]
+    },
+    {
+      "palabra": "Ballpoint pen",
+      "definicion": "Birome o lapicera. La patentó Ladislao Biro en la Argentina, en 1943.",
+      "formas": [
+        "ballpoint pen",
+        "birome",
+        "lapicera"
+      ]
+    },
+    {
+      "palabra": "Biografía",
+      "definicion": "Texto que cuenta la vida de una persona en orden, desde que nació. En inglés se escribe en pasado simple.",
+      "formas": [
+        "biography",
+        "biografias"
+      ]
+    },
+    {
+      "palabra": "Finally",
+      "definicion": "Finalmente. Sirve para cerrar una biografía o un relato.",
+      "formas": [
+        "finally"
+      ]
+    },
+    {
+      "palabra": "Later",
+      "definicion": "Más tarde. Sirve para ordenar los hechos de una biografía.",
+      "formas": [
+        "later"
+      ]
+    },
+    {
+      "palabra": "Then",
+      "definicion": "Luego, después. En la clase de used to también quiere decir \"en ese entonces\".",
+      "formas": [
+        "then"
+      ]
+    },
+    {
+      "palabra": "Used to",
+      "definicion": "Solía, -aba: sirve para hablar de costumbres o situaciones del pasado que ya no ocurren. I used to play with toy cars.",
+      "formas": [
+        "used to",
+        "used"
+      ]
+    },
+    {
+      "palabra": "Use to",
+      "definicion": "Así se escribe used to en las negaciones y las preguntas, sin la d final: I didn't use to…, Did you use to…?",
+      "formas": [
+        "use to",
+        "didn't use to",
+        "didnt use to"
+      ]
+    },
+    {
+      "palabra": "There used to be",
+      "definicion": "Antes había. There used to be a cinema in my town: antes había un cine en mi ciudad.",
+      "formas": [
+        "there used to be"
+      ]
+    },
+    {
+      "palabra": "There is",
+      "definicion": "Hay (con una cosa): Now there is a supermarket.",
+      "formas": [
+        "there is"
+      ]
+    },
+    {
+      "palabra": "There are",
+      "definicion": "Hay (con varias cosas): Now there are many shops.",
+      "formas": [
+        "there are"
+      ]
+    },
+    {
+      "palabra": "Presente simple",
+      "definicion": "Tiempo verbal que se usa para hablar de ahora. Con he, she e it el verbo lleva -s o -es: she sends, he watches.",
+      "formas": [
+        "present simple",
+        "presente"
+      ]
+    },
+    {
+      "palabra": "Nowadays",
+      "definicion": "Hoy en día.",
+      "formas": [
+        "nowadays"
+      ]
+    },
+    {
+      "palabra": "In the past",
+      "definicion": "En el pasado.",
+      "formas": [
+        "in the past"
+      ]
+    },
+    {
+      "palabra": "Now",
+      "definicion": "Ahora.",
+      "formas": [
+        "now"
+      ]
+    },
+    {
+      "palabra": "But",
+      "definicion": "Pero. Une dos ideas que se oponen: People used to write letters, but now they send messages.",
+      "formas": [
+        "but"
+      ]
+    },
+    {
+      "palabra": "So",
+      "definicion": "Así que. Presenta una consecuencia: We didn't have a TV, so we listened to the radio.",
+      "formas": [
+        "so"
+      ]
+    },
+    {
+      "palabra": "Letters",
+      "definicion": "Cartas.",
+      "formas": [
+        "letters",
+        "letter"
+      ]
+    },
+    {
+      "palabra": "Mobile phone",
+      "definicion": "Teléfono celular.",
+      "formas": [
+        "mobile phone",
+        "mobile",
+        "celular"
+      ]
+    },
+    {
+      "palabra": "Public phone",
+      "definicion": "Teléfono público.",
+      "formas": [
+        "public phone",
+        "public phones"
+      ]
+    },
+    {
+      "palabra": "Newspaper",
+      "definicion": "Diario (el de papel).",
+      "formas": [
+        "newspaper"
+      ]
+    },
+    {
+      "palabra": "Town",
+      "definicion": "Ciudad o pueblo.",
+      "formas": [
+        "town"
+      ]
+    },
+    {
+      "palabra": "Country",
+      "definicion": "En esta clase quiere decir \"el campo\": They lived in the country.",
+      "formas": [
+        "country"
+      ]
+    },
+    {
+      "palabra": "Quiet",
+      "definicion": "Tranquilo.",
+      "formas": [
+        "quiet"
+      ]
+    },
+    {
+      "palabra": "Noisy",
+      "definicion": "Ruidoso.",
+      "formas": [
+        "noisy"
+      ]
+    },
+    {
+      "palabra": "Studied",
+      "definicion": "Estudió (pasado de study, estudiar). Consonante + y: la y cambia por -ied.",
+      "formas": []
+    },
+    {
+      "palabra": "Study",
+      "definicion": "Estudiar. Con he o she: studies. En pasado: studied.",
+      "formas": []
+    },
+    {
+      "palabra": "Studies",
+      "definicion": "Study con he, she e it: estudia.",
+      "formas": []
+    },
+    {
+      "palabra": "Worked",
+      "definicion": "Trabajó (pasado de work, trabajar).",
+      "formas": []
+    },
+    {
+      "palabra": "Work",
+      "definicion": "Trabajar. Con he o she: works. En pasado: worked.",
+      "formas": []
+    },
+    {
+      "palabra": "Played",
+      "definicion": "Jugó o tocó un instrumento (pasado de play).",
+      "formas": []
+    },
+    {
+      "palabra": "Play",
+      "definicion": "Jugar o tocar un instrumento. Con he o she: plays. En pasado: played.",
+      "formas": []
+    },
+    {
+      "palabra": "Lived",
+      "definicion": "Vivió (pasado de live, vivir).",
+      "formas": []
+    },
+    {
+      "palabra": "Live",
+      "definicion": "Vivir. Con he o she: lives. En pasado: lived.",
+      "formas": []
+    },
+    {
+      "palabra": "Stopped",
+      "definicion": "Paró, se detuvo (pasado de stop). Se duplica la p.",
+      "formas": []
+    },
+    {
+      "palabra": "Stop",
+      "definicion": "Parar, detenerse.",
+      "formas": []
+    },
+    {
+      "palabra": "Planned",
+      "definicion": "Planeó (pasado de plan). Se duplica la n.",
+      "formas": []
+    },
+    {
+      "palabra": "Invented",
+      "definicion": "Inventó (pasado de invent).",
+      "formas": []
+    },
+    {
+      "palabra": "Invent",
+      "definicion": "Inventar.",
+      "formas": []
+    },
+    {
+      "palabra": "Watched",
+      "definicion": "Miró (pasado de watch).",
+      "formas": []
+    },
+    {
+      "palabra": "Watch",
+      "definicion": "Mirar. Con he o she: watches.",
+      "formas": []
+    },
+    {
+      "palabra": "Watches",
+      "definicion": "Watch con he, she e it: mira.",
+      "formas": []
+    },
+    {
+      "palabra": "Visited",
+      "definicion": "Visitó (pasado de visit).",
+      "formas": []
+    },
+    {
+      "palabra": "Visit",
+      "definicion": "Visitar.",
+      "formas": []
+    },
+    {
+      "palabra": "Cooked",
+      "definicion": "Cocinó (pasado de cook).",
+      "formas": []
+    },
+    {
+      "palabra": "Rained",
+      "definicion": "Llovió (pasado de rain).",
+      "formas": []
+    },
+    {
+      "palabra": "Stayed",
+      "definicion": "Se quedó (pasado de stay).",
+      "formas": []
+    },
+    {
+      "palabra": "Danced",
+      "definicion": "Bailó (pasado de dance).",
+      "formas": []
+    },
+    {
+      "palabra": "Dance",
+      "definicion": "Bailar. Con -ing: dancing.",
+      "formas": []
+    },
+    {
+      "palabra": "Wanted",
+      "definicion": "Quiso, quería (pasado de want).",
+      "formas": []
+    },
+    {
+      "palabra": "Needed",
+      "definicion": "Necesitó (pasado de need).",
+      "formas": []
+    },
+    {
+      "palabra": "Opened",
+      "definicion": "Abrió (pasado de open).",
+      "formas": []
+    },
+    {
+      "palabra": "Tried",
+      "definicion": "Intentó, probó (pasado de try).",
+      "formas": []
+    },
+    {
+      "palabra": "Cried",
+      "definicion": "Lloró (pasado de cry).",
+      "formas": []
+    },
+    {
+      "palabra": "Enjoyed",
+      "definicion": "Disfrutó (pasado de enjoy).",
+      "formas": []
+    },
+    {
+      "palabra": "Had",
+      "definicion": "Tuvo (pasado de have).",
+      "formas": []
+    },
+    {
+      "palabra": "Made",
+      "definicion": "Hizo, fabricó (pasado de make).",
+      "formas": []
+    },
+    {
+      "palabra": "Saw",
+      "definicion": "Vio (pasado de see).",
+      "formas": []
+    },
+    {
+      "palabra": "Discovered",
+      "definicion": "Descubrió (pasado de discover).",
+      "formas": []
+    },
+    {
+      "palabra": "Died",
+      "definicion": "Murió (pasado de die).",
+      "formas": []
+    },
+    {
+      "palabra": "Noticed",
+      "definicion": "Notó, se dio cuenta (pasado de notice).",
+      "formas": []
+    },
+    {
+      "palabra": "Heard",
+      "definicion": "Escuchó, oyó (pasado de hear).",
+      "formas": []
+    },
+    {
+      "palabra": "Turned",
+      "definicion": "Se dio vuelta, giró (pasado de turn).",
+      "formas": []
+    },
+    {
+      "palabra": "Ran",
+      "definicion": "Corrió (pasado de run).",
+      "formas": []
+    },
+    {
+      "palabra": "Fell",
+      "definicion": "Cayó (pasado de fall).",
+      "formas": []
+    },
+    {
+      "palabra": "Walked",
+      "definicion": "Caminó (pasado de walk).",
+      "formas": []
+    },
+    {
+      "palabra": "Called",
+      "definicion": "Llamó (pasado de call).",
+      "formas": []
+    },
+    {
+      "palabra": "Goes",
+      "definicion": "Go con he, she e it: va.",
+      "formas": []
+    },
+    {
+      "palabra": "Gets up",
+      "definicion": "Get up con he o she: se levanta.",
+      "formas": [
+        "gets up"
+      ]
+    },
+    {
+      "palabra": "Get up",
+      "definicion": "Levantarse.",
+      "formas": []
+    },
+    {
+      "palabra": "Has",
+      "definicion": "Have con he, she e it: tiene.",
+      "formas": []
+    },
+    {
+      "palabra": "Does",
+      "definicion": "Auxiliar para preguntar con he, she e it: Does she play?",
+      "formas": []
+    },
+    {
+      "palabra": "Doesn't",
+      "definicion": "Negativo con he, she e it (does not): She doesn't play.",
+      "formas": [
+        "doesnt",
+        "does not"
+      ]
+    },
+    {
+      "palabra": "Don't",
+      "definicion": "Negativo con I, you, we y they (do not): They don't play.",
+      "formas": [
+        "dont",
+        "do not"
+      ]
+    },
+    {
+      "palabra": "Do",
+      "definicion": "Auxiliar para preguntar con I, you, we y they: Do you play?",
+      "formas": []
+    },
+    {
+      "palabra": "Always",
+      "definicion": "Siempre.",
+      "formas": []
+    },
+    {
+      "palabra": "Usually",
+      "definicion": "Casi siempre.",
+      "formas": []
+    },
+    {
+      "palabra": "Often",
+      "definicion": "Seguido.",
+      "formas": []
+    },
+    {
+      "palabra": "Sometimes",
+      "definicion": "A veces.",
+      "formas": []
+    },
+    {
+      "palabra": "Never",
+      "definicion": "Nunca. Ya es negativo: I never watch TV.",
+      "formas": []
+    },
+    {
+      "palabra": "Adverbio de frecuencia",
+      "definicion": "Palabra que dice cada cuánto pasa algo: always, usually, often, sometimes, never.",
+      "formas": [
+        "adverbios de frecuencia",
+        "frecuencia"
+      ]
+    },
+    {
+      "palabra": "Routine",
+      "definicion": "Rutina.",
+      "formas": []
+    },
+    {
+      "palabra": "School uniform",
+      "definicion": "Uniforme escolar.",
+      "formas": []
+    },
+    {
+      "palabra": "Classroom",
+      "definicion": "Aula.",
+      "formas": []
+    },
+    {
+      "palabra": "Lunch",
+      "definicion": "Almuerzo.",
+      "formas": []
+    },
+    {
+      "palabra": "Breakfast",
+      "definicion": "Desayuno.",
+      "formas": []
+    },
+    {
+      "palabra": "Train",
+      "definicion": "Tren.",
+      "formas": []
+    },
+    {
+      "palabra": "School bus",
+      "definicion": "Colectivo escolar.",
+      "formas": []
+    },
+    {
+      "palabra": "Like",
+      "definicion": "Gustar: I like reading.",
+      "formas": []
+    },
+    {
+      "palabra": "Love",
+      "definicion": "Encantar: I love dancing.",
+      "formas": []
+    },
+    {
+      "palabra": "Hate",
+      "definicion": "Odiar: I hate getting up early.",
+      "formas": []
+    },
+    {
+      "palabra": "Enjoy",
+      "definicion": "Disfrutar: She enjoys swimming.",
+      "formas": []
+    },
+    {
+      "palabra": "Don't mind",
+      "definicion": "Me da igual: I don't mind doing homework.",
+      "formas": []
+    },
+    {
+      "palabra": "-ing",
+      "definicion": "Terminación que se agrega al verbo después de like o love, y en los tiempos continuos: playing, dancing, swimming.",
+      "formas": []
+    },
+    {
+      "palabra": "Swimming",
+      "definicion": "Swim con -ing: nadar, nadando. Se duplica la m.",
+      "formas": []
+    },
+    {
+      "palabra": "Dancing",
+      "definicion": "Dance con -ing: bailar, bailando. Se saca la e.",
+      "formas": []
+    },
+    {
+      "palabra": "Playing",
+      "definicion": "Play con -ing.",
+      "formas": []
+    },
+    {
+      "palabra": "Running",
+      "definicion": "Run con -ing: correr, corriendo.",
+      "formas": []
+    },
+    {
+      "palabra": "Presente continuo",
+      "definicion": "Am, is o are + verbo con -ing. Sirve para lo que pasa ahora (I'm reading) y para planes (I'm visiting my grandma on Sunday).",
+      "formas": [
+        "present continuous",
+        "continuo"
+      ]
+    },
+    {
+      "palabra": "Right now",
+      "definicion": "Ahora mismo.",
+      "formas": []
+    },
+    {
+      "palabra": "Tonight",
+      "definicion": "Esta noche.",
+      "formas": []
+    },
+    {
+      "palabra": "Every day",
+      "definicion": "Todos los días.",
+      "formas": []
+    },
+    {
+      "palabra": "Weekend",
+      "definicion": "Fin de semana.",
+      "formas": []
+    },
+    {
+      "palabra": "Would you like",
+      "definicion": "¿Querés…? Sirve para invitar con amabilidad: Would you like to come?",
+      "formas": [
+        "would you like to"
+      ]
+    },
+    {
+      "palabra": "I'd love to",
+      "definicion": "Me encantaría: sirve para aceptar.",
+      "formas": [
+        "id love to"
+      ]
+    },
+    {
+      "palabra": "Sounds great",
+      "definicion": "¡Buenísimo! Sirve para aceptar.",
+      "formas": []
+    },
+    {
+      "palabra": "Sorry, I can't",
+      "definicion": "Perdón, no puedo: sirve para rechazar.",
+      "formas": [
+        "i can't",
+        "i cant",
+        "sorry"
+      ]
+    },
+    {
+      "palabra": "Busy",
+      "definicion": "Ocupado, ocupada.",
+      "formas": []
+    },
+    {
+      "palabra": "Let's",
+      "definicion": "Vamos a…: Let's go to the park!",
+      "formas": []
+    },
+    {
+      "palabra": "Cinema",
+      "definicion": "Cine.",
+      "formas": []
+    },
+    {
+      "palabra": "Match",
+      "definicion": "Partido.",
+      "formas": []
+    },
+    {
+      "palabra": "Party",
+      "definicion": "Fiesta.",
+      "formas": []
+    },
+    {
+      "palabra": "Pasado continuo",
+      "definicion": "Was o were + verbo con -ing. Cuenta una acción que estaba en curso en un momento del pasado: I was reading.",
+      "formas": [
+        "past continuous"
+      ]
+    },
+    {
+      "palabra": "When",
+      "definicion": "Cuando. Va casi siempre con la acción corta, en pasado simple.",
+      "formas": []
+    },
+    {
+      "palabra": "While",
+      "definicion": "Mientras. Va con la acción larga, en pasado continuo.",
+      "formas": []
+    },
+    {
+      "palabra": "Suddenly",
+      "definicion": "De repente.",
+      "formas": []
+    },
+    {
+      "palabra": "Rang",
+      "definicion": "Sonó (pasado de ring).",
+      "formas": []
+    },
+    {
+      "palabra": "O'clock",
+      "definicion": "En punto, para decir la hora: at nine o'clock.",
+      "formas": [
+        "oclock",
+        "o clock"
+      ]
+    },
+    {
+      "palabra": "Mould",
+      "definicion": "Moho (en inglés de Estados Unidos, mold).",
+      "formas": [
+        "mold"
+      ]
+    },
+    {
+      "palabra": "Moon",
+      "definicion": "Luna.",
+      "formas": []
+    },
+    {
+      "palabra": "Noise",
+      "definicion": "Ruido.",
+      "formas": []
+    },
+    {
+      "palabra": "Story",
+      "definicion": "Relato, historia.",
+      "formas": []
+    },
+    {
+      "palabra": "Weren't",
+      "definicion": "Were not: negativo de were.",
+      "formas": [
+        "werent",
+        "were not"
+      ]
+    },
+    {
+      "palabra": "Wasn't",
+      "definicion": "Was not: negativo de was.",
+      "formas": [
+        "wasnt",
+        "was not"
+      ]
+    },
+    {
+      "palabra": "Comparativo",
+      "definicion": "Forma del adjetivo para comparar dos cosas: taller, more expensive. Después va than.",
+      "formas": [
+        "comparativos",
+        "comparacion"
+      ]
+    },
+    {
+      "palabra": "Superlativo",
+      "definicion": "Forma del adjetivo para elegir una cosa entre muchas: the tallest, the most expensive.",
+      "formas": [
+        "superlativos"
+      ]
+    },
+    {
+      "palabra": "Than",
+      "definicion": "Que, en una comparación: bigger than.",
+      "formas": []
+    },
+    {
+      "palabra": "More",
+      "definicion": "Más. Va antes de los adjetivos largos: more expensive.",
+      "formas": []
+    },
+    {
+      "palabra": "The most",
+      "definicion": "El más, la más. Superlativo de los adjetivos largos.",
+      "formas": [
+        "most"
+      ]
+    },
+    {
+      "palabra": "Better",
+      "definicion": "Mejor. Comparativo de good.",
+      "formas": []
+    },
+    {
+      "palabra": "Best",
+      "definicion": "El mejor, la mejor: the best.",
+      "formas": [
+        "the best"
+      ]
+    },
+    {
+      "palabra": "Worse",
+      "definicion": "Peor. Comparativo de bad.",
+      "formas": []
+    },
+    {
+      "palabra": "Worst",
+      "definicion": "El peor, la peor: the worst.",
+      "formas": [
+        "the worst"
+      ]
+    },
+    {
+      "palabra": "As … as",
+      "definicion": "Tan… como. Dice que dos cosas son iguales.",
+      "formas": [
+        "as as",
+        "as...as"
+      ]
+    },
+    {
+      "palabra": "Cheap",
+      "definicion": "Barato.",
+      "formas": []
+    },
+    {
+      "palabra": "Expensive",
+      "definicion": "Caro.",
+      "formas": []
+    },
+    {
+      "palabra": "Friendly",
+      "definicion": "Amigable.",
+      "formas": []
+    },
+    {
+      "palabra": "Dear",
+      "definicion": "Estimado, estimada. Saludo de un correo formal: Dear Ms Brown.",
+      "formas": []
+    },
+    {
+      "palabra": "Best regards",
+      "definicion": "Saludos cordiales. Despedida de un correo formal.",
+      "formas": [
+        "regards"
+      ]
+    },
+    {
+      "palabra": "Could",
+      "definicion": "Podría. Sirve para pedir con cortesía: Could you help me?",
+      "formas": []
+    },
+    {
+      "palabra": "Can",
+      "definicion": "Poder. Sirve para pedir (Can you…?) o pedir permiso (Can I…?).",
+      "formas": []
+    },
+    {
+      "palabra": "Sure",
+      "definicion": "¡Claro! Sirve para aceptar.",
+      "formas": []
+    },
+    {
+      "palabra": "Of course",
+      "definicion": "Por supuesto.",
+      "formas": []
+    },
+    {
+      "palabra": "Password",
+      "definicion": "Contraseña.",
+      "formas": [
+        "contraseña"
+      ]
+    },
+    {
+      "palabra": "Netiquette",
+      "definicion": "Normas para comunicarse en línea.",
+      "formas": [
+        "netiqueta"
+      ]
+    },
+    {
+      "palabra": "Polite",
+      "definicion": "Amable, educado.",
+      "formas": []
+    },
+    {
+      "palabra": "Post",
+      "definicion": "Publicar en una red social. También, una publicación.",
+      "formas": []
+    },
+    {
+      "palabra": "Share",
+      "definicion": "Compartir.",
+      "formas": []
+    },
+    {
+      "palabra": "Presente perfecto",
+      "definicion": "Tiempo que cuenta experiencias sin decir cuándo: have o has + participio. En inglés: Present perfect.",
+      "formas": [
+        "present perfect"
+      ]
+    },
+    {
+      "palabra": "Participio",
+      "definicion": "Forma del verbo que va después de have o has: played, made, sent, seen.",
+      "formas": [
+        "participle",
+        "participios"
+      ]
+    },
+    {
+      "palabra": "Ever",
+      "definicion": "Alguna vez. Va en preguntas: Have you ever…?",
+      "formas": []
+    },
+    {
+      "palabra": "Already",
+      "definicion": "Ya. Va entre have y el participio.",
+      "formas": []
+    },
+    {
+      "palabra": "Yet",
+      "definicion": "Todavía (en negativas) o ya (en preguntas). Va al final.",
+      "formas": []
+    },
+    {
+      "palabra": "Been",
+      "definicion": "Participio de be.",
+      "formas": []
+    },
+    {
+      "palabra": "Sent",
+      "definicion": "Pasado y participio de send (enviar).",
+      "formas": []
+    },
+    {
+      "palabra": "Seen",
+      "definicion": "Participio de see (ver).",
+      "formas": []
+    },
+    {
+      "palabra": "Written",
+      "definicion": "Participio de write (escribir).",
+      "formas": []
+    },
+    {
+      "palabra": "Lost",
+      "definicion": "Pasado y participio de lose (perder).",
+      "formas": []
+    },
+    {
+      "palabra": "Bought",
+      "definicion": "Pasado y participio de buy (comprar).",
+      "formas": []
+    },
+    {
+      "palabra": "Survey",
+      "definicion": "Encuesta.",
+      "formas": [
+        "encuesta"
+      ]
+    },
+    {
+      "palabra": "Voice message",
+      "definicion": "Audio, mensaje de voz.",
+      "formas": [
+        "audio"
+      ]
+    },
+    {
+      "palabra": "Record",
+      "definicion": "Grabar (un video o un audio).",
+      "formas": [
+        "recorded"
+      ]
+    },
+    {
+      "palabra": "Website",
+      "definicion": "Sitio web.",
+      "formas": [
+        "web",
+        "sitio"
+      ]
+    }
+  ],
+  "temas": [
+    {
+      "id": "ing-4-03-c1-1",
+      "clase": "ing-4-03",
+      "capsula": "c1",
+      "boton": "Para qué sirve el pasado simple",
+      "otra_manera": "Sirve para contar cosas que ya terminaron: lo que hiciste ayer, el año pasado o hace mucho. Y el verbo no cambia según quién lo hizo: [[I played]], [[she played]], [[they played]].",
+      "vida_real": "Es lo que usás cuando le contás a alguien qué hiciste el fin de semana.",
+      "claves": [
+        "pasado simple",
+        "past simple",
+        "para que sirve"
+      ],
+      "parte": "El pasado simple de los verbos regulares"
+    },
+    {
+      "id": "ing-4-03-c1-2",
+      "clase": "ing-4-03",
+      "capsula": "c1",
+      "boton": "Cómo se escribe -ed",
+      "otra_manera": "Casi siempre se agrega -ed. Hay tres casos especiales: si termina en e, solo -d ([[lived]]); si termina en consonante + y, -ied ([[studied]]); y si es corto con consonante + vocal + consonante, se duplica la última letra ([[stopped]]).",
+      "vida_real": "Es como una receta con una regla general y tres excepciones que conviene anotar en la carpeta.",
+      "claves": [
+        "ed",
+        "escribe",
+        "regla",
+        "studied",
+        "stopped"
+      ],
+      "parte": "El pasado simple de los verbos regulares"
+    },
+    {
+      "id": "ing-4-03-c1-3",
+      "clase": "ing-4-03",
+      "capsula": "c1",
+      "boton": "Cómo se pronuncia -ed",
+      "otra_manera": "Depende del último sonido del verbo. Si termina en t o en d, -ed suma una sílaba: [[wanted]]. Si no, se pega al verbo y suena como t ([[worked]]) o como d ([[played]]).",
+      "vida_real": "Tocá 🔊 en la tabla de la clase y repetí en voz alta: el oído aprende más rápido que la regla.",
+      "claves": [
+        "pronuncia",
+        "sonido",
+        "silaba"
+      ],
+      "parte": "El pasado simple de los verbos regulares"
+    },
+    {
+      "id": "ing-4-03-c2-1",
+      "clase": "ing-4-03",
+      "capsula": "c2",
+      "boton": "Qué es un verbo irregular",
+      "otra_manera": "Es un verbo que no usa -ed en pasado: tiene una palabra propia, como [[go]] → [[went]] o [[write]] → [[wrote]]. Hay que aprenderlos de memoria, de a pocos.",
+      "vida_real": "Pasa lo mismo en castellano: no decimos \"yo andé\" sino \"yo anduve\".",
+      "claves": [
+        "irregular",
+        "irregulares",
+        "went"
+      ],
+      "parte": "Verbos irregulares, negaciones y preguntas"
+    },
+    {
+      "id": "ing-4-03-c2-2",
+      "clase": "ing-4-03",
+      "capsula": "c2",
+      "boton": "Negar y preguntar con did",
+      "otra_manera": "Para negar se pone [[didn't]] antes del verbo; para preguntar, [[Did]] al principio. En los dos casos el verbo vuelve a la forma base, porque did ya dice que es pasado: [[She didn't win.]] [[Did she win?]]",
+      "vida_real": "Did es como un cartel que dice \"esto es pasado\": con un cartel alcanza, no hace falta poner dos.",
+      "claves": [
+        "did",
+        "didn't",
+        "negar",
+        "pregunta",
+        "negacion"
+      ],
+      "parte": "Verbos irregulares, negaciones y preguntas"
+    },
+    {
+      "id": "ing-4-03-c2-3",
+      "clase": "ing-4-03",
+      "capsula": "c2",
+      "boton": "Was y were",
+      "otra_manera": "Son el pasado de be (ser o estar). [[was]] va con I, he, she e it; [[were]], con you, we y they. Con be no se usa did: [[She wasn't Polish.]] [[Were they inventors?]]",
+      "vida_real": "Pensá en una persona o en varias: una persona, was; varias, were. La única excepción es you, que va con were.",
+      "claves": [
+        "was",
+        "were",
+        "be"
+      ],
+      "parte": "Verbos irregulares, negaciones y preguntas"
+    },
+    {
+      "id": "ing-4-03-c3-1",
+      "clase": "ing-4-03",
+      "capsula": "c3",
+      "boton": "Cómo se arma una biografía",
+      "otra_manera": "Se cuenta la vida en orden: dónde y cuándo nació, qué estudió o en qué trabajó, qué logró y, si corresponde, cómo terminó su vida. Todo en pasado simple.",
+      "vida_real": "Es como la línea de tiempo de la clase, pero escrita en oraciones.",
+      "claves": [
+        "biografia",
+        "biography",
+        "orden"
+      ],
+      "parte": "Biografías: inventores, inventoras y lo que me pasó"
+    },
+    {
+      "id": "ing-4-03-c3-2",
+      "clase": "ing-4-03",
+      "capsula": "c3",
+      "boton": "Cómo se dice \"nació\"",
+      "otra_manera": "En inglés se dice [[was born]], con el verbo be: [[He was born in Scotland.]] Si son varias personas, [[were born]].",
+      "vida_real": "Es una de las primeras oraciones de cualquier biografía, así que conviene tenerla bien aprendida.",
+      "claves": [
+        "born",
+        "nacio",
+        "nacer"
+      ],
+      "parte": "Biografías: inventores, inventoras y lo que me pasó"
+    },
+    {
+      "id": "ing-4-03-c3-3",
+      "clase": "ing-4-03",
+      "capsula": "c3",
+      "boton": "Palabras para ordenar",
+      "otra_manera": "Ayudan a que quien lee siga el orden de los hechos: [[First]], [[then]], [[later]], [[after that]] y, para cerrar, [[finally]].",
+      "vida_real": "Son como los números de una receta: muestran qué va primero y qué va después.",
+      "claves": [
+        "first",
+        "then",
+        "later",
+        "finally",
+        "ordenar"
+      ],
+      "parte": "Biografías: inventores, inventoras y lo que me pasó"
+    },
+    {
+      "id": "ing-4-05-c1-1",
+      "clase": "ing-4-05",
+      "capsula": "c1",
+      "boton": "Qué expresa used to",
+      "otra_manera": "Sirve para hablar de algo que hacías o que pasaba antes y ya no: [[I used to play with toy cars.]] En castellano lo decimos con \"jugaba\" o \"solía jugar\".",
+      "vida_real": "Pensá en tus juegos de cuando eras más chico o más chica: todo eso se cuenta con used to.",
+      "claves": [
+        "used to",
+        "habito",
+        "costumbre"
+      ],
+      "parte": "Used to: hábitos que ya no existen"
+    },
+    {
+      "id": "ing-4-05-c1-2",
+      "clase": "ing-4-05",
+      "capsula": "c1",
+      "boton": "Cuándo va use sin d",
+      "otra_manera": "En el afirmativo se escribe [[used to]]. En el negativo y en la pregunta, como aparece did, se escribe [[use to]], sin d: [[I didn't use to…]] [[Did you use to…?]]",
+      "vida_real": "Es la misma idea que en el pasado simple: did ya marca el pasado, así que used pierde la d.",
+      "claves": [
+        "use to",
+        "didn't use",
+        "pregunta",
+        "negativo"
+      ],
+      "parte": "Used to: hábitos que ya no existen"
+    },
+    {
+      "id": "ing-4-05-c1-3",
+      "clase": "ing-4-05",
+      "capsula": "c1",
+      "boton": "Used to o pasado simple",
+      "otra_manera": "Used to cuenta una costumbre, algo que se repetía. El pasado simple cuenta una sola vez: [[I used to walk to school]] (iba caminando) y [[I walked to school yesterday]] (ayer fui caminando).",
+      "vida_real": "Una costumbre es un álbum de fotos parecidas; un hecho puntual es una sola foto.",
+      "claves": [
+        "diferencia",
+        "pasado simple",
+        "una vez"
+      ],
+      "parte": "Used to: hábitos que ya no existen"
+    },
+    {
+      "id": "ing-4-05-c2-1",
+      "clase": "ing-4-05",
+      "capsula": "c2",
+      "boton": "Cómo comparar antes y ahora",
+      "otra_manera": "Para antes se usa used to; para ahora, el presente simple. Y se unen con [[but]]: [[People used to write letters, but now they send messages.]]",
+      "vida_real": "Es lo que hacés cuando le contás a alguien cómo era algo antes y cómo es hoy.",
+      "claves": [
+        "comparar",
+        "antes",
+        "ahora",
+        "then and now"
+      ],
+      "parte": "Antes y ahora: cómo nos comunicamos"
+    },
+    {
+      "id": "ing-4-05-c2-2",
+      "clase": "ing-4-05",
+      "capsula": "c2",
+      "boton": "El presente simple con he, she e it",
+      "otra_manera": "Cuando habla una sola persona que no sos vos ni la persona con quien hablás (he, she, it), el verbo lleva -s o -es: [[she sends]], [[he watches]], [[it has]].",
+      "vida_real": "Es una de las cosas que más se corrigen en inglés: vale la pena revisarla al final de cada texto.",
+      "claves": [
+        "presente simple",
+        "sends",
+        "watches",
+        "has"
+      ],
+      "parte": "Antes y ahora: cómo nos comunicamos"
+    },
+    {
+      "id": "ing-4-05-c2-3",
+      "clase": "ing-4-05",
+      "capsula": "c2",
+      "boton": "Palabras para hablar del tiempo",
+      "otra_manera": "[[in the past]] y [[then]] llevan al pasado; [[now]] y [[nowadays]], al presente. Ayudan a que se entienda de qué momento hablás.",
+      "vida_real": "Funcionan como un cartel con la fecha arriba de cada foto.",
+      "claves": [
+        "nowadays",
+        "in the past",
+        "now",
+        "then"
+      ],
+      "parte": "Antes y ahora: cómo nos comunicamos"
+    },
+    {
+      "id": "ing-4-05-c3-1",
+      "clase": "ing-4-05",
+      "capsula": "c3",
+      "boton": "There used to be",
+      "otra_manera": "Quiere decir \"antes había\": [[There used to be a cinema in my town.]] Para lo que hay ahora se usa [[there is]] (una cosa) o [[there are]] (varias).",
+      "vida_real": "Sirve para contar cómo era tu barrio o tu ciudad antes de que cambiara.",
+      "claves": [
+        "there used to be",
+        "habia",
+        "there is",
+        "there are"
+      ],
+      "parte": "Then and now: cómo cambió la vida"
+    },
+    {
+      "id": "ing-4-05-c3-2",
+      "clase": "ing-4-05",
+      "capsula": "c3",
+      "boton": "Tres tiempos en un mismo texto",
+      "otra_manera": "Un texto sobre cambios mezcla tiempos: el pasado simple cuenta hechos ([[they lived in the country]]), used to cuenta costumbres ([[he used to work on a farm]]) y el presente simple cuenta cómo es ahora ([[now they live in the city]]).",
+      "vida_real": "Es como contar la historia de una familia: qué pasó, cómo vivían y cómo viven hoy.",
+      "claves": [
+        "tiempos",
+        "carta",
+        "texto"
+      ],
+      "parte": "Then and now: cómo cambió la vida"
+    },
+    {
+      "id": "ing-4-05-c3-3",
+      "clase": "ing-4-05",
+      "capsula": "c3",
+      "boton": "Cómo escribir un texto Then and now",
+      "otra_manera": "Primero contá cómo era antes, con used to, didn't use to o there used to be. Después contá cómo es ahora, con el presente simple, y uní las ideas con but, so y nowadays. Si escribís sobre otra persona, acordate de la -s: [[now she plays]].",
+      "vida_real": "Antes de escribir, anotá en la carpeta dos columnas, antes y ahora, y después armá las oraciones.",
+      "claves": [
+        "then and now",
+        "escribir",
+        "texto"
+      ],
+      "parte": "Then and now: cómo cambió la vida"
+    },
+    {
+      "id": "ing-4-01-c1-1",
+      "clase": "ing-4-01",
+      "capsula": "c1",
+      "boton": "La -s de he, she e it",
+      "otra_manera": "Cuando habla de una sola persona que no sos vos ni la persona con quien hablás, el verbo lleva -s: [[she plays]], [[he works]]. Con -es si termina en ch, sh, s, x u o ([[watches]], [[goes]]), y con -ies si termina en consonante + y ([[studies]]).",
+      "vida_real": "Al terminar un texto, buscá cada he, she o it y fijate si el verbo tiene su -s.",
+      "claves": [
+        "s",
+        "he she it",
+        "plays",
+        "watches",
+        "studies"
+      ],
+      "parte": "El presente simple: rutinas y hechos"
+    },
+    {
+      "id": "ing-4-01-c1-2",
+      "clase": "ing-4-01",
+      "capsula": "c1",
+      "boton": "Negar y preguntar",
+      "otra_manera": "Con I, you, we y they se usa [[don't]] y [[do]]; con he, she e it, [[doesn't]] y [[does]]. Después de cualquiera de ellos, el verbo va sin -s: [[She doesn't play.]] [[Does she play?]]",
+      "vida_real": "La -s va en un solo lugar: si ya la tiene does, el verbo queda sin -s.",
+      "claves": [
+        "don't",
+        "doesn't",
+        "do",
+        "does",
+        "negar",
+        "pregunta"
+      ],
+      "parte": "El presente simple: rutinas y hechos"
+    },
+    {
+      "id": "ing-4-01-c2-1",
+      "clase": "ing-4-01",
+      "capsula": "c2",
+      "boton": "La escala de frecuencia",
+      "otra_manera": "De más a menos: [[always]] (siempre), [[usually]] (casi siempre), [[often]] (seguido), [[sometimes]] (a veces), [[never]] (nunca).",
+      "vida_real": "Pensá en tu semana y ubicá en la escala algo que hacés todos los días y algo que no hacés nunca.",
+      "claves": [
+        "always",
+        "never",
+        "sometimes",
+        "frecuencia",
+        "escala"
+      ],
+      "parte": "¿Con qué frecuencia? Los adverbios de frecuencia"
+    },
+    {
+      "id": "ing-4-01-c2-2",
+      "clase": "ing-4-01",
+      "capsula": "c2",
+      "boton": "Dónde va el adverbio",
+      "otra_manera": "Antes del verbo: [[She usually walks to school.]] Pero después de am, is o are: [[He is always late.]]",
+      "vida_real": "Es al revés que en castellano muchas veces: decimos \"camina siempre\", pero en inglés se dice \"always walks\".",
+      "claves": [
+        "donde va",
+        "lugar",
+        "orden"
+      ],
+      "parte": "¿Con qué frecuencia? Los adverbios de frecuencia"
+    },
+    {
+      "id": "ing-4-01-c3-1",
+      "clase": "ing-4-01",
+      "capsula": "c3",
+      "boton": "Contar un día de escuela",
+      "otra_manera": "Se usa el presente simple, porque es una rutina, y los adverbios dicen cada cuánto: [[I usually take the bus.]] [[We never have classes on Sundays.]]",
+      "vida_real": "Es lo que harías si chatearas con alguien de otro país sobre tu escuela.",
+      "claves": [
+        "escuela",
+        "dia",
+        "school"
+      ],
+      "parte": "Un día de escuela en otros países y en la Argentina"
+    },
+    {
+      "id": "ing-4-01-c3-2",
+      "clase": "ing-4-01",
+      "capsula": "c3",
+      "boton": "Escuelas de otros países",
+      "otra_manera": "Cada país organiza la escuela a su manera. En la Argentina, el año escolar empieza en febrero o marzo y muchos estudiantes van a la mañana o a la tarde. Comparar ayuda a ver lo propio: fijate en las dos fichas de la clase y buscá qué cambia y qué se parece.",
+      "vida_real": "Comparar ayuda a ver lo propio: en la Argentina, muchas escuelas tienen turno mañana y turno tarde.",
+      "claves": [
+        "irlanda",
+        "australia",
+        "inglaterra",
+        "uniforme",
+        "pais",
+        "paises"
+      ],
+      "parte": "Un día de escuela en otros países y en la Argentina"
+    },
+    {
+      "id": "ing-4-02-c1-1",
+      "clase": "ing-4-02",
+      "capsula": "c1",
+      "boton": "Gustos + -ing",
+      "otra_manera": "Después de [[like]], [[love]], [[enjoy]], [[don't mind]] y [[hate]] va el verbo con -ing: [[I love playing the guitar.]]",
+      "vida_real": "En castellano decimos \"me gusta tocar\"; en inglés, \"I like playing\".",
+      "claves": [
+        "like",
+        "love",
+        "gusto",
+        "gustos",
+        "ing"
+      ],
+      "parte": "Lo que me gusta: like, love, enjoy y hate + -ing"
+    },
+    {
+      "id": "ing-4-02-c1-2",
+      "clase": "ing-4-02",
+      "capsula": "c1",
+      "boton": "Cómo se escribe -ing",
+      "otra_manera": "Casi siempre se agrega -ing ([[playing]]). Si termina en e, la e se va ([[dancing]]). Si es corto con consonante + vocal + consonante, se duplica la última letra ([[swimming]]).",
+      "vida_real": "Son las mismas reglas que vas a usar en todos los tiempos continuos.",
+      "claves": [
+        "escribe",
+        "swimming",
+        "dancing"
+      ],
+      "parte": "Lo que me gusta: like, love, enjoy y hate + -ing"
+    },
+    {
+      "id": "ing-4-02-c2-1",
+      "clase": "ing-4-02",
+      "capsula": "c2",
+      "boton": "Los dos usos del presente continuo",
+      "otra_manera": "Sirve para lo que pasa ahora ([[I'm reading right now.]]) y para un plan ya arreglado ([[We're playing football on Saturday.]]). Las palabras de tiempo ayudan a saber cuál es.",
+      "vida_real": "Si dice now o right now, es ahora; si dice un día o una hora del futuro, es un plan.",
+      "claves": [
+        "presente continuo",
+        "usos",
+        "plan",
+        "ahora"
+      ],
+      "parte": "Lo que pasa ahora y los planes: el presente continuo"
+    },
+    {
+      "id": "ing-4-02-c2-2",
+      "clase": "ing-4-02",
+      "capsula": "c2",
+      "boton": "Presente simple o continuo",
+      "otra_manera": "El simple cuenta rutinas ([[I play football every Sunday.]]); el continuo, lo que pasa ahora o un plan ([[I'm playing football right now.]]).",
+      "vida_real": "Every day, always y on Mondays van con el simple; now y tonight, con el continuo.",
+      "claves": [
+        "diferencia",
+        "simple",
+        "continuo"
+      ],
+      "parte": "Lo que pasa ahora y los planes: el presente continuo"
+    },
+    {
+      "id": "ing-4-02-c3-1",
+      "clase": "ing-4-02",
+      "capsula": "c3",
+      "boton": "Invitar y responder",
+      "otra_manera": "Para invitar: [[Would you like to…?]] o [[Let's…]]. Para aceptar: [[Sure!]], [[I'd love to.]] Para rechazar: [[Sorry, I can't.]] y un motivo.",
+      "vida_real": "Es lo mismo que hacés en un chat con amigos, solo que en inglés.",
+      "claves": [
+        "invitar",
+        "aceptar",
+        "rechazar"
+      ],
+      "parte": "Invitar, aceptar y rechazar"
+    },
+    {
+      "id": "ing-4-02-c3-2",
+      "clase": "ing-4-02",
+      "capsula": "c3",
+      "boton": "El motivo en presente continuo",
+      "otra_manera": "Cuando rechazás, el motivo es un plan que ya tenés, por eso va en presente continuo: [[I'm visiting my grandma.]]",
+      "vida_real": "Un \"no\" con motivo suena más amable que un \"no\" solo.",
+      "claves": [
+        "motivo",
+        "rechazar"
+      ],
+      "parte": "Invitar, aceptar y rechazar"
+    },
+    {
+      "id": "ing-4-04-c1-1",
+      "clase": "ing-4-04",
+      "capsula": "c1",
+      "boton": "Qué es el pasado continuo",
+      "otra_manera": "Cuenta una acción que estaba en curso en un momento del pasado: [[At nine o'clock I was watching TV.]] Se forma con [[was]] o [[were]] + -ing.",
+      "vida_real": "Es como una foto de un momento: en esa foto, estabas mirando televisión.",
+      "claves": [
+        "pasado continuo",
+        "was",
+        "were"
+      ],
+      "parte": "Was y were + -ing: lo que estaba pasando"
+    },
+    {
+      "id": "ing-4-04-c1-2",
+      "clase": "ing-4-04",
+      "capsula": "c1",
+      "boton": "Negar y preguntar",
+      "otra_manera": "Se agrega not ([[wasn't]], [[weren't]]) o se pone was o were adelante ([[Were you sleeping?]]). No se usa did.",
+      "vida_real": "Funciona igual que el pasado del verbo be.",
+      "claves": [
+        "negar",
+        "pregunta",
+        "wasn't",
+        "weren't"
+      ],
+      "parte": "Was y were + -ing: lo que estaba pasando"
+    },
+    {
+      "id": "ing-4-04-c2-1",
+      "clase": "ing-4-04",
+      "capsula": "c2",
+      "boton": "La acción larga y la corta",
+      "otra_manera": "La acción larga, que estaba en curso, va en pasado continuo; la corta, que la interrumpe, en pasado simple: [[I was reading when the phone rang.]]",
+      "vida_real": "Mirá el esquema de la clase: la barra larga y el rayo que la corta.",
+      "claves": [
+        "larga",
+        "corta",
+        "interrumpe"
+      ],
+      "parte": "Pasado continuo y pasado simple juntos: when y while"
+    },
+    {
+      "id": "ing-4-04-c2-2",
+      "clase": "ing-4-04",
+      "capsula": "c2",
+      "boton": "When y while",
+      "otra_manera": "[[when]] va casi siempre con la acción corta; [[while]], con la larga: [[While I was walking, I saw a friend.]]",
+      "vida_real": "While es \"mientras\": algo que dura.",
+      "claves": [
+        "when",
+        "while"
+      ],
+      "parte": "Pasado continuo y pasado simple juntos: when y while"
+    },
+    {
+      "id": "ing-4-04-c3-1",
+      "clase": "ing-4-04",
+      "capsula": "c3",
+      "boton": "Fondo y hechos en un relato",
+      "otra_manera": "El pasado continuo arma el fondo ([[It was raining.]]) y el pasado simple cuenta los hechos ([[Suddenly, a dog ran into the street.]]).",
+      "vida_real": "Es como en una película: primero se ve el lugar y después pasa algo.",
+      "claves": [
+        "relato",
+        "fondo",
+        "hechos"
+      ],
+      "parte": "Relatos: descubrimientos y lo que estaba pasando"
+    },
+    {
+      "id": "ing-4-04-c3-2",
+      "clase": "ing-4-04",
+      "capsula": "c3",
+      "boton": "Descubrimientos contados así",
+      "otra_manera": "[[Fleming was working in his laboratory when he noticed a strange mould.]] El fondo es lo que hacía; el hecho, lo que notó.",
+      "vida_real": "Muchas biografías cuentan así el momento de un descubrimiento.",
+      "claves": [
+        "fleming",
+        "descubrimiento",
+        "newton",
+        "luna"
+      ],
+      "parte": "Relatos: descubrimientos y lo que estaba pasando"
+    },
+    {
+      "id": "ing-4-06-c1-1",
+      "clase": "ing-4-06",
+      "capsula": "c1",
+      "boton": "Cuándo va -er y cuándo more",
+      "otra_manera": "Mirá el largo del adjetivo. Si es corto, se agrega -er: [[tall → taller]]. Si es largo, se pone more adelante: [[more expensive]]. Nunca van los dos juntos.",
+      "vida_real": "Es como en castellano \"mayor\" y \"más grande\": dos maneras de decir \"más\", según la palabra.",
+      "claves": [
+        "er",
+        "more",
+        "comparativo",
+        "comparar"
+      ],
+      "parte": "Comparar dos cosas: -er, more y than"
+    },
+    {
+      "id": "ing-4-06-c1-2",
+      "clase": "ing-4-06",
+      "capsula": "c1",
+      "boton": "Para qué sirve than",
+      "otra_manera": "Than es el \"que\" de la comparación: va después del comparativo. [[Bristol is smaller than London.]] Bristol es más chica que Londres.",
+      "vida_real": "Cada vez que en castellano decís \"más… que\", en inglés va comparativo + than.",
+      "claves": [
+        "than",
+        "que"
+      ],
+      "parte": "Comparar dos cosas: -er, more y than"
+    },
+    {
+      "id": "ing-4-06-c1-3",
+      "clase": "ing-4-06",
+      "capsula": "c1",
+      "boton": "Good y bad",
+      "otra_manera": "Son irregulares: [[good → better]] (mejor) y [[bad → worse]] (peor). No se dice \"gooder\" ni \"more good\".",
+      "vida_real": "Pasa igual en castellano: decimos \"mejor\", no \"más bueno\".",
+      "claves": [
+        "better",
+        "worse",
+        "good",
+        "bad",
+        "irregular"
+      ],
+      "parte": "Comparar dos cosas: -er, more y than"
+    },
+    {
+      "id": "ing-4-06-c2-1",
+      "clase": "ing-4-06",
+      "capsula": "c2",
+      "boton": "Comparativo o superlativo",
+      "otra_manera": "El comparativo compara dos cosas ([[taller than]]). El superlativo elige una entre muchas, con the adelante ([[the tallest]], [[the most expensive]]).",
+      "vida_real": "Comparar dos camisetas es comparativo; elegir la mejor de la tienda es superlativo.",
+      "claves": [
+        "superlativo",
+        "est",
+        "most",
+        "the"
+      ],
+      "parte": "El más de todos: superlativos y as … as"
+    },
+    {
+      "id": "ing-4-06-c2-2",
+      "clase": "ing-4-06",
+      "capsula": "c2",
+      "boton": "As … as",
+      "otra_manera": "Dice que dos cosas son iguales: [[as tall as]] (tan alto como). El adjetivo no cambia. En negativo dice que no son iguales: [[isn't as fast as]].",
+      "vida_real": "Es el \"tan… como\" del castellano.",
+      "claves": [
+        "as as",
+        "tan como",
+        "igual"
+      ],
+      "parte": "El más de todos: superlativos y as … as"
+    },
+    {
+      "id": "ing-4-06-c3-1",
+      "clase": "ing-4-06",
+      "capsula": "c3",
+      "boton": "Describir comparando",
+      "otra_manera": "Para describir un lugar o una persona sin dar números, alcanza con comparar: [[My town is quieter than the city.]] Y para destacar algo, un superlativo: [[the best place]].",
+      "vida_real": "Es lo que hacés cuando le contás a alguien cómo es tu pueblo comparado con una ciudad grande.",
+      "claves": [
+        "describir",
+        "lugar",
+        "ciudad"
+      ],
+      "parte": "Comparar lugares y personas: mi mundo"
+    },
+    {
+      "id": "ing-4-06-c3-2",
+      "clase": "ing-4-06",
+      "capsula": "c3",
+      "boton": "Adjetivos para lugares",
+      "otra_manera": "Quiet (tranquilo) y noisy (ruidoso), busy (con mucho movimiento), cheap (barato) y expensive (caro), friendly (amigable). Todos se pueden comparar: [[noisier]], [[the busiest]].",
+      "vida_real": "Sirven para cualquier descripción de un barrio o una ciudad.",
+      "claves": [
+        "quiet",
+        "noisy",
+        "busy",
+        "cheap",
+        "expensive",
+        "adjetivos"
+      ],
+      "parte": "Comparar lugares y personas: mi mundo"
+    },
+    {
+      "id": "ing-4-07-c1-1",
+      "clase": "ing-4-07",
+      "capsula": "c1",
+      "boton": "Formal o informal",
+      "otra_manera": "Depende de a quién le escribís. A amigos: [[Hi]], contracciones y [[See you soon]]. A docentes o empresas: [[Dear Ms…]], palabras completas ([[I am]]) y [[Best regards]].",
+      "vida_real": "Es la diferencia entre un mensaje a un amigo y una nota a la dirección de la escuela.",
+      "claves": [
+        "formal",
+        "informal",
+        "registro"
+      ],
+      "parte": "El correo y el mensaje: formal e informal"
+    },
+    {
+      "id": "ing-4-07-c1-2",
+      "clase": "ing-4-07",
+      "capsula": "c1",
+      "boton": "Las partes de un correo",
+      "otra_manera": "Saludo, comienzo, pedido o mensaje, cierre y despedida con la firma. Cambian las palabras según el registro, pero el orden es el mismo.",
+      "vida_real": "Pensalo como una carta: siempre se saluda al principio y se firma al final.",
+      "claves": [
+        "partes",
+        "correo",
+        "email",
+        "orden"
+      ],
+      "parte": "El correo y el mensaje: formal e informal"
+    },
+    {
+      "id": "ing-4-07-c2-1",
+      "clase": "ing-4-07",
+      "capsula": "c2",
+      "boton": "Can, could y would you like",
+      "otra_manera": "Can sirve para pedir con confianza ([[Can you…?]]) o pedir permiso ([[Can I…?]]). Could es más cortés ([[Could you…?]]). Would you like sirve para invitar u ofrecer ([[Would you like to come?]]).",
+      "vida_real": "Es como \"¿me pasás…?\", \"¿me podría pasar…?\" y \"¿querés…?\".",
+      "claves": [
+        "can",
+        "could",
+        "would",
+        "pedir",
+        "invitar"
+      ],
+      "parte": "Pedir y ofrecer: can, could y would you like"
+    },
+    {
+      "id": "ing-4-07-c2-2",
+      "clase": "ing-4-07",
+      "capsula": "c2",
+      "boton": "Aceptar y rechazar",
+      "otra_manera": "Para aceptar: [[Sure!]], [[Of course.]], [[Yes, I'd love to!]]. Para rechazar con amabilidad: [[Sorry, I can't.]] y una razón.",
+      "vida_real": "Un \"no\" con una razón suena mucho más amable que un \"no\" solo.",
+      "claves": [
+        "aceptar",
+        "rechazar",
+        "sure",
+        "sorry"
+      ],
+      "parte": "Pedir y ofrecer: can, could y would you like"
+    },
+    {
+      "id": "ing-4-07-c3-1",
+      "clase": "ing-4-07",
+      "capsula": "c3",
+      "boton": "Normas para escribir en línea",
+      "otra_manera": "Ser amable, no escribir todo en mayúsculas (se lee como un grito), no compartir la contraseña ni la dirección, preguntar antes de publicar la foto de alguien y releer antes de enviar.",
+      "vida_real": "Son las mismas reglas que valen para cualquier chat o red social que uses.",
+      "claves": [
+        "netiquette",
+        "normas",
+        "linea",
+        "password",
+        "contraseña"
+      ],
+      "parte": "Un correo de intercambio y las normas para escribir en línea"
+    },
+    {
+      "id": "ing-4-07-c3-2",
+      "clase": "ing-4-07",
+      "capsula": "c3",
+      "boton": "Pedido e invitación en un correo",
+      "otra_manera": "En un correo informal suele haber un pedido ([[Could you send me…?]]) y una invitación u ofrecimiento ([[Would you like to…?]]). Buscalos por la primera palabra de la pregunta.",
+      "vida_real": "Es lo que hacés cuando le escribís a alguien que conociste hace poco.",
+      "claves": [
+        "pedido",
+        "invitacion",
+        "correo"
+      ],
+      "parte": "Un correo de intercambio y las normas para escribir en línea"
+    },
+    {
+      "id": "ing-4-08-c1-1",
+      "clase": "ing-4-08",
+      "capsula": "c1",
+      "boton": "Para qué sirve el presente perfecto",
+      "otra_manera": "Cuenta experiencias de la vida sin decir cuándo: [[I have made a video call.]] Si decís cuándo, se usa el pasado simple: [[I made a video call yesterday.]]",
+      "vida_real": "Es como decir \"alguna vez hice…\" sin acordarte de la fecha.",
+      "claves": [
+        "presente perfecto",
+        "present perfect",
+        "experiencia"
+      ],
+      "parte": "El presente perfecto: have y has + participio"
+    },
+    {
+      "id": "ing-4-08-c1-2",
+      "clase": "ing-4-08",
+      "capsula": "c1",
+      "boton": "Have o has",
+      "otra_manera": "Have va con I, you, we y they. Has va con he, she e it. Después va el participio: [[she has sent]], [[they have seen]].",
+      "vida_real": "Es la misma regla de la -s que en el presente simple: con he y she cambia.",
+      "claves": [
+        "have",
+        "has"
+      ],
+      "parte": "El presente perfecto: have y has + participio"
+    },
+    {
+      "id": "ing-4-08-c1-3",
+      "clase": "ing-4-08",
+      "capsula": "c1",
+      "boton": "El participio",
+      "otra_manera": "En los verbos regulares es igual al pasado, con -ed ([[used]], [[recorded]]). Los irregulares hay que aprenderlos: [[made]], [[sent]], [[seen]], [[written]], [[lost]], [[bought]], [[been]].",
+      "vida_real": "Conviene anotarlos en la carpeta en tres columnas: verbo, pasado y participio.",
+      "claves": [
+        "participio",
+        "irregular",
+        "made",
+        "sent"
+      ],
+      "parte": "El presente perfecto: have y has + participio"
+    },
+    {
+      "id": "ing-4-08-c2-1",
+      "clase": "ing-4-08",
+      "capsula": "c2",
+      "boton": "Ever y never",
+      "otra_manera": "Ever (alguna vez) va en preguntas: [[Have you ever…?]]. Never (nunca) va en afirmativas y ya niega: [[I have never…]], sin haven't.",
+      "vida_real": "Son las preguntas típicas de una encuesta: \"¿Alguna vez…?\".",
+      "claves": [
+        "ever",
+        "never",
+        "nunca",
+        "alguna vez"
+      ],
+      "parte": "Ever, never, already y yet"
+    },
+    {
+      "id": "ing-4-08-c2-2",
+      "clase": "ing-4-08",
+      "capsula": "c2",
+      "boton": "Already y yet",
+      "otra_manera": "Already (ya) va entre have y el participio: [[I have already finished.]] Yet va al final de negativas y preguntas: [[I haven't finished yet.]] [[Have you finished yet?]]",
+      "vida_real": "Es lo que contestás cuando te preguntan si ya terminaste la tarea.",
+      "claves": [
+        "already",
+        "yet",
+        "todavia",
+        "ya"
+      ],
+      "parte": "Ever, never, already y yet"
+    },
+    {
+      "id": "ing-4-08-c3-1",
+      "clase": "ing-4-08",
+      "capsula": "c3",
+      "boton": "Contar los resultados de una encuesta",
+      "otra_manera": "Se escribe en tercera persona, con has: [[Mia has made a website.]] [[Ben has never sent a voice message.]] Si se dice cuándo pasó algo, se cambia al pasado simple.",
+      "vida_real": "Es como pasar en limpio las respuestas de una encuesta para un informe.",
+      "claves": [
+        "encuesta",
+        "survey",
+        "tercera persona",
+        "informe"
+      ],
+      "parte": "Una encuesta sobre tecnología"
+    }
+  ]
+}

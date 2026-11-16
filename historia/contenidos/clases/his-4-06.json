@@ -1,0 +1,1351 @@
+{
+  "id": "his-4-06",
+  "espacio": "historia",
+  "eje": "El mundo de la posguerra",
+  "titulo": "Tercer Mundo, No Alineados y Revolución Cubana",
+  "intro": "Después de la Segunda Guerra Mundial, el mundo quedó dividido entre dos superpotencias. Vas a ver qué se llamó \"Tercer Mundo\", cómo muchos países se organizaron para no depender de ningún bloque, y por qué la Revolución Cubana cambió la historia de América Latina.",
+  "tp_aporte": "Para tu trabajo práctico ya tenés: qué fue la Guerra Fría y el Tercer Mundo, qué buscaban los No Alineados, la diferencia entre Este-Oeste y Norte-Sur, y el impacto de la Revolución Cubana en América Latina y en la política de Estados Unidos.",
+  "objetivos": [
+    "Explicar qué fue la Guerra Fría y qué se llamó Tercer Mundo.",
+    "Reconocer qué buscaban los No Alineados y qué plantea el conflicto Norte-Sur.",
+    "Explicar la Revolución Cubana, su impacto en América Latina y la respuesta de Estados Unidos."
+  ],
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "Un mundo dividido en tres",
+      "tiempo": "30 a 40 min",
+      "recordas": "¿Escuchaste alguna vez la expresión \"país del Tercer Mundo\"? ¿Qué creés que quiere decir?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Después de 1945: dos superpotencias",
+          "texto": "Cuando terminó la Segunda Guerra Mundial (1945), quedaron dos países con muchísimo poder: **Estados Unidos** y la **Unión Soviética (URSS)**. Cada uno defendía un sistema distinto: Estados Unidos, el **capitalismo**; la URSS, el **comunismo**.\n\nLos dos compitieron por tener más influencia en el mundo, pero nunca se enfrentaron directamente en una guerra entre ellos. Por eso a ese conflicto se lo llamó **Guerra Fría**. Duró desde fines de la década de 1940 hasta 1991, cuando se disolvió la URSS."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Pensalo así",
+          "texto": "Imaginá dos equipos muy fuertes que se disputan el campeonato. No juegan entre ellos, pero cada uno intenta sumar jugadores, hinchas y barrios a su lado. Los demás clubes sienten la presión de tener que elegir un bando."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Los \"tres mundos\" de la Guerra Fría",
+          "columnas": [
+            "",
+            "Primer Mundo",
+            "Segundo Mundo",
+            "Tercer Mundo"
+          ],
+          "filas": [
+            [
+              "Quiénes",
+              "Estados Unidos, Europa occidental y sus aliados",
+              "La URSS y los países de Europa del Este",
+              "Países de Asia, África y América Latina"
+            ],
+            [
+              "Sistema",
+              "Capitalista",
+              "Comunista",
+              "Diverso: no pertenecían a ninguno de los dos bloques"
+            ],
+            [
+              "Economía",
+              "Industrializada y rica",
+              "Industrializada, con el Estado a cargo de todo",
+              "Exportaba materias primas; mucha pobreza"
+            ]
+          ]
+        },
+        {
+          "t": "esquema",
+          "_imagen": true,
+          "consigna": "Completá el esquema con lo que viste en la tabla \"Los \"tres mundos\" de la Guerra Fría\": ubicá cada etiqueta en su casillero.",
+          "imagen": {
+            "src": "img/clases/his-4-06-tres-mundos.svg",
+            "src_movil": "img/clases/his-4-06-tres-mundos-movil.svg",
+            "tipo": "grafico",
+            "alt": "Esquema de tres columnas: Primer Mundo, Segundo Mundo y Tercer Mundo, cada una con un casillero para \"Quiénes\" y otro para \"Sistema\".",
+            "epigrafe": "Esquema elaborado para esta clase."
+          },
+          "huecos": [
+            {
+              "x": 3.2,
+              "y": 38.21,
+              "w": 28.0,
+              "h": 26.79,
+              "respuesta": "Estados Unidos, Europa occidental y sus aliados",
+              "movil": {
+                "x": 6.0,
+                "y": 10.39,
+                "w": 88.0,
+                "h": 10.08
+              }
+            },
+            {
+              "x": 36.0,
+              "y": 38.21,
+              "w": 28.0,
+              "h": 26.79,
+              "respuesta": "La URSS y los países de Europa del Este",
+              "movil": {
+                "x": 6.0,
+                "y": 43.57,
+                "w": 88.0,
+                "h": 10.08
+              }
+            },
+            {
+              "x": 68.8,
+              "y": 38.21,
+              "w": 28.0,
+              "h": 26.79,
+              "respuesta": "Países de Asia, África y América Latina",
+              "movil": {
+                "x": 6.0,
+                "y": 76.74,
+                "w": 88.0,
+                "h": 10.08
+              }
+            },
+            {
+              "x": 3.2,
+              "y": 72.86,
+              "w": 28.0,
+              "h": 20.71,
+              "respuesta": "Capitalista",
+              "movil": {
+                "x": 6.0,
+                "y": 23.72,
+                "w": 88.0,
+                "h": 7.44
+              }
+            },
+            {
+              "x": 36.0,
+              "y": 72.86,
+              "w": 28.0,
+              "h": 20.71,
+              "respuesta": "Comunista",
+              "movil": {
+                "x": 6.0,
+                "y": 56.9,
+                "w": 88.0,
+                "h": 7.44
+              }
+            },
+            {
+              "x": 68.8,
+              "y": 72.86,
+              "w": 28.0,
+              "h": 20.71,
+              "respuesta": "Diverso: no pertenecían a ninguno de los dos bloques",
+              "movil": {
+                "x": 6.0,
+                "y": 90.08,
+                "w": 88.0,
+                "h": 7.44
+              }
+            }
+          ],
+          "distractores": [],
+          "explicacion": "Es la misma información de la tabla, ahora en un esquema.",
+          "pista": "Volvé a mirar la tabla: las filas \"Quiénes\" y \"Sistema\"."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Por qué se llamó \"Guerra Fría\" al conflicto entre Estados Unidos y la URSS?",
+          "opciones": [
+            "Nunca pelearon directamente entre sí",
+            "Las batallas se dieron en lugares con mucho frío",
+            "El conflicto duró muy poco tiempo",
+            "En esos años no hubo ningún conflicto en el mundo"
+          ],
+          "correcta": 0,
+          "explicacion": "Competían por influencia en todo el mundo, pero sin enfrentarse cara a cara en una guerra.",
+          "pista": "Releé el segundo párrafo del primer texto."
+        },
+        {
+          "t": "texto",
+          "titulo": "¿Qué era el Tercer Mundo?",
+          "texto": "Se llamó **Tercer Mundo** a los países que no formaban parte de ninguno de los dos bloques. Muchos eran de **Asia y África** y se estaban independizando de las potencias europeas que los habían colonizado: ese proceso se llama **descolonización**. También se incluía a **América Latina**.\n\nEstos países tenían problemas parecidos: pobreza, economías que dependían de vender **materias primas** y poca industria."
+        },
+        {
+          "t": "dato",
+          "titulo": "¿De dónde sale el nombre?",
+          "texto": "En 1952, el francés Alfred Sauvy usó por primera vez la expresión \"Tercer Mundo\". La comparó con el \"Tercer Estado\" de la Revolución Francesa: el grupo más numeroso, que no tenía voz en las decisiones. **No significa \"tercer puesto\"**, sino \"el que no pertenece a los otros dos\"."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿A qué \"mundo\" pertenecía cada país durante la Guerra Fría? Si tenés dudas, mirá la tabla de los tres mundos.",
+          "categorias": [
+            "Primer Mundo",
+            "Segundo Mundo",
+            "Tercer Mundo"
+          ],
+          "items": [
+            {
+              "texto": "Estados Unidos",
+              "cat": "Primer Mundo"
+            },
+            {
+              "texto": "Francia",
+              "cat": "Primer Mundo"
+            },
+            {
+              "texto": "Unión Soviética (URSS)",
+              "cat": "Segundo Mundo"
+            },
+            {
+              "texto": "Polonia (Europa del Este)",
+              "cat": "Segundo Mundo"
+            },
+            {
+              "texto": "India",
+              "cat": "Tercer Mundo"
+            },
+            {
+              "texto": "Ghana (África)",
+              "cat": "Tercer Mundo"
+            },
+            {
+              "texto": "Bolivia",
+              "cat": "Tercer Mundo"
+            }
+          ],
+          "explicacion": "El Primer Mundo era el bloque capitalista, el Segundo el comunista y el Tercero, los países que no pertenecían a ninguno."
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada \"mundo\" de la Guerra Fría con quiénes lo formaban.",
+          "pares": [
+            {
+              "a": "Primer Mundo",
+              "b": "Estados Unidos, Europa occidental y sus aliados"
+            },
+            {
+              "a": "Segundo Mundo",
+              "b": "La URSS y Europa del Este"
+            },
+            {
+              "a": "Tercer Mundo",
+              "b": "Países de Asia, África y América Latina fuera de los bloques"
+            }
+          ],
+          "explicacion": "Así se dividía el mundo durante la Guerra Fría.",
+          "pista": "Releé los textos de esta parte.",
+          "_nuevo": true
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué a un país recién independizado le podía convenir no unirse a ninguna de las dos superpotencias?",
+          "respuesta": "Porque acababa de liberarse de una potencia que lo dominaba y no quería quedar bajo el control de otra. Mantenerse afuera de los bloques le permitía decidir por sí mismo y no verse arrastrado a los conflictos de Estados Unidos y la URSS."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué fue la Guerra Fría y qué se llamó \"Tercer Mundo\". Contá qué superpotencias se enfrentaban y con qué sistemas, por qué fue \"fría\", qué países formaban el Tercer Mundo y qué problemas tenían en común.",
+        "guia": [
+          "¿Qué dos superpotencias quedaron después de 1945 y qué sistema defendía cada una?",
+          "¿Por qué se la llamó \"Guerra Fría\"?",
+          "¿Qué países formaban el Tercer Mundo?",
+          "¿Qué es la descolonización?",
+          "¿Qué problemas compartían esos países?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "estados unidos",
+              "eeuu"
+            ],
+            "p": "Estados Unidos"
+          },
+          {
+            "k": [
+              "urss",
+              "sovietica"
+            ],
+            "p": "la URSS"
+          },
+          {
+            "k": [
+              "capitalis",
+              "comunis"
+            ],
+            "p": "los dos sistemas"
+          },
+          {
+            "k": [
+              "guerra fria",
+              "directamente",
+              "no se enfrentaron"
+            ],
+            "p": "por qué fue \"fría\""
+          },
+          {
+            "k": [
+              "descoloniz",
+              "independiz"
+            ],
+            "p": "la descolonización"
+          },
+          {
+            "k": [
+              "pobreza",
+              "materias primas",
+              "industria"
+            ],
+            "p": "los problemas en común"
+          }
+        ],
+        "referencia": "Después de 1945, Estados Unidos (capitalismo) y la URSS (comunismo) compitieron por influencia sin enfrentarse directamente: la Guerra Fría. El Tercer Mundo eran los países que no pertenecían a ningún bloque: muchos de Asia y África que se independizaban (descolonización) y América Latina. Compartían pobreza, economías basadas en materias primas y poca industria.",
+        "minPalabras": 35
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Después de 1945, Estados Unidos y la URSS quedaron como las dos superpotencias.",
+          "respuesta": true,
+          "explicacion": "Cada una defendía un sistema distinto."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Estados Unidos defendía el comunismo y la URSS el capitalismo.",
+          "respuesta": false,
+          "explicacion": "Es al revés: Estados Unidos, el capitalismo; la URSS, el comunismo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la Guerra Fría, Estados Unidos y la URSS pelearon directamente entre sí.",
+          "respuesta": false,
+          "explicacion": "Por eso se la llamó \"fría\": nunca se enfrentaron directamente."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Guerra Fría terminó en 1991, cuando se disolvió la URSS.",
+          "respuesta": true,
+          "explicacion": "Había empezado a fines de la década de 1940."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Tercer Mundo\" significa que esos países estaban en el tercer puesto de un ranking.",
+          "respuesta": false,
+          "explicacion": "Significa que no pertenecían a ninguno de los dos bloques."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La descolonización es el proceso por el que países de Asia y África se independizaron de potencias europeas.",
+          "respuesta": true,
+          "explicacion": "Muchos de esos países formaron parte del Tercer Mundo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "América Latina también se incluía en el Tercer Mundo.",
+          "respuesta": true,
+          "explicacion": "Compartía problemas como la pobreza y la dependencia de las materias primas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué sistema defendía la URSS?",
+          "opciones": [
+            "El comunismo",
+            "El capitalismo",
+            "El fascismo",
+            "La monarquía"
+          ],
+          "correcta": 0,
+          "explicacion": "Estados Unidos defendía el capitalismo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué países formaban el Segundo Mundo?",
+          "opciones": [
+            "La URSS y Europa del Este",
+            "Estados Unidos y Europa occidental",
+            "Los de América Latina",
+            "Los de África"
+          ],
+          "correcta": 0,
+          "explicacion": "Era el bloque comunista."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es la descolonización?",
+          "opciones": [
+            "La independencia de las colonias",
+            "La creación de nuevas colonias europeas en Asia",
+            "La unión de las dos superpotencias en un solo bloque",
+            "Una guerra directa entre Estados Unidos y la URSS"
+          ],
+          "correcta": 0,
+          "explicacion": "Ocurrió sobre todo en Asia y África después de 1945."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué problema compartían los países del Tercer Mundo?",
+          "opciones": [
+            "Dependían de vender materias primas",
+            "Tenían demasiadas fábricas y poca agricultura",
+            "Eran superpotencias",
+            "No tenían población suficiente para trabajar"
+          ],
+          "correcta": 0,
+          "explicacion": "También la pobreza y la poca industria."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quién usó por primera vez la expresión \"Tercer Mundo\", en 1952?",
+          "opciones": [
+            "Alfred Sauvy",
+            "Fidel Castro",
+            "Juan D. Perón",
+            "Hipólito Yrigoyen"
+          ],
+          "correcta": 0,
+          "explicacion": "La comparó con el \"Tercer Estado\" de la Revolución Francesa."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué se la llamó \"Guerra Fría\"?",
+          "opciones": [
+            "Las superpotencias no se enfrentaron directamente",
+            "Se peleó sobre todo en el Polo Norte",
+            "Duró apenas unos pocos días",
+            "Entre los bloques no hubo ninguna tensión"
+          ],
+          "correcta": 0,
+          "explicacion": "Competían por influencia en todo el mundo."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "GUERRA FRÍA",
+          "pista": "Conflicto entre Estados Unidos y la URSS sin enfrentamiento directo."
+        },
+        {
+          "palabra": "SUPERPOTENCIA",
+          "pista": "País con muchísimo poder, como Estados Unidos o la URSS."
+        },
+        {
+          "palabra": "CAPITALISMO",
+          "pista": "Sistema que defendía Estados Unidos."
+        },
+        {
+          "palabra": "COMUNISMO",
+          "pista": "Sistema que defendía la URSS."
+        },
+        {
+          "palabra": "DESCOLONIZACIÓN",
+          "pista": "Independencia de países de Asia y África que eran colonias."
+        },
+        {
+          "palabra": "TERCER MUNDO",
+          "pista": "Países que no pertenecían a ninguno de los dos bloques."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué se llamó \"Tercer Mundo\" durante la Guerra Fría?",
+          "opciones": [
+            "Los países que no eran de ningún bloque",
+            "Los países más ricos e industrializados del mundo",
+            "El bloque comunista",
+            "Los países de Europa occidental y sus aliados"
+          ],
+          "correcta": 0,
+          "explicacion": "Muchos eran de Asia y África, recién independizados, y también se incluía a América Latina."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué caracterizó a la Guerra Fría?",
+          "opciones": [
+            "Dos superpotencias compitiendo sin enfrentarse",
+            "Una guerra mundial con batallas entre Estados Unidos y la URSS",
+            "Una alianza entre los países capitalistas y los comunistas",
+            "El fin de todas las potencias después de la guerra"
+          ],
+          "correcta": 0,
+          "explicacion": "Estados Unidos (capitalismo) y la URSS (comunismo) compitieron desde fines de la década de 1940 hasta 1991."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Muchos países del Tercer Mundo dependían de vender materias primas.",
+          "respuesta": true,
+          "explicacion": "Tenían poca industria y mucha pobreza."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Los No Alineados y el conflicto Norte-Sur",
+      "tiempo": "30 a 40 min",
+      "recordas": "¿Qué recordás de los países del Tercer Mundo? ¿Por qué no querían depender de las superpotencias?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Ni con unos ni con otros",
+          "texto": "Muchos países del Tercer Mundo decidieron **no alinearse**: es decir, no sumarse a ninguno de los dos bloques de la Guerra Fría. Querían decidir por sí mismos.\n\nEn **1955** se reunieron en **Bandung** (Indonesia) 29 países de Asia y África. Y en **1961**, en **Belgrado** (Yugoslavia), se fundó el **Movimiento de Países No Alineados**. Algunos de sus líderes fueron Nehru (India), Nasser (Egipto), Tito (Yugoslavia), Sukarno (Indonesia) y Nkrumah (Ghana)."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Qué defendían los No Alineados",
+          "texto": "• **Independencia**: no depender de ninguna superpotencia.\n• **Rechazo al colonialismo**: que todos los pueblos pudieran gobernarse a sí mismos.\n• **Paz**: no ser arrastrados a las guerras de los bloques.\n• **Desarrollo**: salir de la pobreza y tener industria propia."
+        },
+        {
+          "t": "linea",
+          "titulo": "Del fin de la guerra a los No Alineados",
+          "eventos": [
+            {
+              "anio": "1945",
+              "titulo": "Fin de la Segunda Guerra Mundial",
+              "texto": "Quedan dos superpotencias: Estados Unidos y la URSS."
+            },
+            {
+              "anio": "1947",
+              "titulo": "Independencia de la India",
+              "texto": "Uno de los primeros grandes casos de descolonización."
+            },
+            {
+              "anio": "1955",
+              "titulo": "Conferencia de Bandung",
+              "texto": "29 países de Asia y África se reúnen en Indonesia."
+            },
+            {
+              "anio": "1960",
+              "titulo": "\"Año de África\"",
+              "texto": "17 países africanos se independizan en un solo año."
+            },
+            {
+              "anio": "1961",
+              "titulo": "Conferencia de Belgrado",
+              "texto": "Se funda el Movimiento de Países No Alineados."
+            }
+          ]
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená estos hechos de más antiguo a más reciente. Los años no están: buscalos en la línea de tiempo.",
+          "items": [
+            "Termina la Segunda Guerra Mundial",
+            "La India se independiza",
+            "29 países de Asia y África se reúnen en Bandung",
+            "17 países africanos se independizan en un solo año",
+            "Se funda el Movimiento de Países No Alineados en Belgrado"
+          ],
+          "explicacion": "Primero vino la descolonización y, después, los nuevos países se organizaron para no depender de los bloques.",
+          "pista": "Todos los hechos están en la línea \"Del fin de la guerra a los No Alineados\"."
+        },
+        {
+          "t": "texto",
+          "titulo": "Otra forma de ver el mundo: Norte y Sur",
+          "texto": "Durante la Guerra Fría, el conflicto principal se pensaba como **Este contra Oeste**: comunismo contra capitalismo. Pero los países del Tercer Mundo propusieron otra mirada: **Norte contra Sur**.\n\nEl **Norte desarrollado** (Estados Unidos, Europa, la URSS) era rico e industrializado. El **Sur subdesarrollado** (América Latina, África y gran parte de Asia) era pobre y vendía materias primas. Para el Sur, el problema no era elegir un bando, sino la **desigualdad** entre países ricos y pobres."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "El problema de vender barato y comprar caro",
+          "texto": "El economista argentino **Raúl Prebisch**, desde la CEPAL (un organismo de Naciones Unidas para América Latina creado en 1948), explicó un problema clave: con el tiempo, los productos del campo valen cada vez menos comparados con los productos industriales.\n\nEs como si cada año tuvieras que vender más bolsas de trigo para comprar el mismo tractor. Así, el Sur trabajaba más y seguía siendo pobre."
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "src": "img/clases/his-4-06-vender-barato.svg",
+          "src_movil": "img/clases/his-4-06-vender-barato-movil.svg",
+          "tipo": "grafico",
+          "alt": "Ilustración: antes, tres bolsas de trigo alcanzaban para comprar un tractor; años después, hacen falta siete bolsas para el mismo tractor.",
+          "epigrafe": "El ejemplo de las bolsas de trigo y el tractor, en un dibujo. Esquema elaborado para esta clase.",
+          "animacion": "svg"
+        },
+        {
+          "t": "comparar",
+          "titulo": "Dos formas de ver el conflicto mundial",
+          "columnas": [
+            "",
+            "Este – Oeste",
+            "Norte – Sur"
+          ],
+          "filas": [
+            [
+              "Qué enfrenta",
+              "Comunismo contra capitalismo",
+              "Países ricos contra países pobres"
+            ],
+            [
+              "Quiénes",
+              "La URSS contra Estados Unidos",
+              "Norte desarrollado contra Sur subdesarrollado"
+            ],
+            [
+              "El problema central",
+              "Qué sistema político y económico gana",
+              "La desigualdad y la dependencia económica"
+            ]
+          ]
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada característica corresponde al Norte desarrollado o al Sur subdesarrollado?",
+          "categorias": [
+            "Norte desarrollado",
+            "Sur subdesarrollado"
+          ],
+          "items": [
+            {
+              "texto": "Economía industrializada",
+              "cat": "Norte desarrollado"
+            },
+            {
+              "texto": "Vende sobre todo materias primas",
+              "cat": "Sur subdesarrollado"
+            },
+            {
+              "texto": "Compra productos industriales caros",
+              "cat": "Sur subdesarrollado"
+            },
+            {
+              "texto": "Concentra la riqueza",
+              "cat": "Norte desarrollado"
+            },
+            {
+              "texto": "Mucha población en la pobreza",
+              "cat": "Sur subdesarrollado"
+            }
+          ],
+          "explicacion": "El Norte era rico e industrializado; el Sur vendía materias primas, compraba productos industriales y tenía mucha pobreza."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Qué quería decir \"no alinearse\"?",
+          "opciones": [
+            "No sumarse a ninguno de los dos bloques",
+            "Aliarse con Estados Unidos y el bloque capitalista",
+            "Aliarse con la URSS y el bloque comunista",
+            "No ir a reuniones internacionales"
+          ],
+          "correcta": 0,
+          "explicacion": "Los No Alineados querían decidir por sí mismos, sin depender de ninguna superpotencia.",
+          "pista": "Releé el primer párrafo de esta parte."
+        },
+        {
+          "t": "dato",
+          "titulo": "¿Y la Argentina?",
+          "texto": "La Argentina se sumó al Movimiento de Países No Alineados en **1973** y lo dejó en **1991**."
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá el texto con las palabras que corresponden.",
+          "texto": "Los países que no querían sumarse a ningún bloque se llamaron No [[Alineados]]. Se reunieron en [[Bandung]] en 1955 y fundaron su movimiento en Belgrado en 1961. Además propusieron ver el conflicto como Norte contra [[Sur]]: países ricos contra países pobres.",
+          "distractores": [
+            "Unidos",
+            "Moscú",
+            "Este"
+          ],
+          "explicacion": "Una forma distinta de pensar el mundo.",
+          "pista": "Todas las palabras están en los textos de esta parte.",
+          "_nuevo": true
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué fue el Movimiento de Países No Alineados y qué significa el conflicto Norte-Sur. Contá dónde y cuándo se organizaron, qué defendían, y en qué se diferencia mirar el mundo como Este-Oeste o como Norte-Sur.",
+        "guia": [
+          "¿Qué quiere decir \"no alinearse\"?",
+          "¿Qué pasó en Bandung (1955) y en Belgrado (1961)?",
+          "¿Qué defendían los No Alineados?",
+          "¿Qué diferencia hay entre el Norte desarrollado y el Sur subdesarrollado?",
+          "¿Qué problema explicó Raúl Prebisch?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "alinea"
+            ],
+            "p": "qué es no alinearse"
+          },
+          {
+            "k": [
+              "bandung",
+              "1955"
+            ],
+            "p": "la Conferencia de Bandung"
+          },
+          {
+            "k": [
+              "belgrado",
+              "1961"
+            ],
+            "p": "la fundación del movimiento"
+          },
+          {
+            "k": [
+              "independencia",
+              "colonialismo",
+              "paz",
+              "desarrollo"
+            ],
+            "p": "qué defendían"
+          },
+          {
+            "k": [
+              "norte",
+              "sur"
+            ],
+            "p": "el conflicto Norte-Sur"
+          },
+          {
+            "k": [
+              "desigualdad",
+              "materias primas",
+              "prebisch"
+            ],
+            "p": "la desigualdad entre países"
+          }
+        ],
+        "referencia": "Los No Alineados eran países que no se sumaban a ningún bloque. Se reunieron en Bandung (1955, 29 países de Asia y África) y fundaron el movimiento en Belgrado (1961). Defendían la independencia, el rechazo al colonialismo, la paz y el desarrollo. Además de Este-Oeste, propusieron ver el conflicto como Norte (rico, industrializado) contra Sur (pobre, vendedor de materias primas). Prebisch explicó que los productos del campo valen cada vez menos frente a los industriales.",
+        "minPalabras": 35
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "\"No alinearse\" significaba no sumarse a ninguno de los dos bloques.",
+          "respuesta": true,
+          "explicacion": "Querían decidir por sí mismos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En 1955 se reunieron en Bandung 29 países de Asia y África.",
+          "respuesta": true,
+          "explicacion": "Fue en Indonesia."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Movimiento de Países No Alineados se fundó en Buenos Aires.",
+          "respuesta": false,
+          "explicacion": "Se fundó en Belgrado (Yugoslavia), en 1961."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los No Alineados defendían el colonialismo.",
+          "respuesta": false,
+          "explicacion": "Lo rechazaban: querían que todos los pueblos pudieran gobernarse a sí mismos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Mirar el mundo como Norte-Sur pone el foco en la desigualdad entre países ricos y pobres.",
+          "respuesta": true,
+          "explicacion": "Este-Oeste, en cambio, enfrentaba comunismo y capitalismo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Raúl Prebisch era un economista argentino.",
+          "respuesta": true,
+          "explicacion": "Trabajó desde la CEPAL, un organismo de Naciones Unidas."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Argentina nunca formó parte de los No Alineados.",
+          "respuesta": false,
+          "explicacion": "Se sumó en 1973 y lo dejó en 1991."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Dónde se fundó el Movimiento de Países No Alineados?",
+          "opciones": [
+            "En Belgrado, en 1961",
+            "En Bandung, en 1955",
+            "En Moscú, en 1945",
+            "En Washington, en 1947"
+          ],
+          "correcta": 0,
+          "explicacion": "En Bandung (1955) hubo una conferencia anterior."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estos fue un líder de los No Alineados?",
+          "opciones": [
+            "Nehru, de la India",
+            "Mussolini, de Italia",
+            "Roosevelt, de Estados Unidos",
+            "Yrigoyen, de la Argentina"
+          ],
+          "correcta": 0,
+          "explicacion": "También Nasser, Tito, Sukarno y Nkrumah."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué NO defendían los No Alineados?",
+          "opciones": [
+            "Depender de una superpotencia",
+            "La independencia de los pueblos",
+            "La paz entre los países",
+            "El desarrollo y la industria propia"
+          ],
+          "correcta": 0,
+          "explicacion": "Justamente querían no depender de ninguna."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué enfrentaba la mirada \"Este-Oeste\"?",
+          "opciones": [
+            "Comunismo contra capitalismo",
+            "Países ricos contra países pobres",
+            "Asia contra África",
+            "Europa contra América"
+          ],
+          "correcta": 0,
+          "explicacion": "La mirada Norte-Sur enfrentaba países ricos y pobres."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué caracterizaba al Sur subdesarrollado?",
+          "opciones": [
+            "Vendía materias primas y había pobreza",
+            "Era rico y estaba muy industrializado",
+            "Formaba el bloque comunista de la URSS",
+            "No tenía población suficiente para trabajar"
+          ],
+          "correcta": 0,
+          "explicacion": "El Norte era rico e industrializado."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué problema explicó Prebisch?",
+          "opciones": [
+            "El campo vale cada vez menos que la industria",
+            "Había demasiadas fábricas en América Latina",
+            "Los países del Norte eran los más pobres",
+            "Los países del Sur no debían exportar nada"
+          ],
+          "correcta": 0,
+          "explicacion": "Es como tener que vender cada vez más trigo para comprar el mismo tractor."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "NO ALINEADOS",
+          "pista": "Países que no se sumaban a ninguno de los dos bloques."
+        },
+        {
+          "palabra": "BANDUNG",
+          "pista": "Ciudad de Indonesia donde se reunieron 29 países en 1955."
+        },
+        {
+          "palabra": "BELGRADO",
+          "pista": "Ciudad donde se fundó el movimiento en 1961."
+        },
+        {
+          "palabra": "SUBDESARROLLADO",
+          "pista": "Así se llamaba al Sur, pobre y vendedor de materias primas."
+        },
+        {
+          "palabra": "DESIGUALDAD",
+          "pista": "El problema central de la mirada Norte-Sur."
+        },
+        {
+          "palabra": "PREBISCH",
+          "pista": "Economista argentino de la CEPAL."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué buscaban los países No Alineados?",
+          "opciones": [
+            "Decidir sin depender de una superpotencia",
+            "Unirse al bloque comunista encabezado por la URSS",
+            "Unirse al bloque capitalista encabezado por Estados Unidos",
+            "Volver a ser colonias"
+          ],
+          "correcta": 0,
+          "explicacion": "Defendían la independencia, el rechazo al colonialismo, la paz y el desarrollo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué diferencia hay entre mirar el mundo como Este-Oeste o como Norte-Sur?",
+          "opciones": [
+            "Este-Oeste: sistemas; Norte-Sur: ricos y pobres",
+            "Son dos nombres para exactamente la misma idea",
+            "Norte-Sur enfrenta al comunismo con el capitalismo",
+            "Este-Oeste se refiere a la desigualdad entre países"
+          ],
+          "correcta": 0,
+          "explicacion": "Para el Sur, el problema central era la desigualdad y la dependencia económica."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Movimiento de Países No Alineados se fundó en Belgrado en 1961.",
+          "respuesta": true,
+          "explicacion": "Antes, en 1955, hubo una conferencia en Bandung."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "La Revolución Cubana y América Latina",
+      "tiempo": "40 a 50 min",
+      "recordas": "¿Qué sabés o escuchaste sobre la Revolución Cubana, Fidel Castro o el Che Guevara?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Cuba antes de 1959",
+          "texto": "En la década de 1950, Cuba estaba gobernada por un dictador, **Fulgencio Batista**. Su economía dependía mucho de **Estados Unidos**: empresas estadounidenses controlaban gran parte del azúcar, la principal exportación, y de otros negocios. Había mucha pobreza en el campo y mucha desigualdad."
+        },
+        {
+          "t": "linea",
+          "titulo": "La Revolución Cubana paso a paso",
+          "eventos": [
+            {
+              "anio": "1953",
+              "titulo": "Asalto al cuartel Moncada",
+              "texto": "Un grupo liderado por Fidel Castro ataca un cuartel del ejército. Fracasa, pero el movimiento se da a conocer."
+            },
+            {
+              "anio": "1956",
+              "titulo": "Desembarco del Granma",
+              "texto": "Fidel Castro, Ernesto \"Che\" Guevara y otros llegan a Cuba en un barco y forman una guerrilla en la Sierra Maestra."
+            },
+            {
+              "anio": "1959 (1 de enero)",
+              "titulo": "Triunfo de la revolución",
+              "texto": "Batista huye del país y los revolucionarios toman el poder."
+            },
+            {
+              "anio": "1961",
+              "titulo": "Bahía de Cochinos",
+              "texto": "Exiliados cubanos apoyados por Estados Unidos intentan invadir la isla y fracasan. Cuba se declara socialista."
+            },
+            {
+              "anio": "1962",
+              "titulo": "Crisis de los misiles",
+              "texto": "La URSS instala misiles en Cuba. Durante días, el mundo teme una guerra nuclear."
+            }
+          ]
+        },
+        {
+          "t": "dato",
+          "titulo": "Un rosarino en la revolución",
+          "texto": "Ernesto \"Che\" Guevara nació en **Rosario**, Santa Fe, en 1928. Era médico. Su imagen es una de las fotos más reproducidas del mundo y todavía aparece en remeras, banderas y murales."
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená estos hechos de más antiguo a más reciente. Los años no están: buscalos en la línea de tiempo.",
+          "items": [
+            "Fidel Castro ataca el cuartel Moncada",
+            "Desembarca el Granma y se forma la guerrilla en la Sierra Maestra",
+            "Batista huye y triunfa la revolución",
+            "Fracasa la invasión de Bahía de Cochinos",
+            "La URSS instala misiles en Cuba"
+          ],
+          "explicacion": "La revolución tardó seis años en triunfar y, después, el conflicto con Estados Unidos fue creciendo.",
+          "pista": "Todos los hechos están en la línea \"La Revolución Cubana paso a paso\"."
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "📰 Elegí el titular",
+          "pregunta": "Si fueras periodista el 1 de enero de 1959, ¿qué titular escribirías?",
+          "opciones": [
+            "Batista huye y triunfa la revolución",
+            "La URSS instala misiles nucleares en territorio cubano",
+            "Fracasa la invasión de exiliados en Bahía de Cochinos"
+          ],
+          "correcta": 0,
+          "explicacion": "El 1 de enero de 1959 Batista huyó del país y triunfó la revolución. Los otros dos hechos fueron después: en 1961 y en 1962.",
+          "pista": "Buscá en la línea de tiempo qué pasó el 1 de enero de 1959."
+        },
+        {
+          "t": "texto",
+          "titulo": "Qué hizo el nuevo gobierno y cómo reaccionó Estados Unidos",
+          "texto": "El gobierno revolucionario hizo una **reforma agraria** (repartió tierras), **nacionalizó** empresas, muchas de ellas estadounidenses, y en 1961 hizo una gran **campaña de alfabetización**. También se extendió la salud pública.\n\nEstados Unidos respondió con dureza: rompió relaciones con Cuba, apoyó la invasión de **Bahía de Cochinos** y estableció un **bloqueo económico** (también llamado embargo). Cuba se acercó entonces a la **URSS** y se declaró socialista. Así, la Guerra Fría llegó a América Latina."
+        },
+        {
+          "t": "comparar",
+          "titulo": "La Revolución Cubana: logros y límites",
+          "columnas": [
+            "",
+            "Lo que se destaca como logro",
+            "Lo que se critica"
+          ],
+          "filas": [
+            [
+              "Sociedad",
+              "Alfabetización, educación y salud pública para toda la población",
+              "Muchas personas se fueron del país, sobre todo a Estados Unidos"
+            ],
+            [
+              "Política",
+              "Fin de la dictadura de Batista e independencia frente a Estados Unidos",
+              "Partido único, sin elecciones libres y con persecución a opositores"
+            ],
+            [
+              "Economía",
+              "Reforma agraria y reparto de la tierra",
+              "Fuerte dependencia de la URSS y dificultades por el bloqueo"
+            ]
+          ]
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Por qué la Revolución Cubana se convirtió en un tema de la Guerra Fría?",
+          "opciones": [
+            "Cuba se acercó a la URSS",
+            "Cuba se alió con Estados Unidos contra la URSS",
+            "Cuba integraba los No Alineados desde 1955",
+            "La URSS invadió Cuba con su ejército"
+          ],
+          "correcta": 0,
+          "explicacion": "Tras las nacionalizaciones y el conflicto con Estados Unidos, Cuba se acercó a la URSS: un país aliado al bloque comunista a pocos kilómetros de Estados Unidos.",
+          "pista": "Releé el segundo párrafo del texto sobre el nuevo gobierno."
+        },
+        {
+          "t": "texto",
+          "titulo": "El impacto en América Latina",
+          "texto": "La Revolución Cubana tuvo un gran **impacto político, ideológico y cultural**. Para muchos jóvenes, trabajadores y estudiantes de América Latina mostró que un cambio profundo era posible, y en varios países surgieron **guerrillas** inspiradas en ella. También influyó en la música, la literatura y el arte de la región.\n\nEstados Unidos, por su parte, quiso evitar que hubiera \"otra Cuba\". En 1961 lanzó la **Alianza para el Progreso**, un programa de ayuda económica. Y también **intervino**: apoyó a gobiernos y ejércitos que combatían a quienes consideraba \"comunistas\", y respaldó golpes de Estado como los de Brasil (1964) y Chile (1973)."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada hecho muestra el impacto de la revolución en América Latina o la respuesta de Estados Unidos?",
+          "categorias": [
+            "Impacto en América Latina",
+            "Respuesta de Estados Unidos"
+          ],
+          "items": [
+            {
+              "texto": "Surgen guerrillas inspiradas en Cuba",
+              "cat": "Impacto en América Latina"
+            },
+            {
+              "texto": "Alianza para el Progreso (1961)",
+              "cat": "Respuesta de Estados Unidos"
+            },
+            {
+              "texto": "Influencia en la música y el arte",
+              "cat": "Impacto en América Latina"
+            },
+            {
+              "texto": "Bloqueo económico a Cuba",
+              "cat": "Respuesta de Estados Unidos"
+            },
+            {
+              "texto": "Apoyo a golpes de Estado como el de Brasil (1964)",
+              "cat": "Respuesta de Estados Unidos"
+            },
+            {
+              "texto": "Jóvenes que creen posible un cambio profundo",
+              "cat": "Impacto en América Latina"
+            }
+          ],
+          "explicacion": "La revolución inspiró a muchos en la región, y Estados Unidos respondió con ayuda económica, presión e intervenciones para evitar \"otra Cuba\"."
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá el texto con las palabras que corresponden.",
+          "texto": "Antes de 1959 Cuba estaba gobernada por el dictador [[Batista]]. La revolución triunfó el 1 de enero de 1959, con Fidel Castro y el Che [[Guevara]]. Estados Unidos respondió con un [[bloqueo]] económico y Cuba se acercó a la [[URSS]].",
+          "distractores": [
+            "Pinochet",
+            "Perón",
+            "acuerdo",
+            "Europa"
+          ],
+          "explicacion": "Así la Guerra Fría llegó a América Latina.",
+          "pista": "Todas las palabras están en los textos de esta parte.",
+          "_nuevo": true
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué una misma revolución puede ser vista como un ejemplo por unas personas y como una amenaza por otras?",
+          "respuesta": "Porque depende de los intereses y las ideas de cada grupo. Para quienes vivían en la pobreza o querían independencia frente a Estados Unidos, mostraba que el cambio era posible. Para Estados Unidos, empresarios y sectores conservadores, era una amenaza a sus negocios y al sistema capitalista. Además, la revolución tuvo logros (educación, salud) y límites (falta de libertades políticas), y cada grupo pone el foco en una parte distinta."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué fue la Revolución Cubana y qué impacto tuvo en América Latina. Contá cómo era Cuba antes de 1959, cómo llegaron al poder los revolucionarios, qué medidas tomaron, cómo reaccionó Estados Unidos y qué consecuencias tuvo en la región. Incluí al menos un logro y un límite de la revolución.",
+        "guia": [
+          "¿Cómo era Cuba antes de 1959?",
+          "¿Quiénes lideraron la revolución y cuándo triunfó?",
+          "¿Qué medidas tomó el nuevo gobierno?",
+          "¿Cómo reaccionó Estados Unidos y por qué Cuba se acercó a la URSS?",
+          "¿Qué impacto tuvo en América Latina y qué hizo Estados Unidos para evitar \"otra Cuba\"?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "batista",
+              "dictador"
+            ],
+            "p": "la dictadura de Batista"
+          },
+          {
+            "k": [
+              "1959"
+            ],
+            "p": "el año del triunfo"
+          },
+          {
+            "k": [
+              "fidel",
+              "castro",
+              "guevara",
+              "che"
+            ],
+            "p": "los líderes"
+          },
+          {
+            "k": [
+              "reforma agraria",
+              "nacionaliz",
+              "alfabetiz"
+            ],
+            "p": "las medidas del nuevo gobierno"
+          },
+          {
+            "k": [
+              "bloqueo",
+              "embargo",
+              "cochinos"
+            ],
+            "p": "la reacción de Estados Unidos"
+          },
+          {
+            "k": [
+              "urss",
+              "sovietic"
+            ],
+            "p": "el acercamiento a la URSS"
+          },
+          {
+            "k": [
+              "guerrilla",
+              "alianza para el progreso",
+              "golpe"
+            ],
+            "p": "el impacto en América Latina"
+          }
+        ],
+        "referencia": "Cuba estaba gobernada por el dictador Batista y dependía de Estados Unidos. Tras el Moncada (1953) y la guerrilla de la Sierra Maestra (desde 1956), Fidel Castro y el Che Guevara triunfaron el 1 de enero de 1959. Hicieron reforma agraria, nacionalizaciones y alfabetización. Estados Unidos rompió relaciones, apoyó Bahía de Cochinos (1961) e impuso un bloqueo; Cuba se acercó a la URSS (crisis de los misiles, 1962). En América Latina inspiró guerrillas y cambios culturales; Estados Unidos respondió con la Alianza para el Progreso y el apoyo a golpes de Estado. Logros: educación y salud. Límites: partido único y falta de libertades.",
+        "minPalabras": 45
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Antes de 1959, Cuba estaba gobernada por el dictador Fulgencio Batista.",
+          "respuesta": true,
+          "explicacion": "Y su economía dependía mucho de Estados Unidos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La revolución triunfó el 1 de enero de 1959.",
+          "respuesta": true,
+          "explicacion": "Batista huyó del país."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Ernesto \"Che\" Guevara nació en Cuba.",
+          "respuesta": false,
+          "explicacion": "Nació en Rosario, Santa Fe, en 1928."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El gobierno revolucionario hizo una reforma agraria y una campaña de alfabetización.",
+          "respuesta": true,
+          "explicacion": "También nacionalizó empresas."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Después de la revolución, Cuba se alió con Estados Unidos.",
+          "respuesta": false,
+          "explicacion": "Estados Unidos rompió relaciones y Cuba se acercó a la URSS."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la crisis de los misiles (1962) el mundo temió una guerra nuclear.",
+          "respuesta": true,
+          "explicacion": "La URSS había instalado misiles en Cuba."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Alianza para el Progreso fue un programa de Estados Unidos para evitar \"otra Cuba\".",
+          "respuesta": true,
+          "explicacion": "Era un programa de ayuda económica lanzado en 1961."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quién gobernaba Cuba antes de la revolución?",
+          "opciones": [
+            "Fulgencio Batista",
+            "Fidel Castro, desde 1953",
+            "Ernesto \"Che\" Guevara",
+            "Getúlio Vargas"
+          ],
+          "correcta": 0,
+          "explicacion": "Era un dictador."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué pasó en Bahía de Cochinos (1961)?",
+          "opciones": [
+            "Fracasó una invasión de exiliados",
+            "Triunfó la revolución y Batista huyó del país",
+            "Desembarcó el Granma con los guerrilleros",
+            "La URSS instaló misiles en la isla"
+          ],
+          "correcta": 0,
+          "explicacion": "Después, Cuba se declaró socialista."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estas fue una medida del gobierno revolucionario?",
+          "opciones": [
+            "La campaña de alfabetización",
+            "Privatizar las empresas",
+            "Aliarse con Estados Unidos",
+            "Devolverle el poder a Batista"
+          ],
+          "correcta": 0,
+          "explicacion": "También la reforma agraria y las nacionalizaciones."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo respondió Estados Unidos a la revolución?",
+          "opciones": [
+            "Rompió relaciones y aplicó un bloqueo",
+            "Ayudó a Fidel Castro",
+            "Se sumó al Movimiento de Países No Alineados",
+            "Le compró más azúcar que antes de la revolución"
+          ],
+          "correcta": 0,
+          "explicacion": "También apoyó la invasión de Bahía de Cochinos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál fue un impacto de la Revolución Cubana en América Latina?",
+          "opciones": [
+            "Surgieron guerrillas inspiradas en ella",
+            "Desaparecieron los ejércitos",
+            "Todos los países se volvieron socialistas",
+            "Terminó la Guerra Fría"
+          ],
+          "correcta": 0,
+          "explicacion": "Para muchos mostró que un cambio profundo era posible."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es un límite que se critica de la Revolución Cubana?",
+          "opciones": [
+            "Partido único, sin elecciones libres",
+            "La campaña de alfabetización de 1961",
+            "La extensión de la salud pública",
+            "El fin de la dictadura de Batista"
+          ],
+          "correcta": 0,
+          "explicacion": "Las otras opciones se destacan como logros."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "BATISTA",
+          "pista": "Dictador que gobernaba Cuba antes de 1959."
+        },
+        {
+          "palabra": "GUERRILLA",
+          "pista": "Grupo armado que se formó en la Sierra Maestra."
+        },
+        {
+          "palabra": "ALFABETIZACIÓN",
+          "pista": "Gran campaña de 1961 para enseñar a leer y escribir."
+        },
+        {
+          "palabra": "BLOQUEO",
+          "pista": "Medida económica de Estados Unidos contra Cuba (también llamada embargo)."
+        },
+        {
+          "palabra": "MISILES",
+          "pista": "Lo que la URSS instaló en Cuba en 1962."
+        },
+        {
+          "palabra": "ROSARIO",
+          "pista": "Ciudad santafesina donde nació el Che Guevara."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué la Revolución Cubana preocupó tanto a Estados Unidos?",
+          "opciones": [
+            "Nacionalizó empresas y se acercó a la URSS",
+            "Cuba invadió territorio de Estados Unidos",
+            "Cuba se sumó al bloque capitalista",
+            "Cuba dejó de producir azúcar para exportar"
+          ],
+          "correcta": 0,
+          "explicacion": "Un país aliado al bloque comunista, muy cerca de Estados Unidos, en plena Guerra Fría."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué hizo Estados Unidos para evitar \"otra Cuba\" en América Latina?",
+          "opciones": [
+            "Alianza para el Progreso y apoyo a golpes",
+            "Apoyó a las guerrillas inspiradas en la revolución",
+            "Se retiró de la región",
+            "Se sumó al Movimiento de Países No Alineados"
+          ],
+          "correcta": 0,
+          "explicacion": "Combinó ayuda económica con presión e intervenciones, como el apoyo a los golpes de Brasil (1964) y Chile (1973)."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Revolución Cubana tuvo logros en educación y salud, y también límites, como la falta de elecciones libres.",
+          "respuesta": true,
+          "explicacion": "Por eso conviene mirar las dos caras antes de sacar conclusiones."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Guerra Fría",
+      "definicion": "Conflicto entre Estados Unidos y la URSS (desde fines de la década de 1940 hasta 1991), sin enfrentamiento directo entre ellos."
+    },
+    {
+      "palabra": "Tercer Mundo",
+      "definicion": "Países que no pertenecían a ninguno de los dos bloques: muchos de Asia, África y América Latina."
+    },
+    {
+      "palabra": "Descolonización",
+      "definicion": "Proceso por el que colonias de Asia y África se independizaron de las potencias europeas."
+    },
+    {
+      "palabra": "No Alineados",
+      "definicion": "Países que decidieron no sumarse a ningún bloque. Fundaron su movimiento en Belgrado, en 1961."
+    },
+    {
+      "palabra": "Norte-Sur",
+      "definicion": "Forma de ver el conflicto mundial como desigualdad entre países ricos (Norte) y pobres (Sur)."
+    },
+    {
+      "palabra": "Revolución Cubana",
+      "definicion": "Proceso que llevó al poder a Fidel Castro y al Che Guevara en Cuba, el 1 de enero de 1959."
+    },
+    {
+      "palabra": "Bloqueo (embargo)",
+      "definicion": "Medidas económicas de Estados Unidos que prohíben comerciar con Cuba."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "\"Tercer Mundo\" quiere decir que esos países estaban en el tercer puesto.",
+      "aclaracion": "Quiere decir que no pertenecían a ninguno de los dos bloques de la Guerra Fría."
+    },
+    {
+      "error": "El Che Guevara era cubano.",
+      "aclaracion": "Nació en Rosario, Santa Fe, en 1928."
+    },
+    {
+      "error": "En la Guerra Fría, Estados Unidos y la URSS pelearon directamente.",
+      "aclaracion": "Nunca se enfrentaron cara a cara: por eso se la llamó \"fría\"."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "A veces se escucha decir \"esto es muy tercermundista\" para hablar de algo mal hecho. Con lo que aprendiste, ¿qué idea equivocada o qué prejuicio hay detrás de esa frase?",
+    "conexion": "Con tu trabajo práctico: ahí vas a relacionar este tema con un ejemplo del presente."
+  }
+}

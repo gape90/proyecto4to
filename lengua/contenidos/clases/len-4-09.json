@@ -1,0 +1,1087 @@
+{
+ "id": "len-4-09",
+ "espacio": "lengua",
+ "eje": "Reflexión sobre el lenguaje",
+ "titulo": "Registros y variedades del lenguaje",
+ "intro": "La lengua cambia según el lugar y según la situación. En esta clase vas a conocer las variedades regionales del español y el lenguaje de tu región, a elegir el registro adecuado para cada situación y a pensar cómo leemos y escribimos en la web.",
+ "objetivos": [
+  "Reconocer variedades regionales del español y rasgos del español de la Argentina.",
+  "Elegir el registro adecuado según la situación comunicativa.",
+  "Reconocer los rasgos de los discursos en la web y usarlos con responsabilidad."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés las variedades regionales, la adecuación del registro a la situación y los rasgos de los discursos en la web, con ejemplos propios.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "El lenguaje de la región",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Hablamos el mismo idioma, pero no igual",
+     "texto": "El español se habla en más de veinte países, y en cada lugar se habla de manera un poco distinta. Cada forma de hablar propia de una región se llama **variedad regional** (o **dialecto**). Cambian algunas palabras, la pronunciación, la entonación y algunas formas de los verbos.\n\nNinguna variedad es mejor que otra: todas son correctas en su lugar y todas permiten comunicarse."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-09-humahuaca.jpg",
+     "tipo": "foto",
+     "animacion": "recorrer",
+     "alt": "Fotografía de un cerro con franjas de colores amarillo y rojo, delante de montañas verdes y con una ladera de tierra y arbustos abajo.",
+     "epigrafe": "Quebrada de Humahuaca, entre Humahuaca y Maimará (Jujuy), en el Noroeste argentino.",
+     "fuente": "Foto: Bachelot Pierre J-P, CC BY-SA 3.0, vía Wikimedia Commons."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Rasgos del español de la Argentina",
+     "texto": "• **El voseo**: decimos \"vos tenés\", \"vos sabés\", en lugar de \"tú tienes\".\n• **Palabras propias**: algunas vienen de lenguas originarias o de las inmigraciones.\n• **La pronunciación**: en gran parte del país la \"ll\" y la \"y\" suenan igual, con un sonido parecido a \"sh\".\n• **Variedades internas**: no se habla igual en el Litoral, en el Noroeste, en Cuyo o en la Patagonia."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Algunas palabras de las regiones argentinas",
+     "columnas": [
+      "Región",
+      "Palabra",
+      "Qué significa"
+     ],
+     "filas": [
+      [
+       "Litoral",
+       "gurí, gurisa",
+       "Niño, niña"
+      ],
+      [
+       "Noroeste",
+       "chango, changa",
+       "Muchacho, muchacha"
+      ],
+      [
+       "Cuyo y Noroeste",
+       "guagua",
+       "Bebé"
+      ],
+      [
+       "Corrientes",
+       "sapucay",
+       "Grito de alegría o de emoción"
+      ]
+     ]
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-09-palabras.svg",
+     "tipo": "grafico",
+     "alt": "Cuatro tarjetas, cada una con una región, un dibujo, una palabra de esa región y su significado.",
+     "epigrafe": "Algunas palabras de las regiones argentinas, con su significado. Ilustración elaborada para esta clase."
+    },
+    {
+     "t": "dato",
+     "titulo": "La tradición oral",
+     "texto": "Muchas expresiones de una región se transmiten **de boca en boca**: dichos, refranes, coplas, cuentos que contaban los abuelos y las abuelas. Forman parte de la identidad de un lugar y están **validadas por la tradición**: se siguen usando porque la comunidad las reconoce como propias."
+    },
+    {
+     "t": "texto",
+     "titulo": "De la oralidad a la escritura",
+     "texto": "Cuando un escritor quiere mostrar cómo habla la gente de un lugar, tiene que **pasar la oralidad a la escritura**: elegir palabras regionales, reproducir la manera de hablar de los personajes y, a veces, usar marcas como comillas o guiones de diálogo. A esa mezcla entre lo oral y lo escrito se la llama **hibridación**.\n\nPor ejemplo, Juan Rulfo hizo hablar a sus personajes como la gente del campo mexicano, y Roa Bastos mezcló el español con el guaraní."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cada ejemplo es un rasgo del español de la Argentina o de otra variedad del español?",
+     "categorias": [
+      "Español de la Argentina",
+      "Otra variedad"
+     ],
+     "items": [
+      {
+       "texto": "\"Vos sabés la respuesta\"",
+       "cat": "Español de la Argentina"
+      },
+      {
+       "texto": "\"Che, vení un momento\"",
+       "cat": "Español de la Argentina"
+      },
+      {
+       "texto": "\"El gurí está jugando\"",
+       "cat": "Español de la Argentina"
+      },
+      {
+       "texto": "\"Tú tienes razón\"",
+       "cat": "Otra variedad"
+      },
+      {
+       "texto": "\"Vosotros sois mis amigos\"",
+       "cat": "Otra variedad"
+      },
+      {
+       "texto": "\"Tú sabes la respuesta\"",
+       "cat": "Otra variedad"
+      }
+     ],
+     "explicacion": "El voseo y palabras como \"che\" y \"gurí\" son propios del español de la Argentina; \"tú tienes\" y \"vosotros\" son de otras variedades."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada palabra regional con su significado.",
+     "pares": [
+      {
+       "a": "gurí",
+       "b": "Niño"
+      },
+      {
+       "a": "chango",
+       "b": "Muchacho"
+      },
+      {
+       "a": "guagua",
+       "b": "Bebé"
+      },
+      {
+       "a": "sapucay",
+       "b": "Grito de alegría o de emoción"
+      }
+     ],
+     "explicacion": "Son palabras de distintas regiones de la Argentina.",
+     "pista": "Releé la tabla de las palabras de las regiones.",
+     "_nuevo": true
+    },
+    {
+     "t": "opcion",
+     "pregunta": "\"¡Qué lindo está el gurí!\" ¿De qué región es probablemente quien lo dice?",
+     "opciones": [
+      "Del Litoral",
+      "Del Noroeste",
+      "De Cuyo",
+      "De España"
+     ],
+     "correcta": 0,
+     "explicacion": "\"Gurí\" es una palabra del Litoral para decir niño.",
+     "pista": "Releé la tabla de palabras de las regiones.",
+     "etiqueta": "🗣️ ¿Quién lo diría?"
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Cómo se llama el uso de \"vos\" en lugar de \"tú\", como en \"vos tenés\"?",
+     "respuesta": "voseo",
+     "explicacion": "Es un rasgo del español de la Argentina.",
+     "pista": "Está en el recuadro de los rasgos del español de la Argentina.",
+     "formato": "Escribí solo la palabra.",
+     "acepta": [
+      "voseo",
+      "el voseo"
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿qué palabra o dicho de tu familia o de tu ciudad no se entendería en otra región del país?",
+     "respuesta": "Depende de cada lugar. En el Litoral se dice \"gurí\" para un niño, y en el Noroeste, \"chango\". Seguro hay palabras o dichos de tu familia que en otro lugar habría que explicar. Eso muestra que la lengua también es parte de la identidad de un lugar."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es una variedad regional y qué rasgos tiene el español de la Argentina. Escribí al menos tres palabras o dichos de tu región o de tu familia, con su significado, y explicá qué es pasar la oralidad a la escritura.",
+    "guia": [
+     "¿Qué es una variedad regional? ¿Hay variedades mejores que otras?",
+     "¿Qué es el voseo? Dá un ejemplo.",
+     "¿Qué palabras regionales conocés y qué significan?",
+     "¿Qué dicho o refrán se usa en tu familia o tu ciudad?",
+     "¿Qué hace un escritor cuando pasa la oralidad a la escritura?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El español se habla de la misma manera en todos los países.",
+     "respuesta": false,
+     "explicacion": "Cada región tiene su variedad."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El voseo es decir \"vos tenés\" en lugar de \"tú tienes\".",
+     "respuesta": true,
+     "explicacion": "Es un rasgo del español de la Argentina."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Algunas variedades del español son incorrectas.",
+     "respuesta": false,
+     "explicacion": "Todas son correctas en su lugar."
+    },
+    {
+     "tipo": "vf",
+     "texto": "\"Gurí\" significa niño en el Litoral.",
+     "respuesta": true,
+     "explicacion": "Y \"gurisa\", niña."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los refranes y dichos suelen transmitirse de boca en boca.",
+     "respuesta": true,
+     "explicacion": "Son parte de la tradición oral."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La hibridación es la mezcla entre lo oral y lo escrito.",
+     "respuesta": true,
+     "explicacion": "Por ejemplo, cuando un escritor reproduce cómo habla la gente."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa \"chango\" en el Noroeste?",
+     "opciones": [
+      "Muchacho",
+      "Bebé",
+      "Perro",
+      "Grito"
+     ],
+     "correcta": 0,
+     "explicacion": "\"Changa\" es muchacha."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es una variedad regional?",
+     "opciones": [
+      "La forma de hablar de una región",
+      "Un idioma distinto del español",
+      "Una forma de hablar que es incorrecta",
+      "Un tipo de poema popular"
+     ],
+     "correcta": 0,
+     "explicacion": "También se la llama dialecto."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas oraciones tiene voseo?",
+     "opciones": [
+      "\"Vos querés ir al río\"",
+      "\"Tú quieres ir al río\"",
+      "\"Vosotros queréis ir\"",
+      "\"Ellos quieren ir\""
+     ],
+     "correcta": 0,
+     "explicacion": "Es la forma propia de la Argentina."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la tradición oral?",
+     "opciones": [
+      "Lo que se transmite de boca en boca",
+      "Lo que se escribe y se publica en los diarios",
+      "Las leyes que dicta el Congreso",
+      "Lo que traen los libros de texto"
+     ],
+     "correcta": 0,
+     "explicacion": "Forma parte de la identidad de un lugar."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué escritor hizo hablar a sus personajes como la gente del campo mexicano?",
+     "opciones": [
+      "Juan Rulfo",
+      "Homero",
+      "Sófocles",
+      "Hesíodo"
+     ],
+     "correcta": 0,
+     "explicacion": "Es un ejemplo de pasar la oralidad a la escritura."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa \"guagua\" en Cuyo y el Noroeste?",
+     "opciones": [
+      "Bebé",
+      "Muchacho",
+      "Colectivo",
+      "Grito"
+     ],
+     "correcta": 0,
+     "explicacion": "Viene del quechua."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "VARIEDAD",
+     "pista": "Forma de hablar propia de una región."
+    },
+    {
+     "palabra": "VOSEO",
+     "pista": "Uso de \"vos\" en lugar de \"tú\"."
+    },
+    {
+     "palabra": "GURÍ",
+     "pista": "Niño, en el Litoral."
+    },
+    {
+     "palabra": "DIALECTO",
+     "pista": "Otra forma de llamar a una variedad regional."
+    },
+    {
+     "palabra": "REFRÁN",
+     "pista": "Dicho popular que se transmite de boca en boca."
+    },
+    {
+     "palabra": "ORALIDAD",
+     "pista": "Lo que se dice hablando."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Una persona de Salta dice \"el chango se fue\". ¿Qué está usando?",
+     "opciones": [
+      "Una palabra de su variedad regional",
+      "Una palabra que se dice mal",
+      "Una palabra tomada del inglés",
+      "Una palabra que se escribe con error"
+     ],
+     "correcta": 0,
+     "explicacion": "En el Noroeste, \"chango\" significa muchacho."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué un escritor usaría palabras regionales en un cuento?",
+     "opciones": [
+      "Para mostrar cómo habla esa gente",
+      "Para que nadie entienda el cuento",
+      "Porque no conoce otras palabras",
+      "Para que el cuento sea más corto"
+     ],
+     "correcta": 0,
+     "explicacion": "Es pasar la oralidad a la escritura."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El voseo es correcto en el español de la Argentina.",
+     "respuesta": true,
+     "explicacion": "Es la forma propia de nuestra variedad."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Registros y adecuación",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "No hablamos igual en todas partes",
+     "texto": "No le hablamos igual a un amigo que a la directora de la escuela, ni escribimos igual un mensaje de chat que una nota para pedir algo. Según la situación, elegimos palabras y formas distintas: eso es el **registro**.\n\nEl registro puede ser **formal** (cuidado, con palabras precisas, con usted o con fórmulas de cortesía) o **informal** (espontáneo, con palabras cotidianas, más libre)."
+    },
+    {
+     "t": "destacado",
+     "titulo": "La situación comunicativa",
+     "texto": "Para elegir el registro adecuado hay que pensar en la **situación comunicativa**:\n• **Quién** habla o escribe.\n• **A quién** se dirige.\n• **Para qué**: pedir, informar, saludar, reclamar.\n• **Dónde** y **por qué medio**: en persona, por teléfono, por escrito, en una red social."
+    },
+    {
+     "t": "comparar",
+     "titulo": "El registro formal y el informal",
+     "columnas": [
+      "",
+      "Formal",
+      "Informal"
+     ],
+     "filas": [
+      [
+       "Cuándo se usa",
+       "Con personas que no conocemos o en situaciones oficiales",
+       "Con familia y amistades, en situaciones cotidianas"
+      ],
+      [
+       "Palabras",
+       "Precisas y cuidadas",
+       "Cotidianas, a veces abreviadas"
+      ],
+      [
+       "Ejemplo",
+       "\"Buenos días. Le escribo para solicitarle…\"",
+       "\"Hola, ¿todo bien? Te quería pedir…\""
+      ]
+     ]
+    },
+    {
+     "t": "esquema",
+     "_imagen": true,
+     "consigna": "Imaginá esta situación: un estudiante le escribe a la directora para pedir permiso para una salida. Completá el esquema ubicando cada dato en su lugar.",
+     "imagen": {
+      "src": "img/clases/len-4-09-situacion.svg",
+      "src_movil": "img/clases/len-4-09-situacion-movil.svg",
+      "tipo": "grafico",
+      "alt": "Esquema de cuatro filas: quién, a quién, para qué y registro adecuado, cada una con un casillero vacío.",
+      "epigrafe": "Esquema elaborado para esta clase."
+     },
+     "huecos": [
+      {
+       "x": 49.0,
+       "y": 17.55,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "Un estudiante de cuarto año",
+       "movil": {
+        "x": 4.0,
+        "y": 19.42,
+        "w": 92.0,
+        "h": 11.02
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 37.14,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "La directora de la escuela",
+       "movil": {
+        "x": 4.0,
+        "y": 41.47,
+        "w": 92.0,
+        "h": 11.02
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 56.73,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "Pedir permiso para una salida",
+       "movil": {
+        "x": 4.0,
+        "y": 63.52,
+        "w": 92.0,
+        "h": 11.02
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 76.33,
+       "w": 49.0,
+       "h": 16.33,
+       "respuesta": "Formal",
+       "movil": {
+        "x": 4.0,
+        "y": 85.56,
+        "w": 92.0,
+        "h": 11.02
+       }
+      }
+     ],
+     "distractores": [
+      "Informal",
+      "Un amigo del barrio"
+     ],
+     "explicacion": "Pensar en quién escribe, a quién y para qué ayuda a elegir el registro: a la directora, para un pedido oficial, se le escribe en registro formal.",
+     "pista": "Volvé a mirar el recuadro de la situación comunicativa: cada fila es una de sus preguntas."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Adecuación y corrección",
+     "texto": "Un texto es **adecuado** cuando su registro corresponde a la situación. Además, en las situaciones formales, sobre todo por escrito, se espera que respete los **criterios de corrección**: la ortografía, la puntuación y la gramática que la comunidad acordó como norma. Saber cuándo usar cada registro es parte de saber usar la lengua."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Qué texto es adecuado para escribirle a la directora de la escuela?",
+     "opciones": [
+      "\"Buenos días, señora directora. Le escribo para…\"",
+      "\"Hola, ¿qué onda? Necesito pedirte algo urgente…\"",
+      "\"Che, ¿me hacés un favor con lo del viernes?\"",
+      "\"Holaaa, ¿todo bien? Te escribo por algo…\""
+     ],
+     "correcta": 0,
+     "explicacion": "Con la directora, en una situación oficial, corresponde el registro formal.",
+     "pista": "Releé la tabla de registros."
+    },
+    {
+     "t": "observar",
+     "_imagen": true,
+     "etiqueta": "🔎 Mirá con atención",
+     "consigna": "Mirá las dos pantallas y compará el registro de cada una.",
+     "imagen": {
+      "src": "img/clases/len-4-09-registros.svg",
+      "tipo": "grafico",
+      "alt": "Dos pantallas. La 1 es un celular con un chat entre amigos: \"Holaaa, ¿todo bien?\", \"che, ¿me pasás la tarea?\". La 2 es un correo a la directora que empieza \"Estimada señora directora:\" y termina \"Saludo a usted atentamente.\"",
+      "epigrafe": "Dos mensajes, dos registros. Ilustración elaborada para esta clase."
+     },
+     "preguntas": [
+      {
+       "pregunta": "¿En qué registro está escrito el chat de la pantalla 1?",
+       "opciones": [
+        "Informal",
+        "Formal"
+       ],
+       "correcta": 0,
+       "explicacion": "Usa \"che\", saludos estirados y palabras cotidianas: es informal, adecuado entre amigos.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      },
+      {
+       "pregunta": "¿Por qué el correo de la pantalla 2 es adecuado?",
+       "opciones": [
+        "Porque usa un registro formal",
+        "Porque es más corto que el chat",
+        "Porque tiene emojis amables",
+        "Porque no tiene ningún saludo"
+       ],
+       "correcta": 0,
+       "explicacion": "A una autoridad, para un pedido oficial, se le escribe en registro formal.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      },
+      {
+       "pregunta": "¿Qué fórmula de cortesía cierra el correo?",
+       "opciones": [
+        "\"Saludo a usted atentamente.\"",
+        "\"genio, gracias!!\"",
+        "\"jaja dale\"",
+        "\"Holaaa\""
+       ],
+       "correcta": 0,
+       "explicacion": "Es una fórmula propia del registro formal.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué un mismo pedido puede salir bien o mal según el registro que uses?",
+     "respuesta": "Porque el registro le muestra a quien te lee o escucha cómo lo considerás. Si le escribís a una autoridad como a un amigo, puede parecer una falta de respeto, aunque no sea tu intención; y si le hablás a un amigo con demasiada formalidad, puede sonar distante. Elegir bien el registro ayuda a lograr lo que querés."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es el registro, qué es la situación comunicativa y qué significa que un texto sea adecuado. Después escribí el mismo pedido dos veces: una a un amigo o una amiga (registro informal) y otra a la directora de la escuela (registro formal).",
+    "guia": [
+     "¿Qué es el registro? ¿Qué diferencia hay entre el formal y el informal?",
+     "¿Qué preguntas sirven para analizar la situación comunicativa?",
+     "¿Qué significa que un texto sea adecuado?",
+     "¿Qué cambió entre tus dos versiones del pedido?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El registro formal se usa con familia y amistades.",
+     "respuesta": false,
+     "explicacion": "Con familia y amistades se usa el registro informal."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Para elegir el registro hay que pensar a quién nos dirigimos.",
+     "respuesta": true,
+     "explicacion": "Y para qué, dónde y por qué medio."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un texto es adecuado cuando su registro corresponde a la situación.",
+     "respuesta": true,
+     "explicacion": "Eso es la adecuación."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El registro informal es incorrecto.",
+     "respuesta": false,
+     "explicacion": "Es adecuado en situaciones cotidianas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En las situaciones formales escritas se espera respetar la ortografía y la puntuación.",
+     "respuesta": true,
+     "explicacion": "Son los criterios de corrección."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Una exposición oral en clase pide un registro formal.",
+     "respuesta": true,
+     "explicacion": "Formal pero cercano."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué registro conviene en un correo a una empresa?",
+     "opciones": [
+      "Formal",
+      "Informal",
+      "Cualquiera",
+      "Ninguno"
+     ],
+     "correcta": 0,
+     "explicacion": "No conocemos a quien lo lee y es una situación oficial."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas preguntas analiza la situación comunicativa?",
+     "opciones": [
+      "¿A quién me dirijo?",
+      "¿Cuántas letras tiene el texto?",
+      "¿De qué color es el papel?",
+      "¿Qué hora es?"
+     ],
+     "correcta": 0,
+     "explicacion": "También quién, para qué y por qué medio."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas frases es informal?",
+     "opciones": [
+      "\"Che, ¿venís mañana?\"",
+      "\"Le escribo para solicitarle\"",
+      "\"Saludo a usted atentamente\"",
+      "\"Buenos días, señor director\""
+     ],
+     "correcta": 0,
+     "explicacion": "Usa \"che\" y es espontánea."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué son los criterios de corrección?",
+     "opciones": [
+      "Las normas que la comunidad acordó",
+      "Las notas que se ponen en un examen",
+      "Las palabras propias de una región",
+      "Los emojis que se usan en los chats"
+     ],
+     "correcta": 0,
+     "explicacion": "Se esperan sobre todo en textos formales."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué registro conviene en un audio a un compañero para combinar un partido?",
+     "opciones": [
+      "Informal",
+      "Formal",
+      "Solemne",
+      "Técnico"
+     ],
+     "correcta": 0,
+     "explicacion": "Es una situación cotidiana."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "\"Saludo a usted atentamente.\" ¿Dónde se usaría?",
+     "opciones": [
+      "Al final de una nota formal",
+      "En un chat con amigos del curso",
+      "En la letra de una canción",
+      "En un audio a la familia"
+     ],
+     "correcta": 0,
+     "explicacion": "Es una fórmula de cortesía."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "REGISTRO",
+     "pista": "Forma de hablar o escribir según la situación."
+    },
+    {
+     "palabra": "FORMAL",
+     "pista": "Registro cuidado, para situaciones oficiales."
+    },
+    {
+     "palabra": "INFORMAL",
+     "pista": "Registro cotidiano y espontáneo."
+    },
+    {
+     "palabra": "ADECUACIÓN",
+     "pista": "Relación entre el registro y la situación."
+    },
+    {
+     "palabra": "SITUACIÓN",
+     "pista": "___ comunicativa: quién, a quién, para qué y por qué medio."
+    },
+    {
+     "palabra": "CORTESÍA",
+     "pista": "Fórmulas de ___: \"Saludo a usted atentamente\"."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Le escribiste a la directora: \"Hola, ¿qué onda? Quiero faltar el viernes\". ¿Qué problema tiene?",
+     "opciones": [
+      "Usa un registro informal",
+      "Tiene demasiada cortesía",
+      "Es demasiado largo",
+      "Le falta un emoji"
+     ],
+     "correcta": 0,
+     "explicacion": "Con una autoridad corresponde el registro formal."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué no hay un registro \"mejor\" que otro?",
+     "opciones": [
+      "Porque cada uno sirve en su situación",
+      "Porque los dos registros son incorrectos",
+      "Porque el formal ya no se usa más",
+      "Porque el informal no se puede escribir"
+     ],
+     "correcta": 0,
+     "explicacion": "Lo importante es la adecuación."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Para pedir algo a una autoridad, conviene usar el registro formal.",
+     "respuesta": true,
+     "explicacion": "Muestra respeto por la situación."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Los discursos en la web",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "La web en la que todos escriben",
+     "texto": "Al principio, en internet había páginas que pocas personas escribían y muchas leían. Con el tiempo apareció la llamada **web 2.0**: una web en la que **cualquier persona puede publicar**, comentar, compartir y responder. Las redes sociales, los blogs, los foros, los comentarios y las enciclopedias que escriben sus propios usuarios son ejemplos.\n\nPor eso hoy escribimos mucho más que antes, y en muchos géneros nuevos: publicaciones, comentarios, hilos, mensajes, reseñas."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-09-servidor.jpg",
+     "tipo": "foto",
+     "animacion": "acercar-izq",
+     "alt": "Fotografía de una computadora antigua en una vitrina: un monitor negro, un teclado, un mouse y un gabinete cúbico negro con un cartel escrito a mano.",
+     "epigrafe": "La computadora que Tim Berners-Lee usó como primer servidor de la web. El cartel dice: \"Esta máquina es un servidor. ¡NO LA APAGUEN!\". Hoy está en el Museo de Ciencias de Londres.",
+     "fuente": "Foto: Geni, CC BY-SA 4.0, vía Wikimedia Commons."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Rasgos de la escritura en la web",
+     "texto": "• **Inmediatez**: se escribe y se responde rápido.\n• **Mezcla de lenguajes**: texto, imágenes, videos, emojis, audios.\n• **Hipervínculos**: enlaces que llevan a otros textos.\n• **Registro**: muchas veces informal, aunque depende del sitio y del destinatario.\n• **Público amplio**: lo que se publica puede llegar a mucha gente, y queda guardado."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Distintos discursos en la web",
+     "columnas": [
+      "Género",
+      "Para qué",
+      "Registro habitual"
+     ],
+     "filas": [
+      [
+       "Mensaje de chat",
+       "Conversar con personas conocidas",
+       "Informal"
+      ],
+      [
+       "Publicación en una red social",
+       "Compartir algo con muchas personas",
+       "Informal o formal, según la cuenta"
+      ],
+      [
+       "Reseña de un producto o de un libro",
+       "Opinar para orientar a otros",
+       "Más cuidado"
+      ],
+      [
+       "Correo electrónico a una institución",
+       "Pedir o informar algo",
+       "Formal"
+      ]
+     ]
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-09-web.svg",
+     "tipo": "grafico",
+     "alt": "Un celular con cuatro tipos de texto de la web: un mensaje de chat, una publicación en una red social, una reseña con estrellas y un correo a una institución. Al lado de cada uno, su registro habitual.",
+     "epigrafe": "Cuatro discursos de la web y el registro que suele usar cada uno. Ilustración elaborada para esta clase."
+    },
+    {
+     "t": "dato",
+     "titulo": "Leer y escribir en la web con responsabilidad",
+     "texto": "Antes de compartir algo, conviene **verificar la fuente**: quién lo publicó, cuándo y si otras fuentes confiables dicen lo mismo. Y al escribir, conviene recordar que del otro lado hay personas, que lo publicado puede quedar disponible durante mucho tiempo y que el **respeto** también se cuida por escrito."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los pasos para verificar una información antes de compartirla.",
+     "items": [
+      "Fijarse quién la publicó",
+      "Fijarse cuándo se publicó",
+      "Buscar si otras fuentes confiables dicen lo mismo",
+      "Decidir si se comparte o no"
+     ],
+     "explicacion": "Verificar la fuente evita difundir información falsa.",
+     "pista": "Releé el recuadro de leer y escribir con responsabilidad."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada discurso de la web con su registro habitual.",
+     "pares": [
+      {
+       "a": "Mensaje de chat a un amigo",
+       "b": "Informal"
+      },
+      {
+       "a": "Correo a una institución",
+       "b": "Formal"
+      },
+      {
+       "a": "Reseña de un libro",
+       "b": "Cuidado, para orientar a otros"
+      }
+     ],
+     "explicacion": "En la web también hay que adecuar el registro a la situación.",
+     "pista": "Releé la tabla de discursos en la web.",
+     "_nuevo": true
+    },
+    {
+     "t": "opcion",
+     "pregunta": "Antes de compartir una noticia que viste en una red social, ¿qué conviene hacer?",
+     "opciones": [
+      "Verificar quién la publicó",
+      "Compartirla enseguida con todos",
+      "Cambiarle el título",
+      "Borrar la fuente"
+     ],
+     "correcta": 0,
+     "explicacion": "Verificar la fuente evita difundir información falsa.",
+     "pista": "Releé el recuadro de leer y escribir con responsabilidad."
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Cómo se llama la web en la que cualquier persona puede publicar, comentar y compartir?",
+     "respuesta": "web 2.0",
+     "explicacion": "Las redes, los blogs y los foros son ejemplos.",
+     "pista": "Está en el primer texto de esta parte.",
+     "formato": "Escribí el nombre, con el número.",
+     "acepta": [
+      "web 2.0",
+      "web 2",
+      "la web 2.0"
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué un comentario escrito en una red social puede traer problemas que no traería una charla cara a cara?",
+     "respuesta": "Porque por escrito no se ven el tono ni los gestos, y una broma puede entenderse como una ofensa. Además, lo publicado puede llegar a mucha gente y quedar guardado mucho tiempo. Por eso, también en la web, conviene pensar a quién le escribimos y elegir bien las palabras."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es la web 2.0 y qué rasgos tiene la escritura en la web. Elegí dos discursos de la web (por ejemplo, un chat y un correo a una institución) y explicá qué registro corresponde a cada uno y por qué. Cerrá con dos consejos para leer y escribir en la web con responsabilidad.",
+    "guia": [
+     "¿Qué cambió con la web 2.0?",
+     "¿Qué rasgos tiene la escritura en la web?",
+     "¿Qué registro corresponde a cada discurso que elegiste?",
+     "¿Cómo se verifica una fuente?",
+     "¿Qué cuidados hay que tener al publicar?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "En la web 2.0 cualquier persona puede publicar y comentar.",
+     "respuesta": true,
+     "explicacion": "Por eso escribimos más que antes."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la web siempre se usa el registro informal.",
+     "respuesta": false,
+     "explicacion": "Depende del sitio y del destinatario: un correo a una institución es formal."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un hipervínculo es un enlace que lleva a otro texto.",
+     "respuesta": true,
+     "explicacion": "Es un rasgo de la escritura en la web."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Lo que se publica en la web desaparece enseguida.",
+     "respuesta": false,
+     "explicacion": "Puede quedar disponible durante mucho tiempo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Antes de compartir algo conviene verificar la fuente.",
+     "respuesta": true,
+     "explicacion": "Quién lo publicó y si otras fuentes confiables lo confirman."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la web se mezclan texto, imágenes, videos y emojis.",
+     "respuesta": true,
+     "explicacion": "Es la mezcla de lenguajes."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es un ejemplo de la web 2.0?",
+     "opciones": [
+      "Una red social",
+      "Una carta en papel",
+      "Un libro impreso",
+      "Un cartel en la calle"
+     ],
+     "correcta": 0,
+     "explicacion": "También los blogs y los foros."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué registro conviene en un correo a una institución?",
+     "opciones": [
+      "Formal",
+      "Informal",
+      "Con emojis",
+      "Con abreviaturas"
+     ],
+     "correcta": 0,
+     "explicacion": "Es una situación oficial."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es verificar una fuente?",
+     "opciones": [
+      "Revisar quién lo publicó y si otras fuentes lo confirman",
+      "Darle \"me gusta\" para que lo vea más gente en la red",
+      "Compartirlo enseguida con todos tus contactos",
+      "Borrarlo para que nadie más lo pueda leer"
+     ],
+     "correcta": 0,
+     "explicacion": "Ayuda a no difundir información falsa."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué rasgo de la web es la inmediatez?",
+     "opciones": [
+      "Se escribe y se responde rápido",
+      "Todo se escribe en papel",
+      "Nadie lee lo que se publica",
+      "Los textos son siempre muy largos"
+     ],
+     "correcta": 0,
+     "explicacion": "Es una de sus características."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Para qué sirve una reseña en la web?",
+     "opciones": [
+      "Para orientar a otras personas",
+      "Para conversar con amigos del curso",
+      "Para pedir un permiso oficial",
+      "Para hacer un resumen escolar"
+     ],
+     "correcta": 0,
+     "explicacion": "Por eso se escribe con más cuidado."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué un comentario escrito puede malinterpretarse?",
+     "opciones": [
+      "Porque no se ven el tono ni los gestos",
+      "Porque está escrito en otro idioma distinto",
+      "Porque siempre es demasiado corto",
+      "Porque lo escribe una máquina"
+     ],
+     "correcta": 0,
+     "explicacion": "Una broma puede leerse como ofensa."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "WEB",
+     "pista": "Red de páginas en internet."
+    },
+    {
+     "palabra": "ENLACE",
+     "pista": "Vínculo que lleva a otro texto."
+    },
+    {
+     "palabra": "FUENTE",
+     "pista": "Origen de una información."
+    },
+    {
+     "palabra": "RESEÑA",
+     "pista": "Opinión publicada para orientar a otros."
+    },
+    {
+     "palabra": "INMEDIATEZ",
+     "pista": "Rapidez para escribir y responder."
+    },
+    {
+     "palabra": "EMOJI",
+     "pista": "Pequeña imagen que expresa una emoción en un mensaje."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Querés reclamarle algo a una empresa por su red social. ¿Qué conviene?",
+     "opciones": [
+      "Escribir con registro formal",
+      "Escribir insultos para que respondan rápido",
+      "Usar solo emojis para que sea breve",
+      "Escribir sin explicar el problema"
+     ],
+     "correcta": 0,
+     "explicacion": "La adecuación también vale en la web."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué la web 2.0 cambió nuestra manera de escribir?",
+     "opciones": [
+      "Porque cualquiera puede publicar",
+      "Porque prohibió escribir en papel",
+      "Porque solo permite leer textos",
+      "Porque obliga a escribir en inglés"
+     ],
+     "correcta": 0,
+     "explicacion": "Escribimos más y para públicos más amplios."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la web también hay que adecuar el registro a quién nos dirigimos.",
+     "respuesta": true,
+     "explicacion": "Un chat y un correo formal no se escriben igual."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Variedad regional",
+   "definicion": "Forma de hablar propia de una región; también se la llama dialecto."
+  },
+  {
+   "palabra": "Voseo",
+   "definicion": "Uso de \"vos\" en lugar de \"tú\": \"vos tenés\"."
+  },
+  {
+   "palabra": "Tradición oral",
+   "definicion": "Lo que se transmite de boca en boca: dichos, refranes, coplas."
+  },
+  {
+   "palabra": "Registro",
+   "definicion": "Forma de hablar o escribir según la situación: formal o informal."
+  },
+  {
+   "palabra": "Situación comunicativa",
+   "definicion": "Quién habla, a quién, para qué, dónde y por qué medio."
+  },
+  {
+   "palabra": "Adecuación",
+   "definicion": "Relación entre el registro de un texto y su situación."
+  },
+  {
+   "palabra": "Web 2.0",
+   "definicion": "Web en la que cualquier persona puede publicar, comentar y compartir."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Pensar que hablar con palabras de la región es hablar mal.",
+   "aclaracion": "Todas las variedades son correctas en su lugar."
+  },
+  {
+   "error": "Creer que el registro informal siempre está mal.",
+   "aclaracion": "Es adecuado en situaciones cotidianas; el problema es usarlo donde corresponde el formal."
+  },
+  {
+   "error": "Compartir una información sin verificar de dónde viene.",
+   "aclaracion": "Conviene revisar la fuente y compararla con otras confiables."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Releé tus últimos tres mensajes: ¿qué registro usaste en cada uno? ¿Habrías cambiado algo según a quién se los mandaste?",
+  "conexion": "Con la clase de tiempos verbales, puntuación y acentuación: los criterios de corrección son importantes en los textos formales. Y con la literatura latinoamericana, que hace hablar a sus personajes con la lengua de su región."
+ }
+}

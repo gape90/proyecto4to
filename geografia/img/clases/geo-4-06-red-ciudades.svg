@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-label="Esquema de una red de ciudades unidas por líneas. Londres y Nueva York tienen los círculos más grandes y la mayor cantidad de conexiones. También aparecen París, Dubái, Singapur, Hong Kong, Shanghái, Tokio, Ciudad de México, São Paulo y Buenos Aires." font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect width="960" height="560" rx="28" fill="#F7F4FD"/>
+<g class="a-ap" style="--d:0.10s"><path d="M250 190 Q375 130 500 130" fill="none" stroke="#B9AEDB" stroke-width="4" opacity=".85"/></g>
+<g class="a-ap" style="--d:0.16s"><path d="M500 130 Q530 165 560 260" fill="none" stroke="#B9AEDB" stroke-width="4" opacity=".85"/></g>
+<g class="a-ap" style="--d:0.22s"><path d="M500 130 Q590 200 680 330" fill="none" stroke="#B9AEDB" stroke-width="4" opacity=".85"/></g>
+<g class="a-ap" style="--d:0.28s"><path d="M680 330 Q730 350 780 430" fill="none" stroke="#B9AEDB" stroke-width="2.5" opacity=".85"/></g>
+<g class="a-ap" style="--d:0.34s"><path d="M780 430 Q815 340 850 310" fill="none" stroke="#B9AEDB" stroke-width="2.5" opacity=".85"/></g>
+<g class="a-ap" style="--d:0.40s"><path d="M850 310 Q855 220 860 190" fill="none" stroke="#B9AEDB" stroke-width="2.5" opacity=".85"/></g>
+<g class="a-ap" style="--d:0.46s"><path d="M860 190 Q810 115 760 100" fill="none" stroke="#B9AEDB" stroke-width="2.5" opacity=".85"/></g>
+<g class="a-ap" style="--d:0.52s"><path d="M760 100 Q630 85 500 130" fill="none" stroke="#B9AEDB" stroke-width="4" opacity=".85"/></g>
+<g class="a-ap" style="--d:0.58s"><path d="M250 190 Q185 225 120 320" fill="none" stroke="#B9AEDB" stroke-width="4" opacity=".85"/></g>
+<g class="a-ap" style="--d:0.64s"><path d="M250 190 Q305 265 360 400" fill="none" stroke="#B9AEDB" stroke-width="4" opacity=".85"/></g>
+<g class="a-ap" style="--d:0.70s"><path d="M360 400 Q285 395 210 450" fill="none" stroke="#B9AEDB" stroke-width="2.5" opacity=".85"/></g>
+<g class="a-ap" style="--d:0.76s"><path d="M500 130 Q430 235 360 400" fill="none" stroke="#B9AEDB" stroke-width="4" opacity=".85"/></g>
+<g class="a-ap" style="--d:0.82s"><path d="M500 130 Q675 190 850 310" fill="none" stroke="#B9AEDB" stroke-width="4" opacity=".85"/></g>
+<g class="a-ap" style="--d:0.88s"><path d="M250 190 Q405 195 560 260" fill="none" stroke="#B9AEDB" stroke-width="4" opacity=".85"/></g>
+<g class="a-ap" style="--d:0.94s"><path d="M560 260 Q620 265 680 330" fill="none" stroke="#B9AEDB" stroke-width="2.5" opacity=".85"/></g>
+<g class="a-ap" style="--d:1.00s"><path d="M210 450 Q230 290 250 190" fill="none" stroke="#B9AEDB" stroke-width="4" opacity=".85"/></g>
+<g class="a-ap" style="--d:1.06s"><path d="M500 130 Q640 250 780 430" fill="none" stroke="#B9AEDB" stroke-width="4" opacity=".85"/></g>
+<g class="a-ap" style="--d:1.12s"><path d="M120 320 Q240 330 360 400" fill="none" stroke="#B9AEDB" stroke-width="2.5" opacity=".85"/></g>
+<g class="a-ap" style="--d:1.18s"><path d="M250 190 Q505 115 760 100" fill="none" stroke="#B9AEDB" stroke-width="4" opacity=".85"/></g>
+<g class="a-ap" style="--d:1.40s"><circle cx="250" cy="190" r="24" fill="#5B2A86" stroke="#fff" stroke-width="3"/><text paint-order="stroke" stroke="#F7F4FD" stroke-width="5" x="250" y="156" text-anchor="middle" font-size="20" font-weight="800" fill="#1B1A4A">Nueva York</text></g>
+<g class="a-ap" style="--d:1.48s"><circle cx="500" cy="130" r="24" fill="#5B2A86" stroke="#fff" stroke-width="3"/><text paint-order="stroke" stroke="#F7F4FD" stroke-width="5" x="500" y="96" text-anchor="middle" font-size="20" font-weight="800" fill="#1B1A4A">Londres</text></g>
+<g class="a-ap" style="--d:1.56s"><circle cx="560" cy="260" r="12" fill="#4B4FA3" stroke="#fff" stroke-width="3"/><text paint-order="stroke" stroke="#F7F4FD" stroke-width="5" x="560" y="294" text-anchor="middle" font-size="16" font-weight="800" fill="#1B1A4A">París</text></g>
+<g class="a-ap" style="--d:1.64s"><circle cx="680" cy="330" r="12" fill="#4B4FA3" stroke="#fff" stroke-width="3"/><text paint-order="stroke" stroke="#F7F4FD" stroke-width="5" x="680" y="364" text-anchor="middle" font-size="16" font-weight="800" fill="#1B1A4A">Dubái</text></g>
+<g class="a-ap" style="--d:1.72s"><circle cx="780" cy="430" r="12" fill="#4B4FA3" stroke="#fff" stroke-width="3"/><text paint-order="stroke" stroke="#F7F4FD" stroke-width="5" x="780" y="464" text-anchor="middle" font-size="16" font-weight="800" fill="#1B1A4A">Singapur</text></g>
+<g class="a-ap" style="--d:1.80s"><circle cx="850" cy="310" r="12" fill="#4B4FA3" stroke="#fff" stroke-width="3"/><text paint-order="stroke" stroke="#F7F4FD" stroke-width="5" x="850" y="344" text-anchor="middle" font-size="16" font-weight="800" fill="#1B1A4A">Hong Kong</text></g>
+<g class="a-ap" style="--d:1.88s"><circle cx="860" cy="190" r="12" fill="#4B4FA3" stroke="#fff" stroke-width="3"/><text paint-order="stroke" stroke="#F7F4FD" stroke-width="5" x="860" y="168" text-anchor="middle" font-size="16" font-weight="800" fill="#1B1A4A">Shanghái</text></g>
+<g class="a-ap" style="--d:1.96s"><circle cx="760" cy="100" r="12" fill="#4B4FA3" stroke="#fff" stroke-width="3"/><text paint-order="stroke" stroke="#F7F4FD" stroke-width="5" x="760" y="78" text-anchor="middle" font-size="16" font-weight="800" fill="#1B1A4A">Tokio</text></g>
+<g class="a-ap" style="--d:2.04s"><circle cx="120" cy="320" r="12" fill="#4B4FA3" stroke="#fff" stroke-width="3"/><text paint-order="stroke" stroke="#F7F4FD" stroke-width="5" x="120" y="298" text-anchor="middle" font-size="16" font-weight="800" fill="#1B1A4A">Ciudad de México</text></g>
+<g class="a-ap" style="--d:2.12s"><circle cx="360" cy="400" r="12" fill="#4B4FA3" stroke="#fff" stroke-width="3"/><text paint-order="stroke" stroke="#F7F4FD" stroke-width="5" x="360" y="434" text-anchor="middle" font-size="16" font-weight="800" fill="#1B1A4A">São Paulo</text></g>
+<g class="a-ap" style="--d:2.20s"><circle cx="210" cy="450" r="12" fill="#F0731E" stroke="#fff" stroke-width="3"/><text paint-order="stroke" stroke="#F7F4FD" stroke-width="5" x="210" y="484" text-anchor="middle" font-size="16" font-weight="800" fill="#1B1A4A">Buenos Aires</text></g>
+<g class="a-ap" style="--d:2.5s"><circle cx="70" cy="520" r="14" fill="#5B2A86"/><text x="92" y="526" font-size="15" fill="#1B1A4A">Las más conectadas del mundo</text><circle cx="350" cy="520" r="8" fill="#4B4FA3"/><text x="366" y="526" font-size="15" fill="#1B1A4A">Otras ciudades globales</text><circle cx="580" cy="520" r="8" fill="#F0731E"/><text x="596" y="526" font-size="15" fill="#1B1A4A">Buenos Aires</text></g>
+</svg>

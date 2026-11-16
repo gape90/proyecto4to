@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 1290" role="img" aria-label="Esquema: los tres mundos de la Guerra Fría" font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect x="8" y="8" width="484" height="414" rx="28" fill="#E6E7F6" stroke="#C5C7EA" stroke-width="2"/>
+<circle cx="62" cy="58" r="30" fill="#4B4FA3"/>
+<text x="62" y="71" font-size="36" font-weight="800" fill="#fff" text-anchor="middle">1</text>
+<text x="108" y="68" font-size="26" font-weight="800" fill="#4B4FA3" text-anchor="start">PRIMER MUNDO</text>
+<text x="30" y="126" font-size="21" font-weight="700" fill="#4A4870" text-anchor="start">Quiénes</text>
+<rect x="30" y="134" width="440" height="130" rx="14" fill="#fff" stroke="#4B4FA3" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="30" y="298" font-size="21" font-weight="700" fill="#4A4870" text-anchor="start">Sistema</text>
+<rect x="30" y="306" width="440" height="96" rx="14" fill="#fff" stroke="#4B4FA3" stroke-width="3" stroke-dasharray="10 8"/>
+<rect x="8" y="436" width="484" height="414" rx="28" fill="#FCEAF2" stroke="#F0C3D8" stroke-width="2"/>
+<circle cx="62" cy="486" r="30" fill="#B83A7A"/>
+<text x="62" y="499" font-size="36" font-weight="800" fill="#fff" text-anchor="middle">2</text>
+<text x="108" y="496" font-size="26" font-weight="800" fill="#B83A7A" text-anchor="start">SEGUNDO MUNDO</text>
+<text x="30" y="554" font-size="21" font-weight="700" fill="#4A4870" text-anchor="start">Quiénes</text>
+<rect x="30" y="562" width="440" height="130" rx="14" fill="#fff" stroke="#B83A7A" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="30" y="726" font-size="21" font-weight="700" fill="#4A4870" text-anchor="start">Sistema</text>
+<rect x="30" y="734" width="440" height="96" rx="14" fill="#fff" stroke="#B83A7A" stroke-width="3" stroke-dasharray="10 8"/>
+<rect x="8" y="864" width="484" height="414" rx="28" fill="#FFF3DC" stroke="#EBCB91" stroke-width="2"/>
+<circle cx="62" cy="914" r="30" fill="#B26A00"/>
+<text x="62" y="927" font-size="36" font-weight="800" fill="#fff" text-anchor="middle">3</text>
+<text x="108" y="924" font-size="26" font-weight="800" fill="#B26A00" text-anchor="start">TERCER MUNDO</text>
+<text x="30" y="982" font-size="21" font-weight="700" fill="#4A4870" text-anchor="start">Quiénes</text>
+<rect x="30" y="990" width="440" height="130" rx="14" fill="#fff" stroke="#B26A00" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="30" y="1154" font-size="21" font-weight="700" fill="#4A4870" text-anchor="start">Sistema</text>
+<rect x="30" y="1162" width="440" height="96" rx="14" fill="#fff" stroke="#B26A00" stroke-width="3" stroke-dasharray="10 8"/>
+</svg>

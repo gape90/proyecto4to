@@ -1,0 +1,1050 @@
+{
+ "id": "geo-4-02",
+ "espacio": "geografia",
+ "eje": "Los Estados y la construcción de territorios",
+ "titulo": "El BRIC y el mapa del poder mundial",
+ "intro": "En pocos años, un grupo de países que antes tenían poco peso en las decisiones mundiales empezó a reunirse y a hacerse escuchar. Vas a ver cómo nació el BRIC, cuánto pesa hoy en la economía mundial y cómo cambió el reparto del poder en el mundo.",
+ "objetivos": [
+  "Explicar cómo pasó el BRIC de ser una sigla a ser un grupo de países y quiénes lo forman hoy.",
+  "Describir el peso del BRICS en la población, la producción y el comercio mundial.",
+  "Comparar el mundo bipolar, el unipolar y el multipolar, y presentar las distintas miradas sobre el BRICS."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: el origen y la ampliación del BRICS, sus datos económicos, lo que aporta cada miembro y cómo cambió el reparto del poder mundial.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "De una sigla a un grupo de países",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Una pregunta para arrancar",
+     "texto": "Si tuvieras que nombrar los países más poderosos del mundo, ¿cuáles dirías? ¿Habrías nombrado los mismos hace cincuenta años? Guardá tu respuesta: al final de la clase la vas a poder revisar."
+    },
+    {
+     "t": "texto",
+     "titulo": "Una sigla inventada por un economista",
+     "texto": "En 2001, el economista británico Jim O'Neill, del banco Goldman Sachs, inventó la sigla **BRIC** con las iniciales de cuatro países: **B**rasil, **R**usia, **I**ndia y **C**hina. Los agrupó porque eran **economías emergentes**: países grandes, con mucha población y una economía que crecía rápido, que según él iban a ganar peso en el mundo.\n\nLo que empezó como una etiqueta se convirtió en un grupo real. En 2006 sus cancilleres empezaron a reunirse, y en 2009 los cuatro países hicieron su primera cumbre, en Rusia."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-02-pudong.jpg",
+     "tipo": "foto",
+     "alt": "Fotografía nocturna de rascacielos iluminados a orillas de un río ancho. A la izquierda se destaca una torre alta y fina con esferas, iluminada de rojo.",
+     "epigrafe": "El distrito de Pudong, en Shanghái (China), visto desde el río Huangpu, en 2026.",
+     "fuente": "Foto: DvTor8303, CC0, vía Wikimedia Commons.",
+     "animacion": "recorrer"
+    },
+    {
+     "t": "texto",
+     "titulo": "Del BRIC al BRICS ampliado",
+     "texto": "En 2010 se sumó **Sudáfrica**, y la sigla pasó a ser **BRICS**, con S final. Desde 2024 el grupo se amplió: en enero de ese año entraron Egipto, Etiopía, Irán y los Emiratos Árabes Unidos, y en enero de 2025, Indonesia. Arabia Saudita fue invitada, pero no confirmó su ingreso como miembro pleno.\n\nTambién hay **países socios**, que participan de algunas actividades sin ser miembros plenos. La Argentina fue invitada en 2023 a sumarse desde 2024, y en diciembre de 2023 el gobierno decidió no incorporarse."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Los miembros del BRICS",
+     "columnas": [
+      "País",
+      "Continente",
+      "Desde"
+     ],
+     "filas": [
+      [
+       "Brasil",
+       "América",
+       "El comienzo"
+      ],
+      [
+       "Rusia",
+       "Europa y Asia",
+       "El comienzo"
+      ],
+      [
+       "India",
+       "Asia",
+       "El comienzo"
+      ],
+      [
+       "China",
+       "Asia",
+       "El comienzo"
+      ],
+      [
+       "Sudáfrica",
+       "África",
+       "2010"
+      ],
+      [
+       "Egipto",
+       "África",
+       "2024"
+      ],
+      [
+       "Etiopía",
+       "África",
+       "2024"
+      ],
+      [
+       "Irán",
+       "Asia",
+       "2024"
+      ],
+      [
+       "Emiratos Árabes Unidos",
+       "Asia",
+       "2024"
+      ],
+      [
+       "Indonesia",
+       "Asia",
+       "2025"
+      ]
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "**BRIC** fue una sigla creada en 2001 para cuatro **economías emergentes**: Brasil, Rusia, India y China. Se convirtió en un grupo que hace cumbres desde 2009. Con **Sudáfrica** (2010) pasó a ser **BRICS**, y desde 2024 sumó nuevos miembros de África y Asia."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená estos hechos del más antiguo al más reciente.",
+     "items": [
+      "Se inventa la sigla BRIC",
+      "Primera cumbre de los cuatro países",
+      "Se suma Sudáfrica",
+      "Entran Egipto, Etiopía, Irán y Emiratos Árabes Unidos",
+      "Entra Indonesia"
+     ],
+     "explicacion": "2001, 2009, 2010, 2024 y 2025.",
+     "pista": "Los años están en los dos textos sobre el origen y la ampliación del grupo."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Estuvo desde el comienzo o se sumó después? Si no te acordás, mirá la tabla de los miembros.",
+     "categorias": [
+      "Desde el comienzo",
+      "Se sumó después"
+     ],
+     "items": [
+      {
+       "texto": "India",
+       "cat": "Desde el comienzo"
+      },
+      {
+       "texto": "Sudáfrica",
+       "cat": "Se sumó después"
+      },
+      {
+       "texto": "Rusia",
+       "cat": "Desde el comienzo"
+      },
+      {
+       "texto": "Egipto",
+       "cat": "Se sumó después"
+      },
+      {
+       "texto": "Indonesia",
+       "cat": "Se sumó después"
+      },
+      {
+       "texto": "Brasil",
+       "cat": "Desde el comienzo"
+      }
+     ],
+     "explicacion": "Los cuatro del comienzo son los de la sigla BRIC: Brasil, Rusia, India y China.",
+     "pista": "Las letras de BRIC te dicen cuáles son los cuatro del comienzo."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🔍 Encontrá el error",
+     "pregunta": "Cuatro frases sobre el grupo; una tiene un error. ¿Cuál es?",
+     "opciones": [
+      "La S de BRICS corresponde a Sudáfrica.",
+      "La sigla BRIC la inventó un economista en 2001.",
+      "La Argentina es miembro pleno del BRICS desde 2024.",
+      "Indonesia entró en enero de 2025."
+     ],
+     "correcta": 2,
+     "explicacion": "La Argentina fue invitada en 2023, pero en diciembre de ese año el gobierno decidió no incorporarse.",
+     "pista": "Releé el texto sobre la ampliación del grupo."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "Las economías [[emergentes]] son países grandes, con mucha [[población]] y una economía que crece rápido. Brasil, Rusia, India y China formaron el [[BRIC]]. Cuando se sumó [[Sudáfrica]], el grupo pasó a llamarse BRICS.",
+     "distractores": [
+      "desarrolladas",
+      "Argentina",
+      "superficie"
+     ],
+     "explicacion": "Así nació el nombre del grupo.",
+     "pista": "Releé el texto sobre la sigla y el recuadro \"Para recordar\"."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué te parece que un grupo de países que están en continentes distintos y tienen gobiernos muy diferentes decide reunirse?",
+     "respuesta": "Porque comparten algo: son economías grandes que crecieron y quieren tener más voz en las decisiones mundiales, que durante mucho tiempo tomaron sobre todo los países más ricos. Reunirse les permite coordinar posiciones y hacer negocios entre ellos, aunque tengan diferencias."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Contá cómo pasó el BRIC de ser una sigla a ser un grupo de países. Explicá qué es una economía emergente y cómo fue creciendo el grupo hasta hoy.",
+    "guia": [
+     "¿Quién inventó la sigla BRIC, cuándo y con qué países?",
+     "¿Qué es una economía emergente?",
+     "¿Cuándo hicieron su primera cumbre?",
+     "¿Qué cambió con la llegada de Sudáfrica?",
+     "¿Qué países se sumaron desde 2024?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La sigla BRIC se inventó en 2001.",
+     "respuesta": true,
+     "explicacion": "La creó el economista Jim O'Neill."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La C de BRIC corresponde a Canadá.",
+     "respuesta": false,
+     "explicacion": "Corresponde a China."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Sudáfrica se sumó en 2010.",
+     "respuesta": true,
+     "explicacion": "Desde entonces el grupo se llama BRICS."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Indonesia es miembro desde 2025.",
+     "respuesta": true,
+     "explicacion": "Entró en enero de 2025."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Todos los miembros del BRICS están en Asia.",
+     "respuesta": false,
+     "explicacion": "Hay miembros de América, Europa y Asia, Asia y África."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los cuatro países del BRIC hicieron su primera cumbre en 2009.",
+     "respuesta": true,
+     "explicacion": "Fue en Rusia."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa la S de BRICS?",
+     "opciones": [
+      "Sudáfrica",
+      "Siria",
+      "Suecia",
+      "Singapur"
+     ],
+     "correcta": 0,
+     "explicacion": "Sudáfrica se sumó en 2010."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es una economía emergente?",
+     "opciones": [
+      "Un país sin industria",
+      "Un país grande cuya economía crece rápido",
+      "Un país que no comercia",
+      "Un país muy pequeño"
+     ],
+     "correcta": 1,
+     "explicacion": "Así describió O'Neill a los cuatro del BRIC."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué año entraron Egipto, Etiopía, Irán y los Emiratos?",
+     "opciones": [
+      "2009",
+      "2010",
+      "2024",
+      "2001"
+     ],
+     "correcta": 2,
+     "explicacion": "Entraron en enero de 2024."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos países estuvo desde el comienzo?",
+     "opciones": [
+      "Egipto",
+      "Indonesia",
+      "Etiopía",
+      "India"
+     ],
+     "correcta": 3,
+     "explicacion": "India es la I de BRIC."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué decidió la Argentina en diciembre de 2023?",
+     "opciones": [
+      "Presidir el grupo",
+      "No incorporarse",
+      "Fundar el grupo",
+      "Ser sede de la cumbre"
+     ],
+     "correcta": 1,
+     "explicacion": "Había sido invitada, pero decidió no incorporarse."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué son los países socios?",
+     "opciones": [
+      "Los fundadores",
+      "Los que participan de algunas actividades sin ser miembros plenos",
+      "Los que quieren salir del grupo",
+      "Los que presiden cada año"
+     ],
+     "correcta": 1,
+     "explicacion": "Participan sin ser miembros plenos."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "SIGLA",
+     "pista": "Palabra formada con las iniciales de otras, como BRIC."
+    },
+    {
+     "palabra": "EMERGENTE",
+     "pista": "Economía de un país grande que crece rápido."
+    },
+    {
+     "palabra": "CUMBRE",
+     "pista": "Reunión de los jefes de Estado del grupo."
+    },
+    {
+     "palabra": "SUDÁFRICA",
+     "pista": "País que agregó la S en 2010."
+    },
+    {
+     "palabra": "INDONESIA",
+     "pista": "Último miembro pleno, desde 2025."
+    },
+    {
+     "palabra": "SOCIOS",
+     "pista": "Países que participan sin ser miembros plenos."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué O'Neill agrupó a Brasil, Rusia, India y China?",
+     "opciones": [
+      "Porque estaban en el mismo continente",
+      "Porque eran economías emergentes que iban a ganar peso",
+      "Porque tenían el mismo idioma",
+      "Porque eran los países más chicos"
+     ],
+     "correcta": 1,
+     "explicacion": "Eran países grandes, con mucha población y economías que crecían rápido."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué muestra la ampliación de 2024?",
+     "opciones": [
+      "Que el grupo se disolvió",
+      "Que el grupo sumó países de África y Asia",
+      "Que solo quedaron los fundadores",
+      "Que la Argentina se sumó"
+     ],
+     "correcta": 1,
+     "explicacion": "Entraron Egipto, Etiopía, Irán y los Emiratos Árabes Unidos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas frases es correcta?",
+     "opciones": [
+      "El BRICS tiene miembros de un solo continente",
+      "El BRIC nació como un grupo y después fue una sigla",
+      "La Argentina es miembro pleno",
+      "El BRIC nació como una sigla y después fue un grupo de países"
+     ],
+     "correcta": 3,
+     "explicacion": "Primero fue una etiqueta de un economista; después, un grupo real."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Su peso en la economía mundial",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Grandes, poblados y con economías que crecieron",
+     "texto": "¿Por qué se habla tanto de este grupo? Por su tamaño. Los miembros del BRICS reúnen a algunos de los países más poblados del mundo, como China e India, y a algunos de los más extensos, como Rusia y Brasil. En las últimas décadas sus economías crecieron, y hoy producen y comercian una parte importante de lo que circula en el mundo."
+    },
+    {
+     "t": "infografia",
+     "titulo": "El BRICS en números",
+     "items": [
+      {
+       "num": "11",
+       "texto": "miembros, contando a Arabia Saudita"
+      },
+      {
+       "num": "49,5 %",
+       "texto": "de la población mundial"
+      },
+      {
+       "num": "40 %",
+       "texto": "de la producción mundial (PBI)"
+      },
+      {
+       "num": "26 %",
+       "texto": "del comercio mundial"
+      }
+     ],
+     "nota": "Datos difundidos por el gobierno de la India en 2026, cuando presidía el grupo. Cuentan a Arabia Saudita como miembro, aunque ese país no lo confirmó."
+    },
+    {
+     "t": "texto",
+     "titulo": "Qué aporta cada país",
+     "texto": "Cada miembro tiene su especialidad. **Brasil** exporta alimentos y minerales, como soja, carne y mineral de hierro. **Rusia** es un gran productor de petróleo y gas. **India** se destaca en servicios informáticos. **China** es el mayor productor de bienes industriales del mundo. **Sudáfrica** es un gran productor de minerales, como oro y platino.\n\nPor eso muchos de sus intercambios se complementan: unos venden materias primas y energía, otros, productos industriales y servicios. Buena parte de ese comercio viaja por mar, en barcos cargados de contenedores."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-02-barco-santos.jpg",
+     "tipo": "foto",
+     "alt": "Fotografía de un gran barco de carga en el mar, con cientos de contenedores de colores apilados sobre la cubierta.",
+     "epigrafe": "Un barco portacontenedores sale del puerto de Santos (Brasil), en 2024. Santos es el puerto más grande de América del Sur.",
+     "fuente": "Foto: Wilfredor, CC0, vía Wikimedia Commons.",
+     "animacion": "alejar"
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Los miembros del BRICS reúnen casi la **mitad de la población mundial**, alrededor del **40 % de la producción** y una cuarta parte del **comercio mundial**. Cada uno aporta algo distinto: alimentos, minerales, energía, industria o servicios."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada país con lo que más se destaca en producir.",
+     "pares": [
+      {
+       "a": "Brasil",
+       "b": "Soja, carne y mineral de hierro"
+      },
+      {
+       "a": "Rusia",
+       "b": "Petróleo y gas"
+      },
+      {
+       "a": "India",
+       "b": "Servicios informáticos"
+      },
+      {
+       "a": "China",
+       "b": "Bienes industriales"
+      }
+     ],
+     "explicacion": "Las especialidades se complementan: por eso comercian tanto entre ellos.",
+     "pista": "Releé el texto sobre lo que aporta cada país."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Buscá en la infografía qué porcentaje de la población mundial vive en los países del BRICS. ¿Qué porcentaje vive en el resto del mundo?",
+     "respuesta": "50,5",
+     "explicacion": "Si el BRICS reúne el 49,5 %, en el resto del mundo vive el 50,5 %: casi una mitad y otra mitad.",
+     "pista1": "Pensá en toda la población del mundo como el 100 %.",
+     "pista": "El total es 100 %. Restale el porcentaje del BRICS (49,5)."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "📰 Elegí el titular",
+     "pregunta": "Un diario quiere resumir la infografía en un titular. ¿Cuál es el más fiel a los datos?",
+     "opciones": [
+      "\"El BRICS concentra todo el comercio del mundo\"",
+      "\"Casi la mitad de la población mundial vive en países del BRICS\"",
+      "\"El BRICS produce menos que la Argentina\"",
+      "\"El BRICS tiene más población que todo el planeta\""
+     ],
+     "correcta": 1,
+     "explicacion": "Según la infografía, reúne el 49,5 % de la población mundial.",
+     "pista": "Compará cada titular con los números de la infografía."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "Rusia es un gran productor de petróleo y gas.",
+       "v": true,
+       "explicacion": "Es su especialidad dentro del grupo."
+      },
+      {
+       "texto": "Todos los miembros producen exactamente lo mismo.",
+       "v": false,
+       "explicacion": "Cada uno se especializa en algo distinto."
+      },
+      {
+       "texto": "Buena parte del comercio viaja por mar, en barcos con contenedores.",
+       "v": true,
+       "explicacion": "Como el barco de la foto, que sale del puerto de Santos."
+      },
+      {
+       "texto": "Los datos de la infografía cuentan a Arabia Saudita como miembro.",
+       "v": true,
+       "explicacion": "Lo aclara la nota de la infografía."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: si un grupo reúne casi la mitad de la población del mundo, ¿por qué su producción no llega a la mitad?",
+     "respuesta": "Porque producir no depende solo de cuánta gente vive en un país, sino también de su tecnología, sus fábricas y sus recursos. Muchos países del BRICS tienen mucha población con ingresos bajos, y por eso producen, en promedio, menos por habitante que los países más ricos."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá por qué el BRICS tiene peso en la economía mundial. Usá los datos de la infografía y contá qué aporta cada uno de los cinco primeros miembros.",
+    "guia": [
+     "¿Qué porcentaje de la población mundial reúne?",
+     "¿Qué parte de la producción y del comercio mundial representa?",
+     "¿Quién difundió esos datos y qué aclaración hay que hacer?",
+     "¿En qué se destacan Brasil, Rusia, India, China y Sudáfrica?",
+     "¿Por qué decimos que sus intercambios se complementan?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El BRICS reúne casi la mitad de la población mundial.",
+     "respuesta": true,
+     "explicacion": "El 49,5 %, según el gobierno de la India."
+    },
+    {
+     "tipo": "vf",
+     "texto": "India se destaca en servicios informáticos.",
+     "respuesta": true,
+     "explicacion": "Es su especialidad dentro del grupo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El BRICS representa el 90 % del comercio mundial.",
+     "respuesta": false,
+     "explicacion": "Representa alrededor del 26 %."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Sudáfrica es un gran productor de minerales como el oro y el platino.",
+     "respuesta": true,
+     "explicacion": "Es su aporte principal."
+    },
+    {
+     "tipo": "vf",
+     "texto": "China es el mayor productor de bienes industriales del mundo.",
+     "respuesta": true,
+     "explicacion": "Por eso exporta productos industriales a muchos países."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Santos es un puerto de la India.",
+     "respuesta": false,
+     "explicacion": "Es un puerto de Brasil, el más grande de América del Sur."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué porcentaje de la producción mundial (PBI) reúne el BRICS?",
+     "opciones": [
+      "4 %",
+      "14 %",
+      "40 %",
+      "90 %"
+     ],
+     "correcta": 2,
+     "explicacion": "Alrededor del 40 %."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué exporta principalmente Brasil?",
+     "opciones": [
+      "Soja, carne y mineral de hierro",
+      "Petróleo del mar del Norte",
+      "Servicios informáticos",
+      "Automóviles japoneses"
+     ],
+     "correcta": 0,
+     "explicacion": "Alimentos y minerales."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué se destaca Rusia?",
+     "opciones": [
+      "Servicios informáticos",
+      "Soja",
+      "Petróleo y gas",
+      "Turismo"
+     ],
+     "correcta": 2,
+     "explicacion": "Es un gran productor de energía."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo viaja buena parte del comercio?",
+     "opciones": [
+      "En avión",
+      "Por mar, en barcos con contenedores",
+      "Por tren entre continentes",
+      "Por correo"
+     ],
+     "correcta": 1,
+     "explicacion": "En barcos portacontenedores."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Quién difundió los datos de la infografía?",
+     "opciones": [
+      "La ONU",
+      "El gobierno de Brasil",
+      "Un diario argentino",
+      "El gobierno de la India"
+     ],
+     "correcta": 3,
+     "explicacion": "Los difundió el gobierno de la India en 2026."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué porcentaje del comercio mundial representa el BRICS?",
+     "opciones": [
+      "26 %",
+      "6 %",
+      "60 %",
+      "96 %"
+     ],
+     "correcta": 0,
+     "explicacion": "Alrededor de una cuarta parte."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "POBLACIÓN",
+     "pista": "Cantidad de habitantes de un lugar."
+    },
+    {
+     "palabra": "COMERCIO",
+     "pista": "Compra y venta de bienes y servicios."
+    },
+    {
+     "palabra": "PETRÓLEO",
+     "pista": "Recurso energético que produce Rusia."
+    },
+    {
+     "palabra": "SOJA",
+     "pista": "Alimento que exporta Brasil."
+    },
+    {
+     "palabra": "CONTENEDOR",
+     "pista": "Caja metálica en la que viajan las mercaderías."
+    },
+    {
+     "palabra": "SANTOS",
+     "pista": "Puerto más grande de América del Sur."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué el BRICS tiene peso en la economía mundial?",
+     "opciones": [
+      "Porque sus miembros son países chicos",
+      "Porque reúne mucha población, producción y comercio",
+      "Porque no comercia con nadie",
+      "Porque solo produce alimentos"
+     ],
+     "correcta": 1,
+     "explicacion": "Casi la mitad de la población, el 40 % de la producción y el 26 % del comercio."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa que los intercambios del BRICS se complementan?",
+     "opciones": [
+      "Que todos venden lo mismo",
+      "Que no comercian entre ellos",
+      "Que unos venden materias primas y energía, y otros industria y servicios",
+      "Que solo compran a Europa"
+     ],
+     "correcta": 2,
+     "explicacion": "Cada uno aporta algo distinto."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué conviene leer la nota debajo de la infografía?",
+     "opciones": [
+      "Porque aclara quién dio los datos y qué países cuenta",
+      "Porque tiene un chiste",
+      "Porque cambia todos los números",
+      "Porque no tiene importancia"
+     ],
+     "correcta": 0,
+     "explicacion": "Los datos son del gobierno de la India y cuentan a Arabia Saudita."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Cómo cambia el mapa del poder",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Un mundo con un centro y una periferia",
+     "texto": "Durante gran parte del siglo XX, las grandes decisiones económicas del mundo las tomaban sobre todo los países industrializados del hemisferio norte. Por eso se habla de un **centro** (los países ricos e industrializados) y una **periferia** (los países que vendían materias primas y compraban productos industriales).\n\nEn 1975 varios de esos países empezaron a reunirse, y desde 1976, con la llegada de Canadá, el grupo es el **G7**: Alemania, Canadá, Estados Unidos, Francia, Italia, Japón y el Reino Unido."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Antes y después: cómo se repartió el poder",
+     "columnas": [
+      "",
+      "Guerra Fría (1947-1991)",
+      "Después de 1991",
+      "Hoy"
+     ],
+     "filas": [
+      [
+       "Cómo se describe el mundo",
+       "Bipolar: dos potencias enfrentadas",
+       "Unipolar: una sola gran potencia",
+       "Multipolar: varios polos de poder"
+      ],
+      [
+       "Quiénes tienen más peso",
+       "Estados Unidos y la Unión Soviética",
+       "Estados Unidos",
+       "Estados Unidos, la Unión Europea, China y otros países emergentes"
+      ],
+      [
+       "Dónde aparece el BRICS",
+       "Todavía no existe",
+       "Se inventa la sigla (2001)",
+       "Es un grupo de diez miembros"
+      ]
+     ]
+    },
+    {
+     "t": "texto",
+     "titulo": "Lo que hace el grupo",
+     "texto": "Los miembros del BRICS se reúnen en una **cumbre** cada año, con una presidencia que rota: en 2026 la tuvo la India. En 2014 crearon el **Nuevo Banco de Desarrollo**, con sede en Shanghái, que presta dinero para obras como rutas, puertos o energía.\n\nSobre el papel del grupo hay posiciones distintas. **Quienes lo valoran** dicen que da más voz a países que durante mucho tiempo tuvieron poco peso en las decisiones mundiales. **Quienes señalan sus límites** dicen que sus miembros tienen gobiernos e intereses muy distintos, y que eso hace difícil que actúen juntos."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "El mundo pasó de ser **bipolar** (Guerra Fría) a **unipolar** (después de 1991) y hoy se describe como **multipolar**, con varios polos de poder. El **BRICS** es uno de esos polos: reúne países emergentes que buscan más peso en las decisiones mundiales, aunque tienen diferencias entre ellos."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Quién diría cada frase? Las frases son inventadas.",
+     "categorias": [
+      "Quienes valoran el BRICS",
+      "Quienes señalan sus límites"
+     ],
+     "items": [
+      {
+       "texto": "\"Ahora los países emergentes tienen más voz\"",
+       "cat": "Quienes valoran el BRICS"
+      },
+      {
+       "texto": "\"Sus gobiernos son demasiado distintos para ponerse de acuerdo\"",
+       "cat": "Quienes señalan sus límites"
+      },
+      {
+       "texto": "\"El banco del grupo financia obras que hacían falta\"",
+       "cat": "Quienes valoran el BRICS"
+      },
+      {
+       "texto": "\"Cada miembro tira para su propio lado\"",
+       "cat": "Quienes señalan sus límites"
+      }
+     ],
+     "explicacion": "Las dos miradas aparecen en el texto sobre lo que hace el grupo.",
+     "pista": "Releé el último párrafo del texto sobre lo que hace el grupo."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "Durante la Guerra Fría el mundo era [[bipolar]]. Después de 1991 se lo describió como [[unipolar]]. Hoy se habla de un mundo [[multipolar]], con varios polos de poder, entre ellos el [[BRICS]].",
+     "distractores": [
+      "G7",
+      "tripolar",
+      "periférico"
+     ],
+     "explicacion": "Así cambió la forma de describir el reparto del poder mundial.",
+     "pista": "Mirá la primera fila de la tabla de antes y después."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Completá el dato: ¿en qué ciudad tiene su sede el banco que creó el BRICS en 2014?",
+     "respuesta": "Shanghái",
+     "acepta": [
+      "shanghai",
+      "shanghái",
+      "shangai"
+     ],
+     "explicacion": "El Nuevo Banco de Desarrollo tiene su sede en Shanghái, la ciudad de la foto de la primera parte.",
+     "pista1": "Buscalo en el texto sobre lo que hace el grupo.",
+     "pista": "Es la misma ciudad de la foto nocturna de la primera parte."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Qué diferencia principal hay entre el G7 y el BRICS?",
+     "opciones": [
+      "El G7 reúne países emergentes y el BRICS, países ricos industrializados",
+      "Los dos reúnen exactamente los mismos países",
+      "El G7 reúne países ricos industrializados y el BRICS, países emergentes",
+      "El BRICS existe desde la década de 1970"
+     ],
+     "correcta": 2,
+     "explicacion": "El G7 reúne desde la década de 1970 a países del centro; el BRICS, a economías emergentes.",
+     "pista": "Releé el primer texto de esta parte y la tabla de antes y después."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Volvé a la pregunta del comienzo: ¿qué países nombraste como los más poderosos? ¿Cambiarías algo después de esta clase?",
+     "respuesta": "Hace cincuenta años, la lista se habría limitado casi seguro a Estados Unidos, la Unión Soviética y algunos países de Europa occidental y Japón. Hoy hay que sumar a China y a otros países emergentes. El poder mundial se repartió entre más actores, aunque no en partes iguales."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá cómo cambió el reparto del poder mundial desde la Guerra Fría hasta hoy y qué lugar ocupa el BRICS. Presentá las dos miradas sobre el grupo sin tomar partido.",
+    "guia": [
+     "¿Qué son el centro y la periferia?",
+     "¿Qué es el G7 y qué países lo forman?",
+     "¿Qué significa que el mundo sea bipolar, unipolar o multipolar?",
+     "¿Qué hace el BRICS además de reunirse?",
+     "¿Qué dicen quienes lo valoran y quienes señalan sus límites?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Durante la Guerra Fría el mundo se describía como bipolar.",
+     "respuesta": true,
+     "explicacion": "Estados Unidos y la Unión Soviética estaban enfrentados."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El G7 tiene siete miembros desde 1976.",
+     "respuesta": true,
+     "explicacion": "Ese año se sumó Canadá."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Brasil forma parte del G7.",
+     "respuesta": false,
+     "explicacion": "Forma parte del BRICS."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El BRICS creó un banco en 2014.",
+     "respuesta": true,
+     "explicacion": "El Nuevo Banco de Desarrollo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Hoy el mundo se describe como unipolar.",
+     "respuesta": false,
+     "explicacion": "Hoy se lo describe como multipolar."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Todos están de acuerdo en que el BRICS actúa siempre unido.",
+     "respuesta": false,
+     "explicacion": "Hay quienes señalan que sus diferencias le hacen difícil actuar junto."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la periferia?",
+     "opciones": [
+      "Los países ricos e industrializados",
+      "Los países que vendían materias primas y compraban productos industriales",
+      "Las capitales de cada país",
+      "Un grupo de bancos"
+     ],
+     "correcta": 1,
+     "explicacion": "Así se llamaba a esos países, frente al centro."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos países forma parte del G7?",
+     "opciones": [
+      "China",
+      "India",
+      "Japón",
+      "Sudáfrica"
+     ],
+     "correcta": 2,
+     "explicacion": "Japón integra el G7."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo se describe el mundo después de 1991?",
+     "opciones": [
+      "Unipolar",
+      "Bipolar",
+      "Sin potencias",
+      "Tripolar"
+     ],
+     "correcta": 0,
+     "explicacion": "Con una sola gran potencia, Estados Unidos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde tiene su sede el Nuevo Banco de Desarrollo?",
+     "opciones": [
+      "Brasilia",
+      "Moscú",
+      "Nueva Delhi",
+      "Shanghái"
+     ],
+     "correcta": 3,
+     "explicacion": "En Shanghái."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué país presidió el BRICS en 2026?",
+     "opciones": [
+      "Brasil",
+      "India",
+      "Rusia",
+      "Egipto"
+     ],
+     "correcta": 1,
+     "explicacion": "La presidencia rota; en 2026 fue de la India."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué dicen quienes valoran el BRICS?",
+     "opciones": [
+      "Que no sirve para nada",
+      "Que da más voz a países que tuvieron poco peso",
+      "Que debería disolverse",
+      "Que es igual al G7"
+     ],
+     "correcta": 1,
+     "explicacion": "Le dan valor por la voz que suma a los emergentes."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "CENTRO",
+     "pista": "Países ricos e industrializados que tomaban las grandes decisiones."
+    },
+    {
+     "palabra": "PERIFERIA",
+     "pista": "Países que vendían materias primas y compraban productos industriales."
+    },
+    {
+     "palabra": "MULTIPOLAR",
+     "pista": "Mundo con varios polos de poder."
+    },
+    {
+     "palabra": "BIPOLAR",
+     "pista": "Mundo con dos potencias enfrentadas."
+    },
+    {
+     "palabra": "BANCO",
+     "pista": "El BRICS creó uno en 2014."
+    },
+    {
+     "palabra": "SHANGHÁI",
+     "pista": "Ciudad sede del banco del BRICS."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa que hoy el mundo sea multipolar?",
+     "opciones": [
+      "Que no hay ningún país poderoso",
+      "Que hay varios polos de poder",
+      "Que manda un solo país",
+      "Que hay dos bloques enfrentados"
+     ],
+     "correcta": 1,
+     "explicacion": "El poder se reparte entre varios actores."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas frases presenta el debate sobre el BRICS sin tomar partido?",
+     "opciones": [
+      "El BRICS es la solución para el mundo",
+      "El BRICS no sirve para nada",
+      "Algunos lo valoran porque da más voz a los emergentes y otros señalan las diferencias entre sus miembros",
+      "Nadie opina sobre el BRICS"
+     ],
+     "correcta": 2,
+     "explicacion": "Presenta las dos miradas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia al G7 del BRICS?",
+     "opciones": [
+      "El G7 reúne países ricos industrializados; el BRICS, economías emergentes",
+      "Son el mismo grupo con otro nombre",
+      "El G7 se creó en 2009",
+      "El BRICS es más antiguo"
+     ],
+     "correcta": 0,
+     "explicacion": "Uno representa al centro; el otro, a países emergentes."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Economía emergente",
+   "definicion": "Economía de un país grande, con mucha población, que crece rápido y gana peso en el mundo."
+  },
+  {
+   "palabra": "BRICS",
+   "definicion": "Grupo formado por Brasil, Rusia, India, China y Sudáfrica, ampliado desde 2024."
+  },
+  {
+   "palabra": "Centro",
+   "definicion": "Países ricos e industrializados que concentraban las grandes decisiones económicas."
+  },
+  {
+   "palabra": "Periferia",
+   "definicion": "Países que vendían materias primas y compraban productos industriales."
+  },
+  {
+   "palabra": "G7",
+   "definicion": "Grupo de siete países industrializados; tiene esos siete miembros desde 1976."
+  },
+  {
+   "palabra": "Mundo multipolar",
+   "definicion": "Situación en la que el poder se reparte entre varios polos."
+  },
+  {
+   "palabra": "Cumbre",
+   "definicion": "Reunión de los jefes de Estado o de gobierno de un grupo de países."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "El BRICS es un país.",
+   "aclaracion": "Es un grupo de países que se reúnen y coordinan algunas acciones, como el banco que crearon en 2014."
+  },
+  {
+   "error": "La Argentina es miembro del BRICS.",
+   "aclaracion": "Fue invitada en 2023, pero en diciembre de ese año el gobierno decidió no incorporarse."
+  },
+  {
+   "error": "El BRICS reúne la mitad de la producción del mundo porque tiene la mitad de la población.",
+   "aclaracion": "Reúne el 49,5 % de la población, pero alrededor del 40 % de la producción: producir depende también de la tecnología y los recursos."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Aparte del BRICS y del G7, ¿conocés otros grupos de países que se reúnen para coordinar sus decisiones, como el Mercosur? ¿Qué tienen en común con los que viste?",
+  "conexion": "Con la clase de la especialización productiva de la Unión Europea, otro grupo de países que decidió organizarse en conjunto."
+ }
+}

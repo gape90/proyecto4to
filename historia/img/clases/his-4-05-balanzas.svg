@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 450" role="img" aria-label="Dos balanzas: entre 1930 y 1943 el Estado inclina la balanza hacia los grandes productores; entre 1943 y 1955, hacia los trabajadores" font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect x="0" y="0" width="1000" height="450" rx="28" fill="#F7F4FD"/>
+<text x="260" y="70" font-size="26" font-weight="800" fill="#1B1A4A" text-anchor="middle">Estado conservador</text>
+<text x="260" y="96" font-size="18" font-weight="600" fill="#4A4870" text-anchor="middle">1930-1943</text>
+<rect x="254" y="160" width="12" height="190" fill="#4A4870"/>
+<path d="M190 362 h140 l-20 -14 h-100z" fill="#4A4870"/>
+<line class="a-giro" style="--d:0s;--g:14deg;transform-origin:260px 160px" x1="135.8" y1="191.0" x2="384.2" y2="129.0" stroke="#1B1A4A" stroke-width="8" stroke-linecap="round"/>
+<circle cx="260" cy="160" r="26" fill="#5B2A86"/>
+<text x="260" y="166" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">Estado</text>
+<g class="a-plato" style="--d:0s;--gx:-3.8px;--gy:-31.0px">
+<line x1="135.80214703667247" y1="190.96600263675748" x2="89.80214703667247" y2="260.9660026367575" stroke="#4A4870" stroke-width="2"/>
+<line x1="135.80214703667247" y1="190.96600263675748" x2="181.80214703667247" y2="260.9660026367575" stroke="#4A4870" stroke-width="2"/>
+<path d="M73.80214703667247 260.9660026367575 h124 q-8 26 -62 26 q-54 0 -62 -26z" fill="#B26A00"/>
+<text x="135.80214703667247" y="318.9660026367575" font-size="18" font-weight="700" fill="#B26A00" text-anchor="middle">Grandes productores,</text>
+<text x="135.80214703667247" y="342.9660026367575" font-size="18" font-weight="700" fill="#B26A00" text-anchor="middle">exportadores y empresas</text>
+</g>
+<g class="a-plato" style="--d:0s;--gx:3.8px;--gy:31.0px">
+<line x1="384.19785296332753" y1="129.03399736324252" x2="338.19785296332753" y2="199.03399736324252" stroke="#4A4870" stroke-width="2"/>
+<line x1="384.19785296332753" y1="129.03399736324252" x2="430.19785296332753" y2="199.03399736324252" stroke="#4A4870" stroke-width="2"/>
+<path d="M322.19785296332753 199.03399736324252 h124 q-8 26 -62 26 q-54 0 -62 -26z" fill="#4B4FA3"/>
+<text x="384.19785296332753" y="257.0339973632425" font-size="18" font-weight="700" fill="#4B4FA3" text-anchor="middle">Trabajadores</text>
+</g>
+<text x="740" y="70" font-size="26" font-weight="800" fill="#1B1A4A" text-anchor="middle">Estado peronista</text>
+<text x="740" y="96" font-size="18" font-weight="600" fill="#4A4870" text-anchor="middle">1943-1955</text>
+<rect x="734" y="160" width="12" height="190" fill="#4A4870"/>
+<path d="M670 362 h140 l-20 -14 h-100z" fill="#4A4870"/>
+<line class="a-giro" style="--d:1.5s;--g:-14deg;transform-origin:740px 160px" x1="615.8" y1="129.0" x2="864.2" y2="191.0" stroke="#1B1A4A" stroke-width="8" stroke-linecap="round"/>
+<circle cx="740" cy="160" r="26" fill="#5B2A86"/>
+<text x="740" y="166" font-size="13" font-weight="800" fill="#fff" text-anchor="middle">Estado</text>
+<g class="a-plato" style="--d:1.5s;--gx:-3.8px;--gy:31.0px">
+<line x1="615.8021470366724" y1="129.03399736324252" x2="569.8021470366724" y2="199.03399736324252" stroke="#4A4870" stroke-width="2"/>
+<line x1="615.8021470366724" y1="129.03399736324252" x2="661.8021470366724" y2="199.03399736324252" stroke="#4A4870" stroke-width="2"/>
+<path d="M553.8021470366724 199.03399736324252 h124 q-8 26 -62 26 q-54 0 -62 -26z" fill="#B26A00"/>
+<text x="615.8021470366724" y="257.0339973632425" font-size="18" font-weight="700" fill="#B26A00" text-anchor="middle">Grandes productores</text>
+<text x="615.8021470366724" y="281.0339973632425" font-size="18" font-weight="700" fill="#B26A00" text-anchor="middle">y exportadores</text>
+</g>
+<g class="a-plato" style="--d:1.5s;--gx:3.8px;--gy:-31.0px">
+<line x1="864.1978529633276" y1="190.96600263675748" x2="818.1978529633276" y2="260.9660026367575" stroke="#4A4870" stroke-width="2"/>
+<line x1="864.1978529633276" y1="190.96600263675748" x2="910.1978529633276" y2="260.9660026367575" stroke="#4A4870" stroke-width="2"/>
+<path d="M802.1978529633276 260.9660026367575 h124 q-8 26 -62 26 q-54 0 -62 -26z" fill="#4B4FA3"/>
+<text x="864.1978529633276" y="318.9660026367575" font-size="18" font-weight="700" fill="#4B4FA3" text-anchor="middle">Trabajadores e</text>
+<text x="864.1978529633276" y="342.9660026367575" font-size="18" font-weight="700" fill="#4B4FA3" text-anchor="middle">industria nacional</text>
+</g>
+<line x1="500" y1="70" x2="500" y2="400" stroke="#E2DAF6" stroke-width="3" stroke-dasharray="8 8"/>
+<text x="500" y="432" font-size="18" font-weight="600" fill="#4A4870" text-anchor="middle">El plato que baja es el sector al que favorece el Estado.</text>
+</svg>

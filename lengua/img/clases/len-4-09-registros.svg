@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" role="img" aria-label="Dos pantallas. La 1 es un celular con un chat entre amigos: &quot;Holaaa, ¿todo bien?&quot;, &quot;che, ¿me pasás la tarea?&quot;. La 2 es un correo a la directora que empieza &quot;Estimada señora directora:&quot; y termina &quot;Saludo a usted atentamente.&quot;" font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect width="1000" height="560" fill="#fff"/>
+<rect x="60" y="30" width="300" height="500" rx="40" fill="#1B1A4A"/><rect x="78" y="70" width="264" height="420" rx="10" fill="#ECE5DD"/><circle cx="60" cy="40" r="24" fill="#5B2A86"/><text x="60" y="49" font-size="26" font-weight="800" fill="#fff" text-anchor="middle" >1</text>
+<rect x="88" y="100" width="226" height="60" rx="14" fill="#fff"/><text x="100" y="137" font-size="16" font-weight="600" fill="#1B1A4A" text-anchor="start" >Holaaa, ¿todo bien?</text>
+<rect x="108" y="192" width="226" height="60" rx="14" fill="#DCF8C6"/><text x="120" y="229" font-size="16" font-weight="600" fill="#1B1A4A" text-anchor="start" >che, ¿me pasás la tarea?</text>
+<rect x="88" y="284" width="226" height="60" rx="14" fill="#fff"/><text x="100" y="321" font-size="16" font-weight="600" fill="#1B1A4A" text-anchor="start" >jaja dale, ahí va</text>
+<rect x="108" y="376" width="226" height="60" rx="14" fill="#DCF8C6"/><text x="120" y="413" font-size="16" font-weight="600" fill="#1B1A4A" text-anchor="start" >genio, gracias!!</text>
+<rect x="420" y="60" width="540" height="380" rx="14" fill="#fff" stroke="#4A4870" stroke-width="4"/><rect x="420" y="60" width="540" height="44" rx="14" fill="#4B4FA3"/><circle cx="420" cy="52" r="24" fill="#5B2A86"/><text x="420" y="61" font-size="26" font-weight="800" fill="#fff" text-anchor="middle" >2</text>
+<text x="440" y="90" font-size="20" font-weight="700" fill="#fff" text-anchor="start" >Correo nuevo</text>
+<text x="445" y="140" font-size="18" font-weight="600" fill="#4A4870" text-anchor="start" >Para: directora@escuela</text>
+<text x="445" y="172" font-size="18" font-weight="600" fill="#1B1A4A" text-anchor="start" >Asunto: Solicitud de permiso</text>
+<text x="445" y="236" font-size="20" font-weight="600" fill="#1B1A4A" text-anchor="start" >Estimada señora directora:</text>
+<text x="445" y="268" font-size="20" font-weight="600" fill="#4A4870" text-anchor="start" >Me dirijo a usted para solicitarle</text>
+<text x="445" y="300" font-size="20" font-weight="600" fill="#4A4870" text-anchor="start" >permiso para retirarme el viernes</text>
+<text x="445" y="332" font-size="20" font-weight="600" fill="#4A4870" text-anchor="start" >a las 11, por un turno médico.</text>
+<text x="445" y="396" font-size="20" font-weight="600" fill="#4A4870" text-anchor="start" >Saludo a usted atentamente.</text>
+<rect x="380" y="440" width="620" height="22" rx="8" fill="#C9C6D6"/>
+</svg>

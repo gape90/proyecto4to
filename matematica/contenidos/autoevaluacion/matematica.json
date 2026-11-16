@@ -1,0 +1,273 @@
+{
+ "espacio": "matematica",
+ "pares": {
+  "m1|m2": [
+   {
+    "tipo": "vf",
+    "texto": "Todo número irracional es también un número real.",
+    "respuesta": true,
+    "explicacion": "Los reales reúnen a los racionales y a los irracionales."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "√2 no se puede escribir como fracción. ¿A qué conjuntos pertenece?",
+    "opciones": [
+     "Irracionales y reales",
+     "Racionales y reales",
+     "Enteros y racionales",
+     "Solo naturales"
+    ],
+    "correcta": 0,
+    "explicacion": "Es irracional y, como todo irracional, es un número real."
+   }
+  ],
+  "m1|m3": [
+   {
+    "tipo": "vf",
+    "texto": "√72 = 6√2 y, redondeado a 2 decimales, vale 8,49.",
+    "respuesta": true,
+    "explicacion": "6 · 1,41421… = 8,485…, que redondeado a 2 decimales da 8,49."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Cuánto vale √8 + √18 redondeado a 1 decimal?",
+    "opciones": [
+     "7,1",
+     "5,0",
+     "26,0",
+     "4,2"
+    ],
+    "correcta": 0,
+    "explicacion": "√8 + √18 = 5√2 ≈ 7,07, que redondeado a 1 decimal da 7,1."
+   }
+  ],
+  "m1|m5": [
+   {
+    "tipo": "mc",
+    "pregunta": "Las soluciones de x² = 2 son √2 y −√2. ¿Cuánto vale la positiva truncada a 2 decimales?",
+    "opciones": [
+     "1,41",
+     "1,42",
+     "1,4142",
+     "2,00"
+    ],
+    "correcta": 0,
+    "explicacion": "√2 = 1,41421…; al truncar a 2 decimales se cortan las cifras que siguen: 1,41."
+   }
+  ],
+  "m1|m7": [
+   {
+    "tipo": "mc",
+    "pregunta": "cos 30° = √3/2. ¿Cuánto vale truncado a 3 decimales?",
+    "opciones": [
+     "0,866",
+     "0,867",
+     "0,500",
+     "1,732"
+    ],
+    "correcta": 0,
+    "explicacion": "√3/2 = 0,866025…; al truncar a 3 decimales queda 0,866."
+   }
+  ],
+  "m1|m9": [
+   {
+    "tipo": "mc",
+    "pregunta": "La desviación estándar de 2, 4, 6 y 8 es √5. ¿Cuánto vale redondeada a 2 decimales?",
+    "opciones": [
+     "2,24",
+     "2,23",
+     "5,00",
+     "2,50"
+    ],
+    "correcta": 0,
+    "explicacion": "√5 = 2,2360…; la tercera cifra decimal es 6, así que la segunda sube: 2,24."
+   }
+  ],
+  "m2|m3": [
+   {
+    "tipo": "vf",
+    "texto": "Un segmento de √8 cm y otro de √2 cm son conmensurables.",
+    "respuesta": true,
+    "explicacion": "√8 = 2√2, así que el cociente entre los dos es 2, un número racional: √2 cm entra justo 2 veces."
+   }
+  ],
+  "m2|m4": [
+   {
+    "tipo": "vf",
+    "texto": "Los cocientes entre términos seguidos de la sucesión de Fibonacci se acercan al número áureo.",
+    "respuesta": true,
+    "explicacion": "Por ejemplo, 21 ÷ 13 ≈ 1,615 y 34 ÷ 21 ≈ 1,619, cada vez más cerca de φ ≈ 1,618."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tipo de sucesión es la de Fibonacci (1, 1, 2, 3, 5, 8, …)?",
+    "opciones": [
+     "Ni aritmética ni geométrica: cada término es la suma de los dos anteriores",
+     "Aritmética de diferencia 1",
+     "Geométrica de razón 2",
+     "Aritmética de diferencia 2"
+    ],
+    "correcta": 0,
+    "explicacion": "No se suma ni se multiplica siempre por el mismo número."
+   }
+  ],
+  "m2|m5": [
+   {
+    "tipo": "vf",
+    "texto": "El número áureo φ ≈ 1,618 cumple aproximadamente x² = x + 1.",
+    "respuesta": true,
+    "explicacion": "1,618² ≈ 2,618 y 1,618 + 1 = 2,618."
+   }
+  ],
+  "m3|m5": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Cuáles son las soluciones de x² − 2x − 1 = 0?",
+    "opciones": [
+     "1 ± √2",
+     "2 ± √2",
+     "1 ± √8",
+     "−1 ± √2"
+    ],
+    "correcta": 0,
+    "explicacion": "Δ = 4 + 4 = 8, entonces x = (2 ± √8) / 2 = (2 ± 2√2) / 2 = 1 ± √2."
+   }
+  ],
+  "m3|m7": [
+   {
+    "tipo": "vf",
+    "texto": "sen 45° = 1/√2, y racionalizado queda √2/2.",
+    "respuesta": true,
+    "explicacion": "Se multiplica arriba y abajo por √2: 1/√2 = √2/2."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "cos 30° = √3/2. ¿Cuál de estas escrituras es equivalente?",
+    "opciones": [
+     "3/(2√3)",
+     "2/√3",
+     "√3/3",
+     "1/√2"
+    ],
+    "correcta": 0,
+    "explicacion": "Si racionalizás 3/(2√3) obtenés 3√3/6 = √3/2."
+   }
+  ],
+  "m3|m8": [
+   {
+    "tipo": "mc",
+    "pregunta": "Dos lados de un triángulo miden 1 cm y forman un ángulo de 90°. ¿Cuánto mide el tercer lado?",
+    "opciones": [
+     "√2 cm",
+     "2 cm",
+     "1 cm",
+     "√3 cm"
+    ],
+    "correcta": 0,
+    "explicacion": "Con el teorema del coseno: c² = 1 + 1 − 2 · cos 90° = 2, entonces c = √2 cm."
+   }
+  ],
+  "m3|m9": [
+   {
+    "tipo": "vf",
+    "texto": "La desviación estándar de 1, 3, 3 y 5 es √2.",
+    "respuesta": true,
+    "explicacion": "La media es 3 y la varianza es (4 + 0 + 0 + 4) ÷ 4 = 2; su raíz es √2."
+   }
+  ],
+  "m4|m5": [
+   {
+    "tipo": "mc",
+    "pregunta": "En la sucesión aₙ = n² + n, ¿qué término vale 12?",
+    "opciones": [
+     "El tercero",
+     "El cuarto",
+     "El segundo",
+     "El sexto"
+    ],
+    "correcta": 0,
+    "explicacion": "n² + n = 12 da n² + n − 12 = 0, con soluciones 3 y −4. Como n es una posición, n = 3: a₃ = 9 + 3 = 12."
+   }
+  ],
+  "m4|m6": [
+   {
+    "tipo": "vf",
+    "texto": "Los términos de la sucesión 1, 2, 4, 8, … son los valores de y = 2ˣ para x = 0, 1, 2, 3, …",
+    "respuesta": true,
+    "explicacion": "Una sucesión geométrica toma valores de una función exponencial."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué función da los términos de 3, 6, 12, 24, … si el primero corresponde a x = 0?",
+    "opciones": [
+     "y = 3 · 2ˣ",
+     "y = 2 · 3ˣ",
+     "y = 3x + 3",
+     "y = x² + 3"
+    ],
+    "correcta": 0,
+    "explicacion": "Empieza en 3 y se multiplica por 2 en cada paso."
+   }
+  ],
+  "m5|m6": [
+   {
+    "tipo": "vf",
+    "texto": "Las soluciones de x² − 4 = 0 son los valores de x donde el gráfico de y = x² − 4 corta el eje x.",
+    "respuesta": true,
+    "explicacion": "En el eje x, y vale 0: x = 2 y x = −2."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Cuántas veces corta el eje x la parábola y = x² + 2x + 5?",
+    "opciones": [
+     "Ninguna",
+     "Una",
+     "Dos",
+     "Tres"
+    ],
+    "correcta": 0,
+    "explicacion": "Δ = 4 − 20 = −16 es negativo: la ecuación no tiene soluciones reales."
+   }
+  ],
+  "m7|m8": [
+   {
+    "tipo": "mc",
+    "pregunta": "Una escalera de 4 m forma 30° con el piso. ¿A qué altura de la pared llega?",
+    "opciones": [
+     "2 m",
+     "3,46 m",
+     "4 m",
+     "8 m"
+    ],
+    "correcta": 0,
+    "explicacion": "Altura = 4 · sen 30° = 4 · 0,5 = 2 m."
+   },
+   {
+    "tipo": "vf",
+    "texto": "En el teorema del coseno se usa el ángulo que forman los dos lados conocidos.",
+    "respuesta": true,
+    "explicacion": "c² = a² + b² − 2ab · cos C, donde C es el ángulo entre a y b."
+   }
+  ],
+  "m9|m10": [
+   {
+    "tipo": "mc",
+    "pregunta": "Se tira un dado. ¿Cuál es la media de los seis resultados posibles?",
+    "opciones": [
+     "3,5",
+     "3",
+     "6",
+     "21"
+    ],
+    "correcta": 0,
+    "explicacion": "(1 + 2 + 3 + 4 + 5 + 6) ÷ 6 = 21 ÷ 6 = 3,5."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Una probabilidad siempre está entre 0 y 1, y una varianza nunca es negativa.",
+    "respuesta": true,
+    "explicacion": "La varianza es un promedio de cuadrados, que no pueden ser negativos."
+   }
+  ]
+ }
+}

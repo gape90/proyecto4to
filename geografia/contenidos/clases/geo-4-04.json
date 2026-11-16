@@ -1,0 +1,1015 @@
+{
+ "id": "geo-4-04",
+ "espacio": "geografia",
+ "eje": "El ambiente, resultado de las relaciones entre sociedad y naturaleza",
+ "titulo": "La desertización africana y las formas de producción",
+ "intro": "En el Sahel, al sur del Sahara, la tierra se está degradando y pierde su capacidad de producir. Vas a ver qué es la desertización, por qué avanza y qué formas de producir y qué proyectos intentan frenarla.",
+ "objetivos": [
+  "Explicar qué es la desertización y ubicar el Sahel.",
+  "Relacionar las causas humanas y naturales de la desertización en un ciclo.",
+  "Describir las formas de producción del Sahel y el proyecto de la Gran Muralla Verde."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: qué es la desertización, dónde está el Sahel, el ciclo de causas y consecuencias, las formas de producción y la Gran Muralla Verde.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Una franja entre el desierto y la sabana",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Una pregunta para arrancar",
+     "texto": "¿Un desierto se forma solo por falta de lluvia? ¿O las personas también pueden hacer que un lugar se vuelva desierto? Pensalo antes de seguir."
+    },
+    {
+     "t": "texto",
+     "titulo": "Qué es la desertización",
+     "texto": "La **desertización** es la degradación de las tierras en zonas áridas, semiáridas y subhúmedas secas. La tierra pierde su capacidad de producir: el suelo se vuelve más pobre, la vegetación desaparece y el paisaje se parece cada vez más a un desierto. Así la define la Convención de las Naciones Unidas de Lucha contra la Desertificación (los dos nombres, desertización y desertificación, se usan para lo mismo).\n\nLa desertización no es lo mismo que un desierto natural, como el Sahara. Es un **proceso**: algo que va pasando, y que tiene dos tipos de causas, las **variaciones del clima** y las **actividades humanas**."
+    },
+    {
+     "t": "texto",
+     "titulo": "El Sahel",
+     "texto": "En África, la desertización es especialmente grave en el **Sahel**, una franja semiárida que cruza el continente de oeste a este, al sur del desierto del Sahara, desde Senegal hasta Sudán y Eritrea. Al norte está el desierto; al sur, la sabana, más húmeda y con más vegetación.\n\nEn el Sahel llueve poco y solo durante unos meses del año. Por eso su equilibrio es frágil: una seguidilla de años secos, o un uso excesivo de la tierra, alcanza para que el suelo se degrade. Entre fines de la década de 1960 y la de 1980 hubo sequías muy largas en la región."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-04-sahel-satelite.jpg",
+     "tipo": "foto",
+     "alt": "Imagen satelital: arriba, tierras color arena y ocre, casi sin vegetación; abajo, tierras cada vez más verdes, atravesadas por ríos que serpentean.",
+     "epigrafe": "Imagen satelital del oeste de África (Senegal, Gambia y Guinea-Bisáu), en 2019. Arriba, el borde seco del Sahel; abajo, tierras con más vegetación. Las manchas claras alrededor de los pueblos son suelo desnudo.",
+     "fuente": "Contiene datos modificados de Copernicus Sentinel 2019. ESA, CC BY-SA 3.0 IGO, vía Wikimedia Commons. Imagen reducida.",
+     "animacion": "bajar"
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "La **desertización** es la degradación de la tierra en zonas secas: pierde su capacidad de producir. Es un **proceso** con causas naturales (el clima) y humanas (el uso de la tierra). En África afecta sobre todo al **Sahel**, la franja semiárida al sur del Sahara."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada palabra con su significado.",
+     "pares": [
+      {
+       "a": "Desertización",
+       "b": "Degradación de la tierra en zonas secas"
+      },
+      {
+       "a": "Sahel",
+       "b": "Franja semiárida al sur del Sahara"
+      },
+      {
+       "a": "Sahara",
+       "b": "Desierto natural del norte de África"
+      },
+      {
+       "a": "Sabana",
+       "b": "Zona más húmeda, al sur del Sahel"
+      }
+     ],
+     "explicacion": "Leídas de norte a sur: Sahara, Sahel, sabana. La desertización avanza sobre las tierras del Sahel.",
+     "pista": "Releé los textos sobre la desertización y el Sahel."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🔍 Encontrá el error",
+     "pregunta": "Cuatro frases sobre el tema; una tiene un error. ¿Cuál es?",
+     "opciones": [
+      "El Sahel está al sur del Sahara.",
+      "La desertización es un proceso que puede avanzar.",
+      "La desertización se produce solo por causas naturales.",
+      "En el Sahel llueve solo unos meses al año."
+     ],
+     "correcta": 2,
+     "explicacion": "La desertización tiene causas naturales (el clima) y también humanas (el uso de la tierra).",
+     "pista": "Releé el final del texto sobre qué es la desertización."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "El [[Sahel]] es una franja [[semiárida]] que cruza África de oeste a este. Al norte está el [[desierto]] del Sahara y al sur, la sabana. Como llueve poco, su equilibrio es [[frágil]].",
+     "distractores": [
+      "húmeda",
+      "estable",
+      "selva"
+     ],
+     "explicacion": "Por eso cualquier cambio en el clima o en el uso de la tierra lo afecta tanto.",
+     "pista": "Releé el texto sobre el Sahel."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "La desertización y la desertificación nombran el mismo proceso.",
+       "v": true,
+       "explicacion": "Se usan los dos nombres."
+      },
+      {
+       "texto": "El Sahel va de Senegal hasta Sudán y Eritrea.",
+       "v": true,
+       "explicacion": "Cruza África de oeste a este."
+      },
+      {
+       "texto": "En la imagen satelital, las manchas claras alrededor de los pueblos son lagos.",
+       "v": false,
+       "explicacion": "Son suelo desnudo, una señal de degradación."
+      },
+      {
+       "texto": "Entre fines de los años sesenta y los ochenta hubo sequías largas en el Sahel.",
+       "v": true,
+       "explicacion": "Lo dice el texto sobre el Sahel."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: en la imagen satelital, las manchas de suelo desnudo aparecen alrededor de los pueblos y no en el medio del campo. ¿Qué te dice eso sobre las causas?",
+     "respuesta": "Que el uso humano de la tierra tiene mucho que ver: cerca de donde vive la gente se corta más leña, se cultiva y se lleva a pastar al ganado. Si el clima fuera la única causa, la degradación estaría repartida en forma más pareja."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es la desertización y por qué el Sahel es una región especialmente frágil. Ubicá el Sahel entre el Sahara y la sabana.",
+    "guia": [
+     "¿Qué es la desertización y en qué zonas ocurre?",
+     "¿Por qué decimos que es un proceso?",
+     "¿Cuáles son sus dos tipos de causas?",
+     "¿Dónde está el Sahel y qué tiene al norte y al sur?",
+     "¿Por qué su equilibrio es frágil?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La desertización es la degradación de la tierra en zonas secas.",
+     "respuesta": true,
+     "explicacion": "La tierra pierde su capacidad de producir."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El Sahel está al norte del Sahara.",
+     "respuesta": false,
+     "explicacion": "Está al sur del Sahara."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La desertización tiene causas naturales y humanas.",
+     "respuesta": true,
+     "explicacion": "El clima y el uso de la tierra."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el Sahel llueve todo el año.",
+     "respuesta": false,
+     "explicacion": "Llueve solo durante unos meses."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El Sahara es un desierto natural.",
+     "respuesta": true,
+     "explicacion": "La desertización, en cambio, es un proceso de degradación."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Al sur del Sahel está la sabana.",
+     "respuesta": true,
+     "explicacion": "Es una zona más húmeda y con más vegetación."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué pierde la tierra con la desertización?",
+     "opciones": [
+      "Su capacidad de producir",
+      "Su altura",
+      "Sus ríos subterráneos",
+      "Su nombre"
+     ],
+     "correcta": 0,
+     "explicacion": "El suelo se empobrece y la vegetación desaparece."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde está el Sahel?",
+     "opciones": [
+      "Al norte del Sahara",
+      "Al sur del Sahara",
+      "En América del Sur",
+      "En Asia"
+     ],
+     "correcta": 1,
+     "explicacion": "Es una franja al sur del Sahara."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿De dónde a dónde cruza el Sahel?",
+     "opciones": [
+      "De norte a sur",
+      "Del Atlántico al Índico, por el sur de África",
+      "De oeste a este, de Senegal a Sudán y Eritrea",
+      "Solo por Egipto"
+     ],
+     "correcta": 2,
+     "explicacion": "Cruza África de oeste a este."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué organismo define la desertización que usamos en esta clase?",
+     "opciones": [
+      "La FIFA",
+      "La Unión Europea",
+      "El BRICS",
+      "Una convención de las Naciones Unidas"
+     ],
+     "correcta": 3,
+     "explicacion": "La Convención de las Naciones Unidas de Lucha contra la Desertificación."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuándo hubo sequías muy largas en el Sahel?",
+     "opciones": [
+      "Entre fines de los sesenta y los ochenta",
+      "En el siglo XV",
+      "Solo en 2025",
+      "Nunca hubo"
+     ],
+     "correcta": 0,
+     "explicacion": "Fueron entre fines de la década de 1960 y la de 1980."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué indican las manchas claras de la imagen satelital?",
+     "opciones": [
+      "Ciudades grandes",
+      "Suelo desnudo",
+      "Nieve",
+      "Lagos"
+     ],
+     "correcta": 1,
+     "explicacion": "Son señales de degradación alrededor de los pueblos."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "SAHEL",
+     "pista": "Franja semiárida al sur del Sahara."
+    },
+    {
+     "palabra": "SAHARA",
+     "pista": "Gran desierto natural del norte de África."
+    },
+    {
+     "palabra": "SABANA",
+     "pista": "Zona más húmeda, al sur del Sahel."
+    },
+    {
+     "palabra": "SEQUÍA",
+     "pista": "Período largo sin lluvias suficientes."
+    },
+    {
+     "palabra": "SEMIÁRIDA",
+     "pista": "Zona donde llueve poco, pero no tan poco como en el desierto."
+    },
+    {
+     "palabra": "PROCESO",
+     "pista": "Algo que va pasando, como la desertización."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia hay entre un desierto natural y la desertización?",
+     "opciones": [
+      "Ninguna",
+      "El desierto natural existe hace mucho; la desertización es un proceso de degradación que avanza",
+      "La desertización solo ocurre en la Antártida",
+      "El desierto natural lo provocan las personas"
+     ],
+     "correcta": 1,
+     "explicacion": "La desertización es un proceso, no un paisaje fijo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué el Sahel es frágil?",
+     "opciones": [
+      "Porque llueve poco y solo unos meses al año",
+      "Porque tiene muchos lagos",
+      "Porque está en el polo",
+      "Porque no tiene habitantes"
+     ],
+     "correcta": 0,
+     "explicacion": "Cualquier cambio en el clima o en el uso de la tierra lo afecta."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué muestra que el uso humano influye en la desertización?",
+     "opciones": [
+      "Que el Sahara es muy grande",
+      "Que la sabana es verde",
+      "Que el suelo desnudo aparece alrededor de los pueblos",
+      "Que llueve en verano"
+     ],
+     "correcta": 2,
+     "explicacion": "Cerca de donde vive la gente se usa más la tierra."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Un ciclo difícil de cortar",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Las causas humanas",
+     "texto": "En el Sahel vive mucha gente que depende directamente de la tierra: cultiva, cría ganado y usa leña para cocinar. Cuando la población crece, se necesita más de todo eso. Y si se toma de la tierra más de lo que ella puede reponer, empieza la degradación.\n\nHay tres causas humanas principales. El **sobrepastoreo**: hay más animales de los que el pasto puede alimentar. La **tala** de árboles y arbustos para leña o para abrir campos. Y el **cultivo sin descanso**: la tierra se siembra todos los años y no llega a recuperarse."
+    },
+    {
+     "t": "texto",
+     "titulo": "Las causas naturales",
+     "texto": "El clima también juega su parte. En el Sahel las lluvias varían mucho de un año a otro, y las sequías largas dejan el suelo seco y sin protección. Cuando una sequía coincide con un uso intenso de la tierra, el daño es mucho mayor."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-04-ciclo.svg",
+     "tipo": "grafico",
+     "alt": "Esquema circular con seis pasos unidos por flechas que vuelven al comienzo: se tala y se pastorea más de lo que la tierra repone; queda menos vegetación; el suelo queda desnudo; el viento y la lluvia se llevan el suelo; el suelo pierde fertilidad; se produce menos y se presiona más la tierra.",
+     "epigrafe": "El ciclo de la desertización. Esquema elaborado para esta clase.",
+     "animacion": "aparecer"
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Pensalo así",
+     "texto": "Imaginá una cuenta de ahorro que da un poco de interés cada mes. Si gastás solo el interés, el ahorro se mantiene. Si empezás a gastar más que eso, el ahorro baja, el interés también baja, y cada mes podés sacar menos. Con la tierra pasa algo parecido: el suelo y la vegetación son el ahorro."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-04-baobab-pastor.jpg",
+     "tipo": "foto",
+     "alt": "Un baobab enorme en un campo seco y rojizo; un hombre trepado en sus ramas corta hojas y abajo pastan vacas blancas.",
+     "epigrafe": "Un pastor sube a un baobab para cortar hojas y alimentar a su ganado, en Senegal, en 2016. Aunque la zona perdió muchos árboles, los baobabs suelen quedar en pie porque dan alimento a los animales antes de las lluvias.",
+     "fuente": "Foto: NoahElhardt, CC BY-SA 4.0, vía Wikimedia Commons. Imagen reducida.",
+     "animacion": "acercar"
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Las causas humanas de la desertización son el **sobrepastoreo**, la **tala** y el **cultivo sin descanso**. La causa natural principal son las **sequías**. Juntas forman un **ciclo**: menos vegetación lleva a suelo desnudo, erosión y menos producción, y eso empuja a presionar todavía más la tierra."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los pasos del ciclo de la desertización, empezando por el primero del esquema.",
+     "items": [
+      "Se tala y se pastorea más de lo que la tierra repone",
+      "Queda menos vegetación",
+      "El suelo queda desnudo",
+      "El viento y la lluvia se llevan el suelo",
+      "El suelo pierde fertilidad"
+     ],
+     "explicacion": "Así sigue el ciclo. El paso siguiente cierra el círculo: se produce menos y se presiona más la tierra.",
+     "pista": "Seguí las flechas del esquema desde arriba, en el sentido de las agujas del reloj."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Es una causa humana o una causa natural?",
+     "categorias": [
+      "Causa humana",
+      "Causa natural"
+     ],
+     "items": [
+      {
+       "texto": "Sobrepastoreo",
+       "cat": "Causa humana"
+      },
+      {
+       "texto": "Sequía larga",
+       "cat": "Causa natural"
+      },
+      {
+       "texto": "Tala para leña",
+       "cat": "Causa humana"
+      },
+      {
+       "texto": "Lluvias que varían mucho de un año a otro",
+       "cat": "Causa natural"
+      },
+      {
+       "texto": "Sembrar todos los años sin descanso",
+       "cat": "Causa humana"
+      }
+     ],
+     "explicacion": "Las humanas dependen del uso de la tierra; las naturales, del clima.",
+     "pista": "Preguntate si lo decide una persona o el clima."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🗣️ ¿Quién lo diría?",
+     "pregunta": "La frase es inventada: \"Este año tengo más animales que el año pasado, pero el pasto alcanza cada vez para menos\". ¿Qué causa de la desertización describe?",
+     "opciones": [
+      "La tala",
+      "Una erupción volcánica",
+      "El sobrepastoreo",
+      "La pesca"
+     ],
+     "correcta": 2,
+     "explicacion": "Más animales de los que el pasto puede alimentar: es sobrepastoreo.",
+     "pista": "Releé la lista de causas humanas."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Completá el dato: ¿cómo se llama tener más animales de los que el pasto puede alimentar?",
+     "respuesta": "sobrepastoreo",
+     "acepta": [
+      "sobrepastoreo",
+      "el sobrepastoreo",
+      "sobre pastoreo"
+     ],
+     "explicacion": "Es una de las tres causas humanas de la desertización.",
+     "pista1": "Está en el texto sobre las causas humanas.",
+     "pista": "Empieza con \"sobre\" y termina con \"pastoreo\"."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué decimos que es un ciclo \"difícil de cortar\"?",
+     "respuesta": "Porque cada paso empuja al siguiente. Cuando la tierra produce menos, las familias necesitan seguir comiendo y cocinando, y eso las lleva a usar todavía más la tierra que les queda. Para cortarlo hace falta cambiar la forma de producir, no solo esperar que llueva."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá las causas de la desertización en el Sahel y dibujá o copiá el ciclo. Mostrá por qué cada paso lleva al siguiente.",
+    "guia": [
+     "¿Qué causas humanas hay? Explicá cada una con tus palabras.",
+     "¿Qué papel cumplen las sequías?",
+     "¿Cuáles son los pasos del ciclo?",
+     "¿Por qué el ciclo vuelve a empezar?",
+     "¿Qué muestra la foto del baobab sobre la relación entre las personas y la tierra?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El sobrepastoreo es tener más animales de los que el pasto puede alimentar.",
+     "respuesta": true,
+     "explicacion": "Es una de las causas humanas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La tala para leña ayuda a frenar la desertización.",
+     "respuesta": false,
+     "explicacion": "La tala deja el suelo sin protección."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las sequías son una causa natural de la desertización.",
+     "respuesta": true,
+     "explicacion": "Dejan el suelo seco y sin protección."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el ciclo, el suelo desnudo es arrastrado por el viento y la lluvia.",
+     "respuesta": true,
+     "explicacion": "Ese paso se llama erosión."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Cultivar todos los años sin descanso permite que el suelo se recupere.",
+     "respuesta": false,
+     "explicacion": "El suelo no llega a recuperarse."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los baobabs suelen quedar en pie porque dan alimento al ganado.",
+     "respuesta": true,
+     "explicacion": "Lo cuenta el epígrafe de la foto."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es el sobrepastoreo?",
+     "opciones": [
+      "Plantar árboles",
+      "Tener más animales de los que el pasto puede alimentar",
+      "Regar con agua de mar",
+      "Construir rutas"
+     ],
+     "correcta": 1,
+     "explicacion": "Es una causa humana de la desertización."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas es una causa natural?",
+     "opciones": [
+      "La tala",
+      "El cultivo sin descanso",
+      "La sequía",
+      "El sobrepastoreo"
+     ],
+     "correcta": 2,
+     "explicacion": "Depende del clima."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué pasa después de que el suelo queda desnudo?",
+     "opciones": [
+      "El viento y la lluvia se lo llevan",
+      "Se vuelve más fértil",
+      "Crecen más árboles",
+      "Aparecen lagos"
+     ],
+     "correcta": 0,
+     "explicacion": "Es la erosión."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Para qué se tala en el Sahel?",
+     "opciones": [
+      "Para hacer barcos",
+      "Para exportar papel",
+      "Para obtener leña y abrir campos",
+      "Para construir rascacielos"
+     ],
+     "correcta": 2,
+     "explicacion": "Leña para cocinar y espacio para cultivar."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué el ciclo vuelve a empezar?",
+     "opciones": [
+      "Porque llueve más",
+      "Porque cuando se produce menos, se presiona más la tierra",
+      "Porque la gente se muda a Europa",
+      "Porque los suelos se recuperan solos"
+     ],
+     "correcta": 1,
+     "explicacion": "Cada paso empuja al siguiente."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué representa el ahorro en el ejemplo de la cuenta?",
+     "opciones": [
+      "El suelo y la vegetación",
+      "El ganado",
+      "La lluvia",
+      "Las ciudades"
+     ],
+     "correcta": 0,
+     "explicacion": "Si se gasta más de lo que se repone, el ahorro baja."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "SOBREPASTOREO",
+     "pista": "Más animales de los que el pasto puede alimentar."
+    },
+    {
+     "palabra": "TALA",
+     "pista": "Corte de árboles y arbustos."
+    },
+    {
+     "palabra": "EROSIÓN",
+     "pista": "Desgaste del suelo por el viento y la lluvia."
+    },
+    {
+     "palabra": "FERTILIDAD",
+     "pista": "Capacidad del suelo para producir."
+    },
+    {
+     "palabra": "BAOBAB",
+     "pista": "Árbol africano cuyas hojas alimentan al ganado."
+    },
+    {
+     "palabra": "LEÑA",
+     "pista": "Madera que se usa para cocinar."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tienen en común el sobrepastoreo, la tala y el cultivo sin descanso?",
+     "opciones": [
+      "Son causas naturales",
+      "Toman de la tierra más de lo que puede reponer",
+      "Ayudan al suelo a recuperarse",
+      "Solo ocurren en Europa"
+     ],
+     "correcta": 1,
+     "explicacion": "Por eso son causas humanas de la desertización."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué una sequía hace más daño si coincide con un uso intenso de la tierra?",
+     "opciones": [
+      "Porque el suelo ya está sin protección",
+      "Porque el ganado deja de comer",
+      "Porque llueve más",
+      "Porque los árboles crecen más rápido"
+     ],
+     "correcta": 0,
+     "explicacion": "Las dos causas se suman."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué haría falta para cortar el ciclo?",
+     "opciones": [
+      "Esperar que llueva",
+      "Talar más árboles",
+      "Cambiar la forma de producir",
+      "Sumar más animales"
+     ],
+     "correcta": 2,
+     "explicacion": "Sin cambiar el uso de la tierra, el ciclo sigue."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Formas de producir y la Gran Muralla Verde",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Cómo se produce en el Sahel",
+     "texto": "En el Sahel conviven distintas **formas de producción**. Muchas familias practican la **agricultura de secano**: cultivan cereales como el mijo y el sorgo, que dependen solo del agua de lluvia. Otras son **pastoras**: se mueven con su ganado siguiendo el pasto y el agua durante el año. Y en algunos lugares hay producción para exportar, como el maní en Senegal.\n\nDonde hay agua, la producción cambia. El **delta interior del Níger**, en Mali, es una gran zona inundable en medio del Sahel: la gente pesca, lleva a pastar el ganado y cultiva arroz en sus llanuras."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-04-delta-niger.jpg",
+     "tipo": "foto",
+     "alt": "Imagen satelital: una gran mancha verde con ríos y lagunas en medio de tierras secas de color arena.",
+     "epigrafe": "El delta interior del Níger (Mali) visto por el satélite Terra en noviembre de 2007, al terminar la temporada de lluvias: una zona verde y húmeda en medio del Sahel.",
+     "fuente": "Jeff Schmaltz, MODIS Land Rapid Response Team, NASA, vía Wikimedia Commons (dominio público).",
+     "animacion": "alejar"
+    },
+    {
+     "t": "comparar",
+     "titulo": "Formas de producir y su efecto en la tierra",
+     "columnas": [
+      "Forma de producir",
+      "Qué hace",
+      "Cuándo degrada la tierra"
+     ],
+     "filas": [
+      [
+       "Agricultura de secano",
+       "Cultiva mijo y sorgo con agua de lluvia",
+       "Si se siembra todos los años sin dejar descansar el suelo"
+      ],
+      [
+       "Pastoreo",
+       "Mueve el ganado siguiendo el pasto y el agua",
+       "Si hay más animales de los que el pasto alimenta"
+      ],
+      [
+       "Silvopastoreo",
+       "Combina árboles y ganado, como el pastor del baobab",
+       "Cuida la tierra si los árboles se conservan"
+      ]
+     ]
+    },
+    {
+     "t": "texto",
+     "titulo": "La Gran Muralla Verde",
+     "texto": "Desde 2007, países africanos llevan adelante la **Gran Muralla Verde**: un proyecto para recuperar tierras degradadas plantando una franja de árboles y vegetación a lo ancho del continente, desde Senegal, al oeste, hasta Yibuti, al este. Participan unos 20 países.\n\nSegún la Agencia Espacial Europea, en Senegal ya se plantaron casi 12 millones de árboles y se recuperaron 25.000 hectáreas. La meta para 2030 es recuperar 100 millones de hectáreas."
+    },
+    {
+     "t": "infografia",
+     "titulo": "La desertización y la Gran Muralla Verde en números",
+     "items": [
+      {
+       "num": "12 millones",
+       "texto": "de hectáreas se pierden cada año por desertización y sequía, según la ONU"
+      },
+      {
+       "num": "2007",
+       "texto": "año en que empezó la Gran Muralla Verde"
+      },
+      {
+       "num": "20",
+       "texto": "países que atraviesa, de Senegal a Yibuti"
+      },
+      {
+       "num": "100 millones",
+       "texto": "de hectáreas a recuperar para 2030"
+      }
+     ],
+     "nota": "Datos tomados de la Agencia Espacial Europea (2019)."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "En el Sahel se produce con **agricultura de secano**, **pastoreo** y, donde hay agua, pesca y arroz. Cualquier forma de producir degrada la tierra si toma más de lo que el suelo repone. La **Gran Muralla Verde**, iniciada en 2007, busca recuperar tierras plantando una franja de vegetación de Senegal a Yibuti."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada forma de producir con lo que hace.",
+     "pares": [
+      {
+       "a": "Agricultura de secano",
+       "b": "Cultiva con agua de lluvia"
+      },
+      {
+       "a": "Pastoreo",
+       "b": "Mueve el ganado siguiendo el pasto"
+      },
+      {
+       "a": "Silvopastoreo",
+       "b": "Combina árboles y ganado"
+      },
+      {
+       "a": "Producción en el delta del Níger",
+       "b": "Pesca, pastoreo y cultivo de arroz"
+      }
+     ],
+     "explicacion": "Cada forma de producir se adapta al agua disponible.",
+     "pista": "Mirá la tabla y el texto sobre cómo se produce en el Sahel."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "📰 Elegí el titular",
+     "pregunta": "Un diario de 2007 cuenta el comienzo del proyecto. ¿Qué titular corresponde?",
+     "opciones": [
+      "\"Se seca el delta del Níger\"",
+      "\"Países africanos lanzan una franja verde de Senegal a Yibuti\"",
+      "\"El Sahara deja de existir\"",
+      "\"Se prohíbe la ganadería en África\""
+     ],
+     "correcta": 1,
+     "explicacion": "La Gran Muralla Verde empezó en 2007 y busca recuperar tierras de Senegal a Yibuti.",
+     "pista": "Releé el texto sobre la Gran Muralla Verde."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Buscá en la infografía el año en que empezó la Gran Muralla Verde y el año de su meta. ¿Cuántos años dura el plan?",
+     "respuesta": "23",
+     "explicacion": "De 2007 a 2030 hay 23 años.",
+     "pista1": "Los dos años están en la infografía y en el texto sobre la Gran Muralla Verde.",
+     "pista": "Empezó en 2007 y la meta es para 2030: restá los dos años."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "La agricultura de secano depende solo del agua de lluvia.",
+       "v": true,
+       "explicacion": "Por eso es muy sensible a las sequías."
+      },
+      {
+       "texto": "La Gran Muralla Verde es una muralla de piedra.",
+       "v": false,
+       "explicacion": "Es una franja de árboles y vegetación."
+      },
+      {
+       "texto": "En el delta interior del Níger se cultiva arroz.",
+       "v": true,
+       "explicacion": "También se pesca y se lleva a pastar al ganado."
+      },
+      {
+       "texto": "Según la ONU, cada año se pierden 12 millones de hectáreas por desertización y sequía.",
+       "v": true,
+       "explicacion": "Es el primer dato de la infografía."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué un proyecto como la Gran Muralla Verde necesita a las comunidades que viven en el Sahel para funcionar?",
+     "respuesta": "Porque son las que usan la tierra todos los días. Plantar árboles no alcanza si después se talan para leña o el ganado se come los brotes. Las formas de producir tienen que cambiar junto con la plantación, y eso solo lo pueden hacer quienes viven allí."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Describí las formas de producción del Sahel y explicá cuándo cada una degrada la tierra. Después contá qué es la Gran Muralla Verde y qué busca.",
+    "guia": [
+     "¿Qué es la agricultura de secano?",
+     "¿Cómo se organiza el pastoreo?",
+     "¿Qué se produce en el delta interior del Níger?",
+     "¿Cuándo una forma de producir degrada la tierra?",
+     "¿Qué es la Gran Muralla Verde, desde cuándo existe y qué meta tiene?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La agricultura de secano usa agua de riego.",
+     "respuesta": false,
+     "explicacion": "Depende solo del agua de lluvia."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el Sahel se cultivan mijo y sorgo.",
+     "respuesta": true,
+     "explicacion": "Son cereales que resisten la falta de agua."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La Gran Muralla Verde empezó en 2007.",
+     "respuesta": true,
+     "explicacion": "Busca recuperar tierras degradadas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La Gran Muralla Verde va de Senegal a Yibuti.",
+     "respuesta": true,
+     "explicacion": "Cruza el continente de oeste a este."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El delta interior del Níger es una zona seca sin agua.",
+     "respuesta": false,
+     "explicacion": "Es una zona inundable en medio del Sahel."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La meta de la Gran Muralla Verde es recuperar 100 millones de hectáreas para 2030.",
+     "respuesta": true,
+     "explicacion": "Es la meta principal."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la Gran Muralla Verde?",
+     "opciones": [
+      "Una muralla de piedra",
+      "Una franja de árboles y vegetación para recuperar tierras",
+      "Un río artificial",
+      "Una ruta"
+     ],
+     "correcta": 1,
+     "explicacion": "Busca frenar la degradación."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué país está el delta interior del Níger?",
+     "opciones": [
+      "Senegal",
+      "Egipto",
+      "Mali",
+      "Yibuti"
+     ],
+     "correcta": 2,
+     "explicacion": "Está en Mali."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué se cultiva para exportar en Senegal?",
+     "opciones": [
+      "Café",
+      "Maní",
+      "Trigo",
+      "Soja"
+     ],
+     "correcta": 1,
+     "explicacion": "El maní es un cultivo de exportación."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuántos países atraviesa la Gran Muralla Verde?",
+     "opciones": [
+      "Unos 20",
+      "2",
+      "100",
+      "5"
+     ],
+     "correcta": 0,
+     "explicacion": "Unos 20 países."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuándo degrada la tierra el pastoreo?",
+     "opciones": [
+      "Cuando el ganado se mueve",
+      "Cuando llueve mucho",
+      "Cuando se plantan árboles",
+      "Cuando hay más animales de los que el pasto alimenta"
+     ],
+     "correcta": 3,
+     "explicacion": "Es el sobrepastoreo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuántas hectáreas se pierden por año por desertización y sequía, según la ONU?",
+     "opciones": [
+      "12 mil",
+      "12 millones",
+      "12",
+      "1.200 millones"
+     ],
+     "correcta": 1,
+     "explicacion": "Unos 12 millones de hectáreas por año."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "SECANO",
+     "pista": "Agricultura que depende solo del agua de lluvia."
+    },
+    {
+     "palabra": "MIJO",
+     "pista": "Cereal que se cultiva en el Sahel."
+    },
+    {
+     "palabra": "PASTORES",
+     "pista": "Personas que se mueven con su ganado."
+    },
+    {
+     "palabra": "DELTA",
+     "pista": "Zona donde un río se divide en muchos brazos."
+    },
+    {
+     "palabra": "MURALLA",
+     "pista": "La \"verde\" es una franja de árboles."
+    },
+    {
+     "palabra": "HECTÁREA",
+     "pista": "Medida de superficie: 10.000 metros cuadrados."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuándo una forma de producir degrada la tierra?",
+     "opciones": [
+      "Siempre",
+      "Nunca",
+      "Cuando toma más de lo que el suelo puede reponer",
+      "Solo cuando llueve"
+     ],
+     "correcta": 2,
+     "explicacion": "Cualquier forma de producir puede degradar la tierra si se usa de más."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué busca la Gran Muralla Verde?",
+     "opciones": [
+      "Frenar a los migrantes",
+      "Recuperar tierras degradadas con vegetación",
+      "Construir ciudades",
+      "Llevar agua del mar al desierto"
+     ],
+     "correcta": 1,
+     "explicacion": "Plantar una franja de vegetación de Senegal a Yibuti."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué el delta interior del Níger es distinto del resto del Sahel?",
+     "opciones": [
+      "Porque tiene agua, y eso permite pescar y cultivar arroz",
+      "Porque es un desierto",
+      "Porque está en Europa",
+      "Porque no tiene habitantes"
+     ],
+     "correcta": 0,
+     "explicacion": "El agua cambia las formas de producir."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Desertización",
+   "definicion": "Degradación de la tierra en zonas secas, que pierde su capacidad de producir."
+  },
+  {
+   "palabra": "Sahel",
+   "definicion": "Franja semiárida al sur del Sahara, de Senegal a Sudán y Eritrea."
+  },
+  {
+   "palabra": "Sobrepastoreo",
+   "definicion": "Tener más animales de los que el pasto puede alimentar."
+  },
+  {
+   "palabra": "Erosión",
+   "definicion": "Desgaste del suelo provocado por el viento y la lluvia."
+  },
+  {
+   "palabra": "Agricultura de secano",
+   "definicion": "Cultivo que depende solo del agua de lluvia."
+  },
+  {
+   "palabra": "Silvopastoreo",
+   "definicion": "Forma de producir que combina árboles y ganado."
+  },
+  {
+   "palabra": "Gran Muralla Verde",
+   "definicion": "Proyecto africano que planta una franja de vegetación de Senegal a Yibuti para recuperar tierras."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "La desertización es lo mismo que un desierto.",
+   "aclaracion": "El desierto es un paisaje natural; la desertización es un proceso de degradación de tierras que antes producían."
+  },
+  {
+   "error": "La desertización la provoca solo la falta de lluvia.",
+   "aclaracion": "Tiene causas naturales (sequías) y humanas (sobrepastoreo, tala, cultivo sin descanso)."
+  },
+  {
+   "error": "La Gran Muralla Verde es una pared.",
+   "aclaracion": "Es una franja de árboles y vegetación para recuperar tierras degradadas."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "En la Argentina también hay zonas áridas y semiáridas, como gran parte de la Patagonia. ¿Qué formas de producir de esas zonas podrían degradar la tierra y cuáles podrían cuidarla?",
+  "conexion": "Con la clase sobre la agricultura en Asia: allí vas a ver cómo se produce alimento cuando la tierra es escasa y la población muy grande."
+ }
+}

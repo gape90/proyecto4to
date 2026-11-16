@@ -1,0 +1,976 @@
+{
+ "id": "mat-4-10",
+ "espacio": "matematica",
+ "eje": "Estadística y probabilidad",
+ "titulo": "Probabilidades",
+ "intro": "La probabilidad mide qué tan posible es que pase algo cuando hay azar. Vas a combinar sucesos, a distinguir cuándo uno influye en otro y a calcular probabilidades con árboles y con experimentos que se repiten.",
+ "objetivos": [
+  "Distinguir sucesos excluyentes y no excluyentes y calcular la probabilidad de que ocurra uno u otro.",
+  "Distinguir sucesos independientes y dependientes y calcular probabilidades condicionadas con un árbol.",
+  "Calcular probabilidades totales y de pruebas repetidas."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: la regla de Laplace, los sucesos excluyentes y no excluyentes, los independientes y dependientes, el árbol de probabilidades, la probabilidad total y las pruebas repetidas.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Sucesos excluyentes y no excluyentes",
+   "tiempo": "35 a 45 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Casos favorables sobre casos posibles",
+     "texto": "Tirar un dado es un **experimento aleatorio**: no se sabe qué va a salir. Un **suceso** es algo que puede pasar, como \"sale par\". Si todos los resultados tienen la misma chance, la probabilidad se calcula con la **regla de Laplace**: **P = casos favorables / casos posibles**. Sacar par en un dado: 3 casos favorables (2, 4 y 6) de 6 posibles, P = 3/6 = 1/2."
+    },
+    {
+     "t": "destacado",
+     "texto": "Dos sucesos son **excluyentes** si no pueden pasar a la vez, como \"sale 2\" y \"sale 5\". Entonces **P(A o B) = P(A) + P(B)**.\nSon **no excluyentes** si pueden pasar a la vez, como \"sale par\" y \"sale más que 3\". Entonces **P(A o B) = P(A) + P(B) − P(A y B)**: se resta lo que se contó dos veces."
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/mat-4-10-dado.svg",
+     "src_movil": "img/clases/mat-4-10-dado-movil.svg",
+     "tipo": "grafico",
+     "animacion": "svg",
+     "alt": "Las seis caras de un dado. El suceso A, sacar par, marca el 2, el 4 y el 6. El suceso B, sacar más que 3, marca el 4, el 5 y el 6. El 4 y el 6 están en los dos sucesos.",
+     "epigrafe": "Dos sucesos no excluyentes en un dado. Esquema elaborado para esta clase."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "Al tirar un dado, ¿cada par de sucesos es excluyente o no excluyente?",
+     "categorias": [
+      "Excluyentes",
+      "No excluyentes"
+     ],
+     "items": [
+      {
+       "texto": "Sale 2 / Sale 5",
+       "cat": "Excluyentes"
+      },
+      {
+       "texto": "Sale par / Sale impar",
+       "cat": "Excluyentes"
+      },
+      {
+       "texto": "Sale menos que 3 / Sale más que 4",
+       "cat": "Excluyentes"
+      },
+      {
+       "texto": "Sale par / Sale más que 3",
+       "cat": "No excluyentes"
+      },
+      {
+       "texto": "Sale impar / Sale menos que 4",
+       "cat": "No excluyentes"
+      },
+      {
+       "texto": "Sale 6 / Sale par",
+       "cat": "No excluyentes"
+      }
+     ],
+     "explicacion": "Son no excluyentes cuando hay al menos un resultado que cumple los dos: 4 y 6; 1 y 3; 6.",
+     "pista": "Para cada par, escribí los resultados de cada suceso y fijate si se repite alguno."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Al tirar un dado, ¿cuántos resultados cumplen \"sale par o sale más que 3\"?",
+     "respuesta": "4",
+     "explicacion": "Son el 2, el 4, el 5 y el 6. Con la fórmula: 3 + 3 − 2 = 4, porque el 4 y el 6 se contaban dos veces.",
+     "pista1": "Mirá el dibujo del dado: contá las caras marcadas por A, por B o por los dos.",
+     "pista": "A tiene 2, 4, 6 y B tiene 4, 5, 6. El 4 y el 6 se cuentan una sola vez."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada suceso con su probabilidad al tirar un dado.",
+     "pares": [
+      {
+       "a": "Sale 6",
+       "b": "1/6"
+      },
+      {
+       "a": "Sale par",
+       "b": "1/2"
+      },
+      {
+       "a": "Sale menos que 3",
+       "b": "1/3"
+      },
+      {
+       "a": "Sale 7",
+       "b": "0"
+      }
+     ],
+     "explicacion": "6: 1 caso de 6. Par: 3 de 6 = 1/2. Menos que 3 (1 y 2): 2 de 6 = 1/3. El 7 no puede salir: probabilidad 0.",
+     "pista": "Contá los casos favorables de cada suceso y dividí por 6."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "Al tirar un dado, ¿cuál es la probabilidad de que salga 2 o 5?",
+     "opciones": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+     ],
+     "correcta": 1,
+     "explicacion": "Son excluyentes: P = 1/6 + 1/6 = 2/6 = 1/3.",
+     "pista": "¿Pueden salir el 2 y el 5 a la vez? Usá la fórmula que corresponde."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "¿Puede una probabilidad valer más que 1?",
+     "respuesta": "No. Los casos favorables nunca son más que los posibles, así que la probabilidad está siempre entre 0 (imposible) y 1 (seguro)."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá la regla de Laplace y la diferencia entre sucesos excluyentes y no excluyentes. Calculá la probabilidad de que en un dado salga par o más que 3, con el dibujo.",
+    "guia": [
+     "¿Cómo se calcula una probabilidad con la regla de Laplace?",
+     "¿Cuándo dos sucesos son excluyentes y por qué en los no excluyentes se resta P(A y B)?",
+     "¿Cuánto vale la probabilidad de que salga par o más que 3?",
+     "¿Cuánto vale la probabilidad de que salga par o múltiplo de 3?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La probabilidad de sacar par en un dado es 1/2.",
+     "respuesta": true,
+     "explicacion": "3 casos de 6."
+    },
+    {
+     "tipo": "vf",
+     "texto": "\"Sale 2\" y \"sale 5\" son sucesos no excluyentes.",
+     "respuesta": false,
+     "explicacion": "No pueden pasar a la vez: son excluyentes."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Una probabilidad puede valer 1,5.",
+     "respuesta": false,
+     "explicacion": "Está siempre entre 0 y 1."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En los no excluyentes se resta P(A y B).",
+     "respuesta": true,
+     "explicacion": "Para no contar dos veces lo común."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La probabilidad de un suceso imposible es 0.",
+     "respuesta": true,
+     "explicacion": "No tiene casos favorables."
+    },
+    {
+     "tipo": "vf",
+     "texto": "\"Sale par\" y \"sale más que 3\" no tienen resultados en común.",
+     "respuesta": false,
+     "explicacion": "Comparten el 4 y el 6."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En un dado, P(sale 1 o 2) es…",
+     "opciones": [
+      "1/6",
+      "1/2",
+      "2/3",
+      "1/3"
+     ],
+     "correcta": 3,
+     "explicacion": "2 casos de 6."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "La regla de Laplace es…",
+     "opciones": [
+      "favorables / posibles",
+      "posibles / favorables",
+      "favorables − posibles",
+      "favorables · posibles"
+     ],
+     "correcta": 0,
+     "explicacion": "Casos favorables sobre casos posibles."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En un dado, P(par o más que 3) es…",
+     "opciones": [
+      "1/2",
+      "2/3",
+      "1",
+      "5/6"
+     ],
+     "correcta": 1,
+     "explicacion": "4 casos de 6: 2, 4, 5 y 6."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué par de sucesos es excluyente?",
+     "opciones": [
+      "par y múltiplo de 3",
+      "impar y menos que 4",
+      "1 y 6",
+      "par y más que 2"
+     ],
+     "correcta": 2,
+     "explicacion": "No pueden salir a la vez."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "La probabilidad de un suceso seguro es…",
+     "opciones": [
+      "0",
+      "1/2",
+      "1",
+      "6"
+     ],
+     "correcta": 2,
+     "explicacion": "Todos los casos son favorables."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En un dado, P(sale 7) es…",
+     "opciones": [
+      "1/7",
+      "0",
+      "1/6",
+      "1"
+     ],
+     "correcta": 1,
+     "explicacion": "Es imposible."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "ALEATORIO",
+     "pista": "Experimento cuyo resultado no se puede saber de antemano."
+    },
+    {
+     "palabra": "SUCESO",
+     "pista": "Algo que puede pasar en un experimento."
+    },
+    {
+     "palabra": "LAPLACE",
+     "pista": "Regla: favorables sobre posibles."
+    },
+    {
+     "palabra": "EXCLUYENTES",
+     "pista": "Sucesos que no pueden pasar a la vez."
+    },
+    {
+     "palabra": "FAVORABLES",
+     "pista": "Casos que cumplen el suceso."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "En un dado, ¿cuál es P(impar o menos que 4)?",
+     "opciones": [
+      "1/2",
+      "2/3",
+      "5/6",
+      "1"
+     ],
+     "correcta": 1,
+     "explicacion": "Impar: 1, 3, 5. Menos que 4: 1, 2, 3. Juntos: 1, 2, 3, 5 → 4 de 6."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuándo se usa P(A o B) = P(A) + P(B)?",
+     "opciones": [
+      "Cuando A y B son excluyentes",
+      "Siempre",
+      "Cuando A y B son iguales",
+      "Nunca"
+     ],
+     "correcta": 0,
+     "explicacion": "Si pueden pasar a la vez, hay que restar lo común."
+    },
+    {
+     "tipo": "vf",
+     "texto": "\"Sale par\" y \"sale impar\" son excluyentes.",
+     "respuesta": true,
+     "explicacion": "Ningún número es par e impar a la vez."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Sucesos dependientes y probabilidad condicionada",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "¿Lo que pasó antes cambia lo que viene?",
+     "texto": "Dos sucesos son **independientes** si que ocurra uno no cambia la probabilidad del otro, como tirar una moneda y después un dado. Entonces **P(A y B) = P(A) · P(B)**.\n\nSon **dependientes** si uno cambia la probabilidad del otro. Pasa al sacar bolillas de una bolsa **sin reposición**: lo que salió primero ya no está para la segunda extracción."
+    },
+    {
+     "t": "destacado",
+     "texto": "La **probabilidad condicionada** P(B | A) se lee \"probabilidad de B **sabiendo que** ocurrió A\". Con sucesos dependientes: **P(A y B) = P(A) · P(B | A)**."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Pensalo así: la bolsa",
+     "texto": "Una bolsa tiene 3 bolillas rojas y 2 azules. Sacás dos, una después de la otra, sin devolver la primera. La probabilidad de que la primera sea roja es 3/5. Sabiendo que salió roja, quedan 2 rojas de 4: P(2ª roja | 1ª roja) = 2/4. Entonces P(las dos rojas) = 3/5 · 2/4 = 6/20 = 3/10."
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/mat-4-10-arbol.svg",
+     "src_movil": "img/clases/mat-4-10-arbol-movil.svg",
+     "tipo": "grafico",
+     "animacion": "svg",
+     "alt": "Árbol de dos extracciones sin reposición de una bolsa con 3 rojas y 2 azules. Primera: roja 3/5, azul 2/5. Después de roja: roja 2/4, azul 2/4. Después de azul: roja 3/4, azul 1/4. Resultados: RR 6/20, RA 6/20, AR 6/20, AA 2/20.",
+     "epigrafe": "El ejemplo de la bolsa, en un árbol: cada camino se calcula multiplicando sus ramas. Esquema elaborado para esta clase."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Los dos sucesos son independientes o dependientes?",
+     "categorias": [
+      "Independientes",
+      "Dependientes"
+     ],
+     "items": [
+      {
+       "texto": "Tirar una moneda y después un dado",
+       "cat": "Independientes"
+      },
+      {
+       "texto": "Dos tiradas seguidas de un dado",
+       "cat": "Independientes"
+      },
+      {
+       "texto": "Sacar dos bolillas con reposición",
+       "cat": "Independientes"
+      },
+      {
+       "texto": "Sacar dos bolillas sin reposición",
+       "cat": "Dependientes"
+      },
+      {
+       "texto": "Sacar dos cartas de un mazo sin devolver la primera",
+       "cat": "Dependientes"
+      },
+      {
+       "texto": "Elegir dos estudiantes distintos de un curso, uno después del otro",
+       "cat": "Dependientes"
+      }
+     ],
+     "explicacion": "Cuando lo primero no se devuelve, cambian los casos para lo segundo: son dependientes. Si se devuelve, o son experimentos separados, son independientes.",
+     "pista": "Preguntate en cada caso: ¿lo que pasó primero cambia lo que queda para después?"
+    },
+    {
+     "t": "verificar",
+     "consigna": "Con la misma bolsa (3 rojas y 2 azules), sacás una bolilla, la devolvés y sacás otra. ¿Cuál es la probabilidad de que las dos sean rojas? Escribila como decimal.",
+     "respuesta": "0.36",
+     "tolerancia": 1e-06,
+     "acepta": [
+      "0.36",
+      "9/25"
+     ],
+     "explicacion": "Con reposición son independientes: 3/5 · 3/5 = 9/25 = 0,36.",
+     "pista1": "Al devolver la bolilla, la bolsa vuelve a tener 3 rojas de 5.",
+     "pista": "Multiplicá 3/5 por 3/5 y pasalo a decimal."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "En la bolsa de 3 rojas y 2 azules, sin reposición, ¿cuál es la probabilidad de sacar dos azules?",
+     "opciones": [
+      "4/25",
+      "1/10",
+      "2/5",
+      "1/4"
+     ],
+     "correcta": 1,
+     "explicacion": "2/5 · 1/4 = 2/20 = 1/10: después de sacar una azul queda 1 azul de 4.",
+     "pista": "Buscá en el árbol el camino de las dos azules y multiplicá sus ramas."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "P(B | A) se lee \"probabilidad de B sabiendo que ocurrió A\".",
+       "v": true,
+       "explicacion": "Es la probabilidad condicionada."
+      },
+      {
+       "texto": "Sacar sin reposición da sucesos independientes.",
+       "v": false,
+       "explicacion": "Son dependientes: cambia lo que queda en la bolsa.",
+       "pista": "Pensá qué pasa con la bolsa después de la primera extracción."
+      },
+      {
+       "texto": "En un árbol, la probabilidad de un camino se obtiene multiplicando sus ramas.",
+       "v": true,
+       "explicacion": "Por ejemplo, RR = 3/5 · 2/4."
+      },
+      {
+       "texto": "Las probabilidades de todos los caminos del árbol suman 1.",
+       "v": true,
+       "explicacion": "6/20 + 6/20 + 6/20 + 2/20 = 20/20."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Si sacás sin reposición y la primera bolilla fue azul, ¿la segunda tiene más o menos chance de ser roja que la primera?",
+     "respuesta": "Más. Al principio era 3/5 = 0,6. Si salió una azul, quedan 3 rojas de 4: 3/4 = 0,75. Lo que salió primero cambió la probabilidad: son sucesos dependientes."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá la diferencia entre sucesos independientes y dependientes y qué es la probabilidad condicionada. Copiá el árbol de la bolsa y calculá la probabilidad de cada camino.",
+    "guia": [
+     "¿Cuándo dos sucesos son independientes y por qué sacar sin reposición da sucesos dependientes?",
+     "¿Cómo se lee P(B | A)?",
+     "Calculá la probabilidad de cada camino del árbol.",
+     "¿Cuánto suman las probabilidades de todos los caminos?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Tirar una moneda y un dado son sucesos independientes.",
+     "respuesta": true,
+     "explicacion": "Uno no influye en el otro."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Con reposición, la segunda extracción depende de la primera.",
+     "respuesta": false,
+     "explicacion": "Al devolver, la bolsa queda igual."
+    },
+    {
+     "tipo": "vf",
+     "texto": "P(las dos rojas) sin reposición es 3/10.",
+     "respuesta": true,
+     "explicacion": "3/5 · 2/4 = 6/20."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Si A y B son independientes, P(A y B) = P(A) + P(B).",
+     "respuesta": false,
+     "explicacion": "Se multiplica: P(A) · P(B)."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Después de sacar una roja, quedan 2 rojas de 4.",
+     "respuesta": true,
+     "explicacion": "Sin reposición."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La probabilidad condicionada no cambia nunca.",
+     "respuesta": false,
+     "explicacion": "Depende de lo que ya ocurrió."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "P(cara y 6) al tirar una moneda y un dado es…",
+     "opciones": [
+      "1/12",
+      "1/8",
+      "2/3",
+      "1/2"
+     ],
+     "correcta": 0,
+     "explicacion": "1/2 · 1/6 = 1/12."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En la bolsa, P(2ª azul | 1ª roja) es…",
+     "opciones": [
+      "2/5",
+      "1/4",
+      "2/4",
+      "3/4"
+     ],
+     "correcta": 2,
+     "explicacion": "Quedan 2 azules de 4."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Sacar dos cartas sin devolver la primera son sucesos…",
+     "opciones": [
+      "excluyentes",
+      "independientes",
+      "imposibles",
+      "dependientes"
+     ],
+     "correcta": 3,
+     "explicacion": "La primera cambia lo que queda."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En el árbol, el camino RA vale…",
+     "opciones": [
+      "6/20",
+      "6/25",
+      "2/20",
+      "3/10 + 2/4"
+     ],
+     "correcta": 0,
+     "explicacion": "3/5 · 2/4 = 6/20."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "P(B | A) se lee…",
+     "opciones": [
+      "B dividido A",
+      "B y A a la vez",
+      "B sabiendo que pasó A",
+      "B o A"
+     ],
+     "correcta": 2,
+     "explicacion": "Es la probabilidad condicionada."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Con reposición, P(dos azules) en la bolsa es…",
+     "opciones": [
+      "1/10",
+      "4/25",
+      "2/5",
+      "4/20"
+     ],
+     "correcta": 1,
+     "explicacion": "2/5 · 2/5 = 4/25."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "INDEPENDIENTES",
+     "pista": "Sucesos en que uno no cambia la probabilidad del otro."
+    },
+    {
+     "palabra": "DEPENDIENTES",
+     "pista": "Sucesos en que uno cambia la probabilidad del otro."
+    },
+    {
+     "palabra": "CONDICIONADA",
+     "pista": "Probabilidad de B sabiendo que ocurrió A."
+    },
+    {
+     "palabra": "REPOSICIÓN",
+     "pista": "Devolver la bolilla antes de sacar otra."
+    },
+    {
+     "palabra": "ÁRBOL",
+     "pista": "Esquema con ramas para calcular probabilidades."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Sin reposición, ¿cuál es P(1ª azul y 2ª roja) en la bolsa?",
+     "opciones": [
+      "6/25",
+      "3/10",
+      "1/10",
+      "2/5"
+     ],
+     "correcta": 1,
+     "explicacion": "2/5 · 3/4 = 6/20 = 3/10."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué tirar dos veces un dado da sucesos independientes?",
+     "opciones": [
+      "El dado no recuerda lo que salió antes",
+      "Siempre sale lo mismo",
+      "Son excluyentes",
+      "Hay 6 caras"
+     ],
+     "correcta": 0,
+     "explicacion": "La segunda tirada tiene las mismas probabilidades que la primera."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En un árbol, se multiplican las probabilidades a lo largo de cada camino.",
+     "respuesta": true,
+     "explicacion": "Así se obtiene P(A y B)."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Probabilidad total y pruebas repetidas",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Sumar los caminos",
+     "texto": "A veces a un mismo resultado se llega por varios caminos del árbol. ¿Cuál es la probabilidad de que la **segunda** bolilla sea roja? Puede pasar de dos maneras: roja y roja (RR) o azul y roja (AR). La **probabilidad total** es la suma de esos caminos: P(2ª roja) = 6/20 + 6/20 = 12/20 = **3/5**."
+    },
+    {
+     "t": "destacado",
+     "texto": "**Probabilidad total:** se suman las probabilidades de todos los caminos que terminan en el resultado buscado.\n**Pruebas repetidas:** si un experimento independiente se repite, la probabilidad de una secuencia es el producto de las probabilidades de cada vez. Si hay varias secuencias que sirven, se suman."
+    },
+    {
+     "t": "pasos",
+     "titulo": "Tres tiradas de una moneda: ¿exactamente 2 caras?",
+     "pasos": [
+      {
+       "titulo": "Listá los resultados posibles",
+       "texto": "Con C para cara y S para seca hay 8: CCC, CCS, CSC, SCC, CSS, SCS, SSC, SSS."
+      },
+      {
+       "titulo": "Calculá cada secuencia",
+       "texto": "Cada una tiene probabilidad 1/2 · 1/2 · 1/2 = 1/8."
+      },
+      {
+       "titulo": "Contá las que sirven",
+       "texto": "Tienen exactamente 2 caras: CCS, CSC y SCC. Son 3."
+      },
+      {
+       "titulo": "Sumá",
+       "texto": "P(exactamente 2 caras) = 3 · 1/8 = **3/8**."
+      }
+     ]
+    },
+    {
+     "t": "verificar",
+     "consigna": "En la bolsa de 3 rojas y 2 azules, sin reposición, ¿cuál es la probabilidad de que la segunda bolilla sea azul? Escribila como decimal.",
+     "respuesta": "0.4",
+     "tolerancia": 1e-06,
+     "acepta": [
+      "0.4",
+      "2/5",
+      "8/20"
+     ],
+     "explicacion": "Hay dos caminos: RA (6/20) y AA (2/20). Suman 8/20 = 2/5 = 0,4.",
+     "pista1": "Buscá en el árbol todos los caminos en los que la segunda es azul.",
+     "pista": "Son RA y AA. Sumá sus probabilidades."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "Tirás una moneda tres veces. ¿Cuántas caras tiene cada resultado?",
+     "categorias": [
+      "0 caras",
+      "1 cara",
+      "2 caras",
+      "3 caras"
+     ],
+     "items": [
+      {
+       "texto": "CCC",
+       "cat": "3 caras"
+      },
+      {
+       "texto": "CCS",
+       "cat": "2 caras"
+      },
+      {
+       "texto": "CSC",
+       "cat": "2 caras"
+      },
+      {
+       "texto": "SCC",
+       "cat": "2 caras"
+      },
+      {
+       "texto": "CSS",
+       "cat": "1 cara"
+      },
+      {
+       "texto": "SCS",
+       "cat": "1 cara"
+      },
+      {
+       "texto": "SSC",
+       "cat": "1 cara"
+      },
+      {
+       "texto": "SSS",
+       "cat": "0 caras"
+      }
+     ],
+     "explicacion": "Quedan 1, 3, 3 y 1 resultados. Por eso P(0 caras) = 1/8, P(1 cara) = 3/8, P(2 caras) = 3/8 y P(3 caras) = 1/8.",
+     "pista": "Contá las letras C de cada resultado."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Tirás una moneda tres veces. ¿Cuál es la probabilidad de sacar al menos una cara?",
+     "respuesta": "7/8",
+     "acepta": [
+      "7/8",
+      "0.875",
+      "0,875"
+     ],
+     "placeholder": "Por ejemplo: 3/8",
+     "formato": "Escribila como fracción, por ejemplo 3/8, o como decimal.",
+     "explicacion": "De los 8 resultados, el único sin caras es SSS. Entonces P(al menos una cara) = 1 − 1/8 = 7/8.",
+     "pista1": "Usá la clasificación que hiciste: ¿cuántos resultados tienen al menos una cara?",
+     "pista": "Todos menos SSS. Son 7 de 8."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "Tirás un dado dos veces. ¿Cuál es la probabilidad de sacar dos seis?",
+     "opciones": [
+      "1/6",
+      "1/12",
+      "1/36",
+      "2/6"
+     ],
+     "correcta": 2,
+     "explicacion": "Son tiradas independientes: 1/6 · 1/6 = 1/36.",
+     "pista": "Releé el recuadro: en pruebas repetidas se multiplica."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "P(2ª roja) en la bolsa sin reposición es 3/5.",
+       "v": true,
+       "explicacion": "6/20 + 6/20 = 12/20 = 3/5."
+      },
+      {
+       "texto": "Al tirar tres monedas, sacar exactamente 2 caras tiene probabilidad 2/3.",
+       "v": false,
+       "explicacion": "Es 3/8: 3 secuencias de 8.",
+       "pista": "Contá en la clasificación cuántos resultados tienen 2 caras."
+      },
+      {
+       "texto": "En pruebas repetidas independientes, la probabilidad de una secuencia es el producto de las de cada vez.",
+       "v": true,
+       "explicacion": "Por ejemplo, CCS = 1/2 · 1/2 · 1/2."
+      },
+      {
+       "texto": "P(al menos una cara) = 1 − P(ninguna cara).",
+       "v": true,
+       "explicacion": "Son sucesos contrarios: entre los dos cubren todos los casos."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Si en las primeras tres tiradas de una moneda salió seca, ¿es más probable que la cuarta sea cara?",
+     "respuesta": "No. Las tiradas son independientes: la moneda no recuerda lo que salió antes. La probabilidad de cara en la cuarta sigue siendo 1/2."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es la probabilidad total con el ejemplo de la segunda bolilla roja, y resolvé el problema de las tres monedas listando todos los resultados.",
+    "guia": [
+     "¿Por qué hay dos caminos para que la segunda bolilla sea roja?",
+     "Calculá la probabilidad total de que la segunda bolilla sea roja.",
+     "Con tres monedas, ¿cuál es la probabilidad de sacar exactamente 2 caras?",
+     "¿Cómo calculás la probabilidad de al menos una cara?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Al tirar tres monedas hay 8 resultados posibles.",
+     "respuesta": true,
+     "explicacion": "2 · 2 · 2 = 8."
+    },
+    {
+     "tipo": "vf",
+     "texto": "P(exactamente 2 caras en tres tiradas) = 3/8.",
+     "respuesta": true,
+     "explicacion": "CCS, CSC y SCC."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La probabilidad total se calcula multiplicando todos los caminos.",
+     "respuesta": false,
+     "explicacion": "Se suman los caminos que llevan al resultado."
+    },
+    {
+     "tipo": "vf",
+     "texto": "P(dos seis en dos tiradas) = 1/36.",
+     "respuesta": true,
+     "explicacion": "1/6 · 1/6."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Después de tres secas, la cuarta tiene más chance de ser cara.",
+     "respuesta": false,
+     "explicacion": "Sigue siendo 1/2."
+    },
+    {
+     "tipo": "vf",
+     "texto": "P(tres caras en tres tiradas) = 1/8.",
+     "respuesta": true,
+     "explicacion": "Solo CCC."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "P(2ª azul) en la bolsa sin reposición es…",
+     "opciones": [
+      "2/5",
+      "1/10",
+      "3/5",
+      "1/4"
+     ],
+     "correcta": 0,
+     "explicacion": "6/20 + 2/20 = 8/20 = 2/5."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuántos resultados de tres monedas tienen exactamente 1 cara?",
+     "opciones": [
+      "1",
+      "2",
+      "4",
+      "3"
+     ],
+     "correcta": 3,
+     "explicacion": "CSS, SCS y SSC."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "P(al menos una cara en tres tiradas) es…",
+     "opciones": [
+      "1/8",
+      "7/8",
+      "3/8",
+      "1/2"
+     ],
+     "correcta": 1,
+     "explicacion": "1 − 1/8."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "La probabilidad de cada secuencia de tres tiradas de moneda es…",
+     "opciones": [
+      "1/3",
+      "1/6",
+      "1/8",
+      "3/8"
+     ],
+     "correcta": 2,
+     "explicacion": "1/2 · 1/2 · 1/2."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Dos tiradas de moneda: P(cara y cara) es…",
+     "opciones": [
+      "1/2",
+      "1/4",
+      "1",
+      "2/4"
+     ],
+     "correcta": 1,
+     "explicacion": "1/2 · 1/2 = 1/4."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Para la probabilidad total de un resultado, se…",
+     "opciones": [
+      "multiplican las ramas del árbol",
+      "restan los caminos",
+      "eligen dos caminos",
+      "suman los caminos que llevan a él"
+     ],
+     "correcta": 3,
+     "explicacion": "Cada camino es una manera de llegar."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "TOTAL",
+     "pista": "Probabilidad que suma todos los caminos a un resultado."
+    },
+    {
+     "palabra": "CAMINO",
+     "pista": "Recorrido de un árbol desde el inicio hasta un resultado."
+    },
+    {
+     "palabra": "REPETIDAS",
+     "pista": "Pruebas ___: el mismo experimento varias veces."
+    },
+    {
+     "palabra": "SECUENCIA",
+     "pista": "Orden de resultados, como CCS."
+    },
+    {
+     "palabra": "MONEDA",
+     "pista": "Experimento con dos resultados: cara o seca."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Tirás tres monedas. ¿Cuál es P(exactamente 1 cara)?",
+     "opciones": [
+      "1/8",
+      "1/3",
+      "3/8",
+      "1/2"
+     ],
+     "correcta": 2,
+     "explicacion": "CSS, SCS y SSC: 3 de 8."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En la bolsa sin reposición, ¿por qué P(2ª roja) es la suma de RR y AR?",
+     "opciones": [
+      "Son los dos caminos en los que la segunda es roja",
+      "Porque son iguales",
+      "Porque son independientes",
+      "Porque la primera siempre es roja"
+     ],
+     "correcta": 0,
+     "explicacion": "Se llega a ese resultado por dos caminos distintos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Si un experimento es independiente, el resultado anterior no cambia la probabilidad del siguiente.",
+     "respuesta": true,
+     "explicacion": "Por eso, en pruebas repetidas, se multiplica."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Regla de Laplace",
+   "definicion": "P = casos favorables / casos posibles, cuando todos los resultados tienen la misma chance."
+  },
+  {
+   "palabra": "Sucesos excluyentes",
+   "definicion": "No pueden pasar a la vez: P(A o B) = P(A) + P(B)."
+  },
+  {
+   "palabra": "Sucesos independientes",
+   "definicion": "Uno no cambia la probabilidad del otro: P(A y B) = P(A) · P(B)."
+  },
+  {
+   "palabra": "Probabilidad condicionada",
+   "definicion": "P(B | A): probabilidad de B sabiendo que ocurrió A."
+  },
+  {
+   "palabra": "Árbol de probabilidades",
+   "definicion": "Esquema con ramas; cada camino se calcula multiplicando sus ramas."
+  },
+  {
+   "palabra": "Probabilidad total",
+   "definicion": "Suma de las probabilidades de todos los caminos que llevan a un resultado."
+  },
+  {
+   "palabra": "Pruebas repetidas",
+   "definicion": "Repetir un experimento independiente: se multiplica en cada secuencia y se suman las secuencias que sirven."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "P(par o más que 3) = 3/6 + 3/6 = 1.",
+   "aclaracion": "No son excluyentes: el 4 y el 6 se contaron dos veces. P = 3/6 + 3/6 − 2/6 = 4/6."
+  },
+  {
+   "error": "Sin reposición, la segunda extracción tiene las mismas probabilidades que la primera.",
+   "aclaracion": "Cambian, porque la bolilla que salió ya no está: son sucesos dependientes."
+  },
+  {
+   "error": "Después de varias secas seguidas, es más probable que salga cara.",
+   "aclaracion": "Las tiradas son independientes: la probabilidad de cara sigue siendo 1/2."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Si tirás una moneda 100 veces, ¿esperás que salgan exactamente 50 caras? ¿Qué tan lejos de 50 te parece razonable que quede?",
+  "conexion": "Esto se conecta con la clase \"Medidas de dispersión\"."
+ }
+}

@@ -1,0 +1,1293 @@
+{
+  "id": "ing-4-03",
+  "espacio": "lengua-extranjera",
+  "idioma": "en",
+  "eje": "¿Qué hicieron? ¿Qué inventaron? Personajes de la historia e hitos",
+  "titulo": "Biografías e inventos: el pasado simple (Past simple)",
+  "intro": "En esta clase vas a aprender a contar hechos del pasado en inglés, con verbos regulares e irregulares, negaciones y preguntas. Al final vas a escribir la biografía de un inventor o una inventora; tocá 🔊 en las palabras en inglés para escuchar cómo se pronuncian. Además, {{nombre}} te va a contar algo que le pasó.",
+  "objetivos": [
+    "Formar y pronunciar el pasado simple de los verbos regulares.",
+    "Usar verbos irregulares y was o were, y armar negaciones y preguntas con did.",
+    "Leer biografías breves y contar en inglés, como en una biografía, algo que le pasó a {{nombre}}."
+  ],
+  "tp_aporte": "Para tu trabajo práctico ya tenés las reglas del pasado simple, la lista de verbos irregulares y un nuevo párrafo de la historia de {{nombre}}: algo importante que le pasó.",
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "El pasado simple de los verbos regulares",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "¿Para qué se usa el pasado simple?",
+          "texto": "El **pasado simple** ([[Past simple]]) cuenta **acciones terminadas en el pasado**. Muchas veces va con una expresión de tiempo: [[yesterday]] (ayer), [[last week]] (la semana pasada), [[in 1990]] (en 1990), [[two years ago]] (hace dos años).\n\nTiene una ventaja sobre el castellano: el verbo es **igual para todas las personas**. Se dice [[I worked]], [[she worked]], [[they worked]], mientras que en castellano cambia: trabajé, trabajó, trabajaron."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar: cómo se escribe el pasado de los verbos regulares",
+          "texto": "La regla general es agregar **-ed**: [[work]] → [[worked]], [[play]] → [[played]].\n• Si el verbo termina en **e**, se agrega solo **-d**: [[live]] → [[lived]], [[dance]] → [[danced]].\n• Si termina en **consonante + y**, la y cambia por **-ied**: [[study]] → [[studied]], [[try]] → [[tried]].\n• Si termina en **vocal + y**, se agrega -ed: [[play]] → [[played]], [[enjoy]] → [[enjoyed]].\n• Si es corto y termina en **consonante + vocal + consonante**, se duplica la última letra: [[stop]] → [[stopped]], [[plan]] → [[planned]]."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Las tres pronunciaciones de -ed (tocá 🔊 para escucharlas)",
+          "columnas": [
+            "Suena como…",
+            "Cuándo",
+            "Ejemplos"
+          ],
+          "filas": [
+            [
+              "/t/",
+              "Después de sonidos sordos, como p, k, s, sh y ch",
+              "[[worked]], [[watched]], [[stopped]]"
+            ],
+            [
+              "/d/",
+              "Después de vocales y de sonidos sonoros, como l, n y v",
+              "[[played]], [[lived]], [[opened]]"
+            ],
+            [
+              "/ɪd/ (una sílaba más)",
+              "Cuando el verbo termina en t o en d",
+              "[[wanted]], [[needed]], [[invented]]"
+            ]
+          ]
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Pensalo así",
+          "texto": "Imaginá que tenés que decir [[wanted]] sin agregar una sílaba: te queda algo como \"wantd\", con una t y una d pegadas, que casi no se puede pronunciar. Por eso, cuando el verbo termina en t o en d, la terminación -ed suma una sílaba: want-ed, need-ed, in-vent-ed. En cambio, [[worked]] y [[played]] tienen una sola sílaba."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cómo se forma el pasado de cada verbo?",
+          "categorias": [
+            "Agrega -ed",
+            "Agrega solo -d",
+            "Cambia la y por -ied",
+            "Duplica la última letra"
+          ],
+          "items": [
+            {
+              "texto": "work → worked",
+              "cat": "Agrega -ed"
+            },
+            {
+              "texto": "enjoy → enjoyed",
+              "cat": "Agrega -ed"
+            },
+            {
+              "texto": "live → lived",
+              "cat": "Agrega solo -d"
+            },
+            {
+              "texto": "dance → danced",
+              "cat": "Agrega solo -d"
+            },
+            {
+              "texto": "study → studied",
+              "cat": "Cambia la y por -ied"
+            },
+            {
+              "texto": "cry → cried",
+              "cat": "Cambia la y por -ied"
+            },
+            {
+              "texto": "stop → stopped",
+              "cat": "Duplica la última letra"
+            },
+            {
+              "texto": "plan → planned",
+              "cat": "Duplica la última letra"
+            }
+          ],
+          "explicacion": "Regla general: -ed. Terminado en e: solo -d. Consonante + y: -ied (pero vocal + y, como enjoy, lleva -ed). Corto, con consonante + vocal + consonante: se duplica la última letra."
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá el relato de un fin de semana con el pasado de los verbos.",
+          "texto": "Last Saturday I [[visited]] my grandmother. We [[cooked]] pasta and [[watched]] a movie. On Sunday it [[rained]], so I [[stayed]] at home.",
+          "distractores": [
+            "visit",
+            "watch",
+            "played"
+          ],
+          "explicacion": "Todos son regulares: visit + ed, cook + ed, watch + ed, rain + ed. Stay termina en vocal + y, así que lleva -ed: stayed.",
+          "pista": "Revisá el recuadro de las reglas: ¿qué pasa con los verbos que terminan en vocal + y, como stay?"
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿En qué verbo la terminación -ed suma una sílaba al pronunciarlo?",
+          "opciones": [
+            "needed",
+            "played",
+            "watched",
+            "lived"
+          ],
+          "explicacion": "Need termina en d: -ed suena /ɪd/ y suma una sílaba (need-ed). En los otros tres, -ed no agrega ninguna sílaba.",
+          "pista": "Buscá en la tabla de las pronunciaciones cuándo -ed agrega una sílaba.",
+          "correcta": 0
+        },
+        {
+          "t": "dictado",
+          "texto": "I visited my grandmother last Saturday.",
+          "traduccion": "(Visité a mi abuela el sábado pasado.)",
+          "explicacion": "Visited: pasado regular de visit."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Escribí el pasado simple de study (estudiar).",
+          "respuesta": "studied",
+          "acepta": [
+            "studied"
+          ],
+          "formato": "Escribí solo el verbo en inglés.",
+          "explicacion": "Study termina en consonante + y: la y cambia por -ied. Queda studied.",
+          "pista1": "Fijate en qué letra termina study y en la letra que está antes.",
+          "pista": "Termina en consonante (d) + y: buscá esa regla en el recuadro."
+        },
+        {
+          "t": "pronunciar",
+          "modo": "escuchar",
+          "texto": "I wanted to dance, so I danced.",
+          "traduccion": "(Quería bailar, así que bailé.)",
+          "explicacion": "Wanted tiene una sílaba más (want-ed); danced, no (danst)."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "¿Por qué es una buena noticia que en pasado simple se diga I worked, she worked y they worked?",
+          "respuesta": "Porque en castellano el verbo cambia con cada persona (trabajé, trabajaste, trabajó, trabajamos, trabajaron) y en inglés, en pasado simple, la forma es una sola. Por cada verbo aprendés una palabra, no seis."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá en castellano cómo se forma el pasado simple de los verbos regulares: para qué se usa, cómo se escribe (la regla general y los casos especiales) y cómo se pronuncia -ed. Después escribí en inglés cuatro oraciones sobre lo que {{nombre}} hizo el fin de semana pasado (lo inventás vos), con verbos regulares y una expresión de tiempo.",
+        "guia": [
+          "¿Para qué se usa el pasado simple? ¿Cambia el verbo según la persona?",
+          "¿Qué pasa con los verbos terminados en e, en consonante + y, y con los cortos como stop?",
+          "¿Cuáles son las tres pronunciaciones de -ed? Dá un ejemplo de cada una.",
+          "¿Qué hiciste el fin de semana pasado? (visited, watched, played, cooked…)"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "En el pasado simple, el verbo es igual para todas las personas.",
+          "respuesta": true,
+          "explicacion": "I worked, she worked, they worked."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El pasado de study es studyed.",
+          "respuesta": false,
+          "explicacion": "Consonante + y: la y cambia por -ied. Queda studied."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El pasado de stop es stopped.",
+          "respuesta": true,
+          "explicacion": "Es corto y termina en consonante + vocal + consonante: se duplica la p."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El pasado de live es liveed.",
+          "respuesta": false,
+          "explicacion": "Termina en e: se agrega solo -d. Queda lived."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En wanted, la terminación -ed suma una sílaba.",
+          "respuesta": true,
+          "explicacion": "Want termina en t: -ed suena /ɪd/."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Last week quiere decir \"la semana que viene\".",
+          "respuesta": false,
+          "explicacion": "Quiere decir \"la semana pasada\"."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el pasado de play?",
+          "opciones": [
+            "played",
+            "plaied",
+            "playd",
+            "playied"
+          ],
+          "correcta": 0,
+          "explicacion": "Termina en vocal + y: se agrega -ed."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el pasado de plan?",
+          "opciones": [
+            "planned",
+            "planed",
+            "planied",
+            "planted"
+          ],
+          "correcta": 0,
+          "explicacion": "Consonante + vocal + consonante: se duplica la n."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir two years ago?",
+          "opciones": [
+            "Hace dos años",
+            "Dentro de dos años",
+            "Durante dos años",
+            "Cada dos años"
+          ],
+          "correcta": 0,
+          "explicacion": "Ago = hace (tiempo)."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo suena -ed en worked?",
+          "opciones": [
+            "/t/",
+            "/d/",
+            "/ɪd/",
+            "No suena"
+          ],
+          "correcta": 0,
+          "explicacion": "Después de k, un sonido sordo, suena /t/."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el pasado de dance?",
+          "opciones": [
+            "danced",
+            "danceed",
+            "dancied",
+            "dancedd"
+          ],
+          "correcta": 0,
+          "explicacion": "Termina en e: se agrega solo -d."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Para qué se usa el pasado simple?",
+          "opciones": [
+            "Para acciones terminadas",
+            "Para planes del futuro",
+            "Para rutinas de hoy",
+            "Para dar órdenes o consejos"
+          ],
+          "correcta": 0,
+          "explicacion": "Cuenta acciones que terminaron en el pasado."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "STUDIED",
+          "pista": "Pasado de study (estudiar)."
+        },
+        {
+          "palabra": "STOPPED",
+          "pista": "Pasado de stop, con la consonante duplicada."
+        },
+        {
+          "palabra": "WORKED",
+          "pista": "Pasado de work (trabajar)."
+        },
+        {
+          "palabra": "YESTERDAY",
+          "pista": "Ayer, en inglés."
+        },
+        {
+          "palabra": "INVENTED",
+          "pista": "Pasado de invent (inventar)."
+        },
+        {
+          "palabra": "LIVED",
+          "pista": "Pasado de live (vivir)."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "She studied English last year.",
+            "She studyed English last year.",
+            "She studieds English last year.",
+            "She study English last year."
+          ],
+          "correcta": 0,
+          "explicacion": "Consonante + y: -ied. Y el verbo no cambia con she."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué verbo -ed suena /ɪd/?",
+          "opciones": [
+            "needed",
+            "played",
+            "watched",
+            "opened"
+          ],
+          "correcta": 0,
+          "explicacion": "Need termina en d: se agrega una sílaba (need-ed)."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"I visited my grandmother last Sunday\" está en pasado simple.",
+          "respuesta": true,
+          "explicacion": "Visited es el pasado regular de visit, con la expresión last Sunday."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Verbos irregulares, negaciones y preguntas",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Los verbos irregulares",
+          "texto": "Algunos verbos muy usados **no siguen la regla de -ed**: su pasado es una palabra distinta, que hay que **aprender de memoria**. Son los **verbos irregulares**. También son iguales para todas las personas: [[I went]], [[he went]], [[we went]]."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar: los irregulares de esta clase (tocá 🔊 para escucharlos)",
+          "texto": "• [[go]] → [[went]] (ir)\n• [[have]] → [[had]] (tener)\n• [[make]] → [[made]] (hacer, fabricar)\n• [[find]] → [[found]] (encontrar)\n• [[become]] → [[became]] (convertirse, llegar a ser)\n• [[win]] → [[won]] (ganar)\n• [[write]] → [[wrote]] (escribir)\n• [[build]] → [[built]] (construir)\n• [[see]] → [[saw]] (ver)"
+        },
+        {
+          "t": "destacado",
+          "titulo": "El verbo be en pasado: was y were",
+          "texto": "El verbo **be** (ser o estar) tiene dos formas en pasado:\n• [[was]] con I, he, she e it: [[She was a doctor.]]\n• [[were]] con you, we y they: [[They were inventors.]]\nNegativo: [[wasn't]] y [[weren't]]. Pregunta: se empieza con was o were: [[Was he Scottish?]]"
+        },
+        {
+          "t": "pasos",
+          "titulo": "Paso a paso: de una afirmación a una negación y una pregunta",
+          "pasos": [
+            {
+              "titulo": "Partí de la afirmación",
+              "texto": "[[She won the prize.]] (Ganó el premio.) Won es el pasado irregular de win."
+            },
+            {
+              "titulo": "Para negar, agregá didn't",
+              "texto": "Didn't es la forma corta de did not. Va entre la persona y el verbo."
+            },
+            {
+              "titulo": "Devolvé el verbo a su forma base",
+              "texto": "Después de didn't, el verbo vuelve a la forma base, sin -ed y sin forma irregular: [[She didn't win the prize.]] El pasado ya lo marca did."
+            },
+            {
+              "titulo": "Para preguntar, empezá con Did",
+              "texto": "Did + persona + verbo base: [[Did she win the prize?]] Se responde [[Yes, she did.]] o [[No, she didn't.]]"
+            },
+            {
+              "titulo": "Con be no se usa did",
+              "texto": "Was y were niegan y preguntan solos: [[She wasn't Polish.]] [[Were they inventors?]]"
+            }
+          ]
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada verbo con su pasado.",
+          "pares": [
+            {
+              "a": "go",
+              "b": "went"
+            },
+            {
+              "a": "have",
+              "b": "had"
+            },
+            {
+              "a": "find",
+              "b": "found"
+            },
+            {
+              "a": "write",
+              "b": "wrote"
+            },
+            {
+              "a": "build",
+              "b": "built"
+            },
+            {
+              "a": "become",
+              "b": "became"
+            }
+          ],
+          "explicacion": "Son irregulares: el pasado no termina en -ed y hay que aprenderlo de memoria.",
+          "pista": "Si dudás, buscá el verbo en el recuadro de los irregulares."
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená las palabras para armar una pregunta en pasado simple.",
+          "items": [
+            "Did",
+            "they",
+            "build",
+            "a new school",
+            "last year?"
+          ],
+          "explicacion": "Did + persona + verbo base + el resto: Did they build a new school last year?",
+          "pista": "Las preguntas en pasado simple empiezan con did. Después va quién hace la acción."
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "🔍 Encontrá el error",
+          "pregunta": "Una de estas oraciones tiene un error. ¿Cuál es?",
+          "opciones": [
+            "She didn't won the prize.",
+            "He went to school by bus.",
+            "They were famous inventors.",
+            "Did you find the old key?"
+          ],
+          "explicacion": "Después de didn't, el verbo va en forma base: She didn't win the prize.",
+          "pista": "Mirá el paso 3 del paso a paso: ¿qué le pasa al verbo después de didn't?",
+          "correcta": 0
+        },
+        {
+          "t": "dictado",
+          "texto": "She didn't win the prize.",
+          "traduccion": "(No ganó el premio.)",
+          "explicacion": "Después de didn't, el verbo va en forma base.",
+          "acepta": [
+            "She did not win the prize."
+          ]
+        },
+        {
+          "t": "vf",
+          "consigna": "Leé cada afirmación sobre estas oraciones y marcá si es verdadera o falsa.",
+          "afirmaciones": [
+            {
+              "texto": "En [[Did they build a house?]] el verbo build está en forma base.",
+              "v": true,
+              "explicacion": "Después de did, el verbo va en forma base."
+            },
+            {
+              "texto": "[[He were born in Scotland.]] está bien escrita.",
+              "v": false,
+              "explicacion": "Con he se usa was: He was born in Scotland."
+            },
+            {
+              "texto": "[[wasn't]] es la forma negativa de was.",
+              "v": true,
+              "explicacion": "Wasn't = was not."
+            },
+            {
+              "texto": "Para negar con was se usa didn't.",
+              "v": false,
+              "explicacion": "Con be no se usa did: She wasn't Polish."
+            }
+          ]
+        },
+        {
+          "t": "pronunciar",
+          "modo": "decir",
+          "texto": "She didn't win the prize.",
+          "traduccion": "(No ganó el premio.)",
+          "explicacion": "Didn't se dice con fuerza y win, en forma base."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "En She didn't win, el verbo win no está en pasado, aunque la oración habla del pasado. ¿Por qué?",
+          "respuesta": "Porque el pasado ya lo marca did (didn't = did not). Si el verbo también fuera en pasado, la oración lo diría dos veces. Pasa lo mismo en las preguntas: [[Did she win?]]"
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá en castellano qué son los verbos irregulares, cómo funciona el verbo be en pasado (was y were) y cómo se forman las negaciones y las preguntas con did. Después escribí en inglés cuatro oraciones sobre {{nombre}}: dos afirmativas con verbos irregulares, una negativa y una pregunta.",
+        "guia": [
+          "¿Qué diferencia hay entre un verbo regular y uno irregular? Dá ejemplos.",
+          "¿Cuándo se usa was y cuándo were?",
+          "¿Cómo se forma la negación? ¿Qué le pasa al verbo después de didn't?",
+          "¿Cómo se arma una pregunta con did y cómo se responde?",
+          "¿Por qué con was y were no hace falta did?"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El pasado de go es went.",
+          "respuesta": true,
+          "explicacion": "Es un verbo irregular."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El pasado de write es writed.",
+          "respuesta": false,
+          "explicacion": "Es irregular: wrote."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con she se usa were.",
+          "respuesta": false,
+          "explicacion": "Con I, he, she e it se usa was."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Después de didn't, el verbo va en forma base.",
+          "respuesta": true,
+          "explicacion": "She didn't win (no didn't won)."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Did he invent the telephone?\" es una pregunta bien formada.",
+          "respuesta": true,
+          "explicacion": "Did + persona + verbo base."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"They was inventors\" está bien escrita.",
+          "respuesta": false,
+          "explicacion": "Con they se usa were."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el pasado de make?",
+          "opciones": [
+            "made",
+            "maked",
+            "maded",
+            "makes"
+          ],
+          "correcta": 0,
+          "explicacion": "Es irregular."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el pasado de win?",
+          "opciones": [
+            "won",
+            "winned",
+            "wan",
+            "wined"
+          ],
+          "correcta": 0,
+          "explicacion": "Ganar → ganó: won."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se responde \"Did she win the prize?\" si es verdad?",
+          "opciones": [
+            "Yes, she did.",
+            "Yes, she won.",
+            "Yes, she was.",
+            "Yes, she do."
+          ],
+          "correcta": 0,
+          "explicacion": "La respuesta corta repite did."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir became?",
+          "opciones": [
+            "Se convirtió",
+            "Ganó",
+            "Encontró",
+            "Se construyó"
+          ],
+          "correcta": 0,
+          "explicacion": "Es el pasado de become."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la pregunta bien formada?",
+          "opciones": [
+            "Did they find the answer?",
+            "Did they found the answer?",
+            "Do they found the answer?",
+            "They did found the answer?"
+          ],
+          "correcta": 0,
+          "explicacion": "Did + persona + verbo base."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es el negativo de \"She was Polish\"?",
+          "opciones": [
+            "She wasn't Polish.",
+            "She didn't Polish.",
+            "She weren't Polish.",
+            "She didn't was Polish."
+          ],
+          "correcta": 0,
+          "explicacion": "Con be no se usa did: wasn't."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "WENT",
+          "pista": "Pasado de go (ir)."
+        },
+        {
+          "palabra": "BECAME",
+          "pista": "Pasado de become (llegar a ser)."
+        },
+        {
+          "palabra": "WROTE",
+          "pista": "Pasado de write (escribir)."
+        },
+        {
+          "palabra": "FOUND",
+          "pista": "Pasado de find (encontrar)."
+        },
+        {
+          "palabra": "BUILT",
+          "pista": "Pasado de build (construir)."
+        },
+        {
+          "palabra": "WERE",
+          "pista": "Pasado de be con you, we y they."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "He didn't find the key.",
+            "He didn't found the key.",
+            "He not found the key.",
+            "He didn't finds the key."
+          ],
+          "correcta": 0,
+          "explicacion": "Didn't + verbo base."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"They ___ in Rosario in 2010\"?",
+          "opciones": [
+            "were",
+            "was",
+            "did",
+            "went"
+          ],
+          "correcta": 0,
+          "explicacion": "Con they, el pasado de be es were."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los verbos irregulares también son iguales para todas las personas en pasado simple.",
+          "respuesta": true,
+          "explicacion": "I went, she went, they went. La única excepción es be: was y were."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Biografías: inventores, inventoras y lo que me pasó",
+      "tiempo": "35 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Cómo se cuenta una vida en inglés",
+          "texto": "Una **biografía** cuenta la vida de una persona en orden, desde que nació. Por eso usa el **pasado simple**. Estas frases aparecen en casi todas:\n• Nacimiento: [[He was born in Scotland in 1847.]] (Nació en Escocia en 1847.)\n• Estudios y trabajo: [[She studied physics.]] / [[He worked as a journalist.]]\n• Mudanzas: [[He moved to Argentina.]] (Se mudó a la Argentina.)\n• Logros: [[He invented…]], [[She discovered…]], [[He patented…]] (patentó), [[She won…]]\n\nOjo: \"nació\" se dice [[was born]], con el verbo be."
+        },
+        {
+          "t": "linea",
+          "titulo": "Inventores e inventoras en una línea de tiempo (tocá 🔊 para escuchar)",
+          "eventos": [
+            {
+              "anio": "1876",
+              "titulo": "Alexander Graham Bell",
+              "texto": "[[He was born in Scotland in 1847.]] [[He patented the telephone in 1876.]]"
+            },
+            {
+              "anio": "1889",
+              "titulo": "Cecilia Grierson",
+              "texto": "[[She was born in Buenos Aires in 1859.]] [[In 1889 she became the first woman doctor in Argentina.]]"
+            },
+            {
+              "anio": "1903",
+              "titulo": "Marie Curie",
+              "texto": "[[She was born in Poland in 1867.]] [[She won two Nobel Prizes, in 1903 and in 1911.]]"
+            },
+            {
+              "anio": "1943",
+              "titulo": "Ladislao Biro",
+              "texto": "[[He was born in Hungary in 1899.]] [[He moved to Argentina and patented the ballpoint pen in 1943.]]"
+            },
+            {
+              "anio": "1989",
+              "titulo": "Tim Berners-Lee",
+              "texto": "[[He was born in London in 1955.]] [[He invented the World Wide Web in 1989.]]"
+            }
+          ]
+        },
+        {
+          "t": "dato",
+          "titulo": "¿Por qué le decimos birome?",
+          "texto": "La lapicera de Ladislao Biro se fabricó en la Argentina con su socio **Juan Jorge Meyne**. El nombre **birome** une el comienzo de los dos apellidos: **Bir**o + **Me**yne. En inglés se dice [[ballpoint pen]]."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar: palabras para ordenar una biografía",
+          "texto": "[[First]] (primero), [[then]] (luego), [[later]] (más tarde), [[after that]] (después de eso), [[in 1943]] (en 1943), [[when he was 20]] (cuando tenía 20 años), [[finally]] (finalmente)."
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá la biografía de Ladislao Biro con los verbos que faltan.",
+          "texto": "Ladislao Biro [[was]] born in Hungary in 1899. First, he [[worked]] as a journalist. Later, he [[moved]] to Argentina. In 1943 he [[patented]] the ballpoint pen.",
+          "distractores": [
+            "were",
+            "work",
+            "patent"
+          ],
+          "explicacion": "Nació = was born (Biro es he: was). Los demás son regulares en pasado: worked, moved, patented.",
+          "pista": "Toda la biografía va en pasado simple. Para el nacimiento, releé cómo se dice \"nació\"."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Qué cuenta cada oración de una biografía?",
+          "categorias": [
+            "Nacimiento",
+            "Estudios o trabajo",
+            "Logro"
+          ],
+          "items": [
+            {
+              "texto": "She was born in Poland.",
+              "cat": "Nacimiento"
+            },
+            {
+              "texto": "He was born in London.",
+              "cat": "Nacimiento"
+            },
+            {
+              "texto": "He worked as a journalist.",
+              "cat": "Estudios o trabajo"
+            },
+            {
+              "texto": "She studied physics.",
+              "cat": "Estudios o trabajo"
+            },
+            {
+              "texto": "He invented the World Wide Web.",
+              "cat": "Logro"
+            },
+            {
+              "texto": "She became the first woman doctor in Argentina.",
+              "cat": "Logro"
+            }
+          ],
+          "explicacion": "Was born cuenta el nacimiento; studied y worked, la formación y el trabajo; invented, patented, won y became, los logros."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Lo que me pasó",
+          "texto": "Te lo cuento como en una biografía, en pasado simple. Tocá 🔊 para escucharlo.",
+          "habla": true,
+          "porPersonaje": {
+            "lucy": {
+              "texto": "Te lo cuento como en una biografía, en pasado simple. Tocá 🔊 para escucharlo.\n\n[[~Last December, I acted in the school play for the first time.]] [[~I was very nervous.]] [[~In the second scene, I forgot one line!]] [[~My friend Emma helped me, and I didn't stop.]] [[~At the end, everybody clapped.]] [[~I loved it!]]"
+            },
+            "ben": {
+              "texto": "Te lo cuento como en una biografía, en pasado simple. Tocá 🔊 para escucharlo.\n\n[[~Last March, my team played in the city final.]] [[~The gym was full of people.]] [[~We played very well, but we lost by two points.]] [[~I felt sad, but my coach talked to us after the game.]] [[~I learned a lot that day.]]"
+            },
+            "mia": {
+              "texto": "Te lo cuento como en una biografía, en pasado simple. Tocá 🔊 para escucharlo.\n\n[[~Two years ago, my family moved from a small town to Sydney.]] [[~I changed schools and I didn't know anybody.]] [[~On my first day, a girl called Zoe sat next to me.]] [[~We talked all lunch break.]] [[~Now she is my best friend!]]"
+            },
+            "liam": {
+              "texto": "Te lo cuento como en una biografía, en pasado simple. Tocá 🔊 para escucharlo.\n\n[[~Last spring, my band played at the school festival for the first time.]] [[~We practised every day for a month.]] [[~I wrote one of the songs.]] [[~When we played it, everybody danced.]] [[~It was a great day!]]"
+            }
+          }
+        },
+        {
+          "t": "unir",
+          "etiqueta": "Uní",
+          "consigna": "Uní cada oración de lo que te conté con su traducción.",
+          "habla": true,
+          "pista": "Buscá los verbos en pasado (played, lost, forgot, moved…) y fijate qué traducción tiene ese verbo.",
+          "porPersonaje": {
+            "lucy": {
+              "pares": [
+                {
+                  "a": "I acted in the school play.",
+                  "b": "Actué en la obra de la escuela."
+                },
+                {
+                  "a": "I was very nervous.",
+                  "b": "Estaba muy nerviosa."
+                },
+                {
+                  "a": "I forgot one line!",
+                  "b": "¡Me olvidé una línea!"
+                },
+                {
+                  "a": "I didn't stop.",
+                  "b": "No me detuve."
+                },
+                {
+                  "a": "Everybody clapped.",
+                  "b": "Todos aplaudieron."
+                }
+              ],
+              "explicacion": "Así queda en castellano: En diciembre pasado actué por primera vez en la obra de la escuela. Estaba muy nerviosa. En la segunda escena, ¡me olvidé una línea! Mi amiga Emma me ayudó y no me detuve. Al final, todos aplaudieron. ¡Me encantó!"
+            },
+            "ben": {
+              "pares": [
+                {
+                  "a": "My team played in the city final.",
+                  "b": "Mi equipo jugó la final de la ciudad."
+                },
+                {
+                  "a": "The gym was full of people.",
+                  "b": "El gimnasio estaba lleno de gente."
+                },
+                {
+                  "a": "We lost by two points.",
+                  "b": "Perdimos por dos puntos."
+                },
+                {
+                  "a": "I felt sad.",
+                  "b": "Me puse triste."
+                },
+                {
+                  "a": "I learned a lot that day.",
+                  "b": "Ese día aprendí mucho."
+                }
+              ],
+              "explicacion": "Así queda en castellano: En marzo del año pasado, mi equipo jugó la final de la ciudad. El gimnasio estaba lleno de gente. Jugamos muy bien, pero perdimos por dos puntos. Me puse triste, pero mi entrenador nos habló después del partido. Ese día aprendí mucho."
+            },
+            "mia": {
+              "pares": [
+                {
+                  "a": "My family moved to Sydney.",
+                  "b": "Mi familia se mudó a Sídney."
+                },
+                {
+                  "a": "I changed schools.",
+                  "b": "Cambié de escuela."
+                },
+                {
+                  "a": "I didn't know anybody.",
+                  "b": "No conocía a nadie."
+                },
+                {
+                  "a": "A girl sat next to me.",
+                  "b": "Una chica se sentó al lado mío."
+                },
+                {
+                  "a": "We talked all lunch break.",
+                  "b": "Hablamos todo el recreo del almuerzo."
+                }
+              ],
+              "explicacion": "Así queda en castellano: Hace dos años, mi familia se mudó de un pueblo chico a Sídney. Cambié de escuela y no conocía a nadie. El primer día, una chica que se llama Zoe se sentó al lado mío. Hablamos todo el recreo del almuerzo. ¡Ahora es mi mejor amiga!"
+            },
+            "liam": {
+              "pares": [
+                {
+                  "a": "My band played at the school festival.",
+                  "b": "Mi banda tocó en el festival de la escuela."
+                },
+                {
+                  "a": "We practised every day.",
+                  "b": "Ensayamos todos los días."
+                },
+                {
+                  "a": "I wrote one of the songs.",
+                  "b": "Yo escribí una de las canciones."
+                },
+                {
+                  "a": "Everybody danced.",
+                  "b": "Todos bailaron."
+                },
+                {
+                  "a": "It was a great day!",
+                  "b": "¡Fue un gran día!"
+                }
+              ],
+              "explicacion": "Así queda en castellano: La primavera pasada, mi banda tocó por primera vez en el festival de la escuela. Ensayamos todos los días durante un mes. Yo escribí una de las canciones. Cuando la tocamos, todos bailaron. ¡Fue un gran día!"
+            }
+          }
+        },
+        {
+          "t": "dictado",
+          "voz": "personaje",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "I forgot one line!",
+              "traduccion": "(¡Me olvidé una línea!)",
+              "explicacion": "Forgot es el pasado irregular de forget (olvidar)."
+            },
+            "ben": {
+              "texto": "We lost by two points.",
+              "traduccion": "(Perdimos por dos puntos.)",
+              "explicacion": "Lost es el pasado irregular de lose (perder)."
+            },
+            "mia": {
+              "texto": "I didn't know anybody.",
+              "traduccion": "(No conocía a nadie.)",
+              "explicacion": "En negativo va didn't y el verbo en su forma base: know, no knew."
+            },
+            "liam": {
+              "texto": "I wrote one of the songs.",
+              "traduccion": "(Yo escribí una de las canciones.)",
+              "explicacion": "Wrote es el pasado irregular de write (escribir)."
+            }
+          }
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ayudame a ordenar lo que me pasó, del principio al final.",
+          "habla": true,
+          "explicacion": "Así fue, en orden. Las biografías se cuentan siempre en el orden en que pasaron las cosas.",
+          "pista": "Releé lo que te conté arriba: las oraciones están en el mismo orden en que pasaron.",
+          "porPersonaje": {
+            "lucy": {
+              "items": [
+                "I acted in the school play.",
+                "I forgot one line.",
+                "Emma helped me.",
+                "Everybody clapped."
+              ]
+            },
+            "ben": {
+              "items": [
+                "My team played in the city final.",
+                "We lost by two points.",
+                "My coach talked to us.",
+                "I learned a lot."
+              ]
+            },
+            "mia": {
+              "items": [
+                "My family moved to Sydney.",
+                "I started a new school.",
+                "Zoe sat next to me.",
+                "We became friends."
+              ]
+            },
+            "liam": {
+              "items": [
+                "We practised every day for a month.",
+                "I wrote one of the songs.",
+                "We played at the festival.",
+                "Everybody danced."
+              ]
+            }
+          }
+        },
+        {
+          "t": "pronunciar",
+          "modo": "escuchar",
+          "voz": "personaje",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "Everybody clapped.",
+              "traduccion": "(Todos aplaudieron.)",
+              "explicacion": "En clapped, la -ed suena como una t: \"clapt\"."
+            },
+            "ben": {
+              "texto": "I learned a lot that day.",
+              "traduccion": "(Ese día aprendí mucho.)",
+              "explicacion": "En learned, la -ed suena como una d suave: \"lernd\"."
+            },
+            "mia": {
+              "texto": "My family moved to Sydney.",
+              "traduccion": "(Mi familia se mudó a Sídney.)",
+              "explicacion": "En moved, la -ed suena como una d: \"muvd\"."
+            },
+            "liam": {
+              "texto": "We practised every day.",
+              "traduccion": "(Ensayamos todos los días.)",
+              "explicacion": "En practised, la -ed suena como una t: \"práctist\"."
+            }
+          }
+        },
+        {
+          "t": "revelar",
+          "habla": true,
+          "pregunta": "Si tuvieras que contar lo que me pasó como en una biografía, ¿qué tres oraciones no podrían faltar? Pensalas antes de mirar.",
+          "porPersonaje": {
+            "lucy": {
+              "respuesta": "Por ejemplo: cuándo pasó ([[Last December, Lucy acted in the school play.]]), qué pasó ([[She forgot one line.]]) y cómo terminó ([[Everybody clapped.]]). Fijate que con Lucy el verbo en pasado no cambia: acted, forgot."
+            },
+            "ben": {
+              "respuesta": "Por ejemplo: cuándo pasó ([[Last March, Ben's team played in the city final.]]), qué pasó ([[They lost by two points.]]) y cómo terminó ([[He learned a lot.]]). En pasado, el verbo es igual para todas las personas."
+            },
+            "mia": {
+              "respuesta": "Por ejemplo: cuándo pasó ([[Two years ago, Mia's family moved to Sydney.]]), qué pasó ([[She didn't know anybody at her new school.]]) y cómo terminó ([[Zoe became her best friend.]]). En pasado, el verbo es igual para todas las personas."
+            },
+            "liam": {
+              "respuesta": "Por ejemplo: cuándo pasó ([[Last spring, Liam's band played at the school festival.]]), qué pasó ([[He wrote one of the songs.]]) y cómo terminó ([[Everybody danced.]]). En pasado, el verbo es igual para todas las personas."
+            }
+          }
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Ahora contá en tu carpeta lo que me pasó, como en una biografía corta. Escribí en inglés un párrafo de cinco a siete oraciones, en pasado simple: cuándo pasó, qué pasó y cómo terminó. Usá palabras para ordenar (first, then, later, finally) y agregá un detalle que inventes vos. Este párrafo es una parte más de mi historia para tu trabajo práctico.",
+        "habla": true,
+        "porPersonaje": {
+          "lucy": {
+            "guia": [
+              "Empezá así: [[Last December, Lucy acted in the school play for the first time.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[First, she…]] [[Then, she…]] [[Later,…]] [[Finally,…]]",
+              "¿Todos los verbos están en pasado (regulares con -ed e irregulares)?",
+              "¿En las negativas usaste didn't y el verbo en su forma base?",
+              "¿Usaste palabras para ordenar, como first, then o finally?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "ben": {
+            "guia": [
+              "Empezá así: [[Last March, Ben's team played in the city final.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[First, he…]] [[Then, he…]] [[Later,…]] [[Finally,…]]",
+              "¿Todos los verbos están en pasado (regulares con -ed e irregulares)?",
+              "¿En las negativas usaste didn't y el verbo en su forma base?",
+              "¿Usaste palabras para ordenar, como first, then o finally?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "mia": {
+            "guia": [
+              "Empezá así: [[Two years ago, Mia's family moved from a small town to Sydney.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[First, she…]] [[Then, she…]] [[Later,…]] [[Finally,…]]",
+              "¿Todos los verbos están en pasado (regulares con -ed e irregulares)?",
+              "¿En las negativas usaste didn't y el verbo en su forma base?",
+              "¿Usaste palabras para ordenar, como first, then o finally?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "liam": {
+            "guia": [
+              "Empezá así: [[Last spring, Liam's band played at the school festival for the first time.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[First, he…]] [[Then, he…]] [[Later,…]] [[Finally,…]]",
+              "¿Todos los verbos están en pasado (regulares con -ed e irregulares)?",
+              "¿En las negativas usaste didn't y el verbo en su forma base?",
+              "¿Usaste palabras para ordenar, como first, then o finally?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          }
+        }
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "\"Nació\" se dice was born en inglés.",
+          "respuesta": true,
+          "explicacion": "Se usa el verbo be: He was born in 1847."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Bell patentó el teléfono en 1876.",
+          "respuesta": true,
+          "explicacion": "He patented the telephone in 1876."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Marie Curie nació en Francia.",
+          "respuesta": false,
+          "explicacion": "Nació en Polonia: She was born in Poland."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Ladislao Biro patentó la birome en la Argentina.",
+          "respuesta": true,
+          "explicacion": "Fue en 1943."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Tim Berners-Lee inventó el teléfono.",
+          "respuesta": false,
+          "explicacion": "Inventó la World Wide Web, en 1989."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Moved quiere decir \"se mudó\".",
+          "respuesta": true,
+          "explicacion": "Es el pasado de move."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuántos premios Nobel ganó Marie Curie?",
+          "opciones": [
+            "Dos",
+            "Uno",
+            "Tres",
+            "Cuatro"
+          ],
+          "correcta": 0,
+          "explicacion": "Uno en 1903 y otro en 1911."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir patented?",
+          "opciones": [
+            "Patentó",
+            "Presentó",
+            "Pagó",
+            "Perdió"
+          ],
+          "correcta": 0,
+          "explicacion": "Registró su invento a su nombre."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿De qué apellidos viene la palabra birome?",
+          "opciones": [
+            "Biro y Meyne",
+            "Bell y Morse",
+            "Biro y Rossi",
+            "Berners y Lee"
+          ],
+          "correcta": 0,
+          "explicacion": "Bir(o) + Me(yne)."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra sirve para cerrar una biografía?",
+          "opciones": [
+            "Finally",
+            "First",
+            "Yesterday",
+            "Born"
+          ],
+          "correcta": 0,
+          "explicacion": "Finally = finalmente."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se dice birome en inglés?",
+          "opciones": [
+            "Ballpoint pen",
+            "Telephone",
+            "World Wide Web",
+            "Prize"
+          ],
+          "correcta": 0,
+          "explicacion": "Ballpoint pen."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué año Cecilia Grierson se convirtió en la primera médica de la Argentina?",
+          "opciones": [
+            "1889",
+            "1876",
+            "1903",
+            "1943"
+          ],
+          "correcta": 0,
+          "explicacion": "In 1889 she became the first woman doctor in Argentina."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "BORN",
+          "pista": "Was ___: así se dice \"nació\"."
+        },
+        {
+          "palabra": "PATENTED",
+          "pista": "Pasado de patent (patentar)."
+        },
+        {
+          "palabra": "FINALLY",
+          "pista": "Palabra para cerrar una biografía."
+        },
+        {
+          "palabra": "LATER",
+          "pista": "Más tarde, en inglés."
+        },
+        {
+          "palabra": "MOVED",
+          "pista": "Pasado de move (mudarse)."
+        },
+        {
+          "palabra": "BIOGRAPHY",
+          "pista": "Texto que cuenta la vida de una persona."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración de una biografía está bien escrita?",
+          "opciones": [
+            "She was born in Poland in 1867.",
+            "She born in Poland in 1867.",
+            "She is born in Poland in 1867.",
+            "She did born in Poland in 1867."
+          ],
+          "correcta": 0,
+          "explicacion": "Nació = was born."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué orden se cuenta una biografía?",
+          "opciones": [
+            "Nacimiento, trabajo, logros",
+            "Logros, nacimiento, trabajo",
+            "Trabajo, logros, nacimiento",
+            "Logros, trabajo, nacimiento"
+          ],
+          "correcta": 0,
+          "explicacion": "Se cuenta la vida en orden, desde el nacimiento."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En \"In 1889 she became the first woman doctor in Argentina\", became es el pasado irregular de become.",
+          "respuesta": true,
+          "explicacion": "Become → became: se convirtió."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "[[Past simple]]",
+      "definicion": "Pasado simple: el tiempo que cuenta acciones terminadas."
+    },
+    {
+      "palabra": "[[yesterday]]",
+      "definicion": "Ayer."
+    },
+    {
+      "palabra": "[[ago]]",
+      "definicion": "Hace (tiempo): two years ago, hace dos años."
+    },
+    {
+      "palabra": "[[didn't]]",
+      "definicion": "Auxiliar para negar en pasado (did not). Después va el verbo base."
+    },
+    {
+      "palabra": "[[was born]]",
+      "definicion": "Nació."
+    },
+    {
+      "palabra": "[[became]]",
+      "definicion": "Se convirtió, llegó a ser (pasado de become)."
+    },
+    {
+      "palabra": "[[patented]]",
+      "definicion": "Patentó (pasado de patent)."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "She didn't won the prize.",
+      "aclaracion": "Después de didn't, el verbo va en forma base: She didn't win the prize."
+    },
+    {
+      "error": "He born in 1847.",
+      "aclaracion": "\"Nació\" lleva el verbo be: He was born in 1847."
+    },
+    {
+      "error": "Pronunciar worked con dos sílabas (work-ed).",
+      "aclaracion": "Después de k, -ed suena /t/: worked tiene una sola sílaba. Tocá 🔊 en la tabla de pronunciación para escucharlo."
+    }
+  ],
+  "personaje_intro": {
+    "porPersonaje": {
+      "lucy": {
+        "texto": "¡Hola! Hoy te cuento algo que me pasó y que no me voy a olvidar."
+      },
+      "ben": {
+        "texto": "¡Hola! Hoy te cuento algo que me pasó y que no me voy a olvidar."
+      },
+      "mia": {
+        "texto": "¡Hola! Hoy te cuento algo que me pasó y que no me voy a olvidar."
+      },
+      "liam": {
+        "texto": "¡Hola! Hoy te cuento algo que me pasó y que no me voy a olvidar."
+      }
+    }
+  }
+}

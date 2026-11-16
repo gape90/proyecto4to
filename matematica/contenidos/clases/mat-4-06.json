@@ -1,0 +1,965 @@
+{
+ "id": "mat-4-06",
+ "espacio": "matematica",
+ "eje": "Álgebra y funciones",
+ "titulo": "Funciones polinómicas, racionales, exponenciales y logarítmicas",
+ "intro": "Una función se puede describir con palabras, con una tabla, con un gráfico o con una fórmula. Vas a reconocer cuatro familias de funciones por la forma de su gráfico y a leer en cada una su dominio, sus cortes con los ejes, sus máximos o mínimos y sus asíntotas.",
+ "objetivos": [
+  "Graficar funciones polinómicas incompletas y leer sus cortes con los ejes y su máximo o mínimo.",
+  "Reconocer el dominio y las asíntotas de funciones racionales de la forma y = k / (x − h).",
+  "Distinguir funciones exponenciales y logarítmicas y usarlas para modelizar situaciones."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: las cuatro formas de representar una función, cómo son los gráficos de las polinómicas, qué son el dominio y las asíntotas en las racionales, y cómo se relacionan la exponencial y el logaritmo.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Funciones polinómicas",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Cuatro maneras de mostrar una función",
+     "texto": "Una **función** asigna a cada valor de x un único valor de y. Se puede mostrar con palabras (\"y es el cuadrado de x menos 4\"), con una **tabla**, con un **gráfico** o con una **fórmula** (y = x² − 4).\n\nLas **funciones polinómicas** que vas a ver tienen fórmulas como y = x², y = −2x³ o y = x⁴ − 1: una potencia de x multiplicada por un número, a veces con un número sumado. El **dominio**, que son los valores de x que se pueden usar, es el de todos los números reales."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Tabla de valores de y = x² − 4",
+     "columnas": [
+      "x",
+      "y = x² − 4"
+     ],
+     "filas": [
+      [
+       "−3",
+       "5"
+      ],
+      [
+       "−2",
+       "0"
+      ],
+      [
+       "−1",
+       "−3"
+      ],
+      [
+       "0",
+       "−4"
+      ],
+      [
+       "1",
+       "−3"
+      ],
+      [
+       "2",
+       "0"
+      ],
+      [
+       "3",
+       "5"
+      ]
+     ]
+    },
+    {
+     "t": "destacado",
+     "texto": "En la tabla se ven tres cosas del gráfico. **Cortes con el eje x:** donde y = 0, en x = −2 y x = 2. **Corte con el eje y:** donde x = 0, en y = −4. **Mínimo:** el valor más bajo, −4. Con potencia **par** (x², x⁴) el gráfico tiene forma de U y es simétrico; si el número que multiplica es negativo, la U se da vuelta y tiene un **máximo**. Con potencia **impar** (x³) sube de un lado y baja del otro."
+    },
+    {
+     "t": "sim",
+     "sim": "graficador",
+     "familias": [
+      "potencia"
+     ],
+     "titulo": "Graficador: y = a · xⁿ",
+     "inicial": {
+      "a": 1,
+      "n": 3
+     },
+     "consigna": "Mové los controles hasta que el gráfico tenga forma de U dada vuelta, es decir, que tenga un máximo.",
+     "objetivo": {
+      "cumple": {
+       "par": true,
+       "negativo": true
+      },
+      "cerca": {
+       "par": true
+      },
+      "mensaje_cerca": "Ya tiene forma de U. Ahora hacé que se dé vuelta y tenga un máximo."
+     },
+     "explicacion": "Hace falta una potencia par (2 o 4) y un número negativo adelante, como y = −x². Con a negativo, todos los valores de y quedan dados vuelta y el punto más alto es (0, 0)."
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿En qué valor positivo de x la función y = x² − 9 corta el eje x?",
+     "respuesta": "3",
+     "explicacion": "El corte con el eje x es donde y = 0: x² − 9 = 0, x² = 9, x = 3 o x = −3.",
+     "pista1": "En el corte con el eje x, y vale 0.",
+     "pista": "Resolvé x² − 9 = 0: ¿qué número al cuadrado da 9?"
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada fórmula con la descripción de su gráfico.",
+     "pares": [
+      {
+       "a": "y = x²",
+       "b": "Forma de U, mínimo en (0, 0)"
+      },
+      {
+       "a": "y = −x²",
+       "b": "U dada vuelta, máximo en (0, 0)"
+      },
+      {
+       "a": "y = x³",
+       "b": "Sube de izquierda a derecha y pasa por (0, 0)"
+      },
+      {
+       "a": "y = x² + 3",
+       "b": "Forma de U, mínimo en (0, 3)"
+      }
+     ],
+     "explicacion": "La potencia par da forma de U; el signo negativo la da vuelta; sumar 3 la sube 3 lugares. x³ es impar: sube de un lado y baja del otro.",
+     "pista": "Calculá y para x = 0 en cada fórmula y fijate si la potencia es par o impar."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "En y = 2x³, ¿cuánto vale y cuando x = −2?",
+     "opciones": [
+      "16",
+      "−16",
+      "−12",
+      "64"
+     ],
+     "correcta": 1,
+     "explicacion": "(−2)³ = −8, y 2 · (−8) = −16. Con potencia impar, un x negativo da un y negativo.",
+     "pista": "Primero calculá (−2)³ y después multiplicá por 2."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "¿Por qué y = x⁴ nunca da un número negativo?",
+     "respuesta": "Porque cualquier número elevado a una potencia par da positivo o cero: (−2)⁴ = 16, 0⁴ = 0, 2⁴ = 16. Por eso su gráfico nunca baja del eje x y su mínimo es (0, 0)."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Representá y = x² − 4 de las cuatro maneras: con palabras, con una tabla, con un gráfico y con la fórmula. Marcá en el gráfico los cortes con los ejes y el mínimo.",
+    "guia": [
+     "¿Cómo dirías la fórmula y = x² − 4 con palabras?",
+     "Armá una tabla de valores para x entre −3 y 3.",
+     "¿Dónde corta el gráfico los ejes y cuál es el mínimo?",
+     "¿Cómo cambiaría el gráfico si la fórmula fuera y = −x² + 4?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "En una función, a cada x le corresponde un único y.",
+     "respuesta": true,
+     "explicacion": "Esa es la definición."
+    },
+    {
+     "tipo": "vf",
+     "texto": "y = x² − 4 corta el eje x en x = 2 y x = −2.",
+     "respuesta": true,
+     "explicacion": "Ahí y = 0."
+    },
+    {
+     "tipo": "vf",
+     "texto": "y = −x² tiene un mínimo.",
+     "respuesta": false,
+     "explicacion": "Es una U dada vuelta: tiene un máximo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El dominio de una función polinómica son todos los números reales.",
+     "respuesta": true,
+     "explicacion": "Se puede calcular para cualquier x."
+    },
+    {
+     "tipo": "vf",
+     "texto": "y = x³ tiene forma de U.",
+     "respuesta": false,
+     "explicacion": "Es impar: sube de un lado y baja del otro."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El corte con el eje y se obtiene reemplazando x por 0.",
+     "respuesta": true,
+     "explicacion": "En y = x² − 4 da −4."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde corta y = x² + 3 al eje y?",
+     "opciones": [
+      "En 0",
+      "En −3",
+      "En 9",
+      "En 3"
+     ],
+     "correcta": 3,
+     "explicacion": "0² + 3 = 3."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál tiene forma de U?",
+     "opciones": [
+      "y = x³",
+      "y = x⁴",
+      "y = −2x³",
+      "y = x"
+     ],
+     "correcta": 1,
+     "explicacion": "x⁴ es potencia par."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En y = x² − 1, el mínimo es…",
+     "opciones": [
+      "−1",
+      "0",
+      "1",
+      "−2"
+     ],
+     "correcta": 0,
+     "explicacion": "El punto más bajo es (0, −1)."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuánto vale y = −x² cuando x = 3?",
+     "opciones": [
+      "9",
+      "−6",
+      "−9",
+      "6"
+     ],
+     "correcta": 2,
+     "explicacion": "−(3²) = −9."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál NO es una forma de representar una función?",
+     "opciones": [
+      "Una tabla",
+      "Un gráfico",
+      "Una fórmula",
+      "Una sola letra"
+     ],
+     "correcta": 3,
+     "explicacion": "Las formas son palabras, tabla, gráfico y fórmula."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Si en y = a · x² el número a es negativo, la U…",
+     "opciones": [
+      "se da vuelta",
+      "se corre a la derecha",
+      "se hace recta",
+      "desaparece"
+     ],
+     "correcta": 0,
+     "explicacion": "Pasa a tener un máximo."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "FUNCIÓN",
+     "pista": "Asigna a cada x un único y."
+    },
+    {
+     "palabra": "DOMINIO",
+     "pista": "Valores de x que se pueden usar."
+    },
+    {
+     "palabra": "MÍNIMO",
+     "pista": "El valor más bajo de una función con forma de U."
+    },
+    {
+     "palabra": "TABLA",
+     "pista": "Forma de representar con columnas de x y de y."
+    },
+    {
+     "palabra": "PAR",
+     "pista": "Potencia que da gráfico con forma de U."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde corta el eje x la función y = x² − 16?",
+     "opciones": [
+      "En 16 y −16",
+      "En 4 y −4",
+      "En 8 y −8",
+      "No lo corta"
+     ],
+     "correcta": 1,
+     "explicacion": "x² − 16 = 0 → x = 4 o x = −4."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué función tiene un máximo?",
+     "opciones": [
+      "y = x²",
+      "y = x² + 5",
+      "y = −3x²",
+      "y = x⁴"
+     ],
+     "correcta": 2,
+     "explicacion": "Potencia par con número negativo: U dada vuelta."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Una tabla de valores y un gráfico pueden mostrar la misma función.",
+     "respuesta": true,
+     "explicacion": "Son dos representaciones distintas de la misma relación."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Funciones racionales",
+   "tiempo": "35 a 45 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Dividir por x",
+     "texto": "Las **funciones racionales** que vas a ver tienen la forma **y = k / (x − h)**, con k distinto de 0. Como no se puede dividir por 0, x no puede valer h: el **dominio** son todos los reales **menos h**.\n\nCuando x se acerca a h, el denominador se hace muy chico y y se hace enorme: la curva se pega a la recta vertical x = h sin tocarla. Esa recta es una **asíntota vertical**. Y cuando x se hace muy grande, y se acerca a 0: la recta y = 0 es una **asíntota horizontal**."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Pensalo así",
+     "texto": "Se reparten $1200 en partes iguales entre x personas. A cada una le toca y = 1200 / x. Con 2 personas, $600; con 10, $120; con 100, $12. Cuantas más personas, menos le toca a cada una, pero nunca llega a $0. Y x = 0 no tiene sentido: no se puede repartir entre nadie."
+    },
+    {
+     "t": "destacado",
+     "texto": "En **y = k / (x − h)**: la **asíntota vertical** es x = h, la **asíntota horizontal** es y = 0 y el **dominio** son todos los reales salvo h. La curva nunca corta el eje x, porque una fracción con numerador k distinto de 0 nunca da 0."
+    },
+    {
+     "t": "sim",
+     "sim": "graficador",
+     "familias": [
+      "racional"
+     ],
+     "titulo": "Graficador: y = k / (x − h)",
+     "inicial": {
+      "k": 2,
+      "h": 0
+     },
+     "consigna": "Mové los controles hasta que la asíntota vertical quede en x = 2 y la curva pase por el punto (3, 4).",
+     "objetivo": {
+      "cumple": {
+       "h": 2,
+       "k": 4
+      },
+      "cerca": {
+       "h": 2
+      },
+      "mensaje_cerca": "La asíntota ya está en su lugar. Ahora ajustá k para que, con x = 3, y valga 4."
+     },
+     "explicacion": "Con h = 2, la asíntota es x = 2. Para que pase por (3, 4): k / (3 − 2) = 4, entonces k = 4. La función es y = 4 / (x − 2).",
+     "punto": [
+      3,
+      4
+     ]
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Qué valor de x no pertenece al dominio de y = 5 / (x + 3)?",
+     "respuesta": "-3",
+     "explicacion": "Si x = −3, el denominador es −3 + 3 = 0, y no se puede dividir por 0.",
+     "pista1": "Buscá el valor de x que hace 0 el denominador.",
+     "pista": "Resolvé x + 3 = 0."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada función con su asíntota vertical.",
+     "pares": [
+      {
+       "a": "y = 1 / (x − 1)",
+       "b": "x = 1"
+      },
+      {
+       "a": "y = 3 / (x + 2)",
+       "b": "x = −2"
+      },
+      {
+       "a": "y = −2 / x",
+       "b": "x = 0"
+      },
+      {
+       "a": "y = 4 / (x − 5)",
+       "b": "x = 5"
+      }
+     ],
+     "explicacion": "La asíntota vertical está en el valor de x que anula el denominador.",
+     "pista": "Para cada una, pensá qué valor de x hace 0 el denominador. Cuidado con x + 2."
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Desafío",
+     "consigna": "Se reparten $1200 en partes iguales y a cada persona le tocan $150. ¿Cuántas personas son?",
+     "respuesta": "8",
+     "explicacion": "1200 / x = 150, entonces x = 1200 / 150 = 8.",
+     "pista1": "Usá la función del ejemplo: y = 1200 / x, con y = 150.",
+     "pista": "Si 1200 / x = 150, entonces x = 1200 / 150."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "¿Puede y = 6 / x valer 0 para algún valor de x?",
+     "respuesta": "No. Para que una fracción valga 0, el numerador tiene que ser 0, y acá el numerador es 6. Por eso el gráfico se acerca al eje x pero nunca lo toca: y = 0 es una asíntota."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es una asíntota con el ejemplo y = 4 / (x − 2): escribí su dominio, sus asíntotas, una tabla con algunos valores y el gráfico.",
+    "guia": [
+     "¿Por qué x no puede valer 2 y cuál es el dominio de la función?",
+     "¿Qué pasa con y cuando x se acerca a 2?",
+     "Calculá y para x = 3, 10 y 100: ¿hacia qué valor se acerca?",
+     "¿Cuáles son las dos asíntotas?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "En y = 1 / x, x no puede valer 0.",
+     "respuesta": true,
+     "explicacion": "No se puede dividir por 0."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La asíntota vertical de y = 3 / (x − 4) es x = 4.",
+     "respuesta": true,
+     "explicacion": "Ahí el denominador vale 0."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El gráfico de y = 6 / x corta el eje x.",
+     "respuesta": false,
+     "explicacion": "Nunca vale 0: se acerca al eje sin tocarlo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La asíntota vertical de y = 2 / (x + 1) es x = 1.",
+     "respuesta": false,
+     "explicacion": "Es x = −1."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Una asíntota es una recta a la que la curva se acerca cada vez más.",
+     "respuesta": true,
+     "explicacion": "Sin llegar a tocarla."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el reparto de $1200, con más personas le toca más a cada una.",
+     "respuesta": false,
+     "explicacion": "Con más personas, le toca menos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es el dominio de y = 2 / (x − 3)?",
+     "opciones": [
+      "Todos los reales",
+      "Los reales menos 2",
+      "Los reales menos 3",
+      "Solo los positivos"
+     ],
+     "correcta": 2,
+     "explicacion": "x = 3 anula el denominador."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En y = 1200 / x, si x = 4, y vale…",
+     "opciones": [
+      "300",
+      "4800",
+      "1196",
+      "120"
+     ],
+     "correcta": 0,
+     "explicacion": "1200 / 4 = 300."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "La asíntota horizontal de y = k / (x − h) es…",
+     "opciones": [
+      "x = h",
+      "y = k",
+      "y = h",
+      "y = 0"
+     ],
+     "correcta": 3,
+     "explicacion": "Para x muy grande, y se acerca a 0."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuánto vale y = 4 / (x − 2) en x = 4?",
+     "opciones": [
+      "1",
+      "2",
+      "4",
+      "8"
+     ],
+     "correcta": 1,
+     "explicacion": "4 / 2 = 2."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "La asíntota vertical de y = 5 / (x + 3) es…",
+     "opciones": [
+      "x = −3",
+      "x = 3",
+      "x = 5",
+      "y = 0"
+     ],
+     "correcta": 0,
+     "explicacion": "x + 3 = 0 → x = −3."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué y = 6 / x nunca vale 0?",
+     "opciones": [
+      "Porque x es negativo",
+      "Porque el numerador no es 0",
+      "Porque 6 es par",
+      "Porque x es muy grande"
+     ],
+     "correcta": 1,
+     "explicacion": "Una fracción vale 0 solo si su numerador es 0."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "ASÍNTOTA",
+     "pista": "Recta a la que la curva se acerca sin tocarla."
+    },
+    {
+     "palabra": "RACIONAL",
+     "pista": "Función de la forma y = k / (x − h)."
+    },
+    {
+     "palabra": "DENOMINADOR",
+     "pista": "No puede valer 0."
+    },
+    {
+     "palabra": "VERTICAL",
+     "pista": "Asíntota en x = h."
+    },
+    {
+     "palabra": "REPARTO",
+     "pista": "Ejemplo: $1200 entre x personas."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuáles son las asíntotas de y = 3 / (x − 1)?",
+     "opciones": [
+      "x = 3 e y = 1",
+      "x = 1 e y = 0",
+      "x = 0 e y = 1",
+      "x = −1 e y = 0"
+     ],
+     "correcta": 1,
+     "explicacion": "Vertical en x = 1 y horizontal en y = 0."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué valor no está en el dominio de y = 7 / (x + 4)?",
+     "opciones": [
+      "4",
+      "7",
+      "0",
+      "−4"
+     ],
+     "correcta": 3,
+     "explicacion": "x + 4 = 0 → x = −4."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La función y = 1200 / x sirve para modelizar un reparto en partes iguales.",
+     "respuesta": true,
+     "explicacion": "Cuantas más personas, menos le toca a cada una."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Funciones exponenciales y logarítmicas",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "La exponencial: la x en el exponente",
+     "texto": "En una **función exponencial**, y = aˣ, la x está en el exponente. La base a es positiva y distinta de 1. Si a > 1, la función **crece** cada vez más rápido, como las sucesiones geométricas de la clase anterior; si 0 < a < 1, **decrece**. Siempre pasa por (0, 1), porque a⁰ = 1, y siempre da positivo: la recta y = 0 es su asíntota."
+    },
+    {
+     "t": "texto",
+     "titulo": "El logaritmo: la operación inversa",
+     "texto": "El **logaritmo** responde a la pregunta \"¿a qué exponente hay que elevar la base para obtener este número?\". Por ejemplo, **log₂ 8 = 3**, porque 2³ = 8. La **función logarítmica** y = logₐ x hace el camino inverso de la exponencial: solo acepta x positivos, pasa por (1, 0) y tiene como asíntota la recta x = 0."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Exponencial y logarítmica, comparadas",
+     "columnas": [
+      "",
+      "y = aˣ",
+      "y = logₐ x"
+     ],
+     "filas": [
+      [
+       "Dominio (valores de x)",
+       "Todos los reales",
+       "Solo x > 0"
+      ],
+      [
+       "Valores de y",
+       "Solo positivos",
+       "Todos los reales"
+      ],
+      [
+       "Punto fijo",
+       "(0, 1)",
+       "(1, 0)"
+      ],
+      [
+       "Asíntota",
+       "y = 0 (horizontal)",
+       "x = 0 (vertical)"
+      ],
+      [
+       "Con a = 2",
+       "2³ = 8",
+       "log₂ 8 = 3"
+      ]
+     ]
+    },
+    {
+     "t": "sim",
+     "sim": "graficador",
+     "familias": [
+      "exponencial",
+      "logaritmo"
+     ],
+     "titulo": "Graficador: exponencial y logarítmica",
+     "inicial": {
+      "a": 2
+     },
+     "consigna": "Con la familia exponencial elegida, buscá la base a para que la función decrezca y pase por el punto (−1, 2).",
+     "objetivo": {
+      "cumple": {
+       "familia": "exponencial",
+       "a": 0.5
+      },
+      "cerca": {
+       "familia": "exponencial",
+       "a": [
+        0.25,
+        0.75
+       ]
+      },
+      "mensaje_cerca": "Ya decrece. Ahora fijate cuánto vale y cuando x = −1 y ajustá la base."
+     },
+     "explicacion": "Con a = 0,5 la función decrece, y en x = −1 vale 0,5⁻¹ = 1 / 0,5 = 2. Probá también la familia logarítmica: con base 2 pasa por (1, 0) y por (2, 1).",
+     "punto": [
+      -1,
+      2
+     ]
+    },
+    {
+     "t": "verificar",
+     "consigna": "Calculá log₂ 32.",
+     "respuesta": "5",
+     "explicacion": "2⁵ = 32, entonces log₂ 32 = 5.",
+     "pista1": "Preguntate: ¿a qué exponente hay que elevar 2 para obtener 32?",
+     "pista": "Multiplicá 2 por sí mismo y contá: 2, 4, 8, 16, 32."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada logaritmo con su valor.",
+     "pares": [
+      {
+       "a": "log₃ 9",
+       "b": "2"
+      },
+      {
+       "a": "log₁₀ 1000",
+       "b": "3"
+      },
+      {
+       "a": "log₂ 1",
+       "b": "0"
+      },
+      {
+       "a": "log₅ 5",
+       "b": "1"
+      }
+     ],
+     "explicacion": "3² = 9; 10³ = 1000; 2⁰ = 1; 5¹ = 5.",
+     "pista": "Para cada uno, buscá el exponente que lleva la base al número."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "y = 3ˣ pasa por el punto (0, 1).",
+       "v": true,
+       "explicacion": "3⁰ = 1."
+      },
+      {
+       "texto": "y = 0,5ˣ crece.",
+       "v": false,
+       "explicacion": "Con base entre 0 y 1, decrece.",
+       "pista": "Calculá y para x = 1 y para x = 2."
+      },
+      {
+       "texto": "log₂ (−8) no existe.",
+       "v": true,
+       "explicacion": "Ninguna potencia de 2 da un número negativo."
+      },
+      {
+       "texto": "El gráfico de y = log₂ x pasa por (1, 0).",
+       "v": true,
+       "explicacion": "log₂ 1 = 0, porque 2⁰ = 1."
+      }
+     ]
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Desafío",
+     "consigna": "Una colonia de 100 bacterias se duplica cada hora. ¿Cuántas horas pasan hasta que hay 1600 bacterias?",
+     "respuesta": "4",
+     "explicacion": "La cantidad es 100 · 2ˣ, con x en horas. 100 · 2ˣ = 1600 → 2ˣ = 16 → x = log₂ 16 = 4.",
+     "pista1": "Escribí la fórmula: empieza en 100 y se multiplica por 2 cada hora.",
+     "pista": "Dividí 1600 por 100 y preguntate a qué exponente hay que elevar 2 para obtener ese número."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "¿Por qué no existe log₂ (−8)?",
+     "respuesta": "Porque log₂ (−8) sería el exponente al que hay que elevar 2 para obtener −8, y cualquier potencia de 2 da positivo: 2³ = 8, 2⁻¹ = 0,5. Por eso el dominio de la logarítmica son solo los x positivos."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es una función exponencial y qué es un logaritmo, y cómo se relacionan. Resolvé el problema de las bacterias usando las dos ideas.",
+    "guia": [
+     "¿Dónde está la x en una función exponencial y cuándo crece o decrece?",
+     "¿Qué pregunta responde un logaritmo?",
+     "Calculá log₂ 8, log₃ 81 y log₁₀ 1000.",
+     "Resolvé el problema de las bacterias usando el logaritmo."
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "y = 2ˣ crece cada vez más rápido.",
+     "respuesta": true,
+     "explicacion": "Base mayor que 1."
+    },
+    {
+     "tipo": "vf",
+     "texto": "log₂ 8 = 4.",
+     "respuesta": false,
+     "explicacion": "log₂ 8 = 3, porque 2³ = 8."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Toda exponencial y = aˣ pasa por (0, 1).",
+     "respuesta": true,
+     "explicacion": "a⁰ = 1."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El logaritmo acepta valores negativos de x.",
+     "respuesta": false,
+     "explicacion": "Su dominio son los x positivos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "log₁₀ 100 = 2.",
+     "respuesta": true,
+     "explicacion": "10² = 100."
+    },
+    {
+     "tipo": "vf",
+     "texto": "y = aˣ puede dar valores negativos.",
+     "respuesta": false,
+     "explicacion": "Con base positiva, siempre da positivo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "log₃ 27 vale…",
+     "opciones": [
+      "9",
+      "3",
+      "27",
+      "81"
+     ],
+     "correcta": 1,
+     "explicacion": "3³ = 27."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué función decrece?",
+     "opciones": [
+      "y = 2ˣ",
+      "y = 3ˣ",
+      "y = 10ˣ",
+      "y = 0,5ˣ"
+     ],
+     "correcta": 3,
+     "explicacion": "Base entre 0 y 1."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "El punto fijo de y = logₐ x es…",
+     "opciones": [
+      "(1, 0)",
+      "(0, 1)",
+      "(0, 0)",
+      "(1, 1)"
+     ],
+     "correcta": 0,
+     "explicacion": "logₐ 1 = 0."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "La asíntota de y = aˣ es…",
+     "opciones": [
+      "x = 0",
+      "y = 1",
+      "y = 0",
+      "x = 1"
+     ],
+     "correcta": 2,
+     "explicacion": "Se acerca a y = 0 sin tocarla."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "100 bacterias que se duplican cada hora, a las 3 horas son…",
+     "opciones": [
+      "600",
+      "300",
+      "900",
+      "800"
+     ],
+     "correcta": 3,
+     "explicacion": "100 · 2³ = 800."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "log₂ 1 vale…",
+     "opciones": [
+      "0",
+      "1",
+      "2",
+      "No existe"
+     ],
+     "correcta": 0,
+     "explicacion": "2⁰ = 1."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "EXPONENCIAL",
+     "pista": "Función con la x en el exponente."
+    },
+    {
+     "palabra": "LOGARITMO",
+     "pista": "Exponente al que hay que elevar la base."
+    },
+    {
+     "palabra": "BASE",
+     "pista": "En y = aˣ, es la a."
+    },
+    {
+     "palabra": "INVERSA",
+     "pista": "La logarítmica hace el camino ___ de la exponencial."
+    },
+    {
+     "palabra": "DUPLICA",
+     "pista": "Si la base es 2, cada paso se ___."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuánto vale log₂ 64?",
+     "opciones": [
+      "6",
+      "8",
+      "32",
+      "5"
+     ],
+     "correcta": 0,
+     "explicacion": "2⁶ = 64."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es el dominio de y = log₂ x?",
+     "opciones": [
+      "Todos los reales",
+      "Solo x > 0",
+      "Solo x < 0",
+      "Todos menos el 2"
+     ],
+     "correcta": 1,
+     "explicacion": "Ninguna potencia de 2 da 0 o negativo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Si 2³ = 8, entonces log₂ 8 = 3.",
+     "respuesta": true,
+     "explicacion": "Son dos maneras de decir lo mismo."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Función",
+   "definicion": "Relación que asigna a cada valor de x un único valor de y."
+  },
+  {
+   "palabra": "Dominio",
+   "definicion": "Conjunto de valores de x que se pueden usar en la función."
+  },
+  {
+   "palabra": "Máximo y mínimo",
+   "definicion": "Valor más alto o más bajo que toma la función."
+  },
+  {
+   "palabra": "Asíntota",
+   "definicion": "Recta a la que el gráfico se acerca cada vez más sin tocarla."
+  },
+  {
+   "palabra": "Función exponencial",
+   "definicion": "y = aˣ: la x está en el exponente. Crece si a > 1 y decrece si 0 < a < 1."
+  },
+  {
+   "palabra": "Logaritmo",
+   "definicion": "logₐ x es el exponente al que hay que elevar a para obtener x: log₂ 8 = 3."
+  },
+  {
+   "palabra": "Modelizar",
+   "definicion": "Describir una situación real con una función."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "y = −x² tiene un mínimo en (0, 0).",
+   "aclaracion": "El signo negativo da vuelta la U: (0, 0) es un máximo."
+  },
+  {
+   "error": "La asíntota vertical de y = 3 / (x + 2) es x = 2.",
+   "aclaracion": "Es x = −2: el valor que hace 0 el denominador."
+  },
+  {
+   "error": "log₂ 8 = 4, porque 8 / 2 = 4.",
+   "aclaracion": "El logaritmo es un exponente: log₂ 8 = 3, porque 2³ = 8."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Una noticia que se reenvía y llega cada día al triple de personas, ¿se modeliza mejor con una función polinómica, racional o exponencial?",
+  "conexion": "Esto se conecta con la clase \"Sucesiones aritméticas y geométricas\"."
+ }
+}

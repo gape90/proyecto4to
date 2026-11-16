@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" role="img" aria-label="Mapa conceptual: los rasgos de los nacionalismos autoritarios" font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect x="0" y="0" width="1000" height="560" rx="28" fill="#F7F4FD"/>
+<line x1="500" y1="290" x2="170" y2="120" stroke="#4B4FA3" stroke-width="4" stroke-dasharray="2 8" stroke-linecap="round"/>
+<line x1="500" y1="290" x2="830" y2="120" stroke="#B83A7A" stroke-width="4" stroke-dasharray="2 8" stroke-linecap="round"/>
+<line x1="500" y1="290" x2="170" y2="460" stroke="#5B2A86" stroke-width="4" stroke-dasharray="2 8" stroke-linecap="round"/>
+<line x1="500" y1="290" x2="830" y2="460" stroke="#E5194F" stroke-width="4" stroke-dasharray="2 8" stroke-linecap="round"/>
+<line x1="500" y1="290" x2="500" y2="490" stroke="#B26A00" stroke-width="4" stroke-dasharray="2 8" stroke-linecap="round"/>
+<ellipse cx="500" cy="290" rx="190" ry="70" fill="#5B2A86"/>
+<text x="500" y="284" font-size="28" font-weight="800" fill="#fff" text-anchor="middle">Nacionalismos</text>
+<text x="500" y="318" font-size="28" font-weight="800" fill="#fff" text-anchor="middle">autoritarios</text>
+<rect x="20.0" y="72.0" width="300" height="96" rx="20" fill="#fff" stroke="#4B4FA3" stroke-width="4"/>
+<text x="170" y="114.0" font-size="20" font-weight="700" fill="#4B4FA3" text-anchor="middle">Exaltan la nación</text>
+<text x="170" y="140.0" font-size="20" font-weight="700" fill="#4B4FA3" text-anchor="middle">y su supuesta grandeza</text>
+<rect x="680.0" y="72.0" width="300" height="96" rx="20" fill="#fff" stroke="#B83A7A" stroke-width="4"/>
+<text x="830" y="114.0" font-size="20" font-weight="700" fill="#B83A7A" text-anchor="middle">Un líder con mucho poder</text>
+<text x="830" y="140.0" font-size="20" font-weight="700" fill="#B83A7A" text-anchor="middle">y un partido único</text>
+<rect x="20.0" y="412.0" width="300" height="96" rx="20" fill="#fff" stroke="#5B2A86" stroke-width="4"/>
+<text x="170" y="454.0" font-size="20" font-weight="700" fill="#5B2A86" text-anchor="middle">Rechazan el liberalismo</text>
+<text x="170" y="480.0" font-size="20" font-weight="700" fill="#5B2A86" text-anchor="middle">y el comunismo</text>
+<rect x="680.0" y="412.0" width="300" height="96" rx="20" fill="#fff" stroke="#E5194F" stroke-width="4"/>
+<text x="830" y="454.0" font-size="20" font-weight="700" fill="#E5194F" text-anchor="middle">Exaltan lo militar</text>
+<text x="830" y="480.0" font-size="20" font-weight="700" fill="#E5194F" text-anchor="middle">y la violencia política</text>
+<rect x="350.0" y="442.0" width="300" height="96" rx="20" fill="#fff" stroke="#B26A00" stroke-width="4"/>
+<text x="500" y="484.0" font-size="20" font-weight="700" fill="#B26A00" text-anchor="middle">Desconfían de</text>
+<text x="500" y="510.0" font-size="20" font-weight="700" fill="#B26A00" text-anchor="middle">la democracia</text>
+<text x="500" y="50" font-size="26" font-weight="800" fill="#1B1A4A" text-anchor="middle">Sus rasgos</text>
+</svg>

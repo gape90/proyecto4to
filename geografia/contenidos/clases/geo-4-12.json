@@ -1,0 +1,994 @@
+{
+ "id": "geo-4-12",
+ "espacio": "geografia",
+ "eje": "Culturas que se territorializan",
+ "titulo": "Los movimientos sociales mundiales",
+ "intro": "A lo largo de la historia, muchas personas se organizaron para cambiar algo de la sociedad, y algunos de esos reclamos cruzaron las fronteras. Vas a ver qué es un movimiento social, cómo uno de ellos inspiró a otros en el mundo y cómo las redes cambiaron la forma de reclamar.",
+ "objetivos": [
+  "Explicar qué es un movimiento social y en qué se diferencia de un partido político.",
+  "Describir cómo el movimiento por los derechos civiles logró cambios e inspiró a otros.",
+  "Analizar cómo un reclamo local se vuelve mundial y cómo los movimientos ocupan el espacio."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: el concepto de movimiento social, sus formas de acción, el voto de las mujeres, el movimiento por los derechos civiles, Fridays for Future y el debate sobre el espacio público.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Qué es un movimiento social",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Una pregunta para arrancar",
+     "texto": "Si en tu escuela se rompe la calefacción y nadie la arregla, ¿qué podrían hacer los estudiantes? Podrían quejarse cada uno por su lado, o juntarse, ponerse de acuerdo en qué pedir y sostener el reclamo hasta que los escuchen. Esa segunda opción se parece mucho a un movimiento social."
+    },
+    {
+     "t": "texto",
+     "titulo": "Personas que se organizan para cambiar algo",
+     "texto": "Un **movimiento social** es un grupo amplio de personas que se organiza de forma **colectiva** y **sostenida en el tiempo** para reclamar o impulsar un **cambio en la sociedad**: más derechos, el cuidado del ambiente, mejores condiciones de trabajo, entre otros.\n\nUn movimiento social no es un partido político: no se presenta a elecciones ni busca gobernar. Busca que la sociedad y los gobiernos cambien algo. Para eso usa distintas **formas de acción**: marchas, reuniones, peticiones, boicots, campañas en los medios y en las redes sociales."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Movimiento social y partido político",
+     "columnas": [
+      "",
+      "Movimiento social",
+      "Partido político"
+     ],
+     "filas": [
+      [
+       "Qué busca",
+       "Un cambio en la sociedad sobre un tema",
+       "Gobernar"
+      ],
+      [
+       "Cómo actúa",
+       "Marchas, peticiones, campañas, boicots",
+       "Se presenta a elecciones"
+      ],
+      [
+       "Quiénes participan",
+       "Personas que comparten un reclamo",
+       "Afiliados y candidatos"
+      ]
+     ]
+    },
+    {
+     "t": "texto",
+     "titulo": "Un movimiento que cruzó fronteras",
+     "texto": "Algunos movimientos sociales se volvieron **mundiales**. Un ejemplo es el de las mujeres que reclamaban el **derecho al voto**, a fines del siglo XIX y comienzos del XX. El reclamo apareció en muchos países y se fue conquistando de a uno: el primer país en que las mujeres votaron en elecciones nacionales fue Nueva Zelanda, en 1893. En la Argentina, las mujeres votaron por primera vez en elecciones nacionales en 1951."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Un **movimiento social** es un grupo de personas que se organiza de forma **colectiva** y **sostenida** para impulsar un **cambio en la sociedad**. No busca gobernar, como un partido político. Actúa con marchas, peticiones, campañas y boicots. Algunos se volvieron **mundiales**, como el que reclamó el voto de las mujeres."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada forma de acción con su descripción.",
+     "pares": [
+      {
+       "a": "Marcha",
+       "b": "Muchas personas caminan juntas para hacer visible un reclamo"
+      },
+      {
+       "a": "Petición",
+       "b": "Pedido escrito, firmado por muchas personas"
+      },
+      {
+       "a": "Boicot",
+       "b": "Dejar de comprar o de usar algo como forma de reclamo"
+      },
+      {
+       "a": "Campaña en redes",
+       "b": "Difundir un reclamo por internet"
+      }
+     ],
+     "explicacion": "Un mismo movimiento puede usar varias formas de acción a la vez.",
+     "pista": "Pensá en qué hace la gente en cada forma de acción."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Es propio de un movimiento social o de un partido político? Si no te acordás, mirá la tabla.",
+     "categorias": [
+      "Movimiento social",
+      "Partido político"
+     ],
+     "items": [
+      {
+       "texto": "Presentar candidatos a elecciones",
+       "cat": "Partido político"
+      },
+      {
+       "texto": "Juntar firmas para pedir una ley",
+       "cat": "Movimiento social"
+      },
+      {
+       "texto": "Buscar gobernar",
+       "cat": "Partido político"
+      },
+      {
+       "texto": "Organizar una marcha por un reclamo",
+       "cat": "Movimiento social"
+      }
+     ],
+     "explicacion": "El movimiento social busca un cambio; el partido político busca gobernar.",
+     "pista": "Mirá la primera fila de la tabla: qué busca cada uno."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "Un movimiento social se organiza de forma [[colectiva]] y sostenida en el tiempo. No busca [[gobernar]]. El primer país en que las mujeres votaron en elecciones nacionales fue [[Nueva Zelanda]], en 1893. En la Argentina votaron por primera vez en [[1951]].",
+     "distractores": [
+      "individual",
+      "Inglaterra",
+      "1912"
+     ],
+     "explicacion": "Así se resume qué es un movimiento social y un ejemplo mundial.",
+     "pista": "Releé los textos de esta parte."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🔍 Encontrá el error",
+     "pregunta": "Cuatro frases sobre los movimientos sociales; una tiene un error. ¿Cuál es?",
+     "opciones": [
+      "Se organizan de forma colectiva.",
+      "Buscan un cambio en la sociedad.",
+      "Se presentan a elecciones para gobernar.",
+      "Pueden usar campañas en redes sociales."
+     ],
+     "correcta": 2,
+     "explicacion": "Presentarse a elecciones es propio de los partidos políticos.",
+     "pista": "Mirá la tabla de movimiento social y partido político."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué un reclamo tiene más fuerza cuando se sostiene en el tiempo y lo hacen muchas personas juntas?",
+     "respuesta": "Porque un reclamo aislado se puede ignorar fácilmente, pero cuando muchas personas lo sostienen durante meses o años, se vuelve visible, aparece en los medios y obliga a los gobiernos y a la sociedad a discutirlo. La organización y la constancia son lo que convierte una queja en un movimiento."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es un movimiento social, en qué se diferencia de un partido político y qué formas de acción usa. Contá el ejemplo del movimiento por el voto de las mujeres.",
+    "guia": [
+     "¿Qué es un movimiento social?",
+     "¿En qué se diferencia de un partido político?",
+     "¿Qué formas de acción usa?",
+     "¿Por qué el movimiento por el voto de las mujeres fue mundial?",
+     "¿Cuándo votaron por primera vez las mujeres en Nueva Zelanda y en la Argentina?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Un movimiento social busca un cambio en la sociedad.",
+     "respuesta": true,
+     "explicacion": "Sobre un tema: derechos, ambiente, trabajo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un movimiento social se presenta a elecciones.",
+     "respuesta": false,
+     "explicacion": "Eso lo hacen los partidos políticos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un boicot es dejar de comprar o usar algo como forma de reclamo.",
+     "respuesta": true,
+     "explicacion": "Es una forma de acción."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Nueva Zelanda fue el primer país en que las mujeres votaron en elecciones nacionales.",
+     "respuesta": true,
+     "explicacion": "En 1893."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la Argentina, las mujeres votaron por primera vez en elecciones nacionales en 1912.",
+     "respuesta": false,
+     "explicacion": "Fue en 1951."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un movimiento social se sostiene en el tiempo.",
+     "respuesta": true,
+     "explicacion": "No es una queja aislada."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué busca un partido político?",
+     "opciones": [
+      "Gobernar",
+      "Hacer un boicot",
+      "Juntar firmas",
+      "Nada"
+     ],
+     "correcta": 0,
+     "explicacion": "Se presenta a elecciones."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es una petición?",
+     "opciones": [
+      "Una marcha",
+      "Un pedido escrito firmado por muchas personas",
+      "Un partido",
+      "Una elección"
+     ],
+     "correcta": 1,
+     "explicacion": "Es una forma de acción."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué año votaron las mujeres en Nueva Zelanda?",
+     "opciones": [
+      "1793",
+      "1893",
+      "1951",
+      "2001"
+     ],
+     "correcta": 1,
+     "explicacion": "Fue el primer país."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas es una forma de acción de un movimiento social?",
+     "opciones": [
+      "Presentar candidatos",
+      "Una campaña en redes",
+      "Gobernar una provincia",
+      "Votar leyes en el Congreso"
+     ],
+     "correcta": 1,
+     "explicacion": "Difunde el reclamo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tienen en común los movimientos sociales?",
+     "opciones": [
+      "Se organizan de forma colectiva y sostenida para cambiar algo",
+      "Son todos partidos",
+      "Duran un solo día",
+      "No tienen reclamos"
+     ],
+     "correcta": 0,
+     "explicacion": "Así se definen."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuándo votaron por primera vez las mujeres en elecciones nacionales en la Argentina?",
+     "opciones": [
+      "1893",
+      "1916",
+      "1951",
+      "1983"
+     ],
+     "correcta": 2,
+     "explicacion": "En 1951."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "MOVIMIENTO",
+     "pista": "Grupo que se organiza para impulsar un cambio."
+    },
+    {
+     "palabra": "COLECTIVO",
+     "pista": "Hecho entre muchas personas."
+    },
+    {
+     "palabra": "MARCHA",
+     "pista": "Forma de acción en la calle."
+    },
+    {
+     "palabra": "PETICIÓN",
+     "pista": "Pedido escrito firmado por muchos."
+    },
+    {
+     "palabra": "BOICOT",
+     "pista": "Dejar de comprar o usar algo para reclamar."
+    },
+    {
+     "palabra": "SUFRAGIO",
+     "pista": "Voto; el de las mujeres fue un reclamo mundial."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia a un movimiento social de un partido político?",
+     "opciones": [
+      "El movimiento busca un cambio en la sociedad; el partido busca gobernar",
+      "No hay diferencias",
+      "El movimiento se presenta a elecciones",
+      "El partido hace boicots"
+     ],
+     "correcta": 0,
+     "explicacion": "Cada uno tiene objetivos distintos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué el reclamo por el voto de las mujeres fue un movimiento mundial?",
+     "opciones": [
+      "Porque apareció en muchos países y se conquistó de a uno",
+      "Porque se votó en un solo país",
+      "Porque lo decidió la ONU en 1893",
+      "Porque no tuvo apoyo"
+     ],
+     "correcta": 0,
+     "explicacion": "Cruzó fronteras."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hace fuerte a un movimiento social?",
+     "opciones": [
+      "Que lo sostengan muchas personas durante mucho tiempo",
+      "Que dure un día",
+      "Que lo haga una sola persona",
+      "Que no se difunda"
+     ],
+     "correcta": 0,
+     "explicacion": "Organización y constancia."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Un movimiento que inspiró a otros",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "El movimiento por los derechos civiles",
+     "texto": "A mediados del siglo XX, en el sur de Estados Unidos, había leyes que **separaban** a las personas negras y blancas en escuelas, transportes, baños y restaurantes. El **movimiento por los derechos civiles** reclamó la igualdad ante la ley. Usó la **acción no violenta**: boicots, marchas, sentadas y presentaciones ante la justicia."
+    },
+    {
+     "t": "pasos",
+     "titulo": "Un caso, paso a paso",
+     "pasos": [
+      {
+       "titulo": "Un hecho que desata el reclamo",
+       "texto": "En diciembre de 1955, en Montgomery (Alabama), Rosa Parks fue detenida por no ceder su asiento en un colectivo a un pasajero blanco."
+      },
+      {
+       "titulo": "Un boicot",
+       "texto": "La comunidad negra de la ciudad dejó de usar los colectivos durante más de un año. El reclamo se volvió visible en todo el país."
+      },
+      {
+       "titulo": "Una gran marcha",
+       "texto": "En agosto de 1963, una multitud marchó en Washington. Allí Martin Luther King pronunció su discurso \"Tengo un sueño\"."
+      },
+      {
+       "titulo": "Un cambio en la ley",
+       "texto": "En 1964 se aprobó la Ley de Derechos Civiles, que prohibió la discriminación en lugares públicos y en el trabajo."
+      }
+     ]
+    },
+    {
+     "t": "texto",
+     "titulo": "Un ejemplo que viajó",
+     "texto": "Las formas de acción no violenta del movimiento por los derechos civiles se difundieron por el mundo. Otros movimientos, en otros países y con otros reclamos, tomaron como ejemplo sus boicots, sus marchas y sus discursos. Así, un movimiento que empezó en una ciudad terminó influyendo en muchos lugares."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "El **movimiento por los derechos civiles** de Estados Unidos reclamó la igualdad ante la ley con **acción no violenta**. Empezó con el **boicot de Montgomery** (1955), tuvo su gran marcha en **Washington** (1963) y logró la **Ley de Derechos Civiles** (1964). Sus formas de acción inspiraron a movimientos de todo el mundo."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los hechos del movimiento por los derechos civiles, del más antiguo al más reciente.",
+     "items": [
+      "Rosa Parks es detenida en Montgomery",
+      "La comunidad negra boicotea los colectivos",
+      "Gran marcha en Washington",
+      "Se aprueba la Ley de Derechos Civiles"
+     ],
+     "explicacion": "1955, el boicot de más de un año, 1963 y 1964.",
+     "pista": "Seguí los pasos del caso."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🗣️ ¿Quién lo diría?",
+     "pregunta": "La frase es inventada: \"Este año vamos a ir caminando al trabajo, aunque tardemos más, hasta que cambien las reglas de los colectivos\". ¿Quién la diría?",
+     "opciones": [
+      "Una vecina de Montgomery durante el boicot",
+      "Un candidato en una elección",
+      "Un turista en Washington",
+      "Un funcionario que defendía la separación"
+     ],
+     "correcta": 0,
+     "explicacion": "Durante más de un año, la comunidad negra de Montgomery dejó de usar los colectivos.",
+     "pista": "Releé el segundo paso del caso."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "El movimiento por los derechos civiles usó la acción no violenta.",
+       "v": true,
+       "explicacion": "Boicots, marchas, sentadas y presentaciones ante la justicia."
+      },
+      {
+       "texto": "El boicot de Montgomery duró un día.",
+       "v": false,
+       "explicacion": "Duró más de un año."
+      },
+      {
+       "texto": "La Ley de Derechos Civiles se aprobó en 1964.",
+       "v": true,
+       "explicacion": "Prohibió la discriminación en lugares públicos y en el trabajo."
+      },
+      {
+       "texto": "Las formas de acción de este movimiento no influyeron en otros países.",
+       "v": false,
+       "explicacion": "Inspiraron a movimientos de todo el mundo."
+      }
+     ]
+    },
+    {
+     "t": "verificar",
+     "consigna": "Buscá en el caso el año de la detención de Rosa Parks y el de la Ley de Derechos Civiles. ¿Cuántos años pasaron entre uno y otro?",
+     "respuesta": "9",
+     "acepta": [
+      "9",
+      "nueve"
+     ],
+     "explicacion": "De 1955 a 1964 pasaron 9 años de reclamo sostenido.",
+     "pista1": "Los dos años están en los pasos del caso.",
+     "pista": "La detención fue en 1955. Buscá el año de la ley y restá."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué te parece que este movimiento eligió la acción no violenta?",
+     "respuesta": "Porque así ganaba el apoyo de más personas, mostraba la injusticia de las leyes que reclamaba cambiar y hacía difícil que se lo acusara de provocar desorden. También porque sus líderes creían, por convicción, que la no violencia era el camino correcto."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Contá el caso del movimiento por los derechos civiles en Estados Unidos: qué reclamaba, cómo actuó y qué logró. Explicá por qué influyó en movimientos de otros países.",
+    "guia": [
+     "¿Qué reclamaba el movimiento por los derechos civiles?",
+     "¿Qué es la acción no violenta?",
+     "¿Qué pasó en Montgomery en 1955?",
+     "¿Qué pasó en 1963 y en 1964?",
+     "¿Por qué este movimiento influyó en otros países?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El movimiento por los derechos civiles reclamaba igualdad ante la ley.",
+     "respuesta": true,
+     "explicacion": "Contra las leyes de separación."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Rosa Parks fue detenida en 1955.",
+     "respuesta": true,
+     "explicacion": "En Montgomery, Alabama."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La gran marcha fue en Nueva York.",
+     "respuesta": false,
+     "explicacion": "Fue en Washington, en 1963."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Martin Luther King pronunció el discurso \"Tengo un sueño\".",
+     "respuesta": true,
+     "explicacion": "En la marcha de Washington."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El movimiento usó la violencia como forma de acción.",
+     "respuesta": false,
+     "explicacion": "Usó la acción no violenta."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La Ley de Derechos Civiles prohibió la discriminación en el trabajo.",
+     "respuesta": true,
+     "explicacion": "Y en lugares públicos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué ciudad empezó el boicot a los colectivos?",
+     "opciones": [
+      "Washington",
+      "Montgomery",
+      "Chicago",
+      "Nueva York"
+     ],
+     "correcta": 1,
+     "explicacion": "En Alabama."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué año se aprobó la Ley de Derechos Civiles?",
+     "opciones": [
+      "1955",
+      "1963",
+      "1964",
+      "1980"
+     ],
+     "correcta": 2,
+     "explicacion": "En 1964."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la acción no violenta?",
+     "opciones": [
+      "Reclamar con boicots, marchas y sentadas, sin violencia",
+      "Atacar edificios",
+      "Presentarse a elecciones",
+      "No reclamar"
+     ],
+     "correcta": 0,
+     "explicacion": "Fue la forma de este movimiento."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué discurso pronunció Martin Luther King en 1963?",
+     "opciones": [
+      "\"Tengo un sueño\"",
+      "\"Ni un paso atrás\"",
+      "\"Hay un plan\"",
+      "\"Volveremos\""
+     ],
+     "correcta": 0,
+     "explicacion": "En Washington."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuánto duró el boicot de Montgomery?",
+     "opciones": [
+      "Un día",
+      "Una semana",
+      "Más de un año",
+      "Diez años"
+     ],
+     "correcta": 2,
+     "explicacion": "Más de un año."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué influencia tuvo este movimiento en el mundo?",
+     "opciones": [
+      "Ninguna",
+      "Sus formas de acción inspiraron a otros movimientos",
+      "Prohibió las marchas",
+      "Creó un partido mundial"
+     ],
+     "correcta": 1,
+     "explicacion": "Un ejemplo que viajó."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "MONTGOMERY",
+     "pista": "Ciudad donde empezó el boicot a los colectivos."
+    },
+    {
+     "palabra": "BOICOT",
+     "pista": "Dejar de usar algo como forma de reclamo."
+    },
+    {
+     "palabra": "IGUALDAD",
+     "pista": "Lo que reclamaba el movimiento."
+    },
+    {
+     "palabra": "WASHINGTON",
+     "pista": "Ciudad de la gran marcha de 1963."
+    },
+    {
+     "palabra": "DERECHOS",
+     "pista": "Lo que se buscaba garantizar para todos."
+    },
+    {
+     "palabra": "SENTADA",
+     "pista": "Forma de acción: sentarse en un lugar y no moverse."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué logró el movimiento por los derechos civiles?",
+     "opciones": [
+      "La Ley de Derechos Civiles de 1964",
+      "Nada",
+      "Un partido político",
+      "El voto de las mujeres en 1893"
+     ],
+     "correcta": 0,
+     "explicacion": "Prohibió la discriminación en lugares públicos y en el trabajo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué se dice que fue un ejemplo que viajó?",
+     "opciones": [
+      "Porque otros movimientos de otros países tomaron sus formas de acción",
+      "Porque sus líderes se mudaron",
+      "Porque se hizo en un barco",
+      "Porque no tuvo influencia"
+     ],
+     "correcta": 0,
+     "explicacion": "Boicots, marchas y discursos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué muestra el caso sobre los movimientos sociales?",
+     "opciones": [
+      "Que un reclamo sostenido y organizado puede cambiar las leyes",
+      "Que los reclamos nunca cambian nada",
+      "Que solo los partidos cambian las leyes",
+      "Que hay que reclamar solo un día"
+     ],
+     "correcta": 0,
+     "explicacion": "Nueve años de reclamo sostenido."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Movimientos globales en la era de las redes",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "De una estudiante a millones",
+     "texto": "El 20 de agosto de 2018, una estudiante sueca de 15 años, Greta Thunberg, empezó a faltar a clase para sentarse frente al Parlamento de su país con un cartel que reclamaba medidas contra el cambio climático. La idea se difundió por las redes y otros estudiantes empezaron a hacer lo mismo los viernes. Así nació **Fridays for Future** (\"Viernes por el futuro\").\n\nEl 15 de marzo de 2019 se hizo la primera huelga mundial por el clima: según sus organizadores, más de un millón de personas participaron en 125 países. En septiembre de ese año, los organizadores hablaron de más de 4 millones."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-12-reclamo-mundial.svg",
+     "tipo": "grafico",
+     "alt": "Esquema de cómo un reclamo se vuelve mundial, en cuatro pasos: un reclamo en un lugar; se difunde por redes sociales y medios; se suman otras ciudades y países; jornadas mundiales el mismo día en muchos lugares.",
+     "epigrafe": "Esquema elaborado para esta clase.",
+     "animacion": "aparecer"
+    },
+    {
+     "t": "texto",
+     "titulo": "Movimientos que ocupan el espacio",
+     "texto": "Los movimientos sociales se **territorializan**: ocupan plazas, calles y edificios públicos para hacerse ver. Muchas ciudades tienen lugares que se volvieron símbolo de los reclamos, como la Plaza de Mayo en Buenos Aires. Con las redes sociales, los movimientos ocupan también el **espacio digital**, y eso les permite coordinar acciones en muchas ciudades del mundo el mismo día."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Un debate sobre el espacio público",
+     "columnas": [
+      "Quienes priorizan el derecho a manifestarse",
+      "Quienes priorizan el derecho a circular"
+     ],
+     "filas": [
+      [
+       "La calle es el lugar donde un reclamo se hace visible",
+       "Cortar una calle afecta a quienes necesitan trasladarse"
+      ],
+      [
+       "Reunirse y peticionar son derechos de todas las personas",
+       "Hay que ordenar las manifestaciones para que convivan con otros derechos"
+      ]
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Con las **redes sociales**, un reclamo local puede volverse **mundial** en poco tiempo, como pasó con **Fridays for Future** desde 2018. Los movimientos se **territorializan**: ocupan plazas y calles, y también el **espacio digital**. El uso del espacio público genera un debate entre el derecho a manifestarse y el derecho a circular."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "📰 Elegí el titular",
+     "pregunta": "Es el 15 de marzo de 2019. ¿Qué titular podría aparecer en un diario?",
+     "opciones": [
+      "\"Estudiantes de 125 países se suman a una huelga por el clima\"",
+      "\"Rosa Parks es detenida en Montgomery\"",
+      "\"Nueva Zelanda aprueba el voto de las mujeres\"",
+      "\"Se aprueba la Ley de Derechos Civiles\""
+     ],
+     "correcta": 0,
+     "explicacion": "Ese día fue la primera huelga mundial por el clima, según sus organizadores en 125 países.",
+     "pista": "Releé el texto sobre Fridays for Future."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿La acción ocurre en el espacio físico o en el espacio digital?",
+     "categorias": [
+      "Espacio físico",
+      "Espacio digital"
+     ],
+     "items": [
+      {
+       "texto": "Una marcha en una plaza",
+       "cat": "Espacio físico"
+      },
+      {
+       "texto": "Un video que se comparte en redes",
+       "cat": "Espacio digital"
+      },
+      {
+       "texto": "Una sentada frente a un parlamento",
+       "cat": "Espacio físico"
+      },
+      {
+       "texto": "Una convocatoria por mensajes a varias ciudades",
+       "cat": "Espacio digital"
+      }
+     ],
+     "explicacion": "Los movimientos de hoy combinan los dos espacios.",
+     "pista": "Releé el texto sobre movimientos que ocupan el espacio."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "Fridays for Future empezó en [[2018]] con una estudiante de [[Suecia]]. Su reclamo es contra el cambio [[climático]]. La difusión por las [[redes]] sociales permitió coordinar huelgas en muchos países el mismo día.",
+     "distractores": [
+      "2008",
+      "Noruega",
+      "radios"
+     ],
+     "explicacion": "Así un reclamo local se volvió mundial.",
+     "pista": "Releé el texto de una estudiante a millones."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada movimiento con su reclamo principal.",
+     "pares": [
+      {
+       "a": "Movimiento por el voto de las mujeres",
+       "b": "Que las mujeres puedan votar"
+      },
+      {
+       "a": "Movimiento por los derechos civiles",
+       "b": "Igualdad ante la ley, sin separación"
+      },
+      {
+       "a": "Fridays for Future",
+       "b": "Medidas contra el cambio climático"
+      }
+     ],
+     "explicacion": "Son tres movimientos mundiales de épocas distintas.",
+     "pista": "Repasá las tres partes de la clase."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿qué cambió en los movimientos sociales con la llegada de las redes?",
+     "respuesta": "Antes, un reclamo tardaba años en llegar a otros países. Con las redes, una idea puede recorrer el mundo en días y muchas personas pueden coordinarse para actuar el mismo día en ciudades distintas. Pero las redes no reemplazan del todo a la calle: los movimientos siguen buscando hacerse ver en el espacio público."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá cómo un reclamo local puede volverse mundial, usando el esquema y el caso de Fridays for Future. Contá cómo los movimientos ocupan el espacio físico y el digital, y presentá el debate sobre el espacio público sin tomar partido.",
+    "guia": [
+     "¿Cómo empezó Fridays for Future?",
+     "¿Qué pasó el 15 de marzo de 2019?",
+     "¿Cuáles son los pasos para que un reclamo se vuelva mundial?",
+     "¿Qué significa que un movimiento se territorialice?",
+     "¿Qué dicen quienes priorizan el derecho a manifestarse y quienes priorizan el derecho a circular?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Fridays for Future empezó en 2018.",
+     "respuesta": true,
+     "explicacion": "Con una estudiante sueca."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La primera huelga mundial por el clima fue el 15 de marzo de 2019.",
+     "respuesta": true,
+     "explicacion": "Según sus organizadores, en 125 países."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las redes sociales hacen más lento que un reclamo llegue a otros países.",
+     "respuesta": false,
+     "explicacion": "Lo hacen mucho más rápido."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los movimientos sociales ocupan plazas y calles para hacerse ver.",
+     "respuesta": true,
+     "explicacion": "Se territorializan."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La Plaza de Mayo es un lugar símbolo de reclamos en Buenos Aires.",
+     "respuesta": true,
+     "explicacion": "Como muchas plazas centrales."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Sobre el uso del espacio público todos opinan lo mismo.",
+     "respuesta": false,
+     "explicacion": "Hay un debate entre el derecho a manifestarse y el derecho a circular."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿De qué país era la estudiante que inició Fridays for Future?",
+     "opciones": [
+      "Noruega",
+      "Suecia",
+      "Alemania",
+      "Argentina"
+     ],
+     "correcta": 1,
+     "explicacion": "De Suecia."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué reclama Fridays for Future?",
+     "opciones": [
+      "El voto de las mujeres",
+      "Medidas contra el cambio climático",
+      "Igualdad en los colectivos",
+      "Más petróleo"
+     ],
+     "correcta": 1,
+     "explicacion": "Es un movimiento por el clima."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa que un movimiento se territorialice?",
+     "opciones": [
+      "Que compra tierras",
+      "Que ocupa espacios para hacerse ver",
+      "Que se muda de país",
+      "Que desaparece"
+     ],
+     "correcta": 1,
+     "explicacion": "Plazas, calles y espacio digital."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es el último paso del esquema?",
+     "opciones": [
+      "Un reclamo en un lugar",
+      "Se difunde",
+      "Se suman otros lugares",
+      "Jornadas mundiales el mismo día"
+     ],
+     "correcta": 3,
+     "explicacion": "Así un reclamo se vuelve mundial."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es un argumento de quienes priorizan el derecho a circular?",
+     "opciones": [
+      "La calle es donde un reclamo se hace visible",
+      "Reunirse es un derecho",
+      "Cortar una calle afecta a quienes necesitan trasladarse",
+      "Hay que marchar siempre"
+     ],
+     "correcta": 2,
+     "explicacion": "Es uno de sus argumentos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuántas personas participaron en septiembre de 2019, según los organizadores?",
+     "opciones": [
+      "Unas 4.000",
+      "Unas 40.000",
+      "Más de 4 millones",
+      "40 millones"
+     ],
+     "correcta": 2,
+     "explicacion": "Según los organizadores."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "CLIMA",
+     "pista": "Tema del reclamo de Fridays for Future."
+    },
+    {
+     "palabra": "HUELGA",
+     "pista": "Dejar de hacer una actividad como forma de reclamo."
+    },
+    {
+     "palabra": "REDES",
+     "pista": "Medio digital que difunde los reclamos."
+    },
+    {
+     "palabra": "PLAZA",
+     "pista": "Espacio público donde se reúnen los reclamos."
+    },
+    {
+     "palabra": "SUECIA",
+     "pista": "País donde empezó Fridays for Future."
+    },
+    {
+     "palabra": "DIGITAL",
+     "pista": "Espacio de internet y las redes."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué cambió con las redes sociales en los movimientos?",
+     "opciones": [
+      "Un reclamo puede volverse mundial en poco tiempo",
+      "Ya no hay movimientos",
+      "Los reclamos tardan más",
+      "Solo se reclama en un país"
+     ],
+     "correcta": 0,
+     "explicacion": "Se coordinan acciones el mismo día en muchos lugares."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa que los movimientos ocupen el espacio físico y el digital?",
+     "opciones": [
+      "Que reclaman en plazas y calles, y también por internet",
+      "Que solo usan internet",
+      "Que solo marchan",
+      "Que no ocupan ningún espacio"
+     ],
+     "correcta": 0,
+     "explicacion": "Combinan los dos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas frases presenta el debate sobre el espacio público sin tomar partido?",
+     "opciones": [
+      "Hay que prohibir las marchas",
+      "Hay que cortar todas las calles",
+      "Algunos priorizan el derecho a manifestarse y otros el derecho a circular",
+      "No hay ningún debate"
+     ],
+     "correcta": 2,
+     "explicacion": "Presenta las dos posiciones."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Movimiento social",
+   "definicion": "Grupo de personas que se organiza de forma colectiva y sostenida para impulsar un cambio en la sociedad."
+  },
+  {
+   "palabra": "Partido político",
+   "definicion": "Organización que se presenta a elecciones para gobernar."
+  },
+  {
+   "palabra": "Formas de acción",
+   "definicion": "Marchas, peticiones, boicots y campañas que usan los movimientos."
+  },
+  {
+   "palabra": "Boicot",
+   "definicion": "Dejar de comprar o de usar algo como forma de reclamo."
+  },
+  {
+   "palabra": "Acción no violenta",
+   "definicion": "Forma de reclamar sin usar la violencia."
+  },
+  {
+   "palabra": "Territorializarse",
+   "definicion": "Ocupar un espacio, físico o digital, para hacerse ver."
+  },
+  {
+   "palabra": "Espacio público",
+   "definicion": "Lugares de uso común, como plazas y calles."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Un movimiento social es lo mismo que un partido político.",
+   "aclaracion": "El movimiento busca un cambio en la sociedad; el partido se presenta a elecciones para gobernar."
+  },
+  {
+   "error": "Los movimientos sociales mundiales aparecieron con internet.",
+   "aclaracion": "Ya existían antes, como el que reclamó el voto de las mujeres; las redes los hicieron más rápidos."
+  },
+  {
+   "error": "Un reclamo de un día alcanza para formar un movimiento social.",
+   "aclaracion": "Un movimiento se sostiene en el tiempo; el de los derechos civiles reclamó durante años."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "¿Conocés algún reclamo de tu ciudad o de tu escuela que se haya organizado de forma colectiva? ¿Qué formas de acción usó y qué espacio ocupó?",
+  "conexion": "Con la clase de las ciudades globales: las redes que conectan ciudades también permiten que los movimientos sociales se coordinen."
+ }
+}

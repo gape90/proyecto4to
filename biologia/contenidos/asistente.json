@@ -1,0 +1,2979 @@
+{
+ "descripcion": "Contenido del asistente de Biología (sin IA). Revisar con docente de Biología antes de usar con estudiantes.",
+ "materia": "Biología",
+ "ejemplos": "\"enzima\" o \"homeostasis\"",
+ "palabras": [
+  {
+   "palabra": "Bioelemento",
+   "definicion": "Elemento químico que forma parte de los seres vivos. Los seis principales son carbono, hidrógeno, oxígeno, nitrógeno, fósforo y azufre.",
+   "formas": [
+    "bioelementos",
+    "elemento quimico"
+   ]
+  },
+  {
+   "palabra": "Oligoelemento",
+   "definicion": "Bioelemento que hace falta en cantidades muy pequeñas, pero que el organismo necesita. Por ejemplo, el hierro y el yodo.",
+   "formas": [
+    "oligoelementos"
+   ]
+  },
+  {
+   "palabra": "Biomolécula",
+   "definicion": "Molécula que forma parte de los seres vivos. Se arma con bioelementos. Puede ser inorgánica (agua y sales minerales) u orgánica (glúcidos, lípidos, proteínas y ácidos nucleicos).",
+   "formas": [
+    "biomoleculas",
+    "molecula"
+   ]
+  },
+  {
+   "palabra": "Biomolécula orgánica",
+   "definicion": "Biomolécula que tiene carbono: los glúcidos, los lípidos, las proteínas y los ácidos nucleicos.",
+   "formas": [
+    "organica",
+    "organicas",
+    "biomoleculas organicas"
+   ]
+  },
+  {
+   "palabra": "Biomolécula inorgánica",
+   "definicion": "Biomolécula que no tiene carbono como base: el agua y las sales minerales.",
+   "formas": [
+    "inorganica",
+    "inorganicas",
+    "biomoleculas inorganicas"
+   ]
+  },
+  {
+   "palabra": "Glúcido",
+   "definicion": "Biomolécula que da energía de uso inmediato. También se los llama hidratos de carbono. Se arman con azúcares simples, como la glucosa.",
+   "formas": [
+    "glucidos",
+    "hidrato de carbono",
+    "hidratos de carbono",
+    "carbohidratos",
+    "carbohidrato"
+   ]
+  },
+  {
+   "palabra": "Glucosa",
+   "definicion": "El glúcido más importante: es el combustible que las células usan primero para obtener energía.",
+   "formas": [
+    "glucosas"
+   ]
+  },
+  {
+   "palabra": "Almidón",
+   "definicion": "Glúcido que las plantas guardan como reserva. Está, por ejemplo, en la papa y en el pan.",
+   "formas": [
+    "almidon"
+   ]
+  },
+  {
+   "palabra": "Celulosa",
+   "definicion": "Glúcido que forma las paredes de las células vegetales.",
+   "formas": [
+    "celulosas"
+   ]
+  },
+  {
+   "palabra": "Lípido",
+   "definicion": "Biomolécula que guarda energía a largo plazo y forma las membranas de las células. No se disuelve en agua. Las grasas y los aceites son lípidos.",
+   "formas": [
+    "lipidos",
+    "grasa",
+    "grasas",
+    "aceite",
+    "aceites"
+   ]
+  },
+  {
+   "palabra": "Proteína",
+   "definicion": "Biomolécula formada por aminoácidos. Da estructura, transporta sustancias, defiende al organismo y, en el caso de las enzimas, acelera reacciones.",
+   "formas": [
+    "proteinas"
+   ]
+  },
+  {
+   "palabra": "Aminoácido",
+   "definicion": "Unidad con la que se arman las proteínas. Las células combinan 20 aminoácidos distintos.",
+   "formas": [
+    "aminoacido",
+    "aminoacidos"
+   ]
+  },
+  {
+   "palabra": "Enzima",
+   "definicion": "Proteína que acelera las reacciones químicas de la célula.",
+   "formas": [
+    "enzimas"
+   ]
+  },
+  {
+   "palabra": "Ácido nucleico",
+   "definicion": "Biomolécula que guarda y transmite la información genética. Hay dos: el ADN y el ARN.",
+   "formas": [
+    "acidos nucleicos",
+    "acido nucleico"
+   ]
+  },
+  {
+   "palabra": "Nucleótido",
+   "definicion": "Unidad con la que se arman los ácidos nucleicos.",
+   "formas": [
+    "nucleotido",
+    "nucleotidos"
+   ]
+  },
+  {
+   "palabra": "ADN",
+   "definicion": "Ácido nucleico que conserva la información para fabricar las proteínas. En las células con núcleo está en el núcleo.",
+   "formas": [
+    "acido desoxirribonucleico"
+   ]
+  },
+  {
+   "palabra": "ARN",
+   "definicion": "Ácido nucleico que participa en la fabricación de las proteínas: copia la información del ADN y la lleva al ribosoma.",
+   "formas": [
+    "acido ribonucleico"
+   ]
+  },
+  {
+   "palabra": "Hemoglobina",
+   "definicion": "Proteína de los glóbulos rojos que contiene hierro y transporta el oxígeno.",
+   "formas": []
+  },
+  {
+   "palabra": "Sales minerales",
+   "definicion": "Biomoléculas inorgánicas. Forman los huesos y ayudan a que nervios y músculos funcionen.",
+   "formas": [
+    "sal mineral",
+    "minerales",
+    "mineral"
+   ]
+  },
+  {
+   "palabra": "Sistema abierto",
+   "definicion": "Sistema que intercambia materia y energía con su entorno. Los seres vivos lo son.",
+   "formas": [
+    "sistemas abiertos",
+    "abierto"
+   ]
+  },
+  {
+   "palabra": "Medio interno",
+   "definicion": "Líquido que rodea a las células y parte líquida de la sangre. Las células toman de él lo que necesitan y dejan en él sus desechos.",
+   "formas": [
+    "medio interior"
+   ]
+  },
+  {
+   "palabra": "Homeostasis",
+   "definicion": "Capacidad de un organismo de mantener estable su medio interno aunque el ambiente cambie. Se logra detectando los cambios y respondiendo a ellos.",
+   "formas": [
+    "homeostatico",
+    "homeostática",
+    "homeostasia"
+   ]
+  },
+  {
+   "palabra": "Metabolismo",
+   "definicion": "Conjunto de todas las reacciones químicas que ocurren en las células de un ser vivo. Incluye el catabolismo y el anabolismo.",
+   "formas": [
+    "metabolico",
+    "metabolica"
+   ]
+  },
+  {
+   "palabra": "Catabolismo",
+   "definicion": "Reacciones que descomponen moléculas grandes en otras más chicas y liberan energía. Por ejemplo, la glucólisis y la respiración celular.",
+   "formas": [
+    "catabolico",
+    "catabolica"
+   ]
+  },
+  {
+   "palabra": "Anabolismo",
+   "definicion": "Reacciones que arman moléculas grandes a partir de otras más chicas y gastan energía. Por ejemplo, la biosíntesis de proteínas.",
+   "formas": [
+    "anabolico",
+    "anabolica"
+   ]
+  },
+  {
+   "palabra": "ATP",
+   "definicion": "Molécula que guarda la energía que libera el catabolismo y la entrega cuando la célula la necesita. Funciona como una pila recargable.",
+   "formas": [
+    "adenosin trifosfato"
+   ]
+  },
+  {
+   "palabra": "Glucólisis",
+   "definicion": "Proceso en el citoplasma en el que la glucosa se parte en moléculas más chicas y se libera un poco de energía.",
+   "formas": [
+    "glucolisis"
+   ]
+  },
+  {
+   "palabra": "Piruvato",
+   "definicion": "Molécula más chica en la que se parte la glucosa durante la glucólisis.",
+   "formas": [
+    "piruvatos"
+   ]
+  },
+  {
+   "palabra": "Respiración celular",
+   "definicion": "Proceso en el que, con oxígeno, se terminan de descomponer las moléculas que dejó la glucólisis. Se completa en las mitocondrias y libera mucha más energía.",
+   "formas": [
+    "respiracion celular",
+    "respiracion"
+   ]
+  },
+  {
+   "palabra": "Mitocondria",
+   "definicion": "Estructura de la célula donde se completa la respiración celular.",
+   "formas": [
+    "mitocondrias"
+   ]
+  },
+  {
+   "palabra": "Ribosoma",
+   "definicion": "Estructura de la célula donde se arman las proteínas, uniendo aminoácidos según lo que indica el ARN.",
+   "formas": [
+    "ribosomas"
+   ]
+  },
+  {
+   "palabra": "Citoplasma",
+   "definicion": "Interior de la célula, entre la membrana y el núcleo. Ahí ocurre la glucólisis.",
+   "formas": [
+    "citoplasmas"
+   ]
+  },
+  {
+   "palabra": "Transcripción",
+   "definicion": "Primer paso de la biosíntesis de proteínas: la información del ADN se copia en una molécula de ARN.",
+   "formas": [
+    "transcripcion"
+   ]
+  },
+  {
+   "palabra": "Traducción",
+   "definicion": "Segundo paso de la biosíntesis de proteínas: el ribosoma une aminoácidos en el orden que indica el ARN.",
+   "formas": [
+    "traduccion"
+   ]
+  },
+  {
+   "palabra": "Biosíntesis de proteínas",
+   "definicion": "Proceso por el que la célula fabrica proteínas: transcripción del ADN a ARN y traducción en el ribosoma. Es un ejemplo de anabolismo.",
+   "formas": [
+    "biosintesis",
+    "sintesis de proteinas"
+   ]
+  },
+  {
+   "palabra": "Célula",
+   "definicion": "Unidad básica de los seres vivos. Todos los organismos están formados por una o más células.",
+   "formas": [
+    "celulas",
+    "celular"
+   ]
+  },
+  {
+   "palabra": "Organismo",
+   "definicion": "Un ser vivo completo, formado por una o muchas células: una bacteria, una planta o una persona.",
+   "formas": [
+    "organismos",
+    "ser vivo",
+    "seres vivos"
+   ]
+  },
+  {
+   "palabra": "Núcleo",
+   "definicion": "Estructura de la célula que guarda el ADN, que contiene la información para fabricar las proteínas.",
+   "formas": [
+    "nucleos",
+    "nucleo celular"
+   ]
+  },
+  {
+   "palabra": "Membrana",
+   "definicion": "Envoltura que rodea la célula y controla qué entra y qué sale. Está formada sobre todo por lípidos y proteínas.",
+   "formas": [
+    "membranas",
+    "membrana celular",
+    "membrana plasmatica"
+   ]
+  },
+  {
+   "palabra": "Retículo rugoso",
+   "definicion": "Conjunto de membranas apiladas, con ribosomas pegados. Las proteínas que se fabrican ahí se envían después a otras partes de la célula o hacia afuera.",
+   "formas": [
+    "reticulo",
+    "reticulo endoplasmatico",
+    "reticulo endoplasmatico rugoso",
+    "reticulos"
+   ]
+  },
+  {
+   "palabra": "Energía",
+   "definicion": "Lo que necesitan las células para trabajar y mantenerse vivas. Los organismos la obtienen sobre todo de los alimentos: se libera cuando se descomponen moléculas como la glucosa.",
+   "formas": [
+    "energia",
+    "energias"
+   ]
+  },
+  {
+   "palabra": "Materia",
+   "definicion": "Todo lo que tiene masa y ocupa lugar. Un organismo intercambia materia con su ambiente cuando toma alimentos, agua y oxígeno, y elimina desechos.",
+   "formas": [
+    "materias"
+   ]
+  },
+  {
+   "palabra": "Ambiente",
+   "definicion": "Todo lo que rodea a un organismo y con lo que intercambia materia y energía. También se lo llama entorno.",
+   "formas": [
+    "ambientes",
+    "entorno",
+    "medio externo"
+   ]
+  },
+  {
+   "palabra": "Reacción química",
+   "definicion": "Proceso en el que unas sustancias se transforman en otras. En las células ocurren miles, y el conjunto se llama metabolismo.",
+   "formas": [
+    "reacciones quimicas",
+    "reaccion",
+    "reacciones",
+    "quimica"
+   ]
+  },
+  {
+   "palabra": "Oxígeno",
+   "definicion": "Gas que tomamos del aire al respirar. Las células lo usan en la respiración celular, que libera mucha más energía que la glucólisis.",
+   "formas": [
+    "oxigeno"
+   ]
+  },
+  {
+   "palabra": "Dióxido de carbono",
+   "definicion": "Gas que se produce en la respiración celular. El organismo lo elimina como desecho.",
+   "formas": [
+    "dioxido de carbono",
+    "co2"
+   ]
+  },
+  {
+   "palabra": "Desecho",
+   "definicion": "Sustancia que el organismo no usa y elimina, como el dióxido de carbono o parte del agua que se pierde al transpirar.",
+   "formas": [
+    "desechos"
+   ]
+  },
+  {
+   "palabra": "Temperatura corporal",
+   "definicion": "Medida de qué tan caliente está el cuerpo. El organismo la mantiene estable gracias a la homeostasis.",
+   "formas": [
+    "temperatura"
+   ]
+  },
+  {
+   "palabra": "Sangre",
+   "definicion": "Líquido que circula por el cuerpo. Su parte líquida forma parte del medio interno.",
+   "formas": []
+  },
+  {
+   "palabra": "Carbono",
+   "definicion": "Bioelemento que forma parte de todas las biomoléculas orgánicas.",
+   "formas": []
+  },
+  {
+   "palabra": "Hidrógeno",
+   "definicion": "Bioelemento principal. Está en el agua y en las biomoléculas orgánicas.",
+   "formas": [
+    "hidrogeno"
+   ]
+  },
+  {
+   "palabra": "Nitrógeno",
+   "definicion": "Bioelemento principal. Forma parte de las proteínas y de los ácidos nucleicos.",
+   "formas": [
+    "nitrogeno"
+   ]
+  },
+  {
+   "palabra": "Fósforo",
+   "definicion": "Bioelemento principal. Forma parte de los ácidos nucleicos, del ATP y de los huesos.",
+   "formas": [
+    "fosforo"
+   ]
+  },
+  {
+   "palabra": "Azufre",
+   "definicion": "Bioelemento principal. Forma parte de algunas proteínas.",
+   "formas": []
+  },
+  {
+   "palabra": "Calcio",
+   "definicion": "Bioelemento secundario. Forma los huesos y los dientes.",
+   "formas": []
+  },
+  {
+   "palabra": "Sodio",
+   "definicion": "Bioelemento secundario. Junto con el potasio, ayuda a que nervios y músculos funcionen.",
+   "formas": []
+  },
+  {
+   "palabra": "Potasio",
+   "definicion": "Bioelemento secundario. Junto con el sodio, ayuda a que nervios y músculos funcionen.",
+   "formas": []
+  },
+  {
+   "palabra": "Hierro",
+   "definicion": "Oligoelemento. Forma parte de la hemoglobina, la proteína de la sangre que transporta oxígeno.",
+   "formas": []
+  },
+  {
+   "palabra": "Agua",
+   "definicion": "Biomolécula inorgánica y la más abundante en los seres vivos. Disuelve y transporta sustancias.",
+   "formas": []
+  },
+  {
+   "palabra": "Ácidos grasos y glicerol",
+   "definicion": "Unidades con las que se arman las grasas y los aceites, los lípidos más comunes.",
+   "formas": [
+    "acido graso",
+    "acidos grasos",
+    "glicerol"
+   ]
+  },
+  {
+   "palabra": "Anticuerpo",
+   "definicion": "Proteína que ayuda a defender al organismo de microbios y otras sustancias extrañas.",
+   "formas": [
+    "anticuerpos"
+   ]
+  },
+  {
+   "palabra": "Colesterol",
+   "definicion": "Lípido que forma parte de las membranas de las células. El cuerpo lo fabrica y también viene de algunos alimentos.",
+   "formas": []
+  },
+  {
+   "palabra": "Nutrición",
+   "definicion": "Conjunto de procesos con los que un ser vivo consigue materia y energía, las transforma y las usa para crecer, repararse y mantenerse vivo. También incluye eliminar los desechos.",
+   "formas": [
+    "nutricion",
+    "nutrirse",
+    "nutrir"
+   ]
+  },
+  {
+   "palabra": "Autótrofo",
+   "definicion": "Ser vivo que fabrica su propia materia orgánica a partir de materia inorgánica, usando energía. Las plantas y las algas lo hacen con la luz, por fotosíntesis.",
+   "formas": [
+    "autotrofo",
+    "autotrofos",
+    "autotrofa",
+    "autotrofas"
+   ]
+  },
+  {
+   "palabra": "Heterótrofo",
+   "definicion": "Ser vivo que no puede fabricar materia orgánica a partir de materia inorgánica y la toma ya hecha de otros seres vivos o de sus restos. Son heterótrofos los animales, los hongos y muchas bacterias.",
+   "formas": [
+    "heterotrofo",
+    "heterotrofos",
+    "heterotrofa",
+    "heterotrofas"
+   ]
+  },
+  {
+   "palabra": "Fotosíntesis",
+   "definicion": "Proceso con el que las plantas, las algas y algunas bacterias usan la energía de la luz para fabricar glucosa con agua y dióxido de carbono. Libera oxígeno.",
+   "formas": [
+    "fotosintesis",
+    "fotosintetizar"
+   ]
+  },
+  {
+   "palabra": "Materia orgánica",
+   "definicion": "Materia que tiene carbono, como los glúcidos, los lípidos y las proteínas. Los autótrofos la fabrican y los heterótrofos la toman de otros seres vivos.",
+   "formas": [
+    "materia organica"
+   ]
+  },
+  {
+   "palabra": "Materia inorgánica",
+   "definicion": "Materia que no tiene carbono como base, como el agua, las sales minerales y el dióxido de carbono. Los autótrofos la usan para fabricar materia orgánica.",
+   "formas": [
+    "materia inorganica"
+   ]
+  },
+  {
+   "palabra": "Hongo",
+   "definicion": "Ser vivo heterótrofo. Suelta sustancias que digieren el alimento afuera de su cuerpo y después absorbe lo que queda disuelto. No hace fotosíntesis, así que no es una planta.",
+   "formas": [
+    "hongos",
+    "moho",
+    "mohos"
+   ]
+  },
+  {
+   "palabra": "Herbívoro",
+   "definicion": "Animal que se alimenta de plantas.",
+   "formas": [
+    "herbivoro",
+    "herbivoros"
+   ]
+  },
+  {
+   "palabra": "Carnívoro",
+   "definicion": "Animal que se alimenta de otros animales.",
+   "formas": [
+    "carnivoro",
+    "carnivoros"
+   ]
+  },
+  {
+   "palabra": "Omnívoro",
+   "definicion": "Animal que se alimenta de plantas y de animales, como las personas.",
+   "formas": [
+    "omnivoro",
+    "omnivoros"
+   ]
+  },
+  {
+   "palabra": "Alimento",
+   "definicion": "Lo que comés: el pan, la leche, una manzana. Adentro tiene los nutrientes que el cuerpo usa.",
+   "formas": [
+    "alimentos"
+   ]
+  },
+  {
+   "palabra": "Nutriente",
+   "definicion": "Sustancia de los alimentos que el cuerpo usa. Según su función puede ser energético, estructural o regulador.",
+   "formas": [
+    "nutrientes"
+   ]
+  },
+  {
+   "palabra": "Nutrientes energéticos",
+   "definicion": "Los que dan energía al cuerpo: los glúcidos y los lípidos.",
+   "formas": [
+    "energetico",
+    "energeticos",
+    "nutriente energetico"
+   ]
+  },
+  {
+   "palabra": "Nutrientes estructurales",
+   "definicion": "Los que forman y reparan los tejidos, sobre todo las proteínas. También se los llama plásticos.",
+   "formas": [
+    "estructural",
+    "estructurales",
+    "plasticos",
+    "nutrientes plasticos"
+   ]
+  },
+  {
+   "palabra": "Nutrientes reguladores",
+   "definicion": "Los que regulan el funcionamiento del cuerpo: las vitaminas y los minerales. No dan energía ni forman tejidos.",
+   "formas": [
+    "regulador",
+    "reguladores",
+    "nutriente regulador"
+   ]
+  },
+  {
+   "palabra": "Vitamina",
+   "definicion": "Nutriente regulador que el cuerpo necesita en cantidades muy pequeñas. Por ejemplo, la vitamina C ayuda a cicatrizar las heridas.",
+   "formas": [
+    "vitaminas",
+    "vitamina c"
+   ]
+  },
+  {
+   "palabra": "Tejido",
+   "definicion": "Conjunto de células parecidas que cumplen una misma función, como el músculo o la piel.",
+   "formas": [
+    "tejidos"
+   ]
+  },
+  {
+   "palabra": "Alimentación",
+   "definicion": "Todo lo que hacés para conseguir, elegir, preparar y comer los alimentos. Es voluntaria y se puede aprender y cambiar.",
+   "formas": [
+    "alimentacion",
+    "alimentarse"
+   ]
+  },
+  {
+   "palabra": "Digestión",
+   "definicion": "Proceso en el que el sistema digestivo parte los nutrientes de los alimentos en unidades tan chicas que pueden pasar a la sangre.",
+   "formas": [
+    "digestion",
+    "digerir",
+    "digiere"
+   ]
+  },
+  {
+   "palabra": "Sistema digestivo",
+   "definicion": "Sistema que parte los nutrientes de los alimentos en unidades más chicas. Lo vas a estudiar en detalle en la clase 3.",
+   "formas": [
+    "digestivo",
+    "aparato digestivo"
+   ]
+  },
+  {
+   "palabra": "Sistema respiratorio",
+   "definicion": "Sistema que toma el oxígeno del aire y elimina el dióxido de carbono. Las células usan ese oxígeno para obtener energía.",
+   "formas": [
+    "respiratorio",
+    "aparato respiratorio"
+   ]
+  },
+  {
+   "palabra": "Absorción",
+   "definicion": "Paso de una sustancia hacia adentro. En los hongos, es tomar el alimento ya digerido afuera; en las personas, es el paso de los nutrientes a la sangre.",
+   "formas": [
+    "absorcion",
+    "absorber",
+    "absorbe"
+   ]
+  },
+  {
+   "palabra": "Octógonos",
+   "definicion": "Sellos negros que llevan muchos alimentos envasados en el frente. Avisan cuando un producto tiene exceso de azúcares, grasas, sodio o calorías.",
+   "formas": [
+    "octogono",
+    "octogonos",
+    "sellos",
+    "etiquetado frontal"
+   ]
+  },
+  {
+   "palabra": "Guías alimentarias",
+   "definicion": "Recomendaciones del Ministerio de Salud de la Nación para una alimentación saludable. Su gráfica ordena los alimentos en grupos.",
+   "formas": [
+    "guia alimentaria",
+    "guias alimentarias",
+    "grafica de la alimentacion"
+   ]
+  },
+  {
+   "palabra": "Bioelementos principales",
+   "definicion": "Los seis bioelementos más abundantes: carbono, hidrógeno, oxígeno, nitrógeno, fósforo y azufre. Con ellos se arman las biomoléculas orgánicas.",
+   "formas": [
+    "principales",
+    "bioelemento principal"
+   ]
+  },
+  {
+   "palabra": "Animal",
+   "definicion": "Ser vivo heterótrofo que come los alimentos y los digiere adentro de su cuerpo. Puede ser herbívoro, carnívoro u omnívoro.",
+   "formas": [
+    "animales"
+   ]
+  },
+  {
+   "palabra": "Persona adulta de confianza",
+   "definicion": "Una persona mayor de tu entorno con quien podés hablar de lo que te preocupa: alguien de tu familia, un o una docente o el equipo de orientación de tu escuela.",
+   "formas": [
+    "persona adulta de confianza",
+    "adultos de confianza",
+    "adulto",
+    "persona adulta",
+    "personas adultas de confianza"
+   ]
+  },
+  {
+   "palabra": "Centro de salud",
+   "definicion": "Lugar de atención de la salud de tu barrio o tu ciudad, donde podés hacer consultas.",
+   "formas": [
+    "centros de salud",
+    "salita",
+    "dispensario"
+   ]
+  },
+  {
+   "palabra": "Trastorno de la conducta alimentaria",
+   "definicion": "Problema de salud en el que se altera la relación de una persona con la comida y con su cuerpo. Se trata con equipos de salud, y cuanto antes se pide ayuda, mejor.",
+   "formas": [
+    "trastornos alimentarios",
+    "trastorno alimentario",
+    "tca",
+    "desordenes alimentarios",
+    "desorden alimentario"
+   ]
+  },
+  {
+   "palabra": "Anorexia nerviosa",
+   "definicion": "Uno de los trastornos de la conducta alimentaria. Es un problema de salud que necesita la ayuda de un equipo profesional.",
+   "formas": [
+    "anorexia"
+   ]
+  },
+  {
+   "palabra": "Bulimia nerviosa",
+   "definicion": "Uno de los trastornos de la conducta alimentaria. Es un problema de salud que necesita la ayuda de un equipo profesional.",
+   "formas": [
+    "bulimia"
+   ]
+  },
+  {
+   "palabra": "Trastorno por atracón",
+   "definicion": "Uno de los trastornos de la conducta alimentaria. Es un problema de salud que necesita la ayuda de un equipo profesional.",
+   "formas": [
+    "atracon",
+    "atracones"
+   ]
+  },
+  {
+   "palabra": "Tubo digestivo",
+   "definicion": "Conducto que va de la boca al ano. El alimento pasa por la boca, la faringe, el esófago, el estómago, el intestino delgado y el intestino grueso.",
+   "formas": [
+    "tubo"
+   ]
+  },
+  {
+   "palabra": "Glándulas anexas",
+   "definicion": "Órganos que están fuera del tubo digestivo y vuelcan en él sus jugos: las glándulas salivales, el hígado y el páncreas.",
+   "formas": [
+    "glandula anexa",
+    "glandulas anexas",
+    "anexas",
+    "glandula",
+    "glandulas"
+   ]
+  },
+  {
+   "palabra": "Glándulas salivales",
+   "definicion": "Glándulas de la boca que fabrican la saliva.",
+   "formas": [
+    "glandula salival",
+    "salivales"
+   ]
+  },
+  {
+   "palabra": "Saliva",
+   "definicion": "Líquido que fabrican las glándulas salivales. Humedece el alimento, ayuda a formar el bolo y, con una de sus enzimas, empieza a digerir el almidón.",
+   "formas": []
+  },
+  {
+   "palabra": "Bolo alimenticio",
+   "definicion": "Alimento masticado y mezclado con saliva, listo para tragar.",
+   "formas": [
+    "bolo",
+    "bolos"
+   ]
+  },
+  {
+   "palabra": "Faringe",
+   "definicion": "Conducto detrás de la boca y la nariz por donde pasan el alimento (hacia el esófago) y el aire (hacia la laringe).",
+   "formas": []
+  },
+  {
+   "palabra": "Esófago",
+   "definicion": "Conducto que lleva el bolo desde la faringe hasta el estómago, con contracciones de sus paredes.",
+   "formas": [
+    "esofago"
+   ]
+  },
+  {
+   "palabra": "Estómago",
+   "definicion": "Órgano del tubo digestivo que mezcla el alimento con el jugo gástrico. Ahí empieza la digestión de las proteínas.",
+   "formas": [
+    "estomago"
+   ]
+  },
+  {
+   "palabra": "Jugo gástrico",
+   "definicion": "Jugo que se produce en el estómago y empieza a digerir las proteínas.",
+   "formas": [
+    "jugo gastrico",
+    "jugos gastricos"
+   ]
+  },
+  {
+   "palabra": "Intestino delgado",
+   "definicion": "Parte del tubo digestivo donde termina la digestión y se absorbe la mayor parte de los nutrientes, a través de las vellosidades.",
+   "formas": [
+    "intestino",
+    "intestinos"
+   ]
+  },
+  {
+   "palabra": "Intestino grueso",
+   "definicion": "Última parte del tubo digestivo antes del ano. Absorbe agua y forma la materia fecal.",
+   "formas": [
+    "colon"
+   ]
+  },
+  {
+   "palabra": "Hígado",
+   "definicion": "Glándula anexa que produce la bilis, que ayuda a digerir las grasas.",
+   "formas": [
+    "higado"
+   ]
+  },
+  {
+   "palabra": "Bilis",
+   "definicion": "Líquido que produce el hígado y vuelca en el intestino delgado. Ayuda a digerir las grasas.",
+   "formas": []
+  },
+  {
+   "palabra": "Páncreas",
+   "definicion": "Glándula anexa que fabrica el jugo pancreático y lo vuelca en el intestino delgado.",
+   "formas": [
+    "pancreas"
+   ]
+  },
+  {
+   "palabra": "Jugo pancreático",
+   "definicion": "Jugo con enzimas que fabrica el páncreas y que ayuda a terminar la digestión en el intestino delgado.",
+   "formas": [
+    "jugo pancreatico"
+   ]
+  },
+  {
+   "palabra": "Digestión mecánica",
+   "definicion": "Parte de la digestión que rompe el alimento en pedazos más chicos, como la masticación y los movimientos del estómago.",
+   "formas": [
+    "digestion mecanica",
+    "mecanica"
+   ]
+  },
+  {
+   "palabra": "Digestión química",
+   "definicion": "Parte de la digestión que hacen las enzimas: parten las moléculas grandes en otras más chicas.",
+   "formas": [
+    "digestion quimica"
+   ]
+  },
+  {
+   "palabra": "Vellosidades",
+   "definicion": "Pequeñas prolongaciones de la pared del intestino delgado. Aumentan la superficie para absorber los nutrientes.",
+   "formas": [
+    "vellosidad",
+    "vellosidades intestinales"
+   ]
+  },
+  {
+   "palabra": "Materia fecal",
+   "definicion": "Restos de lo que no se absorbió. Se forma en el intestino grueso y se elimina por el ano.",
+   "formas": [
+    "heces",
+    "materia fecal"
+   ]
+  },
+  {
+   "palabra": "Fosas nasales",
+   "definicion": "Entrada del aire. Ahí el aire se calienta, se humedece y se filtra.",
+   "formas": [
+    "nariz",
+    "fosa nasal"
+   ]
+  },
+  {
+   "palabra": "Laringe",
+   "definicion": "Conducto entre la faringe y la tráquea. Ahí están las cuerdas vocales.",
+   "formas": []
+  },
+  {
+   "palabra": "Cuerdas vocales",
+   "definicion": "Estructuras de la laringe que vibran al pasar el aire y producen la voz.",
+   "formas": [
+    "cuerda vocal"
+   ]
+  },
+  {
+   "palabra": "Tráquea",
+   "definicion": "Tubo que lleva el aire desde la laringe hasta los bronquios.",
+   "formas": [
+    "traquea"
+   ]
+  },
+  {
+   "palabra": "Bronquio",
+   "definicion": "Cada una de las dos ramas en las que se divide la tráquea, una para cada pulmón.",
+   "formas": [
+    "bronquios"
+   ]
+  },
+  {
+   "palabra": "Bronquiolo",
+   "definicion": "Ramificación cada vez más fina de los bronquios, dentro de los pulmones. Termina en los alvéolos.",
+   "formas": [
+    "bronquiolos"
+   ]
+  },
+  {
+   "palabra": "Pulmón",
+   "definicion": "Órgano del sistema respiratorio donde están los bronquiolos y los alvéolos. Tenemos dos.",
+   "formas": [
+    "pulmones"
+   ]
+  },
+  {
+   "palabra": "Alvéolo",
+   "definicion": "Bolsita llena de aire al final de los bronquiolos, rodeada de capilares. Ahí ocurre el intercambio gaseoso.",
+   "formas": [
+    "alveolo",
+    "alveolos"
+   ]
+  },
+  {
+   "palabra": "Intercambio gaseoso",
+   "definicion": "Paso del oxígeno del alvéolo a la sangre y del dióxido de carbono de la sangre al alvéolo.",
+   "formas": [
+    "intercambio de gases",
+    "hematosis"
+   ]
+  },
+  {
+   "palabra": "Diafragma",
+   "definicion": "Músculo que está debajo de los pulmones. Al bajar y subir hace que el aire entre y salga.",
+   "formas": []
+  },
+  {
+   "palabra": "Ventilación pulmonar",
+   "definicion": "Entrada y salida del aire de los pulmones: inspiración y espiración.",
+   "formas": [
+    "ventilacion",
+    "ventilacion pulmonar"
+   ]
+  },
+  {
+   "palabra": "Inspiración",
+   "definicion": "Momento en que entra el aire: el diafragma se contrae y baja, y el tórax se agranda.",
+   "formas": [
+    "inspiracion",
+    "inspirar",
+    "inhalar"
+   ]
+  },
+  {
+   "palabra": "Espiración",
+   "definicion": "Momento en que sale el aire: el diafragma se relaja y sube, y el tórax se achica.",
+   "formas": [
+    "espiracion",
+    "espirar",
+    "exhalar"
+   ]
+  },
+  {
+   "palabra": "Tórax",
+   "definicion": "Parte del tronco donde están los pulmones y el corazón, protegida por las costillas.",
+   "formas": [
+    "torax"
+   ]
+  },
+  {
+   "palabra": "Funcionamiento normal",
+   "definicion": "Cuando los órganos cumplen su tarea y el medio interno se mantiene estable. Lo contrario es el funcionamiento patológico.",
+   "formas": [
+    "normal"
+   ]
+  },
+  {
+   "palabra": "Patológico",
+   "definicion": "Funcionamiento alterado por una enfermedad. Lo contrario es el funcionamiento normal.",
+   "formas": [
+    "patologico",
+    "patologica",
+    "patologia"
+   ]
+  },
+  {
+   "palabra": "Diarrea",
+   "definicion": "Deposiciones líquidas y frecuentes. Se pierden agua y sales, y hay riesgo de deshidratación.",
+   "formas": []
+  },
+  {
+   "palabra": "Deshidratación",
+   "definicion": "Pérdida de agua y sales del cuerpo, que altera el medio interno.",
+   "formas": [
+    "deshidratacion",
+    "deshidratado"
+   ]
+  },
+  {
+   "palabra": "Gastritis",
+   "definicion": "Inflamación de la capa que recubre el estómago por dentro. Da dolor o ardor.",
+   "formas": []
+  },
+  {
+   "palabra": "Enfermedad celíaca",
+   "definicion": "Enfermedad en la que, en personas predispuestas, el gluten provoca una reacción de las defensas que daña las vellosidades del intestino delgado, y se absorben mal los nutrientes. Se trata con una alimentación sin TACC de por vida.",
+   "formas": [
+    "celiaquia",
+    "celiaco",
+    "celiaca",
+    "enfermedad celiaca"
+   ]
+  },
+  {
+   "palabra": "Gluten",
+   "definicion": "Proteína del trigo, la avena, la cebada y el centeno. Daña el intestino de las personas celíacas.",
+   "formas": []
+  },
+  {
+   "palabra": "TACC",
+   "definicion": "Sigla de trigo, avena, cebada y centeno, los cereales que tienen gluten. Los alimentos aptos para celíacos llevan un símbolo oficial con las palabras \"Sin T.A.C.C.\".",
+   "formas": [
+    "sin tacc"
+   ]
+  },
+  {
+   "palabra": "Asma",
+   "definicion": "Afección en la que los bronquios se inflaman y se estrechan, y cuesta que pase el aire.",
+   "formas": []
+  },
+  {
+   "palabra": "Bronquitis",
+   "definicion": "Inflamación de los bronquios, casi siempre causada por virus o bacterias. Da tos y a veces fiebre.",
+   "formas": []
+  },
+  {
+   "palabra": "Neumonía",
+   "definicion": "Infección de los alvéolos de los pulmones. Da tos, fiebre y a veces falta de aire.",
+   "formas": [
+    "neumonia",
+    "pulmonia"
+   ]
+  },
+  {
+   "palabra": "Enfisema",
+   "definicion": "Enfermedad en la que se dañan los alvéolos y cuesta respirar. El humo del tabaco es su causa principal.",
+   "formas": []
+  },
+  {
+   "palabra": "Tabaco",
+   "definicion": "Planta con la que se hacen los cigarrillos. Su humo daña las vías respiratorias y los alvéolos, también en quienes están cerca.",
+   "formas": [
+    "cigarrillo",
+    "cigarrillos",
+    "fumar",
+    "humo"
+   ]
+  },
+  {
+   "palabra": "Sistema circulatorio",
+   "definicion": "Sistema formado por el corazón, los vasos sanguíneos y la sangre. Lleva oxígeno y nutrientes a las células y se lleva sus desechos.",
+   "formas": [
+    "circulatorio",
+    "aparato circulatorio",
+    "circulacion"
+   ]
+  },
+  {
+   "palabra": "Corazón",
+   "definicion": "Músculo con cuatro cavidades que impulsa la sangre por los vasos.",
+   "formas": [
+    "corazon"
+   ]
+  },
+  {
+   "palabra": "Aurícula",
+   "definicion": "Cada una de las dos cavidades de arriba del corazón. Reciben la sangre que llega.",
+   "formas": [
+    "auricula",
+    "auriculas"
+   ]
+  },
+  {
+   "palabra": "Ventrículo",
+   "definicion": "Cada una de las dos cavidades de abajo del corazón. Tienen paredes gruesas y empujan la sangre hacia afuera.",
+   "formas": [
+    "ventriculo",
+    "ventriculos"
+   ]
+  },
+  {
+   "palabra": "Válvula",
+   "definicion": "Estructura del corazón (y de algunas venas) que se abre para dejar pasar la sangre y se cierra para que no vuelva hacia atrás.",
+   "formas": [
+    "valvula",
+    "valvulas"
+   ]
+  },
+  {
+   "palabra": "Sístole",
+   "definicion": "Momento del latido en que el corazón se contrae y empuja la sangre.",
+   "formas": [
+    "sistole"
+   ]
+  },
+  {
+   "palabra": "Diástole",
+   "definicion": "Momento del latido en que el corazón se relaja y se vuelve a llenar.",
+   "formas": [
+    "diastole"
+   ]
+  },
+  {
+   "palabra": "Arteria",
+   "definicion": "Vaso que saca la sangre del corazón hacia los órganos. Tiene paredes gruesas y elásticas.",
+   "formas": [
+    "arterias"
+   ]
+  },
+  {
+   "palabra": "Vena",
+   "definicion": "Vaso que devuelve la sangre de los órganos al corazón. Algunas tienen válvulas.",
+   "formas": [
+    "venas"
+   ]
+  },
+  {
+   "palabra": "Capilar",
+   "definicion": "Vaso muy fino, de paredes delgadas, donde la sangre intercambia sustancias con las células.",
+   "formas": [
+    "capilares"
+   ]
+  },
+  {
+   "palabra": "Arteria aorta",
+   "definicion": "Arteria que sale del ventrículo izquierdo y se ramifica para llevar sangre cargada de oxígeno a todo el cuerpo.",
+   "formas": [
+    "aorta"
+   ]
+  },
+  {
+   "palabra": "Venas cavas",
+   "definicion": "Las dos venas más grandes del cuerpo. Devuelven la sangre a la aurícula derecha.",
+   "formas": [
+    "vena cava",
+    "cava",
+    "cavas"
+   ]
+  },
+  {
+   "palabra": "Arteria pulmonar",
+   "definicion": "Arteria que lleva sangre con poco oxígeno desde el ventrículo derecho hasta los pulmones.",
+   "formas": []
+  },
+  {
+   "palabra": "Venas pulmonares",
+   "definicion": "Venas que llevan sangre cargada de oxígeno desde los pulmones hasta la aurícula izquierda.",
+   "formas": [
+    "vena pulmonar"
+   ]
+  },
+  {
+   "palabra": "Circulación menor",
+   "definicion": "Circuito de la sangre que va del corazón a los pulmones y vuelve. También se llama pulmonar.",
+   "formas": [
+    "circulacion menor",
+    "circulacion pulmonar"
+   ]
+  },
+  {
+   "palabra": "Circulación mayor",
+   "definicion": "Circuito de la sangre que va del corazón a todo el cuerpo y vuelve. También se llama general.",
+   "formas": [
+    "circulacion mayor",
+    "circulacion general",
+    "circulacion sistemica"
+   ]
+  },
+  {
+   "palabra": "Plasma",
+   "definicion": "Parte líquida de la sangre: agua con nutrientes, sales y desechos disueltos.",
+   "formas": []
+  },
+  {
+   "palabra": "Glóbulos rojos",
+   "definicion": "Células de la sangre que transportan el oxígeno, unido a la hemoglobina.",
+   "formas": [
+    "globulo rojo",
+    "globulos rojos",
+    "eritrocitos"
+   ]
+  },
+  {
+   "palabra": "Glóbulos blancos",
+   "definicion": "Células de la sangre que defienden al cuerpo de los microbios.",
+   "formas": [
+    "globulo blanco",
+    "globulos blancos",
+    "leucocitos"
+   ]
+  },
+  {
+   "palabra": "Plaquetas",
+   "definicion": "Elementos de la sangre que ayudan a la coagulación: forman un tapón en las heridas.",
+   "formas": [
+    "plaqueta"
+   ]
+  },
+  {
+   "palabra": "Pulso",
+   "definicion": "Golpecitos que se sienten en una arteria cada vez que el corazón empuja la sangre.",
+   "formas": []
+  },
+  {
+   "palabra": "Excreción",
+   "definicion": "Eliminación de los desechos que producen las células, como la urea y el dióxido de carbono.",
+   "formas": [
+    "excrecion",
+    "excretar"
+   ]
+  },
+  {
+   "palabra": "Sistema excretor",
+   "definicion": "Conjunto de órganos que eliminan los desechos de las células: los riñones (con el sistema urinario), los pulmones y la piel.",
+   "formas": [
+    "excretor",
+    "sistema urinario",
+    "urinario"
+   ]
+  },
+  {
+   "palabra": "Egestión",
+   "definicion": "Salida de la materia fecal, que son restos de alimento que no entraron a las células. No es excreción.",
+   "formas": [
+    "egestion"
+   ]
+  },
+  {
+   "palabra": "Urea",
+   "definicion": "Desecho que se forma cuando el cuerpo descompone proteínas. Los riñones lo eliminan con la orina.",
+   "formas": []
+  },
+  {
+   "palabra": "Riñón",
+   "definicion": "Cada uno de los dos órganos que filtran la sangre y forman la orina. Están en la espalda, a los costados de la columna.",
+   "formas": [
+    "rinon",
+    "rinones"
+   ]
+  },
+  {
+   "palabra": "Nefrona",
+   "definicion": "Unidad microscópica del riñón que filtra la sangre y forma la orina. Cada riñón tiene alrededor de un millón.",
+   "formas": [
+    "nefronas"
+   ]
+  },
+  {
+   "palabra": "Filtrado",
+   "definicion": "Primer paso del trabajo de la nefrona: pasan de la sangre agua, sales, glucosa y urea.",
+   "formas": [
+    "filtracion",
+    "filtrar"
+   ]
+  },
+  {
+   "palabra": "Reabsorción",
+   "definicion": "Segundo paso del trabajo de la nefrona: lo que el cuerpo necesita, como la glucosa y gran parte del agua, vuelve a la sangre.",
+   "formas": [
+    "reabsorcion"
+   ]
+  },
+  {
+   "palabra": "Orina",
+   "definicion": "Líquido que forman los riñones con la urea, el agua y las sales que sobran.",
+   "formas": []
+  },
+  {
+   "palabra": "Uréter",
+   "definicion": "Cada uno de los dos tubos que llevan la orina desde los riñones hasta la vejiga.",
+   "formas": [
+    "ureter",
+    "ureteres"
+   ]
+  },
+  {
+   "palabra": "Vejiga",
+   "definicion": "Bolsa elástica que guarda la orina hasta que sale.",
+   "formas": []
+  },
+  {
+   "palabra": "Uretra",
+   "definicion": "Conducto por el que la orina sale de la vejiga al exterior.",
+   "formas": []
+  },
+  {
+   "palabra": "Sudor",
+   "definicion": "Líquido que elimina la piel, con agua, sales y algo de urea. También ayuda a bajar la temperatura.",
+   "formas": [
+    "transpiracion",
+    "transpirar",
+    "sudar"
+   ]
+  },
+  {
+   "palabra": "Diálisis",
+   "definicion": "Tratamiento en el que una máquina filtra la sangre cuando los riñones no funcionan.",
+   "formas": [
+    "dialisis"
+   ]
+  },
+  {
+   "palabra": "Hipertensión arterial",
+   "definicion": "Afección en la que la sangre empuja las paredes de las arterias con más fuerza de lo normal. Muchas veces no da síntomas.",
+   "formas": [
+    "hipertension",
+    "presion alta",
+    "presion arterial",
+    "presion"
+   ]
+  },
+  {
+   "palabra": "Anemia",
+   "definicion": "Afección en la que la sangre tiene menos glóbulos rojos o menos hemoglobina de lo normal. Llega menos oxígeno a las células.",
+   "formas": []
+  },
+  {
+   "palabra": "Infección urinaria",
+   "definicion": "Infección de la vejiga o de la uretra por bacterias. Da ardor al orinar y ganas de ir muy seguido.",
+   "formas": [
+    "infeccion urinaria"
+   ]
+  },
+  {
+   "palabra": "Sistema osteo-artro-muscular",
+   "definicion": "Sistema formado por los huesos, las articulaciones y los músculos. Sostiene el cuerpo, protege órganos y permite el movimiento.",
+   "formas": [
+    "osteoartromuscular",
+    "osteo artro muscular",
+    "locomotor",
+    "aparato locomotor"
+   ]
+  },
+  {
+   "palabra": "Esqueleto",
+   "definicion": "Conjunto de los huesos. Sostiene, protege, guarda calcio y fósforo y fabrica células de la sangre en la médula ósea roja.",
+   "formas": [
+    "esqueletos"
+   ]
+  },
+  {
+   "palabra": "Hueso",
+   "definicion": "Órgano duro formado por tejido óseo, que es un tejido vivo con células, vasos sanguíneos y nervios.",
+   "formas": [
+    "huesos",
+    "tejido oseo",
+    "oseo"
+   ]
+  },
+  {
+   "palabra": "Médula ósea",
+   "definicion": "Tejido del interior de algunos huesos. La médula ósea roja fabrica las células de la sangre.",
+   "formas": [
+    "medula osea",
+    "medula"
+   ]
+  },
+  {
+   "palabra": "Colágeno",
+   "definicion": "Proteína de la matriz del hueso que le da cierta flexibilidad.",
+   "formas": [
+    "colageno"
+   ]
+  },
+  {
+   "palabra": "Hueso compacto",
+   "definicion": "Tejido óseo macizo de la parte de afuera de los huesos.",
+   "formas": [
+    "compacto"
+   ]
+  },
+  {
+   "palabra": "Hueso esponjoso",
+   "definicion": "Tejido óseo con una trama de huecos, del interior y los extremos de los huesos.",
+   "formas": [
+    "esponjoso"
+   ]
+  },
+  {
+   "palabra": "Hueso largo",
+   "definicion": "Hueso más largo que ancho, con médula en el centro, como el fémur o el húmero.",
+   "formas": [
+    "huesos largos"
+   ]
+  },
+  {
+   "palabra": "Hueso corto",
+   "definicion": "Hueso chico, parecido a un cubo, como los de la muñeca y el tobillo.",
+   "formas": [
+    "huesos cortos"
+   ]
+  },
+  {
+   "palabra": "Hueso plano",
+   "definicion": "Hueso delgado y ancho que suele proteger órganos, como los del cráneo, las costillas y el omóplato.",
+   "formas": [
+    "huesos planos"
+   ]
+  },
+  {
+   "palabra": "Articulación",
+   "definicion": "Lugar donde se unen dos huesos o más. Puede ser inmóvil, semimóvil o móvil.",
+   "formas": [
+    "articulacion",
+    "articulaciones",
+    "coyuntura"
+   ]
+  },
+  {
+   "palabra": "Cartílago",
+   "definicion": "Tejido liso y algo elástico que cubre los extremos de los huesos en las articulaciones móviles.",
+   "formas": [
+    "cartilago",
+    "cartilagos"
+   ]
+  },
+  {
+   "palabra": "Líquido sinovial",
+   "definicion": "Líquido de las articulaciones móviles que lubrica, como el aceite en una bisagra.",
+   "formas": [
+    "liquido sinovial",
+    "sinovial"
+   ]
+  },
+  {
+   "palabra": "Ligamento",
+   "definicion": "Banda muy resistente que une un hueso con otro en una articulación.",
+   "formas": [
+    "ligamentos"
+   ]
+  },
+  {
+   "palabra": "Tendón",
+   "definicion": "Cordón resistente que une un músculo con un hueso.",
+   "formas": [
+    "tendon",
+    "tendones"
+   ]
+  },
+  {
+   "palabra": "Músculo",
+   "definicion": "Órgano formado por tejido muscular, que se contrae. Hay tres tipos: esquelético, liso y cardíaco.",
+   "formas": [
+    "musculo",
+    "musculos",
+    "tejido muscular"
+   ]
+  },
+  {
+   "palabra": "Músculo esquelético",
+   "definicion": "Tejido muscular que mueve los huesos. Tiene fibras con rayas y es voluntario.",
+   "formas": [
+    "esqueletico",
+    "musculo esqueletico",
+    "estriado"
+   ]
+  },
+  {
+   "palabra": "Músculo liso",
+   "definicion": "Tejido muscular de las paredes de órganos como el estómago y los vasos. Es involuntario.",
+   "formas": [
+    "liso",
+    "musculo liso"
+   ]
+  },
+  {
+   "palabra": "Músculo cardíaco",
+   "definicion": "Tejido muscular que forma el corazón. Tiene rayas pero es involuntario.",
+   "formas": [
+    "cardiaco",
+    "musculo cardiaco",
+    "miocardio"
+   ]
+  },
+  {
+   "palabra": "Voluntario",
+   "definicion": "Que se mueve cuando vos lo decidís, como el músculo esquelético.",
+   "formas": [
+    "voluntaria",
+    "voluntarios"
+   ]
+  },
+  {
+   "palabra": "Involuntario",
+   "definicion": "Que funciona sin que lo decidas, como el músculo liso y el cardíaco.",
+   "formas": [
+    "involuntaria",
+    "involuntarios"
+   ]
+  },
+  {
+   "palabra": "Fibra muscular",
+   "definicion": "Célula larga y fina del músculo. Se acorta cuando el músculo se contrae.",
+   "formas": [
+    "fibras musculares",
+    "fibra"
+   ]
+  },
+  {
+   "palabra": "Actina y miosina",
+   "definicion": "Proteínas de las fibras musculares que se deslizan una sobre otra y acortan el músculo.",
+   "formas": [
+    "actina",
+    "miosina"
+   ]
+  },
+  {
+   "palabra": "Contracción",
+   "definicion": "Acortamiento del músculo, que tira del hueso a través del tendón.",
+   "formas": [
+    "contraccion",
+    "contraerse",
+    "contrae"
+   ]
+  },
+  {
+   "palabra": "Músculos antagonistas",
+   "definicion": "Pares de músculos que trabajan opuestos: uno se contrae mientras el otro se relaja, como el bíceps y el tríceps.",
+   "formas": [
+    "antagonistas",
+    "antagonista"
+   ]
+  },
+  {
+   "palabra": "Bíceps",
+   "definicion": "Músculo de la parte de adelante del brazo. Al contraerse, dobla el codo.",
+   "formas": [
+    "biceps"
+   ]
+  },
+  {
+   "palabra": "Tríceps",
+   "definicion": "Músculo de la parte de atrás del brazo. Al contraerse, estira el codo.",
+   "formas": [
+    "triceps"
+   ]
+  },
+  {
+   "palabra": "Locomoción",
+   "definicion": "Movimiento que traslada todo el cuerpo de un lugar a otro, como caminar o nadar.",
+   "formas": [
+    "locomocion"
+   ]
+  },
+  {
+   "palabra": "Endoesqueleto",
+   "definicion": "Esqueleto interno de huesos, propio de los vertebrados. Crece con el animal.",
+   "formas": [
+    "endoesqueletos"
+   ]
+  },
+  {
+   "palabra": "Exoesqueleto",
+   "definicion": "Esqueleto externo de quitina, propio de los artrópodos. No crece: el animal muda.",
+   "formas": [
+    "exoesqueletos"
+   ]
+  },
+  {
+   "palabra": "Esqueleto hidrostático",
+   "definicion": "Líquido a presión dentro del cuerpo sobre el que hacen fuerza los músculos, como en la lombriz.",
+   "formas": [
+    "hidrostatico"
+   ]
+  },
+  {
+   "palabra": "Quitina",
+   "definicion": "Sustancia dura que forma el exoesqueleto de los artrópodos.",
+   "formas": []
+  },
+  {
+   "palabra": "Muda",
+   "definicion": "Cambio del exoesqueleto por uno nuevo y más grande.",
+   "formas": [
+    "mudar"
+   ]
+  },
+  {
+   "palabra": "Estructuras homólogas",
+   "definicion": "Estructuras con la misma organización de huesos y funciones distintas. Son una prueba de un antepasado común.",
+   "formas": [
+    "homologas",
+    "homologa",
+    "organos homologos"
+   ]
+  },
+  {
+   "palabra": "Estructuras análogas",
+   "definicion": "Estructuras que cumplen la misma función pero tienen distinto origen, como el ala de una mariposa y la de un ave.",
+   "formas": [
+    "analogas",
+    "analoga"
+   ]
+  },
+  {
+   "palabra": "Adaptación",
+   "definicion": "Característica que le sirve a un ser vivo para vivir en su ambiente.",
+   "formas": [
+    "adaptacion",
+    "adaptaciones"
+   ]
+  },
+  {
+   "palabra": "Húmero",
+   "definicion": "Hueso largo del brazo, entre el hombro y el codo.",
+   "formas": [
+    "humero"
+   ]
+  },
+  {
+   "palabra": "Radio y cúbito",
+   "definicion": "Los dos huesos del antebrazo, entre el codo y la muñeca.",
+   "formas": [
+    "radio",
+    "cubito"
+   ]
+  },
+  {
+   "palabra": "Sistema nervioso",
+   "definicion": "Sistema que recibe información del ambiente y del cuerpo, la procesa y elabora respuestas.",
+   "formas": [
+    "nervioso"
+   ]
+  },
+  {
+   "palabra": "Estímulo",
+   "definicion": "Cambio del ambiente o del cuerpo que puede detectarse, como la luz, un sonido o el calor.",
+   "formas": [
+    "estimulo",
+    "estimulos"
+   ]
+  },
+  {
+   "palabra": "Receptor",
+   "definicion": "Estructura que capta los estímulos, como los de la piel, los ojos o los oídos. En la sinapsis, también se llama así al lugar donde se une el neurotransmisor.",
+   "formas": [
+    "receptores"
+   ]
+  },
+  {
+   "palabra": "Efector",
+   "definicion": "Órgano que ejecuta la respuesta: los músculos y las glándulas.",
+   "formas": [
+    "efectores"
+   ]
+  },
+  {
+   "palabra": "Sistema nervioso central",
+   "definicion": "El encéfalo y la médula espinal. Recibe la información, la procesa y decide.",
+   "formas": [
+    "snc",
+    "central"
+   ]
+  },
+  {
+   "palabra": "Sistema nervioso periférico",
+   "definicion": "Los nervios y los ganglios, que conectan el sistema nervioso central con todo el cuerpo.",
+   "formas": [
+    "snp",
+    "periferico"
+   ]
+  },
+  {
+   "palabra": "Encéfalo",
+   "definicion": "Parte del sistema nervioso central que está dentro del cráneo: cerebro, cerebelo y tronco encefálico.",
+   "formas": [
+    "encefalo"
+   ]
+  },
+  {
+   "palabra": "Cerebro",
+   "definicion": "Parte del encéfalo donde se piensa, se recuerda y se deciden los movimientos voluntarios.",
+   "formas": []
+  },
+  {
+   "palabra": "Cerebelo",
+   "definicion": "Parte del encéfalo que coordina los movimientos y el equilibrio.",
+   "formas": []
+  },
+  {
+   "palabra": "Tronco encefálico",
+   "definicion": "Parte del encéfalo que controla funciones como la respiración y los latidos del corazón.",
+   "formas": [
+    "tronco encefalico",
+    "bulbo"
+   ]
+  },
+  {
+   "palabra": "Médula espinal",
+   "definicion": "Cordón nervioso que baja por dentro de la columna vertebral. Conecta el encéfalo con el cuerpo y responde en los reflejos.",
+   "formas": [
+    "medula espinal"
+   ]
+  },
+  {
+   "palabra": "Meninges",
+   "definicion": "Membranas que cubren y protegen el encéfalo y la médula espinal.",
+   "formas": [
+    "meninge"
+   ]
+  },
+  {
+   "palabra": "Nervio",
+   "definicion": "Haz de prolongaciones de neuronas que lleva mensajes entre el sistema nervioso central y el cuerpo.",
+   "formas": [
+    "nervios",
+    "nervios craneales",
+    "nervios raquideos"
+   ]
+  },
+  {
+   "palabra": "Ganglio",
+   "definicion": "Grupo de cuerpos de neuronas ubicado fuera del sistema nervioso central.",
+   "formas": [
+    "ganglios"
+   ]
+  },
+  {
+   "palabra": "Sistema nervioso autónomo",
+   "definicion": "Parte del sistema nervioso que controla lo involuntario: el corazón, la digestión, las glándulas.",
+   "formas": [
+    "autonomo",
+    "sistema autonomo"
+   ]
+  },
+  {
+   "palabra": "Simpático",
+   "definicion": "Parte del sistema autónomo que prepara el cuerpo para la acción: acelera el corazón y frena la digestión.",
+   "formas": [
+    "simpatico"
+   ]
+  },
+  {
+   "palabra": "Parasimpático",
+   "definicion": "Parte del sistema autónomo que actúa en reposo: hace más lento el corazón y activa la digestión.",
+   "formas": [
+    "parasimpatico"
+   ]
+  },
+  {
+   "palabra": "Acto reflejo",
+   "definicion": "Respuesta rápida, automática e involuntaria, que sale de la médula sin esperar al cerebro.",
+   "formas": [
+    "reflejo",
+    "reflejos"
+   ]
+  },
+  {
+   "palabra": "Arco reflejo",
+   "definicion": "Camino del mensaje en un reflejo: receptor, neurona sensitiva, médula, neurona motora y músculo.",
+   "formas": [
+    "arco"
+   ]
+  },
+  {
+   "palabra": "Neurona",
+   "definicion": "Célula del tejido nervioso que recibe y transmite mensajes.",
+   "formas": [
+    "neuronas"
+   ]
+  },
+  {
+   "palabra": "Células de la glía",
+   "definicion": "Células del tejido nervioso que sostienen, alimentan y protegen a las neuronas, y forman la mielina.",
+   "formas": [
+    "glia",
+    "neuroglia"
+   ]
+  },
+  {
+   "palabra": "Ectodermo",
+   "definicion": "Capa más externa del embrión. De ella se originan el tejido nervioso y la piel.",
+   "formas": []
+  },
+  {
+   "palabra": "Dendrita",
+   "definicion": "Prolongación corta y ramificada de la neurona que recibe los mensajes.",
+   "formas": [
+    "dendritas"
+   ]
+  },
+  {
+   "palabra": "Cuerpo celular",
+   "definicion": "Parte de la neurona que tiene el núcleo.",
+   "formas": [
+    "soma"
+   ]
+  },
+  {
+   "palabra": "Axón",
+   "definicion": "Prolongación larga de la neurona que lleva el mensaje hacia otras células.",
+   "formas": [
+    "axon",
+    "axones"
+   ]
+  },
+  {
+   "palabra": "Mielina",
+   "definicion": "Cubierta que envuelve muchos axones, los aísla y hace que el impulso viaje más rápido.",
+   "formas": [
+    "vaina de mielina"
+   ]
+  },
+  {
+   "palabra": "Neurona sensitiva",
+   "definicion": "Neurona que lleva mensajes desde los receptores hacia el sistema nervioso central.",
+   "formas": [
+    "sensitiva",
+    "sensitivas"
+   ]
+  },
+  {
+   "palabra": "Neurona motora",
+   "definicion": "Neurona que lleva órdenes desde el sistema nervioso central hacia los músculos y las glándulas.",
+   "formas": [
+    "motora",
+    "motoras"
+   ]
+  },
+  {
+   "palabra": "Neurona de asociación",
+   "definicion": "Neurona del encéfalo o la médula que conecta unas neuronas con otras.",
+   "formas": [
+    "asociacion",
+    "interneurona"
+   ]
+  },
+  {
+   "palabra": "Impulso nervioso",
+   "definicion": "Señal eléctrica que recorre la neurona, desde las dendritas hasta el axón.",
+   "formas": [
+    "impulso",
+    "impulsos"
+   ]
+  },
+  {
+   "palabra": "Sinapsis",
+   "definicion": "Zona de comunicación entre una neurona y otra célula, donde el mensaje pasa con neurotransmisores.",
+   "formas": [
+    "sinapsis"
+   ]
+  },
+  {
+   "palabra": "Neurotransmisor",
+   "definicion": "Sustancia química que lleva el mensaje a través del espacio sináptico.",
+   "formas": [
+    "neurotransmisores"
+   ]
+  },
+  {
+   "palabra": "Dopamina",
+   "definicion": "Neurotransmisor que participa en el movimiento y en la sensación de placer.",
+   "formas": []
+  },
+  {
+   "palabra": "Sistema de recompensa",
+   "definicion": "Circuito del encéfalo que libera dopamina ante lo agradable y hace que se quiera repetir.",
+   "formas": [
+    "recompensa"
+   ]
+  },
+  {
+   "palabra": "Consumo problemático",
+   "definicion": "Consumo, con o sin sustancias, que afecta la salud física o psíquica o las relaciones de una persona.",
+   "formas": [
+    "consumos problematicos",
+    "consumo problematico"
+   ]
+  },
+  {
+   "palabra": "Tolerancia",
+   "definicion": "Cuando el encéfalo se acostumbra y hace falta más para sentir lo mismo.",
+   "formas": []
+  },
+  {
+   "palabra": "Abstinencia",
+   "definicion": "Malestar físico o emocional que aparece cuando falta la sustancia o la conducta.",
+   "formas": []
+  },
+  {
+   "palabra": "Dependencia",
+   "definicion": "Sentir que no se puede dejar algo, aunque se quiera y aunque haga daño.",
+   "formas": []
+  },
+  {
+   "palabra": "Adicción",
+   "definicion": "Dependencia fuerte y duradera a una sustancia o a una conducta.",
+   "formas": [
+    "adiccion",
+    "adicciones"
+   ]
+  },
+  {
+   "palabra": "Sistema endocrino",
+   "definicion": "Sistema formado por las glándulas endocrinas, que coordinan el cuerpo con hormonas.",
+   "formas": [
+    "endocrino"
+   ]
+  },
+  {
+   "palabra": "Hormona",
+   "definicion": "Sustancia que fabrica una glándula endocrina y viaja por la sangre hasta sus órganos blanco.",
+   "formas": [
+    "hormonas"
+   ]
+  },
+  {
+   "palabra": "Glándula endocrina",
+   "definicion": "Glándula que vuelca sus hormonas a la sangre, como la tiroides.",
+   "formas": [
+    "glandulas endocrinas",
+    "endocrina"
+   ]
+  },
+  {
+   "palabra": "Glándula exocrina",
+   "definicion": "Glándula que vuelca lo que fabrica por un conducto, hacia afuera o hacia una cavidad, como las salivales.",
+   "formas": [
+    "exocrina",
+    "exocrinas"
+   ]
+  },
+  {
+   "palabra": "Órgano blanco",
+   "definicion": "Órgano cuyas células tienen receptores para una hormona y responden a ella.",
+   "formas": [
+    "organo blanco",
+    "organos blanco"
+   ]
+  },
+  {
+   "palabra": "Hipotálamo",
+   "definicion": "Parte del encéfalo que fabrica hormonas y controla la hipófisis. Une el sistema nervioso y el endocrino.",
+   "formas": [
+    "hipotalamo"
+   ]
+  },
+  {
+   "palabra": "Hipófisis",
+   "definicion": "Glándula del tamaño de un garbanzo, debajo del hipotálamo, que controla otras glándulas y fabrica la hormona del crecimiento.",
+   "formas": [
+    "hipofisis",
+    "pituitaria"
+   ]
+  },
+  {
+   "palabra": "Tiroides",
+   "definicion": "Glándula del cuello que fabrica las hormonas tiroideas, que regulan el uso de la energía. Necesita yodo.",
+   "formas": [
+    "tiroide",
+    "hormonas tiroideas"
+   ]
+  },
+  {
+   "palabra": "Suprarrenales",
+   "definicion": "Glándulas ubicadas sobre los riñones que fabrican adrenalina y cortisol.",
+   "formas": [
+    "suprarrenal",
+    "adrenales"
+   ]
+  },
+  {
+   "palabra": "Adrenalina",
+   "definicion": "Hormona de las suprarrenales que prepara el cuerpo ante un peligro.",
+   "formas": [
+    "epinefrina"
+   ]
+  },
+  {
+   "palabra": "Insulina",
+   "definicion": "Hormona del páncreas que baja la glucosa de la sangre.",
+   "formas": []
+  },
+  {
+   "palabra": "Glucagón",
+   "definicion": "Hormona del páncreas que sube la glucosa de la sangre.",
+   "formas": [
+    "glucagon"
+   ]
+  },
+  {
+   "palabra": "Glucógeno",
+   "definicion": "Forma en que el hígado guarda la glucosa.",
+   "formas": [
+    "glucogeno"
+   ]
+  },
+  {
+   "palabra": "Glucemia",
+   "definicion": "Cantidad de glucosa en la sangre.",
+   "formas": [
+    "glucosa en sangre"
+   ]
+  },
+  {
+   "palabra": "Retroalimentación negativa",
+   "definicion": "Mecanismo en el que la respuesta va en contra del cambio que la provocó, como un termostato.",
+   "formas": [
+    "retroalimentacion",
+    "feedback"
+   ]
+  },
+  {
+   "palabra": "Diabetes",
+   "definicion": "Enfermedad en la que la glucosa de la sangre queda alta. En la tipo 1 falta insulina; en la tipo 2, las células no responden bien a ella.",
+   "formas": [
+    "diabetes tipo 1",
+    "diabetes tipo 2"
+   ]
+  },
+  {
+   "palabra": "Bocio",
+   "definicion": "Crecimiento de la tiroides, que puede producirse por falta de yodo.",
+   "formas": []
+  },
+  {
+   "palabra": "Yodo",
+   "definicion": "Mineral que la tiroides necesita. Por ley, se agrega a la sal que se vende para consumo.",
+   "formas": [
+    "iodo"
+   ]
+  },
+  {
+   "palabra": "Estrógenos",
+   "definicion": "Hormonas que fabrican los ovarios.",
+   "formas": [
+    "estrogeno",
+    "progesterona"
+   ]
+  },
+  {
+   "palabra": "Testosterona",
+   "definicion": "Hormona que fabrican los testículos.",
+   "formas": []
+  },
+  {
+   "palabra": "Coordinación neuroendocrina",
+   "definicion": "Trabajo conjunto del sistema nervioso y el endocrino, que se unen en el hipotálamo.",
+   "formas": [
+    "neuroendocrino",
+    "neuroendocrina"
+   ]
+  },
+  {
+   "palabra": "Metamorfosis",
+   "definicion": "Transformación del renacuajo en rana, desencadenada por las hormonas tiroideas.",
+   "formas": []
+  },
+  {
+   "palabra": "Renacuajo",
+   "definicion": "Larva de la rana: vive en el agua, respira con branquias y tiene cola.",
+   "formas": []
+  }
+ ],
+ "temas": [
+  {
+   "id": "bio-4-01-c1-1",
+   "clase": "bio-4-01",
+   "capsula": "c1",
+   "boton": "Los bioelementos",
+   "otra_manera": "Los seres vivos están hechos de elementos químicos, y usan sobre todo unos pocos. Los seis principales son carbono, hidrógeno, oxígeno, nitrógeno, fósforo y azufre. Hay otros que hacen falta en menor cantidad (secundarios) y otros en cantidades muy pequeñas (oligoelementos), como el hierro y el yodo.",
+   "vida_real": "Es como una receta: hay ingredientes que van en cantidad, otros en poca cantidad y otros apenas una pizca, pero la receta no sale bien si falta alguno.",
+   "claves": [
+    "bioelementos",
+    "bioelemento",
+    "oligoelementos"
+   ],
+   "parte": "De qué estamos hechos: bioelementos y biomoléculas"
+  },
+  {
+   "id": "bio-4-01-c1-2",
+   "clase": "bio-4-01",
+   "capsula": "c1",
+   "boton": "Biomoléculas orgánicas e inorgánicas",
+   "otra_manera": "Los bioelementos se combinan y forman biomoléculas. Las inorgánicas son el agua y las sales minerales. Las orgánicas son los glúcidos, los lípidos, las proteínas y los ácidos nucleicos, y todas tienen carbono.",
+   "vida_real": "Pensalo como dos cajones: en uno guardás lo que no tiene carbono (agua y sales) y en el otro, las cuatro biomoléculas con carbono.",
+   "claves": [
+    "biomoleculas",
+    "organicas",
+    "inorganicas"
+   ],
+   "parte": "De qué estamos hechos: bioelementos y biomoléculas"
+  },
+  {
+   "id": "bio-4-01-c1-3",
+   "clase": "bio-4-01",
+   "capsula": "c1",
+   "boton": "Qué hace cada biomolécula",
+   "otra_manera": "El agua disuelve y transporta. Los glúcidos dan energía de uso inmediato. Los lípidos guardan energía a largo plazo. Las proteínas dan estructura, transportan, defienden y, como enzimas, aceleran reacciones. Los ácidos nucleicos guardan la información genética.",
+   "vida_real": "Es como repartir tareas en un equipo: cada grupo de biomoléculas tiene la suya.",
+   "claves": [
+    "funcion",
+    "glucidos",
+    "lipidos",
+    "proteinas"
+   ],
+   "parte": "De qué estamos hechos: bioelementos y biomoléculas"
+  },
+  {
+   "id": "bio-4-01-c1-4",
+   "clase": "bio-4-01",
+   "capsula": "c1",
+   "boton": "Proteínas y aminoácidos",
+   "otra_manera": "Las proteínas se arman uniendo aminoácidos. Las células combinan 20 aminoácidos distintos, en cadenas de distinto largo y orden, y así obtienen miles de proteínas diferentes.",
+   "vida_real": "Con las letras del abecedario se escriben miles de palabras. Con los aminoácidos pasa algo parecido: cambia cuáles se usan y en qué orden.",
+   "claves": [
+    "proteinas",
+    "aminoacidos",
+    "enzimas"
+   ],
+   "parte": "De qué estamos hechos: bioelementos y biomoléculas"
+  },
+  {
+   "id": "bio-4-01-c2-1",
+   "clase": "bio-4-01",
+   "capsula": "c2",
+   "boton": "Un organismo es un sistema abierto",
+   "otra_manera": "Un sistema abierto intercambia materia y energía con su entorno. Un organismo toma alimentos, agua y oxígeno, y devuelve dióxido de carbono, desechos y calor.",
+   "vida_real": "Pensá en una canilla con la pileta destapada: entra y sale agua todo el tiempo. Un organismo también recibe y devuelve cosas sin parar.",
+   "claves": [
+    "sistema abierto",
+    "intercambio",
+    "materia y energia"
+   ],
+   "parte": "Un sistema abierto: materia, energía y medio interno"
+  },
+  {
+   "id": "bio-4-01-c2-2",
+   "clase": "bio-4-01",
+   "capsula": "c2",
+   "boton": "El medio interno",
+   "otra_manera": "Las células están rodeadas de líquido. Ese líquido y la parte líquida de la sangre forman el medio interno: de ahí las células toman lo que necesitan y ahí dejan sus desechos.",
+   "vida_real": "Es como el agua de una pecera: los peces viven en ella, toman lo que necesitan y dejan sus desechos. Las células viven en el medio interno.",
+   "claves": [
+    "medio interno"
+   ],
+   "parte": "Un sistema abierto: materia, energía y medio interno"
+  },
+  {
+   "id": "bio-4-01-c2-3",
+   "clase": "bio-4-01",
+   "capsula": "c2",
+   "boton": "La homeostasis y sus cuatro pasos",
+   "otra_manera": "Cuando algo se aleja de lo normal, el organismo sigue cuatro pasos: cambia algo, el cuerpo lo detecta, responde y vuelve al equilibrio. Así mantiene estable su medio interno.",
+   "vida_real": "Es como el termostato de una estufa: cuando la habitación se calienta de más, la estufa se apaga, y cuando se enfría, se enciende.",
+   "claves": [
+    "homeostasis",
+    "equilibrio",
+    "ciclo"
+   ],
+   "parte": "Un sistema abierto: materia, energía y medio interno"
+  },
+  {
+   "id": "bio-4-01-c3-1",
+   "clase": "bio-4-01",
+   "capsula": "c3",
+   "boton": "Metabolismo",
+   "otra_manera": "El metabolismo reúne todas las reacciones químicas de las células. Tiene dos partes: el catabolismo, que descompone y libera energía, y el anabolismo, que construye y gasta energía.",
+   "vida_real": "Pensá en una casa en obra: a veces se demuele una pared y se obtienen ladrillos (catabolismo) y a veces se usan ladrillos para levantar otra (anabolismo).",
+   "claves": [
+    "metabolismo"
+   ],
+   "parte": "Metabolismo: construir y descomponer"
+  },
+  {
+   "id": "bio-4-01-c3-2",
+   "clase": "bio-4-01",
+   "capsula": "c3",
+   "boton": "Catabolismo y anabolismo",
+   "otra_manera": "El catabolismo descompone moléculas grandes en otras más chicas y libera energía. El anabolismo hace lo contrario: arma moléculas grandes y gasta energía. Una célula necesita las dos cosas.",
+   "vida_real": "Descomponer es como romper una torre de bloques para tener piezas sueltas; construir es usar las piezas para armar otra cosa.",
+   "claves": [
+    "catabolismo",
+    "anabolismo"
+   ],
+   "parte": "Metabolismo: construir y descomponer"
+  },
+  {
+   "id": "bio-4-01-c3-3",
+   "clase": "bio-4-01",
+   "capsula": "c3",
+   "boton": "El ATP",
+   "otra_manera": "El ATP es la molécula donde se guarda la energía que libera el catabolismo. La célula la usa cuando la necesita, por ejemplo para armar proteínas.",
+   "vida_real": "Funciona como una pila recargable: se carga con la energía del catabolismo y se descarga cuando la célula la usa.",
+   "claves": [
+    "atp"
+   ],
+   "parte": "Metabolismo: construir y descomponer"
+  },
+  {
+   "id": "bio-4-01-c3-4",
+   "clase": "bio-4-01",
+   "capsula": "c3",
+   "boton": "Glucólisis y respiración celular",
+   "otra_manera": "En la glucólisis, que ocurre en el citoplasma, la glucosa se parte en moléculas más chicas y se libera un poco de energía. Después, con oxígeno, la respiración celular termina de descomponerlas en las mitocondrias y libera mucha más energía. Se producen dióxido de carbono y agua.",
+   "vida_real": "Es como una cascada de dos escalones: en el primero cae un poco de agua y en el segundo, mucha más.",
+   "claves": [
+    "glucolisis",
+    "respiracion celular",
+    "mitocondrias"
+   ],
+   "parte": "Metabolismo: construir y descomponer"
+  },
+  {
+   "id": "bio-4-01-c3-5",
+   "clase": "bio-4-01",
+   "capsula": "c3",
+   "boton": "Biosíntesis de proteínas",
+   "otra_manera": "La información está en el ADN. Se copia en ARN (transcripción) y el ARN llega a un ribosoma, que une aminoácidos en el orden que indica (traducción). Es anabolismo: se arma una proteína y se gasta energía.",
+   "vida_real": "Es como copiar una receta de un libro en una hoja (transcripción) y llevarla a la cocina, donde se cocina el plato (traducción).",
+   "claves": [
+    "biosintesis",
+    "transcripcion",
+    "traduccion",
+    "ribosoma"
+   ],
+   "parte": "Metabolismo: construir y descomponer"
+  },
+  {
+   "id": "bio-4-02-c1-1",
+   "clase": "bio-4-02",
+   "capsula": "c1",
+   "boton": "Qué es la nutrición",
+   "otra_manera": "Nutrirse es conseguir materia y energía, transformarlas y usarlas para crecer, repararse y seguir vivo. También es eliminar lo que sobra. Todos los seres vivos lo hacen, pero de maneras distintas.",
+   "vida_real": "Es como mantener una casa: entran cosas (compras, energía), se usan y salen otras (la basura).",
+   "claves": [
+    "nutricion"
+   ],
+   "parte": "Cómo se nutren los seres vivos"
+  },
+  {
+   "id": "bio-4-02-c1-2",
+   "clase": "bio-4-02",
+   "capsula": "c1",
+   "boton": "Autótrofos y fotosíntesis",
+   "otra_manera": "Los autótrofos fabrican su propia materia orgánica. Las plantas usan la luz para armar glucosa con agua y dióxido de carbono: es la fotosíntesis, que además libera oxígeno. Después, con la glucosa y las sales minerales del suelo, arman el resto de sus moléculas.",
+   "vida_real": "Es como una panadería que hace su propio pan: no necesita comprarlo hecho.",
+   "claves": [
+    "autotrofos",
+    "fotosintesis"
+   ],
+   "parte": "Cómo se nutren los seres vivos"
+  },
+  {
+   "id": "bio-4-02-c1-3",
+   "clase": "bio-4-02",
+   "capsula": "c1",
+   "boton": "Heterótrofos: animales y hongos",
+   "otra_manera": "Los heterótrofos toman la materia orgánica de otros seres vivos. Los animales la comen y la digieren adentro; los hongos la digieren afuera y la absorben.",
+   "vida_real": "Quien compra el pan no lo fabrica: lo toma ya hecho. Así hacen los heterótrofos.",
+   "claves": [
+    "heterotrofos",
+    "hongos",
+    "animales"
+   ],
+   "parte": "Cómo se nutren los seres vivos"
+  },
+  {
+   "id": "bio-4-02-c2-1",
+   "clase": "bio-4-02",
+   "capsula": "c2",
+   "boton": "Alimento y nutriente",
+   "otra_manera": "El alimento es lo que comés. Los nutrientes son las sustancias que hay adentro y que el cuerpo usa: glúcidos, lípidos, proteínas, vitaminas, minerales y agua.",
+   "vida_real": "Un alimento es como una caja y los nutrientes son lo que trae adentro.",
+   "claves": [
+    "alimento",
+    "nutriente"
+   ],
+   "parte": "Los nutrientes y su función"
+  },
+  {
+   "id": "bio-4-02-c2-2",
+   "clase": "bio-4-02",
+   "capsula": "c2",
+   "boton": "Los tres grupos de nutrientes",
+   "otra_manera": "Los energéticos (glúcidos y lípidos) dan energía. Los estructurales (proteínas) forman y reparan los tejidos. Los reguladores (vitaminas y minerales) hacen que el cuerpo funcione bien.",
+   "vida_real": "En una obra, el combustible son los energéticos, los ladrillos son los estructurales y quien coordina son los reguladores.",
+   "claves": [
+    "energeticos",
+    "estructurales",
+    "reguladores"
+   ],
+   "parte": "Los nutrientes y su función"
+  },
+  {
+   "id": "bio-4-02-c2-3",
+   "clase": "bio-4-02",
+   "capsula": "c2",
+   "boton": "El agua",
+   "otra_manera": "El agua no da energía, pero es la mayor parte del cuerpo: transporta sustancias y ayuda a mantener estable la temperatura.",
+   "vida_real": "Es como el camino por el que viajan todas las cosas dentro del cuerpo.",
+   "claves": [
+    "agua"
+   ],
+   "parte": "Los nutrientes y su función"
+  },
+  {
+   "id": "bio-4-02-c3-1",
+   "clase": "bio-4-02",
+   "capsula": "c3",
+   "boton": "Alimentación y nutrición",
+   "otra_manera": "La alimentación es voluntaria: elegir, preparar y comer. La nutrición empieza cuando el alimento entra a la boca, y casi todo ocurre sin que lo decidas: digestión, transporte, uso en las células y eliminación de desechos.",
+   "vida_real": "Elegir qué cargar en la mochila es como la alimentación; lo que pasa con eso dentro del cuerpo es la nutrición.",
+   "claves": [
+    "alimentacion",
+    "nutricion"
+   ],
+   "parte": "Alimentación y nutrición"
+  },
+  {
+   "id": "bio-4-02-c3-2",
+   "clase": "bio-4-02",
+   "capsula": "c3",
+   "boton": "Los cuatro sistemas de la nutrición",
+   "otra_manera": "El digestivo parte los nutrientes en unidades más chicas, el circulatorio los lleva por la sangre, el respiratorio aporta el oxígeno que usan las células y el excretor saca los desechos.",
+   "vida_real": "Es como una cadena de reparto: uno prepara, otro transporta, otro entrega lo necesario y otro se lleva lo que sobra.",
+   "claves": [
+    "sistemas",
+    "digestivo",
+    "circulatorio",
+    "excretor"
+   ],
+   "parte": "Alimentación y nutrición"
+  },
+  {
+   "id": "bio-4-02-c3-3",
+   "clase": "bio-4-02",
+   "capsula": "c3",
+   "boton": "Trastornos de la conducta alimentaria",
+   "otra_manera": "Son problemas de salud en los que se altera la relación con la comida y con el propio cuerpo. No son una elección, pueden afectar a cualquier persona y se tratan con equipos de salud. Si te pasa a vos o a alguien que conocés, hablalo con un persona adulta de confianza.",
+   "vida_real": "Igual que con cualquier otro problema de salud, pedir ayuda a tiempo es lo que más sirve.",
+   "claves": [
+    "trastornos",
+    "anorexia",
+    "bulimia"
+   ],
+   "parte": "Alimentación y nutrición"
+  },
+  {
+   "id": "bio-4-03-c1-1",
+   "clase": "bio-4-03",
+   "capsula": "c1",
+   "boton": "Tubo digestivo y glándulas anexas",
+   "otra_manera": "El alimento pasa por un tubo: boca, faringe, esófago, estómago, intestino delgado, intestino grueso y ano. Al costado están las glándulas salivales, el hígado y el páncreas, que vuelcan sus jugos en el tubo.",
+   "vida_real": "Es como una línea de montaje: el producto pasa por la cinta (el tubo) y desde los costados le agregan cosas (las glándulas).",
+   "claves": [
+    "tubo",
+    "glandulas",
+    "organos"
+   ],
+   "parte": "El sistema digestivo"
+  },
+  {
+   "id": "bio-4-03-c1-2",
+   "clase": "bio-4-03",
+   "capsula": "c1",
+   "boton": "Digestión mecánica y química",
+   "otra_manera": "La mecánica parte el alimento en pedazos (masticar, mezclar). La química la hacen las enzimas, que parten las moléculas grandes en otras más chicas.",
+   "vida_real": "Cortar un collar en tramos es mecánico; soltar las cuentas una por una se parece a lo que hacen las enzimas con las moléculas grandes.",
+   "claves": [
+    "digestion",
+    "mecanica",
+    "quimica",
+    "enzimas"
+   ],
+   "parte": "El sistema digestivo"
+  },
+  {
+   "id": "bio-4-03-c1-3",
+   "clase": "bio-4-03",
+   "capsula": "c1",
+   "boton": "La absorción en el intestino delgado",
+   "otra_manera": "Cuando termina la digestión, los nutrientes atraviesan la pared del intestino delgado y pasan a la sangre. Las vellosidades aumentan mucho la superficie para que entren más.",
+   "vida_real": "Es como una toalla con muchos pelitos: absorbe más que una tela lisa del mismo tamaño.",
+   "claves": [
+    "absorcion",
+    "vellosidades",
+    "intestino delgado"
+   ],
+   "parte": "El sistema digestivo"
+  },
+  {
+   "id": "bio-4-03-c2-1",
+   "clase": "bio-4-03",
+   "capsula": "c2",
+   "boton": "El camino del aire",
+   "otra_manera": "Fosas nasales, faringe, laringe, tráquea, bronquios, bronquiolos y alvéolos. Las vías se ramifican cada vez más, como un árbol dado vuelta.",
+   "vida_real": "Es como un árbol al revés: el tronco es la tráquea, las ramas son los bronquios y las hojas, los alvéolos.",
+   "claves": [
+    "camino del aire",
+    "vias respiratorias",
+    "traquea",
+    "bronquios"
+   ],
+   "parte": "El sistema respiratorio"
+  },
+  {
+   "id": "bio-4-03-c2-2",
+   "clase": "bio-4-03",
+   "capsula": "c2",
+   "boton": "El intercambio gaseoso",
+   "otra_manera": "En los alvéolos, rodeados de capilares, el oxígeno pasa a la sangre y el dióxido de carbono sale de la sangre al aire. Pasan porque las paredes son muy delgadas.",
+   "vida_real": "Es como un puesto de canje: entra oxígeno y sale dióxido de carbono, al mismo tiempo.",
+   "claves": [
+    "intercambio",
+    "alveolos",
+    "oxigeno"
+   ],
+   "parte": "El sistema respiratorio"
+  },
+  {
+   "id": "bio-4-03-c2-3",
+   "clase": "bio-4-03",
+   "capsula": "c2",
+   "boton": "Inspiración y espiración",
+   "otra_manera": "En la inspiración, el diafragma se contrae y baja, el tórax se agranda y entra aire. En la espiración, el diafragma sube, el tórax se achica y el aire sale.",
+   "vida_real": "Funciona como el émbolo de una jeringa: cuando baja, entra aire; cuando sube, sale.",
+   "claves": [
+    "inspiracion",
+    "espiracion",
+    "diafragma"
+   ],
+   "parte": "El sistema respiratorio"
+  },
+  {
+   "id": "bio-4-03-c3-1",
+   "clase": "bio-4-03",
+   "capsula": "c3",
+   "boton": "Normal y patológico",
+   "otra_manera": "Normal es cuando los órganos cumplen su tarea. Patológico es cuando una enfermedad la altera: si falla la absorción faltan nutrientes; si los bronquios se cierran llega menos aire.",
+   "vida_real": "Es como una cadena de reparto: si un eslabón falla, lo que sigue también se complica.",
+   "claves": [
+    "patologico",
+    "normal",
+    "enfermedad"
+   ],
+   "parte": "Cuando algo no funciona bien"
+  },
+  {
+   "id": "bio-4-03-c3-2",
+   "clase": "bio-4-03",
+   "capsula": "c3",
+   "boton": "Afecciones del sistema digestivo",
+   "otra_manera": "Con la diarrea se pierden agua y sales. En la gastritis se inflama el estómago por dentro. En la enfermedad celíaca, el gluten provoca una reacción de las defensas que daña las vellosidades del intestino delgado, y se absorben mal los nutrientes.",
+   "vida_real": "Cada afección es una tarea del sistema que no se cumple bien: absorber agua, proteger el estómago o absorber nutrientes.",
+   "claves": [
+    "diarrea",
+    "gastritis",
+    "celiaca"
+   ],
+   "parte": "Cuando algo no funciona bien"
+  },
+  {
+   "id": "bio-4-03-c3-3",
+   "clase": "bio-4-03",
+   "capsula": "c3",
+   "boton": "Afecciones del sistema respiratorio",
+   "otra_manera": "En el asma los bronquios se estrechan. En la bronquitis se inflaman los bronquios, y en la neumonía se infectan los alvéolos; casi siempre las causan virus o bacterias. El humo del tabaco daña las vías y los alvéolos, también a quienes están cerca.",
+   "vida_real": "Si el camino del aire se angosta o se llena de obstáculos, llega menos aire a destino.",
+   "claves": [
+    "asma",
+    "neumonia",
+    "tabaco"
+   ],
+   "parte": "Cuando algo no funciona bien"
+  },
+  {
+   "id": "bio-4-04-c1-1",
+   "clase": "bio-4-04",
+   "capsula": "c1",
+   "boton": "El corazón por dentro",
+   "otra_manera": "El corazón tiene cuatro cavidades: arriba, dos aurículas que reciben la sangre; abajo, dos ventrículos que la empujan. El lado derecho lleva sangre con poco oxígeno y el izquierdo, sangre cargada de oxígeno. Las válvulas no la dejan volver.",
+   "vida_real": "Es como una casa de dos pisos con dos departamentos separados: arriba se recibe y abajo se despacha, y los vecinos no se mezclan.",
+   "claves": [
+    "corazon",
+    "auriculas",
+    "ventriculos",
+    "valvulas"
+   ],
+   "parte": "El sistema circulatorio"
+  },
+  {
+   "id": "bio-4-04-c1-2",
+   "clase": "bio-4-04",
+   "capsula": "c1",
+   "boton": "Arterias, venas y capilares",
+   "otra_manera": "Las arterias sacan la sangre del corazón; las venas la devuelven; los capilares, muy finos, están entre las dos y ahí se hace el intercambio con las células.",
+   "vida_real": "Son como las rutas de ida, las de vuelta y las calles de barrio donde se entrega cada pedido.",
+   "claves": [
+    "arterias",
+    "venas",
+    "capilares"
+   ],
+   "parte": "El sistema circulatorio"
+  },
+  {
+   "id": "bio-4-04-c1-3",
+   "clase": "bio-4-04",
+   "capsula": "c1",
+   "boton": "Circulación menor y mayor",
+   "otra_manera": "La menor va del corazón a los pulmones y vuelve: la sangre carga oxígeno. La mayor va del corazón a todo el cuerpo y vuelve: reparte el oxígeno y recoge el dióxido de carbono.",
+   "vida_real": "Es una terminal de colectivos con dos líneas: una corta hasta los pulmones y una larga por todo el cuerpo.",
+   "claves": [
+    "circulacion menor",
+    "circulacion mayor",
+    "doble"
+   ],
+   "parte": "El sistema circulatorio"
+  },
+  {
+   "id": "bio-4-04-c2-1",
+   "clase": "bio-4-04",
+   "capsula": "c2",
+   "boton": "Qué es la excreción",
+   "otra_manera": "Excretar es sacar los desechos que producen las células: el dióxido de carbono sale por los pulmones, el sudor por la piel y la urea por los riñones. La materia fecal no es excreción.",
+   "vida_real": "Es como sacar la basura que se junta en la casa, que no es lo mismo que tirar la comida que ni se abrió.",
+   "claves": [
+    "excrecion",
+    "urea",
+    "egestion"
+   ],
+   "parte": "El sistema excretor"
+  },
+  {
+   "id": "bio-4-04-c2-2",
+   "clase": "bio-4-04",
+   "capsula": "c2",
+   "boton": "Cómo se forma la orina",
+   "otra_manera": "En las nefronas, primero se filtra la sangre y después vuelve a ella lo que sirve, como la glucosa y gran parte del agua. Lo que queda es la orina, que baja por los uréteres a la vejiga y sale por la uretra.",
+   "vida_real": "Es como vaciar la mochila y volver a guardar lo que vas a usar: lo que queda afuera va a la basura.",
+   "claves": [
+    "nefrona",
+    "filtrado",
+    "reabsorcion",
+    "orina"
+   ],
+   "parte": "El sistema excretor"
+  },
+  {
+   "id": "bio-4-04-c2-3",
+   "clase": "bio-4-04",
+   "capsula": "c2",
+   "boton": "Los riñones y el agua",
+   "otra_manera": "Si tomaste poca agua, los riñones devuelven más a la sangre y la orina sale poca y oscura. Si tomaste mucha, sale abundante y clara. Así mantienen estable el medio interno.",
+   "vida_real": "Es como una canilla que se abre o se cierra según cuánta agua haya en el tanque.",
+   "claves": [
+    "homeostasis",
+    "agua",
+    "orina"
+   ],
+   "parte": "El sistema excretor"
+  },
+  {
+   "id": "bio-4-04-c3-1",
+   "clase": "bio-4-04",
+   "capsula": "c3",
+   "boton": "Los cuatro sistemas juntos",
+   "otra_manera": "El digestivo y el respiratorio hacen entrar nutrientes y oxígeno a la sangre, el circulatorio los lleva a cada célula y se lleva los desechos, y el excretor los saca del cuerpo. Así se mantiene la homeostasis.",
+   "vida_real": "Es como un equipo: si uno deja de pasar la pelota, el resto no puede jugar.",
+   "claves": [
+    "sistemas",
+    "homeostasis",
+    "integracion"
+   ],
+   "parte": "Cuatro sistemas, un trabajo"
+  },
+  {
+   "id": "bio-4-04-c3-2",
+   "clase": "bio-4-04",
+   "capsula": "c3",
+   "boton": "Qué pasa cuando corrés",
+   "otra_manera": "Los músculos usan más glucosa y oxígeno y producen más dióxido de carbono y calor. Respirás más rápido, el corazón late más fuerte, transpirás y los riñones ahorran agua.",
+   "vida_real": "Es una fila de fichas de dominó: cada cambio empuja al siguiente.",
+   "claves": [
+    "ejercicio",
+    "cadena"
+   ],
+   "parte": "Cuatro sistemas, un trabajo"
+  },
+  {
+   "id": "bio-4-04-c3-3",
+   "clase": "bio-4-04",
+   "capsula": "c3",
+   "boton": "Afecciones del circulatorio y del excretor",
+   "otra_manera": "En la hipertensión arterial la sangre empuja las arterias con más fuerza; muchas veces no da síntomas. En la anemia hay menos glóbulos rojos o hemoglobina y llega menos oxígeno. En la infección urinaria, bacterias infectan la vejiga o la uretra.",
+   "vida_real": "Cada afección es una tarea que no se cumple bien: empujar la sangre, llevar oxígeno o sacar la orina sin problemas.",
+   "claves": [
+    "hipertension",
+    "anemia",
+    "infeccion urinaria"
+   ],
+   "parte": "Cuatro sistemas, un trabajo"
+  },
+  {
+   "id": "bio-4-05-c1-1",
+   "clase": "bio-4-05",
+   "capsula": "c1",
+   "boton": "De qué está hecho un hueso",
+   "otra_manera": "El hueso es tejido vivo. Su matriz tiene colágeno, que le da flexibilidad, y sales de calcio y fósforo, que le dan dureza. Por fuera es compacto y por dentro, esponjoso.",
+   "vida_real": "Es como el hormigón armado: el hierro aguanta sin quebrarse y el cemento le da dureza.",
+   "claves": [
+    "hueso",
+    "colageno",
+    "calcio"
+   ],
+   "parte": "Huesos y articulaciones"
+  },
+  {
+   "id": "bio-4-05-c1-2",
+   "clase": "bio-4-05",
+   "capsula": "c1",
+   "boton": "Tipos de huesos",
+   "otra_manera": "Por su forma, los huesos son largos (fémur, húmero), cortos (los de la muñeca) o planos (cráneo, costillas, omóplato).",
+   "vida_real": "Pensá en las herramientas: hay barras largas para hacer palanca, piezas chicas para articular y placas para proteger.",
+   "claves": [
+    "largo",
+    "corto",
+    "plano"
+   ],
+   "parte": "Huesos y articulaciones"
+  },
+  {
+   "id": "bio-4-05-c1-3",
+   "clase": "bio-4-05",
+   "capsula": "c1",
+   "boton": "Las articulaciones",
+   "otra_manera": "Son las uniones entre huesos. Pueden ser inmóviles (cráneo), semimóviles (vértebras) o móviles (rodilla, codo). En las móviles hay cartílago, líquido sinovial, una envoltura y ligamentos.",
+   "vida_real": "Una articulación móvil es como una bisagra bien aceitada: el cartílago es la superficie lisa y el líquido sinovial, el aceite.",
+   "claves": [
+    "articulacion",
+    "cartilago",
+    "ligamento"
+   ],
+   "parte": "Huesos y articulaciones"
+  },
+  {
+   "id": "bio-4-05-c2-1",
+   "clase": "bio-4-05",
+   "capsula": "c2",
+   "boton": "Tipos de tejido muscular",
+   "otra_manera": "El esquelético mueve los huesos y es voluntario. El liso está en las paredes de los órganos y es involuntario. El cardíaco forma el corazón y también es involuntario.",
+   "vida_real": "El esquelético obedece tus órdenes; el liso y el cardíaco trabajan solos, como un piloto automático.",
+   "claves": [
+    "esqueletico",
+    "liso",
+    "cardiaco"
+   ],
+   "parte": "Músculos y movimiento"
+  },
+  {
+   "id": "bio-4-05-c2-2",
+   "clase": "bio-4-05",
+   "capsula": "c2",
+   "boton": "Cómo se contrae un músculo",
+   "otra_manera": "En las fibras musculares, la actina y la miosina se deslizan y acortan la fibra, gastando ATP. El músculo tira del tendón, y el tendón del hueso.",
+   "vida_real": "Es como un equipo que tira de una soga: cada uno avanza un poco y la soga se acorta.",
+   "claves": [
+    "contraccion",
+    "actina",
+    "miosina",
+    "tendon"
+   ],
+   "parte": "Músculos y movimiento"
+  },
+  {
+   "id": "bio-4-05-c2-3",
+   "clase": "bio-4-05",
+   "capsula": "c2",
+   "boton": "Músculos antagonistas",
+   "otra_manera": "Los músculos solo tiran. Por eso trabajan en pares: para doblar el codo se contrae el bíceps y se relaja el tríceps; para estirarlo, al revés.",
+   "vida_real": "Es como abrir y cerrar una puerta con dos sogas, una de cada lado: con una sola, no podrías volver.",
+   "claves": [
+    "antagonistas",
+    "biceps",
+    "triceps"
+   ],
+   "parte": "Músculos y movimiento"
+  },
+  {
+   "id": "bio-4-05-c3-1",
+   "clase": "bio-4-05",
+   "capsula": "c3",
+   "boton": "Tipos de esqueleto",
+   "otra_manera": "El endoesqueleto es interno, de huesos (vertebrados). El exoesqueleto es externo, de quitina (artrópodos), y obliga a mudar. El hidrostático es un líquido a presión (lombriz).",
+   "vida_real": "El exoesqueleto es como una armadura que no se agranda: cuando quedás chico, tenés que cambiarla.",
+   "claves": [
+    "endoesqueleto",
+    "exoesqueleto",
+    "hidrostatico"
+   ],
+   "parte": "Comparar esqueletos"
+  },
+  {
+   "id": "bio-4-05-c3-2",
+   "clase": "bio-4-05",
+   "capsula": "c3",
+   "boton": "Estructuras homólogas",
+   "otra_manera": "El brazo de una persona, la pata de un perro, el ala de un ave y la aleta de una ballena tienen los mismos huesos con distinta forma. Eso indica un antepasado común.",
+   "vida_real": "Es como la misma receta de base que cada familia adaptó a su gusto: se nota que vienen de la misma abuela.",
+   "claves": [
+    "homologas",
+    "antepasado comun"
+   ],
+   "parte": "Comparar esqueletos"
+  },
+  {
+   "id": "bio-4-05-c3-3",
+   "clase": "bio-4-05",
+   "capsula": "c3",
+   "boton": "Homólogas y análogas",
+   "otra_manera": "Las homólogas tienen la misma organización y distinta función. Las análogas tienen la misma función y distinto origen, como el ala de una mariposa y la de un ave.",
+   "vida_real": "Dos llaves que abren la misma puerta pueden estar hechas distinto: eso es analogía.",
+   "claves": [
+    "analogas",
+    "homologas"
+   ],
+   "parte": "Comparar esqueletos"
+  },
+  {
+   "id": "bio-4-06-c1-1",
+   "clase": "bio-4-06",
+   "capsula": "c1",
+   "boton": "Central y periférico",
+   "otra_manera": "El central (encéfalo y médula) recibe, procesa y decide. El periférico (nervios y ganglios) lleva los mensajes entre el centro y todo el cuerpo.",
+   "vida_real": "Es como una central de operaciones y los cables que la conectan con cada rincón de la casa.",
+   "claves": [
+    "central",
+    "periferico",
+    "encefalo"
+   ],
+   "parte": "Cómo se organiza el sistema nervioso"
+  },
+  {
+   "id": "bio-4-06-c1-2",
+   "clase": "bio-4-06",
+   "capsula": "c1",
+   "boton": "Simpático y parasimpático",
+   "otra_manera": "Son las dos partes del sistema autónomo. El simpático prepara para la acción (corazón rápido, digestión frenada); el parasimpático actúa en reposo.",
+   "vida_real": "Uno es el acelerador y el otro, el freno.",
+   "claves": [
+    "simpatico",
+    "parasimpatico",
+    "autonomo"
+   ],
+   "parte": "Cómo se organiza el sistema nervioso"
+  },
+  {
+   "id": "bio-4-06-c1-3",
+   "clase": "bio-4-06",
+   "capsula": "c1",
+   "boton": "El arco reflejo",
+   "otra_manera": "Receptor, neurona sensitiva, médula (neurona de asociación), neurona motora y músculo. La respuesta sale de la médula, sin esperar al cerebro.",
+   "vida_real": "Es como un atajo: la médula responde primero y después avisa.",
+   "claves": [
+    "reflejo",
+    "arco"
+   ],
+   "parte": "Cómo se organiza el sistema nervioso"
+  },
+  {
+   "id": "bio-4-06-c2-1",
+   "clase": "bio-4-06",
+   "capsula": "c2",
+   "boton": "Las partes de la neurona",
+   "otra_manera": "Las dendritas reciben, el cuerpo celular tiene el núcleo y el axón lleva el mensaje. La mielina aísla el axón y acelera el impulso.",
+   "vida_real": "Las dendritas son las antenas; el axón, el cable; la mielina, el plástico que lo cubre.",
+   "claves": [
+    "neurona",
+    "axon",
+    "dendrita",
+    "mielina"
+   ],
+   "parte": "Neuronas e impulso nervioso"
+  },
+  {
+   "id": "bio-4-06-c2-2",
+   "clase": "bio-4-06",
+   "capsula": "c2",
+   "boton": "Tipos de neuronas",
+   "otra_manera": "Sensitivas: de los receptores al centro. Motoras: del centro a los músculos. De asociación: conectan neuronas dentro del encéfalo y la médula.",
+   "vida_real": "Mensajero que trae, mensajero que lleva, y quien los conecta en el medio.",
+   "claves": [
+    "sensitiva",
+    "motora",
+    "asociacion"
+   ],
+   "parte": "Neuronas e impulso nervioso"
+  },
+  {
+   "id": "bio-4-06-c2-3",
+   "clase": "bio-4-06",
+   "capsula": "c2",
+   "boton": "La sinapsis",
+   "otra_manera": "Llega el impulso, se liberan neurotransmisores, se unen a los receptores de la neurona siguiente y nace un nuevo impulso.",
+   "vida_real": "Como pasar un mensaje en un papelito a alguien que está del otro lado de una zanja.",
+   "claves": [
+    "sinapsis",
+    "neurotransmisor"
+   ],
+   "parte": "Neuronas e impulso nervioso"
+  },
+  {
+   "id": "bio-4-06-c3-1",
+   "clase": "bio-4-06",
+   "capsula": "c3",
+   "boton": "El sistema de recompensa",
+   "otra_manera": "Es un circuito del encéfalo que libera dopamina ante lo agradable. Algunas sustancias y conductas lo activan con mucha fuerza.",
+   "vida_real": "Es como un aplauso interno que te dice \"hacelo de nuevo\".",
+   "claves": [
+    "recompensa",
+    "dopamina"
+   ],
+   "parte": "Consumos problemáticos"
+  },
+  {
+   "id": "bio-4-06-c3-2",
+   "clase": "bio-4-06",
+   "capsula": "c3",
+   "boton": "Consumo problemático",
+   "otra_manera": "Es un consumo, con o sin sustancias, que afecta la salud o las relaciones. Puede ser con alcohol, tabaco u otras drogas, o con apuestas, tecnología o compras.",
+   "vida_real": "No importa tanto qué se consume, sino cómo afecta la vida de la persona.",
+   "claves": [
+    "consumo problematico",
+    "adiccion"
+   ],
+   "parte": "Consumos problemáticos"
+  },
+  {
+   "id": "bio-4-06-c3-3",
+   "clase": "bio-4-06",
+   "capsula": "c3",
+   "boton": "Tolerancia, abstinencia y dependencia",
+   "otra_manera": "Tolerancia: hace falta más. Abstinencia: malestar cuando falta. Dependencia: sentir que no se puede dejar.",
+   "vida_real": "Pensalo como una escalera que conviene no seguir subiendo, y en la que siempre se puede pedir ayuda: Línea 141.",
+   "claves": [
+    "tolerancia",
+    "abstinencia",
+    "dependencia"
+   ],
+   "parte": "Consumos problemáticos"
+  },
+  {
+   "id": "bio-4-07-c1-1",
+   "clase": "bio-4-07",
+   "capsula": "c1",
+   "boton": "Hormonas y órganos blanco",
+   "otra_manera": "Las glándulas endocrinas vuelcan hormonas a la sangre. Llegan a todo el cuerpo, pero solo responden las células con el receptor.",
+   "vida_real": "Es como una radio: todos reciben la señal, pero solo escucha quien sintoniza esa frecuencia.",
+   "claves": [
+    "hormona",
+    "organo blanco",
+    "receptor"
+   ],
+   "parte": "Hormonas y glándulas"
+  },
+  {
+   "id": "bio-4-07-c1-2",
+   "clase": "bio-4-07",
+   "capsula": "c1",
+   "boton": "Las principales glándulas",
+   "otra_manera": "Hipotálamo e hipófisis (controlan), tiroides (energía, yodo), suprarrenales (adrenalina), páncreas (insulina y glucagón), ovarios y testículos (hormonas sexuales).",
+   "vida_real": "Pensá en un mapa del cuerpo de arriba abajo: cabeza, cuello, sobre los riñones, abdomen y pelvis.",
+   "claves": [
+    "hipofisis",
+    "tiroides",
+    "suprarrenales"
+   ],
+   "parte": "Hormonas y glándulas"
+  },
+  {
+   "id": "bio-4-07-c1-3",
+   "clase": "bio-4-07",
+   "capsula": "c1",
+   "boton": "Nervioso y endocrino",
+   "otra_manera": "El nervioso es rápido, preciso y de efecto breve. El endocrino es más lento, llega a muchos órganos y su efecto dura más.",
+   "vida_real": "El nervioso es un mensaje de texto a una persona; el endocrino, un anuncio por altoparlante que dura un rato.",
+   "claves": [
+    "nervioso",
+    "endocrino"
+   ],
+   "parte": "Hormonas y glándulas"
+  },
+  {
+   "id": "bio-4-07-c2-1",
+   "clase": "bio-4-07",
+   "capsula": "c2",
+   "boton": "Insulina y glucagón",
+   "otra_manera": "Si la glucosa sube, el páncreas libera insulina y la baja. Si baja, libera glucagón y el hígado suelta glucosa.",
+   "vida_real": "Uno es el freno y el otro, el acelerador de la glucosa.",
+   "claves": [
+    "insulina",
+    "glucagon",
+    "glucemia"
+   ],
+   "parte": "El equilibrio y sus desequilibrios"
+  },
+  {
+   "id": "bio-4-07-c2-2",
+   "clase": "bio-4-07",
+   "capsula": "c2",
+   "boton": "Retroalimentación negativa",
+   "otra_manera": "La respuesta va en contra del cambio que la provocó, y así lo corrige.",
+   "vida_real": "Como un termostato: si hace frío prende la estufa, y cuando se calienta la casa, la apaga.",
+   "claves": [
+    "retroalimentacion"
+   ],
+   "parte": "El equilibrio y sus desequilibrios"
+  },
+  {
+   "id": "bio-4-07-c2-3",
+   "clase": "bio-4-07",
+   "capsula": "c2",
+   "boton": "Diabetes y bocio",
+   "otra_manera": "Diabetes tipo 1: falta insulina. Tipo 2: las células no responden bien. Bocio: la tiroides crece por falta de yodo; por eso la sal tiene yodo por ley desde 1967.",
+   "vida_real": "En la diabetes falla la llave (insulina) o la cerradura (la célula).",
+   "claves": [
+    "diabetes",
+    "bocio",
+    "yodo"
+   ],
+   "parte": "El equilibrio y sus desequilibrios"
+  },
+  {
+   "id": "bio-4-07-c3-1",
+   "clase": "bio-4-07",
+   "capsula": "c3",
+   "boton": "El hipotálamo",
+   "otra_manera": "Es parte del encéfalo y fabrica hormonas. Controla la hipófisis, que estimula a otras glándulas.",
+   "vida_real": "Es el puente entre la central de mensajes rápidos y la de mensajes por la sangre.",
+   "claves": [
+    "hipotalamo",
+    "neuroendocrina"
+   ],
+   "parte": "Nervios y hormonas juntos"
+  },
+  {
+   "id": "bio-4-07-c3-2",
+   "clase": "bio-4-07",
+   "capsula": "c3",
+   "boton": "La cadena de órdenes",
+   "otra_manera": "Hipotálamo, hipófisis, tiroides, hormonas tiroideas y órganos. Cuando hay suficientes hormonas, la orden se frena.",
+   "vida_real": "Como una cadena de mando en la que el último avisa \"ya está\" y el primero deja de pedir.",
+   "claves": [
+    "hipofisis",
+    "tiroides",
+    "retroalimentacion"
+   ],
+   "parte": "Nervios y hormonas juntos"
+  },
+  {
+   "id": "bio-4-07-c3-3",
+   "clase": "bio-4-07",
+   "capsula": "c3",
+   "boton": "La metamorfosis",
+   "otra_manera": "En el renacuajo, las hormonas tiroideas hacen que se reabsorba la cola, crezcan las patas y los pulmones reemplacen a las branquias.",
+   "vida_real": "Las hormonas son la señal de largada de la transformación.",
+   "claves": [
+    "metamorfosis",
+    "renacuajo"
+   ],
+   "parte": "Nervios y hormonas juntos"
+  }
+ ]
+}

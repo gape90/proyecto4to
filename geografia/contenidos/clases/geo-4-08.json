@@ -1,0 +1,1035 @@
+{
+ "id": "geo-4-08",
+ "espacio": "geografia",
+ "eje": "La circulación de las producciones",
+ "titulo": "La especialización productiva de la Unión Europea",
+ "intro": "Veintisiete países de Europa forman un mercado común donde se puede vender sin fronteras interiores. Vas a ver qué es la Unión Europea, por qué cada país se especializó en ciertas producciones y qué cambió dentro de cada uno.",
+ "objetivos": [
+  "Explicar qué es la Unión Europea y qué es un mercado común.",
+  "Describir la especialización productiva de algunos países de la UE.",
+  "Analizar los efectos de la especialización dentro de cada país y el debate sobre la PAC."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: qué es la UE y cómo se formó, la especialización productiva de varios países, el caso del Ruhr y el debate sobre la Política Agrícola Común.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Un mercado sin fronteras interiores",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Una pregunta para arrancar",
+     "texto": "Imaginá que un camión con queso de Francia pudiera llegar a Alemania sin que nadie lo revise en la frontera, sin pagar impuestos por cruzarla y cobrando en la misma moneda. ¿Qué cambiaría para los productores de cada país?"
+    },
+    {
+     "t": "texto",
+     "titulo": "Qué es la Unión Europea",
+     "texto": "La **Unión Europea (UE)** es una unión de 27 países de Europa que comparten un **mercado común**: dentro de ella circulan libremente las **mercancías**, los **servicios**, las **personas** y los **capitales**, como si fuera un solo país. Tiene instituciones propias, como la Comisión Europea, con sede en Bruselas (Bélgica).\n\nMuchos de sus miembros usan una moneda común, el **euro**. Desde el 1 de enero de 2026, con la incorporación de Bulgaria, son 21 los países que lo usan."
+    },
+    {
+     "t": "linea",
+     "titulo": "Cómo se formó",
+     "eventos": [
+      {
+       "anio": "1957",
+       "titulo": "Tratado de Roma",
+       "texto": "Seis países (Alemania Occidental, Francia, Italia, Bélgica, Países Bajos y Luxemburgo) crean la Comunidad Económica Europea."
+      },
+      {
+       "anio": "1993",
+       "titulo": "Nace la Unión Europea",
+       "texto": "Entra en vigor el Tratado de Maastricht y el grupo pasa a llamarse Unión Europea."
+      },
+      {
+       "anio": "2002",
+       "titulo": "Billetes y monedas de euro",
+       "texto": "El euro empieza a circular en efectivo en los países que lo adoptaron."
+      },
+      {
+       "anio": "2020",
+       "titulo": "Sale el Reino Unido",
+       "texto": "El Reino Unido deja la Unión Europea, que queda con 27 miembros."
+      }
+     ]
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-08-berlaymont.jpg",
+     "tipo": "foto",
+     "alt": "Un gran edificio de oficinas de vidrio y metal, con forma curva, frente a una plaza con bancos de madera; a la izquierda flamean banderas azules.",
+     "epigrafe": "El edificio Berlaymont, sede de la Comisión Europea, en Bruselas (Bélgica), en 2019.",
+     "fuente": "Foto: Daniel from Glasgow, CC BY 2.0, vía Wikimedia Commons. Imagen reducida.",
+     "animacion": "recorrer"
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "La **Unión Europea** une a **27 países** en un **mercado común**, donde circulan libremente mercancías, servicios, personas y capitales. Nació en **1957** como Comunidad Económica Europea, con seis países, y tomó su nombre actual en **1993**. Veintiún países usan el **euro**."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená estos hechos del más antiguo al más reciente. Si no te acordás, mirá la línea de tiempo.",
+     "items": [
+      "Se firma el Tratado de Roma",
+      "Nace la Unión Europea",
+      "Empiezan a circular los billetes de euro",
+      "Sale el Reino Unido"
+     ],
+     "explicacion": "1957, 1993, 2002 y 2020.",
+     "pista": "Los años están en la línea de tiempo."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada concepto con su significado.",
+     "pares": [
+      {
+       "a": "Mercado común",
+       "b": "Mercancías, servicios, personas y capitales circulan libremente"
+      },
+      {
+       "a": "Euro",
+       "b": "Moneda común de 21 países de la UE"
+      },
+      {
+       "a": "Comisión Europea",
+       "b": "Institución de la UE con sede en Bruselas"
+      },
+      {
+       "a": "Tratado de Roma",
+       "b": "Acuerdo de 1957 que creó la Comunidad Económica Europea"
+      }
+     ],
+     "explicacion": "Son las piezas básicas para entender la Unión Europea.",
+     "pista": "Releé el texto sobre qué es la Unión Europea y la línea de tiempo."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "La Unión Europea tiene [[27]] países. En su mercado [[común]] circulan libremente mercancías, servicios, personas y [[capitales]]. Nació en 1957 con [[seis]] países.",
+     "distractores": [
+      "28",
+      "cerrado",
+      "ocho"
+     ],
+     "explicacion": "Así se resume qué es la UE y cómo empezó.",
+     "pista": "Releé el recuadro \"Para recordar\"."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🔍 Encontrá el error",
+     "pregunta": "Cuatro frases sobre la Unión Europea; una tiene un error. ¿Cuál es?",
+     "opciones": [
+      "La Comisión Europea tiene sede en Bruselas.",
+      "El Reino Unido sigue siendo miembro de la UE.",
+      "El euro empezó a circular en efectivo en 2002.",
+      "Bulgaria adoptó el euro en 2026."
+     ],
+     "correcta": 1,
+     "explicacion": "El Reino Unido dejó la Unión Europea en 2020.",
+     "pista": "Revisá el último hecho de la línea de tiempo."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué países que se enfrentaron en guerras durante siglos decidieron, en 1957, formar un mercado común?",
+     "respuesta": "Después de la Segunda Guerra Mundial, muchos dirigentes europeos pensaron que, si sus economías dependían unas de otras, sería mucho más difícil volver a enfrentarse. Un mercado común también les permitía vender más y competir mejor con las grandes economías del mundo."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es la Unión Europea y qué es un mercado común. Contá en orden cómo se formó, usando la línea de tiempo.",
+    "guia": [
+     "¿Cuántos países forman la UE?",
+     "¿Qué circula libremente en el mercado común?",
+     "¿Qué pasó en 1957 y quiénes participaron?",
+     "¿Cuándo tomó el nombre de Unión Europea?",
+     "¿Qué es el euro y cuántos países lo usan?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La Unión Europea tiene 27 países.",
+     "respuesta": true,
+     "explicacion": "Desde la salida del Reino Unido, en 2020."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el mercado común solo circulan mercancías.",
+     "respuesta": false,
+     "explicacion": "También servicios, personas y capitales."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El Tratado de Roma se firmó en 1957.",
+     "respuesta": true,
+     "explicacion": "Creó la Comunidad Económica Europea."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Todos los países de la UE usan el euro.",
+     "respuesta": false,
+     "explicacion": "Lo usan 21 de los 27."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La Comisión Europea tiene sede en Bruselas.",
+     "respuesta": true,
+     "explicacion": "En el edificio Berlaymont."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El nombre Unión Europea se usa desde 1993.",
+     "respuesta": true,
+     "explicacion": "Con el Tratado de Maastricht."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuántos países firmaron el Tratado de Roma?",
+     "opciones": [
+      "Seis",
+      "Doce",
+      "Veintisiete",
+      "Tres"
+     ],
+     "correcta": 0,
+     "explicacion": "Alemania Occidental, Francia, Italia, Bélgica, Países Bajos y Luxemburgo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué país dejó la UE en 2020?",
+     "opciones": [
+      "Francia",
+      "Reino Unido",
+      "Alemania",
+      "España"
+     ],
+     "correcta": 1,
+     "explicacion": "El Reino Unido."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué país adoptó el euro el 1 de enero de 2026?",
+     "opciones": [
+      "Grecia",
+      "Italia",
+      "Bulgaria",
+      "Suecia"
+     ],
+     "correcta": 2,
+     "explicacion": "Bulgaria, el número 21."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es un mercado común?",
+     "opciones": [
+      "Un mercado de frutas",
+      "Un espacio donde circulan libremente mercancías, servicios, personas y capitales",
+      "Una moneda",
+      "Un edificio"
+     ],
+     "correcta": 1,
+     "explicacion": "Funciona como si fuera un solo país."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué ciudad está el Berlaymont?",
+     "opciones": [
+      "París",
+      "Berlín",
+      "Roma",
+      "Bruselas"
+     ],
+     "correcta": 3,
+     "explicacion": "Es la sede de la Comisión Europea."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuándo empezaron a circular los billetes de euro?",
+     "opciones": [
+      "1957",
+      "1993",
+      "2002",
+      "2020"
+     ],
+     "correcta": 2,
+     "explicacion": "En 2002."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "EURO",
+     "pista": "Moneda común de 21 países de la UE."
+    },
+    {
+     "palabra": "BRUSELAS",
+     "pista": "Ciudad sede de la Comisión Europea."
+    },
+    {
+     "palabra": "TRATADO",
+     "pista": "Acuerdo firmado entre países."
+    },
+    {
+     "palabra": "MERCADO",
+     "pista": "El \"común\" no tiene fronteras interiores."
+    },
+    {
+     "palabra": "BULGARIA",
+     "pista": "País que adoptó el euro en 2026."
+    },
+    {
+     "palabra": "MAASTRICHT",
+     "pista": "Tratado con el que nació la Unión Europea."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué permite el mercado común de la UE?",
+     "opciones": [
+      "Que cada país cierre sus fronteras",
+      "Que mercancías, servicios, personas y capitales circulen libremente",
+      "Que todos produzcan lo mismo",
+      "Que no haya comercio"
+     ],
+     "correcta": 1,
+     "explicacion": "Funciona como un solo país."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo empezó la Unión Europea?",
+     "opciones": [
+      "Con 27 países en 2020",
+      "Con seis países que formaron la Comunidad Económica Europea en 1957",
+      "Con el euro en 2002",
+      "Con el Reino Unido solo"
+     ],
+     "correcta": 1,
+     "explicacion": "Creció con los años."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué cambió en 2020?",
+     "opciones": [
+      "Nació la UE",
+      "Llegó el euro",
+      "Salió el Reino Unido y la UE quedó con 27 miembros",
+      "Se firmó el Tratado de Roma"
+     ],
+     "correcta": 2,
+     "explicacion": "Fue la salida del Reino Unido."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Cada país, su especialidad",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Qué es especializarse",
+     "texto": "En un mercado común, cada país puede vender sin trabas a todos los demás. Por eso conviene **especializarse**: dedicarse a producir lo que hace mejor o más barato, y comprarles a los otros lo demás. Así, dentro de la Unión Europea, cada economía fue concentrándose en ciertas actividades. A eso se lo llama **especialización productiva**."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Algunas especialidades de los países de la UE",
+     "columnas": [
+      "País",
+      "Especialidad",
+      "Sector"
+     ],
+     "filas": [
+      [
+       "Alemania",
+       "Autos, maquinaria y productos químicos",
+       "Industria"
+      ],
+      [
+       "Países Bajos",
+       "Hortalizas y flores en invernaderos",
+       "Agro"
+      ],
+      [
+       "Francia",
+       "Aviones, trigo y vinos",
+       "Industria y agro"
+      ],
+      [
+       "España",
+       "Aceite de oliva y turismo",
+       "Agro y servicios"
+      ],
+      [
+       "Irlanda",
+       "Medicamentos y empresas de tecnología",
+       "Industria y servicios"
+      ]
+     ]
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-08-volkswagen-1960.jpg",
+     "tipo": "foto",
+     "alt": "Interior de una fábrica: carrocerías de autos pequeños y redondeados cuelgan de una línea de montaje y bajan hasta los chasis, mientras algunos trabajadores las ajustan.",
+     "epigrafe": "La línea de montaje de Volkswagen en Wolfsburgo (Alemania), en 1960, pocos años después del Tratado de Roma. La industria automotriz sigue siendo una de las especialidades alemanas.",
+     "fuente": "Foto: Roger Wollstadt, CC BY-SA 2.0, vía Wikimedia Commons.",
+     "animacion": "acercar"
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-08-invernaderos.jpg",
+     "tipo": "foto",
+     "alt": "Un invernadero de vidrio muy largo junto a un canal donde flotan barcas; el vidrio se refleja en el agua.",
+     "epigrafe": "Invernaderos en Poeldijk (Países Bajos), en 2021. En un país chico, con poca tierra, la producción bajo vidrio permite cultivar todo el año.",
+     "fuente": "Foto: Michielverbeek, CC BY-SA 4.0, vía Wikimedia Commons. Imagen reducida.",
+     "animacion": "alejar"
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "En un mercado común conviene **especializarse**: producir lo que cada país hace mejor y comprar lo demás. Por eso dentro de la UE hay **especialización productiva**: Alemania en autos y maquinaria, Países Bajos en invernaderos, Francia en aviones y alimentos, España en aceite de oliva y turismo."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿A qué sector pertenece cada actividad? Si no te acordás, mirá la tabla.",
+     "categorias": [
+      "Industria",
+      "Agro",
+      "Servicios"
+     ],
+     "items": [
+      {
+       "texto": "Fabricar autos en Alemania",
+       "cat": "Industria"
+      },
+      {
+       "texto": "Cultivar flores en invernaderos de Países Bajos",
+       "cat": "Agro"
+      },
+      {
+       "texto": "Recibir turistas en España",
+       "cat": "Servicios"
+      },
+      {
+       "texto": "Fabricar aviones en Francia",
+       "cat": "Industria"
+      },
+      {
+       "texto": "Producir aceite de oliva en España",
+       "cat": "Agro"
+      }
+     ],
+     "explicacion": "Cada país combina sectores distintos según su especialidad.",
+     "pista": "Fijate en la última columna de la tabla."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Completá el dato: según la tabla, ¿qué país de la UE se especializa en hortalizas y flores en invernaderos?",
+     "respuesta": "Países Bajos",
+     "acepta": [
+      "paises bajos",
+      "países bajos",
+      "holanda"
+     ],
+     "explicacion": "Los Países Bajos, como muestra la foto de Poeldijk.",
+     "pista1": "Buscalo en la tabla de especialidades.",
+     "pista": "Es el país de la foto de los invernaderos."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🗣️ ¿Quién lo diría?",
+     "pregunta": "La frase es inventada: \"Nuestros autos se venden en toda Europa sin pagar impuestos al cruzar las fronteras\". ¿Quién la diría?",
+     "opciones": [
+      "Un productor de flores de Países Bajos",
+      "Un dueño de un hotel en España",
+      "Un empresario automotriz de Alemania",
+      "Un productor de vino de Francia"
+     ],
+     "correcta": 2,
+     "explicacion": "La industria automotriz es una especialidad alemana que aprovecha el mercado común.",
+     "pista": "Buscá en la tabla qué país se especializa en autos."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "Especializarse significa producir de todo un poco.",
+       "v": false,
+       "explicacion": "Significa concentrarse en lo que cada país hace mejor."
+      },
+      {
+       "texto": "Francia se especializa en aviones, trigo y vinos.",
+       "v": true,
+       "explicacion": "Combina industria y agro."
+      },
+      {
+       "texto": "La foto de Volkswagen es de 2020.",
+       "v": false,
+       "explicacion": "Es de 1960."
+      },
+      {
+       "texto": "Los invernaderos permiten cultivar todo el año en un país con poca tierra.",
+       "v": true,
+       "explicacion": "Lo dice el epígrafe de la foto de Poeldijk."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: si cada país se especializa, ¿qué pasa con las actividades que deja de hacer?",
+     "respuesta": "Las compra a otros países del mercado común. Eso puede abaratar los productos, pero también puede hacer que cierren fábricas o campos que no pueden competir, y que la gente que trabajaba allí tenga que cambiar de empleo o mudarse. Eso es lo que vas a ver en la parte siguiente."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es la especialización productiva y por qué un mercado común la favorece. Describí la especialidad de al menos tres países de la UE.",
+    "guia": [
+     "¿Qué significa especializarse?",
+     "¿Por qué el mercado común favorece la especialización?",
+     "¿En qué se especializan Alemania, Países Bajos y Francia?",
+     "¿Qué muestran las fotos de Wolfsburgo y Poeldijk?",
+     "¿Qué pasa con las actividades que un país deja de hacer?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Alemania se especializa en autos y maquinaria.",
+     "respuesta": true,
+     "explicacion": "Es una de sus especialidades industriales."
+    },
+    {
+     "tipo": "vf",
+     "texto": "España se especializa en aceite de oliva y turismo.",
+     "respuesta": true,
+     "explicacion": "Combina agro y servicios."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los Países Bajos se especializan en petróleo.",
+     "respuesta": false,
+     "explicacion": "Se especializan en hortalizas y flores en invernaderos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La especialización productiva consiste en producir lo que cada país hace mejor.",
+     "respuesta": true,
+     "explicacion": "Y comprar lo demás."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Irlanda se especializa en medicamentos y empresas de tecnología.",
+     "respuesta": true,
+     "explicacion": "Industria y servicios."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El turismo es parte del sector industria.",
+     "respuesta": false,
+     "explicacion": "Es parte de los servicios."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la especialización productiva?",
+     "opciones": [
+      "Producir de todo",
+      "Concentrarse en lo que cada país hace mejor",
+      "Cerrar todas las fábricas",
+      "Prohibir el comercio"
+     ],
+     "correcta": 1,
+     "explicacion": "Y comprar lo demás a otros países."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué se especializa Francia?",
+     "opciones": [
+      "Aviones, trigo y vinos",
+      "Soja y carne",
+      "Petróleo",
+      "Arroz"
+     ],
+     "correcta": 0,
+     "explicacion": "Combina industria y agro."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde está la fábrica de la foto de 1960?",
+     "opciones": [
+      "París",
+      "Madrid",
+      "Wolfsburgo",
+      "Bruselas"
+     ],
+     "correcta": 2,
+     "explicacion": "En Alemania."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué el mercado común favorece la especialización?",
+     "opciones": [
+      "Porque se puede vender sin trabas a todos los demás países",
+      "Porque prohíbe importar",
+      "Porque cada país produce todo",
+      "Porque no hay comercio"
+     ],
+     "correcta": 0,
+     "explicacion": "El mercado es más grande."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿A qué sector pertenece el turismo?",
+     "opciones": [
+      "Industria",
+      "Agro",
+      "Servicios",
+      "Minería"
+     ],
+     "correcta": 2,
+     "explicacion": "Es un servicio."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué permite la producción bajo vidrio?",
+     "opciones": [
+      "Cultivar todo el año en poca tierra",
+      "Fabricar autos",
+      "Extraer petróleo",
+      "Pescar"
+     ],
+     "correcta": 0,
+     "explicacion": "Como en los Países Bajos."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "ESPECIALIZACIÓN",
+     "pista": "Concentrarse en lo que cada país produce mejor."
+    },
+    {
+     "palabra": "INVERNADERO",
+     "pista": "Construcción de vidrio para cultivar todo el año."
+    },
+    {
+     "palabra": "WOLFSBURGO",
+     "pista": "Ciudad alemana de la fábrica de la foto."
+    },
+    {
+     "palabra": "INDUSTRIA",
+     "pista": "Sector que fabrica bienes."
+    },
+    {
+     "palabra": "SERVICIOS",
+     "pista": "Sector que incluye el turismo."
+    },
+    {
+     "palabra": "OLIVA",
+     "pista": "Fruto del aceite que produce España."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué conviene especializarse dentro de un mercado común?",
+     "opciones": [
+      "Porque se puede vender a todos y comprar lo demás sin trabas",
+      "Porque está prohibido producir otras cosas",
+      "Porque así no hay comercio",
+      "Porque lo exige el euro"
+     ],
+     "correcta": 0,
+     "explicacion": "El mercado común lo facilita."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué muestra la tabla de especialidades?",
+     "opciones": [
+      "Que todos los países producen lo mismo",
+      "Que cada país se concentra en actividades distintas",
+      "Que solo Alemania produce",
+      "Que no hay agro en Europa"
+     ],
+     "correcta": 1,
+     "explicacion": "Es la especialización productiva."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué riesgo tiene la especialización para las actividades que un país deja de hacer?",
+     "opciones": [
+      "Ninguno",
+      "Que cierren fábricas o campos que no pueden competir",
+      "Que aumenten sus ventas",
+      "Que se vuelvan más importantes"
+     ],
+     "correcta": 1,
+     "explicacion": "Es lo que se ve en la parte siguiente."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Lo que cambia dentro de cada país",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Regiones que ganan y regiones que pierden",
+     "texto": "La especialización no afecta igual a todo un país. Dentro de cada Estado hay **regiones** que crecen, porque producen lo que el mercado común compra, y otras que pierden, porque sus actividades ya no pueden competir. Esas diferencias se llaman **desequilibrios regionales**.\n\nCuando una región pierde su actividad principal, tiene que buscar otra: a ese proceso se lo llama **reconversión productiva**."
+    },
+    {
+     "t": "pasos",
+     "titulo": "Un caso: la cuenca del Ruhr, en Alemania",
+     "pasos": [
+      {
+       "titulo": "Una región de carbón y acero",
+       "texto": "Durante más de un siglo, el Ruhr fue la gran región minera e industrial de Alemania: minas de carbón y fábricas de acero."
+      },
+      {
+       "titulo": "La crisis",
+       "texto": "Con el tiempo, el carbón de otros lugares resultó más barato y se usaron otras fuentes de energía. Las minas y las acerías fueron cerrando."
+      },
+      {
+       "titulo": "El último pozo",
+       "texto": "En diciembre de 2018 cerró la última mina de carbón de hulla de Alemania, en Bottrop, en el Ruhr."
+      },
+      {
+       "titulo": "La reconversión",
+       "texto": "La región se volcó a los servicios, las universidades, la tecnología y la cultura. Muchas instalaciones mineras se convirtieron en museos y centros culturales."
+      }
+     ]
+    },
+    {
+     "t": "texto",
+     "titulo": "Políticas para equilibrar",
+     "texto": "La Unión Europea tiene una **política de cohesión**: destina fondos a las regiones menos desarrolladas para construir rutas, capacitar trabajadores o apoyar empresas, y así achicar las diferencias.\n\nTambién tiene, desde 1962, la **Política Agrícola Común (PAC)**, que da apoyo económico a los productores rurales europeos."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Un debate que llega a la Argentina: la Política Agrícola Común",
+     "columnas": [
+      "Quienes la defienden",
+      "Quienes la critican"
+     ],
+     "filas": [
+      [
+       "Protege a los productores rurales europeos y sus ingresos",
+       "Hace que los alimentos europeos compitan con ventaja frente a otros países"
+      ],
+      [
+       "Asegura que Europa produzca sus propios alimentos",
+       "Les quita mercados a países exportadores de alimentos, como la Argentina"
+      ],
+      [
+       "Mantiene población en el campo",
+       "Gran parte de los fondos va a productores grandes"
+      ]
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "La especialización genera **desequilibrios regionales**: regiones que ganan y regiones que pierden. Las que pierden su actividad pasan por una **reconversión productiva**, como el **Ruhr**. La UE intenta achicar las diferencias con la **política de cohesión**, y apoya al agro con la **PAC**, que tiene defensores y críticos."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los pasos del caso del Ruhr.",
+     "items": [
+      "Fue una gran región de carbón y acero",
+      "Las minas y las acerías fueron cerrando",
+      "Cerró la última mina de carbón, en 2018",
+      "La región se volcó a los servicios, la tecnología y la cultura"
+     ],
+     "explicacion": "Es un ejemplo de reconversión productiva.",
+     "pista": "Seguí los pasos del caso de la cuenca del Ruhr."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "📰 Elegí el titular",
+     "pregunta": "Es diciembre de 2018. ¿Qué titular podría aparecer en un diario alemán?",
+     "opciones": [
+      "\"Se firma el Tratado de Roma\"",
+      "\"Cierra la última mina de carbón del país, en el Ruhr\"",
+      "\"El Reino Unido deja la UE\"",
+      "\"Bulgaria adopta el euro\""
+     ],
+     "correcta": 1,
+     "explicacion": "En diciembre de 2018 cerró la última mina de carbón de hulla de Alemania, en Bottrop.",
+     "pista": "Revisá el tercer paso del caso del Ruhr."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "Las diferencias entre regiones que ganan y que pierden se llaman desequilibrios [[regionales]]. Cuando una región cambia su actividad principal, hay una reconversión [[productiva]]. La UE destina fondos a las regiones menos desarrolladas con la política de [[cohesión]]. Al agro lo apoya con la [[PAC]].",
+     "distractores": [
+      "nacionales",
+      "OPEP",
+      "industrial"
+     ],
+     "explicacion": "Así se resume lo que pasa dentro de cada país.",
+     "pista": "Releé el recuadro \"Para recordar\"."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada concepto con su ejemplo.",
+     "pares": [
+      {
+       "a": "Reconversión productiva",
+       "b": "El Ruhr pasa de la minería a los servicios y la cultura"
+      },
+      {
+       "a": "Política de cohesión",
+       "b": "Fondos para construir rutas en una región menos desarrollada"
+      },
+      {
+       "a": "Política Agrícola Común",
+       "b": "Apoyo económico a los productores rurales europeos"
+      }
+     ],
+     "explicacion": "Son tres formas de cambio y de intervención dentro de la UE.",
+     "pista": "Releé el caso del Ruhr y el texto sobre las políticas para equilibrar."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué una política europea, como la PAC, puede afectar a un productor de Santa Fe?",
+     "respuesta": "Porque los alimentos se venden en un mercado mundial. Si los productores europeos reciben apoyo, pueden vender más barato o necesitar importar menos, y eso puede hacer que un productor santafesino tenga menos compradores o precios más bajos. Es otra muestra de que las decisiones de un lugar llegan a otros."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué implicancias tiene la especialización productiva dentro de cada país de la UE. Usá el caso del Ruhr y presentá el debate sobre la PAC sin tomar partido.",
+    "guia": [
+     "¿Qué son los desequilibrios regionales?",
+     "¿Qué es la reconversión productiva?",
+     "¿Qué pasó en el Ruhr?",
+     "¿Qué hace la política de cohesión?",
+     "¿Qué dicen quienes defienden la PAC y quienes la critican?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La especialización afecta igual a todas las regiones de un país.",
+     "respuesta": false,
+     "explicacion": "Hay regiones que ganan y regiones que pierden."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El Ruhr fue una región de carbón y acero.",
+     "respuesta": true,
+     "explicacion": "Durante más de un siglo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La última mina de carbón de hulla de Alemania cerró en 2018.",
+     "respuesta": true,
+     "explicacion": "En Bottrop, en el Ruhr."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La política de cohesión da fondos a las regiones más ricas.",
+     "respuesta": false,
+     "explicacion": "Los da a las regiones menos desarrolladas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La PAC existe desde 1962.",
+     "respuesta": true,
+     "explicacion": "Apoya a los productores rurales."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Todos están de acuerdo con la PAC.",
+     "respuesta": false,
+     "explicacion": "Tiene defensores y críticos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la reconversión productiva?",
+     "opciones": [
+      "Cerrar un país",
+      "Cambiar la actividad principal de una región",
+      "Abrir una mina",
+      "Crear una moneda"
+     ],
+     "correcta": 1,
+     "explicacion": "Como pasó en el Ruhr."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Hacia qué actividades se volcó el Ruhr?",
+     "opciones": [
+      "Minería y acero",
+      "Servicios, tecnología y cultura",
+      "Pesca",
+      "Petróleo"
+     ],
+     "correcta": 1,
+     "explicacion": "Después del cierre de las minas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hace la política de cohesión?",
+     "opciones": [
+      "Destina fondos a las regiones menos desarrolladas",
+      "Cierra fábricas",
+      "Crea el euro",
+      "Prohíbe la agricultura"
+     ],
+     "correcta": 0,
+     "explicacion": "Para achicar las diferencias."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué argumento usan quienes critican la PAC?",
+     "opciones": [
+      "Que asegura alimentos a Europa",
+      "Que mantiene población en el campo",
+      "Que protege a los productores europeos",
+      "Que les quita mercados a países exportadores, como la Argentina"
+     ],
+     "correcta": 3,
+     "explicacion": "Es uno de sus argumentos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué ciudad cerró la última mina de carbón de hulla de Alemania?",
+     "opciones": [
+      "Berlín",
+      "Bottrop",
+      "Wolfsburgo",
+      "Múnich"
+     ],
+     "correcta": 1,
+     "explicacion": "En el Ruhr."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué son los desequilibrios regionales?",
+     "opciones": [
+      "Diferencias entre regiones que ganan y regiones que pierden",
+      "Terremotos",
+      "Monedas distintas",
+      "Tratados"
+     ],
+     "correcta": 0,
+     "explicacion": "Aparecen con la especialización."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "RUHR",
+     "pista": "Región minera e industrial de Alemania."
+    },
+    {
+     "palabra": "CARBÓN",
+     "pista": "Mineral que se extrajo en el Ruhr."
+    },
+    {
+     "palabra": "RECONVERSIÓN",
+     "pista": "Cambio de la actividad principal de una región."
+    },
+    {
+     "palabra": "COHESIÓN",
+     "pista": "Política de la UE para equilibrar regiones."
+    },
+    {
+     "palabra": "PAC",
+     "pista": "Política Agrícola Común."
+    },
+    {
+     "palabra": "REGIÓN",
+     "pista": "Parte de un país con características propias."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué la especialización genera desequilibrios regionales?",
+     "opciones": [
+      "Porque algunas regiones producen lo que se vende y otras pierden su actividad",
+      "Porque todos producen lo mismo",
+      "Porque el euro lo exige",
+      "Porque no hay comercio"
+     ],
+     "correcta": 0,
+     "explicacion": "Hay regiones que ganan y regiones que pierden."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué muestra el caso del Ruhr?",
+     "opciones": [
+      "Que una región puede reconvertirse cuando pierde su actividad principal",
+      "Que las minas nunca cierran",
+      "Que Alemania no tiene industria",
+      "Que no hubo cambios"
+     ],
+     "correcta": 0,
+     "explicacion": "Pasó del carbón a los servicios."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas frases presenta el debate sobre la PAC sin tomar partido?",
+     "opciones": [
+      "La PAC es perfecta",
+      "La PAC no sirve",
+      "Algunos dicen que protege a los productores europeos; otros, que perjudica a países exportadores",
+      "Nadie opina de la PAC"
+     ],
+     "correcta": 2,
+     "explicacion": "Presenta las dos posiciones."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Unión Europea",
+   "definicion": "Unión de 27 países de Europa que comparten un mercado común."
+  },
+  {
+   "palabra": "Mercado común",
+   "definicion": "Espacio donde mercancías, servicios, personas y capitales circulan libremente."
+  },
+  {
+   "palabra": "Especialización productiva",
+   "definicion": "Concentración de un país o región en las actividades que hace mejor."
+  },
+  {
+   "palabra": "Desequilibrios regionales",
+   "definicion": "Diferencias entre regiones que ganan y regiones que pierden."
+  },
+  {
+   "palabra": "Reconversión productiva",
+   "definicion": "Cambio de la actividad principal de una región."
+  },
+  {
+   "palabra": "Política de cohesión",
+   "definicion": "Fondos de la UE para las regiones menos desarrolladas."
+  },
+  {
+   "palabra": "Política Agrícola Común",
+   "definicion": "Apoyo económico de la UE a los productores rurales, desde 1962."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Todos los países de la UE usan el euro.",
+   "aclaracion": "Lo usan 21 de los 27 miembros."
+  },
+  {
+   "error": "La especialización beneficia por igual a todas las regiones.",
+   "aclaracion": "Hay regiones que ganan y regiones que pierden; por eso existen los desequilibrios regionales."
+  },
+  {
+   "error": "Las políticas europeas no tienen nada que ver con la Argentina.",
+   "aclaracion": "La PAC influye en el mercado mundial de alimentos, donde también vende la Argentina."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "La Argentina forma parte del Mercosur. ¿Qué parecidos y qué diferencias encontrás con la Unión Europea?",
+  "conexion": "Con la clase del BRIC: otro grupo de países que se organiza para tener más peso en el mundo."
+ }
+}

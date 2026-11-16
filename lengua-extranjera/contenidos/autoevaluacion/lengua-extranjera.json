@@ -1,0 +1,589 @@
+{
+  "espacio": "lengua-extranjera",
+  "pares": {
+    "e3|e5": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración cuenta una costumbre que ya no existe?",
+        "opciones": [
+          "I used to walk to school.",
+          "I walked to school yesterday.",
+          "I walk to school every day.",
+          "I didn't walk to school today."
+        ],
+        "correcta": 0,
+        "explicacion": "Used to cuenta una costumbre de antes; walked cuenta una sola vez."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tienen en común el pasado simple y used to en las negaciones?",
+        "opciones": [
+          "Los dos usan didn't y el verbo base",
+          "Los dos agregan -ed al verbo",
+          "Los dos usan wasn't con todas las personas",
+          "Ninguno de los dos se puede negar"
+        ],
+        "correcta": 0,
+        "explicacion": "She didn't win. / I didn't use to play."
+      },
+      {
+        "tipo": "vf",
+        "texto": "\"My grandmother was born in 1950 and she used to make bread\" combina un hecho puntual y una costumbre.",
+        "respuesta": true,
+        "explicacion": "Was born es un hecho; used to make, una costumbre."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué palabra completa \"Did your grandparents ___ to live in the country?\"",
+        "opciones": [
+          "use",
+          "used",
+          "lived",
+          "were"
+        ],
+        "correcta": 0,
+        "explicacion": "Con did, use to va sin d, igual que el verbo base en el pasado simple."
+      }
+    ],
+    "e1|e2": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración cuenta una rutina?",
+        "opciones": [
+          "I play football every Sunday.",
+          "I'm playing football right now.",
+          "I'm playing football on Saturday.",
+          "Are you playing football?"
+        ],
+        "correcta": 0,
+        "explicacion": "Every Sunday: rutina, presente simple."
+      },
+      {
+        "tipo": "vf",
+        "texto": "\"She likes dancing\" combina el presente simple con un verbo con -ing.",
+        "respuesta": true,
+        "explicacion": "Likes con she, dancing después."
+      }
+    ],
+    "e1|e3": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué palabra completa \"She ___ go to school yesterday\"?",
+        "opciones": [
+          "didn't",
+          "doesn't",
+          "don't",
+          "wasn't"
+        ],
+        "correcta": 0,
+        "explicacion": "Yesterday: pasado, didn't."
+      },
+      {
+        "tipo": "vf",
+        "texto": "En presente se niega con don't o doesn't, y en pasado, con didn't.",
+        "respuesta": true,
+        "explicacion": "Los dos van con el verbo base."
+      }
+    ],
+    "e1|e4": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración cuenta una acción en curso en el pasado?",
+        "opciones": [
+          "At nine I was watching TV.",
+          "I usually watch TV at nine.",
+          "I watch TV every night.",
+          "I never watch TV at nine."
+        ],
+        "correcta": 0,
+        "explicacion": "Was + -ing."
+      },
+      {
+        "tipo": "vf",
+        "texto": "\"I usually read at night\" está en presente simple.",
+        "respuesta": true,
+        "explicacion": "Es una rutina."
+      }
+    ],
+    "e1|e5": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración cuenta una rutina que ya no existe?",
+        "opciones": [
+          "I used to walk to school.",
+          "I walk to school every day.",
+          "I usually walk to school.",
+          "I'm walking to school now."
+        ],
+        "correcta": 0,
+        "explicacion": "Used to: antes sí, ahora no."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Used to y el presente simple sirven para comparar antes y ahora.",
+        "respuesta": true,
+        "explicacion": "People used to write letters, but now they send messages."
+      }
+    ],
+    "e2|e3": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración habla de un plan?",
+        "opciones": [
+          "I'm visiting my grandma on Sunday.",
+          "I visited my grandma last Sunday.",
+          "I used to visit my grandma.",
+          "I visit my grandma every week."
+        ],
+        "correcta": 0,
+        "explicacion": "Presente continuo con día: plan."
+      },
+      {
+        "tipo": "vf",
+        "texto": "\"I visited my grandma last Sunday\" cuenta un hecho terminado.",
+        "respuesta": true,
+        "explicacion": "Pasado simple con last Sunday."
+      }
+    ],
+    "e2|e4": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué palabra completa \"Yesterday at five I ___ playing\"?",
+        "opciones": [
+          "was",
+          "am",
+          "is",
+          "did"
+        ],
+        "correcta": 0,
+        "explicacion": "Pasado continuo: was + -ing."
+      },
+      {
+        "tipo": "vf",
+        "texto": "El presente continuo y el pasado continuo llevan los dos -ing.",
+        "respuesta": true,
+        "explicacion": "I'm reading / I was reading."
+      }
+    ],
+    "e2|e5": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración dice que antes te gustaba algo?",
+        "opciones": [
+          "I used to love drawing.",
+          "I love drawing.",
+          "I'm drawing now.",
+          "I don't mind drawing."
+        ],
+        "correcta": 0,
+        "explicacion": "Used to: antes."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Después de love va el verbo con -ing.",
+        "respuesta": true,
+        "explicacion": "I love playing."
+      }
+    ],
+    "e3|e4": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración combina los dos pasados?",
+        "opciones": [
+          "Fleming was working when he noticed a mould.",
+          "Fleming worked and noticed a mould.",
+          "Fleming was working and was noticing.",
+          "Fleming works when he notices a mould."
+        ],
+        "correcta": 0,
+        "explicacion": "Was working (fondo) y noticed (hecho)."
+      },
+      {
+        "tipo": "vf",
+        "texto": "En un relato, el pasado simple cuenta los hechos.",
+        "respuesta": true,
+        "explicacion": "Suddenly, a dog ran into the street."
+      }
+    ],
+    "e4|e5": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración cuenta una costumbre de antes?",
+        "opciones": [
+          "I used to play football.",
+          "I was playing football at five.",
+          "I'm playing football now.",
+          "I played football yesterday."
+        ],
+        "correcta": 0,
+        "explicacion": "Used to: costumbre."
+      },
+      {
+        "tipo": "vf",
+        "texto": "\"I was playing football at five\" cuenta una acción en curso en un momento.",
+        "respuesta": true,
+        "explicacion": "Pasado continuo."
+      }
+    ],
+    "e1|e6": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración compara dos cosas?",
+        "opciones": [
+          "My school is bigger than yours.",
+          "My school is big.",
+          "I go to a big school every day.",
+          "My school has a big yard."
+        ],
+        "correcta": 0,
+        "explicacion": "Comparativo + than."
+      },
+      {
+        "tipo": "vf",
+        "texto": "En \"She is taller than her brother\" y en \"She plays basketball\", she lleva el verbo is y plays.",
+        "respuesta": true,
+        "explicacion": "Con she, el presente simple cambia: is, plays."
+      }
+    ],
+    "e1|e7": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué expresión sirve para pedir con cortesía?",
+        "opciones": [
+          "Could you help me, please?",
+          "I help you every day.",
+          "She helps me.",
+          "Help me now."
+        ],
+        "correcta": 0,
+        "explicacion": "Could + please."
+      },
+      {
+        "tipo": "vf",
+        "texto": "\"Do you like…?\" pregunta por un gusto y \"Would you like…?\" invita.",
+        "respuesta": true,
+        "explicacion": "Do you like = ¿te gusta?; would you like = ¿querés?"
+      }
+    ],
+    "e1|e8": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración cuenta una experiencia sin decir cuándo?",
+        "opciones": [
+          "I have used a translator app.",
+          "I use a translator app every day.",
+          "I usually use a translator app.",
+          "I am using a translator app."
+        ],
+        "correcta": 0,
+        "explicacion": "Have + participio."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Con he y she, el presente simple lleva -s y el presente perfecto lleva has.",
+        "respuesta": true,
+        "explicacion": "He plays / He has played."
+      }
+    ],
+    "e2|e6": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración está bien escrita?",
+        "opciones": [
+          "I like swimming more than running.",
+          "I like swim more than run.",
+          "I like swimming more that running.",
+          "I like swimming most than running."
+        ],
+        "correcta": 0,
+        "explicacion": "Like + -ing, y more than para comparar."
+      },
+      {
+        "tipo": "vf",
+        "texto": "\"The best\" y \"better\" vienen de good.",
+        "respuesta": true,
+        "explicacion": "Good, better, the best."
+      }
+    ],
+    "e2|e7": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué respuesta rechaza una invitación con amabilidad?",
+        "opciones": [
+          "Sorry, I can't. I'm visiting my grandma.",
+          "No.",
+          "I don't want.",
+          "I visit my grandma."
+        ],
+        "correcta": 0,
+        "explicacion": "Sorry, I can't + el motivo en presente continuo."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Would you like to…? sirve para invitar, como en un chat entre amigos.",
+        "respuesta": true,
+        "explicacion": "Would you like to come?"
+      }
+    ],
+    "e2|e8": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué pregunta busca una experiencia de la vida?",
+        "opciones": [
+          "Have you ever played tennis?",
+          "Are you playing tennis now?",
+          "Do you like playing tennis?",
+          "Would you like to play tennis?"
+        ],
+        "correcta": 0,
+        "explicacion": "Have you ever + participio."
+      },
+      {
+        "tipo": "vf",
+        "texto": "\"I'm playing\" y \"I have played\" son el mismo tiempo verbal.",
+        "respuesta": false,
+        "explicacion": "El primero es presente continuo; el segundo, presente perfecto."
+      }
+    ],
+    "e3|e6": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración combina pasado simple y comparativo?",
+        "opciones": [
+          "My old school was smaller than my new school.",
+          "My old school is small.",
+          "My school is the smallest.",
+          "I go to a small school."
+        ],
+        "correcta": 0,
+        "explicacion": "Was + smaller than."
+      },
+      {
+        "tipo": "vf",
+        "texto": "\"Worse\" es el comparativo de bad y \"wrote\" es el pasado de write: los dos son irregulares.",
+        "respuesta": true,
+        "explicacion": "No siguen la regla de -er ni la de -ed."
+      }
+    ],
+    "e3|e7": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración de un correo cuenta algo que ya pasó?",
+        "opciones": [
+          "I listened to your song three times.",
+          "Could you send me the lyrics?",
+          "Would you like to hear my band?",
+          "See you soon!"
+        ],
+        "correcta": 0,
+        "explicacion": "Listened: pasado simple."
+      },
+      {
+        "tipo": "vf",
+        "texto": "En un correo se puede contar algo en pasado simple y después hacer un pedido con could.",
+        "respuesta": true,
+        "explicacion": "Por ejemplo: I listened to it. Could you send me the lyrics?"
+      }
+    ],
+    "e3|e8": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración necesita el pasado simple?",
+        "opciones": [
+          "I lost my phone last year.",
+          "I have lost my phone last year.",
+          "I have never lost my phone.",
+          "Have you ever lost your phone?"
+        ],
+        "correcta": 0,
+        "explicacion": "Last year dice cuándo: pasado simple."
+      },
+      {
+        "tipo": "vf",
+        "texto": "El participio de los verbos regulares es igual al pasado simple.",
+        "respuesta": true,
+        "explicacion": "Played - played, used - used."
+      }
+    ],
+    "e4|e6": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración tiene un pasado continuo?",
+        "opciones": [
+          "It was raining and the gym was warmer than outside.",
+          "The gym is warmer than outside.",
+          "The gym is the warmest place.",
+          "The gym was warm."
+        ],
+        "correcta": 0,
+        "explicacion": "Was raining: pasado continuo."
+      },
+      {
+        "tipo": "vf",
+        "texto": "\"While it was snowing\" cuenta el fondo de un relato.",
+        "respuesta": true,
+        "explicacion": "Pasado continuo."
+      }
+    ],
+    "e4|e7": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración de un mensaje cuenta lo que estaba pasando?",
+        "opciones": [
+          "I was practising when you called.",
+          "Could you call me later?",
+          "Would you like to call me?",
+          "Call me, please."
+        ],
+        "correcta": 0,
+        "explicacion": "Was practising: pasado continuo."
+      },
+      {
+        "tipo": "vf",
+        "texto": "\"Could you…?\" es un pasado continuo.",
+        "respuesta": false,
+        "explicacion": "Es un pedido cortés."
+      }
+    ],
+    "e4|e8": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración es presente perfecto?",
+        "opciones": [
+          "She has recorded a video.",
+          "She was recording a video.",
+          "She recorded a video yesterday.",
+          "She records videos."
+        ],
+        "correcta": 0,
+        "explicacion": "Has + participio."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Was y were sirven para el pasado continuo; have y has, para el presente perfecto.",
+        "respuesta": true,
+        "explicacion": "Was recording / has recorded."
+      }
+    ],
+    "e5|e6": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración compara el antes y el ahora?",
+        "opciones": [
+          "My town used to be quieter than now.",
+          "My town used to quieter.",
+          "My town is the quietest.",
+          "My town use to be quiet."
+        ],
+        "correcta": 0,
+        "explicacion": "Used to be + comparativo."
+      },
+      {
+        "tipo": "vf",
+        "texto": "\"There used to be\" y \"the biggest\" significan lo mismo.",
+        "respuesta": false,
+        "explicacion": "Uno es \"antes había\"; el otro, \"el más grande\"."
+      }
+    ],
+    "e5|e7": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración cuenta cómo se comunicaba la gente antes?",
+        "opciones": [
+          "People used to write letters.",
+          "Could you write me a letter?",
+          "Would you like to write?",
+          "I am writing to ask…"
+        ],
+        "correcta": 0,
+        "explicacion": "Used to: costumbre de antes."
+      },
+      {
+        "tipo": "vf",
+        "texto": "\"Dear\" se usa en las cartas de antes y en los correos formales de hoy.",
+        "respuesta": true,
+        "explicacion": "Es el saludo formal."
+      }
+    ],
+    "e5|e8": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración cuenta una experiencia y no una costumbre de antes?",
+        "opciones": [
+          "I have used a translator app.",
+          "I used to use a dictionary.",
+          "I didn't use to have a phone.",
+          "There used to be a library."
+        ],
+        "correcta": 0,
+        "explicacion": "Have + participio: experiencia."
+      },
+      {
+        "tipo": "vf",
+        "texto": "\"Used\" puede ser parte de used to y también el participio de use.",
+        "respuesta": true,
+        "explicacion": "I used to walk / I have used the app."
+      }
+    ],
+    "e6|e7": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué expresión es más cortés?",
+        "opciones": [
+          "Could you send me the photos, please?",
+          "Can you send me the photos?",
+          "Send me the photos.",
+          "Photos, now."
+        ],
+        "correcta": 0,
+        "explicacion": "Could + please es la más cortés."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Para comparar se usa than y para pedir con cortesía, could.",
+        "respuesta": true,
+        "explicacion": "Bigger than / Could you…?"
+      }
+    ],
+    "e6|e8": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué oración combina superlativo y presente perfecto?",
+        "opciones": [
+          "It's the best film I have ever seen.",
+          "It's better than the book.",
+          "I saw the film yesterday.",
+          "I have seen the film."
+        ],
+        "correcta": 0,
+        "explicacion": "The best + have ever seen."
+      },
+      {
+        "tipo": "vf",
+        "texto": "\"The best I have ever seen\" quiere decir \"el mejor que vi en mi vida\".",
+        "respuesta": true,
+        "explicacion": "Superlativo + presente perfecto con ever."
+      }
+    ],
+    "e7|e8": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué pregunta podría ir en un correo para conocer a alguien?",
+        "opciones": [
+          "Have you ever been to Argentina?",
+          "Have you ever went to Argentina?",
+          "Did you ever have been to Argentina?",
+          "You have ever been to Argentina?"
+        ],
+        "correcta": 0,
+        "explicacion": "Have + you + ever + participio (been)."
+      },
+      {
+        "tipo": "vf",
+        "texto": "\"I haven't sent the photos yet\" quiere decir que todavía no mandó las fotos.",
+        "respuesta": true,
+        "explicacion": "Yet al final de una negativa: todavía."
+      }
+    ]
+  }
+}

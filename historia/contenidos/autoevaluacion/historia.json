@@ -1,0 +1,983 @@
+{
+  "espacio": "historia",
+  "pares": {
+    "h1|h2": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué relación hay entre la Semana Trágica (1919) y la Liga Patriótica?",
+        "opciones": [
+          "Surgió después y reprimía a obreros e inmigrantes",
+          "La Liga organizó la Semana Trágica para pedir el voto femenino",
+          "No tienen relación: ocurrieron en siglos distintos",
+          "Una protesta contra la Liga"
+        ],
+        "correcta": 0,
+        "explicacion": "Un conflicto obrero de los años radicales fue el punto de partida de un grupo nacionalista autoritario."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Tanto en Europa como en la Argentina, la Revolución Rusa (1917) preocupó a los sectores conservadores.",
+        "respuesta": true,
+        "explicacion": "En Europa asustaba a las clases dirigentes; en la Argentina, los conservadores veían una amenaza en las huelgas obreras."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "En 1924 Lugones pidió que el Ejército tomara el control del país. ¿Contra qué se dirigía esa idea?",
+        "opciones": [
+          "Contra la democracia que llevó a la UCR al gobierno",
+          "Contra el gobierno de Perón",
+          "Contra el Estado Novo de Getúlio Vargas en Brasil",
+          "Contra la Revolución Rusa y los partidos comunistas"
+        ],
+        "correcta": 0,
+        "explicacion": "En 1924 gobernaba Alvear (UCR), elegido con voto secreto. Los nacionalismos autoritarios desconfiaban de la democracia y de las elecciones."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué rasgo de los nacionalismos autoritarios se opone a lo que buscó la Ley Sáenz Peña?",
+        "opciones": [
+          "La desconfianza hacia las elecciones",
+          "El interés por la economía",
+          "La neutralidad frente a la Primera Guerra Mundial",
+          "El apoyo a los sectores medios y a sus partidos"
+        ],
+        "correcta": 0,
+        "explicacion": "La Ley Sáenz Peña amplió la participación con elecciones limpias; los nacionalismos autoritarios preferían un líder fuerte y desconfiaban de la democracia."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La Primera Guerra Mundial aparece en los dos temas: afectó la economía argentina y dejó a Europa en crisis, lo que ayudó al crecimiento de los nacionalismos.",
+        "respuesta": true,
+        "explicacion": "Es un mismo hecho mundial con consecuencias en los dos procesos."
+      }
+    ],
+    "h1|h3": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué gobierno, elegido gracias a la Ley Sáenz Peña, fue derrocado en 1930?",
+        "opciones": [
+          "El de Hipólito Yrigoyen",
+          "El de Marcelo T. de Alvear",
+          "El de Agustín P. Justo",
+          "El de Juan D. Perón"
+        ],
+        "correcta": 0,
+        "explicacion": "Yrigoyen había ganado por primera vez en 1916, con la nueva ley. En 1930, durante su segundo gobierno, lo derrocó Uriburu."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Durante la Década Infame se respetó plenamente el voto secreto establecido en 1912.",
+        "respuesta": false,
+        "explicacion": "Predominó el fraude electoral: la ley seguía, pero las elecciones se manipulaban."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tienen en común la Primera Guerra Mundial y la crisis de 1929 en sus efectos sobre la Argentina?",
+        "opciones": [
+          "Alteraron el comercio de un país que exportaba",
+          "Las dos fueron guerras en territorio argentino",
+          "Las dos terminaron con el voto secreto y obligatorio",
+          "Ninguna afectó al país"
+        ],
+        "correcta": 0,
+        "explicacion": "En los dos casos se vio lo vulnerable que es un país agroexportador a lo que pasa en el mundo."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "En tus dos temas aparece la industria local. ¿Qué tienen en común ambos momentos?",
+        "opciones": [
+          "Faltaron importados y se fabricó en el país",
+          "La industria desapareció",
+          "En los dos casos la industria le exportó a Europa",
+          "En los dos casos el Estado prohibió la industria"
+        ],
+        "correcta": 0,
+        "explicacion": "Durante la Primera Guerra y después de 1929 faltaron importaciones, y eso empujó a producir en el país; con la ISI ese proceso se hizo mucho más grande."
+      },
+      {
+        "tipo": "vf",
+        "texto": "YPF (1922) y el Banco Central (1935) son ejemplos de un Estado que interviene en la economía.",
+        "respuesta": true,
+        "explicacion": "Uno es de los años radicales y el otro de la Década Infame."
+      }
+    ],
+    "h1|h4": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué grupo que había quedado afuera con la Ley Sáenz Peña pudo votar a partir de la ley de 1947?",
+        "opciones": [
+          "Las mujeres",
+          "Los varones argentinos",
+          "Los sectores medios",
+          "Los militares"
+        ],
+        "correcta": 0,
+        "explicacion": "La Ley Sáenz Peña era solo para varones. La ley 13.010 de 1947 reconoció el voto de las mujeres."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Tanto la UCR en 1916 como el peronismo en 1946 llegaron al gobierno ganando elecciones.",
+        "respuesta": true,
+        "explicacion": "Yrigoyen ganó en 1916 y Perón en 1946."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué sectores sociales fueron la base de apoyo de la UCR y del peronismo?",
+        "opciones": [
+          "UCR: sectores medios; peronismo: trabajadores",
+          "Los dos, los terratenientes",
+          "UCR: los militares; peronismo: la Iglesia católica",
+          "Los dos, los inmigrantes que no podían votar"
+        ],
+        "correcta": 0,
+        "explicacion": "Cada etapa sumó a la política a un sector distinto: primero los sectores medios y después los trabajadores."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "La Semana Trágica (1919) y el 17 de octubre (1945) muestran a los trabajadores en la política. ¿Qué diferencia hay entre ambos hechos?",
+        "opciones": [
+          "En 1919 fueron reprimidos; en 1945 llevaron a Perón al gobierno",
+          "En los dos casos los trabajadores ganaron elecciones",
+          "En 1919 votaron por primera vez las mujeres",
+          "No hay diferencias entre los dos hechos"
+        ],
+        "correcta": 0,
+        "explicacion": "Comparar los dos hechos muestra cómo cambió el lugar de los trabajadores en la política argentina."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Tanto la democracia ampliada de los gobiernos radicales como la democracia de masas del peronismo tuvieron límites.",
+        "respuesta": true,
+        "explicacion": "Con los radicales no votaban las mujeres y hubo represión; con el peronismo hubo restricciones a la oposición y control de la prensa."
+      }
+    ],
+    "h2|h3": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tienen en común la llegada de Hitler al poder y el golpe de Uriburu?",
+        "opciones": [
+          "Ocurrieron en el marco de la crisis de 1929",
+          "Los dos fueron elecciones",
+          "Los dos fortalecieron la democracia en sus países",
+          "Los dos ocurrieron antes de la Primera Guerra Mundial"
+        ],
+        "correcta": 0,
+        "explicacion": "La crisis de 1929 debilitó a los gobiernos y favoreció a quienes prometían orden: Hitler en 1933 y Uriburu en 1930."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Uriburu, que encabezó el golpe de 1930, admiraba ideas autoritarias como las de los nacionalismos de entreguerras.",
+        "respuesta": true,
+        "explicacion": "Admiraba ideas corporativistas y autoritarias."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué conecta a la Liga Patriótica, a Lugones y al golpe de 1930?",
+        "opciones": [
+          "Un nacionalismo que desconfiaba de la democracia",
+          "Todos defendían el voto femenino",
+          "Todos formaron parte de FORJA en los años treinta",
+          "Todos ocurrieron después del golpe militar de 1943"
+        ],
+        "correcta": 0,
+        "explicacion": "Son tres momentos del nacionalismo autoritario argentino; el último terminó con un gobierno elegido."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Por qué después de 1929 crecieron al mismo tiempo el proteccionismo y los nacionalismos?",
+        "opciones": [
+          "Ante la crisis, muchos países priorizaron lo propio",
+          "La crisis terminó con todas las naciones del mundo",
+          "Creció mucho el comercio entre los países",
+          "El Estado desapareció de la economía mundial"
+        ],
+        "correcta": 0,
+        "explicacion": "La crisis llevó a cerrarse: en la economía, con proteccionismo; en la política, con nacionalismos."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La crisis de 1929 aparece en los dos temas: favoreció a los nacionalismos en Europa y afectó la economía argentina.",
+        "respuesta": true,
+        "explicacion": "Un mismo hecho mundial con consecuencias económicas y políticas."
+      }
+    ],
+    "h2|h4": [
+      {
+        "tipo": "mc",
+        "pregunta": "Getúlio Vargas aparece en dos de tus temas. ¿Por qué?",
+        "opciones": [
+          "Fue autoritario e impulsó derechos laborales",
+          "También fue presidente de la Argentina",
+          "Fundó FORJA junto con Arturo Jauretche",
+          "Nacionalizó el petróleo de México en 1938"
+        ],
+        "correcta": 0,
+        "explicacion": "Vargas es un ejemplo de nacionalismo en Brasil y también de gobierno popular latinoamericano."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué medida peronista se relaciona con la crítica a la dependencia económica que hacían los nacionalismos populares como FORJA?",
+        "opciones": [
+          "La nacionalización de los ferrocarriles",
+          "El fraude electoral",
+          "El Pacto Roca-Runciman con el Reino Unido",
+          "La Ley Sáenz Peña de voto secreto y obligatorio"
+        ],
+        "correcta": 0,
+        "explicacion": "Pasar servicios al Estado buscaba que la economía dependiera menos de empresas y potencias extranjeras."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿En qué se diferenció el peronismo de los nacionalismos autoritarios europeos que estudiaste?",
+        "opciones": [
+          "Ganó elecciones y amplió el voto a las mujeres",
+          "Tuvo partido único y prohibió todas las elecciones",
+          "Hizo del racismo una política oficial del Estado",
+          "No tuvo apoyo popular"
+        ],
+        "correcta": 0,
+        "explicacion": "Perón ganó las elecciones de 1946 y en 1947 se sancionó el voto femenino. El fascismo y el nazismo tenían partido único y no se sostenían en elecciones libres."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "Getúlio Vargas, Lázaro Cárdenas y Perón aparecen en tus temas. ¿Qué los une?",
+        "opciones": [
+          "Estado fuerte y apoyo de sectores populares",
+          "Fueron líderes fascistas que gobernaron en Europa",
+          "Fundaron FORJA",
+          "Los tres gobernaron la Argentina en distintos momentos"
+        ],
+        "correcta": 0,
+        "explicacion": "Son los gobiernos populares latinoamericanos de mediados del siglo XX."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La democracia de masas peronista tuvo tensiones con la oposición y con la prensa.",
+        "respuesta": true,
+        "explicacion": "Por eso se habla de una democracia de masas con límites."
+      }
+    ],
+    "h3|h4": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Por qué la industrialización sustitutiva ayuda a entender el apoyo de los trabajadores a Perón?",
+        "opciones": [
+          "Hizo crecer la clase obrera urbana",
+          "Vació las ciudades y la gente volvió al campo",
+          "Redujo mucho la cantidad de trabajadores",
+          "Eliminó los sindicatos en todo el país"
+        ],
+        "correcta": 0,
+        "explicacion": "Con la ISI crecieron las fábricas y los obreros en las ciudades: esa fue la base social del peronismo."
+      },
+      {
+        "tipo": "vf",
+        "texto": "El golpe de 1943, que terminó con la Década Infame, es el mismo después del cual Perón pasó a la Secretaría de Trabajo.",
+        "respuesta": true,
+        "explicacion": "Un mismo hecho cierra un tema y abre el otro."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tienen en común el Estado de la Década Infame y el del peronismo?",
+        "opciones": [
+          "Intervinieron, con objetivos distintos",
+          "Ninguno intervino",
+          "Los dos eliminaron las elecciones para siempre",
+          "Los dos cerraron el Banco Central de la República"
+        ],
+        "correcta": 0,
+        "explicacion": "En la Década Infame el Estado reguló para enfrentar la crisis; con el peronismo planificó y buscó redistribuir ingresos hacia los trabajadores."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué hecho de 1943 une a tus dos temas?",
+        "opciones": [
+          "El golpe que terminó con la Década Infame",
+          "La caída de la Bolsa de Nueva York, que afectó al mundo",
+          "La Ley Sáenz Peña, que estableció el voto secreto",
+          "La ley 13.010, que estableció el voto femenino"
+        ],
+        "correcta": 0,
+        "explicacion": "Un mismo hecho cierra una etapa y abre la otra."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Las migraciones del campo y del interior hacia las ciudades ayudan a entender quiénes se movilizaron el 17 de octubre de 1945.",
+        "respuesta": true,
+        "explicacion": "Esos migrantes se convirtieron en obreros industriales, y fueron los trabajadores quienes llenaron la Plaza de Mayo."
+      }
+    ],
+    "h1|h6": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tienen en común la neutralidad argentina en la Primera Guerra y la decisión de los No Alineados?",
+        "opciones": [
+          "No sumarse a ningún bando",
+          "En los dos casos declaró la guerra",
+          "Fueron en el mismo año",
+          "En los dos casos apoyó a Estados Unidos"
+        ],
+        "correcta": 0,
+        "explicacion": "La Argentina no participó de la Primera Guerra; los No Alineados no se sumaron a ningún bloque de la Guerra Fría."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La neutralidad no evitó que la Primera Guerra afectara a la economía argentina.",
+        "respuesta": true,
+        "explicacion": "El comercio se desordenó y faltaron productos importados. Ser neutral no significa no verse afectado."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué diferencia hay entre la neutralidad de 1914 y los No Alineados?",
+        "opciones": [
+          "Fue un movimiento de muchos países",
+          "La Argentina se unió a la URSS en 1914",
+          "Los No Alineados pelearon en la Primera Guerra",
+          "Ninguna"
+        ],
+        "correcta": 0,
+        "explicacion": "La Argentina decidió sola; los No Alineados se reunieron en Bandung (1955) y fundaron su movimiento en Belgrado (1961)."
+      }
+    ],
+    "h2|h6": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué idea comparten FORJA y los reclamos del Tercer Mundo?",
+        "opciones": [
+          "La crítica a la dependencia",
+          "El apoyo al nazismo y al fascismo europeos",
+          "La defensa del colonialismo de las potencias",
+          "El rechazo a la independencia de las colonias"
+        ],
+        "correcta": 0,
+        "explicacion": "FORJA criticaba la dependencia del Reino Unido; el Tercer Mundo rechazaba el colonialismo y la dependencia económica."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Todos los nacionalismos fueron autoritarios.",
+        "respuesta": false,
+        "explicacion": "Hubo nacionalismos autoritarios y nacionalismos populares y antiimperialistas, como FORJA."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Frente a qué potencia se enfrentó la Revolución Cubana?",
+        "opciones": [
+          "Estados Unidos",
+          "El Reino Unido",
+          "Alemania",
+          "La URSS"
+        ],
+        "correcta": 0,
+        "explicacion": "En los años 30, la crítica de FORJA apuntaba al Reino Unido; en Cuba, la dependencia era de Estados Unidos."
+      }
+    ],
+    "h3|h6": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué problema de la Argentina de 1929 se parece a lo que plantea la mirada Norte-Sur?",
+        "opciones": [
+          "Depender de vender materias primas",
+          "Tener demasiada industria y poca producción de campo",
+          "No tener campos",
+          "Ser una de las superpotencias del mundo"
+        ],
+        "correcta": 0,
+        "explicacion": "Cuando cayeron los precios de lo que vendía, entraron menos divisas: es la situación del Sur frente al Norte."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La industrialización sustitutiva buscaba producir en el país lo que antes se compraba al Norte industrializado.",
+        "respuesta": true,
+        "explicacion": "Es una forma de reducir la dependencia que explicaba Prebisch."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué explicó Raúl Prebisch?",
+        "opciones": [
+          "Que el campo vale cada vez menos que la industria",
+          "Que la crisis de 1929 benefició a la Argentina",
+          "Que a América Latina le convenía no tener industria",
+          "Que el Norte era pobre"
+        ],
+        "correcta": 0,
+        "explicacion": "Por eso el Sur tenía que vender cada vez más para comprar lo mismo."
+      }
+    ],
+    "h4|h6": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿En qué se parecen el peronismo y la Revolución Cubana?",
+        "opciones": [
+          "Más derechos populares y un Estado fuerte",
+          "Los dos llegaron al poder por medio de una guerrilla",
+          "Los dos tuvieron partido único desde el principio",
+          "Se aliaron con la URSS"
+        ],
+        "correcta": 0,
+        "explicacion": "Los dos se apoyaron en sectores populares e intervinieron en la economía."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿En qué se diferencian?",
+        "opciones": [
+          "Perón ganó elecciones; en Cuba hubo armas y partido único",
+          "Perón fue un dictador comunista aliado de la URSS",
+          "La Revolución Cubana ganó unas elecciones en 1946",
+          "No hay diferencias entre los dos procesos"
+        ],
+        "correcta": 0,
+        "explicacion": "Perón ganó las elecciones de 1946; en Cuba los revolucionarios tomaron el poder en 1959 tras una guerrilla."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Cárdenas en México y la Revolución Cubana hicieron reforma agraria.",
+        "respuesta": true,
+        "explicacion": "Cárdenas además nacionalizó el petróleo en 1938; Cuba nacionalizó empresas, muchas estadounidenses."
+      }
+    ],
+    "h1|h5": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tienen en común la Semana Trágica (1919) y la huelga de la construcción (1935-1936)?",
+        "opciones": [
+          "Fueron conflictos obreros",
+          "Fueron golpes",
+          "Fueron leyes electorales sancionadas por el Congreso",
+          "Fueron acuerdos comerciales con el Reino Unido"
+        ],
+        "correcta": 0,
+        "explicacion": "En los dos casos el Estado no reconoció los reclamos y hubo represión."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Los sectores medios que apoyaban al radicalismo eran los mismos que el movimiento obrero.",
+        "respuesta": false,
+        "explicacion": "El radicalismo representaba sobre todo a sectores medios; los obreros se organizaban en sindicatos."
+      }
+    ],
+    "h2|h5": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Contra qué actuaba la Liga Patriótica?",
+        "opciones": [
+          "Las huelgas obreras",
+          "Los grandes terratenientes del país",
+          "La Sociedad Rural y sus asociados",
+          "El Pacto Roca-Runciman con los británicos"
+        ],
+        "correcta": 0,
+        "explicacion": "Era un nacionalismo autoritario que defendía el orden de los sectores acomodados."
+      },
+      {
+        "tipo": "vf",
+        "texto": "FORJA criticaba la dependencia económica del Reino Unido, como la del Pacto Roca-Runciman.",
+        "respuesta": true,
+        "explicacion": "Era un nacionalismo popular y antiimperialista."
+      }
+    ],
+    "h3|h5": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿A quién favorecían las juntas reguladoras y el Pacto Roca-Runciman?",
+        "opciones": [
+          "A los grandes productores",
+          "A los obreros industriales de las ciudades",
+          "A los sindicatos",
+          "A los inmigrantes recién llegados"
+        ],
+        "correcta": 0,
+        "explicacion": "El Estado intervenía, pero a favor de los grandes productores."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Con la industrialización sustitutiva creció la cantidad de obreros, pero sus salarios casi no mejoraban antes de 1943.",
+        "respuesta": true,
+        "explicacion": "La riqueza crecía, pero se repartía de manera desigual."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué se creó en 1935, durante la Década Infame?",
+        "opciones": [
+          "El Banco Central",
+          "El IAPI, para comerciar las cosechas",
+          "La CGE, de los pequeños empresarios",
+          "El aguinaldo"
+        ],
+        "correcta": 0,
+        "explicacion": "Fue uno de los mecanismos de intervención del Estado conservador."
+      }
+    ],
+    "h4|h5": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Por qué el aguinaldo y los convenios colectivos son parte de la disputa por la riqueza?",
+        "opciones": [
+          "Llevan más riqueza a los trabajadores",
+          "Bajan los salarios de los trabajadores",
+          "Benefician solo a los terratenientes",
+          "No tienen relación con la economía"
+        ],
+        "correcta": 0,
+        "explicacion": "Son mecanismos de redistribución del ingreso."
+      },
+      {
+        "tipo": "mc",
+        "pregunta": "¿Por qué la Sociedad Rural se opuso al IAPI?",
+        "opciones": [
+          "Se quedaba con parte de sus ganancias",
+          "Le subía los precios",
+          "Le daba demasiados créditos baratos",
+          "Organizaba huelgas en sus estancias"
+        ],
+        "correcta": 0,
+        "explicacion": "El IAPI compraba a precio fijo y vendía más caro afuera."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Algunos industriales apoyaron al peronismo porque, si los trabajadores ganaban más, compraban más productos.",
+        "respuesta": true,
+        "explicacion": "Vendían en el mercado interno; formaron la CGE en 1952."
+      }
+    ],
+    "h5|h6": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tienen en común la mirada Norte-Sur y la disputa por la riqueza en la Argentina?",
+        "opciones": [
+          "Hablan del reparto de la riqueza",
+          "Las dos hablan de elecciones y del voto",
+          "Las dos se refieren a la Guerra Fría entre superpotencias",
+          "Nada en común"
+        ],
+        "correcta": 0,
+        "explicacion": "Una mira la desigualdad entre países; la otra, entre grupos dentro de un país."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Según Prebisch, vender materias primas y comprar productos industriales perjudicaba a países como la Argentina.",
+        "respuesta": true,
+        "explicacion": "Por eso muchos defendían la industria nacional."
+      }
+    ],
+    "h1|h7": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tienen en común el fraude del régimen conservador y la proscripción del peronismo?",
+        "opciones": [
+          "Parte de la sociedad no podía elegir libremente",
+          "Los dos ampliaron la democracia en la Argentina",
+          "Los dos fueron establecidos por leyes de 1912",
+          "Nada en común"
+        ],
+        "correcta": 0,
+        "explicacion": "Por eso en los dos casos se habla de un problema de legitimidad."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La Ley Sáenz Peña (1912) y el fin de la proscripción (1973) ampliaron la participación política.",
+        "respuesta": true,
+        "explicacion": "En los dos casos más personas pudieron votar a quien preferían."
+      }
+    ],
+    "h2|h7": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué idea de los nacionalismos autoritarios de los años 20 y 30 se repitió en los golpes posteriores?",
+        "opciones": [
+          "Que el Ejército tomara el control",
+          "Que había que ampliar el voto a toda la población",
+          "Que había que crear sindicatos en todas las fábricas",
+          "Que convenía integrarse con los vecinos"
+        ],
+        "correcta": 0,
+        "explicacion": "Lugones lo planteó en 1924 con \"La hora de la espada\"."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Entre 1930 y 1976 hubo varios golpes de Estado en la Argentina.",
+        "respuesta": true,
+        "explicacion": "En 1930, 1943, 1955, 1962, 1966 y 1976."
+      }
+    ],
+    "h3|h7": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tuvo de distinto la dictadura de 1976 respecto de golpes anteriores?",
+        "opciones": [
+          "Aplicó el terrorismo de Estado",
+          "Fue el primer golpe de Estado del siglo XX",
+          "Llamó a elecciones",
+          "No cerró el Congreso ni prohibió los partidos"
+        ],
+        "correcta": 0,
+        "explicacion": "El primer golpe del siglo XX fue el de 1930."
+      },
+      {
+        "tipo": "vf",
+        "texto": "El golpe de 1930 fue el primero del siglo XX en la Argentina.",
+        "respuesta": true,
+        "explicacion": "Derrocó a Yrigoyen."
+      }
+    ],
+    "h4|h7": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Desde cuándo y hasta cuándo estuvo proscripto el peronismo?",
+        "opciones": [
+          "Desde 1955 hasta 1973",
+          "Desde 1946 hasta 1955, en su gobierno",
+          "Desde 1930 hasta 1943, la Década Infame",
+          "Desde 1976 hasta 1983, en la dictadura"
+        ],
+        "correcta": 0,
+        "explicacion": "En 1973 Perón volvió a ser elegido presidente."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La proscripción del peronismo ayuda a entender por qué los gobiernos de 1958 a 1966 tuvieron problemas de legitimidad.",
+        "respuesta": true,
+        "explicacion": "Una parte importante de la sociedad no podía votar a quien prefería."
+      }
+    ],
+    "h5|h7": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué protesta de 1969 reunió a obreros y estudiantes?",
+        "opciones": [
+          "El Cordobazo",
+          "La Semana Trágica",
+          "La huelga de la construcción",
+          "El 17 de octubre"
+        ],
+        "correcta": 0,
+        "explicacion": "Fue en Córdoba y debilitó al gobierno de Onganía."
+      },
+      {
+        "tipo": "vf",
+        "texto": "El Rodrigazo (1975) fue un plan de ajuste que provocó protestas y huelgas.",
+        "respuesta": true,
+        "explicacion": "La disputa por la distribución de la riqueza siguió después de 1955."
+      }
+    ],
+    "h6|h7": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿En qué contexto internacional ocurrieron los golpes y la violencia política de los años 60 y 70?",
+        "opciones": [
+          "La Guerra Fría",
+          "La Primera Guerra Mundial",
+          "La crisis de 1929",
+          "La globalización financiera"
+        ],
+        "correcta": 0,
+        "explicacion": "La Revolución Cubana y la Guerra Fría influyeron en toda la región."
+      },
+      {
+        "tipo": "vf",
+        "texto": "En 1973 hubo un golpe de Estado en Chile.",
+        "respuesta": true,
+        "explicacion": "En los años 70 hubo dictaduras en varios países de la región, como Chile y la Argentina."
+      }
+    ],
+    "h1|h8": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tienen en común la Argentina de 1916 y la de los años 90?",
+        "opciones": [
+          "Una economía abierta",
+          "Un Estado que nacionalizaba las empresas extranjeras",
+          "La proscripción de uno de los partidos mayoritarios",
+          "La convertibilidad"
+        ],
+        "correcta": 0,
+        "explicacion": "Pero en 1916 el país exportaba productos del campo y en los 90 se abrió a importaciones e inversiones."
+      },
+      {
+        "tipo": "vf",
+        "texto": "En los años 90 se aplicó un modelo con un Estado que interviene poco en la economía.",
+        "respuesta": true,
+        "explicacion": "Es el modelo neoliberal."
+      }
+    ],
+    "h2|h8": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué criticaba FORJA en los años 30?",
+        "opciones": [
+          "La dependencia del Reino Unido",
+          "Las privatizaciones de los años 90",
+          "El Mercosur",
+          "La convertibilidad del peso con el dólar"
+        ],
+        "correcta": 0,
+        "explicacion": "Argumentos parecidos aparecen en algunas críticas al neoliberalismo."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Sobre el neoliberalismo hay defensores y críticos.",
+        "respuesta": true,
+        "explicacion": "Conviene conocer los argumentos de cada lado."
+      }
+    ],
+    "h3|h8": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tienen en común 1929 y la década de 1970?",
+        "opciones": [
+          "Crisis que llevaron a cambiar de modelo",
+          "Hubo hiperinflación en la Argentina en los dos momentos",
+          "Se creó el Mercosur en los dos momentos",
+          "No pasó nada importante"
+        ],
+        "correcta": 0,
+        "explicacion": "Después de 1929 creció el Estado interventor; en los 70 ganó fuerza el neoliberalismo."
+      },
+      {
+        "tipo": "vf",
+        "texto": "El neoliberalismo propone lo contrario del Estado interventor.",
+        "respuesta": true,
+        "explicacion": "Menos intervención del Estado y más mercado."
+      }
+    ],
+    "h4|h8": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué pasó con los ferrocarriles en 1948 y en los años 90?",
+        "opciones": [
+          "Nacionalizados en 1948, privatizados en los 90",
+          "Se privatizaron en 1948 y se nacionalizaron en los 90",
+          "Siempre fueron de empresas privadas extranjeras",
+          "Siempre fueron del Estado, desde su construcción"
+        ],
+        "correcta": 0,
+        "explicacion": "Muestra dos ideas opuestas sobre el papel del Estado."
+      },
+      {
+        "tipo": "vf",
+        "texto": "El peronismo dio al Estado un papel central en la economía.",
+        "respuesta": true,
+        "explicacion": "El neoliberalismo propone lo contrario."
+      }
+    ],
+    "h5|h8": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué señalan los críticos sobre los efectos de la apertura en los trabajadores?",
+        "opciones": [
+          "Cierre de fábricas y desocupación",
+          "Subieron mucho los salarios industriales",
+          "Se crearon muchos sindicatos nuevos",
+          "No hubo cambios"
+        ],
+        "correcta": 0,
+        "explicacion": "Los defensores destacan, en cambio, la estabilidad y las inversiones."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Entre 1943 y 1955 el Estado inclinó la balanza hacia los trabajadores; el neoliberalismo propone que el mercado fije salarios y precios.",
+        "respuesta": true,
+        "explicacion": "Son dos formas opuestas de intervenir, o no, en el reparto."
+      }
+    ],
+    "h6|h8": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Con qué debate se relaciona la idea de Prebisch de que el Sur \"vende barato y compra caro\"?",
+        "opciones": [
+          "Con el debate sobre la apertura económica",
+          "Con la Guerra de Malvinas de 1982",
+          "Con la ley de voto femenino de 1947",
+          "Con la Reforma Universitaria de 1918"
+        ],
+        "correcta": 0,
+        "explicacion": "Prebisch defendía desarrollar la industria en América Latina."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La deuda externa argentina creció mucho entre 1976 y 1983.",
+        "respuesta": true,
+        "explicacion": "Es un tema central en el debate sobre la dependencia."
+      }
+    ],
+    "h1|h9": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tienen en común la Reforma Universitaria (1918) y las asambleas barriales (2001)?",
+        "opciones": [
+          "Personas comunes organizadas para reclamar",
+          "Fueron golpes de Estado contra gobiernos elegidos",
+          "Fueron leyes sancionadas por el Congreso",
+          "Las organizaron las Fuerzas Armadas"
+        ],
+        "correcta": 0,
+        "explicacion": "Estudiantes en 1918, vecinos y vecinas en 2001."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Las asambleas barriales se reunían en plazas para debatir problemas comunes.",
+        "respuesta": true,
+        "explicacion": "Fue en 2001 y 2002."
+      }
+    ],
+    "h2|h9": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué busca la integración regional?",
+        "opciones": [
+          "Unirse para comerciar y tener más fuerza",
+          "El dominio de un país sobre sus vecinos",
+          "El cierre de las fronteras de cada país",
+          "La desaparición de los países"
+        ],
+        "correcta": 0,
+        "explicacion": "Por ejemplo, el Mercosur (1991)."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Los nacionalismos de los años 30 ponían a la nación por encima de todo.",
+        "respuesta": true,
+        "explicacion": "La integración regional, en cambio, busca acuerdos entre países vecinos."
+      }
+    ],
+    "h3|h9": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tienen en común la crisis de 1929 y la de 2001?",
+        "opciones": [
+          "El Estado volvió a intervenir más",
+          "Las dos terminaron con un golpe de Estado",
+          "Las dos empezaron en la Argentina y se extendieron",
+          "Ninguna afectó al país"
+        ],
+        "correcta": 0,
+        "explicacion": "Las crisis suelen llevar a revisar el papel del Estado."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La crisis de 2001 terminó con la convertibilidad.",
+        "respuesta": true,
+        "explicacion": "En enero de 2002 el peso se devaluó."
+      }
+    ],
+    "h4|h9": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué empresa volvió en su mayoría al Estado en 2012?",
+        "opciones": [
+          "YPF",
+          "Los ferrocarriles",
+          "El IAPI",
+          "La CGT"
+        ],
+        "correcta": 0,
+        "explicacion": "Los ferrocarriles se habían nacionalizado en 1948."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Sobre que el Estado maneje empresas hay argumentos a favor y en contra.",
+        "respuesta": true,
+        "explicacion": "Es un debate que atraviesa distintas épocas."
+      }
+    ],
+    "h5|h9": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Por qué surgieron movimientos de desocupados además de los sindicatos?",
+        "opciones": [
+          "Los sindicatos representaban a quienes tenían empleo",
+          "Se prohibieron los sindicatos por ley en 2001",
+          "En esos años no había desocupación",
+          "Lo decidió el Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "Las personas sin trabajo buscaron otras formas de organizarse."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La CGT se formó en 1930.",
+        "respuesta": true,
+        "explicacion": "Los nuevos actores sociales surgieron mucho después, en los años 90 y 2001."
+      }
+    ],
+    "h6|h9": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué tienen en común los No Alineados y la integración regional?",
+        "opciones": [
+          "Unirse con otros países para tener más fuerza",
+          "Los dos se crearon en la misma reunión de 1961",
+          "Son partidos políticos",
+          "Los dos pertenecen al bloque comunista de la URSS"
+        ],
+        "correcta": 0,
+        "explicacion": "Los No Alineados se fundaron en 1961; el Mercosur, en 1991."
+      },
+      {
+        "tipo": "vf",
+        "texto": "La CELAC reúne a los países de América Latina y el Caribe.",
+        "respuesta": true,
+        "explicacion": "Se creó en 2011."
+      }
+    ],
+    "h7|h8": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Por qué se estudian juntos la dictadura de 1976 y el neoliberalismo?",
+        "opciones": [
+          "Las primeras medidas neoliberales fueron en la dictadura",
+          "En realidad son la misma cosa",
+          "La dictadura nacionalizó muchas empresas",
+          "No hay ninguna relación entre los dos temas"
+        ],
+        "correcta": 0,
+        "explicacion": "En los años 90 se aplicaron políticas parecidas, pero en democracia."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Las políticas de los años 90 se aplicaron en un gobierno elegido democráticamente.",
+        "respuesta": true,
+        "explicacion": "A diferencia de las de 1976."
+      }
+    ],
+    "h7|h9": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Cómo se resolvió la crisis política de 2001?",
+        "opciones": [
+          "Por las instituciones, sin golpe",
+          "Con un golpe de Estado de las Fuerzas Armadas",
+          "Con una guerra",
+          "Con la proscripción de un partido político"
+        ],
+        "correcta": 0,
+        "explicacion": "Desde 1983 la Argentina sostiene la democracia, incluso en crisis muy profundas."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Desde 1983 la Argentina no tuvo golpes de Estado.",
+        "respuesta": true,
+        "explicacion": "Es el período democrático más largo de su historia."
+      }
+    ],
+    "h8|h9": [
+      {
+        "tipo": "mc",
+        "pregunta": "¿Qué relación hay entre la convertibilidad y la crisis de 2001?",
+        "opciones": [
+          "La crisis terminó con la convertibilidad",
+          "La convertibilidad empezó en diciembre de 2001",
+          "Ninguna",
+          "La crisis de 2001 creó la convertibilidad"
+        ],
+        "correcta": 0,
+        "explicacion": "La convertibilidad duró de 1991 a 2002."
+      },
+      {
+        "tipo": "vf",
+        "texto": "Después de las crisis, el Estado volvió a intervenir más en la economía.",
+        "respuesta": true,
+        "explicacion": "Y eso generó un debate que sigue abierto."
+      }
+    ]
+  }
+}

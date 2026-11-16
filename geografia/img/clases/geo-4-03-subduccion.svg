@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" role="img" aria-label="Corte de la Tierra frente a la costa de Chile: la placa de Nazca, bajo el océano Pacífico, se hunde por debajo de la placa Sudamericana. Sobre el borde se levanta la cordillera de los Andes, con un volcán por el que sube magma. Una estrella marca la zona donde se producen los sismos." font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<defs>
+<marker id="fl" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10z" fill="#5B2A86"/></marker>
+<linearGradient id="mar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C9D3F2"/><stop offset="1" stop-color="#9AA8E0"/></linearGradient>
+</defs>
+<rect width="1000" height="600" rx="28" fill="#F7F4FD"/>
+<!-- océano -->
+<path d="M30 200 L560 200 L560 250 L30 250 Z" fill="url(#mar)"/>
+<!-- placa de Nazca (oceánica) que se hunde -->
+<path d="M30 250 L540 250 Q640 262 760 430 L700 470 Q600 330 520 312 L30 312 Z" fill="#4B4FA3" opacity=".85"/>
+<!-- placa Sudamericana (continental) -->
+<path d="M560 250 L600 200 L650 150 L690 112 L720 140 L750 120 L800 165 L970 200 L970 560 L800 560 Q740 470 680 420 Q620 330 560 250 Z" fill="#E2DAF6" stroke="#5B2A86" stroke-width="3"/>
+<g class="a-ap" style="--d:2.0s"><!-- magma -->
+<path d="M705 410 Q712 300 716 200 L722 140" fill="none" stroke="#E5194F" stroke-width="10" stroke-linecap="round" stroke-dasharray="2 16"/>
+<circle cx="704" cy="420" r="20" fill="#F0731E" opacity=".9"/>
+<path d="M714 104 L708 82 M722 100 L722 74 M730 104 L738 82" stroke="#E5194F" stroke-width="5" stroke-linecap="round"/></g>
+<g class="a-ap" style="--d:1.5s"><!-- zona de sismos -->
+<path d="M612 300 l9 18 20 3 -15 14 4 20 -18 -10 -18 10 4 -20 -15 -14 20 -3z" fill="#F0731E" stroke="#B83A7A" stroke-width="2"/></g>
+<g class="a-ap" style="--d:0.4s"><!-- flechas de movimiento -->
+<path d="M300 282 L450 282" stroke="#fff" stroke-width="6" marker-end="url(#fl)"/>
+<path d="M900 300 L820 300" stroke="#5B2A86" stroke-width="6" marker-end="url(#fl)"/></g>
+<g class="a-ap" style="--d:0.9s"></g>
+<path d="M900 300 L820 300" stroke="#5B2A86" stroke-width="6" marker-end="url(#fl)"/></g>
+<path d="M590 330 Q640 380 690 455" fill="none" stroke="#5B2A86" stroke-width="5" stroke-dasharray="10 8" marker-end="url(#fl)"/>
+<!-- rótulos -->
+<text x="200" y="232" font-size="24" font-weight="800" fill="#1B1A4A">Océano Pacífico</text>
+<text x="70" y="292" font-size="22" font-weight="800" fill="#fff">Placa de Nazca</text>
+<text x="870" y="480" font-size="22" font-weight="800" fill="#5B2A86" text-anchor="middle">Placa</text>
+<text x="870" y="508" font-size="22" font-weight="800" fill="#5B2A86" text-anchor="middle">Sudamericana</text>
+<text x="560" y="62" font-size="20" font-weight="700" fill="#1B1A4A">Cordillera de los Andes</text>
+<g class="a-ap" style="--d:2.2s"><text x="752" y="96" font-size="18" font-weight="700" fill="#E5194F">Volcán</text></g>
+<g class="a-ap" style="--d:2.0s"><text x="735" y="425" font-size="18" font-weight="700" fill="#E5194F">Magma</text></g>
+<g class="a-ap" style="--d:1.5s"><text x="450" y="380" font-size="18" font-weight="700" fill="#B83A7A">Zona de sismos</text>
+<path d="M565 375 L605 345" stroke="#B83A7A" stroke-width="3"/></g>
+<g class="a-ap" style="--d:1.0s"><text x="470" y="520" font-size="18" font-weight="700" fill="#5B2A86">La placa de Nazca se hunde</text>
+<text x="470" y="545" font-size="18" font-weight="700" fill="#5B2A86">por debajo: subducción</text></g>
+</svg>

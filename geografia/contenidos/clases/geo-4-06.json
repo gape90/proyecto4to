@@ -1,0 +1,995 @@
+{
+ "id": "geo-4-06",
+ "espacio": "geografia",
+ "eje": "Territorios urbanizados",
+ "titulo": "Las ciudades globales",
+ "intro": "Algunas ciudades toman decisiones que afectan a lugares que están a miles de kilómetros. Vas a ver qué es una ciudad global, cómo funciona la red de ciudades del mundo y qué pasa dentro de esas ciudades.",
+ "objetivos": [
+  "Explicar qué es una ciudad global y en qué se diferencia de una ciudad grande.",
+  "Describir la red de ciudades globales y los flujos que circulan por ella.",
+  "Relacionar la articulación con el mundo y la fragmentación dentro de las ciudades globales."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: el concepto de ciudad global, los flujos de la red mundial, la clasificación GaWC y las ideas de articulación, fragmentación y polarización social.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Qué es una ciudad global",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Una pregunta para arrancar",
+     "texto": "Cuando una empresa de Rosario le vende soja a China, ¿dónde se firma el contrato? ¿Dónde está el banco que presta el dinero, el estudio de abogados que lo redacta y la empresa que asegura el barco? Muchas veces, en ciudades que están muy lejos del campo y del puerto."
+    },
+    {
+     "t": "texto",
+     "titulo": "Ciudades que dirigen la economía mundial",
+     "texto": "La socióloga Saskia Sassen usó en 1991 el nombre de **ciudad global** para Nueva York, Londres y Tokio. Con ese concepto describió ciudades donde se concentran las **funciones de dirección** de la economía mundial: las sedes de grandes empresas, los bancos, las bolsas de valores y los **servicios avanzados**, como las finanzas, la consultoría, la contabilidad, el derecho de empresas y la publicidad.\n\nUna ciudad global no se define por la cantidad de habitantes. Hay ciudades enormes que no son globales, y ciudades más chicas que sí lo son. Lo que importa es su **conexión** con el resto del mundo y su capacidad de tomar decisiones que afectan a otros lugares."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-06-londres.jpg",
+     "tipo": "foto",
+     "alt": "Vista desde lo alto del centro de Londres: rascacielos de oficinas, uno con forma de pepino, grúas de construcción y muchos edificios más bajos alrededor.",
+     "epigrafe": "La City, el centro financiero de Londres, en 2012. Allí se concentran bancos, aseguradoras y sedes de grandes empresas.",
+     "fuente": "Foto: Keith Edkins, CC BY-SA 2.0, vía Wikimedia Commons. Imagen reducida.",
+     "animacion": "recorrer"
+    },
+    {
+     "t": "comparar",
+     "titulo": "Palabras para entender la ciudad global",
+     "columnas": [
+      "Palabra",
+      "Qué significa"
+     ],
+     "filas": [
+      [
+       "Sede",
+       "Oficina central desde donde se dirige una empresa"
+      ],
+      [
+       "Servicios avanzados",
+       "Finanzas, consultoría, contabilidad, derecho de empresas y publicidad"
+      ],
+      [
+       "Bolsa de valores",
+       "Lugar donde se compran y venden acciones de empresas"
+      ],
+      [
+       "Conectividad",
+       "Cantidad y fuerza de los vínculos con otras ciudades"
+      ]
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Una **ciudad global** concentra las **funciones de dirección** de la economía mundial: sedes de empresas, bancos, bolsas y **servicios avanzados**. No se define por su tamaño sino por su **conexión** con el resto del mundo. El concepto lo usó Saskia Sassen en 1991 para Nueva York, Londres y Tokio."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada palabra con su significado. Si no te acordás, mirá la tabla de palabras.",
+     "pares": [
+      {
+       "a": "Sede",
+       "b": "Oficina central de una empresa"
+      },
+      {
+       "a": "Bolsa de valores",
+       "b": "Lugar donde se compran y venden acciones"
+      },
+      {
+       "a": "Servicios avanzados",
+       "b": "Finanzas, consultoría y derecho de empresas"
+      },
+      {
+       "a": "Conectividad",
+       "b": "Vínculos con otras ciudades"
+      }
+     ],
+     "explicacion": "Estas cuatro cosas juntas hacen que una ciudad sea global.",
+     "pista": "Están en la tabla de palabras para entender la ciudad global."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🔍 Encontrá el error",
+     "pregunta": "Cuatro frases sobre las ciudades globales; una tiene un error. ¿Cuál es?",
+     "opciones": [
+      "Concentran sedes de grandes empresas.",
+      "Una ciudad es global por tener muchos habitantes.",
+      "Tienen bolsas de valores y bancos.",
+      "El concepto lo usó Saskia Sassen."
+     ],
+     "correcta": 1,
+     "explicacion": "Lo que define a una ciudad global es su conexión y sus funciones de dirección, no su tamaño.",
+     "pista": "Releé el segundo párrafo del texto sobre las ciudades que dirigen la economía."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "Saskia Sassen usó el concepto de ciudad global en [[1991]] para Nueva York, Londres y [[Tokio]]. Estas ciudades concentran las funciones de [[dirección]] de la economía mundial. Lo que más importa es su [[conexión]] con el mundo.",
+     "distractores": [
+      "2001",
+      "París",
+      "población"
+     ],
+     "explicacion": "Así se resume el concepto.",
+     "pista": "Releé el texto sobre las ciudades que dirigen la economía mundial."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "En la City de Londres se concentran bancos y aseguradoras.",
+       "v": true,
+       "explicacion": "Lo dice el epígrafe de la foto."
+      },
+      {
+       "texto": "La publicidad es uno de los servicios avanzados.",
+       "v": true,
+       "explicacion": "Junto con las finanzas, la consultoría, la contabilidad y el derecho de empresas."
+      },
+      {
+       "texto": "Toda ciudad con más de diez millones de habitantes es global.",
+       "v": false,
+       "explicacion": "El tamaño no la define."
+      },
+      {
+       "texto": "Las decisiones de una ciudad global pueden afectar a lugares lejanos.",
+       "v": true,
+       "explicacion": "Por eso hablamos de funciones de dirección."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué te parece que las sedes de las grandes empresas y los bancos prefieren estar cerca unos de otros, en pocas ciudades?",
+     "respuesta": "Porque se necesitan entre sí: un banco trabaja con estudios de abogados, consultoras y aseguradoras, y estar cerca facilita las reuniones y los acuerdos. También porque esas ciudades tienen buenos aeropuertos, conexiones de internet y personal especializado."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es una ciudad global y qué la diferencia de una ciudad simplemente grande. Usá las palabras de la tabla.",
+    "guia": [
+     "¿Quién usó el concepto de ciudad global y para qué ciudades?",
+     "¿Qué funciones se concentran en una ciudad global?",
+     "¿Qué son los servicios avanzados?",
+     "¿Por qué el tamaño no alcanza para que una ciudad sea global?",
+     "¿Qué muestra la foto de Londres?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Saskia Sassen usó el concepto de ciudad global en 1991.",
+     "respuesta": true,
+     "explicacion": "Para Nueva York, Londres y Tokio."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Una ciudad global se define por su cantidad de habitantes.",
+     "respuesta": false,
+     "explicacion": "Se define por su conexión y sus funciones de dirección."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La City es el centro financiero de Londres.",
+     "respuesta": true,
+     "explicacion": "Concentra bancos y aseguradoras."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La contabilidad es un servicio avanzado.",
+     "respuesta": true,
+     "explicacion": "Como las finanzas y la consultoría."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Una sede es una fábrica en el campo.",
+     "respuesta": false,
+     "explicacion": "Es la oficina central de una empresa."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En una bolsa de valores se compran y venden acciones.",
+     "respuesta": true,
+     "explicacion": "Es una de las instituciones de las ciudades globales."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Para qué ciudades usó Sassen el concepto?",
+     "opciones": [
+      "Nueva York, Londres y Tokio",
+      "Rosario, Córdoba y Mendoza",
+      "París, Roma y Madrid",
+      "Lagos, El Cairo y Nairobi"
+     ],
+     "correcta": 0,
+     "explicacion": "Nueva York, Londres y Tokio."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué define a una ciudad global?",
+     "opciones": [
+      "Su clima",
+      "Su conexión y sus funciones de dirección",
+      "Su cantidad de habitantes",
+      "Su antigüedad"
+     ],
+     "correcta": 1,
+     "explicacion": "No el tamaño."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos es un servicio avanzado?",
+     "opciones": [
+      "La pesca",
+      "La agricultura",
+      "El derecho de empresas",
+      "La minería"
+     ],
+     "correcta": 2,
+     "explicacion": "Como las finanzas o la publicidad."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es una sede?",
+     "opciones": [
+      "Un puerto",
+      "Una fábrica",
+      "Un barrio",
+      "La oficina central de una empresa"
+     ],
+     "correcta": 3,
+     "explicacion": "Desde allí se dirige la empresa."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué se concentra en la City de Londres?",
+     "opciones": [
+      "Bancos y aseguradoras",
+      "Campos de trigo",
+      "Minas",
+      "Puertos pesqueros"
+     ],
+     "correcta": 0,
+     "explicacion": "Es su centro financiero."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la conectividad de una ciudad?",
+     "opciones": [
+      "Su tamaño",
+      "La cantidad y fuerza de sus vínculos con otras ciudades",
+      "Su altura",
+      "Sus parques"
+     ],
+     "correcta": 1,
+     "explicacion": "Es clave para ser global."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "SASSEN",
+     "pista": "Socióloga que usó el concepto de ciudad global."
+    },
+    {
+     "palabra": "SEDE",
+     "pista": "Oficina central de una empresa."
+    },
+    {
+     "palabra": "BOLSA",
+     "pista": "Lugar donde se compran y venden acciones."
+    },
+    {
+     "palabra": "LONDRES",
+     "pista": "Ciudad global con un gran centro financiero."
+    },
+    {
+     "palabra": "TOKIO",
+     "pista": "Una de las tres ciudades que estudió Sassen."
+    },
+    {
+     "palabra": "SERVICIOS",
+     "pista": "Los \"avanzados\" incluyen finanzas y consultoría."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia a una ciudad global de una ciudad grande?",
+     "opciones": [
+      "Nada",
+      "Que la global concentra funciones de dirección y está muy conectada",
+      "Que la global tiene más habitantes",
+      "Que la global es más vieja"
+     ],
+     "correcta": 1,
+     "explicacion": "El tamaño no alcanza."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tienen en común las finanzas, la consultoría y la publicidad?",
+     "opciones": [
+      "Son actividades rurales",
+      "Son servicios avanzados",
+      "Son industrias pesadas",
+      "Son deportes"
+     ],
+     "correcta": 1,
+     "explicacion": "Se concentran en las ciudades globales."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué las empresas y los bancos se concentran en pocas ciudades?",
+     "opciones": [
+      "Porque se necesitan entre sí y esas ciudades están muy conectadas",
+      "Porque es más barato",
+      "Porque lo exige la ley",
+      "Porque no hay otras ciudades"
+     ],
+     "correcta": 0,
+     "explicacion": "La cercanía facilita los negocios."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Nudos de una red mundial",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Las ciudades como nudos",
+     "texto": "Las ciudades globales funcionan como **nudos** de una red que cubre todo el planeta. Por esa red circulan cuatro tipos de **flujos**: **personas** (en aviones que unen aeropuertos), **capitales** (dinero que se invierte o se presta), **información** (por cables de fibra óptica y satélites) y **mercancías** (en barcos y aviones de carga).\n\nCuanto más flujos pasan por una ciudad, más importante es su papel en el escenario mundial."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-06-red-ciudades.svg",
+     "tipo": "grafico",
+     "alt": "Esquema de una red de ciudades unidas por líneas. Londres y Nueva York tienen los círculos más grandes y la mayor cantidad de conexiones. También aparecen París, Dubái, Singapur, Hong Kong, Shanghái, Tokio, Ciudad de México, São Paulo y Buenos Aires.",
+     "epigrafe": "Esquema elaborado para esta clase: no es un mapa. Las líneas representan conexiones en general, no rutas reales.",
+     "animacion": "aparecer"
+    },
+    {
+     "t": "texto",
+     "titulo": "Quién mide la red",
+     "texto": "Desde hace más de veinte años, un grupo de investigación de universidades del Reino Unido y Bélgica, llamado **GaWC**, clasifica las ciudades del mundo según dónde tienen oficinas las grandes empresas de servicios avanzados. En su estudio de 2024 analizó 785 ciudades.\n\nEn el nivel más alto (**Alfa++**) quedaron solo dos: **Londres** y **Nueva York**. Entre las 49 ciudades de nivel **Alfa** hay cuatro de América Latina: Buenos Aires, Ciudad de México, Santiago de Chile y São Paulo."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-06-aeropuerto.jpg",
+     "tipo": "foto",
+     "alt": "Interior de una terminal de aeropuerto con mucha gente caminando con valijas y mochilas, asientos ocupados y carteles que indican las puertas de embarque.",
+     "epigrafe": "Pasajeros en el aeropuerto de Calcuta (India), en 2020. Los aeropuertos son una de las puertas por donde entran y salen los flujos de personas.",
+     "fuente": "Foto: shankar s., CC BY 2.0, vía Wikimedia Commons. Imagen reducida.",
+     "animacion": "alejar"
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Las ciudades globales son **nudos** de una red mundial por donde circulan **personas**, **capitales**, **información** y **mercancías**. Según el estudio **GaWC** de 2024, las más conectadas son **Londres** y **Nueva York**. **Buenos Aires** está entre las 49 ciudades de nivel Alfa."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Qué tipo de flujo es cada ejemplo?",
+     "categorias": [
+      "Personas",
+      "Capitales",
+      "Información",
+      "Mercancías"
+     ],
+     "items": [
+      {
+       "texto": "Un vuelo con turistas de Madrid a Buenos Aires",
+       "cat": "Personas"
+      },
+      {
+       "texto": "Un banco de Londres presta dinero a una empresa brasileña",
+       "cat": "Capitales"
+      },
+      {
+       "texto": "Una videollamada entre Tokio y Nueva York",
+       "cat": "Información"
+      },
+      {
+       "texto": "Un barco con autos de Corea a Santos",
+       "cat": "Mercancías"
+      }
+     ],
+     "explicacion": "Los cuatro flujos circulan al mismo tiempo por la red de ciudades.",
+     "pista": "Releé el texto sobre las ciudades como nudos."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená estos pasos de cómo GaWC arma su clasificación.",
+     "items": [
+      "Elige grandes empresas de servicios avanzados",
+      "Averigua en qué ciudades tienen oficinas",
+      "Mide el tamaño y la función de esas oficinas",
+      "Clasifica las ciudades en niveles, de Alfa++ para abajo"
+     ],
+     "explicacion": "Así GaWC mide qué tan conectada está cada ciudad.",
+     "pista": "Releé el texto sobre quién mide la red."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Completá el dato: según el estudio GaWC de 2024, ¿cuántas ciudades quedaron en el nivel más alto, Alfa++?",
+     "respuesta": "2",
+     "acepta": [
+      "2",
+      "dos"
+     ],
+     "explicacion": "Solo Londres y Nueva York.",
+     "pista1": "Buscalo en el texto sobre quién mide la red.",
+     "pista": "Son las dos ciudades con los círculos más grandes del esquema."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "En el esquema de la red, ¿por qué Londres y Nueva York tienen los círculos más grandes?",
+     "opciones": [
+      "Porque son las más pobladas del mundo",
+      "Porque son las más antiguas",
+      "Porque son las más conectadas según GaWC",
+      "Porque están en el mismo país"
+     ],
+     "correcta": 2,
+     "explicacion": "El tamaño del círculo muestra la conexión, no la población.",
+     "pista": "Mirá la referencia del esquema y el texto sobre quién mide la red."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿qué ventajas y qué riesgos puede tener para Buenos Aires estar conectada a esta red?",
+     "respuesta": "Una ventaja es que llegan inversiones, empresas, turismo y empleo en servicios. Un riesgo es depender de lo que se decide en otros nudos: si hay una crisis en Nueva York o Londres, el efecto puede llegar rápido a Buenos Aires por la misma red."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá cómo funcionan las ciudades globales como nudos de una red. Nombrá los cuatro tipos de flujos con un ejemplo de cada uno y contá qué lugar ocupan Londres, Nueva York y Buenos Aires.",
+    "guia": [
+     "¿Qué significa que una ciudad sea un nudo de una red?",
+     "¿Cuáles son los cuatro tipos de flujos?",
+     "¿Qué es GaWC y qué mide?",
+     "¿Qué ciudades quedaron en el nivel más alto en 2024?",
+     "¿Qué ciudades de América Latina son de nivel Alfa?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Por la red de ciudades circulan personas, capitales, información y mercancías.",
+     "respuesta": true,
+     "explicacion": "Son los cuatro tipos de flujos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "GaWC clasificó a Buenos Aires como ciudad de nivel Alfa.",
+     "respuesta": true,
+     "explicacion": "Está entre las 49 ciudades Alfa."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En 2024, Tokio fue la única ciudad Alfa++.",
+     "respuesta": false,
+     "explicacion": "Las Alfa++ son Londres y Nueva York."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un préstamo de un banco es un flujo de capitales.",
+     "respuesta": true,
+     "explicacion": "Es dinero que circula."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El esquema de la red es un mapa a escala.",
+     "respuesta": false,
+     "explicacion": "No es un mapa: las líneas son conexiones en general."
+    },
+    {
+     "tipo": "vf",
+     "texto": "GaWC analizó 785 ciudades en 2024.",
+     "respuesta": true,
+     "explicacion": "Las clasificó en niveles."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tipo de flujo es una videollamada?",
+     "opciones": [
+      "Personas",
+      "Información",
+      "Mercancías",
+      "Capitales"
+     ],
+     "correcta": 1,
+     "explicacion": "Circula por cables y satélites."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué ciudades son Alfa++?",
+     "opciones": [
+      "Londres y Nueva York",
+      "Tokio y París",
+      "Buenos Aires y São Paulo",
+      "Dubái y Singapur"
+     ],
+     "correcta": 0,
+     "explicacion": "Las más conectadas del mundo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué mide GaWC?",
+     "opciones": [
+      "La población de cada ciudad",
+      "Dónde tienen oficinas las grandes empresas de servicios avanzados",
+      "La altura de los edificios",
+      "La cantidad de parques"
+     ],
+     "correcta": 1,
+     "explicacion": "Así mide la conectividad."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas ciudades latinoamericanas es Alfa?",
+     "opciones": [
+      "Lima",
+      "Bogotá",
+      "Santiago de Chile",
+      "Montevideo"
+     ],
+     "correcta": 2,
+     "explicacion": "Junto con Buenos Aires, Ciudad de México y São Paulo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tipo de flujo es un barco con autos?",
+     "opciones": [
+      "Mercancías",
+      "Personas",
+      "Información",
+      "Capitales"
+     ],
+     "correcta": 0,
+     "explicacion": "Son bienes que se transportan."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por dónde entran y salen los flujos de personas?",
+     "opciones": [
+      "Por las bolsas de valores",
+      "Por los bancos",
+      "Por los aeropuertos",
+      "Por los cables de fibra óptica"
+     ],
+     "correcta": 2,
+     "explicacion": "Como el de la foto, en Calcuta."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "NUDO",
+     "pista": "Punto donde se cruzan muchas conexiones de una red."
+    },
+    {
+     "palabra": "FLUJOS",
+     "pista": "Lo que circula por la red: personas, capitales, información y mercancías."
+    },
+    {
+     "palabra": "CAPITALES",
+     "pista": "Dinero que se invierte o se presta."
+    },
+    {
+     "palabra": "RED",
+     "pista": "Conjunto de ciudades conectadas entre sí."
+    },
+    {
+     "palabra": "AEROPUERTO",
+     "pista": "Puerta de entrada y salida de personas."
+    },
+    {
+     "palabra": "ALFA",
+     "pista": "Nivel de la clasificación GaWC donde está Buenos Aires."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa que una ciudad global sea un nudo?",
+     "opciones": [
+      "Que está aislada",
+      "Que por ella pasan muchos flujos de la red mundial",
+      "Que tiene muchas calles",
+      "Que no tiene aeropuerto"
+     ],
+     "correcta": 1,
+     "explicacion": "Concentra conexiones."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas opciones nombra los cuatro tipos de flujos?",
+     "opciones": [
+      "Personas, capitales, información y mercancías",
+      "Ríos, rutas, trenes y autos",
+      "Agua, aire, tierra y fuego",
+      "Bancos, bolsas, sedes y oficinas"
+     ],
+     "correcta": 0,
+     "explicacion": "Son los que circulan por la red."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué lugar ocupa Buenos Aires en la clasificación GaWC 2024?",
+     "opciones": [
+      "No aparece",
+      "Es Alfa++",
+      "Está entre las 49 ciudades de nivel Alfa",
+      "Es la última"
+     ],
+     "correcta": 2,
+     "explicacion": "Junto con otras tres ciudades latinoamericanas."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Conectadas con el mundo, divididas por dentro",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Fragmentación y articulación",
+     "texto": "Las ciudades globales están **articuladas**: muy conectadas con el resto del mundo. Pero por dentro suelen estar **fragmentadas**: algunos barrios concentran oficinas modernas, hoteles, comercios caros y buenas conexiones, mientras otros quedan lejos de esos beneficios.\n\nSassen señaló que en las ciudades globales crecen a la vez dos grupos de trabajadores: profesionales muy bien pagos de las finanzas y los servicios avanzados, y trabajadores con salarios bajos que limpian oficinas, reparten pedidos o cuidan a otras personas. A ese proceso lo llamó **polarización social**."
+    },
+    {
+     "t": "cita",
+     "etiqueta": "Una historia inventada",
+     "texto": "Me llamo Valentina y trabajo en una consultora del centro, en el piso 22. Desde la ventana veo toda la ciudad. Mi vecina de la infancia, Rocío, trabaja en el mismo edificio, pero en la limpieza, en el turno de la noche. Viajamos dos horas en colectivo para llegar. Ella, a la vuelta, dos horas más.",
+     "autor": "Relato inventado para esta clase. Valentina y Rocío no existen."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Dos caras de la misma ciudad",
+     "columnas": [
+      "Articulación (hacia afuera)",
+      "Fragmentación (hacia adentro)"
+     ],
+     "filas": [
+      [
+       "Sedes de empresas y bancos conectados con el mundo",
+       "Barrios con pocos servicios y lejos del centro"
+      ],
+      [
+       "Profesionales con salarios altos",
+       "Trabajadores de servicios con salarios bajos"
+      ],
+      [
+       "Aeropuertos y conexiones rápidas",
+       "Viajes largos para llegar al trabajo"
+      ]
+     ]
+    },
+    {
+     "t": "dato",
+     "titulo": "Hoy en Buenos Aires",
+     "texto": "Buenos Aires concentra sedes de empresas, bancos, la bolsa y el principal aeropuerto internacional del país. Al mismo tiempo, en su área metropolitana hay barrios que tienen mejores conexiones y servicios que otros. Por eso es un ejemplo cercano de articulación y fragmentación."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Las ciudades globales están **articuladas** con el mundo pero **fragmentadas** por dentro. Sassen describió la **polarización social**: crecen a la vez los trabajos muy bien pagos de los servicios avanzados y los trabajos con salarios bajos. Buenos Aires muestra las dos caras."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🗣️ ¿Quién lo diría?",
+     "pregunta": "La frase es inventada: \"Mi trabajo es repartir pedidos en bicicleta por las oficinas del centro\". Según lo que viste, ¿de qué grupo de trabajadores es parte?",
+     "opciones": [
+      "Profesionales de las finanzas",
+      "Trabajadores de servicios con salarios bajos",
+      "Directivos de una sede",
+      "Ninguno de los dos"
+     ],
+     "correcta": 1,
+     "explicacion": "Sassen señaló que en las ciudades globales también crecen los trabajos de servicios con salarios bajos.",
+     "pista": "Releé el segundo párrafo del texto sobre fragmentación y articulación."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada concepto con su ejemplo.",
+     "pares": [
+      {
+       "a": "Articulación",
+       "b": "Una sede conectada con oficinas de todo el mundo"
+      },
+      {
+       "a": "Fragmentación",
+       "b": "Barrios de una misma ciudad con servicios muy distintos"
+      },
+      {
+       "a": "Polarización social",
+       "b": "Crecen a la vez los sueldos muy altos y los muy bajos"
+      }
+     ],
+     "explicacion": "Los tres conceptos describen la misma ciudad desde lugares distintos.",
+     "pista": "Mirá la tabla de las dos caras de la ciudad."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "Las ciudades globales están [[articuladas]] con el mundo, pero por dentro están [[fragmentadas]]. Sassen llamó [[polarización]] social al crecimiento de los trabajos muy bien pagos y de los trabajos con salarios [[bajos]].",
+     "distractores": [
+      "aisladas",
+      "altos",
+      "unidas"
+     ],
+     "explicacion": "Así se resumen las dos caras de la ciudad global.",
+     "pista": "Releé el recuadro \"Para recordar\"."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "La historia de Valentina y Rocío es un relato real.",
+       "v": false,
+       "explicacion": "Es un relato inventado para la clase."
+      },
+      {
+       "texto": "En una ciudad global pueden convivir barrios muy conectados y barrios con pocos servicios.",
+       "v": true,
+       "explicacion": "Eso es la fragmentación."
+      },
+      {
+       "texto": "La polarización social significa que todos ganan parecido.",
+       "v": false,
+       "explicacion": "Significa que crecen a la vez los sueldos muy altos y los muy bajos."
+      },
+      {
+       "texto": "Buenos Aires muestra a la vez articulación y fragmentación.",
+       "v": true,
+       "explicacion": "Lo cuenta el recuadro sobre Buenos Aires."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: Valentina y Rocío trabajan en el mismo edificio. ¿Qué diferencias hay en cómo viven la misma ciudad global?",
+     "respuesta": "Las dos dependen de la ciudad global para trabajar, pero no reciben lo mismo de ella. Una tiene un trabajo bien pago dentro de la red mundial; la otra hace un trabajo necesario para que esa red funcione, con un salario bajo y en un horario nocturno. Y las dos viajan mucho: la fragmentación también se nota en el tiempo de viaje."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué significa que una ciudad global esté articulada hacia afuera y fragmentada hacia adentro. Usá el relato de Valentina y Rocío y el caso de Buenos Aires como ejemplos.",
+    "guia": [
+     "¿Qué es la articulación?",
+     "¿Qué es la fragmentación?",
+     "¿Qué es la polarización social, según Sassen?",
+     "¿Qué muestra el relato de Valentina y Rocío?",
+     "¿Por qué Buenos Aires es un ejemplo de las dos caras?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Las ciudades globales están articuladas con el mundo.",
+     "respuesta": true,
+     "explicacion": "Están muy conectadas hacia afuera."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La fragmentación significa que todos los barrios tienen los mismos servicios.",
+     "respuesta": false,
+     "explicacion": "Significa que hay grandes diferencias entre barrios."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Sassen habló de polarización social en las ciudades globales.",
+     "respuesta": true,
+     "explicacion": "Crecen a la vez los sueldos muy altos y los muy bajos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Repartir pedidos es un trabajo de servicios con salario alto.",
+     "respuesta": false,
+     "explicacion": "Suele ser un trabajo de servicios con salario bajo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el área metropolitana de Buenos Aires hay barrios con mejores conexiones y servicios que otros.",
+     "respuesta": true,
+     "explicacion": "Lo dice el recuadro sobre Buenos Aires."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La historia de Valentina y Rocío es inventada.",
+     "respuesta": true,
+     "explicacion": "Sirve para ponerse en el lugar de dos personas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la articulación de una ciudad global?",
+     "opciones": [
+      "Su conexión con el resto del mundo",
+      "Su cantidad de barrios",
+      "Sus calles",
+      "Su clima"
+     ],
+     "correcta": 0,
+     "explicacion": "Hacia afuera, está muy conectada."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la fragmentación?",
+     "opciones": [
+      "Que la ciudad crece",
+      "Que hay grandes diferencias entre los barrios",
+      "Que la ciudad tiene muchos edificios",
+      "Que la ciudad está junto al mar"
+     ],
+     "correcta": 1,
+     "explicacion": "Por dentro, la ciudad está dividida."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué trabajo hace Rocío en el relato?",
+     "opciones": [
+      "Consultora",
+      "Directiva",
+      "Limpieza nocturna",
+      "Piloto"
+     ],
+     "correcta": 2,
+     "explicacion": "Trabaja en el mismo edificio, en la limpieza."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué crece a la vez en la polarización social?",
+     "opciones": [
+      "Los sueldos muy altos y los muy bajos",
+      "Los parques y las plazas",
+      "Los ríos y los lagos",
+      "Las escuelas y los hospitales"
+     ],
+     "correcta": 0,
+     "explicacion": "Por eso se habla de polarización."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos es un ejemplo de articulación?",
+     "opciones": [
+      "Barrios con pocos servicios",
+      "Un viaje de dos horas",
+      "Un salario bajo",
+      "Una sede conectada con oficinas de todo el mundo"
+     ],
+     "correcta": 3,
+     "explicacion": "Es la conexión hacia afuera."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué muestra el relato de Valentina y Rocío?",
+     "opciones": [
+      "Que todos viven igual la ciudad",
+      "Que dos personas viven la misma ciudad global de maneras muy distintas",
+      "Que no hay trabajo en las ciudades",
+      "Que nadie viaja"
+     ],
+     "correcta": 1,
+     "explicacion": "Es la fragmentación vista de cerca."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "ARTICULACIÓN",
+     "pista": "Conexión de la ciudad con el resto del mundo."
+    },
+    {
+     "palabra": "FRAGMENTACIÓN",
+     "pista": "División de la ciudad en barrios muy distintos."
+    },
+    {
+     "palabra": "POLARIZACIÓN",
+     "pista": "Crecen a la vez los sueldos muy altos y los muy bajos."
+    },
+    {
+     "palabra": "BARRIO",
+     "pista": "Parte de una ciudad."
+    },
+    {
+     "palabra": "SALARIO",
+     "pista": "Lo que se cobra por trabajar."
+    },
+    {
+     "palabra": "METROPOLITANA",
+     "pista": "El área que rodea a una gran ciudad y depende de ella."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué quiere decir que una ciudad global esté articulada hacia afuera y fragmentada hacia adentro?",
+     "opciones": [
+      "Que está conectada con el mundo pero tiene grandes diferencias entre sus barrios",
+      "Que no tiene barrios",
+      "Que está aislada",
+      "Que todos sus habitantes ganan lo mismo"
+     ],
+     "correcta": 0,
+     "explicacion": "Son sus dos caras."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué describió Sassen con la polarización social?",
+     "opciones": [
+      "Que todos los trabajos se pagan igual",
+      "Que crecen a la vez los trabajos muy bien pagos y los de salarios bajos",
+      "Que desaparecen los trabajos",
+      "Que solo hay trabajos rurales"
+     ],
+     "correcta": 1,
+     "explicacion": "Las dos puntas crecen al mismo tiempo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué Buenos Aires es un ejemplo cercano?",
+     "opciones": [
+      "Porque no tiene aeropuerto",
+      "Porque no tiene empresas",
+      "Porque concentra sedes y conexiones y, a la vez, tiene barrios con servicios muy distintos",
+      "Porque es un pueblo"
+     ],
+     "correcta": 2,
+     "explicacion": "Muestra las dos caras."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Ciudad global",
+   "definicion": "Ciudad que concentra funciones de dirección de la economía mundial y está muy conectada con el resto del mundo."
+  },
+  {
+   "palabra": "Servicios avanzados",
+   "definicion": "Finanzas, consultoría, contabilidad, derecho de empresas y publicidad."
+  },
+  {
+   "palabra": "Sede",
+   "definicion": "Oficina central desde donde se dirige una empresa."
+  },
+  {
+   "palabra": "Flujos",
+   "definicion": "Personas, capitales, información y mercancías que circulan entre ciudades."
+  },
+  {
+   "palabra": "Articulación",
+   "definicion": "Conexión de una ciudad con el resto del mundo."
+  },
+  {
+   "palabra": "Fragmentación",
+   "definicion": "División de una ciudad en barrios con condiciones muy distintas."
+  },
+  {
+   "palabra": "Polarización social",
+   "definicion": "Crecimiento simultáneo de trabajos muy bien pagos y de trabajos con salarios bajos."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Una ciudad es global porque tiene muchos habitantes.",
+   "aclaracion": "Lo que la define es su conexión con el mundo y sus funciones de dirección, no su tamaño."
+  },
+  {
+   "error": "En una ciudad global todos viven bien.",
+   "aclaracion": "Están conectadas hacia afuera pero fragmentadas por dentro, con grandes diferencias entre barrios."
+  },
+  {
+   "error": "Buenos Aires no tiene nada que ver con las ciudades globales.",
+   "aclaracion": "Según GaWC (2024), está entre las 49 ciudades de nivel Alfa."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "¿Qué conexiones con el mundo tiene la ciudad donde vivís? Pensá en lo que se produce, en cómo llega la información y en quiénes viajan.",
+  "conexion": "Con la clase sobre las ciudades de Asia y la megalópolis japonesa: allí vas a ver a Tokio, una de las tres ciudades que estudió Sassen."
+ }
+}

@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mi trabajo práctico · Acompañamiento Pedagógico</title>
+<link rel="stylesheet" href="css/potenciar.css">
+</head>
+<body>
+<div id="cab"></div>
+<main class="contenedor ancho"><div id="tp"><p class="ayuda">Cargando…</p></div></main>
+<script type="module">
+import { cargarJSON, cabecera, esc, leer } from './js/estado.js';
+import { montarTP } from './js/tp.js';
+import { personajeDe, personalizar, vozDelPersonaje } from './js/personajes.js';
+
+document.getElementById('cab').innerHTML = cabecera({ volver: { href: 'recorrido.html', texto: 'Mi recorrido' } });
+try {
+  const e = leer();
+  const esp = new URLSearchParams(location.search).get('e') || e.espacio;
+  if (!/^[a-z0-9-]+$/.test(esp || '')) throw new Error('Espacio no válido');
+  let [tp, oral, cat] = await Promise.all([cargarJSON(`contenidos/tp/${esp}.json`), cargarJSON('contenidos/tp/oral.json'), cargarJSON('contenidos/catalogo.json')]);
+  // Inglés: el TP es la biografía del personaje elegido
+  if (tp.estructura === 'biografia') {
+    const pj = await personajeDe(e);
+    if (!pj) { location.replace('index.html?cambiar=1'); throw new Error('Primero elegí tu personaje.'); }
+    tp = personalizar(tp, pj); vozDelPersonaje(pj);
+    tp._pj = pj;
+  }
+  const contenidos = (cat.contenidos[esp] || []).filter(c => e.seleccion.includes(c.id) && c.activo);
+  if (!contenidos.length) throw new Error('Primero elegí los contenidos que querés trabajar.');
+  // Clases de los contenidos elegidos: el TP muestra lo que el alumno ya escribió en su carpeta
+  const clases = {};
+  for (const c of contenidos) if (c.clase) { try { clases[c.id] = await cargarJSON(`contenidos/clases/${c.clase}.json`); } catch {} }
+  if (tp._pj) for (const k of Object.keys(clases)) clases[k] = personalizar(clases[k], tp._pj);
+  montarTP({ root: document.getElementById('tp'), tp, oral, contenidos, clases, espacio: esp });
+} catch (err) {
+  document.getElementById('tp').innerHTML = `<div class="tarjeta"><b>No se pudo abrir el trabajo práctico.</b><br>${esc(err.message)}<br><a href="recorrido.html">Volver a mi recorrido</a></div>`;
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,1210 @@
+{
+  "espacio": "historia",
+  "titulo": "Mi trabajo práctico de Historia",
+  "intro": "En un buen trabajo práctico de Historia no alcanza con enumerar fechas: tenés que explicar por qué pasaron las cosas, quiénes participaron, qué cambió y qué continuó, y relacionarlo con el presente. Eso es lo que vas a presentar y defender.",
+  "claves_contenido": {
+    "h1": [
+      "saenz pena",
+      "1912",
+      "yrigoyen",
+      "alvear",
+      "radical",
+      "ucr",
+      "sectores medios",
+      "semana tragica",
+      "reforma universitaria",
+      "primera guerra",
+      "1916"
+    ],
+    "h2": [
+      "nacionalis",
+      "fascis",
+      "nazis",
+      "mussolini",
+      "hitler",
+      "liga patriotica",
+      "lugones",
+      "forja",
+      "entreguerras",
+      "autoritar"
+    ],
+    "h3": [
+      "1929",
+      "gran depresion",
+      "wall street",
+      "1930",
+      "golpe",
+      "decada infame",
+      "fraude",
+      "industrializacion",
+      "sustitu",
+      "isi",
+      "migraci",
+      "banco central"
+    ],
+    "h4": [
+      "peron",
+      "peronismo",
+      "17 de octubre",
+      "1946",
+      "secretaria de trabajo",
+      "aguinaldo",
+      "vacaciones",
+      "voto femenino",
+      "eva",
+      "planes quinquenales",
+      "nacionaliz",
+      "democracia de masas",
+      "justicia social",
+      "1955"
+    ],
+    "h6": [
+      "guerra fria",
+      "tercer mundo",
+      "no alinea",
+      "bandung",
+      "belgrado",
+      "norte",
+      "sur",
+      "descoloniz",
+      "cuba",
+      "revolucion cubana",
+      "fidel",
+      "castro",
+      "guevara",
+      "1959",
+      "bloqueo",
+      "alianza para el progreso"
+    ],
+    "h5": [
+      "riqueza",
+      "distribucion",
+      "ingreso",
+      "salario",
+      "ganancia",
+      "empresari",
+      "sociedad rural",
+      "union industrial",
+      "cgt",
+      "sindicato",
+      "movimiento obrero",
+      "convenio",
+      "iapi",
+      "redistribu",
+      "cge"
+    ],
+    "h7": [
+      "proscrip",
+      "frondizi",
+      "illia",
+      "ongania",
+      "cordobazo",
+      "violencia",
+      "1976",
+      "junta",
+      "dictadura",
+      "terrorismo de estado",
+      "desaparec",
+      "madres",
+      "abuelas",
+      "malvinas",
+      "1983",
+      "alfonsin",
+      "conadep"
+    ],
+    "h8": [
+      "neoliberal",
+      "privatiz",
+      "apertura",
+      "desregul",
+      "consenso de washington",
+      "mercado",
+      "deuda",
+      "martinez de hoz",
+      "pinochet",
+      "convertibilidad",
+      "hiperinflacion",
+      "1991",
+      "desocup"
+    ],
+    "h9": [
+      "2001",
+      "corralito",
+      "recesion",
+      "devalu",
+      "globalizacion",
+      "asamblea",
+      "trueque",
+      "recuperad",
+      "desocupados",
+      "mercosur",
+      "unasur",
+      "celac",
+      "integracion",
+      "rol del estado"
+    ]
+  },
+  "portada": {
+    "instruccion": "Escribí la introducción de tu trabajo: presentá el período de la historia argentina que abarca, los temas que incluye y por qué te parece importante conocerlos.",
+    "guia": [
+      "¿Entre qué años transcurre lo que vas a contar?",
+      "¿Qué temas incluye tu trabajo y en qué orden los vas a presentar?",
+      "¿Por qué sirve conocer este período para entender la Argentina de hoy?"
+    ],
+    "claves": [
+      {
+        "k": [
+          "trabajo trata",
+          "este trabajo",
+          "trata sobre",
+          "presento",
+          "voy a"
+        ],
+        "p": "de qué trata el trabajo"
+      },
+      {
+        "k": [
+          "1912",
+          "1916",
+          "1930",
+          "1946",
+          "1955",
+          "siglo xx",
+          "periodo",
+          "etapa",
+          "entre"
+        ],
+        "p": "el período que abarca"
+      },
+      {
+        "k": [
+          "porque",
+          "importante",
+          "permite",
+          "ayuda a entender",
+          "sirve"
+        ],
+        "p": "por qué es importante"
+      }
+    ],
+    "referencia": "Período (entre 1912 y 1955, según los temas), temas incluidos en orden y por qué es importante conocerlos.",
+    "minPalabras": 25,
+    "modelo": "Este trabajo práctico trata sobre {temas}. Abarca el período de la historia argentina que va desde …… hasta …….\n\nPrimero voy a presentar ……; después, ……; y por último, ……. Elegí este orden porque …….\n\nConocer este período es importante para entender la Argentina de hoy porque ……."
+  },
+  "desarrollo": {
+    "h1": {
+      "instruccion": "Explicá cómo se amplió la participación política entre 1912 y 1930. Contá qué cambió con la Ley Sáenz Peña, quiénes llegaron al gobierno con la UCR, qué hechos y conflictos marcaron esos años, qué límites tuvo esa democracia y cómo influyó la Primera Guerra Mundial.",
+      "guia": [
+        "¿Cómo eran las elecciones antes de 1912 y qué cambió con la ley?",
+        "¿A qué sectores sociales representaba la UCR y quiénes gobernaron entre 1916 y 1930?",
+        "¿Qué hechos de participación y qué conflictos sociales hubo en esos años?",
+        "¿Por qué decimos que esa democracia tuvo límites?",
+        "¿Cómo afectó la Primera Guerra Mundial a la economía argentina?"
+      ],
+      "claves": [
+        {
+          "k": [
+            "saenz pena",
+            "1912"
+          ],
+          "p": "la Ley Sáenz Peña"
+        },
+        {
+          "k": [
+            "secreto",
+            "obligatorio"
+          ],
+          "p": "cómo pasó a ser el voto"
+        },
+        {
+          "k": [
+            "yrigoyen",
+            "alvear",
+            "ucr",
+            "radical"
+          ],
+          "p": "los gobiernos radicales"
+        },
+        {
+          "k": [
+            "sectores medios",
+            "clase media",
+            "hijos de inmigrantes"
+          ],
+          "p": "los sectores medios"
+        },
+        {
+          "k": [
+            "semana tragica",
+            "patagonia",
+            "reforma universitaria",
+            "ypf"
+          ],
+          "p": "un hecho o conflicto del período"
+        },
+        {
+          "k": [
+            "mujer",
+            "reprim",
+            "limite"
+          ],
+          "p": "los límites de esa democracia"
+        },
+        {
+          "k": [
+            "guerra",
+            "neutral",
+            "exporta",
+            "importa"
+          ],
+          "p": "la influencia de la Primera Guerra Mundial"
+        }
+      ],
+      "referencia": "Ley Sáenz Peña (1912): voto secreto, universal masculino y obligatorio; antes había fraude y voto público. Yrigoyen (1916-22 y 1928-30) y Alvear (1922-28), con apoyo de sectores medios. Reforma Universitaria (1918), Semana Trágica (1919), huelgas en la Patagonia, YPF (1922). Límites: no votaban mujeres ni extranjeros; represión. Primera Guerra: neutralidad, comercio alterado, algo de industria local.",
+      "minPalabras": 60,
+      "modelo": "Antes de 1912, las elecciones en la Argentina ……. Con la Ley Sáenz Peña, el voto pasó a ser ……. Gracias a esa ley, en …… llegó al gobierno ……, que representaba sobre todo a …….\n\nEntre 1916 y 1930 gobernaron ……. En esos años hubo hechos como …… y también conflictos como ……. Por eso decimos que esa democracia tuvo límites: …….\n\nAdemás, la Primera Guerra Mundial afectó a la economía argentina porque ……."
+    },
+    "h2": {
+      "instruccion": "Explicá qué fueron los nacionalismos del período de entreguerras: por qué crecieron, qué rasgos tenían, cómo fueron el fascismo y el nazismo y qué formas tomó el nacionalismo en la Argentina y en América Latina.",
+      "guia": [
+        "¿Qué problemas de la época (guerra, crisis, Revolución Rusa) ayudaron a que crecieran?",
+        "¿Qué rasgos tenía un nacionalismo autoritario?",
+        "¿Quiénes lideraron el fascismo y el nazismo, cuándo llegaron al poder y qué los diferenciaba?",
+        "¿Qué ejemplos de nacionalismo autoritario y de nacionalismo popular hubo en la Argentina?",
+        "¿Qué pasó en Brasil con Vargas?"
+      ],
+      "claves": [
+        {
+          "k": [
+            "nacion",
+            "patria"
+          ],
+          "p": "la exaltación de la nación"
+        },
+        {
+          "k": [
+            "lider",
+            "partido unico",
+            "autoritar"
+          ],
+          "p": "los rasgos autoritarios"
+        },
+        {
+          "k": [
+            "crisis",
+            "versalles",
+            "revolucion rusa",
+            "guerra"
+          ],
+          "p": "por qué crecieron"
+        },
+        {
+          "k": [
+            "fascis",
+            "mussolini"
+          ],
+          "p": "el fascismo"
+        },
+        {
+          "k": [
+            "nazis",
+            "hitler"
+          ],
+          "p": "el nazismo"
+        },
+        {
+          "k": [
+            "liga patriotica",
+            "lugones",
+            "uriburu",
+            "forja",
+            "jauretche",
+            "scalabrini"
+          ],
+          "p": "ejemplos en la Argentina"
+        },
+        {
+          "k": [
+            "vargas",
+            "brasil",
+            "estado novo"
+          ],
+          "p": "un ejemplo de América Latina"
+        }
+      ],
+      "referencia": "Crecieron por la posguerra, el Tratado de Versalles, la Revolución Rusa y la crisis de 1929. Rasgos: exaltación de la nación, líder fuerte, partido único, rechazo al liberalismo y al comunismo. Fascismo: Mussolini, 1922. Nazismo: Hitler, 1933, racismo y antisemitismo (Holocausto). Argentina: Liga Patriótica, Lugones, Uriburu (autoritarios) y FORJA (popular). Brasil: Vargas, Estado Novo (1937).",
+      "minPalabras": 60,
+      "modelo": "Después de la Primera Guerra Mundial, en Europa ……. En ese clima crecieron los nacionalismos autoritarios, que se caracterizaban por …….\n\nLos dos casos más conocidos fueron ……, en Italia, y ……, en Alemania. Se parecían en ……, pero se diferenciaban en …….\n\nEn América Latina también hubo nacionalismos, por ejemplo ……. En la Argentina hubo un nacionalismo ……, como ……, y otro ……, como ……."
+    },
+    "h3": {
+      "instruccion": "Explicá cómo la crisis de 1929 cambió la Argentina: cómo llegó la crisis al país, qué pasó en 1930 y durante la Década Infame, cómo cambió el rol del Estado y qué fue la industrialización sustitutiva de importaciones, con sus cambios en el trabajo y las ciudades.",
+      "guia": [
+        "¿Qué pasó en 1929 y por qué afectó tanto a un país agroexportador?",
+        "¿Qué ocurrió el 6 de septiembre de 1930 y cómo fue la Década Infame?",
+        "¿Qué hizo el Estado para intervenir en la economía?",
+        "¿Qué es la industrialización sustitutiva de importaciones y por qué se aceleró con la Segunda Guerra?",
+        "¿Cómo cambiaron el trabajo y las ciudades?"
+      ],
+      "claves": [
+        {
+          "k": [
+            "1929",
+            "wall street",
+            "bolsa",
+            "gran depresion"
+          ],
+          "p": "la crisis de 1929"
+        },
+        {
+          "k": [
+            "exporta",
+            "agroexport",
+            "precio",
+            "divisas"
+          ],
+          "p": "cómo afectó a la Argentina"
+        },
+        {
+          "k": [
+            "1930",
+            "uriburu",
+            "golpe"
+          ],
+          "p": "el golpe de 1930"
+        },
+        {
+          "k": [
+            "decada infame",
+            "fraude"
+          ],
+          "p": "la Década Infame"
+        },
+        {
+          "k": [
+            "estado",
+            "banco central",
+            "juntas",
+            "interven"
+          ],
+          "p": "el nuevo rol del Estado"
+        },
+        {
+          "k": [
+            "industri",
+            "sustitu",
+            "isi"
+          ],
+          "p": "la industrialización sustitutiva"
+        },
+        {
+          "k": [
+            "migrac",
+            "ciudad",
+            "obrer"
+          ],
+          "p": "los cambios sociales"
+        }
+      ],
+      "referencia": "Crac de Wall Street (1929): cayeron la demanda y los precios; entraron menos divisas. Golpe de Uriburu (6/9/1930) contra Yrigoyen; Década Infame (1930-1943) con fraude. El Estado interviene: control de cambios, juntas reguladoras, Banco Central (1935). ISI: fabricar lo que antes se importaba, acelerada en la Segunda Guerra. Crece la clase obrera urbana y hay migraciones internas.",
+      "minPalabras": 60,
+      "modelo": "En 1929 ……, y eso afectó a la Argentina porque …….\n\nEn 1930 ……, y comenzó la etapa conocida como Década Infame, que se caracterizó por …….\n\nPara enfrentar la crisis, el Estado empezó a ……, por ejemplo con ……. Como era difícil importar, el país empezó a ……: es la industrialización sustitutiva. Este proceso cambió la vida en las ciudades porque ……."
+    },
+    "h4": {
+      "instruccion": "Explicá qué fue el peronismo entre 1943 y 1955: cómo llegó Perón al gobierno, qué derechos se ampliaron, qué papel tuvo el Estado en la economía, quiénes lo apoyaron y por qué se habla de democracia de masas con límites. Contá también cómo terminó esa etapa.",
+      "guia": [
+        "¿Qué hizo Perón desde la Secretaría de Trabajo y qué pasó el 17 de octubre de 1945?",
+        "¿Qué derechos laborales, políticos y sociales se ampliaron?",
+        "¿Cómo intervino el Estado en la economía y quiénes apoyaron ese modelo?",
+        "¿Por qué se habla de democracia de masas y cuáles fueron sus límites?",
+        "¿Cómo terminó el gobierno de Perón?"
+      ],
+      "claves": [
+        {
+          "k": [
+            "secretaria de trabajo",
+            "1943"
+          ],
+          "p": "la Secretaría de Trabajo"
+        },
+        {
+          "k": [
+            "17 de octubre",
+            "plaza de mayo",
+            "movilizacion"
+          ],
+          "p": "el 17 de octubre de 1945"
+        },
+        {
+          "k": [
+            "1946",
+            "elecciones"
+          ],
+          "p": "la llegada al gobierno en 1946"
+        },
+        {
+          "k": [
+            "aguinaldo",
+            "vacaciones",
+            "voto femenino",
+            "indemnizacion",
+            "gratuidad"
+          ],
+          "p": "derechos ampliados"
+        },
+        {
+          "k": [
+            "planes quinquenales",
+            "nacionaliz",
+            "iapi",
+            "planific"
+          ],
+          "p": "el Estado en la economía"
+        },
+        {
+          "k": [
+            "democracia de masas",
+            "oposicion",
+            "prensa",
+            "limite"
+          ],
+          "p": "la democracia de masas y sus límites"
+        },
+        {
+          "k": [
+            "1955",
+            "golpe"
+          ],
+          "p": "el final en 1955"
+        }
+      ],
+      "referencia": "Desde la Secretaría de Trabajo (1943) Perón se acercó a los sindicatos; detenido el 9/10/1945, el 17 de octubre una movilización pidió su liberación; ganó en 1946. Derechos: aguinaldo, vacaciones pagas, indemnizaciones, voto femenino (1947, primera votación 1951), gratuidad universitaria (1949). Estado planificador: planes quinquenales, nacionalización de ferrocarriles (1948), IAPI. Apoyo de trabajadores y empresarios industriales. Democracia de masas con restricciones a la oposición y control de la prensa. Golpe de 1955.",
+      "minPalabras": 60,
+      "modelo": "Después del golpe de 1943, Perón ……. El 17 de octubre de 1945 ……, y en 1946 …….\n\nDurante el primer peronismo se ampliaron derechos como …… y ……. El Estado intervino en la economía mediante ……, con el apoyo de …….\n\nSe habla de democracia de masas porque ……; sin embargo, hubo límites como ……. Esta etapa terminó en …… con ……."
+    },
+    "h6": {
+      "instruccion": "Explicá cómo cambió el mundo después de 1945 y qué lugar tuvo América Latina. Contá qué fue la Guerra Fría y qué se llamó Tercer Mundo, qué buscaban los No Alineados, qué plantea la mirada Norte-Sur, y qué fue la Revolución Cubana, con su impacto en la región y la respuesta de Estados Unidos.",
+      "guia": [
+        "¿Qué fue la Guerra Fría y qué se llamó Tercer Mundo?",
+        "¿Qué buscaban los No Alineados y dónde se organizaron?",
+        "¿Qué diferencia hay entre mirar el mundo como Este-Oeste o como Norte-Sur?",
+        "¿Cómo triunfó la Revolución Cubana y qué medidas tomó?",
+        "¿Qué impacto tuvo en América Latina y cómo respondió Estados Unidos?"
+      ],
+      "claves": [
+        {
+          "k": [
+            "guerra fria",
+            "superpotencia"
+          ],
+          "p": "la Guerra Fría"
+        },
+        {
+          "k": [
+            "tercer mundo",
+            "descoloniz"
+          ],
+          "p": "el Tercer Mundo"
+        },
+        {
+          "k": [
+            "no alinea",
+            "bandung",
+            "belgrado"
+          ],
+          "p": "los No Alineados"
+        },
+        {
+          "k": [
+            "norte",
+            "sur",
+            "desigualdad"
+          ],
+          "p": "el conflicto Norte-Sur"
+        },
+        {
+          "k": [
+            "1959",
+            "fidel",
+            "castro",
+            "guevara",
+            "batista"
+          ],
+          "p": "la Revolución Cubana"
+        },
+        {
+          "k": [
+            "bloqueo",
+            "embargo",
+            "alianza para el progreso",
+            "cochinos",
+            "golpe"
+          ],
+          "p": "la respuesta de Estados Unidos"
+        }
+      ],
+      "referencia": "Después de 1945, Estados Unidos (capitalismo) y la URSS (comunismo) compitieron sin enfrentarse directamente: la Guerra Fría. El Tercer Mundo eran los países fuera de los bloques, muchos recién independizados. Los No Alineados se reunieron en Bandung (1955) y fundaron su movimiento en Belgrado (1961). La mirada Norte-Sur puso el foco en la desigualdad entre países ricos y pobres. La Revolución Cubana triunfó en 1959; hizo reforma agraria, nacionalizaciones y alfabetización; Estados Unidos respondió con bloqueo y Bahía de Cochinos, y Cuba se acercó a la URSS. En América Latina inspiró guerrillas; Estados Unidos lanzó la Alianza para el Progreso y apoyó golpes de Estado.",
+      "minPalabras": 60,
+      "modelo": "Después de 1945, el mundo quedó dividido entre ……. A esa competencia se la llamó Guerra Fría porque ……. Se llamó Tercer Mundo a …….\n\nMuchos de esos países decidieron no alinearse, es decir, ……. Se reunieron en …… y fundaron su movimiento en ……. Además, propusieron mirar el conflicto como Norte contra Sur, porque …….\n\nEn 1959 triunfó la Revolución Cubana, que ……. Estados Unidos respondió con ……, y en América Latina la revolución tuvo un impacto como ……."
+    },
+    "h5": {
+      "instruccion": "Explicá cómo se disputaron la riqueza los sectores empresariales y el movimiento obrero entre 1930 y 1955. Contá quiénes eran y cómo se organizaban, cómo intervino el Estado en la Década Infame y cómo lo hizo con el peronismo, a quién favoreció cada uno y qué pasó cuando la economía entró en crisis.",
+      "guia": [
+        "¿Qué es la distribución de la riqueza y entre quiénes se reparte?",
+        "¿Quiénes formaban los sectores empresariales y el movimiento obrero?",
+        "¿Cómo intervino el Estado entre 1930 y 1943 y a quién favoreció?",
+        "¿Cómo intervino entre 1943 y 1955 y a quién favoreció?",
+        "¿Cómo reaccionaron los empresarios y qué pasó desde 1949?"
+      ],
+      "claves": [
+        {
+          "k": [
+            "riqueza",
+            "ingreso",
+            "distribucion"
+          ],
+          "p": "la distribución de la riqueza"
+        },
+        {
+          "k": [
+            "sociedad rural",
+            "union industrial",
+            "empresari",
+            "terraten"
+          ],
+          "p": "los sectores empresariales"
+        },
+        {
+          "k": [
+            "sindicato",
+            "cgt",
+            "movimiento obrero"
+          ],
+          "p": "el movimiento obrero"
+        },
+        {
+          "k": [
+            "control de cambios",
+            "junta",
+            "roca",
+            "runciman"
+          ],
+          "p": "la intervención de 1930-1943"
+        },
+        {
+          "k": [
+            "convenio",
+            "iapi",
+            "aguinaldo",
+            "redistribu",
+            "precios"
+          ],
+          "p": "la intervención peronista"
+        },
+        {
+          "k": [
+            "cge",
+            "1949",
+            "1952",
+            "productividad"
+          ],
+          "p": "las reacciones y la crisis"
+        }
+      ],
+      "referencia": "La riqueza se reparte entre salarios (trabajadores) y ganancias y rentas (empresarios). Disputaban los sectores empresariales (Sociedad Rural, UIA) y el movimiento obrero (sindicatos, CGT). Entre 1930 y 1943 el Estado favoreció a los grandes productores (control de cambios, juntas, Pacto Roca-Runciman, Banco Central) y los salarios casi no mejoraban. Entre 1943 y 1955 actuó como árbitro a favor de los trabajadores (convenios colectivos, derechos laborales, control de precios, IAPI, crédito industrial): los salarios llegaron a cerca de la mitad del ingreso. La Sociedad Rural y la UIA se opusieron; pequeños y medianos industriales apoyaron (CGE). Desde 1949 la crisis reavivó la disputa.",
+      "minPalabras": 60,
+      "modelo": "Entre 1930 y 1955, la riqueza del país se disputaba entre …… y ……. Los sectores empresariales se organizaban en …… y querían ……; el movimiento obrero se organizaba en …… y reclamaba …….\n\nEntre 1930 y 1943, el Estado intervino a favor de ……, con mecanismos como ……. Entre 1943 y 1955, en cambio, favoreció a ……, mediante …….\n\nAlgunos empresarios ……, mientras que otros ……. Desde 1949 la disputa volvió a crecer porque ……."
+    },
+    "h7": {
+      "instruccion": "Explicá la inestabilidad política y económica de la Argentina entre 1955 y 1983. Contá qué significó la proscripción del peronismo, cómo se sucedieron golpes y gobiernos, qué pasó entre 1966 y 1976, qué fue la última dictadura y por qué se habla de terrorismo de Estado, y cómo volvió la democracia.",
+      "guia": [
+        "¿Qué fue la proscripción del peronismo y qué gobiernos hubo hasta 1966?",
+        "¿Qué hizo el gobierno de Onganía y qué fue el Cordobazo?",
+        "¿Cómo creció la violencia política en los años 70?",
+        "¿Qué fue la última dictadura y por qué se habla de terrorismo de Estado?",
+        "¿Cómo volvió la democracia y qué pasó con la Justicia?"
+      ],
+      "claves": [
+        {
+          "k": [
+            "proscrip",
+            "frondizi",
+            "illia"
+          ],
+          "p": "la proscripción y los gobiernos civiles"
+        },
+        {
+          "k": [
+            "ongania",
+            "cordobazo"
+          ],
+          "p": "Onganía y el Cordobazo"
+        },
+        {
+          "k": [
+            "violencia",
+            "triple a",
+            "organizaciones armadas"
+          ],
+          "p": "la violencia política"
+        },
+        {
+          "k": [
+            "terrorismo de estado",
+            "desaparec",
+            "junta"
+          ],
+          "p": "la última dictadura"
+        },
+        {
+          "k": [
+            "1983",
+            "alfonsin",
+            "conadep",
+            "juicio"
+          ],
+          "p": "la vuelta de la democracia"
+        }
+      ],
+      "referencia": "Desde 1955 el peronismo estuvo proscripto; Frondizi e Illia fueron elegidos sin él y derrocados (1962, 1966). Onganía (1966) prohibió los partidos; en 1969 hubo el Cordobazo. En 1973 volvió Perón; tras su muerte (1974) creció la violencia de organizaciones armadas y grupos paraestatales. El 24 de marzo de 1976 una Junta Militar tomó el poder y aplicó un plan sistemático de represión ilegal: terrorismo de Estado. Tras Malvinas (1982), en 1983 volvió la democracia; la CONADEP publicó el \"Nunca Más\" y en 1985 se juzgó a las Juntas.",
+      "minPalabras": 60,
+      "modelo": "Entre 1955 y 1966, la Argentina vivió ……, porque el peronismo ……. Los presidentes …… y …… fueron derrocados por …….\n\nEn 1966 ……, y en 1969 ocurrió ……. En los años 70 creció la violencia política, ejercida por …….\n\nEl 24 de marzo de 1976 ……. Se habla de terrorismo de Estado porque ……. En 1983 ……; después, la CONADEP …… y el Juicio a las Juntas ……."
+    },
+    "h8": {
+      "instruccion": "Explicá qué es el modelo neoliberal y cómo se aplicó en la Argentina y en América Latina. Contá en qué se diferencia del Estado interventor, cómo se aplicó primero bajo dictaduras (Chile y la Argentina) y después en democracia en los años 90, y cuáles son los argumentos de quienes lo defienden y de quienes lo critican.",
+      "guia": [
+        "¿Qué propone el neoliberalismo y en qué se diferencia del Estado interventor?",
+        "¿Qué recomendaba el Consenso de Washington?",
+        "¿Cómo se aplicó en Chile y en la Argentina bajo dictaduras?",
+        "¿Qué fueron la convertibilidad y las privatizaciones de los años 90?",
+        "¿Qué dicen sus defensores y sus críticos?"
+      ],
+      "claves": [
+        {
+          "k": [
+            "neoliberal",
+            "mercado"
+          ],
+          "p": "qué es el neoliberalismo"
+        },
+        {
+          "k": [
+            "consenso de washington"
+          ],
+          "p": "el Consenso de Washington"
+        },
+        {
+          "k": [
+            "pinochet",
+            "martinez de hoz",
+            "1976",
+            "dictadura"
+          ],
+          "p": "la aplicación bajo dictaduras"
+        },
+        {
+          "k": [
+            "convertibilidad",
+            "privatiz",
+            "1991"
+          ],
+          "p": "los años 90"
+        },
+        {
+          "k": [
+            "defien",
+            "critic",
+            "debate"
+          ],
+          "p": "el debate"
+        }
+      ],
+      "referencia": "El neoliberalismo propone un Estado que intervenga lo menos posible: privatizar, abrir la economía y desregular (Consenso de Washington, 1989). Se aplicó primero bajo dictaduras: Chile desde 1973 y la Argentina desde 1976 (apertura, reforma financiera, crecimiento de la deuda externa). En democracia, en los años 90: convertibilidad (1991) y privatizaciones. Sus defensores destacan la estabilidad y las inversiones; sus críticos, el cierre de fábricas, la desocupación y el endeudamiento.",
+      "minPalabras": 60,
+      "modelo": "El neoliberalismo es un modelo que propone ……. Se diferencia del Estado interventor en que …….\n\nEn América Latina, las primeras medidas de este tipo se aplicaron durante ……: en …… desde 1973 y en la Argentina desde ……, con medidas como …….\n\nEn los años 90, en democracia, se aplicaron …… y ……. Quienes defienden esas políticas destacan ……; quienes las critican señalan ……."
+    },
+    "h9": {
+      "instruccion": "Explicá cómo entró en crisis el modelo neoliberal y qué cambió después. Contá cómo se llegó a la crisis de 2001, qué nuevos actores sociales surgieron, cómo se redefinió el rol del Estado (con el debate que generó) y cómo avanzó la integración regional.",
+      "guia": [
+        "¿Qué es la globalización financiera y qué crisis provocó?",
+        "¿Qué pasó en la Argentina en 2001?",
+        "¿Qué nuevos actores sociales surgieron?",
+        "¿Cómo cambió el rol del Estado y qué debate generó?",
+        "¿Qué son el Mercosur, la Unasur y la CELAC?"
+      ],
+      "claves": [
+        {
+          "k": [
+            "globalizacion",
+            "financier"
+          ],
+          "p": "la globalización financiera"
+        },
+        {
+          "k": [
+            "2001",
+            "corralito",
+            "convertibilidad"
+          ],
+          "p": "la crisis de 2001"
+        },
+        {
+          "k": [
+            "asamblea",
+            "trueque",
+            "recuperad",
+            "desocupados"
+          ],
+          "p": "los nuevos actores"
+        },
+        {
+          "k": [
+            "rol del estado",
+            "debate"
+          ],
+          "p": "el nuevo rol del Estado"
+        },
+        {
+          "k": [
+            "mercosur",
+            "unasur",
+            "celac",
+            "integracion"
+          ],
+          "p": "la integración regional"
+        }
+      ],
+      "referencia": "Con la globalización financiera hubo crisis en México, Asia, Rusia y Brasil. La Argentina entró en recesión en 1998; en 2001 hubo corralito, protestas masivas y renuncia presidencial; en 2002 terminó la convertibilidad. Surgieron nuevos actores: movimientos de desocupados, asambleas barriales, empresas recuperadas y clubes de trueque (y en la región, el Movimiento Sin Tierra, los zapatistas y las organizaciones indígenas). El Estado volvió a intervenir más, lo que generó un debate todavía abierto. La integración regional avanzó con el Mercosur (1991), la Unasur (2008) y la CELAC (2011).",
+      "minPalabras": 60,
+      "modelo": "A fines de los años 90, la globalización financiera provocó crisis en ……. En la Argentina, desde 1998 ……, y a fines de 2001 ……. Como consecuencia, ……, y en 2002 terminó …….\n\nEn esos años surgieron nuevos actores sociales, como …….\n\nDespués de las crisis, el rol del Estado ……, lo que generó un debate: ……. Además, avanzó la integración regional con ……."
+    }
+  },
+  "integracion": {
+    "intro": "Integrar es mostrar que los procesos históricos se conectan: unos causan otros, se parecen o se oponen. Las preguntas de abajo relacionan **solo los contenidos que elegiste**.",
+    "intro_uno": "Elegiste un solo contenido. Integrar, en este caso, es mostrar cómo se conectan sus partes: qué causó qué y qué cambió.",
+    "pares": {
+      "h1|h2": "La Liga Patriótica surgió después de la Semana Trágica de 1919. ¿Qué relación hay entre los conflictos obreros de los años radicales y el crecimiento del nacionalismo autoritario en la Argentina?",
+      "h1|h3": "Yrigoyen llegó al gobierno gracias a la Ley Sáenz Peña y fue derrocado en 1930. ¿Qué tuvo que ver la crisis de 1929 con su caída? ¿Qué pasó con el voto secreto durante la Década Infame?",
+      "h1|h4": "Compará 1912 y el peronismo: ¿qué grupos se incorporaron a la política con la Ley Sáenz Peña y cuáles con el peronismo? ¿Quiénes seguían afuera en cada etapa?",
+      "h2|h3": "¿Qué relación hay entre la crisis de 1929, las ideas nacionalistas de entreguerras y el golpe de Uriburu de 1930? ¿Por qué en tiempos de crisis crecieron los líderes autoritarios?",
+      "h2|h4": "Estudiaste un nacionalismo autoritario (Liga Patriótica, Uriburu) y uno popular (FORJA). ¿Con cuál tiene más puntos en común el peronismo? Justificalo pensando en quiénes participaban, qué lugar tenían los trabajadores y qué pensaban de la dependencia económica.",
+      "h3|h4": "¿Cómo la industrialización sustitutiva y las migraciones internas prepararon el surgimiento del peronismo? Relacioná la crisis de 1929, el crecimiento de la clase obrera urbana y el apoyo de los trabajadores a Perón.",
+      "h1|h6": "La Argentina fue neutral en la Primera Guerra Mundial y, décadas después, muchos países del Tercer Mundo decidieron no alinearse en la Guerra Fría. ¿En qué se parecen y en qué se diferencian esas dos decisiones?",
+      "h2|h6": "FORJA criticaba la dependencia del Reino Unido, y la Revolución Cubana se enfrentó a la influencia de Estados Unidos. ¿Qué tienen en común el nacionalismo antiimperialista de los años 30 y los reclamos del Tercer Mundo? ¿En qué se diferencian?",
+      "h3|h6": "La crisis de 1929 mostró lo que pasa cuando un país depende de vender carnes y granos. ¿Cómo se relaciona eso con la mirada Norte-Sur y con el problema que explicó Raúl Prebisch?",
+      "h4|h6": "Perón en la Argentina y Cárdenas en México ampliaron derechos de los sectores populares; la Revolución Cubana también hizo reforma agraria y nacionalizaciones. ¿En qué se parece un gobierno popular a esa revolución y en qué se diferencian (cómo llegaron al poder, qué sistema mantuvieron, qué libertades hubo)?",
+      "h1|h5": "La Semana Trágica (1919) y la huelga de la construcción (1935-1936) fueron conflictos obreros con gobiernos distintos. ¿Cómo actuó el Estado en cada caso y cómo cambió eso con el peronismo?",
+      "h2|h5": "La Liga Patriótica atacaba las huelgas y FORJA criticaba la dependencia económica. ¿Cómo se relacionan esos nacionalismos con la disputa entre empresarios y trabajadores?",
+      "h3|h5": "Después de 1929 el Estado empezó a intervenir en la economía. ¿A quién favorecieron el control de cambios, las juntas y el Pacto Roca-Runciman? ¿Qué pasaba mientras tanto con los obreros de las nuevas industrias?",
+      "h4|h5": "Los derechos laborales del peronismo (aguinaldo, vacaciones, convenios) también son una forma de repartir la riqueza. ¿Por qué algunos empresarios se opusieron y otros apoyaron al gobierno?",
+      "h5|h6": "Prebisch explicó que el Sur vende barato y compra caro. ¿Qué relación hay entre esa desigualdad entre países y la disputa por la riqueza dentro de la Argentina?",
+      "h1|h7": "El fraude del régimen conservador y la proscripción del peronismo después de 1955: ¿por qué en los dos casos se habla de un problema de legitimidad?",
+      "h2|h7": "En 1924 Lugones pidió que el Ejército tomara el control del país. ¿Cómo se relaciona esa idea con los golpes de Estado que hubo entre 1930 y 1976?",
+      "h3|h7": "El golpe de 1930 fue el primero del siglo XX. ¿Qué tienen en común los golpes de 1930, 1955, 1962, 1966 y 1976? ¿Qué tuvo de distinto la dictadura de 1976?",
+      "h4|h7": "¿Por qué la proscripción del peronismo, desde 1955, ayuda a entender la inestabilidad política hasta 1973?",
+      "h5|h7": "Entre 1930 y 1955 el Estado intervino a favor de distintos grupos. ¿Cómo siguieron los conflictos entre trabajadores, empresarios y gobiernos después de 1955 (Resistencia peronista, Cordobazo, Rodrigazo)?",
+      "h6|h7": "La Guerra Fría y la Revolución Cubana influyeron en toda América Latina. ¿Qué relación tienen con lo que pasó en la Argentina en los años 60 y 70?",
+      "h1|h8": "En 1916 la Argentina era agroexportadora y abierta al comercio. ¿En qué se parece y en qué se diferencia la apertura económica de los años 90?",
+      "h2|h8": "FORJA criticaba la dependencia económica del Reino Unido. ¿Qué argumentos parecidos aparecen en las críticas al neoliberalismo, y qué responderían quienes lo defienden?",
+      "h3|h8": "Después de 1929 el Estado empezó a intervenir; desde los años 70 el neoliberalismo propuso lo contrario. ¿Por qué las crisis económicas llevan a cambiar de modelo?",
+      "h4|h8": "Los ferrocarriles se nacionalizaron en 1948 y se privatizaron en los años 90. ¿Qué argumentos sobre el papel del Estado se usaron en cada etapa?",
+      "h5|h8": "¿Qué dicen defensores y críticos sobre los efectos de la apertura y las privatizaciones en los trabajadores y los empresarios?",
+      "h6|h8": "Prebisch explicó que el Sur vende barato y compra caro. ¿Cómo se relaciona esa idea con el debate sobre la apertura económica y la deuda externa?",
+      "h1|h9": "La Reforma Universitaria de 1918 y las asambleas barriales de 2001: compará quiénes se organizaron, qué reclamaban y cómo lo hacían.",
+      "h2|h9": "¿Qué diferencia hay entre los nacionalismos de los años 30 y la integración regional del siglo XXI como formas de defender los intereses de un país?",
+      "h3|h9": "La crisis de 1929 y la crisis de 2001: ¿qué tienen en común? ¿Cómo cambió en cada caso el papel del Estado?",
+      "h4|h9": "En 1948 se nacionalizaron los ferrocarriles y en 2012 volvió al Estado la mayoría de las acciones de YPF. ¿Qué argumentos se dan, a favor y en contra, sobre que el Estado maneje empresas?",
+      "h5|h9": "Los sindicatos (1930-1955) y los movimientos de desocupados (años 90 y 2001): ¿por qué cambiaron las formas de organizarse para reclamar?",
+      "h6|h9": "Los No Alineados se unieron para no depender de las potencias; el Mercosur y la Unasur buscan la integración regional. ¿En qué se parecen esas estrategias?",
+      "h7|h8": "¿Por qué el diseño curricular relaciona las primeras políticas neoliberales con la dictadura de 1976? ¿Qué cambió cuando se aplicaron políticas parecidas en democracia, en los años 90?",
+      "h7|h9": "En 1983 volvió la democracia y en 2001 hubo una crisis muy profunda. ¿Por qué, a pesar de la crisis, la salida de 2001 fue por medio de las instituciones y no por un golpe de Estado?",
+      "h8|h9": "¿Cómo se relacionan la convertibilidad y la crisis de 2001? ¿Qué cambió después en el rol del Estado?"
+    },
+    "individual": {
+      "h1": [
+        "¿Cómo se relaciona la Ley Sáenz Peña con la llegada de Yrigoyen al gobierno en 1916?",
+        "¿Por qué se habla de ampliación de la democracia si también hubo represión (Semana Trágica, huelgas en la Patagonia)?",
+        "¿Cómo afectó la Primera Guerra Mundial a un país agroexportador como la Argentina?"
+      ],
+      "h2": [
+        "¿Qué tienen en común los nacionalismos europeos y los de la Argentina? ¿En qué se diferencian?",
+        "¿Por qué la crisis económica y la Revolución Rusa ayudaron a que crecieran estos movimientos?",
+        "¿Por qué no hubo un solo nacionalismo en la Argentina?"
+      ],
+      "h3": [
+        "¿Cómo se encadenan la crisis de 1929, la caída de las exportaciones y la industrialización?",
+        "¿Qué relación hay entre la crisis económica y el golpe de 1930?",
+        "¿Cómo cambió la vida en las ciudades con la industria?"
+      ],
+      "h4": [
+        "¿Cómo se relaciona el trabajo de Perón en la Secretaría de Trabajo con el 17 de octubre de 1945?",
+        "¿Qué relación hay entre los derechos laborales, el aumento del consumo y la industria?",
+        "¿Por qué se habla de democracia de masas y cuáles fueron sus límites?"
+      ],
+      "h6": [
+        "¿Por qué la Guerra Fría ayuda a entender que muchos países quisieran no alinearse?",
+        "¿Qué relación hay entre la descolonización, el Tercer Mundo y la mirada Norte-Sur?",
+        "¿Por qué la Revolución Cubana convirtió a América Latina en un escenario de la Guerra Fría?"
+      ],
+      "h5": [
+        "¿Por qué decimos que el reparto de la riqueza depende de la fuerza de cada grupo y del Estado?",
+        "¿Qué tienen en común y en qué se diferencian la intervención del Estado conservador y la del Estado peronista?",
+        "¿Por qué la crisis desde 1949 volvió a encender la disputa?"
+      ],
+      "h7": [
+        "¿Por qué la proscripción del peronismo ayuda a entender la inestabilidad entre 1955 y 1973?",
+        "¿Qué diferencia hubo entre los golpes anteriores y la dictadura de 1976?",
+        "¿Por qué es importante que en democracia la Justicia haya juzgado a los responsables?"
+      ],
+      "h8": [
+        "¿En qué se diferencia el neoliberalismo del Estado interventor?",
+        "¿Qué cambia cuando una política económica se aplica en dictadura o en democracia?",
+        "¿Por qué hay visiones tan distintas sobre los años 90?"
+      ],
+      "h9": [
+        "¿Cómo se relacionan la convertibilidad y la crisis de 2001?",
+        "¿Por qué surgieron nuevos actores sociales además de los sindicatos?",
+        "¿Qué ventajas y tensiones puede tener la integración regional?"
+      ]
+    },
+    "generales": [
+      "¿Qué cambió y qué continuó a lo largo del período que estudiaste?",
+      "¿Qué hecho de uno de tus temas fue causa o consecuencia de un hecho de otro?",
+      "¿Qué actores sociales (trabajadores, sectores medios, militares, el Estado) aparecen en más de uno de tus temas y qué papel tuvieron en cada uno?"
+    ],
+    "referencia": "Texto que relaciona los contenidos elegidos con causas, consecuencias, cambios y continuidades.",
+    "minPalabras": 60,
+    "modelo": "Los temas de mi trabajo se relacionan entre sí. Por ejemplo, …… y …… se conectan porque …….\n\nAdemás, …… fue una causa de ……, y …… fue una consecuencia de ……. En cambio, …… y …… se diferencian en que …….",
+    "modelo_uno": "Las partes de este tema se relacionan entre sí. Primero ……, y eso llevó a ……. Por eso, …….\n\nAdemás, …… se conecta con …… porque ……."
+  },
+  "realidad": {
+    "intro": "Relacionar con la realidad es mostrar cómo el pasado está presente hoy. Para cada contenido que elegiste tenés una pregunta y algunas ideas: elegí un ejemplo concreto (de tu familia, tu barrio, tu ciudad o el país).",
+    "por_contenido": {
+      "h1": {
+        "pregunta": "¿Cómo se vota hoy en la Argentina y qué tiene que ver con la Ley Sáenz Peña?",
+        "ideas": [
+          "Desde 2012 los jóvenes de 16 y 17 años pueden votar: ¿vos ya votaste o vas a votar?",
+          "Las elecciones del centro de estudiantes de tu escuela.",
+          "Los reclamos estudiantiles de hoy y la Reforma Universitaria."
+        ]
+      },
+      "h2": {
+        "pregunta": "¿Dónde aparecen hoy discursos que ponen a la nación por encima de las libertades o que culpan a un grupo de los problemas? ¿Cómo los reconocés?",
+        "ideas": [
+          "Discursos de odio contra inmigrantes o minorías.",
+          "La diferencia entre querer a tu país y apoyar a un líder autoritario.",
+          "Por qué importa defender la libertad de prensa y la división de poderes."
+        ]
+      },
+      "h3": {
+        "pregunta": "¿Qué industrias de tu zona, o qué historias de tu familia, te ayudan a entender lo que pasó después de 1929?",
+        "ideas": [
+          "Fábricas o talleres de tu ciudad: qué producen y desde cuándo.",
+          "Productos que hoy se importan y otros que se fabrican en el país.",
+          "Familiares que se mudaron del campo a la ciudad para trabajar."
+        ]
+      },
+      "h4": {
+        "pregunta": "¿Qué derechos de los trabajadores y de las mujeres existen hoy y cómo cambiaría la vida de una familia si no existieran?",
+        "ideas": [
+          "El aguinaldo y las vacaciones pagas de alguien de tu familia.",
+          "El voto de las mujeres de tu familia.",
+          "La universidad pública y gratuita."
+        ]
+      },
+      "h6": {
+        "pregunta": "¿Dónde ves hoy la desigualdad entre países ricos y pobres, o la imagen de la Revolución Cubana?",
+        "ideas": [
+          "Qué exporta la Argentina hoy y qué compra afuera (por ejemplo, granos y celulares).",
+          "La imagen del Che Guevara en remeras, murales o banderas: ¿qué representa para quien la usa?",
+          "La frase \"esto es tercermundista\": ¿qué prejuicio hay detrás?"
+        ]
+      },
+      "h5": {
+        "pregunta": "¿Dónde aparece hoy la disputa por la distribución de la riqueza?",
+        "ideas": [
+          "Las paritarias: sindicatos y empresarios negocian los salarios, con el Estado en el medio.",
+          "Los aumentos de precios y si el sueldo alcanza (alguien de tu familia).",
+          "Las discusiones sobre impuestos y retenciones al campo."
+        ]
+      },
+      "h7": {
+        "pregunta": "¿Cómo está presente hoy la memoria de 1955-1983 y el valor de la democracia?",
+        "ideas": [
+          "El 24 de marzo, Día Nacional de la Memoria por la Verdad y la Justicia: ¿qué se hace en tu escuela?",
+          "Las Abuelas de Plaza de Mayo siguen buscando nietos y nietas.",
+          "Desde 1983 la Argentina tiene el período democrático más largo de su historia: ¿qué derechos ejercés hoy que antes no se podían?"
+        ]
+      },
+      "h8": {
+        "pregunta": "¿Dónde ves hoy el debate sobre cuánto debe intervenir el Estado en la economía?",
+        "ideas": [
+          "Un servicio que usás (luz, agua, celular, colectivo): ¿es estatal o privado?",
+          "Las noticias sobre importaciones, industria nacional o deuda externa.",
+          "Qué opinan distintas personas de tu familia sobre las privatizaciones."
+        ]
+      },
+      "h9": {
+        "pregunta": "¿Qué rastros de la crisis de 2001 y de la integración regional ves hoy?",
+        "ideas": [
+          "Cómo vivió alguien de tu familia la crisis de 2001.",
+          "Una cooperativa o empresa recuperada de tu zona.",
+          "El Mercosur: productos de Brasil en un supermercado, o personas que estudian o trabajan en países vecinos."
+        ]
+      }
+    },
+    "referencia": "Un ejemplo actual por cada contenido y el proceso histórico que lo explica.",
+    "minPalabras_por_contenido": 20,
+    "modelo": "Hoy, el tema de …… sigue presente en ……. Por ejemplo, en …… (mi familia, mi ciudad o el país) …….\n\nEsto se relaciona con lo que estudié porque ……."
+  },
+  "conclusion": {
+    "instruccion": "Escribí la conclusión de tu trabajo: contá qué aprendiste sobre este período, qué idea une a los temas que estudiaste y por qué es importante conocerlos hoy.",
+    "guia": [
+      "¿Qué es lo más importante que aprendiste?",
+      "¿Qué idea o proceso une a todos tus temas (participación, rol del Estado, trabajadores, democracia…)?",
+      "¿Por qué sirve conocer este período para entender el presente?",
+      "¿Qué te gustaría que recuerde quien escucha tu trabajo?"
+    ],
+    "claves": [
+      {
+        "k": [
+          "aprendi",
+          "entendi",
+          "conoci",
+          "descubri"
+        ],
+        "p": "qué aprendiste"
+      },
+      {
+        "k": [
+          "une",
+          "relacion",
+          "conecta",
+          "en comun",
+          "todos",
+          "proceso",
+          "a lo largo"
+        ],
+        "p": "qué une a tus temas"
+      },
+      {
+        "k": [
+          "hoy",
+          "presente",
+          "actual",
+          "importante",
+          "sirve",
+          "permite"
+        ],
+        "p": "por qué es importante hoy"
+      }
+    ],
+    "referencia": "Aprendizajes, idea que une los temas e importancia para el presente.",
+    "minPalabras": 35,
+    "modelo": "Con este trabajo aprendí que ……. La idea que une todos los temas es ……, porque …….\n\nConocer este período sirve para entender el presente porque ……. Lo que más me gustaría que recuerden de mi trabajo es ……."
+  },
+  "preguntas": [
+    {
+      "id": "q-h1-1",
+      "contenido": "h1",
+      "nivel": "Básica",
+      "pregunta": "¿Qué cambió con la Ley Sáenz Peña y por qué fue importante?",
+      "orientacion": "Desde 1912 el voto pasó a ser secreto, universal para los varones argentinos mayores de 18 años y obligatorio. Antes había fraude y voto público. Con la nueva ley, en 1916 ganó Yrigoyen, de la UCR."
+    },
+    {
+      "id": "q-h1-2",
+      "contenido": "h1",
+      "nivel": "Media",
+      "pregunta": "¿Quiénes apoyaron a la UCR y por qué se habla de ampliación de la democracia? ¿Qué límites tuvo?",
+      "orientacion": "La apoyaban sobre todo los sectores medios, muchos hijos de inmigrantes. Participó más gente, pero las mujeres y los extranjeros no votaban, y conflictos como la Semana Trágica fueron reprimidos."
+    },
+    {
+      "id": "q-h1-3",
+      "contenido": "h1",
+      "nivel": "Media",
+      "pregunta": "¿Cómo influyó la Primera Guerra Mundial en la Argentina?",
+      "orientacion": "El país fue neutral, pero como vendía carnes y granos a Europa y compraba productos industriales, la guerra desordenó su comercio: faltaron importaciones y se empezaron a fabricar algunas cosas en el país."
+    },
+    {
+      "id": "q-h2-1",
+      "contenido": "h2",
+      "nivel": "Básica",
+      "pregunta": "¿Qué ideas defendían los nacionalismos autoritarios de entreguerras?",
+      "orientacion": "Ponían a la nación por encima de todo, querían un líder con mucho poder y un partido único, rechazaban el liberalismo y el comunismo y desconfiaban de la democracia. Ejemplos: el fascismo y el nazismo."
+    },
+    {
+      "id": "q-h2-2",
+      "contenido": "h2",
+      "nivel": "Media",
+      "pregunta": "¿Cómo se expresó el nacionalismo en la Argentina?",
+      "orientacion": "Hubo un nacionalismo autoritario (la Liga Patriótica, Lugones con \"La hora de la espada\", el golpe de Uriburu) y otro popular y antiimperialista (FORJA, que criticaba la dependencia del Reino Unido)."
+    },
+    {
+      "id": "q-h3-1",
+      "contenido": "h3",
+      "nivel": "Básica",
+      "pregunta": "¿Qué fue la crisis de 1929 y cómo afectó a la Argentina?",
+      "orientacion": "Empezó con la caída de la Bolsa de Nueva York y se extendió al mundo. La Argentina vivía de exportar carnes y granos: cayeron la demanda y los precios, entraron menos divisas y creció la desocupación."
+    },
+    {
+      "id": "q-h3-2",
+      "contenido": "h3",
+      "nivel": "Media",
+      "pregunta": "¿Qué es la industrialización sustitutiva de importaciones y por qué se dio en esos años?",
+      "orientacion": "Es fabricar en el país lo que antes se importaba. Se dio porque después de 1929 faltaban divisas para importar, y se aceleró con la Segunda Guerra Mundial."
+    },
+    {
+      "id": "q-h3-3",
+      "contenido": "h3",
+      "nivel": "Media",
+      "pregunta": "¿Qué pasó en 1930 y qué consecuencias tuvo para la democracia?",
+      "orientacion": "El 6 de septiembre de 1930 el general Uriburu derrocó a Yrigoyen: fue el primer golpe del siglo XX. Siguió la Década Infame, con fraude electoral, hasta el golpe de 1943."
+    },
+    {
+      "id": "q-h4-1",
+      "contenido": "h4",
+      "nivel": "Básica",
+      "pregunta": "¿Qué pasó el 17 de octubre de 1945?",
+      "orientacion": "Perón había sido detenido el 9 de octubre. El 17, miles de trabajadores llegaron a la Plaza de Mayo y reclamaron su liberación. Al año siguiente ganó las elecciones."
+    },
+    {
+      "id": "q-h4-2",
+      "contenido": "h4",
+      "nivel": "Media",
+      "pregunta": "¿Qué derechos y medidas se asocian al peronismo?",
+      "orientacion": "Derechos laborales (aguinaldo, vacaciones pagas, indemnización), el voto femenino (ley de 1947), la gratuidad universitaria, los planes quinquenales y la nacionalización de los ferrocarriles."
+    },
+    {
+      "id": "q-h4-3",
+      "contenido": "h4",
+      "nivel": "Integradora",
+      "pregunta": "¿Por qué se habla de democracia de masas en el peronismo y qué límites tuvo?",
+      "orientacion": "Porque se incorporaron a la política grandes sectores populares, como los trabajadores y las mujeres. Pero la oposición sufrió restricciones y la prensa estuvo bajo control del Estado."
+    },
+    {
+      "id": "q-g-1",
+      "contenido": "general",
+      "nivel": "Integradora",
+      "pregunta": "Elegí dos temas de tu trabajo y explicá cómo se relacionan.",
+      "orientacion": "Por ejemplo: la crisis de 1929 debilitó al gobierno de Yrigoyen y facilitó el golpe de 1930; o la industrialización hizo crecer la clase obrera que después apoyó a Perón."
+    },
+    {
+      "id": "q-g-2",
+      "contenido": "general",
+      "nivel": "Integradora",
+      "pregunta": "¿Qué cambió y qué continuó en el período que estudiaste?",
+      "orientacion": "Cambiaron la participación política, el rol del Estado y la importancia de la industria. Continuaron la dependencia del comercio exterior y las tensiones entre sectores sociales."
+    },
+    {
+      "id": "q-g-3",
+      "contenido": "general",
+      "nivel": "Integradora",
+      "pregunta": "¿Qué parte de lo que estudiaste ves hoy en la realidad?",
+      "orientacion": "Un ejemplo concreto, como el voto secreto y obligatorio, el aguinaldo o una industria de la ciudad, y el proceso histórico que lo explica."
+    },
+    {
+      "id": "q-h6-1",
+      "contenido": "h6",
+      "nivel": "Básica",
+      "pregunta": "¿Qué fue la Guerra Fría y qué se llamó Tercer Mundo?",
+      "orientacion": "Después de 1945, Estados Unidos (capitalismo) y la URSS (comunismo) compitieron por influencia sin enfrentarse directamente. El Tercer Mundo eran los países que no pertenecían a ningún bloque: muchos de Asia y África, recién independizados, y América Latina."
+    },
+    {
+      "id": "q-h6-2",
+      "contenido": "h6",
+      "nivel": "Media",
+      "pregunta": "¿Qué buscaban los No Alineados y qué plantea la mirada Norte-Sur?",
+      "orientacion": "Querían no depender de ninguna superpotencia: defendían la independencia, el rechazo al colonialismo, la paz y el desarrollo (Bandung 1955, Belgrado 1961). La mirada Norte-Sur pone el foco en la desigualdad entre países ricos e industrializados y países pobres que venden materias primas."
+    },
+    {
+      "id": "q-h6-3",
+      "contenido": "h6",
+      "nivel": "Integradora",
+      "pregunta": "¿Por qué la Revolución Cubana tuvo tanto impacto en América Latina y cómo respondió Estados Unidos?",
+      "orientacion": "Mostró que un cambio profundo era posible y en varios países surgieron guerrillas inspiradas en ella. Cuba se acercó a la URSS en plena Guerra Fría. Estados Unidos respondió con el bloqueo, la Alianza para el Progreso y el apoyo a golpes de Estado, como en Brasil (1964) y Chile (1973). Conviene mencionar logros (educación, salud) y límites (partido único)."
+    },
+    {
+      "id": "q-h5-1",
+      "contenido": "h5",
+      "nivel": "Básica",
+      "pregunta": "¿Quiénes se disputaban la riqueza entre 1930 y 1955?",
+      "orientacion": "Los sectores empresariales (terratenientes y ganaderos de la Sociedad Rural, industriales de la UIA) y el movimiento obrero (sindicatos, CGT). La riqueza se reparte entre salarios y ganancias o rentas."
+    },
+    {
+      "id": "q-h5-2",
+      "contenido": "h5",
+      "nivel": "Media",
+      "pregunta": "¿Cómo intervino el Estado entre 1930 y 1943 y a quién favoreció?",
+      "orientacion": "Con control de cambios (1931), juntas reguladoras y el Pacto Roca-Runciman (1933) y el Banco Central (1935). Favoreció a los grandes productores y exportadores; los salarios casi no mejoraban y las huelgas eran reprimidas."
+    },
+    {
+      "id": "q-h5-3",
+      "contenido": "h5",
+      "nivel": "Integradora",
+      "pregunta": "Compará la intervención del Estado conservador y la del Estado peronista.",
+      "orientacion": "Los dos intervinieron, pero a favor de grupos distintos. El peronismo buscó redistribuir el ingreso hacia los trabajadores con convenios colectivos, derechos laborales, control de precios, el IAPI y crédito industrial. Hubo oposición (Sociedad Rural, UIA) y apoyo empresario (CGE). Desde 1949 la crisis reavivó la disputa."
+    },
+    {
+      "id": "q-h7-1",
+      "contenido": "h7",
+      "nivel": "Básica",
+      "pregunta": "¿Qué pasó el 24 de marzo de 1976?",
+      "orientacion": "Las Fuerzas Armadas derrocaron al gobierno de María Estela Martínez de Perón. Gobernó una Junta Militar hasta 1983; se cerró el Congreso, se prohibieron partidos y sindicatos y hubo censura."
+    },
+    {
+      "id": "q-h7-2",
+      "contenido": "h7",
+      "nivel": "Media",
+      "pregunta": "¿Por qué se habla de inestabilidad política entre 1955 y 1973?",
+      "orientacion": "Porque el peronismo estuvo proscripto, los presidentes elegidos (Frondizi e Illia) fueron derrocados, y las Fuerzas Armadas intervinieron varias veces en la política (golpes de 1955, 1962 y 1966)."
+    },
+    {
+      "id": "q-h7-3",
+      "contenido": "h7",
+      "nivel": "Integradora",
+      "pregunta": "¿Qué es el terrorismo de Estado y qué pasó con sus responsables al volver la democracia?",
+      "orientacion": "Es cuando el Estado usa sus fuerzas de manera ilegal y clandestina contra la población: secuestros, centros clandestinos, torturas, desapariciones y apropiación de bebés. En 1983 se creó la CONADEP (\"Nunca Más\") y en 1985 el Juicio a las Juntas condenó a los máximos responsables."
+    },
+    {
+      "id": "q-h8-1",
+      "contenido": "h8",
+      "nivel": "Básica",
+      "pregunta": "¿Qué es el neoliberalismo?",
+      "orientacion": "Un modelo que propone que el Estado intervenga lo menos posible y que la economía funcione con las reglas del mercado: privatizar, abrir la economía y desregular."
+    },
+    {
+      "id": "q-h8-2",
+      "contenido": "h8",
+      "nivel": "Media",
+      "pregunta": "¿Cómo se aplicaron las primeras políticas neoliberales en Chile y la Argentina?",
+      "orientacion": "Durante dictaduras: Chile desde 1973 y la Argentina desde 1976, sin Congreso, partidos ni sindicatos. En la Argentina hubo apertura, reforma financiera y crecimiento de la deuda externa."
+    },
+    {
+      "id": "q-h8-3",
+      "contenido": "h8",
+      "nivel": "Integradora",
+      "pregunta": "¿Qué fueron la convertibilidad y las privatizaciones, y por qué hay visiones distintas sobre los años 90?",
+      "orientacion": "La convertibilidad (1991) fijó un peso igual a un dólar y bajó la inflación; se privatizaron muchas empresas públicas. Sus defensores destacan la estabilidad y las inversiones; sus críticos, el cierre de fábricas, la desocupación y el endeudamiento."
+    },
+    {
+      "id": "q-h9-1",
+      "contenido": "h9",
+      "nivel": "Básica",
+      "pregunta": "¿Qué fue el corralito?",
+      "orientacion": "Un límite a cuánto dinero se podía sacar de los bancos, establecido a fines de 2001. Fue parte de la crisis que terminó con la convertibilidad en enero de 2002."
+    },
+    {
+      "id": "q-h9-2",
+      "contenido": "h9",
+      "nivel": "Media",
+      "pregunta": "¿Qué nuevos actores sociales surgieron y por qué?",
+      "orientacion": "Como mucha gente quedó sin trabajo y sin sindicato, surgieron movimientos de desocupados, asambleas barriales, empresas recuperadas y clubes de trueque. En la región: el Movimiento Sin Tierra, los zapatistas y organizaciones indígenas."
+    },
+    {
+      "id": "q-h9-3",
+      "contenido": "h9",
+      "nivel": "Integradora",
+      "pregunta": "¿Cómo cambió el rol del Estado después de las crisis y qué es la integración regional?",
+      "orientacion": "El Estado volvió a intervenir más, con regulaciones y programas sociales; eso generó un debate que sigue abierto. La integración regional avanzó con el Mercosur (1991), la Unasur (2008) y la CELAC (2011)."
+    }
+  ]
+}

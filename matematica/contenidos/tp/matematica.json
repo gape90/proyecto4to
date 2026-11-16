@@ -1,0 +1,1141 @@
+{
+ "espacio": "matematica",
+ "titulo": "Mi trabajo práctico de Matemática",
+ "intro": "En Matemática no alcanza con saber la teoría: tenés que resolver con orden, mostrar el procedimiento y explicar por qué hacés cada paso. En tu trabajo vas a escribir lo esencial de cada contenido y a resolver ejercicios.",
+ "claves_contenido": {
+  "m1": [
+   "racional",
+   "irracional",
+   "trunc",
+   "redonde",
+   "error absoluto",
+   "aproxim"
+  ],
+  "m2": [
+   "reales",
+   "recta",
+   "inconmensurable",
+   "unidad comun",
+   "aureo",
+   "fibonacci"
+  ],
+  "m3": [
+   "radical",
+   "producto",
+   "cociente",
+   "simplific",
+   "semejante",
+   "racionaliz"
+  ],
+  "m4": [
+   "sucesion",
+   "aritmetica",
+   "geometrica",
+   "diferencia",
+   "razon",
+   "termino general"
+  ],
+  "m5": [
+   "segundo grado",
+   "completar",
+   "resolvente",
+   "discriminante",
+   "solucion",
+   "parabola"
+  ],
+  "m6": [
+   "funcion",
+   "dominio",
+   "asintota",
+   "exponencial",
+   "logaritmo",
+   "grafico"
+  ],
+  "m7": [
+   "seno",
+   "coseno",
+   "hipotenusa",
+   "cuadrante",
+   "circunferencia",
+   "referencia"
+  ],
+  "m8": [
+   "medicion indirecta",
+   "teorema del seno",
+   "teorema del coseno",
+   "teodolito",
+   "triangulo"
+  ],
+  "m9": [
+   "media",
+   "rango",
+   "varianza",
+   "desviacion",
+   "dispersion"
+  ],
+  "m10": [
+   "probabilidad",
+   "laplace",
+   "excluyente",
+   "independiente",
+   "condicionada",
+   "arbol"
+  ]
+ },
+ "portada": {
+  "instruccion": "Escribí la introducción de tu trabajo: contá qué contenidos de Matemática incluye y qué tipo de problemas vas a resolver en cada uno.",
+  "guia": [
+   "¿Qué contenidos incluye tu trabajo y en qué orden los vas a presentar?",
+   "¿Qué vas a explicar de cada uno y qué ejercicios vas a resolver?"
+  ],
+  "claves": [
+   {
+    "k": [
+     "trabajo trata",
+     "este trabajo",
+     "presento",
+     "voy a"
+    ],
+    "p": "de qué trata el trabajo"
+   },
+   {
+    "k": [
+     "ejercicio",
+     "problema",
+     "resolver",
+     "calcul"
+    ],
+    "p": "qué ejercicios vas a resolver"
+   }
+  ],
+  "referencia": "Contenidos incluidos, orden de presentación y tipo de ejercicios.",
+  "minPalabras": 20,
+  "modelo": "Este trabajo práctico trata sobre {temas}.\n\nPrimero voy a presentar ……; después, ……; y por último, ……. De cada uno voy a explicar lo esencial y a resolver ejercicios como ……"
+ },
+ "desarrollo": {
+  "m1": {
+   "instruccion": "Respondé en tu carpeta lo esencial del contenido: qué diferencia hay entre un número racional y uno irracional, cómo se aproxima un irracional (truncando y redondeando) y qué es el error absoluto. Usá √2 como ejemplo.",
+   "guia": [
+    "¿Cómo se reconoce un racional y cómo un irracional?",
+    "¿Qué diferencia hay entre truncar y redondear?",
+    "¿Cómo se calcula el error absoluto?"
+   ],
+   "claves": [
+    {
+     "k": [
+      "racional"
+     ],
+     "p": "racional"
+    },
+    {
+     "k": [
+      "irracional"
+     ],
+     "p": "irracional"
+    },
+    {
+     "k": [
+      "trunc"
+     ],
+     "p": "trunc"
+    },
+    {
+     "k": [
+      "redonde"
+     ],
+     "p": "redonde"
+    },
+    {
+     "k": [
+      "error absoluto"
+     ],
+     "p": "error absoluto"
+    }
+   ],
+   "referencia": "Racional: fracción de enteros; irracional: infinitos decimales sin período. Truncar corta; redondear mira la cifra siguiente. Error absoluto = |valor verdadero − aproximación|.",
+   "minPalabras": 25
+  },
+  "m2": {
+   "instruccion": "Respondé en tu carpeta lo esencial del contenido: qué números forman los reales, cómo se ubica √2 en la recta, qué significa que dos segmentos sean inconmensurables y qué es el número áureo.",
+   "guia": [
+    "¿Qué conjuntos de números forman los reales?",
+    "¿Qué es una unidad común y cuándo no existe?",
+    "¿Qué es el número áureo y cuánto vale?"
+   ],
+   "claves": [
+    {
+     "k": [
+      "reales"
+     ],
+     "p": "reales"
+    },
+    {
+     "k": [
+      "recta"
+     ],
+     "p": "recta"
+    },
+    {
+     "k": [
+      "inconmensurable"
+     ],
+     "p": "inconmensurable"
+    },
+    {
+     "k": [
+      "unidad comun"
+     ],
+     "p": "unidad comun"
+    },
+    {
+     "k": [
+      "aureo"
+     ],
+     "p": "aureo"
+    }
+   ],
+   "referencia": "Reales = racionales + irracionales. √2 se ubica con la diagonal del cuadrado de lado 1. Inconmensurables: sin unidad común. φ ≈ 1,618 y su relación con Fibonacci.",
+   "minPalabras": 25
+  },
+  "m3": {
+   "instruccion": "Respondé en tu carpeta lo esencial del contenido: las propiedades del producto y del cociente de radicales, cómo se simplifica un radical, cuándo se pueden sumar y qué es racionalizar. Un ejemplo de cada una.",
+   "guia": [
+    "¿Qué propiedades usás para multiplicar y dividir raíces?",
+    "¿Cómo se simplifica un radical y cuándo se pueden sumar dos?",
+    "¿Qué es racionalizar y por qué no cambia el valor?"
+   ],
+   "claves": [
+    {
+     "k": [
+      "radical"
+     ],
+     "p": "radical"
+    },
+    {
+     "k": [
+      "producto"
+     ],
+     "p": "producto"
+    },
+    {
+     "k": [
+      "cociente"
+     ],
+     "p": "cociente"
+    },
+    {
+     "k": [
+      "simplific"
+     ],
+     "p": "simplific"
+    },
+    {
+     "k": [
+      "semejante"
+     ],
+     "p": "semejante"
+    }
+   ],
+   "referencia": "√a · √b = √(a·b); √a ÷ √b = √(a÷b). Simplificar extrayendo cuadrados perfectos; sumar radicales semejantes; racionalizar multiplicando arriba y abajo.",
+   "minPalabras": 25
+  },
+  "m4": {
+   "instruccion": "Respondé en tu carpeta lo esencial del contenido: qué es una sucesión, cómo se reconoce una aritmética y una geométrica, y cuál es la fórmula de cada una. Un ejemplo de cada tipo.",
+   "guia": [
+    "¿Qué es una sucesión y qué es aₙ?",
+    "¿Cómo se reconoce una sucesión aritmética y cuál es su fórmula?",
+    "¿Cómo se reconoce una geométrica y cuál es su fórmula?"
+   ],
+   "claves": [
+    {
+     "k": [
+      "sucesion"
+     ],
+     "p": "sucesion"
+    },
+    {
+     "k": [
+      "aritmetica"
+     ],
+     "p": "aritmetica"
+    },
+    {
+     "k": [
+      "geometrica"
+     ],
+     "p": "geometrica"
+    },
+    {
+     "k": [
+      "diferencia"
+     ],
+     "p": "diferencia"
+    },
+    {
+     "k": [
+      "razon"
+     ],
+     "p": "razon"
+    }
+   ],
+   "referencia": "Aritmética: aₙ = a₁ + (n − 1)·d. Geométrica: aₙ = a₁·rⁿ⁻¹. Ejemplo de cada una.",
+   "minPalabras": 25
+  },
+  "m5": {
+   "instruccion": "Respondé en tu carpeta lo esencial del contenido: cómo se resuelve una ecuación de segundo grado completando el cuadrado y con la fórmula resolvente, y qué te dice el discriminante.",
+   "guia": [
+    "¿Qué forma tiene una ecuación de segundo grado?",
+    "¿Cómo se usa la fórmula resolvente?",
+    "¿Qué te dice el discriminante sobre las soluciones?"
+   ],
+   "claves": [
+    {
+     "k": [
+      "segundo grado"
+     ],
+     "p": "segundo grado"
+    },
+    {
+     "k": [
+      "completar"
+     ],
+     "p": "completar"
+    },
+    {
+     "k": [
+      "resolvente"
+     ],
+     "p": "resolvente"
+    },
+    {
+     "k": [
+      "discriminante"
+     ],
+     "p": "discriminante"
+    },
+    {
+     "k": [
+      "solucion"
+     ],
+     "p": "solucion"
+    }
+   ],
+   "referencia": "Forma ax² + bx + c = 0. Completar el cuadrado y fórmula resolvente. Δ = b² − 4ac: dos, una o ninguna solución real.",
+   "minPalabras": 25
+  },
+  "m6": {
+   "instruccion": "Respondé en tu carpeta lo esencial del contenido: qué es una función y cómo se representa, qué es el dominio, qué es una asíntota, y qué relación hay entre una exponencial y un logaritmo.",
+   "guia": [
+    "¿De qué maneras se puede representar una función?",
+    "¿Qué es el dominio y qué es una asíntota?",
+    "¿Qué relación hay entre la exponencial y el logaritmo?"
+   ],
+   "claves": [
+    {
+     "k": [
+      "funcion"
+     ],
+     "p": "funcion"
+    },
+    {
+     "k": [
+      "dominio"
+     ],
+     "p": "dominio"
+    },
+    {
+     "k": [
+      "asintota"
+     ],
+     "p": "asintota"
+    },
+    {
+     "k": [
+      "exponencial"
+     ],
+     "p": "exponencial"
+    },
+    {
+     "k": [
+      "logaritmo"
+     ],
+     "p": "logaritmo"
+    }
+   ],
+   "referencia": "Formas de representar una función, dominio, asíntotas, exponencial y logaritmo como operaciones inversas.",
+   "minPalabras": 25
+  },
+  "m7": {
+   "instruccion": "Respondé en tu carpeta lo esencial del contenido: cómo se definen el seno y el coseno en un triángulo rectángulo, cómo se leen en la circunferencia trigonométrica y para qué sirve el ángulo de referencia.",
+   "guia": [
+    "¿Cómo se calculan el seno y el coseno en un triángulo rectángulo?",
+    "¿Qué signos tienen en cada cuadrante?",
+    "¿Para qué sirve el ángulo de referencia?"
+   ],
+   "claves": [
+    {
+     "k": [
+      "seno"
+     ],
+     "p": "seno"
+    },
+    {
+     "k": [
+      "coseno"
+     ],
+     "p": "coseno"
+    },
+    {
+     "k": [
+      "hipotenusa"
+     ],
+     "p": "hipotenusa"
+    },
+    {
+     "k": [
+      "cuadrante"
+     ],
+     "p": "cuadrante"
+    },
+    {
+     "k": [
+      "circunferencia"
+     ],
+     "p": "circunferencia"
+    }
+   ],
+   "referencia": "sen = opuesto ÷ hipotenusa; cos = adyacente ÷ hipotenusa. Signos por cuadrante y ángulo de referencia.",
+   "minPalabras": 25
+  },
+  "m8": {
+   "instruccion": "Respondé en tu carpeta lo esencial del contenido: qué es una medición indirecta, qué dicen el teorema del seno y el del coseno, y cómo decidís cuál usar según los datos.",
+   "guia": [
+    "¿Qué es una medición indirecta?",
+    "¿Qué dicen el teorema del seno y el del coseno?",
+    "¿Cómo decidís cuál usar?"
+   ],
+   "claves": [
+    {
+     "k": [
+      "medicion indirecta"
+     ],
+     "p": "medicion indirecta"
+    },
+    {
+     "k": [
+      "teorema del seno"
+     ],
+     "p": "teorema del seno"
+    },
+    {
+     "k": [
+      "teorema del coseno"
+     ],
+     "p": "teorema del coseno"
+    },
+    {
+     "k": [
+      "teodolito"
+     ],
+     "p": "teodolito"
+    },
+    {
+     "k": [
+      "triangulo"
+     ],
+     "p": "triangulo"
+    }
+   ],
+   "referencia": "Medición indirecta; teorema del seno (lado ÷ seno del ángulo opuesto) y del coseno (c² = a² + b² − 2ab·cos C).",
+   "minPalabras": 25
+  },
+  "m9": {
+   "instruccion": "Respondé en tu carpeta lo esencial del contenido: por qué la media sola no alcanza, y qué son el rango, la varianza y la desviación estándar y cómo se calculan.",
+   "guia": [
+    "¿Por qué la media sola no alcanza para describir datos?",
+    "¿Cómo se calculan la varianza y la desviación estándar?",
+    "¿Qué indica una desviación estándar chica o grande?"
+   ],
+   "claves": [
+    {
+     "k": [
+      "media"
+     ],
+     "p": "media"
+    },
+    {
+     "k": [
+      "rango"
+     ],
+     "p": "rango"
+    },
+    {
+     "k": [
+      "varianza"
+     ],
+     "p": "varianza"
+    },
+    {
+     "k": [
+      "desviacion"
+     ],
+     "p": "desviacion"
+    },
+    {
+     "k": [
+      "dispersion"
+     ],
+     "p": "dispersion"
+    }
+   ],
+   "referencia": "Media, rango, varianza y desviación estándar; qué indica cada una.",
+   "minPalabras": 25
+  },
+  "m10": {
+   "instruccion": "Respondé en tu carpeta lo esencial del contenido: la regla de Laplace, la diferencia entre sucesos excluyentes y no excluyentes, e independientes y dependientes, y cómo se usa el árbol de probabilidades.",
+   "guia": [
+    "¿Qué dice la regla de Laplace?",
+    "¿Cuándo dos sucesos son excluyentes y cuándo independientes?",
+    "¿Cómo se calcula la probabilidad de un camino del árbol?"
+   ],
+   "claves": [
+    {
+     "k": [
+      "probabilidad"
+     ],
+     "p": "probabilidad"
+    },
+    {
+     "k": [
+      "laplace"
+     ],
+     "p": "laplace"
+    },
+    {
+     "k": [
+      "excluyente"
+     ],
+     "p": "excluyente"
+    },
+    {
+     "k": [
+      "independiente"
+     ],
+     "p": "independiente"
+    },
+    {
+     "k": [
+      "condicionada"
+     ],
+     "p": "condicionada"
+    }
+   ],
+   "referencia": "Laplace = casos favorables ÷ casos posibles. Excluyentes, independientes, condicionada, árbol y probabilidad total.",
+   "minPalabras": 25
+  }
+ },
+ "practica": {
+  "titulo": "Ejercicios para resolver",
+  "despues_del_desarrollo": true,
+  "intro": "Estos ejercicios son del tipo que tu docente te puede pedir que resuelvas en el momento de presentar. La pantalla te dice si el resultado está bien, pero a tu docente le importa **cómo llegaste**: resolvelos también en tu carpeta, con todos los pasos.",
+  "consejos": [
+   "Leé la consigna dos veces y anotá los datos.",
+   "Escribí la fórmula o la propiedad antes de reemplazar los números.",
+   "Hacé los pasos en orden y explicalos en voz alta, como si se lo contaras a alguien.",
+   "Comprobá el resultado: ¿tiene sentido? (una longitud no es negativa, una probabilidad está entre 0 y 1).",
+   "Si te trabás, anotá qué paso no te sale y consultalo con tu docente antes de presentar."
+  ],
+  "por_contenido": {
+   "m1": [
+    {
+     "t": "opcion",
+     "pregunta": "¿Cuál de estos números es irracional?",
+     "opciones": [
+      "√49",
+      "√50",
+      "0,25",
+      "2/3"
+     ],
+     "correcta": 1,
+     "explicacion": "√49 = 7, 0,25 = 1/4 y 2/3 son racionales. 50 no es el cuadrado de ningún entero, así que √50 tiene infinitos decimales sin período.",
+     "pista": "Un número es irracional si no se puede escribir como fracción. Probá cuáles son raíces exactas."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Redondeá √11 a 2 decimales. (Con la calculadora, √11 = 3,3166247…)",
+     "respuesta": "3.32",
+     "explicacion": "La tercera cifra decimal es 6, que es 5 o más: la última cifra sube. 3,31 pasa a 3,32.",
+     "pista1": "Para redondear mirás la cifra que sigue a las dos primeras decimales.",
+     "pista": "Después de 3,31 viene un 6: la última cifra que dejás sube una unidad."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Se aproxima √3 por 1,73. ¿Cuánto vale el error absoluto? Escribilo con 4 decimales. (√3 = 1,7320508…)",
+     "respuesta": "0.0021",
+     "explicacion": "|1,7320508… − 1,73| = 0,0020508… y, con 4 decimales, 0,0021.",
+     "pista1": "El error absoluto es el valor absoluto de la diferencia entre el número verdadero y la aproximación.",
+     "pista": "Restá 1,7320508 − 1,73 y redondeá a 4 decimales.",
+     "tolerancia": 0.0001
+    }
+   ],
+   "m2": [
+    {
+     "t": "verificar",
+     "consigna": "Dos segmentos miden 18 cm y 30 cm. ¿Cuál es la unidad común más grande que entra una cantidad entera de veces en los dos? Escribí cuántos centímetros mide.",
+     "respuesta": "6",
+     "explicacion": "El 6 entra 3 veces en 18 y 5 veces en 30. Ninguna unidad mayor entra justo en los dos.",
+     "pista1": "Buscá los números que dividen a 18 y también a 30.",
+     "pista": "Probá con 2, 3 y 6: ¿cuál es el mayor que divide a los dos?"
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Entre qué dos enteros consecutivos queda √20 en la recta?",
+     "opciones": [
+      "3 y 4",
+      "4 y 5",
+      "5 y 6",
+      "2 y 3"
+     ],
+     "correcta": 1,
+     "explicacion": "4² = 16 y 5² = 25; como 20 está entre 16 y 25, √20 está entre 4 y 5.",
+     "pista": "Buscá los cuadrados perfectos que quedan antes y después de 20."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Los términos 34 y 55 son seguidos en la sucesión de Fibonacci. Calculá 55 ÷ 34 con 3 decimales y fijate a qué número se parece el resultado.",
+     "respuesta": "1.618",
+     "explicacion": "55 ÷ 34 = 1,6176… ≈ 1,618, que es el valor del número áureo φ con 3 decimales.",
+     "pista1": "Es una división: el más grande dividido el más chico.",
+     "pista": "Dividí 55 por 34 con la calculadora y redondeá a 3 decimales.",
+     "tolerancia": 0.0006
+    }
+   ],
+   "m3": [
+    {
+     "t": "verificar",
+     "consigna": "Calculá √5 · √20.",
+     "respuesta": "10",
+     "explicacion": "Por la propiedad del producto: √5 · √20 = √100 = 10.",
+     "pista1": "Juntá las dos raíces en una sola.",
+     "pista": "Multiplicá 5 por 20 adentro de la raíz y calculá la raíz."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Calculá √12 + √27. Escribilo simplificado, como a√b.",
+     "respuesta": "5√3",
+     "explicacion": "√12 = 2√3 y √27 = 3√3. Son semejantes, así que se suman los números de adelante: 2√3 + 3√3 = 5√3.",
+     "pista1": "Simplificá cada raíz antes de sumar.",
+     "pista": "12 = 4 · 3 y 27 = 9 · 3. Sacá la raíz de 4 y de 9.",
+     "acepta": [
+      "5√3"
+     ]
+    },
+    {
+     "t": "verificar",
+     "consigna": "Racionalizá 12/√6 y escribilo simplificado, como a√b.",
+     "respuesta": "2√6",
+     "explicacion": "12/√6 = 12 · √6 / (√6 · √6) = 12√6 / 6 = 2√6.",
+     "pista1": "Multiplicá arriba y abajo por √6.",
+     "pista": "Abajo queda √6 · √6 = 6. Después simplificá 12 con 6.",
+     "acepta": [
+      "2√6"
+     ]
+    }
+   ],
+   "m4": [
+    {
+     "t": "verificar",
+     "consigna": "En la sucesión 5, 9, 13, 17, …, ¿cuánto vale a₁₅?",
+     "respuesta": "61",
+     "explicacion": "Es aritmética con d = 4: a₁₅ = 5 + 14 · 4 = 61.",
+     "pista1": "Calculá cuánto aumenta cada término.",
+     "pista": "Usá aₙ = a₁ + (n − 1) · d con d = 4 y n = 15."
+    },
+    {
+     "t": "verificar",
+     "consigna": "En la sucesión 2, 6, 18, 54, …, ¿cuánto vale a₇?",
+     "respuesta": "1458",
+     "explicacion": "Es geométrica con r = 3: a₇ = 2 · 3⁶ = 2 · 729 = 1458.",
+     "pista1": "Fijate por cuánto se multiplica para pasar de un término al siguiente.",
+     "pista": "Usá aₙ = a₁ · rⁿ⁻¹ con r = 3 y n = 7."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Una sucesión aritmética tiene a₁ = 3 y a₅ = 19. ¿Cuánto vale la diferencia d?",
+     "respuesta": "4",
+     "explicacion": "a₅ = 3 + 4 · d = 19, entonces 4d = 16 y d = 4.",
+     "pista1": "Escribí la fórmula con los datos que tenés y dejá d como incógnita.",
+     "pista": "Reemplazá n = 5 en aₙ = a₁ + (n − 1) · d y despejá d."
+    }
+   ],
+   "m5": [
+    {
+     "t": "verificar",
+     "consigna": "Resolvé x² + 8x = 20 completando el cuadrado. Escribí la solución positiva.",
+     "respuesta": "2",
+     "explicacion": "Sumás 16 a los dos lados: (x + 4)² = 36, entonces x + 4 = 6 o x + 4 = −6. Las soluciones son 2 y −10.",
+     "pista1": "La esquina que falta es el cuadrado de la mitad de 8.",
+     "pista": "Sumá 16 en los dos miembros y escribí el lado izquierdo como (x + 4)²."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Con la fórmula resolvente, ¿cuál es la solución positiva de x² − 3x − 10 = 0?",
+     "respuesta": "5",
+     "explicacion": "Δ = 9 + 40 = 49, así que x = (3 ± 7) / 2. Las soluciones son 5 y −2.",
+     "pista1": "Identificá a = 1, b = −3 y c = −10.",
+     "pista": "Calculá primero el discriminante b² − 4ac y después reemplazá en la fórmula."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Cuántas soluciones reales tiene x² − 6x + 10 = 0?",
+     "opciones": [
+      "Ninguna",
+      "Una",
+      "Dos"
+     ],
+     "correcta": 0,
+     "explicacion": "Δ = 36 − 40 = −4. Como el discriminante es negativo, no hay soluciones reales y la parábola no corta el eje x.",
+     "pista": "Calculá el discriminante b² − 4ac y mirá su signo."
+    }
+   ],
+   "m6": [
+    {
+     "t": "verificar",
+     "consigna": "Para y = x² − 9, ¿en qué valor positivo de x el gráfico corta el eje x?",
+     "respuesta": "3",
+     "explicacion": "Corta el eje x cuando y = 0: x² − 9 = 0, entonces x = 3 o x = −3.",
+     "pista1": "En los puntos donde el gráfico corta el eje x, el valor de y es 0.",
+     "pista": "Resolvé x² − 9 = 0."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Cuál es el dominio de y = 5 / (x − 3)?",
+     "opciones": [
+      "Todos los reales menos 3",
+      "Todos los reales menos 5",
+      "Todos los reales menos 0",
+      "Solo los positivos"
+     ],
+     "correcta": 0,
+     "explicacion": "No se puede dividir por 0, y x − 3 = 0 cuando x = 3.",
+     "pista": "Buscá qué valor de x hace que el denominador valga 0."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Calculá log₂ 32 + log₁₀ 100.",
+     "respuesta": "7",
+     "explicacion": "log₂ 32 = 5 porque 2⁵ = 32, y log₁₀ 100 = 2 porque 10² = 100. Suman 7.",
+     "pista1": "Calculá cada logaritmo por separado: ¿a qué exponente hay que elevar la base?",
+     "pista": "¿Cuántas veces multiplicás 2 para llegar a 32? ¿Y 10 para llegar a 100?"
+    }
+   ],
+   "m7": [
+    {
+     "t": "verificar",
+     "consigna": "En un triángulo rectángulo de lados 5, 12 y 13, ¿cuánto vale el seno del ángulo opuesto al lado 5?",
+     "respuesta": "5/13",
+     "explicacion": "El seno es cateto opuesto sobre hipotenusa: 5/13 ≈ 0,385.",
+     "pista1": "La hipotenusa es el lado más largo.",
+     "pista": "Seno = cateto opuesto ÷ hipotenusa.",
+     "acepta": [
+      "5/13",
+      "0.385"
+     ],
+     "tolerancia": 0.001,
+     "formato": "Escribí una fracción (por ejemplo 1/2) o un decimal con coma."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Qué signo tiene cos 150°?",
+     "opciones": [
+      "Positivo",
+      "Negativo",
+      "Es cero"
+     ],
+     "correcta": 1,
+     "explicacion": "150° está en el segundo cuadrante, donde el coseno (la coordenada x) es negativo.",
+     "pista": "Ubicá 150° en la circunferencia: ¿de qué lado del eje y queda?"
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Cuánto vale cos 240°?",
+     "respuesta": "-1/2",
+     "explicacion": "240° está en el tercer cuadrante y su ángulo de referencia es 60°. cos 60° = 1/2 y, como en ese cuadrante el coseno es negativo, cos 240° = −1/2.",
+     "pista1": "Calculá el ángulo de referencia: 240° − 180°.",
+     "pista": "cos 60° = 1/2. Falta el signo según el cuadrante.",
+     "acepta": [
+      "-1/2",
+      "-0.5"
+     ],
+     "formato": "Escribí una fracción (por ejemplo 1/2) o un decimal con coma."
+    }
+   ],
+   "m8": [
+    {
+     "t": "verificar",
+     "consigna": "Una escalera de 5 m se apoya en una pared y forma 60° con el piso. ¿A qué altura de la pared llega? Redondeá a 2 decimales.",
+     "respuesta": "4.33",
+     "explicacion": "La altura es el cateto opuesto al ángulo y la escalera es la hipotenusa: 5 · sen 60° ≈ 5 · 0,866 = 4,33 m.",
+     "pista1": "Dibujá el triángulo: ¿la altura es el cateto opuesto o el adyacente al ángulo de 60°?",
+     "pista": "Altura = hipotenusa · sen 60°.",
+     "tolerancia": 0.005
+    },
+    {
+     "t": "verificar",
+     "consigna": "En un triángulo, un lado mide 10 cm y es opuesto a un ángulo de 30°. ¿Cuánto mide el lado opuesto a un ángulo de 45°? Redondeá a 2 decimales.",
+     "respuesta": "14.14",
+     "explicacion": "Teorema del seno: x / sen 45° = 10 / sen 30°, entonces x = 10 · 0,7071 / 0,5 = 14,14 cm.",
+     "pista1": "Armá la igualdad entre los dos cocientes lado ÷ seno del ángulo opuesto.",
+     "pista": "x = 10 · sen 45° ÷ sen 30°.",
+     "tolerancia": 0.01
+    },
+    {
+     "t": "verificar",
+     "consigna": "Dos lados de un triángulo miden 6 cm y 8 cm y forman un ángulo de 60°. ¿Cuánto mide el tercer lado? Redondeá a 2 decimales.",
+     "respuesta": "7.21",
+     "explicacion": "Teorema del coseno: c² = 6² + 8² − 2 · 6 · 8 · cos 60° = 100 − 48 = 52, entonces c = √52 ≈ 7,21 cm.",
+     "pista1": "Conocés dos lados y el ángulo que forman: ¿qué teorema te conviene?",
+     "pista": "c² = 36 + 64 − 96 · cos 60°. Después sacá la raíz.",
+     "tolerancia": 0.01
+    }
+   ],
+   "m9": [
+    {
+     "t": "verificar",
+     "consigna": "Calculá el rango de los datos 12, 7, 15, 9 y 20.",
+     "respuesta": "13",
+     "explicacion": "El rango es el dato mayor menos el menor: 20 − 7 = 13.",
+     "pista1": "Buscá el dato más grande y el más chico.",
+     "pista": "Restá: mayor − menor."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Calculá la varianza de 1, 3, 3 y 5.",
+     "respuesta": "2",
+     "explicacion": "La media es 3 y las desviaciones son −2, 0, 0 y 2. Sus cuadrados suman 4 + 0 + 0 + 4 = 8, y 8 ÷ 4 = 2.",
+     "pista1": "Empezá por la media y después calculá la desviación de cada dato.",
+     "pista": "Elevá cada desviación al cuadrado, sumalas y dividí por la cantidad de datos."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "Dos grupos tienen la misma media, 6. El grupo A tiene desviación estándar 1,2 y el grupo B, 3,5. ¿Qué grupo tiene los datos más parecidos entre sí?",
+     "opciones": [
+      "El grupo A",
+      "El grupo B",
+      "Los dos igual, porque tienen la misma media"
+     ],
+     "correcta": 0,
+     "explicacion": "Una desviación estándar más chica indica datos más cerca de la media. Que las medias sean iguales no dice nada sobre la dispersión.",
+     "pista": "La desviación estándar mide cuánto se alejan los datos de la media."
+    }
+   ],
+   "m10": [
+    {
+     "t": "verificar",
+     "consigna": "Se tira un dado. ¿Cuál es la probabilidad de que salga un número menor que 5 o par?",
+     "respuesta": "5/6",
+     "explicacion": "Menor que 5: 1, 2, 3 y 4. Par: 2, 4 y 6. Juntos: 1, 2, 3, 4 y 6, que son 5 de 6 casos. La probabilidad es 5/6.",
+     "pista1": "Escribí los números de cada suceso y fijate cuáles se repiten.",
+     "pista": "No cuentes dos veces el 2 y el 4.",
+     "acepta": [
+      "5/6",
+      "0.8333"
+     ],
+     "tolerancia": 0.001,
+     "formato": "Escribí una fracción (por ejemplo 1/2) o un decimal con coma."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Una bolsa tiene 4 bolillas verdes y 6 amarillas. Sacás dos sin reposición. ¿Cuál es la probabilidad de que las dos sean verdes?",
+     "respuesta": "2/15",
+     "explicacion": "P(verde y verde) = 4/10 · 3/9 = 12/90 = 2/15 ≈ 0,133.",
+     "pista1": "Sin reposición, después de sacar una verde quedan menos bolillas.",
+     "pista": "Multiplicá la probabilidad de la primera por la de la segunda, con 3 verdes y 9 bolillas en total.",
+     "acepta": [
+      "2/15",
+      "12/90",
+      "0.1333"
+     ],
+     "tolerancia": 0.001,
+     "formato": "Escribí una fracción (por ejemplo 1/2) o un decimal con coma."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Se tiran 3 monedas. ¿Cuál es la probabilidad de sacar al menos 2 caras?",
+     "respuesta": "1/2",
+     "explicacion": "Los 8 resultados posibles tienen 2 caras en 3 casos (CCS, CSC, SCC) y 3 caras en 1 caso (CCC). Son 4 de 8, es decir 1/2.",
+     "pista1": "Contá los casos con exactamente 2 caras y los que tienen 3.",
+     "pista": "Sumá los casos favorables y dividí por 8.",
+     "acepta": [
+      "1/2",
+      "0.5",
+      "4/8"
+     ],
+     "formato": "Escribí una fracción (por ejemplo 1/2) o un decimal con coma."
+    }
+   ]
+  }
+ },
+ "conclusion": {
+  "instruccion": "Escribí la conclusión de tu trabajo: contá qué aprendiste, qué ejercicio te costó más y cómo lo resolviste.",
+  "guia": [
+   "¿Qué es lo más importante que aprendiste?",
+   "¿Qué ejercicio te costó más y cómo lo resolviste?",
+   "¿Qué contenido te gustaría repasar antes de presentar?"
+  ],
+  "claves": [
+   {
+    "k": [
+     "aprendi",
+     "entendi",
+     "conoci"
+    ],
+    "p": "qué aprendiste"
+   },
+   {
+    "k": [
+     "ejercicio",
+     "costo",
+     "resolv"
+    ],
+    "p": "qué ejercicio te costó"
+   }
+  ],
+  "referencia": "Aprendizajes, ejercicio más difícil y qué repasar.",
+  "minPalabras": 20,
+  "modelo": "Con este trabajo aprendí que …….\n\nEl ejercicio que más me costó fue ……, y lo resolví ……\n\nAntes de presentar quiero repasar ……."
+ },
+ "preguntas": [
+  {
+   "id": "q-m1-1",
+   "contenido": "m1",
+   "nivel": "Básica",
+   "pregunta": "¿Cómo te das cuenta de que un número es irracional?",
+   "orientacion": "Un irracional tiene infinitos decimales que no se repiten y no se puede escribir como fracción de enteros. Una raíz es irracional si el radicando no es una potencia perfecta: √50 es irracional y √49 = 7 es racional."
+  },
+  {
+   "id": "q-m1-2",
+   "contenido": "m1",
+   "nivel": "Media",
+   "pregunta": "¿Qué diferencia hay entre truncar y redondear? ¿Cuál da menos error?",
+   "orientacion": "Truncar corta las cifras que sobran; redondear mira la cifra siguiente y, si es 5 o más, sube la última. Con √5 = 2,236…: truncado da 2,23 y redondeado da 2,24. El redondeo da el número más cercano, así que su error nunca es mayor."
+  },
+  {
+   "id": "q-m1-3",
+   "contenido": "m1",
+   "nivel": "Ejercicio",
+   "pregunta": "Tenés que aproximar √17 con un error menor que 0,01. ¿Qué número escribís y cómo comprobás que cumple?",
+   "orientacion": "Truncando a 2 decimales: √17 = 4,1231…, entonces 4,12. El error es |4,1231 − 4,12| = 0,0031, que es menor que 0,01."
+  },
+  {
+   "id": "q-m2-1",
+   "contenido": "m2",
+   "nivel": "Básica",
+   "pregunta": "¿Qué conjuntos de números forman los números reales?",
+   "orientacion": "Los racionales (que incluyen a los enteros y a los naturales) y los irracionales. Todos tienen un lugar en la recta numérica."
+  },
+  {
+   "id": "q-m2-2",
+   "contenido": "m2",
+   "nivel": "Media",
+   "pregunta": "¿Qué significa que dos segmentos sean inconmensurables? Dá un ejemplo.",
+   "orientacion": "No existe una unidad común que entre una cantidad entera de veces en los dos; el cociente entre sus medidas es irracional. Ejemplo: el lado y la diagonal de un cuadrado, cuyo cociente es √2."
+  },
+  {
+   "id": "q-m2-3",
+   "contenido": "m2",
+   "nivel": "Ejercicio",
+   "pregunta": "Ubicá √10 en la recta: decí entre qué enteros queda y cómo lo comprobás.",
+   "orientacion": "3² = 9 y 4² = 16. Como 10 está entre 9 y 16, √10 queda entre 3 y 4. Con la calculadora, √10 ≈ 3,16."
+  },
+  {
+   "id": "q-m3-1",
+   "contenido": "m3",
+   "nivel": "Básica",
+   "pregunta": "¿Por qué √(9 + 16) no es igual a √9 + √16?",
+   "orientacion": "Porque la raíz no se reparte en una suma. √(9 + 16) = √25 = 5, y √9 + √16 = 3 + 4 = 7. Con ese caso alcanza para mostrar que la igualdad no es cierta."
+  },
+  {
+   "id": "q-m3-2",
+   "contenido": "m3",
+   "nivel": "Media",
+   "pregunta": "¿Qué es racionalizar y por qué no cambia el valor de la fracción?",
+   "orientacion": "Es escribir la fracción sin raíces en el denominador. Se multiplica arriba y abajo por el mismo número, o sea por 1, así que el valor no cambia. Por ejemplo, 6/√3 = 6√3/3 = 2√3."
+  },
+  {
+   "id": "q-m3-3",
+   "contenido": "m3",
+   "nivel": "Ejercicio",
+   "pregunta": "Calculá √45 + √20 y escribilo simplificado. Explicá cada paso.",
+   "orientacion": "√45 = √(9·5) = 3√5 y √20 = √(4·5) = 2√5. Son semejantes, así que 3√5 + 2√5 = 5√5."
+  },
+  {
+   "id": "q-m4-1",
+   "contenido": "m4",
+   "nivel": "Básica",
+   "pregunta": "¿Cómo te das cuenta de si una sucesión es aritmética o geométrica?",
+   "orientacion": "En la aritmética se suma siempre el mismo número (la diferencia d); en la geométrica se multiplica siempre por el mismo número (la razón r)."
+  },
+  {
+   "id": "q-m4-2",
+   "contenido": "m4",
+   "nivel": "Media",
+   "pregunta": "¿Por qué en la fórmula de la aritmética se multiplica d por n − 1 y no por n?",
+   "orientacion": "Porque para llegar al término n desde a₁ hay que dar n − 1 pasos. Por ejemplo, para llegar al término 5 hay 4 saltos de tamaño d."
+  },
+  {
+   "id": "q-m4-3",
+   "contenido": "m4",
+   "nivel": "Ejercicio",
+   "pregunta": "En la sucesión 100, 95, 90, …, ¿cuánto vale a₁₂? Mostrá cómo lo calculás.",
+   "orientacion": "Es aritmética con d = −5. a₁₂ = 100 + 11 · (−5) = 100 − 55 = 45."
+  },
+  {
+   "id": "q-m5-1",
+   "contenido": "m5",
+   "nivel": "Básica",
+   "pregunta": "¿Cuándo usás la fórmula resolvente y cómo identificás a, b y c?",
+   "orientacion": "Cuando la ecuación está escrita como ax² + bx + c = 0. a es el número que acompaña a x², b el que acompaña a x y c el que está solo, cada uno con su signo."
+  },
+  {
+   "id": "q-m5-2",
+   "contenido": "m5",
+   "nivel": "Media",
+   "pregunta": "¿Qué te dice el discriminante sobre las soluciones y cómo se ve en la parábola?",
+   "orientacion": "Si Δ > 0 hay dos soluciones y la parábola corta el eje x en dos puntos; si Δ = 0 hay una y la toca en un punto; si Δ < 0 no hay soluciones reales y no lo corta."
+  },
+  {
+   "id": "q-m5-3",
+   "contenido": "m5",
+   "nivel": "Ejercicio",
+   "pregunta": "Resolvé x² − 2x − 15 = 0 con la fórmula resolvente y comprobá una solución.",
+   "orientacion": "Δ = 4 + 60 = 64, entonces x = (2 ± 8) / 2: x = 5 o x = −3. Comprobación con x = 5: 25 − 10 − 15 = 0."
+  },
+  {
+   "id": "q-m6-1",
+   "contenido": "m6",
+   "nivel": "Básica",
+   "pregunta": "¿Qué es el dominio de una función? Dá un ejemplo.",
+   "orientacion": "Son los valores de x para los que la función se puede calcular. En y = 5/(x − 3) no puede ser x = 3, porque se dividiría por 0: el dominio es todos los reales menos 3."
+  },
+  {
+   "id": "q-m6-2",
+   "contenido": "m6",
+   "nivel": "Media",
+   "pregunta": "¿Qué es una asíntota y cómo la reconocés en y = 4/(x − 2)?",
+   "orientacion": "Es una recta a la que el gráfico se acerca cada vez más sin tocarla. Acá hay una vertical en x = 2 (donde no existe la función) y una horizontal en y = 0 (cuando x se hace muy grande, y se acerca a 0)."
+  },
+  {
+   "id": "q-m6-3",
+   "contenido": "m6",
+   "nivel": "Ejercicio",
+   "pregunta": "Dada y = 3/(x + 4), escribí el dominio y las asíntotas.",
+   "orientacion": "El denominador vale 0 cuando x = −4: el dominio es todos los reales menos −4. La asíntota vertical es x = −4 y la horizontal es y = 0."
+  },
+  {
+   "id": "q-m7-1",
+   "contenido": "m7",
+   "nivel": "Básica",
+   "pregunta": "¿Cómo se calculan el seno y el coseno de un ángulo en un triángulo rectángulo?",
+   "orientacion": "Seno = cateto opuesto ÷ hipotenusa. Coseno = cateto adyacente ÷ hipotenusa. La hipotenusa es el lado más largo, el que está frente al ángulo recto."
+  },
+  {
+   "id": "q-m7-2",
+   "contenido": "m7",
+   "nivel": "Media",
+   "pregunta": "¿Para qué sirve el ángulo de referencia y cómo se usa?",
+   "orientacion": "Para calcular el seno o el coseno de un ángulo que está en otro cuadrante: se busca el ángulo agudo que forma con el eje x y se pone el signo que corresponde al cuadrante. Por ejemplo, sen 210° = −sen 30° = −1/2."
+  },
+  {
+   "id": "q-m7-3",
+   "contenido": "m7",
+   "nivel": "Ejercicio",
+   "pregunta": "Calculá sen 150° y cos 150° usando el ángulo de referencia.",
+   "orientacion": "150° está en el segundo cuadrante y su ángulo de referencia es 30°. Ahí el seno es positivo y el coseno negativo: sen 150° = 1/2 y cos 150° = −√3/2."
+  },
+  {
+   "id": "q-m8-1",
+   "contenido": "m8",
+   "nivel": "Básica",
+   "pregunta": "¿Qué es una medición indirecta? Dá un ejemplo.",
+   "orientacion": "Es calcular una medida que no se puede medir directamente usando otras medidas y relaciones, como los ángulos y los lados de un triángulo. Por ejemplo, el ancho de un río o la altura de un árbol."
+  },
+  {
+   "id": "q-m8-2",
+   "contenido": "m8",
+   "nivel": "Media",
+   "pregunta": "¿Cómo decidís entre el teorema del seno y el del coseno?",
+   "orientacion": "Si conocés un lado y su ángulo opuesto, más otro dato, usás el del seno. Si conocés dos lados y el ángulo que forman, o los tres lados, usás el del coseno."
+  },
+  {
+   "id": "q-m8-3",
+   "contenido": "m8",
+   "nivel": "Ejercicio",
+   "pregunta": "Dos lados de un triángulo miden 5 cm y 12 cm y forman un ángulo de 90°. Usá el teorema del coseno para calcular el tercer lado y explicá por qué da lo mismo que Pitágoras.",
+   "orientacion": "c² = 25 + 144 − 2 · 5 · 12 · cos 90° = 169 − 0 = 169, entonces c = 13 cm. Da lo mismo porque cos 90° = 0, y la fórmula se reduce al teorema de Pitágoras."
+  },
+  {
+   "id": "q-m9-1",
+   "contenido": "m9",
+   "nivel": "Básica",
+   "pregunta": "¿Por qué la media sola no alcanza para describir un conjunto de datos?",
+   "orientacion": "Porque dos conjuntos pueden tener la misma media y estar muy distintos: unos con datos muy cerca de la media y otros muy dispersos. Para saberlo hace falta una medida de dispersión."
+  },
+  {
+   "id": "q-m9-2",
+   "contenido": "m9",
+   "nivel": "Media",
+   "pregunta": "¿Cómo se calcula la varianza y qué indica?",
+   "orientacion": "Se calcula la desviación de cada dato respecto de la media, se elevan al cuadrado, se suman y se divide por la cantidad de datos. Una varianza grande indica datos más dispersos."
+  },
+  {
+   "id": "q-m9-3",
+   "contenido": "m9",
+   "nivel": "Ejercicio",
+   "pregunta": "Calculá la media y la desviación estándar de 3, 5, 5 y 7.",
+   "orientacion": "Media = 20 ÷ 4 = 5. Desviaciones: −2, 0, 0 y 2; cuadrados: 4, 0, 0 y 4; varianza = 8 ÷ 4 = 2. Desviación estándar = √2 ≈ 1,41."
+  },
+  {
+   "id": "q-m10-1",
+   "contenido": "m10",
+   "nivel": "Básica",
+   "pregunta": "¿Cómo se calcula una probabilidad con la regla de Laplace?",
+   "orientacion": "Casos favorables dividido casos posibles, siempre que todos los resultados sean igualmente probables. Con un dado, P(par) = 3/6 = 1/2."
+  },
+  {
+   "id": "q-m10-2",
+   "contenido": "m10",
+   "nivel": "Media",
+   "pregunta": "¿Por qué sacar sin reposición da sucesos dependientes?",
+   "orientacion": "Porque al sacar un elemento la composición de la bolsa cambia y la probabilidad de la segunda extracción depende de lo que salió primero. Por eso se usa la probabilidad condicionada P(B | A)."
+  },
+  {
+   "id": "q-m10-3",
+   "contenido": "m10",
+   "nivel": "Ejercicio",
+   "pregunta": "Una bolsa tiene 4 bolillas rojas y 2 azules. Sacás dos sin reposición. Calculá la probabilidad de sacar una de cada color.",
+   "orientacion": "Rojo y azul: 4/6 · 2/5 = 8/30. Azul y rojo: 2/6 · 4/5 = 8/30. Son caminos distintos que no se pueden dar a la vez, así que se suman: 16/30 = 8/15."
+  },
+  {
+   "id": "q-g-1",
+   "contenido": "general",
+   "nivel": "Integradora",
+   "pregunta": "Elegí dos de los contenidos de tu trabajo y explicá qué tienen en común o en qué se usa uno para el otro.",
+   "orientacion": "Pensá en herramientas compartidas: por ejemplo, los radicales aparecen en la fórmula resolvente y en el teorema de Pitágoras; las sucesiones y las funciones exponenciales comparten el crecimiento por multiplicación. Elegí un vínculo y mostralo con un ejemplo."
+  },
+  {
+   "id": "q-g-2",
+   "contenido": "general",
+   "nivel": "Integradora",
+   "pregunta": "Elegí un ejercicio de tu trabajo y explicá cómo lo resolviste, paso a paso.",
+   "orientacion": "Empezá por los datos, nombrá la fórmula o propiedad que usás, mostrá cada paso del cálculo y terminá con la respuesta y una comprobación."
+  },
+  {
+   "id": "q-g-3",
+   "contenido": "general",
+   "nivel": "Integradora",
+   "pregunta": "¿Cómo comprobás que un resultado está bien?",
+   "orientacion": "Se puede reemplazar el resultado en la ecuación original, ver si tiene sentido (por ejemplo, una probabilidad entre 0 y 1 o una longitud positiva), calcular de otra manera o estimar con la calculadora."
+  }
+ ]
+}

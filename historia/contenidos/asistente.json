@@ -1,0 +1,3500 @@
+{
+ "descripcion": "Contenido del asistente de Historia (sin IA). Revisar con docente de Historia antes de usar con estudiantes.",
+ "palabras": [
+  {
+   "palabra": "Oligarquía",
+   "definicion": "Gobierno de pocos: un grupo chico de familias con mucho dinero y mucho poder que decide por todo el país. En la Argentina de 1900 eran dueñas de grandes campos y controlaban la política.",
+   "formas": [
+    "oligarquico",
+    "oligarquica",
+    "oligarca",
+    "oligarcas",
+    "regimen oligarquico",
+    "oligarquias"
+   ],
+   "titulos": [
+    "Régimen oligárquico"
+   ]
+  },
+  {
+   "palabra": "Régimen conservador",
+   "definicion": "Nombre con el que se conoce la etapa (1880-1916) en la que gobernó la oligarquía. \"Conservador\" porque quería conservar todo como estaba: el poder en pocas manos y las elecciones controladas.",
+   "formas": [
+    "regimen conservador",
+    "conservador",
+    "conservadores",
+    "orden conservador"
+   ]
+  },
+  {
+   "palabra": "Fraude electoral",
+   "definicion": "Maniobra para que el resultado de una elección no refleje lo que la gente votó de verdad: comprar votos, presionar a quienes votan, robar urnas, anotar votantes que no existen o contar mal.",
+   "formas": [
+    "fraude",
+    "fraudulento",
+    "fraudes"
+   ]
+  },
+  {
+   "palabra": "Voto secreto",
+   "definicion": "Cada persona vota sola y nadie ve qué eligió. Así no te pueden presionar ni castigar por tu voto.",
+   "formas": [
+    "secreto"
+   ]
+  },
+  {
+   "palabra": "Voto universal",
+   "definicion": "Pueden votar todas las personas habilitadas, sin importar cuánto dinero tienen ni a qué familia pertenecen. Ojo: en 1912 \"universal\" alcanzaba solo a los varones argentinos; las mujeres votaron a nivel nacional recién en 1951.",
+   "formas": [
+    "universal",
+    "sufragio universal"
+   ]
+  },
+  {
+   "palabra": "Voto obligatorio",
+   "definicion": "Votar es un deber y no solo un derecho: quien está en el padrón tiene que ir a votar o justificar por qué no fue. Se estableció en 1912 para que participara más gente.",
+   "formas": [
+    "obligatorio",
+    "obligatoriedad"
+   ]
+  },
+  {
+   "palabra": "Voto público (o cantado)",
+   "definicion": "Votar en voz alta o a la vista de todos. Quien mandaba (el patrón, el comisario, el caudillo) se enteraba a quién votabas y podía presionarte.",
+   "formas": [
+    "voto publico",
+    "voto cantado",
+    "voto a la vista",
+    "voto en voz alta"
+   ]
+  },
+  {
+   "palabra": "Cuarto oscuro",
+   "definicion": "Lugar cerrado donde cada persona vota sola. Se llama así por costumbre: la idea era que nadie pudiera ver tu voto. Hoy tiene luz y se sigue llamando igual.",
+   "formas": [
+    "cuarto oscuro",
+    "cabina"
+   ]
+  },
+  {
+   "palabra": "Padrón electoral",
+   "definicion": "Lista de las personas habilitadas para votar. Si no estás en el padrón, no podés votar. Hoy se puede consultar por internet.",
+   "formas": [
+    "padron",
+    "padron de votantes",
+    "padron electoral"
+   ]
+  },
+  {
+   "palabra": "Padrón militar",
+   "definicion": "Registro de los varones que debían hacer el servicio militar. Como era la lista más completa que tenía el Estado, la ley de 1912 la usó para armar el padrón de votantes.",
+   "formas": [
+    "padron militar",
+    "servicio militar"
+   ]
+  },
+  {
+   "palabra": "Sufragio",
+   "definicion": "Otra palabra para \"voto\" o para el derecho a votar. \"Sufragio femenino\" es el voto de las mujeres.",
+   "formas": [
+    "sufragar"
+   ]
+  },
+  {
+   "palabra": "Ciudadanía",
+   "definicion": "Ser parte de un país con derechos y obligaciones políticas, como votar y poder ser elegido o elegida. Durante mucho tiempo la ciudadanía política dejó afuera a las mujeres y a los extranjeros.",
+   "formas": [
+    "ciudadano",
+    "ciudadana",
+    "ciudadanos",
+    "ciudadanas"
+   ]
+  },
+  {
+   "palabra": "Partido político",
+   "definicion": "Grupo organizado de personas que comparten ideas sobre cómo gobernar y se presentan a elecciones para llevarlas adelante. En la época: los conservadores, el radicalismo y el Partido Socialista.",
+   "formas": [
+    "partidos",
+    "partido",
+    "partidos politicos"
+   ]
+  },
+  {
+   "palabra": "Radicalismo (UCR)",
+   "definicion": "La Unión Cívica Radical, partido fundado en 1891 que reclamaba elecciones limpias. Llegó al gobierno con Yrigoyen en 1916. \"Radical\" viene de \"raíz\": querían cambiar de raíz la forma de hacer política.",
+   "formas": [
+    "radicalismo",
+    "radical",
+    "radicales",
+    "ucr",
+    "union civica radical",
+    "union civica"
+   ]
+  },
+  {
+   "palabra": "Sectores medios",
+   "definicion": "Grupos que no son ni los más ricos ni los más pobres: comerciantes, empleados, docentes, profesionales, chacareros que prosperaron. También se les dice \"clase media\".",
+   "formas": [
+    "clase media",
+    "sector medio",
+    "clases medias"
+   ]
+  },
+  {
+   "palabra": "Inmigrantes",
+   "definicion": "Personas que llegan a vivir a un país distinto del suyo. Entre 1880 y 1914 llegaron millones a la Argentina, sobre todo de Italia y España.",
+   "formas": [
+    "inmigrante",
+    "inmigracion",
+    "inmigracion masiva",
+    "inmigrar"
+   ]
+  },
+  {
+   "palabra": "Extranjeros",
+   "definicion": "Personas nacidas en otro país. Muchos inmigrantes no se nacionalizaban, así que no podían votar en las elecciones nacionales aunque vivieran y trabajaran acá hace años.",
+   "formas": [
+    "extranjero",
+    "extranjera",
+    "extranjeras"
+   ]
+  },
+  {
+   "palabra": "Agroexportador",
+   "definicion": "Economía que vive de vender al exterior productos del campo (el \"agro\"): en este caso carnes y cereales. A cambio, se compraba afuera casi todo lo industrial.",
+   "formas": [
+    "modelo agroexportador",
+    "agro exportador",
+    "agroexportadora",
+    "agroexportacion",
+    "agro"
+   ]
+  },
+  {
+   "palabra": "Neutralidad",
+   "definicion": "No tomar partido en una guerra: no pelear junto a ningún bando. La Argentina fue neutral durante toda la Primera Guerra Mundial.",
+   "formas": [
+    "neutral",
+    "neutrales",
+    "neutralidad argentina"
+   ]
+  },
+  {
+   "palabra": "Personalismo",
+   "definicion": "Cuando un partido o un gobierno gira alrededor de una persona (su líder) más que alrededor de ideas o instituciones. Los \"personalistas\" del radicalismo eran los leales a Yrigoyen.",
+   "formas": [
+    "personalista",
+    "personalistas",
+    "personalismo"
+   ]
+  },
+  {
+   "palabra": "Antipersonalismo",
+   "definicion": "Grupo del radicalismo que se oponía al estilo de Yrigoyen, a que todo dependiera de él. Apoyó a Alvear.",
+   "formas": [
+    "antipersonalista",
+    "antipersonalistas",
+    "antipersonalismo"
+   ]
+  },
+  {
+   "palabra": "Caudillo",
+   "definicion": "Jefe local con mucho poder personal, que conseguía votos a cambio de favores o por presión. Mandaba en un pueblo o en una región.",
+   "formas": [
+    "caudillos",
+    "caudillismo"
+   ]
+  },
+  {
+   "palabra": "Intervención federal",
+   "definicion": "Cuando el gobierno nacional desplaza a las autoridades de una provincia y pone a una persona de su confianza. Yrigoyen la usó muchas veces.",
+   "formas": [
+    "intervencion federal",
+    "intervenir provincias",
+    "intervencion a las provincias"
+   ]
+  },
+  {
+   "palabra": "Huelga",
+   "definicion": "Dejar de trabajar entre todas y todos para presionar y conseguir mejoras: salarios, horarios, condiciones. Es un derecho de los trabajadores y las trabajadoras.",
+   "formas": [
+    "huelgas",
+    "huelguista",
+    "huelguistas",
+    "paro",
+    "paros"
+   ]
+  },
+  {
+   "palabra": "Sindicato",
+   "definicion": "Organización de trabajadores y trabajadoras que defiende sus derechos frente a los patrones y negocia salarios y condiciones.",
+   "formas": [
+    "sindicatos",
+    "sindical",
+    "sindicalismo",
+    "sindicalizado",
+    "sindicalizados",
+    "gremio",
+    "gremios",
+    "gremial"
+   ]
+  },
+  {
+   "palabra": "Obrero",
+   "definicion": "Persona que trabaja en fábricas, talleres, puertos o ferrocarriles a cambio de un salario. \"Clase obrera\" es el conjunto de esos trabajadores y trabajadoras.",
+   "formas": [
+    "obrera",
+    "obreros",
+    "obreras",
+    "clase obrera",
+    "movimiento obrero"
+   ]
+  },
+  {
+   "palabra": "Semana Trágica",
+   "definicion": "Enero de 1919, Buenos Aires. Una huelga en los talleres metalúrgicos Vasena terminó con represión de la policía y el ejército, y con ataques de grupos civiles armados a barrios obreros y judíos. Hubo cientos de muertos (la cifra exacta se discute). Gobernaba Yrigoyen.",
+   "formas": [
+    "semana tragica",
+    "vasena"
+   ]
+  },
+  {
+   "palabra": "Liga Patriótica",
+   "definicion": "Organización nacionalista creada en 1919, después de la Semana Trágica, por civiles de sectores acomodados. Combatía las huelgas y las ideas de izquierda, a veces con violencia.",
+   "formas": [
+    "liga patriotica",
+    "liga patriotica argentina"
+   ]
+  },
+  {
+   "palabra": "Reforma Universitaria",
+   "definicion": "Movimiento de estudiantes de Córdoba en 1918. Pedían universidades abiertas a la clase media, participación estudiantil en el gobierno de la universidad y docentes elegidos por concurso. Se extendió a toda América Latina.",
+   "formas": [
+    "reforma universitaria",
+    "reforma del 18",
+    "cordoba 1918"
+   ]
+  },
+  {
+   "palabra": "Revolución Rusa",
+   "definicion": "En 1917 cayó el zar y luego tomaron el poder los bolcheviques, con Lenin. Formaron un Estado socialista, la futura URSS. Para unos fue una esperanza; para otros, una amenaza.",
+   "formas": [
+    "revolucion rusa",
+    "revolucion bolchevique",
+    "bolcheviques",
+    "lenin"
+   ]
+  },
+  {
+   "palabra": "Primera Guerra Mundial",
+   "definicion": "1914-1918. Guerra en Europa entre dos grandes alianzas: de un lado Alemania, del otro Francia, el Reino Unido y Rusia (más tarde, Estados Unidos). Murieron millones de personas y cambió la economía mundial.",
+   "formas": [
+    "primera guerra",
+    "primera guerra mundial",
+    "gran guerra",
+    "guerra del 14"
+   ]
+  },
+  {
+   "palabra": "Abstención",
+   "definicion": "Decisión de no participar en las elecciones. Los radicales se abstuvieron durante años: decían que votar en elecciones con fraude era aceptar el fraude.",
+   "formas": [
+    "abstencion",
+    "abstencionismo",
+    "abstencionista",
+    "abstenerse"
+   ]
+  },
+  {
+   "palabra": "Roque Sáenz Peña",
+   "definicion": "Presidente entre 1910 y 1914. Impulsó la ley de voto secreto y obligatorio de 1912. Venía de la élite conservadora, pero creía que había que abrir el sistema para evitar conflictos más graves.",
+   "formas": [
+    "saenz pena",
+    "roque saenz pena",
+    "ley saenz pena",
+    "ley 8871",
+    "quiera el pueblo votar"
+   ]
+  },
+  {
+   "palabra": "Hipólito Yrigoyen",
+   "definicion": "(1852-1933) Líder del radicalismo y presidente entre 1916 y 1922 y entre 1928 y 1930. Muy querido por sectores populares y medios. Lo derrocó el golpe de 1930. Lo apodaban \"el Peludo\".",
+   "formas": [
+    "yrigoyen",
+    "irigoyen",
+    "hipolito yrigoyen",
+    "el peludo",
+    "peludo"
+   ]
+  },
+  {
+   "palabra": "Marcelo T. de Alvear",
+   "definicion": "(1868-1942) Presidente entre 1922 y 1928, en años de buena situación económica y menos conflictos. Tenía un estilo más sobrio y cercano a las familias tradicionales que Yrigoyen.",
+   "formas": [
+    "alvear",
+    "marcelo t de alvear",
+    "marcelo alvear"
+   ]
+  },
+  {
+   "palabra": "Colegio electoral",
+   "definicion": "Grupo de electores que elegía al presidente en lugar del voto directo: la gente votaba a los electores y ellos elegían a quien gobernaba. Se usó hasta la reforma constitucional de 1994.",
+   "formas": [
+    "colegio electoral",
+    "electores"
+   ]
+  },
+  {
+   "palabra": "Lista incompleta",
+   "definicion": "Sistema de la ley de 1912: el partido más votado se quedaba con dos tercios de las bancas y la segunda fuerza con un tercio. Aseguraba que la oposición estuviera representada.",
+   "formas": [
+    "lista incompleta",
+    "minoria",
+    "representacion de la minoria"
+   ]
+  },
+  {
+   "palabra": "Golpe de Estado",
+   "definicion": "Toma del poder por la fuerza, generalmente por parte de militares, para sacar a un gobierno elegido. Rompe el orden constitucional.",
+   "formas": [
+    "golpe",
+    "golpe de estado",
+    "golpe militar",
+    "golpes de estado",
+    "golpe del 30"
+   ]
+  },
+  {
+   "palabra": "Democracia",
+   "definicion": "Forma de gobierno en la que el poder viene del pueblo: se eligen gobernantes con el voto y se puede opinar y participar. Hay democracias más amplias o más limitadas según quiénes pueden votar.",
+   "formas": [
+    "democratico",
+    "democratica",
+    "democracias"
+   ]
+  },
+  {
+   "palabra": "Constitución",
+   "definicion": "Ley máxima del país: dice cómo se organiza el gobierno y qué derechos tienen las personas. Todas las demás leyes tienen que respetarla.",
+   "formas": [
+    "constitucion",
+    "constitucional",
+    "constitucion nacional"
+   ]
+  },
+  {
+   "palabra": "Exportar",
+   "definicion": "Vender productos a otros países. Lo que se vende afuera trae dinero extranjero (divisas) al país.",
+   "formas": [
+    "exportaciones",
+    "exportacion",
+    "exportan"
+   ]
+  },
+  {
+   "palabra": "Importar",
+   "definicion": "Comprar productos a otros países. Para pagar lo que se importa hace falta tener divisas, que se consiguen exportando.",
+   "formas": [
+    "importaciones",
+    "importacion",
+    "importan",
+    "importados"
+   ]
+  },
+  {
+   "palabra": "Industria",
+   "definicion": "Producción de bienes en fábricas (textiles, alimentos, metales…) en lugar de sacarlos directamente de la tierra.",
+   "formas": [
+    "industrial",
+    "industrias",
+    "fabricas",
+    "fabrica"
+   ]
+  },
+  {
+   "palabra": "Grito de Alcorta",
+   "definicion": "Junio de 1912, en Alcorta (sur de Santa Fe). Chacareros que alquilaban la tierra, muchos de ellos inmigrantes, hicieron una huelga contra los alquileres abusivos. De ahí nació la Federación Agraria Argentina.",
+   "formas": [
+    "alcorta",
+    "grito de alcorta",
+    "federacion agraria",
+    "federacion agraria argentina"
+   ]
+  },
+  {
+   "palabra": "Chacarero (arrendatario)",
+   "definicion": "Persona que alquila (arrienda) un campo para trabajarlo y paga con dinero o con parte de la cosecha. Muchos eran inmigrantes que no podían comprar tierra.",
+   "formas": [
+    "chacarero",
+    "chacareros",
+    "arrendatario",
+    "arrendatarios",
+    "arriendo",
+    "colonos"
+   ]
+  },
+  {
+   "palabra": "Nacionalismo",
+   "definicion": "Ideología que pone a la nación (el país y su identidad) por encima de todo. Puede ser defensa de la soberanía del país, pero también puede volverse excluyente: decir que hay gente que \"no es parte\" de la nación.",
+   "formas": [
+    "nacionalista",
+    "nacionalistas",
+    "nacionalismos"
+   ]
+  },
+  {
+   "palabra": "Fascismo",
+   "definicion": "Régimen creado por Mussolini en Italia, en el poder desde 1922. Nacionalismo extremo, partido único, líder con poder total y violencia contra opositores. El nombre viene de \"fascio\": un manojo de varas atadas, símbolo de unión y fuerza.",
+   "formas": [
+    "fascista",
+    "fascistas",
+    "fascismos",
+    "fascio",
+    "fascios"
+   ]
+  },
+  {
+   "palabra": "Nazismo",
+   "definicion": "Nacionalsocialismo: el partido de Hitler, que gobernó Alemania entre 1933 y 1945. Además de nacionalista y autoritario, se basaba en el racismo: decía que había \"razas superiores\" y persiguió a judíos, al pueblo gitano, a personas con discapacidad y a opositores.",
+   "formas": [
+    "nazi",
+    "nazis",
+    "nacionalsocialismo",
+    "nacional socialismo",
+    "nacionalsocialista"
+   ]
+  },
+  {
+   "palabra": "Totalitarismo",
+   "definicion": "Régimen donde el Estado intenta controlar toda la vida: la política, la escuela, los medios, el trabajo y hasta lo que se piensa y se dice en privado. No deja espacio para la oposición.",
+   "formas": [
+    "totalitario",
+    "totalitaria",
+    "totalitarios",
+    "regimen totalitario"
+   ],
+   "titulos": [
+    "Régimen totalitario"
+   ]
+  },
+  {
+   "palabra": "Antiimperialismo",
+   "definicion": "Oposición a que una potencia domine a otros países, ya sea con ejércitos o con poder económico. En los años 30, en la Argentina, apuntaba sobre todo a la influencia británica.",
+   "formas": [
+    "antiimperialista",
+    "antiimperialistas",
+    "anti imperialismo",
+    "anti imperialista"
+   ]
+  },
+  {
+   "palabra": "Entreguerras",
+   "definicion": "Período entre el final de la Primera Guerra (1918) y el comienzo de la Segunda (1939). Años de crisis económicas, miedo a la revolución y crecimiento de ideas extremas.",
+   "formas": [
+    "periodo de entreguerras",
+    "entre guerras",
+    "entreguerra"
+   ]
+  },
+  {
+   "palabra": "Liberalismo",
+   "definicion": "Cambia según el contexto. En política: defensa de las libertades individuales, la división de poderes y las elecciones. En economía: mercado libre, con poca intervención del Estado.",
+   "formas": [
+    "liberal",
+    "liberales",
+    "liberalismo politico",
+    "liberalismo economico"
+   ]
+  },
+  {
+   "palabra": "Comunismo",
+   "definicion": "Ideología inspirada en Marx que propone que las fábricas y la tierra sean de toda la sociedad y no de dueños privados. En la URSS se aplicó con un partido único y un Estado muy fuerte.",
+   "formas": [
+    "comunista",
+    "comunistas",
+    "comunismos"
+   ]
+  },
+  {
+   "palabra": "Autoritarismo",
+   "definicion": "Forma de gobernar en la que quien manda impone sus decisiones, limita libertades y no tolera la oposición.",
+   "formas": [
+    "autoritario",
+    "autoritaria",
+    "autoritarios",
+    "regimen autoritario"
+   ],
+   "titulos": [
+    "Régimen autoritario"
+   ]
+  },
+  {
+   "palabra": "Dictadura",
+   "definicion": "Gobierno en el que una persona o un grupo concentra todo el poder, sin elecciones libres ni límites legales.",
+   "formas": [
+    "dictador",
+    "dictaduras",
+    "dictatorial"
+   ]
+  },
+  {
+   "palabra": "Partido único",
+   "definicion": "Régimen en el que solo se permite un partido y los demás se prohíben. No hay competencia real por el poder.",
+   "formas": [
+    "partido unico",
+    "unico partido"
+   ]
+  },
+  {
+   "palabra": "Culto al líder",
+   "definicion": "Convertir al jefe en un personaje casi sagrado: fotos en todos lados, monumentos, himnos, desfiles. Criticarlo se vuelve peligroso.",
+   "formas": [
+    "culto al lider",
+    "culto a la personalidad",
+    "lider",
+    "lideres",
+    "culto"
+   ]
+  },
+  {
+   "palabra": "Propaganda",
+   "definicion": "Mensajes (afiches, radio, cine, discursos) pensados para convencer y emocionar, no para informar con neutralidad. Los regímenes totalitarios la usaron muchísimo.",
+   "formas": [
+    "propagandas",
+    "propagandistico"
+   ]
+  },
+  {
+   "palabra": "Antisemitismo",
+   "definicion": "Odio o discriminación hacia el pueblo judío. Fue una pieza central del nazismo.",
+   "formas": [
+    "antisemita",
+    "antisemitas",
+    "antisemitismo"
+   ]
+  },
+  {
+   "palabra": "Racismo",
+   "definicion": "Creencia falsa de que existen razas superiores e inferiores, y trato desigual en base a eso. No tiene ninguna base científica.",
+   "formas": [
+    "racista",
+    "racistas",
+    "discriminacion racial",
+    "razas"
+   ]
+  },
+  {
+   "palabra": "Holocausto",
+   "definicion": "Exterminio sistemático de unos seis millones de judíos y judías por parte del régimen nazi, además de la persecución y el asesinato de otros grupos. También se lo llama Shoá.",
+   "formas": [
+    "shoa",
+    "holocausto nazi",
+    "genocidio nazi",
+    "campos de concentracion",
+    "campos de exterminio"
+   ]
+  },
+  {
+   "palabra": "Tratado de Versalles",
+   "definicion": "Tratado de paz de 1919 que cerró oficialmente la Primera Guerra. Alemania tuvo que aceptar la responsabilidad de la guerra, perder territorios, reducir su ejército y pagar enormes reparaciones. Muchos alemanes lo vivieron como una humillación.",
+   "formas": [
+    "versalles",
+    "tratado de versalles",
+    "tratados de paz",
+    "paz de versalles"
+   ]
+  },
+  {
+   "palabra": "Reparaciones de guerra",
+   "definicion": "Dinero que el país vencido tiene que pagar a los vencedores por los daños de la guerra.",
+   "formas": [
+    "reparaciones",
+    "reparacion de guerra"
+   ]
+  },
+  {
+   "palabra": "Benito Mussolini",
+   "definicion": "(1883-1945) Líder fascista de Italia. Gobernó desde 1922 y lo llamaban \"el Duce\" (el jefe).",
+   "formas": [
+    "mussolini",
+    "duce",
+    "el duce",
+    "benito mussolini"
+   ]
+  },
+  {
+   "palabra": "Adolf Hitler",
+   "definicion": "(1889-1945) Líder del partido nazi. Llegó a canciller de Alemania en 1933 y se convirtió en dictador. Lo llamaban \"el Führer\" (el guía). Su gobierno llevó a la Segunda Guerra y al Holocausto.",
+   "formas": [
+    "hitler",
+    "adolf hitler",
+    "fuhrer",
+    "el fuhrer"
+   ]
+  },
+  {
+   "palabra": "Marcha sobre Roma",
+   "definicion": "Octubre de 1922: miles de fascistas marcharon hacia Roma. El rey le encargó a Mussolini formar gobierno y así llegó al poder.",
+   "formas": [
+    "marcha sobre roma",
+    "marcha a roma"
+   ]
+  },
+  {
+   "palabra": "Estado Novo",
+   "definicion": "\"Estado Nuevo\". Régimen de Getúlio Vargas en Brasil (1937-1945): cerró el Congreso, prohibió los partidos y censuró la prensa. Al mismo tiempo, dictó leyes laborales y empujó la industria.",
+   "formas": [
+    "estado novo"
+   ]
+  },
+  {
+   "palabra": "Getúlio Vargas",
+   "definicion": "(1882-1954) Presidente de Brasil entre 1930 y 1945 y de nuevo entre 1951 y 1954. Lo llamaban \"el padre de los pobres\" por sus leyes a favor de los trabajadores urbanos.",
+   "formas": [
+    "vargas",
+    "getulio vargas",
+    "getulio"
+   ]
+  },
+  {
+   "palabra": "Integralismo",
+   "definicion": "Movimiento brasileño de los años 30 inspirado en el fascismo (sus miembros usaban camisas verdes). Vargas terminó prohibiéndolo.",
+   "formas": [
+    "integralista",
+    "integralistas",
+    "integralismo"
+   ]
+  },
+  {
+   "palabra": "Soberanía",
+   "definicion": "Capacidad de un país o de un pueblo de decidir por sí mismo sobre sus asuntos sin que otro mande.",
+   "formas": [
+    "soberano",
+    "soberana",
+    "soberanias"
+   ]
+  },
+  {
+   "palabra": "Dependencia económica",
+   "definicion": "Cuando la economía de un país depende de lo que decide otro: a quién le vende, a qué precio y quién le presta dinero.",
+   "formas": [
+    "dependencia",
+    "dependiente",
+    "dependencia economica"
+   ]
+  },
+  {
+   "palabra": "Imperialismo",
+   "definicion": "Cuando una potencia domina a otros países o regiones, con la fuerza militar o con su poder económico.",
+   "formas": [
+    "imperio",
+    "imperios",
+    "imperialista",
+    "potencia",
+    "potencias",
+    "gran potencia"
+   ]
+  },
+  {
+   "palabra": "Imperio británico",
+   "definicion": "Gran potencia de la época. Compraba carne argentina y era dueño de ferrocarriles, frigoríficos y bancos en el país. Por eso su influencia era tan criticada por los nacionalistas.",
+   "formas": [
+    "imperio britanico",
+    "reino unido",
+    "gran bretana",
+    "inglaterra",
+    "ingleses",
+    "britanico",
+    "britanicos"
+   ]
+  },
+  {
+   "palabra": "Segunda Guerra Mundial",
+   "definicion": "1939-1945. Enfrentó a las potencias del Eje (Alemania, Italia, Japón) con los Aliados (Reino Unido, Francia, URSS, Estados Unidos y otros). Fue la guerra más destructiva de la historia.",
+   "formas": [
+    "segunda guerra",
+    "segunda guerra mundial",
+    "guerra mundial"
+   ]
+  },
+  {
+   "palabra": "Corporativismo",
+   "definicion": "Idea de organizar la sociedad por corporaciones o gremios (empresarios, obreros, Iglesia, Ejército) controlados por el Estado, en lugar de partidos y elecciones. Atrajo a nacionalistas argentinos de los años 30.",
+   "formas": [
+    "corporativo",
+    "corporativista",
+    "corporacion",
+    "corporaciones"
+   ]
+  },
+  {
+   "palabra": "Parlamento",
+   "definicion": "Lugar donde se reúnen representantes elegidos para discutir y votar las leyes. En la Argentina se llama Congreso y tiene dos cámaras: Diputados y Senadores.",
+   "formas": [
+    "congreso",
+    "parlamentario",
+    "camara de diputados",
+    "senado"
+   ]
+  },
+  {
+   "palabra": "FORJA",
+   "definicion": "Fuerza de Orientación Radical de la Joven Argentina, formada en 1935 por radicales como Arturo Jauretche y Homero Manzi. Defendían un nacionalismo popular y criticaban la dependencia del Reino Unido.",
+   "formas": [
+    "forja",
+    "jauretche",
+    "homero manzi"
+   ]
+  },
+  {
+   "palabra": "Violencia política",
+   "definicion": "Usar golpes, armas o amenazas para ganar poder o intimidar a quien piensa distinto, en lugar de debatir y votar.",
+   "formas": [
+    "violencia politica"
+   ]
+  },
+  {
+   "palabra": "Gran Depresión",
+   "definicion": "La crisis económica mundial que empezó en 1929. Cayeron los precios, cerraron empresas y bancos, y millones de personas quedaron sin trabajo. Duró toda la década de 1930.",
+   "formas": [
+    "crisis del 29",
+    "crisis de 1929",
+    "crisis del treinta",
+    "gran crisis",
+    "depresion",
+    "crack del 29",
+    "crack de 1929",
+    "crisis economica"
+   ]
+  },
+  {
+   "palabra": "Bolsa de valores",
+   "definicion": "Lugar donde se compran y venden acciones. Si mucha gente quiere vender y casi nadie comprar, los precios se desploman, como pasó en Nueva York en octubre de 1929.",
+   "formas": [
+    "bolsa",
+    "wall street",
+    "bolsa de nueva york",
+    "bolsa de comercio"
+   ]
+  },
+  {
+   "palabra": "Acciones",
+   "definicion": "Pequeñas partes de una empresa. Quien compra una acción es dueño o dueña de un pedacito de la empresa; el precio sube o baja según cómo le vaya.",
+   "formas": [
+    "accion",
+    "accionistas",
+    "accionista"
+   ]
+  },
+  {
+   "palabra": "Quiebra",
+   "definicion": "Cuando una empresa o un banco no puede pagar sus deudas y cierra.",
+   "formas": [
+    "quebrar",
+    "quebraron",
+    "quiebras",
+    "bancarrota"
+   ]
+  },
+  {
+   "palabra": "Proteccionismo",
+   "definicion": "Política de proteger la producción propia limitando lo que viene de afuera: por ejemplo, con impuestos más altos a los productos importados.",
+   "formas": [
+    "proteccionista",
+    "proteccionismos",
+    "aranceles",
+    "arancel"
+   ]
+  },
+  {
+   "palabra": "Libre comercio",
+   "definicion": "Idea de que los países deben comprar y vender entre sí con pocas trabas. Es lo contrario del proteccionismo.",
+   "formas": [
+    "libre comercio",
+    "librecambio",
+    "libre cambio"
+   ]
+  },
+  {
+   "palabra": "Divisas",
+   "definicion": "Monedas extranjeras (dólares, libras) que un país necesita para pagar lo que importa. Las consigue sobre todo exportando.",
+   "formas": [
+    "divisa",
+    "dolares",
+    "libras",
+    "moneda extranjera",
+    "dolar"
+   ]
+  },
+  {
+   "palabra": "Control de cambios",
+   "definicion": "Regla del Estado que decide quién puede comprar divisas y cuántas. Se usa cuando los dólares escasean, para no gastarlos de más.",
+   "formas": [
+    "control de cambio",
+    "cepo",
+    "control cambiario"
+   ]
+  },
+  {
+   "palabra": "Banco Central",
+   "definicion": "Banco del Estado que cuida la moneda, regula el crédito y controla a los demás bancos. En la Argentina se creó en 1935.",
+   "formas": [
+    "banco central",
+    "bcra"
+   ]
+  },
+  {
+   "palabra": "Juntas reguladoras",
+   "definicion": "Organismos del Estado creados en los años 30 para ordenar la producción, los precios y las ventas de granos, carnes y otros productos del campo.",
+   "formas": [
+    "junta reguladora",
+    "juntas",
+    "junta de granos",
+    "junta de carnes",
+    "junta nacional de granos"
+   ]
+  },
+  {
+   "palabra": "Industrialización sustitutiva (ISI)",
+   "definicion": "Producir en el país lo que antes se importaba. Pasó cuando la crisis y la guerra hicieron difícil comprar afuera: se empezaron a fabricar acá textiles, alimentos, objetos de metal y electrodomésticos simples.",
+   "formas": [
+    "isi",
+    "industrializacion",
+    "industrializacion sustitutiva",
+    "sustitucion de importaciones",
+    "sustitutiva",
+    "industrializar"
+   ]
+  },
+  {
+   "palabra": "Mercado interno",
+   "definicion": "Las compras y ventas dentro del propio país. Cuando la gente gana más y compra más, la industria nacional tiene a quién venderle.",
+   "formas": [
+    "mercado interno",
+    "consumo interno",
+    "mercado nacional"
+   ]
+  },
+  {
+   "palabra": "Década Infame",
+   "definicion": "Período 1930-1943. \"Infame\" porque predominó el fraude electoral, hubo escándalos de corrupción y se limitó la participación política de los radicales.",
+   "formas": [
+    "decada infame",
+    "infame",
+    "los treinta",
+    "decada del 30"
+   ]
+  },
+  {
+   "palabra": "Fraude patriótico",
+   "definicion": "Así llamaban los propios conservadores al fraude de los años 30, como si hacer fraude fuera \"por el bien de la patria\". Era para impedir que ganaran los radicales.",
+   "formas": [
+    "fraude patriotico"
+   ]
+  },
+  {
+   "palabra": "Concordancia",
+   "definicion": "Alianza de conservadores, radicales antipersonalistas y socialistas independientes que gobernó en los años 30, con elecciones fraudulentas.",
+   "formas": [
+    "la concordancia"
+   ]
+  },
+  {
+   "palabra": "José F. Uriburu",
+   "definicion": "(1868-1932) General que encabezó el golpe del 6 de septiembre de 1930 y gobernó hasta 1932. Admiraba modelos de organización corporativa europeos.",
+   "formas": [
+    "uriburu",
+    "jose uriburu",
+    "jose felix uriburu"
+   ]
+  },
+  {
+   "palabra": "Agustín P. Justo",
+   "definicion": "(1876-1943) General y presidente entre 1932 y 1938, elegido en elecciones con fraude. En su gobierno se creó el Banco Central y se firmó el Pacto Roca-Runciman.",
+   "formas": [
+    "justo",
+    "agustin justo",
+    "agustin p justo"
+   ]
+  },
+  {
+   "palabra": "Pacto Roca-Runciman",
+   "definicion": "Acuerdo de 1933 con el Reino Unido: seguiría comprando carne argentina (con cuota), a cambio de ventajas para empresas y productos británicos. Fue muy criticado por radicales y nacionalistas.",
+   "formas": [
+    "pacto roca runciman",
+    "roca runciman",
+    "tratado roca runciman",
+    "pacto roca-runciman"
+   ]
+  },
+  {
+   "palabra": "Inestabilidad democrática",
+   "definicion": "Cuando los gobiernos elegidos por el voto no logran mantenerse en el poder y se interrumpen por golpes, como pasó desde 1930.",
+   "formas": [
+    "inestabilidad",
+    "inestabilidad politica"
+   ]
+  },
+  {
+   "palabra": "Estado interventor",
+   "definicion": "Estado que participa en la economía: regula precios, controla el comercio, planifica, a veces produce. Es lo opuesto a \"dejar hacer\" al mercado.",
+   "formas": [
+    "intervencion del estado",
+    "estado interventor",
+    "intervenir en la economia"
+   ]
+  },
+  {
+   "palabra": "Migración interna",
+   "definicion": "Mudanza de personas dentro del mismo país, por ejemplo del campo o de las provincias a las grandes ciudades en busca de trabajo en las fábricas. En los 30 y 40 miles llegaron al Gran Buenos Aires y a Rosario.",
+   "formas": [
+    "migracion interna",
+    "migrantes internos",
+    "migracion",
+    "exodo rural",
+    "migraciones internas"
+   ]
+  },
+  {
+   "palabra": "Urbanización",
+   "definicion": "Crecimiento de las ciudades y de la cantidad de gente que vive en ellas.",
+   "formas": [
+    "urbano",
+    "urbana",
+    "urbanizar"
+   ]
+  },
+  {
+   "palabra": "GOU",
+   "definicion": "Grupo de Oficiales Unidos: agrupación de militares que organizó el golpe del 4 de junio de 1943. Perón formaba parte.",
+   "formas": [
+    "gou",
+    "grupo de oficiales unidos",
+    "golpe del 43",
+    "golpe de 1943",
+    "revolucion del 43"
+   ]
+  },
+  {
+   "palabra": "Capitalismo",
+   "definicion": "Sistema económico en el que fábricas, tierras y empresas son de dueños privados y se produce para vender y obtener ganancia.",
+   "formas": [
+    "capitalista",
+    "capitalistas",
+    "mundo capitalista"
+   ]
+  },
+  {
+   "palabra": "Desocupación",
+   "definicion": "Falta de trabajo. Durante la crisis de 1929 mucha gente quedó sin empleo y sin ingresos.",
+   "formas": [
+    "desempleo",
+    "desocupados",
+    "desempleados",
+    "sin trabajo"
+   ]
+  },
+  {
+   "palabra": "Demanda",
+   "definicion": "Cuánta gente quiere comprar un producto. Si la demanda baja, los precios también bajan.",
+   "formas": [
+    "demanda mundial",
+    "demandas"
+   ]
+  },
+  {
+   "palabra": "New Deal",
+   "definicion": "\"Nuevo trato\". Plan del presidente Roosevelt en Estados Unidos desde 1933 para salir de la crisis, con obras públicas, ayuda a desocupados y control de los bancos. Ejemplo de Estado que interviene.",
+   "formas": [
+    "new deal",
+    "roosevelt",
+    "nuevo trato"
+   ]
+  },
+  {
+   "palabra": "Frigorífico",
+   "definicion": "Fábrica donde se faenaba, enfriaba y conservaba la carne para exportarla. Muchos eran de empresas británicas y norteamericanas.",
+   "formas": [
+    "frigorificos",
+    "frigorifico"
+   ]
+  },
+  {
+   "palabra": "Modelo económico",
+   "definicion": "Forma en que se organiza la economía de un país: qué produce, a quién le vende y qué papel tiene el Estado.",
+   "formas": [
+    "modelo economico",
+    "modelo de desarrollo",
+    "modelos economicos"
+   ]
+  },
+  {
+   "palabra": "Peronismo",
+   "definicion": "Movimiento político liderado por Juan Domingo Perón, con gran apoyo de los trabajadores y las trabajadoras. Gobernó entre 1946 y 1955 (primer peronismo).",
+   "formas": [
+    "peronista",
+    "peronistas",
+    "primer peronismo",
+    "justicialismo",
+    "justicialista"
+   ]
+  },
+  {
+   "palabra": "Juan Domingo Perón",
+   "definicion": "(1895-1974) Coronel que participó del golpe de 1943, se acercó a los sindicatos desde la Secretaría de Trabajo y fue presidente entre 1946 y 1955 y de nuevo desde 1973.",
+   "formas": [
+    "peron",
+    "juan domingo peron",
+    "juan peron",
+    "general peron",
+    "coronel peron"
+   ]
+  },
+  {
+   "palabra": "Eva Perón (Evita)",
+   "definicion": "(1919-1952) Actriz y esposa de Perón. Impulsó el voto femenino, creó el Partido Peronista Femenino y dirigió la Fundación que llevaba su nombre. Murió joven, de cáncer.",
+   "formas": [
+    "evita",
+    "eva peron",
+    "eva duarte",
+    "eva peron",
+    "maria eva duarte"
+   ]
+  },
+  {
+   "palabra": "Justicia social",
+   "definicion": "Idea de que el Estado debe garantizar a todas las personas condiciones dignas de vida y trabajo, y repartir mejor lo que produce el país.",
+   "formas": [
+    "justicia social",
+    "justicia"
+   ]
+  },
+  {
+   "palabra": "Nacionalización",
+   "definicion": "Pasar al Estado una empresa o un servicio que era privado (o extranjero). Por ejemplo, los ferrocarriles en 1948.",
+   "formas": [
+    "nacionalizar",
+    "nacionalizacion",
+    "nacionalizo",
+    "nacionalizaciones",
+    "estatizacion",
+    "estatizar"
+   ]
+  },
+  {
+   "palabra": "Planes quinquenales",
+   "definicion": "Planes del Estado para organizar la economía durante cinco años: qué industrias impulsar, qué obras hacer, cuánto invertir. Hubo dos en el peronismo (1947 y 1953).",
+   "formas": [
+    "plan quinquenal",
+    "quinquenal",
+    "quinquenales",
+    "planes quinquenales"
+   ]
+  },
+  {
+   "palabra": "Democracia de masas",
+   "definicion": "Etapa en que grandes sectores populares (trabajadores, mujeres) se incorporan a la política: votan, se sindicalizan, participan de manifestaciones y partidos.",
+   "formas": [
+    "democracia de masas",
+    "masas",
+    "participacion de masas"
+   ]
+  },
+  {
+   "palabra": "Gobiernos populares",
+   "definicion": "Gobiernos que se apoyan en los sectores populares y les amplían derechos, con un líder fuerte y un Estado activo. \"Popular\" no significa \"que le gusta a todo el mundo\".",
+   "formas": [
+    "gobierno popular",
+    "gobiernos populares",
+    "popular",
+    "populares",
+    "populismo",
+    "populista",
+    "populistas"
+   ]
+  },
+  {
+   "palabra": "Secretaría de Trabajo y Previsión",
+   "definicion": "Oficina del Estado que Perón dirigió desde 1943. Desde ahí se acercó a los sindicatos, mejoró salarios y firmó convenios a favor de los trabajadores.",
+   "formas": [
+    "secretaria de trabajo",
+    "secretaria de trabajo y prevision"
+   ]
+  },
+  {
+   "palabra": "CGT",
+   "definicion": "Confederación General del Trabajo: central que reúne a los sindicatos de todo el país. Se fundó en 1930 y fue un gran apoyo del peronismo.",
+   "formas": [
+    "cgt",
+    "confederacion general del trabajo"
+   ]
+  },
+  {
+   "palabra": "17 de octubre de 1945",
+   "definicion": "Perón había sido desplazado y detenido. Ese día miles de trabajadores marcharon a Plaza de Mayo para reclamar su libertad y lo consiguieron. Se considera el origen del peronismo.",
+   "formas": [
+    "17 de octubre",
+    "diecisiete de octubre",
+    "17 de octubre de 1945",
+    "dia de la lealtad",
+    "17 de octubre del 45",
+    "17 de octubre 1945"
+   ]
+  },
+  {
+   "palabra": "Aguinaldo",
+   "definicion": "Sueldo extra que se cobra en dos pagos, a mitad y a fin de año (junio y diciembre). Equivale a medio sueldo cada vez. Se estableció a fines de 1945.",
+   "formas": [
+    "aguinaldo",
+    "sac",
+    "sueldo anual complementario",
+    "medio aguinaldo"
+   ]
+  },
+  {
+   "palabra": "Vacaciones pagas",
+   "definicion": "Derecho a descansar varios días al año y seguir cobrando el sueldo. El peronismo las extendió a muchos más trabajadores y trabajadoras.",
+   "formas": [
+    "vacaciones",
+    "vacaciones pagadas",
+    "vacaciones pagas"
+   ]
+  },
+  {
+   "palabra": "Indemnización por despido",
+   "definicion": "Dinero que tiene que pagar quien emplea cuando despide sin justa causa. Protege a la persona que se queda sin trabajo.",
+   "formas": [
+    "indemnizacion",
+    "indemnizacion por despido",
+    "despido",
+    "indemnizaciones"
+   ]
+  },
+  {
+   "palabra": "Jubilación",
+   "definicion": "Ingreso mensual que cobra una persona que dejó de trabajar por edad. En el peronismo se extendió a más sectores de trabajadores.",
+   "formas": [
+    "jubilacion",
+    "jubilaciones",
+    "jubilados",
+    "jubilado",
+    "prevision social",
+    "prevision"
+   ]
+  },
+  {
+   "palabra": "Gratuidad universitaria",
+   "definicion": "Que la universidad pública no cobre arancel. Se estableció en 1949 y permitió que estudiaran más hijos e hijas de familias trabajadoras.",
+   "formas": [
+    "gratuidad universitaria",
+    "universidad gratuita",
+    "gratuidad",
+    "arancel universitario"
+   ]
+  },
+  {
+   "palabra": "Fundación Eva Perón",
+   "definicion": "Organización creada en 1948 que entregaba ayuda social (ropa, juguetes, becas, viviendas) y construyó escuelas, hospitales y hogares.",
+   "formas": [
+    "fundacion eva peron",
+    "fundacion",
+    "fundacion evita"
+   ]
+  },
+  {
+   "palabra": "Voto femenino",
+   "definicion": "Derecho de las mujeres a votar. En la Argentina lo reconoció la ley 13.010 de 1947 y se aplicó en las elecciones nacionales de 1951. Venía de décadas de lucha de sufragistas.",
+   "formas": [
+    "voto femenino",
+    "sufragio femenino",
+    "ley 13010",
+    "ley 13.010",
+    "voto de las mujeres",
+    "voto de la mujer",
+    "sufragistas",
+    "sufragista"
+   ]
+  },
+  {
+   "palabra": "IAPI",
+   "definicion": "Instituto Argentino de Promoción del Intercambio (1946). Le compraba la cosecha a los productores a un precio fijo y la vendía al exterior a precios mayores; con la diferencia se financiaba la industria y los planes sociales.",
+   "formas": [
+    "iapi",
+    "instituto argentino de promocion del intercambio"
+   ]
+  },
+  {
+   "palabra": "Redistribución del ingreso",
+   "definicion": "Repartir de otra manera lo que produce el país, para que los trabajadores y las trabajadoras se queden con una parte mayor.",
+   "formas": [
+    "redistribucion",
+    "redistribucion del ingreso",
+    "redistribuir",
+    "distribucion del ingreso"
+   ]
+  },
+  {
+   "palabra": "Estado de bienestar",
+   "definicion": "Estado que garantiza derechos básicos a toda la población: salud, educación, jubilación, vivienda. Se financia con impuestos.",
+   "formas": [
+    "estado de bienestar",
+    "estado benefactor",
+    "welfare"
+   ]
+  },
+  {
+   "palabra": "Poder adquisitivo",
+   "definicion": "Cuánto podés comprar con lo que ganás. Si el sueldo sube más que los precios, el poder adquisitivo mejora.",
+   "formas": [
+    "poder de compra",
+    "poder adquisitivo",
+    "salario real"
+   ]
+  },
+  {
+   "palabra": "Salario",
+   "definicion": "Pago que recibe una persona por su trabajo, generalmente cada mes.",
+   "formas": [
+    "salarios",
+    "sueldo",
+    "sueldos"
+   ]
+  },
+  {
+   "palabra": "Reforma agraria",
+   "definicion": "Cambiar el reparto de la tierra para que campesinos y pequeños productores puedan trabajarla, quitándosela a grandes terratenientes.",
+   "formas": [
+    "reforma agraria",
+    "ejidos",
+    "ejido",
+    "reparto de tierras"
+   ]
+  },
+  {
+   "palabra": "Lázaro Cárdenas",
+   "definicion": "(1895-1970) Presidente de México entre 1934 y 1940. Repartió tierras a familias campesinas y nacionalizó el petróleo en 1938.",
+   "formas": [
+    "cardenas",
+    "lazaro cardenas",
+    "pemex",
+    "nacionalizacion del petroleo"
+   ]
+  },
+  {
+   "palabra": "Revolución Libertadora",
+   "definicion": "Nombre que se dio a sí mismo el golpe de Estado del 16 de septiembre de 1955 que derrocó a Perón. Después prohibió al peronismo.",
+   "formas": [
+    "revolucion libertadora",
+    "libertadora",
+    "golpe del 55",
+    "golpe de 1955",
+    "16 de septiembre",
+    "16 de septiembre de 1955"
+   ]
+  },
+  {
+   "palabra": "Constitución de 1949",
+   "definicion": "Reforma que sumó derechos sociales (del trabajador, de la ancianidad, a la educación y la salud) y permitió la reelección del presidente. Fue anulada en 1956 por el gobierno de facto.",
+   "formas": [
+    "constitucion del 49",
+    "constitucion de 1949",
+    "reforma constitucional de 1949",
+    "reforma del 49"
+   ]
+  },
+  {
+   "palabra": "Censura",
+   "definicion": "Control de lo que se puede decir, publicar o mostrar. En los gobiernos autoritarios se usa para silenciar críticas.",
+   "formas": [
+    "censurar",
+    "censurado",
+    "libertad de prensa"
+   ]
+  },
+  {
+   "palabra": "Proscripción",
+   "definicion": "Prohibir que una persona o un partido participe de las elecciones. El peronismo estuvo proscripto desde 1955 durante casi dos décadas.",
+   "formas": [
+    "proscripto",
+    "proscripcion",
+    "proscribir",
+    "proscripta"
+   ]
+  },
+  {
+   "palabra": "Oposición",
+   "definicion": "Partidos y personas que no gobiernan y controlan, critican o proponen alternativas al gobierno. En una democracia sana, la oposición puede actuar libremente.",
+   "formas": [
+    "opositor",
+    "opositores",
+    "oposicion politica"
+   ]
+  },
+  {
+   "palabra": "Guerra Fría",
+   "definicion": "Conflicto entre Estados Unidos y la Unión Soviética, desde fines de la década de 1940 hasta 1991. Compitieron por influencia en todo el mundo, pero nunca pelearon directamente entre ellos.",
+   "formas": [
+    "guerra fria"
+   ]
+  },
+  {
+   "palabra": "Superpotencia",
+   "definicion": "País con muchísimo poder económico y militar, capaz de influir en todo el mundo. Después de 1945 hubo dos: Estados Unidos y la Unión Soviética.",
+   "formas": [
+    "superpotencias"
+   ]
+  },
+  {
+   "palabra": "Unión Soviética (URSS)",
+   "definicion": "País formado tras la Revolución Rusa, con Moscú como capital. Tenía un sistema comunista y fue una de las dos superpotencias de la Guerra Fría. Se disolvió en 1991.",
+   "formas": [
+    "urss",
+    "union sovietica",
+    "sovietico",
+    "sovietica",
+    "sovieticos"
+   ]
+  },
+  {
+   "palabra": "Bloque",
+   "definicion": "Grupo de países aliados que siguen a una misma potencia. En la Guerra Fría había un bloque capitalista y otro comunista.",
+   "formas": [
+    "bloques",
+    "bloque capitalista",
+    "bloque comunista"
+   ]
+  },
+  {
+   "palabra": "Primer Mundo",
+   "definicion": "En la Guerra Fría, el bloque capitalista: Estados Unidos, Europa occidental y sus aliados. Hoy se usa también para hablar de los países ricos.",
+   "formas": [
+    "primer mundo"
+   ]
+  },
+  {
+   "palabra": "Segundo Mundo",
+   "definicion": "En la Guerra Fría, el bloque comunista: la Unión Soviética y los países de Europa del Este.",
+   "formas": [
+    "segundo mundo"
+   ]
+  },
+  {
+   "palabra": "Tercer Mundo",
+   "definicion": "Países que no pertenecían a ninguno de los dos bloques de la Guerra Fría: muchos de Asia y África y también América Latina. No quiere decir \"tercer puesto\".",
+   "formas": [
+    "tercer mundo",
+    "tercermundista",
+    "tercermundistas"
+   ]
+  },
+  {
+   "palabra": "Descolonización",
+   "definicion": "Proceso por el que colonias de Asia y África se independizaron de las potencias europeas que las dominaban, sobre todo después de 1945.",
+   "formas": [
+    "descolonizacion",
+    "descolonizar",
+    "independencia de las colonias"
+   ]
+  },
+  {
+   "palabra": "Colonia",
+   "definicion": "Territorio gobernado por otro país, que lo domina y aprovecha sus recursos. \"Colonialismo\" es ese sistema de dominación.",
+   "formas": [
+    "colonias",
+    "colonialismo",
+    "colonial",
+    "colonizar",
+    "colonizado",
+    "colonizados",
+    "colonizaron"
+   ]
+  },
+  {
+   "palabra": "No Alineados",
+   "definicion": "Países que decidieron no sumarse a ninguno de los dos bloques de la Guerra Fría. Fundaron el Movimiento de Países No Alineados en Belgrado, en 1961.",
+   "formas": [
+    "no alineados",
+    "no alineado",
+    "no alinearse",
+    "movimiento de paises no alineados",
+    "noal",
+    "belgrado"
+   ]
+  },
+  {
+   "palabra": "Conferencia de Bandung",
+   "definicion": "Reunión de 29 países de Asia y África en Bandung (Indonesia), en 1955. Fue un antecedente del Movimiento de Países No Alineados.",
+   "formas": [
+    "bandung"
+   ]
+  },
+  {
+   "palabra": "Norte-Sur",
+   "definicion": "Forma de ver el conflicto mundial como desigualdad entre el Norte desarrollado (rico e industrializado) y el Sur subdesarrollado (pobre y vendedor de materias primas).",
+   "formas": [
+    "norte sur",
+    "norte y sur",
+    "conflicto norte sur"
+   ]
+  },
+  {
+   "palabra": "Subdesarrollo",
+   "definicion": "Situación de un país con mucha pobreza, poca industria y una economía que depende de vender materias primas. Lo contrario es un país desarrollado.",
+   "formas": [
+    "subdesarrollado",
+    "subdesarrollados",
+    "desarrollado",
+    "desarrollados",
+    "desarrollo",
+    "paises desarrollados"
+   ]
+  },
+  {
+   "palabra": "Materias primas",
+   "definicion": "Productos que se sacan de la naturaleza casi sin transformar, como granos, carne, minerales o petróleo. Con ellas se fabrican otros productos.",
+   "formas": [
+    "materia prima",
+    "materias primas"
+   ]
+  },
+  {
+   "palabra": "CEPAL",
+   "definicion": "Comisión Económica para América Latina: organismo de Naciones Unidas creado en 1948 que estudia la economía de la región.",
+   "formas": [
+    "cepal",
+    "comision economica para america latina"
+   ]
+  },
+  {
+   "palabra": "Raúl Prebisch",
+   "definicion": "(1901-1986) Economista argentino de la CEPAL. Explicó que los productos del campo valen cada vez menos comparados con los productos industriales.",
+   "formas": [
+    "prebisch",
+    "raul prebisch"
+   ]
+  },
+  {
+   "palabra": "Revolución Cubana",
+   "definicion": "Proceso que llevó al poder a Fidel Castro y sus compañeros en Cuba, el 1 de enero de 1959, tras derrotar a la dictadura de Batista.",
+   "formas": [
+    "revolucion cubana",
+    "cuba",
+    "cubano",
+    "cubana",
+    "cubanos"
+   ]
+  },
+  {
+   "palabra": "Fidel Castro",
+   "definicion": "(1926-2016) Líder de la Revolución Cubana. Gobernó Cuba desde 1959 durante casi cincuenta años.",
+   "formas": [
+    "fidel",
+    "castro",
+    "fidel castro"
+   ]
+  },
+  {
+   "palabra": "Ernesto \"Che\" Guevara",
+   "definicion": "(1928-1967) Médico nacido en Rosario, Santa Fe. Fue uno de los líderes de la Revolución Cubana y su imagen se convirtió en un símbolo en todo el mundo.",
+   "formas": [
+    "che",
+    "guevara",
+    "che guevara",
+    "ernesto guevara",
+    "el che"
+   ]
+  },
+  {
+   "palabra": "Fulgencio Batista",
+   "definicion": "Dictador que gobernaba Cuba en la década de 1950. Huyó del país cuando triunfó la revolución, el 1 de enero de 1959.",
+   "formas": [
+    "batista",
+    "fulgencio batista"
+   ]
+  },
+  {
+   "palabra": "Guerrilla",
+   "definicion": "Grupo armado que no es un ejército oficial y combate con ataques sorpresivos, muchas veces desde zonas de montaña o selva.",
+   "formas": [
+    "guerrillas",
+    "guerrillero",
+    "guerrilleros",
+    "sierra maestra",
+    "granma"
+   ]
+  },
+  {
+   "palabra": "Alfabetización",
+   "definicion": "Enseñar a leer y escribir. En 1961 Cuba hizo una gran campaña de alfabetización en todo el país.",
+   "formas": [
+    "alfabetizacion",
+    "alfabetizar",
+    "analfabetismo",
+    "analfabeto",
+    "analfabetos"
+   ]
+  },
+  {
+   "palabra": "Bloqueo (embargo)",
+   "definicion": "Medidas económicas de Estados Unidos que prohíben comerciar con Cuba. Unos lo llaman \"bloqueo\" y otros \"embargo\".",
+   "formas": [
+    "bloqueo",
+    "embargo",
+    "bloqueo economico"
+   ]
+  },
+  {
+   "palabra": "Bahía de Cochinos",
+   "definicion": "Lugar de Cuba donde, en 1961, exiliados cubanos apoyados por Estados Unidos intentaron invadir la isla. Fracasaron.",
+   "formas": [
+    "bahia de cochinos",
+    "cochinos",
+    "playa giron",
+    "giron"
+   ]
+  },
+  {
+   "palabra": "Crisis de los misiles",
+   "definicion": "Octubre de 1962: la Unión Soviética instaló misiles en Cuba y durante días el mundo temió una guerra nuclear.",
+   "formas": [
+    "crisis de los misiles",
+    "misiles",
+    "guerra nuclear"
+   ]
+  },
+  {
+   "palabra": "Socialismo",
+   "definicion": "Sistema en el que el Estado controla la economía (empresas, tierras) en nombre de toda la sociedad. Cuba se declaró socialista en 1961.",
+   "formas": [
+    "socialista",
+    "socialistas"
+   ]
+  },
+  {
+   "palabra": "Alianza para el Progreso",
+   "definicion": "Programa de ayuda económica que Estados Unidos lanzó en 1961 para América Latina, para evitar que hubiera \"otra Cuba\".",
+   "formas": [
+    "alianza para el progreso"
+   ]
+  },
+  {
+   "palabra": "Intervencionismo",
+   "definicion": "Cuando un país se mete en los asuntos de otro para influir en sus decisiones: con presión económica, apoyo a grupos armados o golpes de Estado.",
+   "formas": [
+    "intervencionista",
+    "intervencion de estados unidos",
+    "intervino",
+    "intervenir en otro pais"
+   ]
+  },
+  {
+   "palabra": "Exilio",
+   "definicion": "Tener que irse a vivir a otro país, por obligación o por persecución. Muchas personas cubanas se exiliaron después de la revolución.",
+   "formas": [
+    "exiliado",
+    "exiliados",
+    "exiliarse",
+    "exiliada"
+   ]
+  },
+  {
+   "palabra": "Distribución de la riqueza",
+   "definicion": "Cómo se reparte lo que produce un país entre los distintos grupos: una parte va a los trabajadores como salarios y otra a los dueños de empresas y tierras como ganancias y rentas.",
+   "formas": [
+    "distribucion de la riqueza",
+    "distribucion",
+    "reparto de la riqueza",
+    "riqueza"
+   ]
+  },
+  {
+   "palabra": "Ingreso nacional",
+   "definicion": "Todo lo que produce un país en un año: cosechas, productos de las fábricas, servicios.",
+   "formas": [
+    "ingreso nacional",
+    "ingreso",
+    "riqueza nacional"
+   ]
+  },
+  {
+   "palabra": "Ganancia",
+   "definicion": "Lo que le queda al dueño de una empresa después de pagar todos los costos, incluidos los salarios.",
+   "formas": [
+    "ganancias"
+   ]
+  },
+  {
+   "palabra": "Renta",
+   "definicion": "Lo que gana el dueño de la tierra por tenerla, por ejemplo cuando la alquila o vende lo que produce.",
+   "formas": [
+    "rentas",
+    "renta agraria"
+   ]
+  },
+  {
+   "palabra": "Sectores empresariales",
+   "definicion": "Los dueños de tierras, campos y fábricas: terratenientes, ganaderos e industriales.",
+   "formas": [
+    "sectores empresariales",
+    "empresarios",
+    "empresariado",
+    "empresario",
+    "empresaria",
+    "patrones",
+    "patron"
+   ]
+  },
+  {
+   "palabra": "Terratenientes",
+   "definicion": "Dueños de grandes extensiones de tierra. En la Argentina se organizaban en la Sociedad Rural.",
+   "formas": [
+    "terrateniente",
+    "estancieros",
+    "estanciero",
+    "ganaderos",
+    "ganadero"
+   ]
+  },
+  {
+   "palabra": "Sociedad Rural Argentina",
+   "definicion": "Organización de los grandes terratenientes y ganaderos, fundada en 1866.",
+   "formas": [
+    "sociedad rural",
+    "sra"
+   ]
+  },
+  {
+   "palabra": "Unión Industrial Argentina (UIA)",
+   "definicion": "Organización de los empresarios industriales, fundada en 1887.",
+   "formas": [
+    "union industrial",
+    "union industrial argentina",
+    "uia"
+   ]
+  },
+  {
+   "palabra": "CGE",
+   "definicion": "Confederación General Económica: organización de empresarios, sobre todo pequeños y medianos industriales, formada en 1952. Apoyaba al gobierno peronista.",
+   "formas": [
+    "cge",
+    "confederacion general economica"
+   ]
+  },
+  {
+   "palabra": "Convenio colectivo",
+   "definicion": "Acuerdo entre un sindicato y los empresarios de una actividad sobre salarios y condiciones de trabajo. Hoy se llaman también \"paritarias\".",
+   "formas": [
+    "convenio",
+    "convenios",
+    "convenios colectivos",
+    "paritarias",
+    "paritaria"
+   ]
+  },
+  {
+   "palabra": "Estatuto del Peón",
+   "definicion": "Ley de 1944 que dio derechos a los trabajadores rurales: salario mínimo, descanso y condiciones de vivienda.",
+   "formas": [
+    "estatuto del peon",
+    "estatuto del peon rural",
+    "peon rural",
+    "peones",
+    "peon"
+   ]
+  },
+  {
+   "palabra": "Control de precios",
+   "definicion": "Cuando el Estado fija precios máximos para algunos productos, para que el salario alcance.",
+   "formas": [
+    "control de precios",
+    "precios maximos",
+    "congelamiento de alquileres",
+    "alquileres"
+   ]
+  },
+  {
+   "palabra": "Árbitro",
+   "definicion": "Quien decide en un conflicto entre dos partes. Se dice que el Estado peronista actuaba como árbitro entre empresarios y trabajadores.",
+   "formas": [
+    "arbitro",
+    "estado arbitro",
+    "arbitraje"
+   ]
+  },
+  {
+   "palabra": "Productividad",
+   "definicion": "Cuánto se produce en un tiempo determinado. En 1955 el gobierno organizó el Congreso de la Productividad para pedir producir más.",
+   "formas": [
+    "congreso de la productividad",
+    "producir mas"
+   ]
+  },
+  {
+   "palabra": "Asalariados",
+   "definicion": "Personas que trabajan para otro a cambio de un salario.",
+   "formas": [
+    "asalariado",
+    "asalariada",
+    "asalariadas",
+    "trabajadores",
+    "trabajadoras",
+    "trabajador",
+    "trabajadora"
+   ]
+  },
+  {
+   "palabra": "Huelga de la construcción",
+   "definicion": "Gran huelga de los obreros de la construcción en Buenos Aires, en 1935-1936, que llegó a paralizar la ciudad.",
+   "formas": [
+    "huelga de la construccion",
+    "construccion"
+   ]
+  },
+  {
+   "palabra": "Legitimidad",
+   "definicion": "Que la sociedad acepte que un gobierno la representa y tiene derecho a gobernar.",
+   "formas": [
+    "legitimo",
+    "legitima",
+    "ilegitimidad",
+    "ilegitimo"
+   ]
+  },
+  {
+   "palabra": "Arturo Frondizi",
+   "definicion": "Presidente elegido en 1958, con el peronismo proscripto. Fue derrocado por un golpe de Estado en 1962.",
+   "formas": [
+    "frondizi"
+   ]
+  },
+  {
+   "palabra": "Arturo Illia",
+   "definicion": "Presidente elegido en 1963, con el peronismo proscripto. Fue derrocado por un golpe de Estado en 1966.",
+   "formas": [
+    "illia"
+   ]
+  },
+  {
+   "palabra": "Resistencia peronista",
+   "definicion": "Huelgas, protestas y otras acciones de trabajadores y sindicatos para reclamar la vuelta de Perón después de 1955.",
+   "formas": [
+    "resistencia peronista",
+    "resistencia"
+   ]
+  },
+  {
+   "palabra": "Juan Carlos Onganía",
+   "definicion": "General que encabezó el golpe de 1966 (\"Revolución Argentina\"). Prohibió los partidos políticos e intervino las universidades.",
+   "formas": [
+    "ongania",
+    "revolucion argentina"
+   ]
+  },
+  {
+   "palabra": "Noche de los Bastones Largos",
+   "definicion": "Julio de 1966: la policía desalojó facultades de la Universidad de Buenos Aires. Muchos docentes e investigadores renunciaron o se fueron del país.",
+   "formas": [
+    "bastones largos",
+    "noche de los bastones largos"
+   ]
+  },
+  {
+   "palabra": "Cordobazo",
+   "definicion": "Protesta de obreros y estudiantes en Córdoba, en mayo de 1969, contra el gobierno de Onganía.",
+   "formas": [
+    "cordobazo"
+   ]
+  },
+  {
+   "palabra": "Organizaciones armadas",
+   "definicion": "Grupos que usaron las armas con fines políticos desde fines de la década de 1960, como Montoneros y el ERP.",
+   "formas": [
+    "organizaciones armadas",
+    "montoneros",
+    "erp",
+    "guerrilla urbana"
+   ]
+  },
+  {
+   "palabra": "Triple A",
+   "definicion": "Alianza Anticomunista Argentina: grupo paraestatal que desde 1973 persiguió y asesinó a militantes, artistas e intelectuales.",
+   "formas": [
+    "triple a",
+    "aaa",
+    "alianza anticomunista argentina",
+    "paraestatal",
+    "paraestatales"
+   ]
+  },
+  {
+   "palabra": "Rodrigazo",
+   "definicion": "Plan de ajuste de 1975 con grandes aumentos de precios, que provocó protestas y huelgas.",
+   "formas": [
+    "rodrigazo"
+   ]
+  },
+  {
+   "palabra": "Junta Militar",
+   "definicion": "Gobierno formado por los jefes del Ejército, la Marina y la Aeronáutica entre 1976 y 1983.",
+   "formas": [
+    "junta militar",
+    "juntas militares",
+    "proceso de reorganizacion nacional"
+   ]
+  },
+  {
+   "palabra": "Terrorismo de Estado",
+   "definicion": "Cuando el propio Estado usa sus fuerzas de manera ilegal y clandestina contra la población. Entre 1976 y 1983 incluyó secuestros, torturas, desapariciones y apropiación de bebés.",
+   "formas": [
+    "terrorismo de estado"
+   ]
+  },
+  {
+   "palabra": "Desaparición forzada",
+   "definicion": "Secuestro de una persona por fuerzas del Estado, que niega tenerla y oculta su destino. A esas personas se las llama \"desaparecidas\".",
+   "formas": [
+    "desaparecidos",
+    "desaparecido",
+    "desaparecida",
+    "desaparecidas",
+    "desaparicion"
+   ]
+  },
+  {
+   "palabra": "Centros clandestinos de detención",
+   "definicion": "Lugares secretos donde la dictadura mantenía secuestradas a personas, fuera de toda ley.",
+   "formas": [
+    "centros clandestinos",
+    "centro clandestino",
+    "clandestino",
+    "clandestinos"
+   ]
+  },
+  {
+   "palabra": "Madres de Plaza de Mayo",
+   "definicion": "Madres que desde 1977 se reunieron en la Plaza de Mayo para reclamar por sus hijos e hijas desaparecidos.",
+   "formas": [
+    "madres de plaza de mayo",
+    "madres"
+   ]
+  },
+  {
+   "palabra": "Abuelas de Plaza de Mayo",
+   "definicion": "Organización formada en 1977 que busca a los nietos y nietas apropiados durante la dictadura.",
+   "formas": [
+    "abuelas de plaza de mayo",
+    "abuelas",
+    "nietos",
+    "nietos apropiados",
+    "apropiacion"
+   ]
+  },
+  {
+   "palabra": "Guerra de Malvinas",
+   "definicion": "Guerra entre la Argentina y el Reino Unido por las islas Malvinas, del 2 de abril al 14 de junio de 1982.",
+   "formas": [
+    "malvinas",
+    "guerra de malvinas",
+    "islas malvinas"
+   ]
+  },
+  {
+   "palabra": "Raúl Alfonsín",
+   "definicion": "Presidente elegido en 1983. Asumió el 10 de diciembre de 1983, con la vuelta de la democracia.",
+   "formas": [
+    "alfonsin",
+    "raul alfonsin"
+   ]
+  },
+  {
+   "palabra": "CONADEP",
+   "definicion": "Comisión Nacional sobre la Desaparición de Personas (1983). Investigó las desapariciones y publicó el informe \"Nunca Más\" (1984).",
+   "formas": [
+    "conadep",
+    "nunca mas"
+   ]
+  },
+  {
+   "palabra": "Juicio a las Juntas",
+   "definicion": "Juicio de 1985 en el que la Justicia civil condenó a los máximos responsables de la dictadura.",
+   "formas": [
+    "juicio a las juntas"
+   ]
+  },
+  {
+   "palabra": "Día de la Memoria",
+   "definicion": "24 de marzo: Día Nacional de la Memoria por la Verdad y la Justicia, establecido por ley en 2002.",
+   "formas": [
+    "dia de la memoria",
+    "24 de marzo",
+    "memoria"
+   ]
+  },
+  {
+   "palabra": "Neoliberalismo",
+   "definicion": "Modelo que propone que el Estado intervenga lo menos posible y que la economía funcione con las reglas del mercado: privatizar, abrir la economía y desregular.",
+   "formas": [
+    "neoliberal",
+    "neoliberales",
+    "modelo neoliberal"
+   ]
+  },
+  {
+   "palabra": "Privatización",
+   "definicion": "Pasar una empresa del Estado a manos privadas. Lo contrario es nacionalizar o estatizar.",
+   "formas": [
+    "privatizar",
+    "privatizaciones",
+    "privatizo",
+    "privatizada",
+    "privatizadas"
+   ]
+  },
+  {
+   "palabra": "Desregulación",
+   "definicion": "Reducir las reglas del Estado sobre la economía.",
+   "formas": [
+    "desregular",
+    "desregulacion",
+    "desregularon"
+   ]
+  },
+  {
+   "palabra": "Apertura económica",
+   "definicion": "Facilitar que entren al país productos e inversiones de afuera.",
+   "formas": [
+    "apertura",
+    "apertura economica",
+    "abrir la economia"
+   ]
+  },
+  {
+   "palabra": "Mercado",
+   "definicion": "Lugar o sistema donde se compran y venden bienes y servicios, y se fijan precios por oferta y demanda.",
+   "formas": [
+    "mercados",
+    "libre mercado",
+    "oferta y demanda"
+   ]
+  },
+  {
+   "palabra": "Consenso de Washington",
+   "definicion": "Recomendaciones de 1989 para América Latina: controlar el gasto, abrir la economía, privatizar y desregular.",
+   "formas": [
+    "consenso de washington",
+    "washington"
+   ]
+  },
+  {
+   "palabra": "Deuda externa",
+   "definicion": "Lo que un país debe a acreedores del exterior.",
+   "formas": [
+    "deuda externa",
+    "deuda",
+    "endeudamiento"
+   ]
+  },
+  {
+   "palabra": "Augusto Pinochet",
+   "definicion": "Militar que encabezó la dictadura en Chile desde 1973 y aplicó un programa de libre mercado.",
+   "formas": [
+    "pinochet"
+   ]
+  },
+  {
+   "palabra": "Martínez de Hoz",
+   "definicion": "José Alfredo Martínez de Hoz: ministro de Economía desde 1976. Aplicó la apertura y la reforma financiera.",
+   "formas": [
+    "martinez de hoz"
+   ]
+  },
+  {
+   "palabra": "Inflación",
+   "definicion": "Aumento general de los precios. Con el mismo dinero se puede comprar menos.",
+   "formas": [
+    "inflacion",
+    "aumento de precios"
+   ]
+  },
+  {
+   "palabra": "Hiperinflación",
+   "definicion": "Inflación tan alta que los precios cambian de un día para otro y el dinero pierde su valor muy rápido. Pasó en la Argentina en 1989.",
+   "formas": [
+    "hiperinflacion"
+   ]
+  },
+  {
+   "palabra": "Convertibilidad",
+   "definicion": "Ley de 1991 que estableció que un peso valía un dólar (\"el uno a uno\"). Terminó en 2002.",
+   "formas": [
+    "convertibilidad",
+    "uno a uno",
+    "1 a 1"
+   ]
+  },
+  {
+   "palabra": "Carlos Menem",
+   "definicion": "Presidente elegido en 1989 y reelegido en 1995. Su gobierno aplicó la convertibilidad y las privatizaciones.",
+   "formas": [
+    "menem"
+   ]
+  },
+  {
+   "palabra": "Reforma del Estado",
+   "definicion": "Ley de 1989 que permitió privatizar muchas empresas públicas.",
+   "formas": [
+    "reforma del estado",
+    "ley de reforma del estado"
+   ]
+  },
+  {
+   "palabra": "Globalización financiera",
+   "definicion": "Movimiento muy rápido del dinero entre países. Cuando los inversores retiran su dinero de golpe, puede provocar crisis.",
+   "formas": [
+    "globalizacion",
+    "globalizacion financiera"
+   ]
+  },
+  {
+   "palabra": "Recesión",
+   "definicion": "Período en que la economía deja de crecer, cierran empresas y aumenta la desocupación.",
+   "formas": [
+    "recesion"
+   ]
+  },
+  {
+   "palabra": "Corralito",
+   "definicion": "Límite a cuánto dinero se podía sacar de los bancos, establecido a fines de 2001.",
+   "formas": [
+    "corralito"
+   ]
+  },
+  {
+   "palabra": "Devaluación",
+   "definicion": "Cuando la moneda de un país pierde valor frente a otras monedas. En 2002 el peso dejó de valer un dólar.",
+   "formas": [
+    "devaluacion",
+    "devaluar",
+    "devaluo"
+   ]
+  },
+  {
+   "palabra": "Fernando de la Rúa",
+   "definicion": "Presidente elegido en 1999. Renunció en diciembre de 2001, en medio de la crisis.",
+   "formas": [
+    "de la rua",
+    "fernando de la rua"
+   ]
+  },
+  {
+   "palabra": "Asambleas barriales",
+   "definicion": "Reuniones de vecinos y vecinas en plazas para debatir y organizarse, en 2001 y 2002.",
+   "formas": [
+    "asambleas barriales",
+    "asamblea barrial",
+    "asambleas"
+   ]
+  },
+  {
+   "palabra": "Clubes de trueque",
+   "definicion": "Lugares donde se intercambiaban productos y servicios sin usar dinero.",
+   "formas": [
+    "trueque",
+    "clubes de trueque",
+    "club de trueque"
+   ]
+  },
+  {
+   "palabra": "Empresas recuperadas",
+   "definicion": "Fábricas cerradas que sus trabajadores volvieron a poner en marcha, muchas veces como cooperativas.",
+   "formas": [
+    "empresas recuperadas",
+    "empresa recuperada",
+    "fabricas recuperadas"
+   ]
+  },
+  {
+   "palabra": "Cooperativa",
+   "definicion": "Empresa en la que los propios trabajadores son los dueños y deciden juntos.",
+   "formas": [
+    "cooperativas"
+   ]
+  },
+  {
+   "palabra": "Movimientos de desocupados",
+   "definicion": "Organizaciones de personas sin empleo que reclamaban trabajo y ayuda. Una forma de protesta fueron los cortes de ruta, llamados \"piquetes\".",
+   "formas": [
+    "piquetes",
+    "piquete",
+    "piqueteros",
+    "movimientos de desocupados",
+    "cortes de ruta",
+    "corte de ruta"
+   ]
+  },
+  {
+   "palabra": "Zapatistas",
+   "definicion": "Movimiento que se dio a conocer en Chiapas, México, en 1994, y reclama derechos para los pueblos indígenas.",
+   "formas": [
+    "zapatistas",
+    "zapatista",
+    "ezln",
+    "chiapas"
+   ]
+  },
+  {
+   "palabra": "Movimiento Sin Tierra",
+   "definicion": "Movimiento de Brasil, surgido en 1984, que reclama tierra para trabajar.",
+   "formas": [
+    "sin tierra",
+    "movimiento sin tierra",
+    "mst"
+   ]
+  },
+  {
+   "palabra": "Integración regional",
+   "definicion": "Unión de países de una misma región para comerciar más y tener más fuerza en el mundo.",
+   "formas": [
+    "integracion regional",
+    "integracion"
+   ]
+  },
+  {
+   "palabra": "Mercosur",
+   "definicion": "Acuerdo de 1991 (Tratado de Asunción) entre Argentina, Brasil, Paraguay y Uruguay para comerciar con menos trabas.",
+   "formas": [
+    "mercosur",
+    "tratado de asuncion"
+   ]
+  },
+  {
+   "palabra": "Unasur",
+   "definicion": "Unión de Naciones Suramericanas, creada en 2008 por los doce países de América del Sur.",
+   "formas": [
+    "unasur"
+   ]
+  },
+  {
+   "palabra": "CELAC",
+   "definicion": "Comunidad de Estados Latinoamericanos y Caribeños, creada en 2011.",
+   "formas": [
+    "celac"
+   ]
+  },
+  {
+   "palabra": "Asignación Universal por Hijo",
+   "definicion": "Programa social creado en 2009 que da un pago mensual por cada hijo o hija a familias sin empleo formal o con ingresos bajos.",
+   "formas": [
+    "asignacion universal por hijo",
+    "auh",
+    "asignacion"
+   ]
+  }
+ ],
+ "temas": [
+  {
+   "id": "his-4-01-c1-1",
+   "clase": "his-4-01",
+   "capsula": "c1",
+   "boton": "El régimen oligárquico",
+   "otra_manera": "A fines del siglo XIX y principios del XX, el país lo gobernaba un grupo chico de familias. Eran las que controlaban la economía agroexportadora y también la política. Por eso se habla de **régimen oligárquico** o conservador: el poder estaba en pocas manos y se quería que siguiera así.",
+   "vida_real": "Es como un club donde siempre deciden las mismas familias y el resto de los socios y las socias casi no participa, aunque el club sea de todos.",
+   "claves": [
+    "oligarquia",
+    "regimen oligarquico",
+    "regimen conservador",
+    "conservador"
+   ],
+   "parte": "La Ley Sáenz Peña (1912)"
+  },
+  {
+   "id": "his-4-01-c1-2",
+   "clase": "his-4-01",
+   "capsula": "c1",
+   "boton": "El fraude electoral",
+   "otra_manera": "Había elecciones, pero no eran limpias. El voto era **público** (no secreto), así que era fácil presionar a quienes votaban. Por eso muy pocas personas participaban de verdad.",
+   "vida_real": "Imaginá que en tu curso se elige delegado o delegada levantando la mano, con las personas más influyentes mirando. Muchas votarían por presión y no por lo que piensan.",
+   "claves": [
+    "fraude",
+    "voto publico",
+    "elecciones"
+   ],
+   "parte": "La Ley Sáenz Peña (1912)"
+  },
+  {
+   "id": "his-4-01-c1-3",
+   "clase": "his-4-01",
+   "capsula": "c1",
+   "boton": "El camino hacia la Ley Sáenz Peña",
+   "otra_manera": "Primero, en 1891, se fundó la UCR, un partido opositor que reclamaba elecciones limpias. En 1905 intentó tomar el poder por las armas, sin éxito, para exigir cambios en el sistema electoral. En 1912, el presidente Sáenz Peña impulsó la ley que cambió las reglas del voto, y en 1916, en las primeras elecciones con la nueva ley, ganó Yrigoyen.",
+   "vida_real": "Es como cuando un grupo reclama durante años que cambien las reglas, y cuando por fin cambian, gana usando esas mismas reglas.",
+   "claves": [
+    "camino",
+    "ley saenz pena",
+    "1891",
+    "1905",
+    "1912",
+    "1916",
+    "linea de tiempo"
+   ],
+   "parte": "La Ley Sáenz Peña (1912)"
+  },
+  {
+   "id": "his-4-01-c1-4",
+   "clase": "his-4-01",
+   "capsula": "c1",
+   "boton": "Qué cambió con la Ley Sáenz Peña",
+   "otra_manera": "El voto pasó a ser **secreto** (nadie ve qué elegís), **universal** (para todos los varones argentinos de 18 años o más) y **obligatorio**. Se armó un padrón de votantes basado en el padrón militar. Pero las mujeres y los extranjeros siguieron sin votar.",
+   "vida_real": "Hoy, cuando alguien vota en el cuarto oscuro y cierra el sobre, nadie se entera de qué eligió. Esa es la idea del voto secreto.",
+   "claves": [
+    "voto secreto",
+    "voto universal",
+    "voto obligatorio",
+    "padron",
+    "cambios"
+   ],
+   "parte": "La Ley Sáenz Peña (1912)"
+  },
+  {
+   "id": "his-4-01-c2-5",
+   "clase": "his-4-01",
+   "capsula": "c2",
+   "boton": "Los sectores medios y la UCR",
+   "otra_manera": "El radicalismo representaba sobre todo a los **sectores medios**: hijos de inmigrantes que habían prosperado, comerciantes, profesionales, empleados y pequeños productores. No eran ni los más ricos ni los más pobres, y querían participar de una política que hasta entonces estaba cerrada.",
+   "vida_real": "Pensá en una familia que llegó de otro país, abrió un negocio y logró que sus hijos estudien: ahora quiere opinar sobre cómo se gobierna el lugar donde vive.",
+   "claves": [
+    "sectores medios",
+    "clase media",
+    "radicalismo",
+    "ucr",
+    "inmigrantes"
+   ],
+   "parte": "Yrigoyen, Alvear y los sectores medios"
+  },
+  {
+   "id": "his-4-01-c2-6",
+   "clase": "his-4-01",
+   "capsula": "c2",
+   "boton": "Los tres gobiernos radicales",
+   "otra_manera": "En esta etapa hubo tres gobiernos radicales: Hipólito Yrigoyen (1916-1922), Marcelo T. de Alvear (1922-1928) y de nuevo Yrigoyen (1928-1930). Yrigoyen fue el primer presidente elegido con la Ley Sáenz Peña.",
+   "vida_real": "Es el mismo partido con distintos estilos: como un equipo donde cambia el técnico y después vuelve el primero.",
+   "claves": [
+    "gobiernos radicales",
+    "yrigoyen",
+    "alvear",
+    "presidentes",
+    "1916",
+    "1922",
+    "1928"
+   ],
+   "parte": "Yrigoyen, Alvear y los sectores medios"
+  },
+  {
+   "id": "his-4-01-c2-7",
+   "clase": "his-4-01",
+   "capsula": "c2",
+   "boton": "Yrigoyen y Alvear: las tensiones dentro del partido",
+   "otra_manera": "Dentro del radicalismo había dos grupos. Yrigoyen era visto como un líder popular y muy personalista, y sus seguidores eran los \"personalistas\". Alvear era visto como más cercano a los sectores acomodados del partido, y su grupo eran los \"antipersonalistas\".",
+   "vida_real": "Es como un club dividido entre quienes siguen a un presidente muy querido y quienes prefieren otro estilo: son del mismo club, pero no piensan igual.",
+   "claves": [
+    "personalista",
+    "personalismo",
+    "antipersonalista",
+    "tensiones",
+    "diferencias"
+   ],
+   "parte": "Yrigoyen, Alvear y los sectores medios"
+  },
+  {
+   "id": "his-4-01-c2-8",
+   "clase": "his-4-01",
+   "capsula": "c2",
+   "boton": "Hechos importantes de los gobiernos radicales",
+   "otra_manera": "Los hechos se pueden agrupar en tres temas. **Participación y educación:** la Reforma Universitaria (1918), cuando estudiantes de Córdoba pidieron universidades más abiertas. **Conflictos sociales:** la Semana Trágica (1919) y las huelgas en la Patagonia (1920-1922), con fuerte represión. **Economía y Estado:** la creación de YPF (1922).",
+   "vida_real": "Es como ordenar los apuntes por unidad en lugar de por fecha: agrupar por tema ayuda a recordar mejor.",
+   "claves": [
+    "reforma universitaria",
+    "semana tragica",
+    "patagonia",
+    "ypf",
+    "huelgas",
+    "hechos"
+   ],
+   "parte": "Yrigoyen, Alvear y los sectores medios"
+  },
+  {
+   "id": "his-4-01-c3-9",
+   "clase": "his-4-01",
+   "capsula": "c3",
+   "boton": "La neutralidad en la Primera Guerra",
+   "otra_manera": "La Primera Guerra Mundial (1914-1918) enfrentó en Europa a las grandes potencias. La Argentina se mantuvo **neutral**: no participó de la guerra. Aun así la afectó, porque el país vendía carnes y granos a Europa y compraba productos industriales, sobre todo ingleses.",
+   "vida_real": "Es como no jugar un partido, pero vivir al lado de la cancha: no entrás al juego, pero igual te afectan el ruido, el tránsito y los precios.",
+   "claves": [
+    "neutralidad",
+    "neutral",
+    "primera guerra",
+    "guerra"
+   ],
+   "parte": "El mundo y la Argentina: la Primera Guerra"
+  },
+  {
+   "id": "his-4-01-c3-10",
+   "clase": "his-4-01",
+   "capsula": "c3",
+   "boton": "Cómo cambió la economía con la guerra",
+   "otra_manera": "Con los barcos y los puertos ocupados en la guerra, el comercio se desordenó. Faltaron productos industriales de Europa y eso estimuló a producir algunas cosas en el país. Después de la guerra el comercio se normalizó de a poco, Estados Unidos se volvió un socio comercial más importante y la industria local tuvo que competir con los productos importados.",
+   "vida_real": "Si un producto importado deja de llegar al barrio, alguien empieza a hacerlo ahí mismo. Cuando el importado vuelve, ese producto nuevo tiene que competir con él.",
+   "claves": [
+    "economia",
+    "importaciones",
+    "exportaciones",
+    "industria",
+    "comercio"
+   ],
+   "parte": "El mundo y la Argentina: la Primera Guerra"
+  },
+  {
+   "id": "his-4-01-c3-11",
+   "clase": "his-4-01",
+   "capsula": "c3",
+   "boton": "La Revolución Rusa y sus efectos en la Argentina",
+   "otra_manera": "En 1917 triunfó la Revolución Rusa. Sus ideas llegaron a la Argentina y preocuparon a los sectores más conservadores, que veían una amenaza en las huelgas y los reclamos obreros de esos años.",
+   "vida_real": "Cuando algo cambia en un país lejano, en otros lugares unos se entusiasman y otros se asustan. Eso pasó acá con las ideas de esa revolución.",
+   "claves": [
+    "revolucion rusa",
+    "rusa",
+    "1917",
+    "huelgas",
+    "obreros"
+   ],
+   "parte": "El mundo y la Argentina: la Primera Guerra"
+  },
+  {
+   "id": "his-4-02-c1-12",
+   "clase": "his-4-02",
+   "capsula": "c1",
+   "boton": "Por qué surgieron los nacionalismos",
+   "otra_manera": "Después de la Primera Guerra, Europa quedó destruida y endeudada, y los tratados de paz (como el de Versalles, en 1919) dejaron resentimientos. Se sumaron la Revolución Rusa, que asustaba a las clases dirigentes, y la crisis económica de 1929. En ese clima, muchos grupos buscaron respuestas en el **nacionalismo**: la idea de que la nación es lo más importante.",
+   "vida_real": "Cuando todo anda mal, mucha gente se aferra a una idea que promete orden y orgullo. Es una reacción comprensible, pero puede llevar a decisiones peligrosas.",
+   "claves": [
+    "por que",
+    "surgimiento",
+    "causas",
+    "nacionalismo",
+    "versalles",
+    "posguerra"
+   ],
+   "parte": "Qué es un nacionalismo autoritario"
+  },
+  {
+   "id": "his-4-02-c1-13",
+   "clase": "his-4-02",
+   "capsula": "c1",
+   "boton": "Los rasgos del nacionalismo autoritario",
+   "otra_manera": "Se reconoce por cinco rasgos: exalta la **nación** y su supuesta grandeza; tiene un **líder** con mucho poder y un **partido único**; rechaza el liberalismo (libertades, parlamento) y el comunismo; exalta lo militar y la violencia política; y desconfía de la democracia.",
+   "vida_real": "En un grupo sería como tener un único jefe que no deja opinar distinto. Lo contrario es una democracia, donde se puede opinar, elegir y cambiar de gobierno.",
+   "claves": [
+    "rasgos",
+    "caracteristicas",
+    "autoritario",
+    "partido unico",
+    "lider"
+   ],
+   "parte": "Qué es un nacionalismo autoritario"
+  },
+  {
+   "id": "his-4-02-c2-14",
+   "clase": "his-4-02",
+   "capsula": "c2",
+   "boton": "Del Tratado de Versalles a la Segunda Guerra",
+   "otra_manera": "Los hechos se encadenan: en 1919 el Tratado de Versalles obliga a Alemania a pagar reparaciones y a perder territorios; en 1922 Mussolini llega al gobierno de Italia; en 1929 una crisis mundial aumenta el desempleo, sobre todo en Alemania; en 1933 Hitler es designado canciller y poco después concentra todo el poder; y en 1939 Alemania invade Polonia y comienza la Segunda Guerra Mundial.",
+   "vida_real": null,
+   "claves": [
+    "versalles",
+    "linea de tiempo",
+    "segunda guerra",
+    "1919",
+    "1922",
+    "1933",
+    "1939"
+   ],
+   "parte": "Fascismo y nazismo"
+  },
+  {
+   "id": "his-4-02-c2-15",
+   "clase": "his-4-02",
+   "capsula": "c2",
+   "boton": "Fascismo y nazismo: qué tienen en común",
+   "otra_manera": "Los dos fueron nacionalismos extremos, con partido único, culto al líder y violencia política. En Italia el líder era Benito Mussolini (el Duce), en el poder desde 1922; en Alemania, Adolf Hitler (el Führer), desde 1933.",
+   "vida_real": null,
+   "claves": [
+    "fascismo",
+    "nazismo",
+    "semejanzas",
+    "en comun",
+    "mussolini",
+    "hitler"
+   ],
+   "parte": "Fascismo y nazismo"
+  },
+  {
+   "id": "his-4-02-c2-16",
+   "clase": "his-4-02",
+   "capsula": "c2",
+   "boton": "Fascismo y nazismo: en qué se diferencian",
+   "otra_manera": "En el fascismo italiano la idea central era un **Estado fuerte** que lo controla todo. En el nazismo alemán, además, el **racismo y el antisemitismo** fueron política de Estado, y eso llevó al Holocausto.",
+   "vida_real": null,
+   "claves": [
+    "diferencias",
+    "diferencia",
+    "racismo",
+    "antisemitismo",
+    "holocausto"
+   ],
+   "parte": "Fascismo y nazismo"
+  },
+  {
+   "id": "his-4-02-c3-17",
+   "clase": "his-4-02",
+   "capsula": "c3",
+   "boton": "Dos tipos de nacionalismo en América Latina",
+   "otra_manera": "En América Latina también hubo nacionalismos, pero no fueron todos iguales. Algunos eran **autoritarios y conservadores**. Otros eran **populares y antiimperialistas**: criticaban la dependencia económica de potencias como el Reino Unido.",
+   "vida_real": "Dos personas pueden decir \"quiero a mi país\" y proponer cosas muy distintas: una puede querer más control y autoridad, y otra, más independencia económica.",
+   "claves": [
+    "america latina",
+    "latinoamerica",
+    "tipos de nacionalismo",
+    "popular",
+    "antiimperialista"
+   ],
+   "parte": "En América Latina y en la Argentina"
+  },
+  {
+   "id": "his-4-02-c3-18",
+   "clase": "his-4-02",
+   "capsula": "c3",
+   "boton": "Brasil: el Estado Novo",
+   "otra_manera": "En Brasil, Getúlio Vargas instauró en 1937 el **Estado Novo**, un régimen autoritario con fuerte intervención del Estado en la economía. También existió allí un movimiento de tipo fascista, el Integralismo.",
+   "vida_real": null,
+   "claves": [
+    "brasil",
+    "vargas",
+    "estado novo",
+    "integralismo"
+   ],
+   "parte": "En América Latina y en la Argentina"
+  },
+  {
+   "id": "his-4-02-c3-19",
+   "clase": "his-4-02",
+   "capsula": "c3",
+   "boton": "El nacionalismo en la Argentina (1919-1935)",
+   "otra_manera": "Hubo de los dos tipos. **Autoritario o conservador:** la Liga Patriótica Argentina (1919), la frase \"La hora de la espada\" de Leopoldo Lugones (1924) y el golpe de Uriburu (1930). **Popular y antiimperialista:** FORJA (1935), un grupo de radicales con Arturo Jauretche y Raúl Scalabrini Ortiz.",
+   "vida_real": "Para no mezclarlos, preguntate: ¿este grupo quería limitar la democracia o defender la independencia económica del país?",
+   "claves": [
+    "argentina",
+    "liga patriotica",
+    "forja",
+    "uriburu",
+    "lugones",
+    "hora de la espada"
+   ],
+   "parte": "En América Latina y en la Argentina"
+  },
+  {
+   "id": "his-4-03-c1-20",
+   "clase": "his-4-03",
+   "capsula": "c1",
+   "boton": "Qué fue la crisis de 1929",
+   "otra_manera": "En octubre de 1929 se derrumbó la Bolsa de Nueva York. Quebraron bancos y empresas, la gente perdió sus ahorros y el consumo se desplomó. Fue el comienzo de la **Gran Depresión**, que se extendió por todo el mundo capitalista. Los países cerraron sus mercados para proteger su producción (**proteccionismo**) y el comercio mundial cayó.",
+   "vida_real": "Es como una cadena: si un negocio cierra, sus empleados dejan de comprar y los otros negocios venden menos, y así sigue.",
+   "claves": [
+    "crisis",
+    "1929",
+    "gran depresion",
+    "bolsa",
+    "proteccionismo"
+   ],
+   "parte": "La crisis de 1929"
+  },
+  {
+   "id": "his-4-03-c1-21",
+   "clase": "his-4-03",
+   "capsula": "c1",
+   "boton": "Cómo afectó a la Argentina",
+   "otra_manera": "El país vivía de **exportar carnes y granos** y de **importar productos industriales**. Cuando cayeron la demanda mundial y los precios de lo que vendía, entraron menos dólares y libras al país. Con menos de esas monedas, se podía importar menos.",
+   "vida_real": "Es como una familia a la que le bajan el sueldo: puede comprar menos de lo que necesita.",
+   "claves": [
+    "argentina",
+    "exportaciones",
+    "divisas",
+    "dolares",
+    "libras"
+   ],
+   "parte": "La crisis de 1929"
+  },
+  {
+   "id": "his-4-03-c1-22",
+   "clase": "his-4-03",
+   "capsula": "c1",
+   "boton": "Un cambio de ideas sobre el Estado",
+   "otra_manera": "Antes de 1929 se pensaba que el mercado se regulaba solo, que el Estado debía intervenir poco y que había que tener libre comercio. Después se pensó que el Estado debía intervenir para evitar nuevas crisis, con más controles y proteccionismo. Un ejemplo es el New Deal en Estados Unidos (desde 1933), con obras públicas y regulación.",
+   "vida_real": "Es pasar de \"que cada uno se arregle\" a \"si hay un problema grande, el Estado actúa para que no se repita\".",
+   "claves": [
+    "estado",
+    "intervencion",
+    "new deal",
+    "libre comercio",
+    "cambio de ideas"
+   ],
+   "parte": "La crisis de 1929"
+  },
+  {
+   "id": "his-4-03-c2-23",
+   "clase": "his-4-03",
+   "capsula": "c2",
+   "boton": "El golpe de 1930",
+   "otra_manera": "El 6 de septiembre de 1930, el general José F. Uriburu derrocó al presidente Yrigoyen, que estaba en su segundo gobierno. Fue el **primer golpe de Estado** del siglo XX en la Argentina y abrió una etapa de inestabilidad democrática. El gobierno estaba debilitado por la crisis económica, la oposición política y las críticas de sectores poderosos.",
+   "vida_real": "Un golpe de Estado es sacar a un gobierno por la fuerza, en lugar de esperar a las próximas elecciones.",
+   "claves": [
+    "golpe",
+    "1930",
+    "uriburu",
+    "yrigoyen"
+   ],
+   "parte": "1930: golpe y Década Infame"
+  },
+  {
+   "id": "his-4-03-c2-24",
+   "clase": "his-4-03",
+   "capsula": "c2",
+   "boton": "Por qué se llama Década Infame",
+   "otra_manera": "Se la llama así (1930-1943) porque predominó el **fraude electoral**, llamado \"fraude patriótico\": elecciones manipuladas por los conservadores. Además se denunciaron casos de corrupción y se limitó la participación política de los radicales.",
+   "vida_real": "Es como un torneo donde el árbitro ayuda siempre al mismo equipo: el resultado ya está decidido antes de jugar.",
+   "claves": [
+    "decada infame",
+    "infame",
+    "fraude patriotico",
+    "fraude",
+    "corrupcion"
+   ],
+   "parte": "1930: golpe y Década Infame"
+  },
+  {
+   "id": "his-4-03-c2-25",
+   "clase": "his-4-03",
+   "capsula": "c2",
+   "boton": "Cómo intervino el Estado en la economía",
+   "otra_manera": "Para enfrentar la crisis, los gobiernos empezaron a intervenir. En 1931 se estableció el **control de cambios**, que regula la compra de monedas extranjeras. Se crearon **juntas reguladoras** de granos y carnes para ordenar la producción y los precios. En 1933 el Pacto Roca-Runciman aseguró la venta de carnes al Reino Unido, aunque fue muy criticado por desigual. Y en 1935 se creó el **Banco Central**, para regular la moneda y el crédito.",
+   "vida_real": "El control de cambios funciona como un cupo para algo escaso: no todos pueden comprar todo lo que quieren.",
+   "claves": [
+    "control de cambios",
+    "juntas reguladoras",
+    "banco central",
+    "pacto roca runciman",
+    "roca runciman",
+    "justo"
+   ],
+   "parte": "1930: golpe y Década Infame"
+  },
+  {
+   "id": "his-4-03-c3-26",
+   "clase": "his-4-03",
+   "capsula": "c3",
+   "boton": "La industrialización sustitutiva (ISI)",
+   "otra_manera": "La **ISI** es fabricar en el país lo que antes se compraba afuera. Pasó así: con la crisis cae lo que el país gana exportando y se puede importar menos; surgen fábricas que abastecen el mercado interno; se necesitan más obreros, sobre todo en Buenos Aires y otras ciudades; y miles de personas se trasladan del campo y de las provincias del interior hacia las ciudades (**migraciones internas**). Se aceleró durante la Segunda Guerra Mundial.",
+   "vida_real": "Si no podés comprar algo afuera, lo fabricás vos. Así empezaron a producirse en el país textiles, alimentos, productos metalúrgicos y electrodomésticos simples.",
+   "claves": [
+    "isi",
+    "industrializacion",
+    "industria",
+    "migracion interna",
+    "migraciones",
+    "sustitutiva"
+   ],
+   "parte": "Industria, ciudades y Segunda Guerra"
+  },
+  {
+   "id": "his-4-03-c3-27",
+   "clase": "his-4-03",
+   "capsula": "c3",
+   "boton": "Dos modelos económicos: agroexportador e industrial",
+   "otra_manera": "En el modelo **agroexportador**, el motor de la economía era exportar productos del campo, trabajaban peones y chacareros, y mucha población era rural. En el modelo **industrial**, se produce para el mercado interno, hay cada vez más obreros industriales y crecen las ciudades.",
+   "vida_real": "Es el cambio de un país de campos y pueblos a uno con más fábricas y más ciudades.",
+   "claves": [
+    "modelos",
+    "agroexportador",
+    "modelo industrial",
+    "modelo economico",
+    "comparar"
+   ],
+   "parte": "Industria, ciudades y Segunda Guerra"
+  },
+  {
+   "id": "his-4-03-c3-28",
+   "clase": "his-4-03",
+   "capsula": "c3",
+   "boton": "La neutralidad y el golpe de 1943",
+   "otra_manera": "La Argentina se mantuvo **neutral** durante casi toda la Segunda Guerra Mundial: recién en marzo de 1945 declaró la guerra a Alemania y Japón. En plena guerra, en junio de 1943, un nuevo golpe militar terminó con los gobiernos conservadores de la Década Infame.",
+   "vida_real": null,
+   "claves": [
+    "neutralidad",
+    "segunda guerra",
+    "1943",
+    "golpe del 43",
+    "golpe de 1943"
+   ],
+   "parte": "Industria, ciudades y Segunda Guerra"
+  },
+  {
+   "id": "his-4-04-c1-29",
+   "clase": "his-4-04",
+   "capsula": "c1",
+   "boton": "Perón en la Secretaría de Trabajo",
+   "otra_manera": "Después del golpe militar de 1943, el coronel Juan Domingo Perón quedó al frente de la **Secretaría de Trabajo y Previsión**. Desde ahí se acercó a los sindicatos y promovió medidas a favor de los trabajadores, como mejoras salariales y derechos laborales. Eso le dio fuerte apoyo entre los obreros y también generó oposición entre sectores conservadores, empresarios y militares.",
+   "vida_real": "Es como un delegado o una delegada que escucha a un grupo y consigue mejoras: ese grupo termina apoyándolo.",
+   "claves": [
+    "peron",
+    "secretaria de trabajo",
+    "sindicatos",
+    "1943",
+    "como llego"
+   ],
+   "parte": "Cómo llegó Perón al gobierno"
+  },
+  {
+   "id": "his-4-04-c1-30",
+   "clase": "his-4-04",
+   "capsula": "c1",
+   "boton": "Octubre de 1945 y las elecciones de 1946",
+   "otra_manera": "El 9 de octubre de 1945, presionado por sectores opositores, Perón fue obligado a renunciar y quedó detenido. El 17 de octubre, una multitud de trabajadores llegó a la Plaza de Mayo y reclamó su liberación. En 1946 ganó las elecciones del 24 de febrero y asumió la presidencia el 4 de junio.",
+   "vida_real": null,
+   "claves": [
+    "17 de octubre",
+    "1945",
+    "1946",
+    "plaza de mayo",
+    "elecciones",
+    "detenido"
+   ],
+   "parte": "Cómo llegó Perón al gobierno"
+  },
+  {
+   "id": "his-4-04-c2-31",
+   "clase": "his-4-04",
+   "capsula": "c2",
+   "boton": "Qué es la justicia social",
+   "otra_manera": "Es la idea de que el Estado debe garantizar **condiciones de vida y de trabajo dignas**. Muchos de los derechos que se ampliaron durante el primer peronismo se asocian a esta idea.",
+   "vida_real": "Es parecido a pensar que a nadie se le puede negar el descanso, un salario justo o una protección si se queda sin trabajo.",
+   "claves": [
+    "justicia social",
+    "derechos"
+   ],
+   "parte": "Derechos y medidas del peronismo"
+  },
+  {
+   "id": "his-4-04-c2-32",
+   "clase": "his-4-04",
+   "capsula": "c2",
+   "boton": "Los derechos laborales y sociales",
+   "otra_manera": "Entre las medidas más recordadas están el **aguinaldo** (fines de 1945), las **vacaciones pagas** y la **indemnización por despido**, que protegen a los trabajadores en su empleo. En 1949 se estableció la **gratuidad universitaria**, y en 1948 se creó la Fundación Eva Perón, que brindaba ayuda social y construyó escuelas, hospitales y hogares.",
+   "vida_real": "Si en tu familia alguien cobra aguinaldo o tiene vacaciones pagas, está usando derechos como estos.",
+   "claves": [
+    "aguinaldo",
+    "vacaciones",
+    "indemnizacion",
+    "gratuidad universitaria",
+    "fundacion eva peron",
+    "derechos laborales"
+   ],
+   "parte": "Derechos y medidas del peronismo"
+  },
+  {
+   "id": "his-4-04-c2-33",
+   "clase": "his-4-04",
+   "capsula": "c2",
+   "boton": "El voto de las mujeres",
+   "otra_manera": "En 1947 se sancionó la **ley 13.010**, que reconoció el derecho al voto de las mujeres. Eva Perón tuvo un rol muy importante en esa lucha, que venía de décadas de reclamos de organizaciones feministas. Las mujeres votaron por primera vez en elecciones nacionales en 1951.",
+   "vida_real": "Un derecho se reconoce en una ley, pero detrás suele haber años de personas reclamándolo.",
+   "claves": [
+    "voto femenino",
+    "mujeres",
+    "ley 13010",
+    "eva peron",
+    "evita",
+    "1947",
+    "1951"
+   ],
+   "parte": "Derechos y medidas del peronismo"
+  },
+  {
+   "id": "his-4-04-c2-34",
+   "clase": "his-4-04",
+   "capsula": "c2",
+   "boton": "Antes y durante el peronismo",
+   "otra_manera": "Antes de 1946 las mujeres no votaban, los derechos laborales eran limitados y muy desiguales, y el Estado estaba poco presente en lo social. Durante el primer peronismo se reconoció el voto femenino, se ampliaron los derechos laborales (aguinaldo, vacaciones pagas, indemnizaciones) y el Estado pasó a garantizar derechos y servicios.",
+   "vida_real": null,
+   "claves": [
+    "antes",
+    "durante",
+    "comparar",
+    "cambios"
+   ],
+   "parte": "Derechos y medidas del peronismo"
+  },
+  {
+   "id": "his-4-04-c3-35",
+   "clase": "his-4-04",
+   "capsula": "c3",
+   "boton": "Cómo funcionaba el modelo económico peronista",
+   "otra_manera": "El **Estado intervenía**: planificaba la economía y controlaba áreas clave, como el comercio exterior y los servicios. Se protegía la industria para que produjera para el mercado interno. Subían los salarios, así que los trabajadores tenían más poder de compra. Crecía el consumo, y eso impulsaba más producción. Además se **nacionalizaron** servicios (como los ferrocarriles, en 1948), se reguló el comercio exterior con el IAPI y se hicieron **planes quinquenales** (planes económicos para cinco años).",
+   "vida_real": "Es como un círculo: si la gente gana más, compra más; si compra más, las fábricas producen más.",
+   "claves": [
+    "modelo economico",
+    "economia",
+    "nacionalizacion",
+    "iapi",
+    "planes quinquenales",
+    "industria",
+    "salarios"
+   ],
+   "parte": "El Estado, la economía y el final"
+  },
+  {
+   "id": "his-4-04-c3-36",
+   "clase": "his-4-04",
+   "capsula": "c3",
+   "boton": "Otros gobiernos populares de América Latina",
+   "otra_manera": "En Brasil, Getúlio Vargas tuvo apoyo de los trabajadores urbanos e impulsó la industrialización y los derechos laborales. En México, Lázaro Cárdenas hizo una reforma agraria, nacionalizó el petróleo (1938) y tuvo apoyo de sectores populares. Con Perón tienen en común el apoyo de sectores populares, un Estado fuerte en la economía y derechos sociales.",
+   "vida_real": "Es una misma idea aplicada en tres países, cada uno con lo suyo.",
+   "claves": [
+    "gobiernos populares",
+    "vargas",
+    "cardenas",
+    "brasil",
+    "mexico",
+    "america latina"
+   ],
+   "parte": "El Estado, la economía y el final"
+  },
+  {
+   "id": "his-4-04-c3-37",
+   "clase": "his-4-04",
+   "capsula": "c3",
+   "boton": "Democracia de masas y sus tensiones",
+   "otra_manera": "Se habla de **democracia de masas** porque grandes sectores populares (trabajadores, mujeres) se incorporaron a la política. Pero hubo **tensiones**: la oposición sufrió restricciones, la prensa estuvo bajo control del Estado y las diferencias políticas eran muy duras.",
+   "vida_real": "Es como un grupo donde por primera vez participan todas las personas, pero algunas voces no pueden expresarse libremente.",
+   "claves": [
+    "democracia de masas",
+    "tensiones",
+    "oposicion",
+    "prensa",
+    "masas"
+   ],
+   "parte": "El Estado, la economía y el final"
+  },
+  {
+   "id": "his-4-04-c3-38",
+   "clase": "his-4-04",
+   "capsula": "c3",
+   "boton": "El final del gobierno de Perón",
+   "otra_manera": "En sus últimos años, el gobierno enfrentó dificultades económicas y fuertes conflictos con la oposición y con sectores de la Iglesia y de las Fuerzas Armadas. El 16 de septiembre de 1955 un golpe de Estado, que se llamó \"Revolución Libertadora\", derrocó a Perón, que estaba en su segundo gobierno.",
+   "vida_real": null,
+   "claves": [
+    "final",
+    "1955",
+    "revolucion libertadora",
+    "caida",
+    "golpe del 55",
+    "golpe de 1955"
+   ],
+   "parte": "El Estado, la economía y el final"
+  },
+  {
+   "id": "his-4-06-c1-39",
+   "clase": "his-4-06",
+   "capsula": "c1",
+   "boton": "Qué fue la Guerra Fría",
+   "otra_manera": "Después de 1945 quedaron dos superpotencias: **Estados Unidos**, que defendía el capitalismo, y la **URSS**, que defendía el comunismo. Compitieron por influencia en todo el mundo, pero nunca pelearon directamente entre ellas. Por eso se la llamó **Guerra Fría**, y duró hasta 1991.",
+   "vida_real": "Es como dos equipos muy fuertes que nunca juegan entre sí, pero que se disputan jugadores, hinchas y barrios en toda la ciudad.",
+   "claves": [
+    "guerra fria",
+    "superpotencias",
+    "1945",
+    "estados unidos",
+    "urss"
+   ],
+   "parte": "Un mundo dividido en tres"
+  },
+  {
+   "id": "his-4-06-c1-40",
+   "clase": "his-4-06",
+   "capsula": "c1",
+   "boton": "Los tres mundos",
+   "otra_manera": "El **Primer Mundo** era el bloque capitalista (Estados Unidos, Europa occidental). El **Segundo Mundo**, el bloque comunista (la URSS y Europa del Este). Y el **Tercer Mundo**, los países que no pertenecían a ninguno de los dos: muchos de Asia y África, y también América Latina.",
+   "vida_real": "Pensalo como una escuela con dos grupos muy marcados y un tercer grupo de chicos y chicas que no se suman a ninguno de los dos.",
+   "claves": [
+    "primer mundo",
+    "segundo mundo",
+    "tres mundos",
+    "bloques"
+   ],
+   "parte": "Un mundo dividido en tres"
+  },
+  {
+   "id": "his-4-06-c1-41",
+   "clase": "his-4-06",
+   "capsula": "c1",
+   "boton": "El Tercer Mundo y la descolonización",
+   "otra_manera": "Muchos países del Tercer Mundo se estaban **independizando** de las potencias europeas que los habían colonizado: eso es la **descolonización**. Tenían problemas en común: pobreza, poca industria y economías que dependían de vender materias primas. El nombre no significa \"tercer puesto\", sino \"el que no pertenece a los otros dos\".",
+   "vida_real": "Es como alguien que acaba de independizarse de su familia: quiere decidir por su cuenta y no quedar bajo el control de nadie más.",
+   "claves": [
+    "tercer mundo",
+    "descolonizacion",
+    "independencia",
+    "pobreza"
+   ],
+   "parte": "Un mundo dividido en tres"
+  },
+  {
+   "id": "his-4-06-c2-42",
+   "clase": "his-4-06",
+   "capsula": "c2",
+   "boton": "Qué buscaban los No Alineados",
+   "otra_manera": "**No alinearse** quería decir no sumarse a ninguno de los dos bloques. Estos países defendían la **independencia** (no depender de ninguna superpotencia), el **rechazo al colonialismo**, la **paz** y el **desarrollo**.",
+   "vida_real": "Es como no querer ser \"de un grupo\" en la escuela para poder decidir por tu cuenta con quién juntarte.",
+   "claves": [
+    "no alineados",
+    "alinearse",
+    "independencia",
+    "que buscaban"
+   ],
+   "parte": "Los No Alineados y el conflicto Norte-Sur"
+  },
+  {
+   "id": "his-4-06-c2-43",
+   "clase": "his-4-06",
+   "capsula": "c2",
+   "boton": "De Bandung a Belgrado",
+   "otra_manera": "Primero vino la descolonización: la India se independizó en 1947 y en 1960 lo hicieron 17 países africanos. En 1955 se reunieron en **Bandung** (Indonesia) 29 países de Asia y África. Y en 1961, en **Belgrado**, fundaron el **Movimiento de Países No Alineados**, con líderes como Nehru, Nasser, Tito, Sukarno y Nkrumah.",
+   "vida_real": null,
+   "claves": [
+    "bandung",
+    "belgrado",
+    "1955",
+    "1961",
+    "linea de tiempo"
+   ],
+   "parte": "Los No Alineados y el conflicto Norte-Sur"
+  },
+  {
+   "id": "his-4-06-c2-44",
+   "clase": "his-4-06",
+   "capsula": "c2",
+   "boton": "Norte y Sur: otra forma de ver el conflicto",
+   "otra_manera": "En la Guerra Fría, el conflicto se pensaba como **Este contra Oeste**: comunismo contra capitalismo. Los países del Tercer Mundo propusieron otra mirada: **Norte contra Sur**. El Norte era rico e industrializado; el Sur, pobre y vendedor de materias primas. Para el Sur, el problema central era la **desigualdad**.",
+   "vida_real": "Es como discutir si un barrio es de un club o de otro, cuando el verdadero problema es que una parte del barrio tiene todo y la otra casi nada.",
+   "claves": [
+    "norte",
+    "sur",
+    "norte sur",
+    "este oeste",
+    "desigualdad"
+   ],
+   "parte": "Los No Alineados y el conflicto Norte-Sur"
+  },
+  {
+   "id": "his-4-06-c2-45",
+   "clase": "his-4-06",
+   "capsula": "c2",
+   "boton": "Vender barato y comprar caro",
+   "otra_manera": "El economista argentino **Raúl Prebisch**, desde la CEPAL, explicó que con el tiempo los productos del campo valen cada vez menos comparados con los productos industriales. Por eso el Sur trabajaba más y seguía siendo pobre.",
+   "vida_real": "Es como si cada año tuvieras que vender más bolsas de trigo para comprar el mismo tractor.",
+   "claves": [
+    "prebisch",
+    "cepal",
+    "materias primas"
+   ],
+   "parte": "Los No Alineados y el conflicto Norte-Sur"
+  },
+  {
+   "id": "his-4-06-c3-46",
+   "clase": "his-4-06",
+   "capsula": "c3",
+   "boton": "Cuba antes de 1959",
+   "otra_manera": "Cuba estaba gobernada por un dictador, **Fulgencio Batista**. Su economía dependía mucho de **Estados Unidos**: empresas estadounidenses controlaban gran parte del azúcar, la principal exportación. Había mucha pobreza en el campo y mucha desigualdad.",
+   "vida_real": null,
+   "claves": [
+    "batista",
+    "antes de 1959",
+    "cuba"
+   ],
+   "parte": "La Revolución Cubana y América Latina"
+  },
+  {
+   "id": "his-4-06-c3-47",
+   "clase": "his-4-06",
+   "capsula": "c3",
+   "boton": "Cómo triunfó la revolución",
+   "otra_manera": "En 1953, un grupo liderado por **Fidel Castro** atacó el cuartel Moncada y fracasó. En 1956 llegaron en el barco Granma y formaron una **guerrilla** en la Sierra Maestra, con el **Che Guevara**, nacido en Rosario. El **1 de enero de 1959** Batista huyó y los revolucionarios tomaron el poder.",
+   "vida_real": null,
+   "claves": [
+    "triunfo",
+    "fidel",
+    "castro",
+    "guevara",
+    "che",
+    "1959",
+    "moncada",
+    "granma"
+   ],
+   "parte": "La Revolución Cubana y América Latina"
+  },
+  {
+   "id": "his-4-06-c3-48",
+   "clase": "his-4-06",
+   "capsula": "c3",
+   "boton": "El nuevo gobierno y la reacción de Estados Unidos",
+   "otra_manera": "El gobierno revolucionario hizo una **reforma agraria**, **nacionalizó** empresas (muchas estadounidenses) y en 1961 hizo una campaña de **alfabetización**. Estados Unidos rompió relaciones, apoyó la invasión de **Bahía de Cochinos** e impuso un **bloqueo económico**. Cuba se acercó a la URSS y se declaró socialista. En 1962, la **crisis de los misiles** hizo temer una guerra nuclear.",
+   "vida_real": "Es una cadena de acción y reacción: cada medida de un lado provocaba una respuesta más dura del otro.",
+   "claves": [
+    "medidas",
+    "reforma agraria",
+    "bloqueo",
+    "cochinos",
+    "misiles",
+    "urss",
+    "estados unidos"
+   ],
+   "parte": "La Revolución Cubana y América Latina"
+  },
+  {
+   "id": "his-4-06-c3-49",
+   "clase": "his-4-06",
+   "capsula": "c3",
+   "boton": "Logros y límites de la revolución",
+   "otra_manera": "Como **logros** se destacan la alfabetización, la educación y la salud pública para toda la población, y la independencia frente a Estados Unidos. Como **límites** se critican el partido único, la falta de elecciones libres, la persecución a opositores y que muchas personas se fueron del país.",
+   "vida_real": "Es como evaluar a alguien en un trabajo en grupo: puede haber hecho cosas muy buenas y, a la vez, no haber dejado opinar al resto. Para ser justo, hay que mirar las dos caras.",
+   "claves": [
+    "logros",
+    "limites",
+    "criticas"
+   ],
+   "parte": "La Revolución Cubana y América Latina"
+  },
+  {
+   "id": "his-4-06-c3-50",
+   "clase": "his-4-06",
+   "capsula": "c3",
+   "boton": "El impacto en América Latina",
+   "otra_manera": "Para muchos jóvenes, trabajadores y estudiantes, la revolución mostró que un cambio profundo era posible: surgieron **guerrillas** inspiradas en ella y también influyó en la música y el arte. Estados Unidos quiso evitar \"otra Cuba\": lanzó la **Alianza para el Progreso** (1961) y **apoyó golpes de Estado**, como los de Brasil (1964) y Chile (1973).",
+   "vida_real": "Cuando algo cambia en un lugar, unos lo toman como ejemplo y otros hacen todo lo posible para que no se repita en su casa.",
+   "claves": [
+    "impacto",
+    "america latina",
+    "guerrillas",
+    "alianza para el progreso",
+    "golpes"
+   ],
+   "parte": "La Revolución Cubana y América Latina"
+  },
+  {
+   "id": "his-4-05-c1-51",
+   "clase": "his-4-05",
+   "capsula": "c1",
+   "boton": "Qué es la distribución de la riqueza",
+   "otra_manera": "Todo lo que produce un país en un año es su **riqueza** o **ingreso nacional**. Se reparte: una parte va a los trabajadores como **salarios** y otra a los dueños de empresas y tierras como **ganancias** y **rentas**. El reparto no es natural ni fijo: depende de la fuerza de cada grupo y de lo que decide el **Estado**.",
+   "vida_real": "Es como repartir una torta que hicieron entre todos: si nadie pone reglas, quien tiene más poder se lleva la porción más grande.",
+   "claves": [
+    "riqueza",
+    "distribucion",
+    "ingreso",
+    "reparto"
+   ],
+   "parte": "¿Cómo se reparte la riqueza?"
+  },
+  {
+   "id": "his-4-05-c1-52",
+   "clase": "his-4-05",
+   "capsula": "c1",
+   "boton": "Quiénes se disputaban la riqueza",
+   "otra_manera": "Por un lado, los **sectores empresariales**: terratenientes y ganaderos (Sociedad Rural Argentina, 1866) e industriales (Unión Industrial Argentina, 1887). Querían más ganancias, menos impuestos y menos costos. Por el otro, el **movimiento obrero**: trabajadores organizados en sindicatos, que en 1930 formaron la **CGT**. Querían mejores salarios y condiciones de trabajo.",
+   "vida_real": "Es como una negociación entre dos equipos: cada uno tiene su organización y sus formas de presionar para conseguir lo que quiere.",
+   "claves": [
+    "quienes",
+    "empresarios",
+    "movimiento obrero",
+    "sociedad rural",
+    "cgt",
+    "union industrial"
+   ],
+   "parte": "¿Cómo se reparte la riqueza?"
+  },
+  {
+   "id": "his-4-05-c2-53",
+   "clase": "his-4-05",
+   "capsula": "c2",
+   "boton": "A quién favorecía el Estado conservador",
+   "otra_manera": "Entre 1930 y 1943, los gobiernos de la Década Infame intervinieron en la economía, pero sobre todo para **proteger a los grandes productores**, exportadores y empresas, muchas extranjeras. Los trabajadores tenían salarios bajos, jornadas largas y pocos derechos, y sus huelgas muchas veces eran reprimidas.",
+   "vida_real": "Es como un árbitro que siempre cobra a favor del mismo equipo: el partido se juega, pero el resultado está inclinado.",
+   "claves": [
+    "estado conservador",
+    "decada infame",
+    "grandes productores",
+    "a quien favorecia"
+   ],
+   "parte": "1930-1943: un Estado a favor de los grandes productores"
+  },
+  {
+   "id": "his-4-05-c2-54",
+   "clase": "his-4-05",
+   "capsula": "c2",
+   "boton": "Los mecanismos de 1930-1943",
+   "otra_manera": "El Estado usó varias herramientas: el **control de cambios** (1931), las **juntas reguladoras** de granos y carnes (1933), el **Pacto Roca-Runciman** (1933), que favoreció a los grandes ganaderos y a empresas británicas, y el **Banco Central** (1935).",
+   "vida_real": null,
+   "claves": [
+    "mecanismos",
+    "control de cambios",
+    "juntas",
+    "roca runciman",
+    "banco central"
+   ],
+   "parte": "1930-1943: un Estado a favor de los grandes productores"
+  },
+  {
+   "id": "his-4-05-c2-55",
+   "clase": "his-4-05",
+   "capsula": "c2",
+   "boton": "El movimiento obrero crece",
+   "otra_manera": "Con la industrialización había cada vez más obreros en las ciudades. Los sindicatos se fortalecieron, formaron la **CGT** (1930) y hubo grandes huelgas, como la **huelga de la construcción** (1935-1936), que paralizó Buenos Aires. Pero los salarios casi no mejoraban mientras la industria crecía.",
+   "vida_real": "Es como una empresa que vende cada vez más, pero el sueldo de quienes trabajan ahí queda igual.",
+   "claves": [
+    "movimiento obrero",
+    "huelga",
+    "construccion",
+    "cgt",
+    "sindicatos"
+   ],
+   "parte": "1930-1943: un Estado a favor de los grandes productores"
+  },
+  {
+   "id": "his-4-05-c3-56",
+   "clase": "his-4-05",
+   "capsula": "c3",
+   "boton": "Un Estado que arbitra a favor de los trabajadores",
+   "otra_manera": "Desde 1943, con Perón, el Estado actuó como **árbitro** entre empresarios y trabajadores, pero inclinando la balanza a favor de los trabajadores. Buscó **redistribuir el ingreso**: que una parte mayor de la riqueza llegara a los salarios. Hacia 1950, los salarios alcanzaron cerca de la mitad del ingreso nacional.",
+   "vida_real": "Es el mismo árbitro de antes, pero ahora cobrando a favor del otro equipo.",
+   "claves": [
+    "arbitro",
+    "redistribucion",
+    "estado peronista",
+    "peron"
+   ],
+   "parte": "1943-1955: un Estado que arbitra a favor de los trabajadores"
+  },
+  {
+   "id": "his-4-05-c3-57",
+   "clase": "his-4-05",
+   "capsula": "c3",
+   "boton": "Los mecanismos de 1943-1955",
+   "otra_manera": "**Convenios colectivos** (sindicatos y empresarios negocian, con el Estado en el medio), **nuevos derechos** (aguinaldo, vacaciones pagas, indemnización, Estatuto del Peón de 1944), **control de precios y alquileres**, el **IAPI** (compraba la cosecha a precio fijo y la vendía más cara afuera) y **crédito para la industria**.",
+   "vida_real": "Hoy, cuando escuchás hablar de \"paritarias\", es lo mismo que un convenio colectivo: sindicatos y empresarios negocian los salarios.",
+   "claves": [
+    "mecanismos",
+    "convenios",
+    "iapi",
+    "control de precios",
+    "estatuto del peon"
+   ],
+   "parte": "1943-1955: un Estado que arbitra a favor de los trabajadores"
+  },
+  {
+   "id": "his-4-05-c3-58",
+   "clase": "his-4-05",
+   "capsula": "c3",
+   "boton": "Cómo reaccionaron los empresarios",
+   "otra_manera": "No todos igual. La **Sociedad Rural** se opuso al IAPI, porque se quedaba con parte de lo que ganaban con sus cosechas. La **Unión Industrial** se opuso al principio a las leyes laborales. Pero muchos **industriales pequeños y medianos**, que vendían en el mercado interno, apoyaron al gobierno: en 1952 formaron la **CGE**.",
+   "vida_real": "Si tenés un negocio en tu ciudad y la gente gana más, te compra más: por eso a algunos empresarios les convenía que subieran los salarios.",
+   "claves": [
+    "empresarios",
+    "reaccion",
+    "sociedad rural",
+    "cge",
+    "union industrial"
+   ],
+   "parte": "1943-1955: un Estado que arbitra a favor de los trabajadores"
+  },
+  {
+   "id": "his-4-05-c3-59",
+   "clase": "his-4-05",
+   "capsula": "c3",
+   "boton": "Cuando el reparto se complica",
+   "otra_manera": "Desde 1949 bajaron los precios de las exportaciones y hubo sequías: había menos riqueza para repartir. En 1952 el gobierno **congeló los salarios** por dos años y pidió ahorrar. En 1955 organizó el **Congreso de la Productividad** para pedir a los trabajadores producir más. Los empresarios reclamaban menos poder para los sindicatos.",
+   "vida_real": "Cuando la torta se achica, cada grupo pelea más por su porción.",
+   "claves": [
+    "1949",
+    "1952",
+    "crisis",
+    "productividad",
+    "congelamiento"
+   ],
+   "parte": "1943-1955: un Estado que arbitra a favor de los trabajadores"
+  },
+  {
+   "id": "his-4-07-c1-60",
+   "clase": "his-4-07",
+   "capsula": "c1",
+   "boton": "La proscripción y la legitimidad",
+   "otra_manera": "Desde 1955, el peronismo **no podía presentarse a elecciones**, aunque tenía un gran apoyo popular. Hubo presidentes elegidos por el voto, pero sin que pudiera participar una de las principales fuerzas. Por eso se habla de un problema de **legitimidad**: una parte importante de la sociedad no podía votar a quien prefería.",
+   "vida_real": "Es como una elección de centro de estudiantes donde una de las listas con más apoyo no puede presentarse: gane quien gane, una parte del curso no se siente representada.",
+   "claves": [
+    "proscripcion",
+    "legitimidad",
+    "peronismo",
+    "1955"
+   ],
+   "parte": "1955-1966: una democracia con restricciones"
+  },
+  {
+   "id": "his-4-07-c1-61",
+   "clase": "his-4-07",
+   "capsula": "c1",
+   "boton": "Golpes y gobiernos entre 1955 y 1966",
+   "otra_manera": "Hubo tres golpes de Estado: en **1955** (cae Perón), en **1962** (cae Frondizi, elegido en 1958) y en **1966** (cae Illia, elegido en 1963). Ningún presidente elegido terminó su mandato, y las **Fuerzas Armadas** decidían si un gobierno civil podía seguir o no.",
+   "vida_real": null,
+   "claves": [
+    "golpes",
+    "frondizi",
+    "illia",
+    "fuerzas armadas",
+    "1962",
+    "1966"
+   ],
+   "parte": "1955-1966: una democracia con restricciones"
+  },
+  {
+   "id": "his-4-07-c1-62",
+   "clase": "his-4-07",
+   "capsula": "c1",
+   "boton": "La Resistencia peronista",
+   "otra_manera": "Después de 1955, muchos trabajadores y sindicatos se organizaron para reclamar por la vuelta de Perón y por sus derechos. A eso se lo llama **Resistencia peronista**: incluyó huelgas, protestas y, en algunos casos, sabotajes.",
+   "vida_real": null,
+   "claves": [
+    "resistencia",
+    "sindicatos",
+    "huelgas"
+   ],
+   "parte": "1955-1966: una democracia con restricciones"
+  },
+  {
+   "id": "his-4-07-c2-63",
+   "clase": "his-4-07",
+   "capsula": "c2",
+   "boton": "Onganía y la Revolución Argentina",
+   "otra_manera": "En 1966, el general **Onganía** tomó el poder sin fijar fecha para volver a elecciones: disolvió el Congreso, **prohibió los partidos políticos** e intervino las universidades (la **Noche de los Bastones Largos**).",
+   "vida_real": "Cuando se cierran los canales para opinar y votar, los reclamos buscan otros caminos.",
+   "claves": [
+    "ongania",
+    "1966",
+    "bastones largos",
+    "partidos"
+   ],
+   "parte": "1966-1976: Onganía, protestas y violencia política"
+  },
+  {
+   "id": "his-4-07-c2-64",
+   "clase": "his-4-07",
+   "capsula": "c2",
+   "boton": "El Cordobazo",
+   "otra_manera": "En mayo de 1969, en Córdoba, **obreros y estudiantes** protestaron juntos contra el gobierno de Onganía. Fue una de las protestas más grandes de esos años y el gobierno militar entró en crisis.",
+   "vida_real": null,
+   "claves": [
+    "cordobazo",
+    "1969",
+    "cordoba",
+    "obreros",
+    "estudiantes"
+   ],
+   "parte": "1966-1976: Onganía, protestas y violencia política"
+  },
+  {
+   "id": "his-4-07-c2-65",
+   "clase": "his-4-07",
+   "capsula": "c2",
+   "boton": "De la vuelta de Perón a 1976",
+   "otra_manera": "En **1973** se levantó la proscripción y Perón fue elegido presidente por tercera vez. Murió en **1974** y asumió la vicepresidenta, María Estela Martínez de Perón. Creció la **violencia política**: actuaron organizaciones armadas (como Montoneros y el ERP) y grupos paraestatales como la **Triple A**. En 1975, el **Rodrigazo** agravó la crisis económica.",
+   "vida_real": null,
+   "claves": [
+    "1973",
+    "1974",
+    "violencia",
+    "triple a",
+    "rodrigazo",
+    "montoneros"
+   ],
+   "parte": "1966-1976: Onganía, protestas y violencia política"
+  },
+  {
+   "id": "his-4-07-c3-66",
+   "clase": "his-4-07",
+   "capsula": "c3",
+   "boton": "Qué es el terrorismo de Estado",
+   "otra_manera": "Es cuando el propio **Estado**, que debería proteger a las personas, usa sus fuerzas de manera **ilegal y clandestina** contra la población. Entre 1976 y 1983 hubo un **plan sistemático**: secuestros, centros clandestinos de detención, torturas, desapariciones y apropiación de bebés. Todo esto fue probado por la Justicia.",
+   "vida_real": null,
+   "claves": [
+    "terrorismo de estado",
+    "desaparecidos",
+    "dictadura",
+    "1976"
+   ],
+   "parte": "1976-1983: la última dictadura y el terrorismo de Estado"
+  },
+  {
+   "id": "his-4-07-c3-67",
+   "clase": "his-4-07",
+   "capsula": "c3",
+   "boton": "La dictadura de 1976",
+   "otra_manera": "El **24 de marzo de 1976** las Fuerzas Armadas tomaron el poder y gobernó una **Junta Militar**. Se cerró el Congreso, se prohibieron los partidos y la actividad sindical, y hubo **censura** en los medios, la educación y la cultura.",
+   "vida_real": null,
+   "claves": [
+    "24 de marzo",
+    "junta militar",
+    "censura",
+    "golpe"
+   ],
+   "parte": "1976-1983: la última dictadura y el terrorismo de Estado"
+  },
+  {
+   "id": "his-4-07-c3-68",
+   "clase": "his-4-07",
+   "capsula": "c3",
+   "boton": "Madres, Abuelas y la vuelta de la democracia",
+   "otra_manera": "Desde 1977, las **Madres** y las **Abuelas de Plaza de Mayo** reclamaron por sus hijos, hijas, nietos y nietas. La derrota en **Malvinas** (1982) debilitó al gobierno militar. El 30 de octubre de 1983 hubo elecciones y asumió **Raúl Alfonsín**. La **CONADEP** publicó el \"Nunca Más\" (1984) y en 1985 el **Juicio a las Juntas** condenó a los máximos responsables.",
+   "vida_real": "En democracia, los delitos se investigan y se juzgan con pruebas y derecho a defensa: eso es lo que mostró el Juicio a las Juntas.",
+   "claves": [
+    "madres",
+    "abuelas",
+    "malvinas",
+    "1983",
+    "alfonsin",
+    "conadep",
+    "juicio"
+   ],
+   "parte": "1976-1983: la última dictadura y el terrorismo de Estado"
+  },
+  {
+   "id": "his-4-08-c1-69",
+   "clase": "his-4-08",
+   "capsula": "c1",
+   "boton": "Qué propone el neoliberalismo",
+   "otra_manera": "El **neoliberalismo** propone que el Estado **intervenga lo menos posible** y que la economía funcione con las reglas del **mercado**: privatizar empresas públicas, abrir la economía a lo importado y desregular. Es lo contrario del **Estado interventor**, que planificaba y regulaba.",
+   "vida_real": "Es como pasar de un árbitro que interviene en cada jugada a uno que deja jugar casi todo.",
+   "claves": [
+    "neoliberalismo",
+    "que propone",
+    "mercado",
+    "estado interventor"
+   ],
+   "parte": "¿Qué es el neoliberalismo?"
+  },
+  {
+   "id": "his-4-08-c1-70",
+   "clase": "his-4-08",
+   "capsula": "c1",
+   "boton": "El Consenso de Washington",
+   "otra_manera": "En **1989**, economistas de organismos internacionales con sede en Washington resumieron recomendaciones para América Latina: **controlar el gasto** del Estado, **abrir** la economía, **privatizar** y **desregular**.",
+   "vida_real": null,
+   "claves": [
+    "consenso de washington",
+    "1989",
+    "recomendaciones"
+   ],
+   "parte": "¿Qué es el neoliberalismo?"
+  },
+  {
+   "id": "his-4-08-c1-71",
+   "clase": "his-4-08",
+   "capsula": "c1",
+   "boton": "Un debate abierto",
+   "otra_manera": "Quienes **defienden** el neoliberalismo sostienen que genera competencia, inversiones y crecimiento. Quienes lo **critican** sostienen que deja sin protección a la industria y a los trabajadores y aumenta la desigualdad. Conocer los dos lados te permite sacar tus propias conclusiones.",
+   "vida_real": null,
+   "claves": [
+    "debate",
+    "defensores",
+    "criticos"
+   ],
+   "parte": "¿Qué es el neoliberalismo?"
+  },
+  {
+   "id": "his-4-08-c2-72",
+   "clase": "his-4-08",
+   "capsula": "c2",
+   "boton": "Las primeras aplicaciones, en dictaduras",
+   "otra_manera": "Las primeras políticas neoliberales de América Latina se aplicaron durante **dictaduras**, sin Congreso, partidos ni sindicatos: en **Chile** desde 1973 (Pinochet) y en la **Argentina** desde 1976. Por eso el diseño curricular pide estudiarlas junto con el terrorismo de Estado.",
+   "vida_real": null,
+   "claves": [
+    "chile",
+    "pinochet",
+    "dictaduras",
+    "1976"
+   ],
+   "parte": "Neoliberalismo y dictaduras: Chile y la Argentina"
+  },
+  {
+   "id": "his-4-08-c2-73",
+   "clase": "his-4-08",
+   "capsula": "c2",
+   "boton": "La economía argentina desde 1976",
+   "otra_manera": "El ministro **Martínez de Hoz** abrió la economía a los productos importados, hizo una **reforma financiera** (1977) y redujo regulaciones. Muchas fábricas no pudieron competir y cerraron, creció la **deuda externa** y en 1982 el Estado se hizo cargo de gran parte de la deuda privada.",
+   "vida_real": "Si en el kiosco de tu barrio entran productos importados más baratos, el que fabricaba esos productos acá puede quedarse sin clientes.",
+   "claves": [
+    "martinez de hoz",
+    "apertura",
+    "deuda externa",
+    "fabricas"
+   ],
+   "parte": "Neoliberalismo y dictaduras: Chile y la Argentina"
+  },
+  {
+   "id": "his-4-08-c3-74",
+   "clase": "his-4-08",
+   "capsula": "c3",
+   "boton": "La convertibilidad",
+   "otra_manera": "En **1989** hubo **hiperinflación**: los precios cambiaban de un día para otro. En **1991**, la **convertibilidad** estableció por ley que un peso valía un dólar (\"el uno a uno\"), y la inflación bajó mucho. Duró hasta 2002.",
+   "vida_real": "Con hiperinflación, el precio de algo podía cambiar entre la mañana y la tarde; con la convertibilidad, los precios se quedaron quietos.",
+   "claves": [
+    "convertibilidad",
+    "uno a uno",
+    "hiperinflacion",
+    "1991",
+    "1989"
+   ],
+   "parte": "Los años 90: neoliberalismo en democracia"
+  },
+  {
+   "id": "his-4-08-c3-75",
+   "clase": "his-4-08",
+   "capsula": "c3",
+   "boton": "Las privatizaciones",
+   "otra_manera": "Con la **Ley de Reforma del Estado** (1989) se privatizaron muchas empresas públicas: teléfonos, aerolínea, ferrocarriles, YPF, gas, electricidad y agua. También se abrió la economía y se desregularon actividades.",
+   "vida_real": null,
+   "claves": [
+    "privatizaciones",
+    "reforma del estado",
+    "ypf",
+    "empresas publicas"
+   ],
+   "parte": "Los años 90: neoliberalismo en democracia"
+  },
+  {
+   "id": "his-4-08-c3-76",
+   "clase": "his-4-08",
+   "capsula": "c3",
+   "boton": "Defensores y críticos de los años 90",
+   "otra_manera": "Quienes **defienden** esas políticas destacan el fin de la hiperinflación, la estabilidad de precios y la llegada de inversiones. Quienes las **critican** señalan el endeudamiento, el cierre de fábricas y la desocupación, que llegó a su nivel más alto en 1995.",
+   "vida_real": "Una misma política puede ser vivida de manera muy distinta: quien sufría la hiperinflación valoró la estabilidad; quien perdió su trabajo vivió otra realidad.",
+   "claves": [
+    "defensores",
+    "criticos",
+    "desocupacion",
+    "estabilidad",
+    "debate"
+   ],
+   "parte": "Los años 90: neoliberalismo en democracia"
+  },
+  {
+   "id": "his-4-09-c1-77",
+   "clase": "his-4-09",
+   "capsula": "c1",
+   "boton": "La globalización financiera",
+   "otra_manera": "En los años 90, el dinero empezó a moverse muy rápido entre países. Cuando los inversores desconfiaban de un país, retiraban su dinero de golpe y provocaban crisis: México (1994), Asia (1997), Rusia (1998), Brasil (1999). La Argentina dependía de la llegada de dólares para sostener la convertibilidad.",
+   "vida_real": "Es como un grupo que junta dinero en un fondo común: si circula un rumor y todos retiran su parte de golpe, el fondo se queda vacío, aunque el rumor fuera falso.",
+   "claves": [
+    "globalizacion",
+    "crisis financieras",
+    "mexico",
+    "asia"
+   ],
+   "parte": "La crisis de 2001"
+  },
+  {
+   "id": "his-4-09-c1-78",
+   "clase": "his-4-09",
+   "capsula": "c1",
+   "boton": "Diciembre de 2001",
+   "otra_manera": "Desde 1998 la Argentina estaba en **recesión**. A fines de 2001, el **corralito** limitó cuánto dinero se podía sacar de los bancos. El 19 y 20 de diciembre hubo grandes protestas; el presidente renunció y en dos semanas hubo cinco presidentes. En enero de 2002 terminó la convertibilidad y el peso se **devaluó**.",
+   "vida_real": null,
+   "claves": [
+    "2001",
+    "corralito",
+    "diciembre",
+    "recesion",
+    "devaluacion"
+   ],
+   "parte": "La crisis de 2001"
+  },
+  {
+   "id": "his-4-09-c2-79",
+   "clase": "his-4-09",
+   "capsula": "c2",
+   "boton": "Nuevos actores en la Argentina",
+   "otra_manera": "Como mucha gente quedó **sin trabajo y sin sindicato**, surgieron nuevas formas de organización: **movimientos de desocupados** (con cortes de ruta o \"piquetes\"), **asambleas barriales**, **empresas recuperadas** por sus trabajadores (cooperativas) y **clubes de trueque**.",
+   "vida_real": "Cuando las formas de siempre no alcanzan, la gente inventa otras: vecinos que se juntan en la plaza o trabajadores que vuelven a abrir la fábrica donde trabajaban.",
+   "claves": [
+    "nuevos actores",
+    "asambleas",
+    "trueque",
+    "recuperadas",
+    "piquetes",
+    "desocupados"
+   ],
+   "parte": "Nuevos actores sociales"
+  },
+  {
+   "id": "his-4-09-c2-80",
+   "clase": "his-4-09",
+   "capsula": "c2",
+   "boton": "Nuevos actores en América Latina",
+   "otra_manera": "En **Brasil**, el **Movimiento Sin Tierra** (1984) reclama tierra para trabajar. En **México**, los **zapatistas** (1994, Chiapas) reclaman derechos para los pueblos indígenas. En **Bolivia** y **Ecuador**, las organizaciones indígenas ganaron un lugar importante en la política.",
+   "vida_real": null,
+   "claves": [
+    "america latina",
+    "sin tierra",
+    "zapatistas",
+    "indigenas"
+   ],
+   "parte": "Nuevos actores sociales"
+  },
+  {
+   "id": "his-4-09-c3-81",
+   "clase": "his-4-09",
+   "capsula": "c3",
+   "boton": "Un nuevo rol del Estado",
+   "otra_manera": "Después de las crisis, el Estado **volvió a intervenir más**: con regulaciones, programas sociales (como la Asignación Universal por Hijo, 2009) y empresas que volvieron a manos del Estado (fondos de jubilación y Aerolíneas en 2008, la mayoría de YPF en 2012). Quienes apoyan estos cambios dicen que el Estado recuperó herramientas; quienes los critican, que aumentaron el gasto y la intervención. El debate sigue abierto.",
+   "vida_real": null,
+   "claves": [
+    "rol del estado",
+    "intervencion",
+    "debate",
+    "ypf",
+    "asignacion"
+   ],
+   "parte": "Un nuevo rol del Estado y la integración regional"
+  },
+  {
+   "id": "his-4-09-c3-82",
+   "clase": "his-4-09",
+   "capsula": "c3",
+   "boton": "La integración regional",
+   "otra_manera": "Los países de la región buscaron unirse para comerciar más y tener más fuerza: el **Mercosur** (1991: Argentina, Brasil, Paraguay y Uruguay), la **Unasur** (2008: los doce países de América del Sur) y la **CELAC** (2011: América Latina y el Caribe).",
+   "vida_real": "Es como varios negocios de una misma calle que hacen una feria juntos: cada uno sigue siendo independiente, pero unidos atraen más gente y negocian mejor.",
+   "claves": [
+    "integracion",
+    "mercosur",
+    "unasur",
+    "celac"
+   ],
+   "parte": "Un nuevo rol del Estado y la integración regional"
+  }
+ ]
+}

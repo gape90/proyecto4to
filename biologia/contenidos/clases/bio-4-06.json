@@ -1,0 +1,1065 @@
+{
+ "id": "bio-4-06",
+ "espacio": "biologia",
+ "eje": "Los sistemas de regulación y control",
+ "titulo": "El sistema nervioso",
+ "intro": "El sistema nervioso recibe lo que pasa adentro y afuera del cuerpo, decide y ordena una respuesta en fracciones de segundo. En esta clase vas a ver cómo está organizado, cómo viajan los mensajes por las neuronas y qué pasa en él con los consumos problemáticos.",
+ "objetivos": [
+  "Describir cómo está organizado el sistema nervioso y explicar el arco reflejo.",
+  "Explicar cómo es una neurona y cómo pasa un mensaje de una neurona a otra.",
+  "Relacionar el sistema de recompensa con los consumos problemáticos y reconocer dónde pedir ayuda."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: cómo se organiza el sistema nervioso, cómo funcionan las neuronas y la sinapsis, y qué son los consumos problemáticos.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Cómo se organiza el sistema nervioso",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "Tocás sin querer una olla caliente y sacás la mano de golpe. Recién después sentís el dolor y pensás \"¡quema!\". Si todavía no sabías que quemaba, ¿quién le dio la orden a tu brazo? Guardá tu respuesta para el final de esta parte."
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/bio-4-06-olla.webp",
+     "tipo": "ilustracion",
+     "animacion": "acercar",
+     "alt": "Ilustración de un adolescente en una cocina que aparta la mano de golpe de una olla con vapor que está sobre la hornalla. Tiene cara de sorpresa.",
+     "epigrafe": "Ilustración elaborada para esta clase.",
+     "_imagen": true
+    },
+    {
+     "t": "texto",
+     "titulo": "Recibir, decidir y responder",
+     "texto": "En la clase 1 viste que el cuerpo responde a los cambios del ambiente. A cada cambio que el cuerpo puede detectar, como la luz, un sonido o el calor de la olla, se lo llama **estímulo**. Los estímulos se captan con **receptores**, que están, por ejemplo, en la piel, los ojos y los oídos.\n\nEl **sistema nervioso** recibe esa información, la procesa y elabora una **respuesta**. La respuesta la ejecutan los **efectores**: los músculos, que se contraen, y las glándulas, que fabrican sustancias.\n\nTodo esto ocurre en fracciones de segundo, gracias a mensajes que viajan por células especiales, las **neuronas**, que vas a ver en la parte 2."
+    },
+    {
+     "t": "imagen",
+     "titulo": "Las dos partes del sistema nervioso",
+     "src": "img/clases/bio-4-06-nervioso.svg",
+     "tipo": "grafico",
+     "alt": "Ilustración de una persona de frente con su sistema nervioso. En color crema, el sistema nervioso central: el encéfalo, dentro de la cabeza, y la médula espinal, que baja por la espalda. En celeste, el sistema nervioso periférico: los nervios que salen de la médula y llegan a los brazos, el tronco y las piernas. Un punto luminoso recorre un acto reflejo: sube por un nervio desde la mano hasta la médula y vuelve hacia el brazo.",
+     "epigrafe": "Ilustración: Medium69 y Jmarchn, CC BY-SA 4.0, vía Wikimedia Commons. Adaptada para esta clase.",
+     "src_movil": "img/clases/bio-4-06-nervioso-movil.svg",
+     "animacion": "svg",
+     "_imagen": true
+    },
+    {
+     "t": "texto",
+     "titulo": "El sistema nervioso central",
+     "texto": "El **sistema nervioso central** está formado por el encéfalo y la médula espinal. Es el centro que recibe la información, la procesa y decide.\n\nEl **encéfalo** está dentro del cráneo. Sus partes principales son el **cerebro**, donde se piensa, se recuerda y se deciden los movimientos voluntarios; el **cerebelo**, que coordina los movimientos y el equilibrio; y el **tronco encefálico**, que controla funciones como la respiración y los latidos del corazón.\n\nLa **médula espinal** es un cordón que baja desde el encéfalo por dentro de la columna vertebral. Conecta el encéfalo con el resto del cuerpo y, en algunos casos, responde por su cuenta.\n\nAdemás de los huesos, el encéfalo y la médula están protegidos por unas membranas, las **meninges**, y por un líquido que amortigua los golpes."
+    },
+    {
+     "t": "texto",
+     "titulo": "El sistema nervioso periférico",
+     "texto": "El **sistema nervioso periférico** está formado por los **nervios**, que salen del encéfalo y de la médula y llegan a todo el cuerpo, y por los **ganglios**, grupos de cuerpos de neuronas ubicados fuera del sistema nervioso central.\n\nDel encéfalo salen 12 pares de **nervios craneales** y de la médula, 31 pares de **nervios raquídeos**. Algunos nervios llevan información desde los receptores hacia el centro, otros llevan órdenes desde el centro hacia los músculos y las glándulas, y muchos hacen las dos cosas."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿A qué parte del sistema nervioso pertenece cada estructura?",
+     "categorias": [
+      "Sistema nervioso central",
+      "Sistema nervioso periférico"
+     ],
+     "items": [
+      {
+       "texto": "El cerebro",
+       "cat": "Sistema nervioso central"
+      },
+      {
+       "texto": "El cerebelo",
+       "cat": "Sistema nervioso central"
+      },
+      {
+       "texto": "La médula espinal",
+       "cat": "Sistema nervioso central"
+      },
+      {
+       "texto": "Un nervio de la pierna",
+       "cat": "Sistema nervioso periférico"
+      },
+      {
+       "texto": "Un ganglio",
+       "cat": "Sistema nervioso periférico"
+      },
+      {
+       "texto": "Un nervio craneal",
+       "cat": "Sistema nervioso periférico"
+      }
+     ],
+     "explicacion": "El encéfalo (con el cerebro y el cerebelo) y la médula forman el sistema nervioso central. Los nervios y los ganglios forman el periférico.",
+     "pista": "Mirá el dibujo: lo de color crema es el central y lo celeste, el periférico. Ojo con el nervio craneal: sale del encéfalo, pero es un nervio."
+    },
+    {
+     "t": "texto",
+     "titulo": "Lo que decidís y lo que funciona solo",
+     "texto": "Algunas respuestas las controlás vos: decidir levantar la mano o patear una pelota. De eso se encarga el **sistema nervioso somático**, que manda órdenes a los músculos esqueléticos.\n\nOtras ocurren sin que lo decidas: el ritmo del corazón, la digestión o el tamaño de las pupilas. De eso se encarga el **sistema nervioso autónomo**, que controla el músculo liso, el músculo cardíaco y muchas glándulas. Tiene dos partes que trabajan en sentido opuesto, como el bíceps y el tríceps de la clase 5: la **simpática** y la **parasimpática**."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Las dos partes del sistema nervioso autónomo",
+     "columnas": [
+      "",
+      "Simpático",
+      "Parasimpático"
+     ],
+     "filas": [
+      [
+       "Cuándo actúa",
+       "Ante un peligro, un susto o un esfuerzo",
+       "En reposo y en calma"
+      ],
+      [
+       "Corazón",
+       "Late más rápido",
+       "Late más despacio"
+      ],
+      [
+       "Respiración",
+       "Se acelera",
+       "Se hace más lenta"
+      ],
+      [
+       "Pupilas",
+       "Se agrandan",
+       "Se achican"
+      ],
+      [
+       "Digestión",
+       "Se frena",
+       "Se activa"
+      ]
+     ]
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada situación con la parte del sistema autónomo que actúa más.",
+     "pares": [
+      {
+       "a": "Un perro te ladra de golpe y el corazón se te acelera",
+       "b": "Simpático"
+      },
+      {
+       "a": "Después de almorzar, descansás y hacés la digestión",
+       "b": "Parasimpático"
+      }
+     ],
+     "explicacion": "Ante un susto actúa el simpático, que prepara el cuerpo para reaccionar. En reposo actúa el parasimpático, que favorece la digestión.",
+     "pista": "Buscá en la tabla de arriba la fila Cuándo actúa."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🔍 Encontrá el error",
+     "pregunta": "Una de estas frases sobre el sistema nervioso tiene un error. ¿Cuál?",
+     "opciones": [
+      "El encéfalo está protegido por el cráneo y las meninges.",
+      "Los nervios forman parte del sistema nervioso central.",
+      "El cerebelo coordina el equilibrio.",
+      "Ante un susto actúa el sistema simpático."
+     ],
+     "correcta": 1,
+     "explicacion": "Los nervios forman parte del sistema nervioso periférico. El central es el encéfalo y la médula espinal.",
+     "pista": "Mirá de nuevo el dibujo de las dos partes del sistema nervioso."
+    },
+    {
+     "t": "texto",
+     "titulo": "El acto reflejo",
+     "texto": "Volvamos a la olla. Sacar la mano es un **acto reflejo**: una respuesta rápida, automática e involuntaria. El camino que recorre el mensaje se llama **arco reflejo**:\n\nLos **receptores** de la piel captan el calor. Una **neurona sensitiva** lleva el mensaje hasta la **médula espinal**. Allí, una **neurona de asociación** lo pasa a una **neurona motora**, que lleva la orden al **músculo** del brazo, y el músculo se contrae.\n\nLa respuesta sale de la médula, sin esperar al cerebro. Al mismo tiempo, el mensaje sigue subiendo hasta el encéfalo, y por eso un instante después sentís el dolor."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená el recorrido del mensaje en el arco reflejo, desde que tocás la olla hasta que sacás la mano.",
+     "items": [
+      "Los receptores de la piel captan el calor",
+      "La neurona sensitiva lleva el mensaje a la médula",
+      "En la médula, la neurona de asociación pasa el mensaje",
+      "La neurona motora lleva la orden al músculo",
+      "El músculo del brazo se contrae y la mano se aparta"
+     ],
+     "explicacion": "Receptor, neurona sensitiva, médula (neurona de asociación), neurona motora y efector. Es el camino más corto posible.",
+     "pista": "Releé el texto El acto reflejo: el mensaje va primero hacia la médula y después vuelve hacia el brazo."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "El sistema nervioso capta **estímulos** con los **receptores**, los procesa y elabora **respuestas** que ejecutan los **efectores**. El **sistema nervioso central** es el **encéfalo** (cerebro, cerebelo y tronco encefálico) y la **médula espinal**. El **periférico** son los **nervios** y los **ganglios**. El **autónomo** controla lo involuntario: el **simpático** prepara para la acción y el **parasimpático** actúa en reposo. En un **acto reflejo**, la médula responde sin esperar al cerebro."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Volvé a la pregunta del comienzo: ¿quién le dio la orden a tu brazo de soltar la olla?",
+     "respuesta": "La médula espinal. Fue un acto reflejo: el mensaje llegó a la médula por una neurona sensitiva y salió de allí, por una neurona motora, hacia el músculo. El cerebro se enteró un instante después, y por eso el dolor se siente cuando la mano ya se apartó."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá cómo está organizado el sistema nervioso y qué hace cada parte. Contá, paso a paso, qué ocurre en el arco reflejo cuando tocás algo caliente.",
+    "guia": [
+     "¿Qué son los estímulos, los receptores y los efectores?",
+     "¿Qué estructuras forman el sistema nervioso central y dónde están?",
+     "¿Qué forma el sistema nervioso periférico?",
+     "¿Qué diferencia hay entre el sistema somático y el autónomo?",
+     "¿Qué hacen el simpático y el parasimpático?",
+     "¿Cuál es el recorrido del arco reflejo?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La médula espinal forma parte del sistema nervioso central.",
+     "respuesta": true,
+     "explicacion": "Junto con el encéfalo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los nervios forman parte del sistema nervioso central.",
+     "respuesta": false,
+     "explicacion": "Forman parte del periférico."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El cerebelo coordina los movimientos y el equilibrio.",
+     "respuesta": true,
+     "explicacion": "Está en el encéfalo, detrás y abajo del cerebro."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Ante un susto actúa el sistema parasimpático.",
+     "respuesta": false,
+     "explicacion": "Actúa el simpático, que prepara el cuerpo para reaccionar."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En un acto reflejo, la respuesta puede salir de la médula.",
+     "respuesta": true,
+     "explicacion": "Sin esperar al cerebro."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los músculos y las glándulas son efectores.",
+     "respuesta": true,
+     "explicacion": "Ejecutan las respuestas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde está el encéfalo?",
+     "opciones": [
+      "Dentro del cráneo",
+      "Dentro de la columna vertebral",
+      "En el pecho",
+      "En el abdomen"
+     ],
+     "correcta": 0,
+     "explicacion": "La médula está dentro de la columna."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué parte del encéfalo controla la respiración y los latidos?",
+     "opciones": [
+      "El cerebelo",
+      "El tronco encefálico",
+      "El cerebro, en su parte de adelante",
+      "La médula"
+     ],
+     "correcta": 1,
+     "explicacion": "Funciona aunque no pienses en eso."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuántos pares de nervios salen de la médula?",
+     "opciones": [
+      "12",
+      "31",
+      "206",
+      "4"
+     ],
+     "correcta": 1,
+     "explicacion": "Son los nervios raquídeos. Del encéfalo salen 12 pares de nervios craneales."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hace el sistema simpático con el corazón?",
+     "opciones": [
+      "Lo acelera",
+      "Lo frena",
+      "Lo detiene",
+      "No lo cambia"
+     ],
+     "correcta": 0,
+     "explicacion": "Prepara el cuerpo para la acción."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué neurona lleva el mensaje desde la piel hasta la médula?",
+     "opciones": [
+      "La motora",
+      "La de asociación",
+      "La sensitiva",
+      "Ninguna"
+     ],
+     "correcta": 2,
+     "explicacion": "La motora lleva la orden al músculo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es un estímulo?",
+     "opciones": [
+      "Un cambio que el cuerpo detecta",
+      "Un músculo que se contrae",
+      "Un tipo de hueso",
+      "Una glándula que fabrica sustancias"
+     ],
+     "correcta": 0,
+     "explicacion": "Como la luz, un sonido o el calor."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "ESTÍMULO",
+     "pista": "Cambio que el cuerpo puede detectar."
+    },
+    {
+     "palabra": "ENCÉFALO",
+     "pista": "Parte del sistema nervioso central que está en el cráneo."
+    },
+    {
+     "palabra": "MÉDULA",
+     "pista": "Cordón nervioso dentro de la columna vertebral."
+    },
+    {
+     "palabra": "CEREBELO",
+     "pista": "Coordina los movimientos y el equilibrio."
+    },
+    {
+     "palabra": "NERVIO",
+     "pista": "Lleva mensajes entre el centro y el cuerpo."
+    },
+    {
+     "palabra": "REFLEJO",
+     "pista": "Respuesta rápida, automática e involuntaria."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué estructuras forman el sistema nervioso central?",
+     "opciones": [
+      "El encéfalo y la médula",
+      "Los nervios y los ganglios",
+      "El corazón y los vasos sanguíneos",
+      "Los músculos y los huesos"
+     ],
+     "correcta": 0,
+     "explicacion": "Los nervios y los ganglios forman el periférico."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El sistema nervioso autónomo controla funciones involuntarias, como la digestión.",
+     "respuesta": true,
+     "explicacion": "Tiene una parte simpática y una parasimpática."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En el arco reflejo, ¿qué viene después de la neurona sensitiva?",
+     "opciones": [
+      "La médula espinal",
+      "El músculo",
+      "El receptor",
+      "El cerebro, que decide primero"
+     ],
+     "correcta": 0,
+     "explicacion": "Allí la neurona de asociación pasa el mensaje a la neurona motora."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Neuronas e impulso nervioso",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "Si te pisan un pie, lo sentís casi al instante, aunque el mensaje tenga que recorrer más de un metro hasta el encéfalo. ¿Cómo puede viajar tan rápido? ¿Y cómo pasa de una célula a otra?"
+    },
+    {
+     "t": "texto",
+     "titulo": "El tejido nervioso",
+     "texto": "El sistema nervioso está formado por **tejido nervioso**, que tiene dos tipos de células:\n\nLas **neuronas**, que reciben y transmiten mensajes. Cuando se forma el embrión, el tejido nervioso se origina en la capa más externa, el **ectodermo**: la misma capa que forma la piel.\n\nLas **células de la glía**, que son más numerosas que las neuronas. No transmiten mensajes: las sostienen, las alimentan, las protegen y forman la vaina de mielina."
+    },
+    {
+     "t": "imagen",
+     "titulo": "Una neurona",
+     "src": "img/clases/bio-4-06-neurona.svg",
+     "tipo": "grafico",
+     "alt": "Ilustración de una neurona. A la izquierda, el cuerpo celular, con el núcleo y los organelos, rodeado de dendritas muy ramificadas. Del cuerpo sale un axón largo, cubierto por tramos de vaina de mielina, que termina en varias ramitas: los terminales del axón. Un punto luminoso recorre el axón desde el cuerpo celular hasta los terminales. Detrás, en gris, se ven otras neuronas.",
+     "epigrafe": "Ilustración: Mariana Ruiz Villarreal (LadyofHats), dominio público, vía Wikimedia Commons. Adaptada para esta clase.",
+     "src_movil": "img/clases/bio-4-06-neurona-movil.svg",
+     "animacion": "svg",
+     "_imagen": true
+    },
+    {
+     "t": "texto",
+     "titulo": "Las partes de una neurona",
+     "texto": "El **cuerpo celular** tiene el núcleo y la mayoría de los organelos que viste en la clase 1.\n\nLas **dendritas** son prolongaciones cortas y ramificadas que **reciben** los mensajes de otras neuronas o de los receptores.\n\nEl **axón** es una prolongación larga que **lleva** el mensaje hacia otras células. En algunas neuronas mide más de un metro: va desde la médula hasta los dedos del pie.\n\nMuchos axones están envueltos por la **vaina de mielina**, una cubierta formada por células de la glía que funciona como el plástico que aísla un cable. Al final, el axón se ramifica en los **terminales del axón**."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada parte de la neurona con lo que hace.",
+     "pares": [
+      {
+       "a": "Dendritas",
+       "b": "Reciben los mensajes"
+      },
+      {
+       "a": "Cuerpo celular",
+       "b": "Tiene el núcleo"
+      },
+      {
+       "a": "Axón",
+       "b": "Lleva el mensaje hacia otras células"
+      },
+      {
+       "a": "Vaina de mielina",
+       "b": "Aísla el axón y acelera el mensaje"
+      }
+     ],
+     "explicacion": "El mensaje entra por las dendritas, pasa por el cuerpo celular y sale por el axón, que en muchas neuronas está cubierto de mielina.",
+     "pista": "Releé el texto Las partes de una neurona y mirá el dibujo."
+    },
+    {
+     "t": "texto",
+     "titulo": "Tres tipos de neuronas según su tarea",
+     "texto": "En el arco reflejo de la parte 1 aparecieron tres tipos de neuronas:\n\nLas **sensitivas** llevan mensajes desde los receptores hacia el sistema nervioso central.\n\nLas **motoras** llevan órdenes desde el sistema nervioso central hacia los músculos y las glándulas.\n\nLas **de asociación** están dentro del encéfalo y la médula, y conectan unas neuronas con otras."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🗣️ ¿Quién lo diría?",
+     "pregunta": "Esta frase es inventada: \"Yo recibo la orden en la médula y la llevo hasta el músculo de la pierna\". ¿Qué neurona podría decirla?",
+     "opciones": [
+      "Una neurona sensitiva",
+      "Una neurona de asociación",
+      "Una neurona motora",
+      "Una célula de la glía"
+     ],
+     "correcta": 2,
+     "explicacion": "Las neuronas motoras llevan las órdenes desde el sistema nervioso central hasta los efectores, como los músculos.",
+     "pista": "Fijate hacia dónde va el mensaje: sale del centro y llega a un músculo."
+    },
+    {
+     "t": "texto",
+     "titulo": "El impulso nervioso",
+     "texto": "El mensaje que recorre una neurona se llama **impulso nervioso**. Es una señal eléctrica que viaja siempre en el mismo sentido: entra por las dendritas, pasa por el cuerpo celular y sale por el axón.\n\nEn los axones con **mielina**, el impulso salta de un espacio sin mielina al siguiente y avanza mucho más rápido: puede superar los 100 metros por segundo. Por eso sentís el pisotón casi al instante."
+    },
+    {
+     "t": "texto",
+     "titulo": "La sinapsis",
+     "texto": "Las neuronas no se tocan. Entre el final de un axón y la célula siguiente queda un espacio muy pequeño. A esa zona de comunicación se la llama **sinapsis**. Como la señal eléctrica no puede saltar ese espacio, el mensaje pasa con ayuda de unas sustancias químicas: los **neurotransmisores**. Seguí el paso a paso."
+    },
+    {
+     "t": "etapas",
+     "svg": "img/clases/bio-4-06-sinapsis.svg",
+     "consigna": "Avanzá con el botón Siguiente y mirá qué cambia en el dibujo en cada paso.",
+     "alt": "Dibujo de una sinapsis. Arriba, el final del axón de la neurona que envía el mensaje, con vesículas llenas de neurotransmisores. Abajo, la neurona que recibe, con receptores en su superficie. Entre las dos queda un espacio muy pequeño, el espacio sináptico.",
+     "fuente": "Ilustración: Thomas Splettstoesser (www.scistyle.com), CC BY-SA 4.0, vía Wikimedia Commons. Adaptada para esta clase.",
+     "etapas": [
+      {
+       "titulo": "Llega el impulso",
+       "texto": "El impulso nervioso recorre el axón de la neurona que envía y llega a los **terminales del axón**. Allí hay **vesículas**: pequeñas bolsitas llenas de **neurotransmisores**."
+      },
+      {
+       "titulo": "Se liberan los neurotransmisores",
+       "texto": "Las vesículas se acercan a la membrana, se abren y sueltan los neurotransmisores en el **espacio sináptico**."
+      },
+      {
+       "titulo": "Se unen a los receptores",
+       "texto": "Los neurotransmisores cruzan el espacio y se unen a los **receptores** de la neurona que recibe, como una llave que entra en su cerradura."
+      },
+      {
+       "titulo": "Nace un nuevo impulso",
+       "texto": "Esa unión genera un nuevo impulso eléctrico en la neurona que recibe, y el mensaje sigue su camino. Después, los neurotransmisores se retiran del espacio y la sinapsis queda lista para el próximo mensaje."
+      }
+     ]
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "El impulso nervioso es una señal [[eléctrica]] que recorre la neurona. Cuando llega al final del axón, se liberan [[neurotransmisores]] en el espacio sináptico. Estas sustancias se unen a los [[receptores]] de la neurona siguiente, que genera un nuevo impulso. A esa zona de comunicación se la llama [[sinapsis]].",
+     "explicacion": "El mensaje es eléctrico dentro de la neurona y químico en la sinapsis.",
+     "pista": "Si no te acordás, volvé a recorrer el paso a paso de la sinapsis."
+    },
+    {
+     "t": "texto",
+     "titulo": "Algunos neurotransmisores",
+     "texto": "Hay muchos neurotransmisores distintos. La **acetilcolina** transmite las órdenes de las neuronas motoras a los músculos. La **dopamina** participa en el movimiento y en la sensación de placer. La **serotonina** interviene en el estado de ánimo y en el sueño. En la parte 3 vas a ver qué tiene que ver la dopamina con los consumos problemáticos."
+    },
+    {
+     "t": "vf",
+     "consigna": "Leé cada afirmación y marcá si es verdadera o falsa.",
+     "afirmaciones": [
+      {
+       "texto": "En la sinapsis, las dos neuronas se tocan.",
+       "v": false,
+       "explicacion": "Queda un espacio muy pequeño entre ellas: el espacio sináptico."
+      },
+      {
+       "texto": "El impulso viaja más rápido en los axones con mielina.",
+       "v": true,
+       "explicacion": "Salta de un espacio sin mielina al siguiente."
+      },
+      {
+       "texto": "Las células de la glía transmiten los impulsos nerviosos.",
+       "v": false,
+       "explicacion": "Sostienen, alimentan y protegen a las neuronas, y forman la mielina."
+      },
+      {
+       "texto": "El tejido nervioso se origina en el ectodermo del embrión.",
+       "v": true,
+       "explicacion": "Es la misma capa que forma la piel."
+      }
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "El tejido nervioso tiene **neuronas** y **células de la glía**, y se origina en el **ectodermo**. La neurona tiene **dendritas**, **cuerpo celular** y **axón**, muchas veces cubierto de **mielina**. Según su tarea, las neuronas son **sensitivas**, **motoras** o **de asociación**. El **impulso nervioso** es una señal eléctrica; en la **sinapsis** el mensaje pasa con **neurotransmisores**, que se unen a los **receptores** de la neurona siguiente."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: en algunas enfermedades, la vaina de mielina se daña. ¿Qué creés que les pasa a los mensajes que viajan por esos axones?",
+     "respuesta": "Viajan más despacio o se interrumpen, como pasa con un cable pelado. Por eso esas enfermedades pueden afectar los movimientos, la sensibilidad o el equilibrio."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Describí cómo es una neurona y qué hace cada parte. Explicá cómo viaja un mensaje dentro de una neurona y cómo pasa de una neurona a otra en la sinapsis.",
+    "guia": [
+     "¿Qué células forman el tejido nervioso y qué hace cada una?",
+     "¿Qué partes tiene una neurona?",
+     "¿Qué tipos de neuronas hay según su tarea?",
+     "¿Qué es el impulso nervioso y para qué sirve la mielina?",
+     "¿Qué pasa en cada uno de los cuatro pasos de la sinapsis?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Las dendritas reciben los mensajes.",
+     "respuesta": true,
+     "explicacion": "El axón los lleva hacia otras células."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La vaina de mielina hace más lento el impulso.",
+     "respuesta": false,
+     "explicacion": "Lo hace más rápido."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los neurotransmisores son sustancias químicas.",
+     "respuesta": true,
+     "explicacion": "Llevan el mensaje a través del espacio sináptico."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las neuronas motoras llevan mensajes desde los receptores hacia la médula.",
+     "respuesta": false,
+     "explicacion": "Esas son las sensitivas. Las motoras llevan órdenes hacia los músculos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Algunos axones miden más de un metro.",
+     "respuesta": true,
+     "explicacion": "Como los que van de la médula a los dedos del pie."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Hay más células de la glía que neuronas.",
+     "respuesta": true,
+     "explicacion": "Sostienen y protegen a las neuronas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por dónde sale el impulso nervioso de la neurona?",
+     "opciones": [
+      "Por el axón",
+      "Por las dendritas",
+      "Por el núcleo",
+      "Por la glía"
+     ],
+     "correcta": 0,
+     "explicacion": "Entra por las dendritas y sale por el axón."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo se llama la zona de comunicación entre dos neuronas?",
+     "opciones": [
+      "Sinapsis",
+      "Mielina",
+      "Ganglio",
+      "Dendrita"
+     ],
+     "correcta": 0,
+     "explicacion": "Las neuronas no se tocan: queda un espacio."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde están guardados los neurotransmisores antes de liberarse?",
+     "opciones": [
+      "En los receptores",
+      "En las vesículas",
+      "En el núcleo",
+      "En la mielina"
+     ],
+     "correcta": 1,
+     "explicacion": "Son pequeñas bolsitas en los terminales del axón."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué neurotransmisor lleva las órdenes a los músculos?",
+     "opciones": [
+      "La serotonina",
+      "La dopamina",
+      "La acetilcolina",
+      "La insulina del páncreas"
+     ],
+     "correcta": 2,
+     "explicacion": "La insulina es una hormona, no un neurotransmisor."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué neuronas conectan unas neuronas con otras dentro de la médula?",
+     "opciones": [
+      "Las de asociación",
+      "Las motoras",
+      "Las sensitivas",
+      "Las células de la glía"
+     ],
+     "correcta": 0,
+     "explicacion": "Están dentro del encéfalo y la médula."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué capa del embrión se origina el tejido nervioso?",
+     "opciones": [
+      "En el ectodermo",
+      "En el corazón",
+      "En la médula ósea",
+      "En el estómago"
+     ],
+     "correcta": 0,
+     "explicacion": "Es la capa más externa del embrión."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "NEURONA",
+     "pista": "Célula que recibe y transmite mensajes."
+    },
+    {
+     "palabra": "AXÓN",
+     "pista": "Prolongación larga que lleva el mensaje."
+    },
+    {
+     "palabra": "DENDRITA",
+     "pista": "Prolongación corta que recibe el mensaje."
+    },
+    {
+     "palabra": "MIELINA",
+     "pista": "Vaina que aísla el axón y acelera el impulso."
+    },
+    {
+     "palabra": "SINAPSIS",
+     "pista": "Zona de comunicación entre dos neuronas."
+    },
+    {
+     "palabra": "GLÍA",
+     "pista": "Células que sostienen y protegen a las neuronas."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué pasa en la sinapsis?",
+     "opciones": [
+      "Se liberan neurotransmisores",
+      "Las neuronas se unen y forman una sola célula",
+      "Se fabrica mielina",
+      "Se forma la orina"
+     ],
+     "correcta": 0,
+     "explicacion": "Así el mensaje pasa de una neurona a otra."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El impulso nervioso viaja dentro de la neurona como una señal eléctrica.",
+     "respuesta": true,
+     "explicacion": "En la sinapsis, en cambio, el mensaje es químico."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué parte de la neurona recibe los mensajes?",
+     "opciones": [
+      "Las dendritas",
+      "El axón",
+      "Los terminales del axón",
+      "La vaina de mielina"
+     ],
+     "correcta": 0,
+     "explicacion": "Son prolongaciones cortas y ramificadas."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Consumos problemáticos",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Para empezar",
+     "texto": "¿Te pasó alguna vez abrir una aplicación \"un minuto\" y levantar la vista una hora después? ¿Por qué creés que a veces cuesta tanto dejar algo, aunque uno quiera? En esta parte vas a ver qué pasa en el sistema nervioso."
+    },
+    {
+     "t": "texto",
+     "titulo": "El sistema de recompensa",
+     "texto": "En el encéfalo hay un circuito de neuronas llamado **sistema de recompensa**. Cuando hacés algo agradable, como comer cuando tenés hambre o compartir un rato con amistades, esas neuronas liberan **dopamina**, el neurotransmisor de la parte 2. Esa sensación de placer hace que quieras repetir lo que la produjo.\n\nAlgunas sustancias y algunas conductas activan este circuito con mucha más fuerza de lo habitual. Con el tiempo, el encéfalo se acostumbra y cambia su funcionamiento."
+    },
+    {
+     "t": "texto",
+     "titulo": "Qué es un consumo problemático",
+     "texto": "La **Ley 26.934**, que creó el Plan Integral para el Abordaje de los Consumos Problemáticos, llama **consumo problemático** al que afecta negativamente, de forma crónica, la salud física o psíquica de una persona o sus relaciones con los demás.\n\nPuede darse **con sustancias**, como el alcohol, el tabaco u otras drogas, legales o ilegales, o **sin sustancias**, con conductas que se vuelven compulsivas: las apuestas y los juegos de azar, el uso de la tecnología, las compras o la alimentación.\n\nNo todo consumo es problemático. Lo que lo vuelve un problema es cómo afecta la salud y la vida de la persona."
+    },
+    {
+     "t": "texto",
+     "titulo": "Tolerancia, abstinencia y dependencia",
+     "texto": "Cuando una sustancia o una conducta activa una y otra vez el sistema de recompensa, pueden aparecer tres fenómenos:\n\nLa **tolerancia**: el encéfalo se acostumbra y hace falta más cantidad o más tiempo para sentir lo mismo.\n\nLa **abstinencia**: cuando falta la sustancia o la conducta, aparece un malestar físico o emocional.\n\nLa **dependencia**: la persona siente que no puede dejarlo, aunque quiera y aunque le haga daño. Cuando la dependencia es fuerte y dura en el tiempo, se habla de **adicción**."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená cómo puede avanzar un consumo hasta volverse un problema, según lo que leíste.",
+     "items": [
+      "La sustancia o la conducta produce una sensación agradable",
+      "Se repite una y otra vez",
+      "Hace falta más para sentir lo mismo",
+      "Cuando falta, aparece malestar",
+      "La persona siente que no puede dejarlo"
+     ],
+     "explicacion": "Primero el placer, después la repetición, la tolerancia, la abstinencia y, al final, la dependencia. No todos los consumos siguen este camino, pero cuanto antes se pide ayuda, mejor.",
+     "pista": "Releé el texto Tolerancia, abstinencia y dependencia: aparecen en ese orden."
+    },
+    {
+     "t": "texto",
+     "titulo": "Las apuestas en línea",
+     "texto": "En la Argentina, los juegos de azar y las apuestas están prohibidos para menores de 18 años. Aun así, muchos sitios de apuestas en línea no controlan bien la edad de quienes entran.\n\nEstos juegos usan premios que aparecen al azar y de forma inesperada. Esa incertidumbre activa con fuerza el sistema de recompensa, y por eso es fácil seguir apostando para \"recuperar\" lo perdido."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "📰 Elegí el titular",
+     "pregunta": "Una radio escolar prepara una noticia sobre lo que viste en esta parte. ¿Qué titular es correcto?",
+     "opciones": [
+      "Consumos problemáticos: con sustancias o sin ellas",
+      "Solo las drogas ilegales generan consumos problemáticos",
+      "Las apuestas en línea, permitidas desde los 16 años",
+      "La tolerancia significa que el cuerpo ya no necesita la sustancia"
+     ],
+     "correcta": 0,
+     "explicacion": "La ley incluye consumos con sustancias, legales o ilegales, y sin sustancias, como las apuestas. Las apuestas están prohibidas para menores de 18 años.",
+     "pista": "Releé el texto Qué es un consumo problemático."
+    },
+    {
+     "t": "texto",
+     "titulo": "Pedir ayuda",
+     "texto": "Un consumo problemático no es una falta de voluntad: es un problema de salud, y tiene tratamiento. Si te preocupa algo que te pasa a vos o a alguien cercano, podés hablar con una persona adulta de confianza, con alguien del equipo de la escuela o en un centro de salud.\n\nTambién está la **Línea 141** de la SEDRONAR: es gratuita y anónima, atiende las 24 horas, todos los días del año, desde cualquier lugar del país."
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/bio-4-06-conversacion.webp",
+     "tipo": "ilustracion",
+     "animacion": "alejar",
+     "alt": "Ilustración de dos estudiantes sentados en un banco del patio de la escuela. Una le habla con calma y gesticula con las manos; el otro la escucha con el celular en la mano.",
+     "epigrafe": "Ilustración elaborada para esta clase.",
+     "_imagen": true
+    },
+    {
+     "t": "dilema",
+     "titulo": "Una situación para pensar",
+     "situacion": "Esta situación es inventada. Tu amigo Bruno apuesta todas las noches desde el celular. Ya perdió el dinero que había ahorrado, le pidió prestado a dos compañeros y dice que \"esta vez seguro recupera\". Hoy te pide que le prestes vos.",
+     "opciones": [
+      {
+       "texto": "Le presto: así recupera lo que perdió y deja de preocuparse.",
+       "consecuencia": "Seguir apostando para recuperar lo perdido es justamente lo que mantiene el problema. Con más dinero, lo más probable es que siga apostando.",
+       "adecuada": false
+      },
+      {
+       "texto": "No digo nada: es su vida y no me tengo que meter.",
+       "consecuencia": "Respetar a Bruno es importante, pero quedarse en silencio lo deja solo con un problema que, por lo que contás, ya lo está afectando.",
+       "adecuada": false
+      },
+      {
+       "texto": "Le digo, con calma, lo que noto, y le propongo hablar con una persona adulta de confianza o llamar a la Línea 141.",
+       "consecuencia": "Hablarle sin juzgarlo y ofrecerle ayuda concreta es lo que más puede servir. No tenés que resolverlo vos: alcanza con acompañarlo a pedir ayuda.",
+       "adecuada": true
+      },
+      {
+       "texto": "Lo cuento en el grupo para que todos se rían y le dé vergüenza.",
+       "consecuencia": "La burla no ayuda: suele hacer que la persona esconda el problema y se aleje de quienes podrían ayudarla.",
+       "adecuada": false
+      }
+     ],
+     "cierre": "Ante un consumo problemático, lo que más ayuda es hablar sin juzgar y buscar ayuda: una persona adulta de confianza, el equipo de la escuela, un centro de salud o la Línea 141."
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Completá el dato",
+     "consigna": "¿Qué número tiene la línea gratuita y anónima de la SEDRONAR que atiende las 24 horas?",
+     "respuesta": "141",
+     "acepta": [
+      "141",
+      "linea 141",
+      "la 141",
+      "ciento cuarenta y uno"
+     ],
+     "formato": "Escribí el número.",
+     "explicacion": "La Línea 141 atiende en todo el país, todos los días del año.",
+     "pista1": "Está en el texto Pedir ayuda.",
+     "relee": "Releé el texto Pedir ayuda."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "El **sistema de recompensa** libera **dopamina** ante lo agradable. Algunas sustancias y conductas lo activan con mucha fuerza. Un **consumo problemático** afecta la salud o las relaciones, y puede darse **con o sin sustancias**. Pueden aparecer **tolerancia**, **abstinencia** y **dependencia**. Es un problema de salud y tiene tratamiento: se puede pedir ayuda a una persona adulta de confianza o a la **Línea 141**."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Volvé a la pregunta del comienzo: ¿por qué a veces cuesta tanto dejar algo, aunque uno quiera?",
+     "respuesta": "Porque algunas actividades y sustancias activan con fuerza el sistema de recompensa, que libera dopamina y hace que quieras repetirlas. Con el tiempo, el encéfalo se acostumbra. Darse cuenta de eso es un primer paso para decidir, y para pedir ayuda si hace falta."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es un consumo problemático y qué relación tiene con el sistema de recompensa del encéfalo. Describí la tolerancia, la abstinencia y la dependencia, y anotá a quién se puede pedir ayuda.",
+    "guia": [
+     "¿Qué es el sistema de recompensa y qué neurotransmisor participa?",
+     "¿Qué dice la Ley 26.934 sobre qué es un consumo problemático?",
+     "¿Qué ejemplos hay de consumos con sustancias y sin sustancias?",
+     "¿Qué son la tolerancia, la abstinencia y la dependencia?",
+     "¿A quién se puede pedir ayuda?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Un consumo problemático puede darse sin ninguna sustancia.",
+     "respuesta": true,
+     "explicacion": "Por ejemplo, con las apuestas o con el uso de la tecnología."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La dopamina participa en el sistema de recompensa.",
+     "respuesta": true,
+     "explicacion": "Se libera ante lo que resulta agradable."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la Argentina, las apuestas están permitidas desde los 16 años.",
+     "respuesta": false,
+     "explicacion": "Están prohibidas para menores de 18 años."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La Línea 141 es gratuita y anónima.",
+     "respuesta": true,
+     "explicacion": "Atiende las 24 horas, todos los días."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un consumo problemático es solo una falta de voluntad.",
+     "respuesta": false,
+     "explicacion": "Es un problema de salud y tiene tratamiento."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El alcohol y el tabaco pueden generar consumos problemáticos.",
+     "respuesta": true,
+     "explicacion": "Aunque sean legales para personas adultas."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la tolerancia?",
+     "opciones": [
+      "Necesitar más para sentir lo mismo",
+      "Dejar de consumir para siempre",
+      "Sentir malestar cuando falta",
+      "Aceptar las opiniones de los demás"
+     ],
+     "correcta": 0,
+     "explicacion": "El malestar cuando falta es la abstinencia."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué ley creó el plan para abordar los consumos problemáticos?",
+     "opciones": [
+      "La Ley 26.934",
+      "La Ley 27.447",
+      "La Ley 17.259",
+      "La Ley 26.206"
+     ],
+     "correcta": 0,
+     "explicacion": "La 27.447 es la Ley Justina, de donación de órganos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la abstinencia?",
+     "opciones": [
+      "El malestar cuando algo falta",
+      "Necesitar cada vez más cantidad o tiempo",
+      "Un neurotransmisor",
+      "Un tipo de neurona"
+     ],
+     "correcta": 0,
+     "explicacion": "Puede ser físico o emocional."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué neurotransmisor se libera en el sistema de recompensa?",
+     "opciones": [
+      "La acetilcolina",
+      "La dopamina",
+      "La insulina",
+      "La mielina"
+     ],
+     "correcta": 1,
+     "explicacion": "Participa en la sensación de placer."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos es un consumo sin sustancias?",
+     "opciones": [
+      "El alcohol",
+      "Las apuestas en línea",
+      "El tabaco",
+      "Un medicamento sin receta"
+     ],
+     "correcta": 1,
+     "explicacion": "Es una conducta que puede volverse compulsiva."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué conviene hacer si un amigo tiene un consumo problemático?",
+     "opciones": [
+      "Hablarle y buscar ayuda",
+      "Burlarse de él para que reaccione",
+      "Prestarle dinero para que siga apostando",
+      "No hablarle más"
+     ],
+     "correcta": 0,
+     "explicacion": "Acompañar a pedir ayuda es lo que más sirve."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "DOPAMINA",
+     "pista": "Neurotransmisor del sistema de recompensa."
+    },
+    {
+     "palabra": "TOLERANCIA",
+     "pista": "Necesitar más para sentir lo mismo."
+    },
+    {
+     "palabra": "ABSTINENCIA",
+     "pista": "Malestar cuando falta la sustancia o la conducta."
+    },
+    {
+     "palabra": "DEPENDENCIA",
+     "pista": "Sentir que no se puede dejar algo."
+    },
+    {
+     "palabra": "ADICCIÓN",
+     "pista": "Dependencia fuerte y duradera."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tienen en común el alcohol y las apuestas en línea?",
+     "opciones": [
+      "Pueden generar consumos problemáticos",
+      "Son neurotransmisores",
+      "Están permitidos para menores de edad",
+      "No afectan para nada el funcionamiento del encéfalo"
+     ],
+     "correcta": 0,
+     "explicacion": "Activan con fuerza el sistema de recompensa."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un consumo problemático afecta la salud física o psíquica, o las relaciones de la persona.",
+     "respuesta": true,
+     "explicacion": "Es la idea de la Ley 26.934."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la dependencia?",
+     "opciones": [
+      "Sentir que no se puede dejar algo",
+      "Una parte de la neurona",
+      "Un reflejo que sale de la médula espinal",
+      "Una glándula"
+     ],
+     "correcta": 0,
+     "explicacion": "Cuando es fuerte y duradera, se habla de adicción."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Estímulo",
+   "definicion": "Cambio del ambiente o del cuerpo que puede detectarse con los receptores."
+  },
+  {
+   "palabra": "Sistema nervioso central",
+   "definicion": "El encéfalo y la médula espinal. Recibe la información, la procesa y decide."
+  },
+  {
+   "palabra": "Acto reflejo",
+   "definicion": "Respuesta rápida, automática e involuntaria que sale de la médula, sin esperar al cerebro."
+  },
+  {
+   "palabra": "Neurona",
+   "definicion": "Célula del tejido nervioso que recibe y transmite mensajes. Tiene dendritas, cuerpo celular y axón."
+  },
+  {
+   "palabra": "Sinapsis",
+   "definicion": "Zona de comunicación entre dos neuronas, donde el mensaje pasa con neurotransmisores."
+  },
+  {
+   "palabra": "Neurotransmisor",
+   "definicion": "Sustancia química que lleva el mensaje de una neurona a otra célula."
+  },
+  {
+   "palabra": "Consumo problemático",
+   "definicion": "Consumo, con o sin sustancias, que afecta la salud física o psíquica o las relaciones de una persona."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Todas las respuestas del cuerpo las decide el cerebro.",
+   "aclaracion": "En los actos reflejos, la respuesta sale de la médula espinal, sin esperar al cerebro."
+  },
+  {
+   "error": "Las neuronas están pegadas unas a otras.",
+   "aclaracion": "Entre ellas queda un espacio muy pequeño; el mensaje lo cruza con neurotransmisores."
+  },
+  {
+   "error": "Solo las drogas ilegales generan consumos problemáticos.",
+   "aclaracion": "También pueden generarlos sustancias legales, como el alcohol y el tabaco, y conductas como las apuestas."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Cuando te asustás, el corazón se acelera en un segundo, pero el susto te dura un rato aunque el peligro ya pasó. ¿Qué otro sistema del cuerpo podría estar actuando?",
+  "conexion": "Con la clase 7, sobre el sistema endocrino y la adrenalina."
+ }
+}

@@ -1,0 +1,1003 @@
+{
+ "id": "geo-4-07",
+ "espacio": "geografia",
+ "eje": "Territorios urbanizados",
+ "titulo": "Ciudades de Asia y la megalópolis japonesa",
+ "intro": "Algunas ciudades de Asia se organizan alrededor de la religión, y otras crecieron tanto que se unieron entre sí. Vas a ver ciudades sagradas como Varanasi, cómo se formó la megalópolis japonesa y qué papel cumple la tecnología en ella.",
+ "objetivos": [
+  "Explicar cómo la religión organiza el espacio en algunas ciudades de Asia.",
+  "Describir qué es una megalópolis y cómo se formó la megalópolis japonesa.",
+  "Relacionar la tecnología con el funcionamiento de la megalópolis japonesa."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: el vínculo entre religión y ciudad en Asia, el caso de Varanasi, el concepto de megalópolis, la megalópolis japonesa y el papel del Shinkansen y la tecnología.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Ciudades de Asia y religión",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Una pregunta para arrancar",
+     "texto": "En tu ciudad o en tu pueblo, ¿dónde está la iglesia principal? Seguramente frente a la plaza, en el centro. La religión también ayudó a dibujar las ciudades argentinas. En Asia, ese vínculo es todavía más fuerte."
+    },
+    {
+     "t": "texto",
+     "titulo": "La religión organiza el espacio",
+     "texto": "En muchas ciudades de Asia, la religión **organiza el espacio urbano**: los templos ocupan los lugares centrales, las calles llevan a ellos y el calendario religioso marca la vida de la ciudad. Algunas son **ciudades sagradas**: lugares que una religión considera especiales y que reciben **peregrinaciones**, viajes que hacen los creyentes por motivos religiosos.\n\nLas peregrinaciones mueven a millones de personas, y las ciudades tienen que organizarse para recibirlas: transporte, alojamiento, agua y seguridad."
+    },
+    {
+     "t": "texto",
+     "titulo": "Varanasi, a orillas del Ganges",
+     "texto": "**Varanasi**, en el norte de la India, es una de las ciudades más sagradas del **hinduismo**. Está a orillas del río **Ganges**, que para los hindúes es sagrado. A lo largo del río hay **ghats**: escalinatas que bajan hasta el agua, donde la gente se baña, reza y celebra ceremonias. Toda la vida de la ciudad mira hacia el río."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-07-varanasi.jpg",
+     "tipo": "foto",
+     "alt": "Al atardecer, en la orilla de un río ancho con neblina, muchas personas suben y bajan de barcas de madera pintadas de naranja; al fondo hay más barcas y luces.",
+     "epigrafe": "Gente en los ghats de Varanasi (India), a orillas del Ganges, al atardecer, en 2023.",
+     "fuente": "Foto: Goutam1962, CC BY-SA 4.0, vía Wikimedia Commons. Imagen reducida.",
+     "animacion": "recorrer"
+    },
+    {
+     "t": "comparar",
+     "titulo": "Algunas ciudades sagradas de Asia",
+     "columnas": [
+      "Ciudad",
+      "País",
+      "Religión"
+     ],
+     "filas": [
+      [
+       "Varanasi",
+       "India",
+       "Hinduismo"
+      ],
+      [
+       "La Meca",
+       "Arabia Saudita",
+       "Islam"
+      ],
+      [
+       "Jerusalén",
+       "En disputa (ver clase 1)",
+       "Judaísmo, cristianismo e islam"
+      ],
+      [
+       "Bodh Gaya",
+       "India",
+       "Budismo"
+      ]
+     ]
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "En muchas ciudades de Asia, la **religión organiza el espacio urbano**. Las **ciudades sagradas**, como **Varanasi** (hinduismo) o **La Meca** (islam), reciben **peregrinaciones** de millones de personas y tienen que organizarse para recibirlas."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada ciudad sagrada con su religión. Si no te acordás, mirá la tabla.",
+     "pares": [
+      {
+       "a": "Varanasi",
+       "b": "Hinduismo"
+      },
+      {
+       "a": "La Meca",
+       "b": "Islam"
+      },
+      {
+       "a": "Bodh Gaya",
+       "b": "Budismo"
+      }
+     ],
+     "explicacion": "Cada religión tiene sus lugares sagrados, que atraen peregrinaciones.",
+     "pista": "Están en la tabla de ciudades sagradas de Asia."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "Varanasi está a orillas del río [[Ganges]], sagrado para el [[hinduismo]]. Las escalinatas que bajan al río se llaman [[ghats]]. Los viajes que hacen los creyentes por motivos religiosos se llaman [[peregrinaciones]].",
+     "distractores": [
+      "Nilo",
+      "budismo",
+      "turismo"
+     ],
+     "explicacion": "Así se resume el caso de Varanasi.",
+     "pista": "Releé el texto sobre Varanasi."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "🔍 Encontrá el error",
+     "pregunta": "Cuatro frases sobre el tema; una tiene un error. ¿Cuál es?",
+     "opciones": [
+      "Varanasi es sagrada para el hinduismo.",
+      "Los ghats son escalinatas que bajan al río.",
+      "La Meca es una ciudad sagrada del budismo.",
+      "Las peregrinaciones mueven a millones de personas."
+     ],
+     "correcta": 2,
+     "explicacion": "La Meca es una ciudad sagrada del islam.",
+     "pista": "Revisá la tabla de ciudades sagradas."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "Una peregrinación es un viaje por motivos religiosos.",
+       "v": true,
+       "explicacion": "Así se define en el texto."
+      },
+      {
+       "texto": "La religión no influye en cómo se organizan las ciudades.",
+       "v": false,
+       "explicacion": "En muchas ciudades de Asia organiza el espacio urbano."
+      },
+      {
+       "texto": "Jerusalén es sagrada para tres religiones.",
+       "v": true,
+       "explicacion": "Lo viste en la clase 1."
+      },
+      {
+       "texto": "Varanasi está en el sur de Japón.",
+       "v": false,
+       "explicacion": "Está en el norte de la India."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: si a una ciudad llegan millones de peregrinos en pocos días, ¿qué problemas tiene que resolver?",
+     "respuesta": "Tiene que mover a muchísima gente sin accidentes, darle agua, comida y baños, ofrecer alojamiento, atender la salud y limpiar después. Por eso las ciudades sagradas suelen tener infraestructura pensada para esas fechas, que el resto del año queda casi vacía."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá cómo la religión organiza el espacio en algunas ciudades de Asia. Usá Varanasi como ejemplo y nombrá otras ciudades sagradas.",
+    "guia": [
+     "¿Qué es una ciudad sagrada?",
+     "¿Qué es una peregrinación?",
+     "¿Por qué Varanasi es sagrada y qué son los ghats?",
+     "¿Qué otras ciudades sagradas de Asia conocés? ¿De qué religión?",
+     "¿Qué tiene que organizar una ciudad para recibir peregrinos?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Varanasi es una ciudad sagrada del hinduismo.",
+     "respuesta": true,
+     "explicacion": "Está a orillas del Ganges."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los ghats son templos en la montaña.",
+     "respuesta": false,
+     "explicacion": "Son escalinatas que bajan al río."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La Meca es una ciudad sagrada del islam.",
+     "respuesta": true,
+     "explicacion": "Recibe peregrinaciones de todo el mundo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Bodh Gaya está relacionada con el budismo.",
+     "respuesta": true,
+     "explicacion": "Es una ciudad sagrada budista."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Las peregrinaciones mueven a pocas personas.",
+     "respuesta": false,
+     "explicacion": "Mueven a millones."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El río Ganges es sagrado para los hindúes.",
+     "respuesta": true,
+     "explicacion": "Por eso la vida de Varanasi mira al río."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿A orillas de qué río está Varanasi?",
+     "opciones": [
+      "Nilo",
+      "Ganges",
+      "Amazonas",
+      "Yangtsé"
+     ],
+     "correcta": 1,
+     "explicacion": "Del Ganges."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es una peregrinación?",
+     "opciones": [
+      "Un viaje de negocios",
+      "Un viaje por motivos religiosos",
+      "Una mudanza",
+      "Una excursión escolar"
+     ],
+     "correcta": 1,
+     "explicacion": "La hacen los creyentes."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿De qué religión es sagrada La Meca?",
+     "opciones": [
+      "Hinduismo",
+      "Budismo",
+      "Islam",
+      "Judaísmo"
+     ],
+     "correcta": 2,
+     "explicacion": "Del islam."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué país está Varanasi?",
+     "opciones": [
+      "India",
+      "China",
+      "Japón",
+      "Arabia Saudita"
+     ],
+     "correcta": 0,
+     "explicacion": "En el norte de la India."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué son los ghats?",
+     "opciones": [
+      "Barcos",
+      "Escalinatas que bajan al río",
+      "Templos budistas",
+      "Mercados"
+     ],
+     "correcta": 1,
+     "explicacion": "Allí la gente se baña y reza."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa que la religión organiza el espacio urbano?",
+     "opciones": [
+      "Que no hay templos",
+      "Que los templos ocupan lugares centrales y las calles llevan a ellos",
+      "Que solo hay casas",
+      "Que la ciudad no tiene centro"
+     ],
+     "correcta": 1,
+     "explicacion": "La religión ayuda a dibujar la ciudad."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "VARANASI",
+     "pista": "Ciudad sagrada del hinduismo, en la India."
+    },
+    {
+     "palabra": "GANGES",
+     "pista": "Río sagrado para los hindúes."
+    },
+    {
+     "palabra": "GHATS",
+     "pista": "Escalinatas que bajan al río en Varanasi."
+    },
+    {
+     "palabra": "PEREGRINO",
+     "pista": "Persona que viaja por motivos religiosos."
+    },
+    {
+     "palabra": "TEMPLO",
+     "pista": "Edificio dedicado a una religión."
+    },
+    {
+     "palabra": "SAGRADA",
+     "pista": "Considerada especial por una religión."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo influye la religión en algunas ciudades de Asia?",
+     "opciones": [
+      "No influye",
+      "Organiza el espacio y el calendario de la ciudad",
+      "Solo cambia los nombres de las calles",
+      "Prohíbe construir"
+     ],
+     "correcta": 1,
+     "explicacion": "Templos, calles y fechas giran en torno a ella."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué Varanasi mira hacia el río?",
+     "opciones": [
+      "Porque el Ganges es sagrado y allí se celebran ceremonias",
+      "Porque es un puerto industrial",
+      "Porque no tiene calles",
+      "Porque el río es salado"
+     ],
+     "correcta": 0,
+     "explicacion": "Los ghats bajan hasta el agua."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tiene que organizar una ciudad que recibe peregrinaciones?",
+     "opciones": [
+      "Nada",
+      "Solo templos",
+      "Transporte, alojamiento, agua y seguridad",
+      "Solo estacionamientos"
+     ],
+     "correcta": 2,
+     "explicacion": "Recibe a millones de personas."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "La megalópolis japonesa",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Cuando las ciudades se tocan",
+     "texto": "Una **ciudad** crece y sus alrededores se urbanizan: se forma un **área metropolitana**, como el Gran Rosario o el Gran Buenos Aires. Cuando varias áreas metropolitanas cercanas crecen tanto que se tocan, forman una franja urbana casi continua: una **megalópolis**.\n\nEl geógrafo francés Jean Gottmann usó esa palabra en 1961 para la franja de ciudades del noreste de Estados Unidos, de Boston a Washington. El término se usa también para otras regiones del mundo."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-07-megalopolis.svg",
+     "tipo": "grafico",
+     "alt": "Esquema en tres pasos: seis ciudades separadas (Kobe, Osaka, Kioto, Nagoya, Yokohama y Tokio); cada una forma un área metropolitana; al final, las áreas se tocan y forman una franja continua, recorrida por una línea de tren de alta velocidad.",
+     "epigrafe": "Esquema elaborado para esta clase. No es un mapa ni está a escala.",
+     "animacion": "aparecer"
+    },
+    {
+     "t": "texto",
+     "titulo": "De Tokio a Osaka",
+     "texto": "En Japón, sobre la costa del océano Pacífico, se extiende una de las megalópolis más grandes del mundo. Une las áreas metropolitanas de **Tokio** y Yokohama, **Nagoya**, Kioto, **Osaka** y Kobe. La mayor parte de la población y de la industria del país está en esa franja.\n\nJapón tiene mucha montaña y poca llanura, y las llanuras de la costa son el mejor lugar para construir ciudades, fábricas y puertos. Por eso la población se concentró allí y las ciudades terminaron uniéndose."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-07-shibuya.jpg",
+     "tipo": "foto",
+     "alt": "Un cruce de calles lleno de gente que camina en todas las direcciones sobre las sendas peatonales, rodeado de edificios con grandes carteles y pantallas.",
+     "epigrafe": "El cruce de Shibuya, en Tokio, en 2023: uno de los más concurridos del mundo.",
+     "fuente": "Foto: N509FZ, CC BY-SA 4.0, vía Wikimedia Commons. Imagen reducida.",
+     "animacion": "acercar"
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "Una **megalópolis** es una franja urbana casi continua que se forma cuando varias **áreas metropolitanas** crecen hasta tocarse. En Japón, une **Tokio**, **Nagoya** y **Osaka**, entre otras, sobre la costa del Pacífico, porque allí están las llanuras donde se concentró la población."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los pasos de cómo se forma una megalópolis, según el esquema.",
+     "items": [
+      "Hay varias ciudades separadas",
+      "Cada ciudad crece y forma un área metropolitana",
+      "Las áreas metropolitanas se tocan",
+      "Se forma una franja urbana casi continua"
+     ],
+     "explicacion": "Así se forma una megalópolis.",
+     "pista": "Seguí el esquema y el texto sobre cuándo las ciudades se tocan."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Es una ciudad, un área metropolitana o una megalópolis?",
+     "categorias": [
+      "Ciudad",
+      "Área metropolitana",
+      "Megalópolis"
+     ],
+     "items": [
+      {
+       "texto": "Una ciudad con sus alrededores urbanizados, como el Gran Rosario",
+       "cat": "Área metropolitana"
+      },
+      {
+       "texto": "La franja de Tokio a Osaka",
+       "cat": "Megalópolis"
+      },
+      {
+       "texto": "Kioto, sin contar sus alrededores",
+       "cat": "Ciudad"
+      },
+      {
+       "texto": "La franja de Boston a Washington",
+       "cat": "Megalópolis"
+      }
+     ],
+     "explicacion": "Ciudad, área metropolitana y megalópolis son tres escalas cada vez más grandes.",
+     "pista": "Releé el texto sobre cuándo las ciudades se tocan."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Completá el dato: ¿qué geógrafo usó la palabra megalópolis en 1961?",
+     "respuesta": "Gottmann",
+     "acepta": [
+      "gottmann",
+      "jean gottmann",
+      "gotman",
+      "gottman"
+     ],
+     "explicacion": "Jean Gottmann, para el noreste de Estados Unidos.",
+     "pista1": "Está en el texto sobre cuándo las ciudades se tocan.",
+     "pista": "Es un geógrafo francés; su nombre es Jean."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Por qué la megalópolis japonesa se formó sobre la costa del Pacífico?",
+     "opciones": [
+      "Porque allí llueve menos",
+      "Porque Japón tiene mucha montaña y las llanuras de la costa son el mejor lugar para construir",
+      "Porque está más cerca de la Argentina",
+      "Porque allí no hay sismos"
+     ],
+     "correcta": 1,
+     "explicacion": "La población se concentró en las llanuras costeras.",
+     "pista": "Releé el segundo párrafo del texto de Tokio a Osaka."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿qué ventajas y qué problemas puede tener vivir en una megalópolis?",
+     "respuesta": "Ventajas: más trabajo, más servicios, universidades, transporte y cultura. Problemas: viajes largos, viviendas caras y chicas, mucha gente en los mismos espacios y, en el caso de Japón, el riesgo de que un sismo afecte a millones de personas a la vez (lo viste en la clase del cinturón de fuego)."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es una megalópolis y cómo se forma. Describí la megalópolis japonesa: qué ciudades une y por qué está sobre la costa del Pacífico.",
+    "guia": [
+     "¿Qué diferencia hay entre una ciudad, un área metropolitana y una megalópolis?",
+     "¿Quién usó la palabra megalópolis y para qué región?",
+     "¿Qué ciudades une la megalópolis japonesa?",
+     "¿Por qué se formó sobre la costa?",
+     "¿Qué ventajas y problemas tiene vivir en una megalópolis?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Una megalópolis se forma cuando varias áreas metropolitanas se tocan.",
+     "respuesta": true,
+     "explicacion": "Forman una franja casi continua."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Jean Gottmann usó la palabra megalópolis en 1961.",
+     "respuesta": true,
+     "explicacion": "Para el noreste de Estados Unidos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La megalópolis japonesa está sobre la costa del océano Índico.",
+     "respuesta": false,
+     "explicacion": "Está sobre la costa del Pacífico."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El Gran Rosario es un área metropolitana.",
+     "respuesta": true,
+     "explicacion": "Es una ciudad con sus alrededores urbanizados."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Japón tiene mucha llanura y poca montaña.",
+     "respuesta": false,
+     "explicacion": "Tiene mucha montaña y poca llanura."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El cruce de Shibuya está en Tokio.",
+     "respuesta": true,
+     "explicacion": "Es uno de los más concurridos del mundo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué ciudades une la megalópolis japonesa?",
+     "opciones": [
+      "Tokio, Nagoya y Osaka, entre otras",
+      "Pekín y Shanghái",
+      "Boston y Washington",
+      "Seúl y Busan"
+     ],
+     "correcta": 0,
+     "explicacion": "Sobre la costa del Pacífico."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es un área metropolitana?",
+     "opciones": [
+      "Un barrio",
+      "Una ciudad con sus alrededores urbanizados",
+      "Un país",
+      "Un campo"
+     ],
+     "correcta": 1,
+     "explicacion": "Como el Gran Buenos Aires."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Para qué región usó Gottmann la palabra megalópolis?",
+     "opciones": [
+      "Japón",
+      "Europa",
+      "El noreste de Estados Unidos",
+      "La India"
+     ],
+     "correcta": 2,
+     "explicacion": "De Boston a Washington."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué la población japonesa se concentró en la costa?",
+     "opciones": [
+      "Porque allí están las llanuras",
+      "Porque allí hace frío",
+      "Porque no hay puertos",
+      "Porque es más alto"
+     ],
+     "correcta": 0,
+     "explicacion": "El interior es montañoso."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estas es una ciudad de la megalópolis japonesa?",
+     "opciones": [
+      "Varanasi",
+      "Nagoya",
+      "La Meca",
+      "Dubái"
+     ],
+     "correcta": 1,
+     "explicacion": "Nagoya está entre Tokio y Osaka."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué riesgo especial tiene la megalópolis japonesa?",
+     "opciones": [
+      "Las sequías del Sahel",
+      "Los sismos, que pueden afectar a millones de personas a la vez",
+      "La falta de agua dulce",
+      "La desertización"
+     ],
+     "correcta": 1,
+     "explicacion": "Japón está en el cinturón de fuego."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "MEGALÓPOLIS",
+     "pista": "Franja urbana formada por varias áreas metropolitanas."
+    },
+    {
+     "palabra": "TOKIO",
+     "pista": "Capital de Japón y extremo de la megalópolis."
+    },
+    {
+     "palabra": "OSAKA",
+     "pista": "Gran ciudad de la megalópolis japonesa."
+    },
+    {
+     "palabra": "GOTTMANN",
+     "pista": "Geógrafo que usó la palabra megalópolis."
+    },
+    {
+     "palabra": "LLANURA",
+     "pista": "Terreno plano, escaso en Japón."
+    },
+    {
+     "palabra": "SHIBUYA",
+     "pista": "Cruce famoso de Tokio."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia a una megalópolis de un área metropolitana?",
+     "opciones": [
+      "Es más chica",
+      "Une varias áreas metropolitanas en una franja continua",
+      "No tiene ciudades",
+      "Está en el campo"
+     ],
+     "correcta": 1,
+     "explicacion": "Es una escala mayor."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué las ciudades japonesas terminaron uniéndose?",
+     "opciones": [
+      "Porque la población se concentró en las pocas llanuras de la costa",
+      "Porque lo ordenó una ley",
+      "Porque no hay montañas",
+      "Porque se mudaron al interior"
+     ],
+     "correcta": 0,
+     "explicacion": "La geografía explica la forma de la megalópolis."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué muestra el esquema de la megalópolis?",
+     "opciones": [
+      "Un mapa exacto de Japón",
+      "Los pasos por los que varias ciudades llegan a formar una franja urbana",
+      "La población de cada ciudad",
+      "Los volcanes de Japón"
+     ],
+     "correcta": 1,
+     "explicacion": "Es un esquema, no un mapa."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Ciudad y tecnología",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Una megalópolis unida por la tecnología",
+     "texto": "Para que una franja urbana de cientos de kilómetros funcione, la gente y las mercancías tienen que moverse rápido entre sus ciudades. En Japón, eso se logró con tecnología. La más conocida es el **Shinkansen**, el tren de alta velocidad.\n\nLa primera línea, entre Tokio y Osaka, se inauguró el 1 de octubre de 1964, días antes de los Juegos Olímpicos de Tokio. Hoy une las dos ciudades en unas dos horas y media."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/geo-4-07-shinkansen.jpg",
+     "tipo": "foto",
+     "alt": "Un tren blanco con una franja azul y la trompa alargada pasa sobre un terraplén; detrás se levanta un volcán con la cima nevada.",
+     "epigrafe": "Un Shinkansen de la serie N700S pasa frente al monte Fuji, en 2023.",
+     "fuente": "Foto: Takeshi Aida, CC BY-SA 2.0, vía Wikimedia Commons. Imagen reducida.",
+     "animacion": "subir"
+    },
+    {
+     "t": "infografia",
+     "titulo": "El Shinkansen en números",
+     "items": [
+      {
+       "num": "1964",
+       "texto": "año en que se inauguró la primera línea, Tokio-Osaka"
+      },
+      {
+       "num": "285 km/h",
+       "texto": "velocidad máxima de los trenes N700S en esa línea"
+      },
+      {
+       "num": "2 h 30",
+       "texto": "aproximadamente, lo que tarda en unir Tokio y Osaka"
+      }
+     ],
+     "nota": "Datos de la línea Tokaido, entre Tokio y Osaka."
+    },
+    {
+     "t": "texto",
+     "titulo": "Tecnología en la vida urbana",
+     "texto": "La tecnología no está solo en los trenes. Tokio es sede de grandes empresas de electrónica, automotrices y de robótica, y tiene centros de investigación y universidades que generan innovación. En una región con tantos sismos, también se desarrollaron técnicas de **construcción sismorresistente** y sistemas de alerta, como los que viste en la clase del cinturón de fuego."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Para recordar",
+     "texto": "La megalópolis japonesa funciona gracias a la **tecnología**: el **Shinkansen**, inaugurado en **1964**, une Tokio y Osaka en unas dos horas y media. Tokio concentra empresas de electrónica, automotrices y robótica, y Japón desarrolló técnicas de **construcción sismorresistente**."
+    },
+    {
+     "t": "opcion",
+     "etiqueta": "📰 Elegí el titular",
+     "pregunta": "Es octubre de 1964 en Tokio. ¿Qué titular podría aparecer en un diario?",
+     "opciones": [
+      "\"Se inaugura el tren de alta velocidad entre Tokio y Osaka\"",
+      "\"Gottmann inventa la palabra megalópolis\"",
+      "\"Varanasi recibe peregrinos\"",
+      "\"Se funda la OPEP\""
+     ],
+     "correcta": 0,
+     "explicacion": "La primera línea del Shinkansen se inauguró el 1 de octubre de 1964.",
+     "pista": "Releé el texto sobre una megalópolis unida por la tecnología."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada dato con lo que significa.",
+     "pares": [
+      {
+       "a": "1964",
+       "b": "Año de la primera línea del Shinkansen"
+      },
+      {
+       "a": "285 km/h",
+       "b": "Velocidad máxima del N700S en la línea Tokio-Osaka"
+      },
+      {
+       "a": "Unas dos horas y media",
+       "b": "Lo que tarda el tren de Tokio a Osaka"
+      }
+     ],
+     "explicacion": "Todos los datos están en la infografía.",
+     "pista": "Mirá la infografía del Shinkansen."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "El [[Shinkansen]] es el tren de alta velocidad de Japón. Su primera línea unió Tokio y [[Osaka]] en 1964, antes de los Juegos [[Olímpicos]]. Como Japón tiene muchos sismos, desarrolló técnicas de construcción [[sismorresistente]].",
+     "distractores": [
+      "Kioto",
+      "subterránea",
+      "Mundiales"
+     ],
+     "explicacion": "La tecnología ayuda a que la megalópolis funcione y sea más segura.",
+     "pista": "Releé los textos de esta parte."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "El Shinkansen se inauguró en 1964.",
+       "v": true,
+       "explicacion": "El 1 de octubre de 1964."
+      },
+      {
+       "texto": "El Shinkansen une Tokio y Osaka en unas diez horas.",
+       "v": false,
+       "explicacion": "En unas dos horas y media."
+      },
+      {
+       "texto": "Tokio es sede de empresas de electrónica y robótica.",
+       "v": true,
+       "explicacion": "También de automotrices."
+      },
+      {
+       "texto": "La construcción sismorresistente sirve para que los edificios soporten sismos.",
+       "v": true,
+       "explicacion": "Lo viste en la clase del cinturón de fuego."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿qué cambiaría en la vida de las personas si pudieran viajar entre Rosario y Buenos Aires en una hora?",
+     "respuesta": "Mucha gente podría vivir en una ciudad y trabajar o estudiar en la otra, las empresas podrían ubicarse en cualquiera de las dos y las ciudades quedarían más integradas. Es lo que pasó en Japón: el tren rápido ayudó a que varias ciudades funcionen como una sola región."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá cómo la tecnología ayuda a que funcione la megalópolis japonesa. Usá los datos del Shinkansen y nombrá otros ejemplos de tecnología en la vida urbana.",
+    "guia": [
+     "¿Qué es el Shinkansen y cuándo se inauguró?",
+     "¿Cuánto tarda en unir Tokio y Osaka?",
+     "¿Por qué un tren rápido es importante para una megalópolis?",
+     "¿Qué empresas tienen sede en Tokio?",
+     "¿Por qué Japón desarrolló la construcción sismorresistente?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El Shinkansen es un tren de alta velocidad.",
+     "respuesta": true,
+     "explicacion": "Une las ciudades de la megalópolis."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La primera línea del Shinkansen se inauguró en 2010.",
+     "respuesta": false,
+     "explicacion": "Se inauguró en 1964."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El N700S llega a 285 km/h en la línea Tokio-Osaka.",
+     "respuesta": true,
+     "explicacion": "Es su velocidad máxima en esa línea."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El Shinkansen se inauguró antes de los Juegos Olímpicos de Tokio.",
+     "respuesta": true,
+     "explicacion": "Días antes, en octubre de 1964."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Japón no tiene problemas con los sismos.",
+     "respuesta": false,
+     "explicacion": "Está en el cinturón de fuego."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Tokio es sede de empresas de robótica.",
+     "respuesta": true,
+     "explicacion": "Y de electrónica y automotrices."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué ciudades unió la primera línea del Shinkansen?",
+     "opciones": [
+      "Tokio y Osaka",
+      "Tokio y Kioto",
+      "Osaka y Kobe",
+      "Nagoya y Yokohama"
+     ],
+     "correcta": 0,
+     "explicacion": "Fue la línea Tokaido."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuánto tarda el Shinkansen de Tokio a Osaka?",
+     "opciones": [
+      "Diez horas",
+      "Unas dos horas y media",
+      "Veinte minutos",
+      "Un día"
+     ],
+     "correcta": 1,
+     "explicacion": "Aproximadamente."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Para qué sirve un tren rápido en una megalópolis?",
+     "opciones": [
+      "Para separar las ciudades",
+      "Para que gente y mercancías se muevan rápido entre ciudades",
+      "Para llevar peregrinos a La Meca",
+      "Para transportar petróleo"
+     ],
+     "correcta": 1,
+     "explicacion": "Une las ciudades."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué volcán aparece en la foto del Shinkansen?",
+     "opciones": [
+      "El Vesubio",
+      "El Lanín",
+      "El monte Fuji",
+      "El Etna"
+     ],
+     "correcta": 2,
+     "explicacion": "El monte Fuji, en Japón."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué técnica desarrolló Japón por los sismos?",
+     "opciones": [
+      "Agricultura de secano",
+      "Construcción sismorresistente",
+      "Fractura hidráulica",
+      "Pastoreo"
+     ],
+     "correcta": 1,
+     "explicacion": "Para que los edificios soporten sismos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué velocidad máxima alcanza el N700S en la línea Tokio-Osaka?",
+     "opciones": [
+      "85 km/h",
+      "185 km/h",
+      "285 km/h",
+      "985 km/h"
+     ],
+     "correcta": 2,
+     "explicacion": "285 km/h."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "SHINKANSEN",
+     "pista": "Tren de alta velocidad de Japón."
+    },
+    {
+     "palabra": "FUJI",
+     "pista": "Volcán que aparece en la foto del tren."
+    },
+    {
+     "palabra": "ROBÓTICA",
+     "pista": "Tecnología de los robots."
+    },
+    {
+     "palabra": "VELOCIDAD",
+     "pista": "El N700S llega a 285 km/h."
+    },
+    {
+     "palabra": "TECNOLOGÍA",
+     "pista": "Lo que hace funcionar la megalópolis."
+    },
+    {
+     "palabra": "OLÍMPICOS",
+     "pista": "Juegos que se hicieron en Tokio en 1964."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué la tecnología es clave para la megalópolis japonesa?",
+     "opciones": [
+      "Porque permite mover rápido a la gente y las mercancías entre ciudades",
+      "Porque reemplaza a las ciudades",
+      "Porque evita los sismos",
+      "Porque no hay trenes"
+     ],
+     "correcta": 0,
+     "explicacion": "El Shinkansen une la franja."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué relación hay entre los sismos y la tecnología en Japón?",
+     "opciones": [
+      "Ninguna",
+      "Japón desarrolló construcción sismorresistente y sistemas de alerta",
+      "Los trenes provocan sismos",
+      "La tecnología evita los sismos"
+     ],
+     "correcta": 1,
+     "explicacion": "Reduce la vulnerabilidad."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué pasaría si dos ciudades quedaran a una hora de tren?",
+     "opciones": [
+      "Quedarían más separadas",
+      "Se integrarían más: la gente podría vivir en una y trabajar en la otra",
+      "Desaparecerían",
+      "No cambiaría nada"
+     ],
+     "correcta": 1,
+     "explicacion": "Es lo que pasó en Japón."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Ciudad sagrada",
+   "definicion": "Ciudad que una religión considera especial y que recibe peregrinaciones."
+  },
+  {
+   "palabra": "Peregrinación",
+   "definicion": "Viaje que hacen los creyentes por motivos religiosos."
+  },
+  {
+   "palabra": "Ghats",
+   "definicion": "Escalinatas que bajan al río Ganges en Varanasi."
+  },
+  {
+   "palabra": "Área metropolitana",
+   "definicion": "Ciudad con sus alrededores urbanizados."
+  },
+  {
+   "palabra": "Megalópolis",
+   "definicion": "Franja urbana casi continua formada por varias áreas metropolitanas que se tocan."
+  },
+  {
+   "palabra": "Shinkansen",
+   "definicion": "Tren de alta velocidad de Japón, inaugurado en 1964."
+  },
+  {
+   "palabra": "Sismorresistente",
+   "definicion": "Construido para soportar los movimientos de un sismo."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Una megalópolis es una ciudad muy grande.",
+   "aclaracion": "Es una franja formada por varias áreas metropolitanas que crecieron hasta tocarse."
+  },
+  {
+   "error": "La religión no tiene que ver con la forma de las ciudades.",
+   "aclaracion": "En muchas ciudades de Asia, los templos, las calles y el calendario se organizan en torno a la religión."
+  },
+  {
+   "error": "El Shinkansen es un tren moderno de los últimos años.",
+   "aclaracion": "Su primera línea se inauguró en 1964, antes de los Juegos Olímpicos de Tokio."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "¿Conocés en la Argentina alguna ciudad que reciba peregrinaciones? ¿Cómo se organiza para recibirlas?",
+  "conexion": "Con la clase de las ciudades globales: Tokio es una de las tres ciudades que estudió Saskia Sassen."
+ }
+}

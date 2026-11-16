@@ -1,0 +1,1171 @@
+{
+  "id": "his-4-08",
+  "espacio": "historia",
+  "eje": "Neoliberalismo y después",
+  "titulo": "El modelo neoliberal en la Argentina y América Latina",
+  "intro": "En las últimas décadas del siglo XX, en la Argentina y en América Latina se aplicó un modelo económico que proponía achicar el papel del Estado y abrir la economía: el neoliberalismo. Vas a ver qué propone, cómo se aplicó primero bajo dictaduras y después en democracia, y qué debates genera.",
+  "tp_aporte": "Para tu trabajo práctico ya tenés: qué es el neoliberalismo y en qué se diferencia del Estado interventor, cómo se aplicó en Chile y en la Argentina bajo dictaduras, y cómo se aplicó en democracia en los años 90, con los argumentos de quienes lo defienden y quienes lo critican.",
+  "objetivos": [
+    "Explicar qué es el neoliberalismo y en qué se diferencia del Estado interventor.",
+    "Reconocer cómo se aplicaron las primeras políticas neoliberales durante las dictaduras de Chile y la Argentina.",
+    "Explicar las políticas de los años 90 y los argumentos de quienes las defienden y quienes las critican."
+  ],
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "¿Qué es el neoliberalismo?",
+      "tiempo": "30 a 40 min",
+      "recordas": "En clases anteriores viste un Estado que intervenía mucho en la economía. ¿Qué cosas hacía ese Estado?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Una idea opuesta al Estado interventor",
+          "texto": "Desde 1930, en muchos países el Estado tuvo un papel muy activo en la economía: regulaba precios, protegía la industria, tenía empresas propias. En la década de 1970, ese modelo entró en crisis en distintas partes del mundo: hubo inflación, aumentos del petróleo y deudas.\n\nEntonces ganó fuerza otra idea: el **neoliberalismo**. Propone que el Estado **intervenga lo menos posible** y que la economía funcione con las reglas del **mercado**: que las empresas compitan, que los precios se fijen por oferta y demanda, y que el país se abra al comercio y a las inversiones del mundo."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Dos modelos: Estado interventor y neoliberalismo",
+          "columnas": [
+            "",
+            "Estado interventor",
+            "Neoliberalismo"
+          ],
+          "filas": [
+            [
+              "Rol del Estado",
+              "Planifica y regula la economía",
+              "Interviene lo menos posible"
+            ],
+            [
+              "Empresas de servicios",
+              "Muchas son del Estado",
+              "Se privatizan (pasan a manos privadas)"
+            ],
+            [
+              "Comercio exterior",
+              "Se protege la industria nacional",
+              "Se abre la economía a los productos de afuera"
+            ],
+            [
+              "Precios y salarios",
+              "El Estado los regula",
+              "Los fija el mercado"
+            ]
+          ]
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "src": "img/clases/his-4-08-dos-modelos.svg",
+          "src_movil": "img/clases/his-4-08-dos-modelos-movil.svg",
+          "tipo": "grafico",
+          "alt": "Esquema con íconos que compara el Estado interventor y el neoliberalismo en cuatro aspectos: rol del Estado, empresas de servicios, comercio exterior y precios y salarios.",
+          "epigrafe": "La tabla de los dos modelos, fila por fila. Esquema elaborado para esta clase."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada medida es propia del Estado interventor o del neoliberalismo? Usá la tabla para ayudarte.",
+          "categorias": [
+            "Estado interventor",
+            "Neoliberalismo"
+          ],
+          "items": [
+            {
+              "texto": "Privatizar una empresa estatal",
+              "cat": "Neoliberalismo"
+            },
+            {
+              "texto": "Proteger la industria nacional con impuestos a lo importado",
+              "cat": "Estado interventor"
+            },
+            {
+              "texto": "Abrir la economía a los productos de afuera",
+              "cat": "Neoliberalismo"
+            },
+            {
+              "texto": "Fijar precios máximos",
+              "cat": "Estado interventor"
+            },
+            {
+              "texto": "Que el mercado fije los precios",
+              "cat": "Neoliberalismo"
+            },
+            {
+              "texto": "Nacionalizar los ferrocarriles",
+              "cat": "Estado interventor"
+            }
+          ],
+          "explicacion": "Son dos formas opuestas de pensar el papel del Estado en la economía."
+        },
+        {
+          "t": "destacado",
+          "titulo": "El Consenso de Washington (1989)",
+          "texto": "En 1989, economistas de organismos internacionales con sede en Washington (como el Fondo Monetario Internacional y el Banco Mundial) resumieron un conjunto de recomendaciones para los países de América Latina. Se lo llamó **Consenso de Washington**. Entre otras cosas, proponía:\n\n• Controlar el gasto del Estado.\n• **Abrir** la economía al comercio internacional.\n• **Privatizar** empresas públicas.\n• **Desregular**: reducir las reglas del Estado sobre la economía."
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada palabra con su significado.",
+          "pares": [
+            {
+              "a": "Privatizar",
+              "b": "Pasar una empresa del Estado a manos privadas"
+            },
+            {
+              "a": "Desregular",
+              "b": "Reducir las reglas del Estado sobre la economía"
+            },
+            {
+              "a": "Apertura económica",
+              "b": "Facilitar que entren productos e inversiones de afuera"
+            },
+            {
+              "a": "Mercado",
+              "b": "Donde se compran y venden bienes, y se fijan precios por oferta y demanda"
+            }
+          ],
+          "explicacion": "Son palabras clave para entender el modelo neoliberal.",
+          "pista": "Releé la tabla y el recuadro del Consenso de Washington."
+        },
+        {
+          "t": "texto",
+          "titulo": "Un debate que sigue abierto",
+          "texto": "Sobre este modelo hay un **debate** que todavía continúa. Quienes lo defienden sostienen que un Estado más chico y una economía abierta generan competencia, inversiones y crecimiento. Quienes lo critican sostienen que deja sin protección a la industria nacional y a los trabajadores, y aumenta la desigualdad.\n\nEn esta clase vas a ver qué pasó cuando se aplicó en la Argentina y en América Latina, para que puedas sacar tus propias conclusiones."
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "🗣️ ¿Quién lo diría?",
+          "pregunta": "Esta frase es inventada, para pensar: \"Si el Estado deja de regular, las empresas van a competir, bajar precios e invertir\". ¿Quién la diría con más probabilidad?",
+          "opciones": [
+            "Alguien que defiende el neoliberalismo",
+            "Alguien que defiende el Estado interventor",
+            "Un dirigente de la Resistencia peronista",
+            "Alguien que pide nacionalizar empresas"
+          ],
+          "correcta": 0,
+          "explicacion": "Es uno de los argumentos de quienes defienden el modelo neoliberal.",
+          "pista": "Releé el texto \"Un debate que sigue abierto\"."
+        },
+        {
+          "t": "linea",
+          "titulo": "Del Estado interventor al neoliberalismo",
+          "eventos": [
+            {
+              "anio": "1930",
+              "titulo": "Crece el Estado interventor",
+              "texto": "Después de la crisis de 1929, el Estado interviene cada vez más."
+            },
+            {
+              "anio": "1973",
+              "titulo": "Crisis del petróleo",
+              "texto": "Sube el precio del petróleo y empieza una crisis económica mundial."
+            },
+            {
+              "anio": "1989",
+              "titulo": "Consenso de Washington",
+              "texto": "Se resumen las recomendaciones neoliberales para América Latina."
+            }
+          ]
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué crees que, cuando un modelo económico entra en crisis, ganan fuerza las ideas opuestas?",
+          "respuesta": "Porque si un modelo deja de dar resultados (por ejemplo, hay inflación o deudas), mucha gente busca alternativas, y las ideas que proponen lo contrario aparecen como una solución. Pasó en 1929 con el liberalismo y en la década de 1970 con el Estado interventor."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué es el neoliberalismo y en qué se diferencia del Estado interventor. Contá en qué contexto ganó fuerza, qué proponía el Consenso de Washington y cuáles son los argumentos de quienes lo defienden y de quienes lo critican.",
+        "guia": [
+          "¿Qué propone el neoliberalismo sobre el papel del Estado?",
+          "¿En qué se diferencia del Estado interventor?",
+          "¿Por qué ganó fuerza en la década de 1970?",
+          "¿Qué recomendaba el Consenso de Washington?",
+          "¿Qué dicen quienes lo defienden y quienes lo critican?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "neoliberal"
+            ],
+            "p": "el neoliberalismo"
+          },
+          {
+            "k": [
+              "mercado",
+              "intervenga lo menos",
+              "menos posible"
+            ],
+            "p": "qué propone"
+          },
+          {
+            "k": [
+              "interventor"
+            ],
+            "p": "la diferencia con el Estado interventor"
+          },
+          {
+            "k": [
+              "consenso de washington",
+              "privatiz",
+              "apertura",
+              "desregul"
+            ],
+            "p": "el Consenso de Washington"
+          },
+          {
+            "k": [
+              "defien",
+              "critic",
+              "debate"
+            ],
+            "p": "el debate"
+          }
+        ],
+        "referencia": "El neoliberalismo propone que el Estado intervenga lo menos posible y que la economía funcione con las reglas del mercado. Ganó fuerza con la crisis de los años 70. A diferencia del Estado interventor, privatiza empresas, abre la economía y deja que el mercado fije los precios. El Consenso de Washington (1989) recomendó controlar el gasto, abrir la economía, privatizar y desregular. Sus defensores dicen que genera competencia e inversiones; sus críticos, que desprotege a la industria y a los trabajadores y aumenta la desigualdad.",
+        "minPalabras": 40
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El neoliberalismo propone que el Estado intervenga lo menos posible en la economía.",
+          "respuesta": true,
+          "explicacion": "Y que la economía funcione con las reglas del mercado."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El neoliberalismo propone nacionalizar las empresas de servicios.",
+          "respuesta": false,
+          "explicacion": "Propone privatizarlas: pasarlas a manos privadas."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la década de 1970 el modelo del Estado interventor entró en crisis en distintas partes del mundo.",
+          "respuesta": true,
+          "explicacion": "Hubo inflación, aumentos del petróleo y deudas."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Consenso de Washington recomendaba privatizar y abrir la economía.",
+          "respuesta": true,
+          "explicacion": "También controlar el gasto y desregular."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Sobre el neoliberalismo no hay ningún debate: todos opinan lo mismo.",
+          "respuesta": false,
+          "explicacion": "Hay defensores y críticos, y el debate sigue abierto."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Desregular es reducir las reglas del Estado sobre la economía.",
+          "respuesta": true,
+          "explicacion": "Es una de las medidas del modelo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En el Estado interventor, el Estado protege la industria nacional.",
+          "respuesta": true,
+          "explicacion": "El neoliberalismo, en cambio, abre la economía."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué significa privatizar?",
+          "opciones": [
+            "Pasar una empresa estatal a privados",
+            "Pasar una empresa privada a manos del Estado",
+            "Cerrar una empresa que da pérdidas",
+            "Subir los impuestos a las empresas"
+          ],
+          "correcta": 0,
+          "explicacion": "Lo contrario es nacionalizar."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué propone el neoliberalismo sobre los precios?",
+          "opciones": [
+            "Que los fije el mercado",
+            "Que los fije el Estado",
+            "Que no existan",
+            "Que los fijen los sindicatos"
+          ],
+          "correcta": 0,
+          "explicacion": "Por oferta y demanda."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué año se formuló el Consenso de Washington?",
+          "opciones": [
+            "1989",
+            "1930",
+            "1973",
+            "1955"
+          ],
+          "correcta": 0,
+          "explicacion": "Resumió recomendaciones para América Latina."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué argumento usan quienes defienden el neoliberalismo?",
+          "opciones": [
+            "Genera competencia e inversiones",
+            "Protege a la industria nacional de las importaciones",
+            "Aumenta el gasto del Estado en empresas públicas",
+            "Cierra la economía"
+          ],
+          "correcta": 0,
+          "explicacion": "Quienes lo critican dicen que aumenta la desigualdad."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué argumento usan quienes lo critican?",
+          "opciones": [
+            "Desprotege a la industria y a los trabajadores",
+            "El Estado interviene demasiado en la economía",
+            "Genera demasiadas inversiones extranjeras",
+            "Hace subir demasiado los salarios"
+          ],
+          "correcta": 0,
+          "explicacion": "Sus defensores sostienen que genera crecimiento."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué hecho de 1973 ayudó a la crisis del Estado interventor?",
+          "opciones": [
+            "La crisis del petróleo",
+            "El Cordobazo",
+            "El Consenso de Washington",
+            "La creación del IAPI"
+          ],
+          "correcta": 0,
+          "explicacion": "Subió el precio del petróleo y empezó una crisis mundial."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "NEOLIBERALISMO",
+          "pista": "Modelo que propone que el Estado intervenga lo menos posible."
+        },
+        {
+          "palabra": "PRIVATIZAR",
+          "pista": "Pasar una empresa del Estado a manos privadas."
+        },
+        {
+          "palabra": "MERCADO",
+          "pista": "Según el neoliberalismo, debe fijar los precios."
+        },
+        {
+          "palabra": "DESREGULAR",
+          "pista": "Reducir las reglas del Estado sobre la economía."
+        },
+        {
+          "palabra": "WASHINGTON",
+          "pista": "Consenso de ___ (1989)."
+        },
+        {
+          "palabra": "APERTURA",
+          "pista": "Facilitar que entren productos e inversiones de afuera."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la idea central del neoliberalismo?",
+          "opciones": [
+            "Que el Estado intervenga lo menos posible",
+            "Que el Estado planifique y controle toda la economía",
+            "Que se cierre el comercio exterior para proteger la industria",
+            "Que se nacionalicen todas las empresas privadas del país"
+          ],
+          "correcta": 0,
+          "explicacion": "Es una idea opuesta a la del Estado interventor."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué recomendaba el Consenso de Washington (1989)?",
+          "opciones": [
+            "Abrir la economía, privatizar y desregular",
+            "Proteger la industria nacional y nacionalizar empresas",
+            "Cerrar la economía",
+            "Aumentar el gasto del Estado y crear empresas públicas"
+          ],
+          "correcta": 0,
+          "explicacion": "Eran recomendaciones para los países de América Latina."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Sobre el neoliberalismo hay un debate entre quienes lo defienden y quienes lo critican.",
+          "respuesta": true,
+          "explicacion": "Por eso conviene conocer los argumentos de cada lado."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Neoliberalismo y dictaduras: Chile y la Argentina",
+      "tiempo": "30 a 40 min",
+      "recordas": "¿Qué recordás de la última dictadura en la Argentina (1976-1983)?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Las primeras aplicaciones, bajo dictaduras",
+          "texto": "En América Latina, las primeras políticas neoliberales se aplicaron durante **dictaduras militares**. Por eso el diseño curricular pide estudiar cómo se combinaron con el **terrorismo de Estado**: se aplicaron sin Congreso, sin partidos y sin sindicatos que pudieran discutirlas, y en un contexto de represión.\n\nEl primer caso fue **Chile**: después del golpe de 1973, el gobierno de Augusto Pinochet aplicó un programa económico basado en el libre mercado, con economistas formados en la Universidad de Chicago, en Estados Unidos."
+        },
+        {
+          "t": "texto",
+          "titulo": "La Argentina desde 1976",
+          "texto": "En la Argentina, desde 1976, el ministro de Economía **José Alfredo Martínez de Hoz** aplicó medidas en esa línea:\n\n• **Apertura** de la economía a los productos importados.\n• **Reforma financiera** (1977): más libertad para los bancos y las tasas de interés.\n• Fin de muchas regulaciones del Estado.\n\nEn esos años creció mucho la **deuda externa**, y muchas fábricas no pudieron competir con los productos importados y cerraron. En 1982, gran parte de la deuda de empresas privadas pasó a ser pagada por el Estado."
+        },
+        {
+          "t": "linea",
+          "titulo": "Neoliberalismo y dictaduras en el Cono Sur",
+          "eventos": [
+            {
+              "anio": "1973",
+              "titulo": "Golpe en Chile",
+              "texto": "Comienza la dictadura de Augusto Pinochet, que aplica un programa de libre mercado."
+            },
+            {
+              "anio": "1976",
+              "titulo": "Golpe en la Argentina",
+              "texto": "Martínez de Hoz asume como ministro de Economía."
+            },
+            {
+              "anio": "1977",
+              "titulo": "Reforma financiera",
+              "texto": "Más libertad para los bancos y las tasas de interés."
+            },
+            {
+              "anio": "1982",
+              "titulo": "La deuda privada pasa al Estado",
+              "texto": "El Estado se hace cargo de gran parte de la deuda de empresas privadas."
+            }
+          ]
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená estos hechos de más antiguo a más reciente. Los años no están: buscalos en la línea de tiempo.",
+          "items": [
+            "Golpe en Chile y llegada de Pinochet",
+            "Golpe en la Argentina y llegada de Martínez de Hoz al Ministerio de Economía",
+            "Reforma financiera en la Argentina",
+            "El Estado se hace cargo de gran parte de la deuda privada"
+          ],
+          "explicacion": "Chile fue el primer caso; la Argentina siguió desde 1976.",
+          "pista": "Todos los hechos están en la línea \"Neoliberalismo y dictaduras en el Cono Sur\"."
+        },
+        {
+          "t": "pasos",
+          "titulo": "Una cadena de efectos: la apertura y la industria",
+          "pasos": [
+            {
+              "titulo": "Se abre la economía",
+              "texto": "Entran más productos importados, muchas veces más baratos."
+            },
+            {
+              "titulo": "Compiten con lo nacional",
+              "texto": "Las fábricas argentinas tienen que competir con esos productos."
+            },
+            {
+              "titulo": "Algunas no pueden",
+              "texto": "Muchas fábricas, sobre todo pequeñas y medianas, cierran."
+            },
+            {
+              "titulo": "Se pierde empleo industrial",
+              "texto": "Disminuye la cantidad de obreros en la industria."
+            }
+          ]
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá el texto con las palabras que corresponden.",
+          "texto": "Las primeras políticas neoliberales de América Latina se aplicaron durante [[dictaduras]]. El primer caso fue [[Chile]], desde 1973. En la Argentina, desde 1976, se abrió la economía a los productos [[importados]] y creció mucho la deuda [[externa]].",
+          "distractores": [
+            "elecciones",
+            "Brasil",
+            "nacionales",
+            "interna"
+          ],
+          "explicacion": "Así se resume el comienzo del neoliberalismo en el Cono Sur.",
+          "pista": "Releé los dos primeros textos de esta parte."
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "🔍 Encontrá el error",
+          "pregunta": "Una de estas frases tiene un error. ¿Cuál?",
+          "opciones": [
+            "Chile fue el primer caso de políticas neoliberales en América Latina.",
+            "En la Argentina, desde 1976, se abrió la economía a los productos importados.",
+            "Con la apertura, todas las fábricas argentinas crecieron.",
+            "En 1982 gran parte de la deuda de empresas privadas pasó al Estado."
+          ],
+          "correcta": 2,
+          "explicacion": "Con la apertura, **muchas fábricas no pudieron competir** con los productos importados y cerraron.",
+          "pista": "Volvé a leer el texto \"La Argentina desde 1976\"."
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "Chequeá",
+          "pregunta": "¿Por qué el diseño curricular pide estudiar el neoliberalismo junto con el terrorismo de Estado?",
+          "opciones": [
+            "Las primeras medidas se aplicaron en dictaduras",
+            "En todos los países se aplicó solo bajo dictaduras",
+            "Las dictaduras nacionalizaron las empresas extranjeras",
+            "No tienen relación"
+          ],
+          "correcta": 0,
+          "explicacion": "Más adelante, en la década de 1990, también se aplicaron políticas neoliberales en gobiernos democráticos.",
+          "pista": "Releé el primer texto de esta parte."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿qué diferencia hay entre aplicar una política económica en una dictadura o en una democracia?",
+          "respuesta": "En una democracia, las medidas se pueden debatir en el Congreso, criticar en los medios, discutir con sindicatos y empresarios, y la ciudadanía puede votar a favor o en contra en las elecciones. En una dictadura, no hay Congreso ni partidos, los sindicatos están prohibidos y hay censura: nadie puede oponerse ni cambiar el rumbo por medios legales."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá cómo se aplicaron las primeras políticas neoliberales en Chile y en la Argentina. Contá en qué contexto político se aplicaron, qué medidas se tomaron en la Argentina desde 1976 y qué efectos tuvieron sobre la industria y la deuda externa.",
+        "guia": [
+          "¿Cuál fue el primer caso en América Latina y desde cuándo?",
+          "¿En qué contexto político se aplicaron esas medidas?",
+          "¿Qué medidas tomó Martínez de Hoz desde 1976?",
+          "¿Qué efectos tuvo la apertura sobre la industria?",
+          "¿Qué pasó con la deuda externa?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "chile",
+              "pinochet",
+              "1973"
+            ],
+            "p": "el caso de Chile"
+          },
+          {
+            "k": [
+              "dictadura",
+              "sin congreso",
+              "terrorismo de estado"
+            ],
+            "p": "el contexto político"
+          },
+          {
+            "k": [
+              "martinez de hoz",
+              "apertura",
+              "reforma financiera"
+            ],
+            "p": "las medidas en la Argentina"
+          },
+          {
+            "k": [
+              "industria",
+              "fabricas",
+              "cerraron"
+            ],
+            "p": "los efectos sobre la industria"
+          },
+          {
+            "k": [
+              "deuda"
+            ],
+            "p": "la deuda externa"
+          }
+        ],
+        "referencia": "Las primeras políticas neoliberales de América Latina se aplicaron durante dictaduras: Chile desde 1973 (Pinochet) y la Argentina desde 1976 (Martínez de Hoz), sin Congreso, partidos ni sindicatos y en un contexto de terrorismo de Estado. En la Argentina hubo apertura a los importados, reforma financiera (1977) y menos regulaciones. Muchas fábricas cerraron, creció la deuda externa y en 1982 el Estado se hizo cargo de gran parte de la deuda privada.",
+        "minPalabras": 40
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El primer caso de políticas neoliberales en América Latina fue Chile, desde 1973.",
+          "respuesta": true,
+          "explicacion": "Durante la dictadura de Pinochet."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Las primeras medidas neoliberales en el Cono Sur se debatieron en el Congreso.",
+          "respuesta": false,
+          "explicacion": "Se aplicaron durante dictaduras, sin Congreso."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Martínez de Hoz fue ministro de Economía desde 1976.",
+          "respuesta": true,
+          "explicacion": "Aplicó medidas de apertura y reforma financiera."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con la apertura, muchas fábricas no pudieron competir y cerraron.",
+          "respuesta": true,
+          "explicacion": "Sobre todo pequeñas y medianas."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Entre 1976 y 1983 la deuda externa bajó mucho.",
+          "respuesta": false,
+          "explicacion": "Creció mucho."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En 1982 el Estado se hizo cargo de gran parte de la deuda de empresas privadas.",
+          "respuesta": true,
+          "explicacion": "La deuda privada pasó a ser pagada por el Estado."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La reforma financiera de 1977 dio más libertad a los bancos.",
+          "respuesta": true,
+          "explicacion": "También a las tasas de interés."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quién gobernaba Chile desde 1973?",
+          "opciones": [
+            "Augusto Pinochet",
+            "Fidel Castro",
+            "Getúlio Vargas",
+            "Lázaro Cárdenas"
+          ],
+          "correcta": 0,
+          "explicacion": "Aplicó un programa de libre mercado."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál fue una medida económica en la Argentina desde 1976?",
+          "opciones": [
+            "La apertura a los productos importados",
+            "La nacionalización de los ferrocarriles",
+            "La creación del IAPI",
+            "El aguinaldo"
+          ],
+          "correcta": 0,
+          "explicacion": "También la reforma financiera."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué le pasó a muchas fábricas con la apertura?",
+          "opciones": [
+            "No pudieron competir y cerraron",
+            "Crecieron porque no tenían competencia",
+            "Pasaron a manos del Estado",
+            "Exportaron toda su producción"
+          ],
+          "correcta": 0,
+          "explicacion": "Disminuyó el empleo industrial."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué pasó en 1982 con la deuda privada?",
+          "opciones": [
+            "El Estado se hizo cargo de gran parte",
+            "Se canceló por completo",
+            "La pagaron los trabajadores con sus salarios",
+            "Desapareció"
+          ],
+          "correcta": 0,
+          "explicacion": "Pasó a ser pagada por el Estado."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué se estudia el neoliberalismo junto con el terrorismo de Estado?",
+          "opciones": [
+            "Porque en el Cono Sur se aplicó primero bajo dictaduras",
+            "Porque fueron lo mismo",
+            "Porque el terrorismo de Estado fue un plan económico",
+            "Porque no tienen relación"
+          ],
+          "correcta": 0,
+          "explicacion": "Sin Congreso, partidos ni sindicatos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿De dónde eran muchos economistas del programa chileno?",
+          "opciones": [
+            "Formados en la Universidad de Chicago",
+            "Formados en universidades de la URSS",
+            "De la CEPAL, con sede en Santiago de Chile",
+            "Del IAPI, el instituto creado por Perón"
+          ],
+          "correcta": 0,
+          "explicacion": "En Estados Unidos."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "PINOCHET",
+          "pista": "Dictador de Chile desde 1973."
+        },
+        {
+          "palabra": "DEUDA EXTERNA",
+          "pista": "Creció mucho entre 1976 y 1983."
+        },
+        {
+          "palabra": "IMPORTADOS",
+          "pista": "Productos de afuera que entraron con la apertura."
+        },
+        {
+          "palabra": "FÁBRICAS",
+          "pista": "Muchas cerraron porque no pudieron competir."
+        },
+        {
+          "palabra": "CHICAGO",
+          "pista": "Universidad donde se formaron economistas del programa chileno."
+        },
+        {
+          "palabra": "FINANCIERA",
+          "pista": "Reforma ___ de 1977."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué contexto se aplicaron las primeras políticas neoliberales en Chile y la Argentina?",
+          "opciones": [
+            "Durante dictaduras, sin Congreso",
+            "En democracias, con un amplio debate en el Congreso",
+            "Con gobiernos peronistas",
+            "Durante una guerra entre Chile y la Argentina"
+          ],
+          "correcta": 0,
+          "explicacion": "Chile desde 1973 y la Argentina desde 1976."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué efecto tuvo la apertura económica desde 1976 sobre la industria?",
+          "opciones": [
+            "Muchas fábricas no pudieron competir y cerraron",
+            "La industria creció porque ya no tenía competencia",
+            "Se crearon muchas empresas nuevas del Estado",
+            "No tuvo ningún efecto sobre las fábricas del país"
+          ],
+          "correcta": 0,
+          "explicacion": "Entraron productos importados más baratos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Entre 1976 y 1983 creció mucho la deuda externa argentina.",
+          "respuesta": true,
+          "explicacion": "Y en 1982 el Estado se hizo cargo de gran parte de la deuda privada."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Los años 90: neoliberalismo en democracia",
+      "tiempo": "40 a 50 min",
+      "recordas": "¿Escuchaste hablar del \"uno a uno\" o de las privatizaciones de los años 90?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "De la hiperinflación a la convertibilidad",
+          "texto": "En 1983 volvió la democracia, pero la economía tenía problemas graves: deuda externa e inflación. En **1989** hubo **hiperinflación**: los precios subían tanto que cambiaban de un día para otro y el dinero perdía su valor muy rápido.\n\nEse año asumió **Carlos Menem**, elegido por el voto. Su gobierno aplicó políticas en la línea del **Consenso de Washington**. En **1991** se estableció la **convertibilidad**: por ley, **un peso valía un dólar** (\"el uno a uno\"). La inflación bajó mucho."
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "src": "img/clases/his-4-08-convertibilidad.svg",
+          "src_movil": "img/clases/his-4-08-convertibilidad-movil.svg",
+          "tipo": "grafico",
+          "alt": "Infografía: en 1989, hiperinflación (los precios cambiaban de un día para otro); en 1991, convertibilidad: un peso igual a un dólar, y la inflación bajó mucho.",
+          "epigrafe": "Lo que cuenta el texto, en una infografía. Esquema elaborado para esta clase."
+        },
+        {
+          "t": "texto",
+          "titulo": "Privatizaciones y apertura",
+          "texto": "Con la **Ley de Reforma del Estado** (1989) se **privatizaron** muchas empresas públicas: teléfonos, aerolínea, ferrocarriles, petróleo (YPF), gas, electricidad y agua, entre otras. También se **abrió** la economía a los productos importados y se **desregularon** muchas actividades.\n\nEn otros países de América Latina se aplicaron políticas parecidas en esos años."
+        },
+        {
+          "t": "linea",
+          "titulo": "La Argentina de los años 90",
+          "eventos": [
+            {
+              "anio": "1983",
+              "titulo": "Vuelve la democracia",
+              "texto": "Asume Raúl Alfonsín."
+            },
+            {
+              "anio": "1989",
+              "titulo": "Hiperinflación y Reforma del Estado",
+              "texto": "Asume Carlos Menem. Comienzan las privatizaciones."
+            },
+            {
+              "anio": "1991",
+              "titulo": "Convertibilidad",
+              "texto": "Por ley, un peso vale un dólar."
+            },
+            {
+              "anio": "1995",
+              "titulo": "Récord de desocupación",
+              "texto": "La desocupación llega a su nivel más alto de la década."
+            }
+          ]
+        },
+        {
+          "t": "comparar",
+          "titulo": "Los años 90: lo que dicen sus defensores y sus críticos",
+          "columnas": [
+            "",
+            "Lo que destacan quienes lo defienden",
+            "Lo que señalan quienes lo critican"
+          ],
+          "filas": [
+            [
+              "Precios",
+              "Terminó la hiperinflación y los precios se estabilizaron",
+              "La estabilidad dependía del endeudamiento externo"
+            ],
+            [
+              "Empresas públicas",
+              "Llegaron inversiones y se modernizaron servicios",
+              "El Estado perdió el control de recursos y servicios clave"
+            ],
+            [
+              "Empleo e industria",
+              "Llegaron productos e inversiones de afuera",
+              "Cerraron fábricas y creció la desocupación"
+            ]
+          ]
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "🗣️ ¿Quién lo diría?",
+          "pregunta": "Esta frase es inventada, para pensar: \"Desde que cerró la fábrica del pueblo, mucha gente quedó sin trabajo\". ¿Qué aspecto de los años 90 refleja?",
+          "opciones": [
+            "La desocupación",
+            "El fin de la hiperinflación de 1989",
+            "La llegada de inversiones extranjeras",
+            "La ley que igualó el peso con el dólar"
+          ],
+          "correcta": 0,
+          "explicacion": "Es uno de los aspectos que señalan quienes critican las políticas de esos años.",
+          "pista": "Mirá la tabla de defensores y críticos."
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "🗣️ ¿Quién lo diría?",
+          "pregunta": "Esta otra frase también es inventada: \"Antes los precios cambiaban todos los días; ahora puedo planificar mis compras\". ¿Qué aspecto de los años 90 refleja?",
+          "opciones": [
+            "La estabilidad de precios",
+            "El cierre de muchas fábricas en todo el país",
+            "La deuda externa",
+            "El aumento de la desocupación en los años 90"
+          ],
+          "correcta": 0,
+          "explicacion": "Es uno de los aspectos que destacan quienes defienden las políticas de esos años.",
+          "pista": "Mirá la tabla de defensores y críticos."
+        },
+        {
+          "t": "verificar",
+          "consigna": "La convertibilidad terminó en 2002. Buscá en el material en qué año empezó: ¿cuántos años duró?",
+          "respuesta": "11",
+          "explicacion": "De 1991 a 2002 pasaron 11 años.",
+          "pista": "Restá el año en que empezó a 2002.",
+          "pista1": "El año en que empezó está en el texto \"De la hiperinflación a la convertibilidad\" y en la línea de tiempo."
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada hecho con su año.",
+          "pares": [
+            {
+              "a": "Hiperinflación y Ley de Reforma del Estado",
+              "b": "1989"
+            },
+            {
+              "a": "Convertibilidad: un peso igual a un dólar",
+              "b": "1991"
+            },
+            {
+              "a": "Vuelve la democracia",
+              "b": "1983"
+            },
+            {
+              "a": "La desocupación llega a su nivel más alto de la década",
+              "b": "1995"
+            }
+          ],
+          "explicacion": "Ordenar los hechos en el tiempo ayuda a entender el proceso.",
+          "pista": "Todos los años están en la línea de tiempo."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué una misma política puede ser vista de manera tan distinta por diferentes personas?",
+          "respuesta": "Porque afecta de manera distinta a cada grupo. Quien sufría la hiperinflación valoró la estabilidad de precios; quien perdió su trabajo cuando cerró una fábrica vivió otra realidad. Para entender un período histórico hay que mirar cómo lo vivieron distintos grupos, y no quedarse con una sola mirada."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá cómo se aplicaron políticas neoliberales en democracia durante los años 90. Contá qué problema económico había en 1989, qué fue la convertibilidad, qué empresas se privatizaron, y cuáles son los argumentos de quienes defienden y de quienes critican esas políticas.",
+        "guia": [
+          "¿Qué pasó en 1989?",
+          "¿Qué fue la convertibilidad y qué efecto tuvo en los precios?",
+          "¿Qué empresas se privatizaron?",
+          "¿Qué destacan quienes defienden esas políticas?",
+          "¿Qué señalan quienes las critican?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "hiperinflacion",
+              "1989"
+            ],
+            "p": "la hiperinflación"
+          },
+          {
+            "k": [
+              "convertibilidad",
+              "uno a uno",
+              "un peso"
+            ],
+            "p": "la convertibilidad"
+          },
+          {
+            "k": [
+              "privatiz"
+            ],
+            "p": "las privatizaciones"
+          },
+          {
+            "k": [
+              "estabil",
+              "inversion"
+            ],
+            "p": "los argumentos a favor"
+          },
+          {
+            "k": [
+              "desocup",
+              "fabricas",
+              "deuda"
+            ],
+            "p": "los argumentos en contra"
+          }
+        ],
+        "referencia": "En 1989 hubo hiperinflación y asumió Carlos Menem, que aplicó políticas en la línea del Consenso de Washington. Con la Ley de Reforma del Estado se privatizaron teléfonos, aerolínea, ferrocarriles, YPF, gas, electricidad y agua. En 1991 la convertibilidad estableció que un peso valía un dólar y la inflación bajó. Sus defensores destacan la estabilidad y las inversiones; sus críticos, el endeudamiento, el cierre de fábricas y la desocupación, que llegó a su nivel más alto en 1995.",
+        "minPalabras": 40
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "En 1989 hubo hiperinflación en la Argentina.",
+          "respuesta": true,
+          "explicacion": "Los precios cambiaban de un día para otro."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La convertibilidad estableció que un peso valía un dólar.",
+          "respuesta": true,
+          "explicacion": "Empezó en 1991."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Carlos Menem llegó al gobierno por un golpe de Estado.",
+          "respuesta": false,
+          "explicacion": "Fue elegido por el voto en 1989."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En los años 90 se privatizaron empresas como YPF y los ferrocarriles.",
+          "respuesta": true,
+          "explicacion": "También teléfonos, aerolínea, gas, electricidad y agua."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con la convertibilidad, la inflación subió mucho.",
+          "respuesta": false,
+          "explicacion": "La inflación bajó mucho."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En 1995 la desocupación llegó a su nivel más alto de la década.",
+          "respuesta": true,
+          "explicacion": "Es uno de los aspectos que señalan los críticos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Las políticas de los años 90 se aplicaron en democracia.",
+          "respuesta": true,
+          "explicacion": "A diferencia de las de 1976, que se aplicaron en dictadura."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué fue la convertibilidad?",
+          "opciones": [
+            "Un peso valía un dólar",
+            "Una forma de votar",
+            "Un golpe de Estado que derrocó al gobierno",
+            "Un plan para nacionalizar las empresas privadas"
+          ],
+          "correcta": 0,
+          "explicacion": "Se la conocía como \"el uno a uno\"."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué ley de 1989 permitió las privatizaciones?",
+          "opciones": [
+            "Ley de Reforma del Estado",
+            "Ley Sáenz Peña, de voto secreto y obligatorio",
+            "Ley 13.010, de voto femenino",
+            "Ley de Residencia, de expulsión de inmigrantes"
+          ],
+          "correcta": 0,
+          "explicacion": "Se privatizaron muchas empresas públicas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué destacan quienes defienden las políticas de los años 90?",
+          "opciones": [
+            "Fin de la hiperinflación e inversiones",
+            "El cierre de fábricas en todo el país",
+            "El aumento de la desocupación",
+            "El aumento de la deuda externa"
+          ],
+          "correcta": 0,
+          "explicacion": "Los críticos señalan otros aspectos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué señalan quienes critican las políticas de los años 90?",
+          "opciones": [
+            "Cierre de fábricas y desocupación",
+            "El fin de la hiperinflación de 1989",
+            "La estabilidad de los precios",
+            "La llegada de inversiones extranjeras"
+          ],
+          "correcta": 0,
+          "explicacion": "Los defensores destacan otros aspectos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estas empresas fue privatizada en los años 90?",
+          "opciones": [
+            "YPF",
+            "La CGT",
+            "La Sociedad Rural",
+            "El Congreso"
+          ],
+          "correcta": 0,
+          "explicacion": "Junto con teléfonos, ferrocarriles y otras."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué diferencia hay entre las políticas de 1976 y las de los años 90?",
+          "opciones": [
+            "Las de los años 90 se aplicaron en democracia",
+            "Las de 1976 se aplicaron en democracia",
+            "No hay diferencia",
+            "Las de los años 90 nacionalizaron empresas"
+          ],
+          "correcta": 0,
+          "explicacion": "Las de 1976 se aplicaron en dictadura."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "HIPERINFLACIÓN",
+          "pista": "Precios que suben de un día para otro (1989)."
+        },
+        {
+          "palabra": "CONVERTIBILIDAD",
+          "pista": "Ley de 1991: un peso igual a un dólar."
+        },
+        {
+          "palabra": "PRIVATIZACIONES",
+          "pista": "Venta de empresas públicas a manos privadas."
+        },
+        {
+          "palabra": "DESOCUPACIÓN",
+          "pista": "Llegó a su nivel más alto de la década en 1995."
+        },
+        {
+          "palabra": "YPF",
+          "pista": "Empresa petrolera privatizada en los años 90."
+        },
+        {
+          "palabra": "MENEM",
+          "pista": "Presidente elegido en 1989."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué problema económico había en 1989?",
+          "opciones": [
+            "Hiperinflación",
+            "Demasiada industria",
+            "Falta de dinero en el mundo",
+            "Exceso de empleo"
+          ],
+          "correcta": 0,
+          "explicacion": "Los precios subían de un día para otro."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué hay visiones distintas sobre los años 90?",
+          "opciones": [
+            "Afectaron distinto a cada grupo",
+            "Nadie recuerda bien lo que pasó en esa década",
+            "Todos coinciden",
+            "En esos años la economía no tuvo cambios"
+          ],
+          "correcta": 0,
+          "explicacion": "Unos destacan la estabilidad y las inversiones; otros, la desocupación y el endeudamiento."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En los años 90 se aplicaron políticas neoliberales en un gobierno elegido democráticamente.",
+          "respuesta": true,
+          "explicacion": "El diseño curricular pide estudiar tanto los casos en dictadura como en democracia."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Neoliberalismo",
+      "definicion": "Modelo que propone que el Estado intervenga lo menos posible y que la economía funcione con las reglas del mercado."
+    },
+    {
+      "palabra": "Privatización",
+      "definicion": "Pasar una empresa del Estado a manos privadas."
+    },
+    {
+      "palabra": "Apertura económica",
+      "definicion": "Facilitar que entren productos e inversiones de afuera."
+    },
+    {
+      "palabra": "Consenso de Washington",
+      "definicion": "Recomendaciones de 1989 para América Latina: controlar el gasto, abrir, privatizar y desregular."
+    },
+    {
+      "palabra": "Deuda externa",
+      "definicion": "Lo que un país debe a acreedores del exterior."
+    },
+    {
+      "palabra": "Hiperinflación",
+      "definicion": "Aumento de precios tan rápido que el dinero pierde su valor de un día para otro."
+    },
+    {
+      "palabra": "Convertibilidad",
+      "definicion": "Ley de 1991 que estableció que un peso valía un dólar."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "El neoliberalismo solo se aplicó en dictaduras.",
+      "aclaracion": "Las primeras medidas fueron en dictaduras (Chile 1973, Argentina 1976), pero en los años 90 también se aplicó en democracia."
+    },
+    {
+      "error": "Privatizar es pasar una empresa al Estado.",
+      "aclaracion": "Es lo contrario: pasarla del Estado a manos privadas. Pasarla al Estado es nacionalizar o estatizar."
+    },
+    {
+      "error": "Sobre los años 90 todos opinan lo mismo.",
+      "aclaracion": "Hay un debate: unos destacan la estabilidad y las inversiones; otros, la desocupación y el endeudamiento."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "Elegí un servicio que usás todos los días (el celular, la luz, el agua, el colectivo). Averiguá si lo presta una empresa del Estado o privada, y si eso cambió en las últimas décadas.",
+    "conexion": "Con tu trabajo práctico: ahí vas a relacionar este tema con un ejemplo del presente."
+  }
+}

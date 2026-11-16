@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" role="img" aria-label="Página de carpeta con notas sobre el texto de las abejas: un título subrayado, palabras clave resaltadas, flechas, una lista con viñetas y una idea clave encerrada en un recuadro." font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect width="1000" height="560" fill="#fff"/>
+<rect x="60" y="20" width="880" height="520" rx="12" fill="#FFFDF5" stroke="#D8D2B8" stroke-width="3"/>
+<line x1="60" y1="80" x2="940" y2="80" stroke="#CFE0F2" stroke-width="2"/>
+<line x1="60" y1="116" x2="940" y2="116" stroke="#CFE0F2" stroke-width="2"/>
+<line x1="60" y1="152" x2="940" y2="152" stroke="#CFE0F2" stroke-width="2"/>
+<line x1="60" y1="188" x2="940" y2="188" stroke="#CFE0F2" stroke-width="2"/>
+<line x1="60" y1="224" x2="940" y2="224" stroke="#CFE0F2" stroke-width="2"/>
+<line x1="60" y1="260" x2="940" y2="260" stroke="#CFE0F2" stroke-width="2"/>
+<line x1="60" y1="296" x2="940" y2="296" stroke="#CFE0F2" stroke-width="2"/>
+<line x1="60" y1="332" x2="940" y2="332" stroke="#CFE0F2" stroke-width="2"/>
+<line x1="60" y1="368" x2="940" y2="368" stroke="#CFE0F2" stroke-width="2"/>
+<line x1="60" y1="404" x2="940" y2="404" stroke="#CFE0F2" stroke-width="2"/>
+<line x1="60" y1="440" x2="940" y2="440" stroke="#CFE0F2" stroke-width="2"/>
+<line x1="60" y1="476" x2="940" y2="476" stroke="#CFE0F2" stroke-width="2"/>
+<line x1="60" y1="512" x2="940" y2="512" stroke="#CFE0F2" stroke-width="2"/>
+<line x1="130" y1="20" x2="130" y2="540" stroke="#F2B8B8" stroke-width="3"/>
+<text x="160" y="70" font-size="32" font-weight="700" fill="#4B4FA3" text-anchor="start" font-style="italic">Las abejas y los alimentos</text><line x1="160" y1="80" x2="560" y2="80" stroke="#4B4FA3" stroke-width="4"/>
+<rect x="155" y="118" width="300" height="34" fill="#FFF2A8"/>
+<text x="160" y="144" font-size="28" font-weight="600" fill="#1B1A4A" text-anchor="start" font-style="italic">abejas → polinización</text><text x="470" y="144" font-size="28" font-weight="600" fill="#1B1A4A" text-anchor="start" font-style="italic">→ frutos y semillas</text>
+<text x="160" y="216" font-size="26" font-weight="600" fill="#4A4870" text-anchor="start" font-style="italic">muchos alimentos dependen de esto</text>
+<text x="160" y="288" font-size="26" font-weight="600" fill="#1B1A4A" text-anchor="start" font-style="italic">están disminuyendo. ¿Por qué?</text>
+<text x="200" y="324" font-size="26" font-weight="600" fill="#4A4870" text-anchor="start" font-style="italic">• algunos productos químicos</text><text x="200" y="360" font-size="26" font-weight="600" fill="#4A4870" text-anchor="start" font-style="italic">• pérdida del hábitat</text>
+<text x="160" y="432" font-size="28" font-weight="700" fill="#E5194F" text-anchor="start" font-style="italic">cuidar abejas = cuidar alimentos</text><rect x="150" y="402" width="440" height="44" rx="10" fill="none" stroke="#E5194F" stroke-width="3"/>
+<text x="640" y="432" font-size="24" font-weight="700" fill="#B83A7A" text-anchor="start" font-style="italic">← idea clave</text>
+</svg>

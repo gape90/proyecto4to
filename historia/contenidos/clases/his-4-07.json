@@ -1,0 +1,1102 @@
+{
+  "id": "his-4-07",
+  "espacio": "historia",
+  "eje": "Inestabilidad y dictadura",
+  "titulo": "Inestabilidad política y económica (1955-1983)",
+  "intro": "Entre 1955 y 1983, la Argentina vivió golpes de Estado, gobiernos elegidos con restricciones, grandes protestas y violencia política, hasta la última dictadura. Vas a ver cómo se sucedieron esos hechos y cómo se recuperó la democracia en 1983.",
+  "tp_aporte": "Para tu trabajo práctico ya tenés: la proscripción del peronismo y los golpes entre 1955 y 1966, el gobierno de Onganía y el Cordobazo, la violencia política de los años 70, la última dictadura y el terrorismo de Estado, y la vuelta de la democracia en 1983.",
+  "objetivos": [
+    "Explicar por qué se habla de inestabilidad política entre 1955 y 1966.",
+    "Reconocer los principales hechos entre 1966 y 1976: Onganía, el Cordobazo, la vuelta de Perón y la violencia política.",
+    "Explicar qué fue la última dictadura, por qué se habla de terrorismo de Estado y cómo volvió la democracia."
+  ],
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "1955-1966: una democracia con restricciones",
+      "tiempo": "30 a 40 min",
+      "recordas": "¿Qué recordás de cómo terminó el gobierno de Perón en 1955?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Elecciones sin uno de los protagonistas",
+          "texto": "Después del golpe de 1955, el peronismo quedó **proscripto**: no podía presentarse a elecciones, aunque tenía un gran apoyo popular. Esa situación duró hasta 1973.\n\nEn esos años hubo presidentes civiles elegidos por el voto, pero en elecciones donde no podía participar una de las principales fuerzas políticas. Por eso muchos historiadores hablan de una **democracia con restricciones** o de un problema de **legitimidad**: los gobiernos eran elegidos, pero una parte importante de la sociedad no podía votar a quien prefería."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Pensalo así",
+          "texto": "Imaginá una elección de centro de estudiantes en la que una de las listas con más apoyo no puede presentarse. Gane quien gane, una parte del curso va a sentir que el resultado no la representa."
+        },
+        {
+          "t": "linea",
+          "titulo": "Golpes y gobiernos entre 1955 y 1966",
+          "eventos": [
+            {
+              "anio": "1955",
+              "titulo": "Golpe de Estado",
+              "texto": "Cae Perón. El peronismo queda proscripto."
+            },
+            {
+              "anio": "1958",
+              "titulo": "Asume Arturo Frondizi",
+              "texto": "Presidente elegido, con el peronismo proscripto."
+            },
+            {
+              "anio": "1962",
+              "titulo": "Golpe de Estado",
+              "texto": "Las Fuerzas Armadas derrocan a Frondizi."
+            },
+            {
+              "anio": "1963",
+              "titulo": "Asume Arturo Illia",
+              "texto": "Presidente elegido, con el peronismo proscripto."
+            },
+            {
+              "anio": "1966",
+              "titulo": "Golpe de Estado",
+              "texto": "Las Fuerzas Armadas derrocan a Illia."
+            }
+          ]
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "src": "img/clases/his-4-07-barra-1955-1966.svg",
+          "src_movil": "img/clases/his-4-07-barra-1955-1966-movil.svg",
+          "tipo": "grafico",
+          "alt": "Barra de tiempo de 1955 a 1966: golpes de Estado en 1955, 1962 y 1966; asumen presidentes elegidos en 1958 (Frondizi) y 1963 (Illia); el peronismo estuvo proscripto todo el período.",
+          "epigrafe": "La línea de tiempo, en una sola barra: los golpes interrumpen a los gobiernos elegidos. Esquema elaborado para esta clase.",
+          "animacion": "svg"
+        },
+        {
+          "t": "verificar",
+          "consigna": "¿Cuántos golpes de Estado hubo entre 1955 y 1966 según la línea de tiempo?",
+          "respuesta": "3",
+          "explicacion": "Hubo golpes en 1955, 1962 y 1966. Ningún presidente elegido terminó su mandato.",
+          "pista": "Contá los hechos que dicen \"Golpe de Estado\" en la línea."
+        },
+        {
+          "t": "texto",
+          "titulo": "Las Fuerzas Armadas y la resistencia",
+          "texto": "En esta etapa, las **Fuerzas Armadas** intervinieron varias veces en la política: decidían si un gobierno civil podía seguir o no.\n\nAl mismo tiempo, muchos trabajadores y sindicatos se organizaron para reclamar por la vuelta de Perón y por sus derechos. A ese proceso se lo conoce como **Resistencia peronista**: incluyó huelgas, protestas y, en algunos casos, sabotajes."
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada concepto con lo que significa.",
+          "pares": [
+            {
+              "a": "Proscripción",
+              "b": "Prohibir que un partido se presente a elecciones"
+            },
+            {
+              "a": "Golpe de Estado",
+              "b": "Sacar por la fuerza a un gobierno"
+            },
+            {
+              "a": "Legitimidad",
+              "b": "Que la sociedad acepte que un gobierno la representa"
+            },
+            {
+              "a": "Resistencia peronista",
+              "b": "Protestas y huelgas para reclamar la vuelta de Perón"
+            }
+          ],
+          "explicacion": "Estos cuatro conceptos te ayudan a explicar la inestabilidad de esos años.",
+          "pista": "Releé los dos textos de esta parte."
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "📰 Elegí el titular",
+          "pregunta": "Si fueras periodista en 1966, ¿qué titular describiría mejor lo que pasó en la Argentina entre 1955 y 1966?",
+          "opciones": [
+            "\"Once años, tres golpes de Estado\"",
+            "\"Once años de estabilidad democrática sin interrupciones\"",
+            "\"El peronismo gana todas las elecciones del período\"",
+            "\"Las Fuerzas Armadas se retiran para siempre de la política\""
+          ],
+          "correcta": 0,
+          "explicacion": "Hubo golpes en 1955, 1962 y 1966, y ni Frondizi ni Illia pudieron terminar su mandato.",
+          "pista": "Mirá la línea de tiempo."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué un gobierno elegido con el peronismo proscripto podía tener dificultades para gobernar?",
+          "respuesta": "Porque una parte importante de la sociedad sentía que ese gobierno no la representaba, ya que no había podido votar a quien prefería. Eso generaba protestas y conflictos. Además, las Fuerzas Armadas vigilaban que el peronismo no volviera, y cuando consideraban que el gobierno no lo controlaba, intervenían."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá por qué se habla de inestabilidad política entre 1955 y 1966. Contá qué significó la proscripción del peronismo, qué gobiernos hubo y cómo terminaron, qué papel tuvieron las Fuerzas Armadas y qué fue la Resistencia peronista.",
+        "guia": [
+          "¿Qué significa que el peronismo estuviera proscripto?",
+          "¿Qué presidentes civiles hubo y cómo terminaron sus gobiernos?",
+          "¿Qué papel tuvieron las Fuerzas Armadas?",
+          "¿Qué fue la Resistencia peronista?",
+          "¿Por qué se habla de un problema de legitimidad?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "proscrip"
+            ],
+            "p": "la proscripción"
+          },
+          {
+            "k": [
+              "frondizi",
+              "illia"
+            ],
+            "p": "los gobiernos civiles"
+          },
+          {
+            "k": [
+              "golpe",
+              "fuerzas armadas"
+            ],
+            "p": "los golpes y las Fuerzas Armadas"
+          },
+          {
+            "k": [
+              "resistencia"
+            ],
+            "p": "la Resistencia peronista"
+          },
+          {
+            "k": [
+              "legitim",
+              "represent"
+            ],
+            "p": "el problema de legitimidad"
+          }
+        ],
+        "referencia": "Desde 1955 el peronismo estuvo proscripto. Frondizi (1958) e Illia (1963) fueron elegidos sin el peronismo y derrocados por golpes en 1962 y 1966. Las Fuerzas Armadas intervenían en la política. Trabajadores y sindicatos protagonizaron la Resistencia peronista. Muchos historiadores hablan de un problema de legitimidad.",
+        "minPalabras": 35
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Después de 1955 el peronismo estuvo proscripto hasta 1973.",
+          "respuesta": true,
+          "explicacion": "No podía presentarse a elecciones."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Frondizi e Illia fueron presidentes elegidos por el voto.",
+          "respuesta": true,
+          "explicacion": "Pero en elecciones con el peronismo proscripto."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Frondizi e Illia terminaron sus mandatos sin problemas.",
+          "respuesta": false,
+          "explicacion": "Los dos fueron derrocados por golpes de Estado (1962 y 1966)."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Entre 1955 y 1966 las Fuerzas Armadas intervinieron varias veces en la política.",
+          "respuesta": true,
+          "explicacion": "Hubo golpes en 1955, 1962 y 1966."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Resistencia peronista incluyó huelgas y protestas.",
+          "respuesta": true,
+          "explicacion": "Reclamaban por la vuelta de Perón y por sus derechos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Entre 1955 y 1966 el peronismo ganó varias elecciones presidenciales.",
+          "respuesta": false,
+          "explicacion": "No podía presentarse: estaba proscripto."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Proscribir es prohibir que un partido se presente a elecciones.",
+          "respuesta": true,
+          "explicacion": "Es lo que pasó con el peronismo desde 1955."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué significa que el peronismo estuviera proscripto?",
+          "opciones": [
+            "Que no podía presentarse a elecciones",
+            "Que gobernaba el país",
+            "Que se había disuelto por decisión propia",
+            "Que tenía pocos votos"
+          ],
+          "correcta": 0,
+          "explicacion": "Tenía un gran apoyo popular, pero no podía participar."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo terminó el gobierno de Frondizi?",
+          "opciones": [
+            "Con un golpe de Estado en 1962",
+            "Terminó su mandato en 1964",
+            "Renunció para que gane el peronismo",
+            "Con una elección"
+          ],
+          "correcta": 0,
+          "explicacion": "Las Fuerzas Armadas lo derrocaron."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quién asumió como presidente en 1963?",
+          "opciones": [
+            "Arturo Illia",
+            "Juan D. Perón",
+            "Arturo Frondizi",
+            "Hipólito Yrigoyen"
+          ],
+          "correcta": 0,
+          "explicacion": "Fue derrocado en 1966."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué se habla de un problema de legitimidad?",
+          "opciones": [
+            "No se podía votar al peronismo",
+            "Durante esos años no hubo ningún presidente",
+            "No había Fuerzas Armadas",
+            "Se seguía votando en voz alta, como antes de 1912"
+          ],
+          "correcta": 0,
+          "explicacion": "Una parte de la sociedad sentía que no estaba representada."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué reclamaba la Resistencia peronista?",
+          "opciones": [
+            "La vuelta de Perón y derechos obreros",
+            "Más golpes de Estado contra los gobiernos civiles",
+            "El fin de los sindicatos",
+            "La proscripción del radicalismo en las elecciones"
+          ],
+          "correcta": 0,
+          "explicacion": "Incluyó huelgas y protestas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuántos golpes de Estado hubo entre 1955 y 1966?",
+          "opciones": [
+            "Tres",
+            "Uno",
+            "Ninguno",
+            "Cinco"
+          ],
+          "correcta": 0,
+          "explicacion": "En 1955, 1962 y 1966."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "PROSCRIPCIÓN",
+          "pista": "Prohibición de que el peronismo se presente a elecciones."
+        },
+        {
+          "palabra": "LEGITIMIDAD",
+          "pista": "Que la sociedad acepte que un gobierno la representa."
+        },
+        {
+          "palabra": "FRONDIZI",
+          "pista": "Presidente elegido en 1958 y derrocado en 1962."
+        },
+        {
+          "palabra": "ILLIA",
+          "pista": "Presidente elegido en 1963 y derrocado en 1966."
+        },
+        {
+          "palabra": "RESISTENCIA",
+          "pista": "Nombre de las protestas peronistas después de 1955."
+        },
+        {
+          "palabra": "FUERZAS ARMADAS",
+          "pista": "Intervinieron varias veces en la política con golpes de Estado."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué se habla de inestabilidad entre 1955 y 1966?",
+          "opciones": [
+            "Hubo golpes y nadie terminó su mandato",
+            "El peronismo ganó siempre",
+            "En esos años el país no tuvo ningún gobierno",
+            "Gobernó siempre la misma persona en esos años"
+          ],
+          "correcta": 0,
+          "explicacion": "Golpes en 1955, 1962 y 1966, con el peronismo proscripto."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué papel tuvieron las Fuerzas Armadas en esos años?",
+          "opciones": [
+            "Derrocaron gobiernos",
+            "Se mantuvieron completamente fuera de la política",
+            "Ganaron elecciones presentándose como un partido",
+            "Defendieron la vuelta de Perón al gobierno"
+          ],
+          "correcta": 0,
+          "explicacion": "Decidían si un gobierno civil podía seguir o no."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Frondizi e Illia fueron elegidos en elecciones con el peronismo proscripto.",
+          "respuesta": true,
+          "explicacion": "Y los dos fueron derrocados por golpes de Estado."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "1966-1976: Onganía, protestas y violencia política",
+      "tiempo": "30 a 40 min",
+      "recordas": "¿Escuchaste hablar del Cordobazo o de la vuelta de Perón en 1973?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Un gobierno militar sin plazos",
+          "texto": "En 1966, el golpe encabezado por el general **Juan Carlos Onganía** se autodenominó \"Revolución Argentina\". A diferencia de los golpes anteriores, no planteó una fecha para volver a elecciones: disolvió el Congreso y **prohibió los partidos políticos**.\n\nTambién intervino las universidades. En julio de 1966, la policía desalojó facultades de la Universidad de Buenos Aires, en un hecho conocido como la **Noche de los Bastones Largos**. Muchos docentes e investigadores renunciaron o se fueron del país."
+        },
+        {
+          "t": "texto",
+          "titulo": "El Cordobazo (1969)",
+          "texto": "En mayo de 1969, en **Córdoba**, obreros y estudiantes protagonizaron una gran protesta contra el gobierno de Onganía: el **Cordobazo**. Fue una de las protestas más grandes de esos años y debilitó al gobierno militar, que entró en crisis.\n\nEl Cordobazo mostró algo nuevo: **trabajadores y estudiantes** protestando juntos."
+        },
+        {
+          "t": "linea",
+          "titulo": "De Onganía a 1976",
+          "eventos": [
+            {
+              "anio": "1966",
+              "titulo": "Golpe de Onganía",
+              "texto": "Se prohíben los partidos y se intervienen las universidades."
+            },
+            {
+              "anio": "1969",
+              "titulo": "Cordobazo",
+              "texto": "Obreros y estudiantes protestan en Córdoba."
+            },
+            {
+              "anio": "1973",
+              "titulo": "Elecciones y vuelta de Perón",
+              "texto": "Se levanta la proscripción. En septiembre, Perón es elegido presidente por tercera vez."
+            },
+            {
+              "anio": "1974",
+              "titulo": "Muere Perón",
+              "texto": "Asume la vicepresidenta, María Estela Martínez de Perón."
+            },
+            {
+              "anio": "1976",
+              "titulo": "Golpe de Estado",
+              "texto": "Las Fuerzas Armadas toman el poder el 24 de marzo."
+            }
+          ]
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená estos hechos de más antiguo a más reciente. Los años no están: buscalos en la línea de tiempo.",
+          "items": [
+            "Onganía toma el poder y prohíbe los partidos",
+            "Obreros y estudiantes protestan en Córdoba",
+            "Perón es elegido presidente por tercera vez",
+            "Muere Perón y asume la vicepresidenta",
+            "Las Fuerzas Armadas toman el poder el 24 de marzo"
+          ],
+          "explicacion": "En diez años, el país pasó de un gobierno militar a elecciones y otra vez a un golpe.",
+          "pista": "Todos los hechos están en la línea \"De Onganía a 1976\"."
+        },
+        {
+          "t": "texto",
+          "titulo": "Los años de la violencia política",
+          "texto": "Desde fines de la década de 1960 creció la **violencia política**. Surgieron **organizaciones armadas**, como Montoneros y el ERP, que realizaron atentados, secuestros y asesinatos. Desde 1973 también actuaron **grupos paraestatales**, como la **Triple A**, que persiguieron y asesinaron a militantes, artistas e intelectuales.\n\nA la violencia se sumó una fuerte **crisis económica**: en 1975, un plan de ajuste con grandes aumentos de precios, conocido como el **Rodrigazo**, provocó protestas y huelgas."
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá el texto con las palabras que corresponden.",
+          "texto": "En 1966 el general [[Onganía]] prohibió los partidos políticos. En 1969, en Córdoba, obreros y [[estudiantes]] protagonizaron el Cordobazo. En 1973 se levantó la [[proscripción]] y Perón volvió a ser presidente. En esos años creció la [[violencia]] política.",
+          "distractores": [
+            "Frondizi",
+            "soldados",
+            "democracia",
+            "industria"
+          ],
+          "explicacion": "Así se resume la década: un gobierno militar, grandes protestas, la vuelta de Perón y la violencia política.",
+          "pista": "Todas las palabras están en los textos de esta parte."
+        },
+        {
+          "t": "vf",
+          "afirmaciones": [
+            {
+              "texto": "El golpe de Onganía fijó una fecha para volver a elecciones.",
+              "v": false,
+              "explicacion": "A diferencia de los golpes anteriores, no planteó una fecha para volver a elecciones."
+            },
+            {
+              "texto": "En el Cordobazo protestaron juntos obreros y estudiantes.",
+              "v": true,
+              "explicacion": "Eso fue lo nuevo del Cordobazo."
+            },
+            {
+              "texto": "En 1973 se levantó la proscripción del peronismo.",
+              "v": true,
+              "explicacion": "Lo muestra la línea de tiempo: elecciones y vuelta de Perón."
+            },
+            {
+              "texto": "La Noche de los Bastones Largos ocurrió en la Universidad de Buenos Aires.",
+              "v": true,
+              "explicacion": "En julio de 1966 la policía desalojó facultades de la UBA."
+            }
+          ]
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "Chequeá",
+          "pregunta": "¿Qué tuvo de nuevo el Cordobazo?",
+          "opciones": [
+            "Obreros y estudiantes protestaron juntos",
+            "Fue la primera elección con voto secreto",
+            "Fue un golpe de Estado",
+            "Lo organizaron las Fuerzas Armadas"
+          ],
+          "correcta": 0,
+          "explicacion": "Esa unión debilitó al gobierno de Onganía.",
+          "pista": "Releé el texto \"El Cordobazo (1969)\"."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué crees que, al prohibir los partidos políticos, crecieron otras formas de protesta?",
+          "respuesta": "Cuando no hay partidos ni elecciones, las personas no tienen canales legales para expresar su desacuerdo. Entonces los reclamos buscan otros caminos: huelgas, protestas masivas y, en algunos grupos, la violencia. Por eso muchos historiadores relacionan el cierre de la participación política con el aumento de los conflictos."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué pasó en la Argentina entre 1966 y 1976. Contá qué hizo el gobierno de Onganía, qué fue el Cordobazo, qué pasó en 1973 y 1974, y cómo crecieron la violencia política y la crisis económica hasta el golpe de 1976.",
+        "guia": [
+          "¿Qué medidas tomó el gobierno de Onganía?",
+          "¿Qué fue el Cordobazo y quiénes participaron?",
+          "¿Qué pasó en 1973 y en 1974?",
+          "¿Quiénes ejercieron la violencia política en esos años?",
+          "¿Qué fue el Rodrigazo?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "ongania",
+              "1966"
+            ],
+            "p": "el gobierno de Onganía"
+          },
+          {
+            "k": [
+              "cordobazo",
+              "1969"
+            ],
+            "p": "el Cordobazo"
+          },
+          {
+            "k": [
+              "1973",
+              "peron"
+            ],
+            "p": "la vuelta de Perón"
+          },
+          {
+            "k": [
+              "violencia",
+              "organizaciones armadas",
+              "triple a"
+            ],
+            "p": "la violencia política"
+          },
+          {
+            "k": [
+              "rodrigazo",
+              "crisis"
+            ],
+            "p": "la crisis económica"
+          }
+        ],
+        "referencia": "En 1966 Onganía tomó el poder, prohibió los partidos e intervino las universidades (Noche de los Bastones Largos). En 1969 obreros y estudiantes protagonizaron el Cordobazo. En 1973 se levantó la proscripción y Perón fue elegido; murió en 1974 y asumió María Estela Martínez de Perón. Creció la violencia política de organizaciones armadas y de grupos paraestatales como la Triple A, y en 1975 el Rodrigazo agravó la crisis. El 24 de marzo de 1976 hubo un nuevo golpe.",
+        "minPalabras": 40
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El golpe de 1966 lo encabezó el general Onganía.",
+          "respuesta": true,
+          "explicacion": "Se autodenominó \"Revolución Argentina\"."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Onganía fijó una fecha cercana para volver a elecciones.",
+          "respuesta": false,
+          "explicacion": "No planteó plazos: disolvió el Congreso y prohibió los partidos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En el Cordobazo protestaron juntos obreros y estudiantes.",
+          "respuesta": true,
+          "explicacion": "Fue en Córdoba, en mayo de 1969."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En 1973 se levantó la proscripción del peronismo.",
+          "respuesta": true,
+          "explicacion": "Perón fue elegido presidente por tercera vez."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Perón gobernó hasta 1983.",
+          "respuesta": false,
+          "explicacion": "Murió en 1974 y asumió la vicepresidenta."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Triple A fue un grupo paraestatal.",
+          "respuesta": true,
+          "explicacion": "Persiguió y asesinó a militantes, artistas e intelectuales."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Rodrigazo fue un plan de ajuste de 1975 con grandes aumentos de precios.",
+          "respuesta": true,
+          "explicacion": "Provocó protestas y huelgas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué fue la Noche de los Bastones Largos (1966)?",
+          "opciones": [
+            "El desalojo de facultades de la UBA",
+            "Una elección presidencial con el peronismo proscripto",
+            "Una huelga general de los obreros de la construcción",
+            "El regreso de Perón al país después del exilio"
+          ],
+          "correcta": 0,
+          "explicacion": "Muchos docentes e investigadores renunciaron o se fueron del país."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Dónde fue el Cordobazo?",
+          "opciones": [
+            "En Córdoba",
+            "En Rosario",
+            "En Buenos Aires",
+            "En Mendoza"
+          ],
+          "correcta": 0,
+          "explicacion": "En mayo de 1969."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quién asumió la presidencia cuando murió Perón en 1974?",
+          "opciones": [
+            "María Estela Martínez de Perón",
+            "Juan Carlos Onganía, que volvió al poder",
+            "Arturo Illia, elegido en 1963",
+            "Arturo Frondizi, elegido en 1958"
+          ],
+          "correcta": 0,
+          "explicacion": "Era la vicepresidenta."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué hizo Onganía con los partidos políticos?",
+          "opciones": [
+            "Los prohibió",
+            "Los fortaleció",
+            "Llamó a elecciones",
+            "Les dio el gobierno"
+          ],
+          "correcta": 0,
+          "explicacion": "También disolvió el Congreso."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estas fue una organización armada de esos años?",
+          "opciones": [
+            "Montoneros",
+            "La CGT",
+            "La Sociedad Rural",
+            "La UCR"
+          ],
+          "correcta": 0,
+          "explicacion": "También el ERP."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuándo fue el golpe que terminó con este período?",
+          "opciones": [
+            "El 24 de marzo de 1976",
+            "El 17 de octubre de 1945",
+            "El 6 de septiembre de 1930",
+            "El 1 de enero de 1959"
+          ],
+          "correcta": 0,
+          "explicacion": "Las Fuerzas Armadas tomaron el poder."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "ONGANÍA",
+          "pista": "General que encabezó el golpe de 1966."
+        },
+        {
+          "palabra": "CORDOBAZO",
+          "pista": "Protesta de obreros y estudiantes en 1969."
+        },
+        {
+          "palabra": "UNIVERSIDADES",
+          "pista": "Lo que intervino el gobierno de Onganía (Noche de los Bastones Largos)."
+        },
+        {
+          "palabra": "TRIPLE A",
+          "pista": "Grupo paraestatal que actuó desde 1973."
+        },
+        {
+          "palabra": "RODRIGAZO",
+          "pista": "Plan de ajuste de 1975."
+        },
+        {
+          "palabra": "PARTIDOS",
+          "pista": "Lo que prohibió Onganía en 1966."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué mostró el Cordobazo?",
+          "opciones": [
+            "Obreros y estudiantes unidos debilitaron al gobierno",
+            "El gobierno de Onganía era más fuerte que nunca",
+            "El peronismo había desaparecido de la política",
+            "En el país no había ningún conflicto social"
+          ],
+          "correcta": 0,
+          "explicacion": "Fue en Córdoba, en 1969, y el gobierno entró en crisis."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quiénes ejercieron la violencia política en la primera mitad de los años 70?",
+          "opciones": [
+            "Organizaciones armadas y la Triple A",
+            "Solo los partidos políticos que se presentaban a elecciones",
+            "Solo los sindicatos",
+            "Ningún grupo: fueron años sin violencia política"
+          ],
+          "correcta": 0,
+          "explicacion": "A eso se sumó una fuerte crisis económica, como el Rodrigazo (1975)."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En 1973 Perón volvió a ser presidente después de 18 años de proscripción del peronismo.",
+          "respuesta": true,
+          "explicacion": "La proscripción había empezado en 1955."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "1976-1983: la última dictadura y el terrorismo de Estado",
+      "tiempo": "40 a 50 min",
+      "recordas": "¿Qué sabés sobre el 24 de marzo y por qué ese día es feriado en la Argentina?",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "El golpe del 24 de marzo de 1976",
+          "texto": "El **24 de marzo de 1976**, las Fuerzas Armadas derrocaron al gobierno de María Estela Martínez de Perón. Gobernó una **Junta Militar** formada por los jefes del Ejército, la Marina y la Aeronáutica. El gobierno militar se llamó a sí mismo \"Proceso de Reorganización Nacional\".\n\nSe cerró el Congreso, se prohibieron los partidos políticos y la actividad sindical, y hubo **censura** en los medios de comunicación, la educación y la cultura."
+        },
+        {
+          "t": "destacado",
+          "titulo": "¿Qué es el terrorismo de Estado?",
+          "texto": "Se llama **terrorismo de Estado** a cuando el propio Estado, que debería proteger a las personas, usa sus fuerzas de manera **ilegal y clandestina** contra la población.\n\nEntre 1976 y 1983, la dictadura llevó adelante un **plan sistemático** de represión: miles de personas fueron secuestradas, llevadas a **centros clandestinos de detención**, torturadas y **desaparecidas**. También hubo **apropiación de bebés** nacidos en cautiverio. Todo esto fue probado por la Justicia argentina."
+        },
+        {
+          "t": "texto",
+          "titulo": "Quienes reclamaron",
+          "texto": "En plena dictadura, familiares de personas desaparecidas empezaron a organizarse. En 1977, un grupo de madres comenzó a reunirse en la Plaza de Mayo para preguntar por sus hijos e hijas: así nacieron las **Madres de Plaza de Mayo**. Ese mismo año se formaron las **Abuelas de Plaza de Mayo**, que buscan a los nietos y nietas apropiados. Hasta hoy, las Abuelas siguen encontrando nietos y nietas."
+        },
+        {
+          "t": "linea",
+          "titulo": "De la dictadura a la democracia",
+          "eventos": [
+            {
+              "anio": "1976",
+              "titulo": "Golpe de Estado",
+              "texto": "Gobierna una Junta Militar."
+            },
+            {
+              "anio": "1977",
+              "titulo": "Madres y Abuelas",
+              "texto": "Se organizan las Madres y las Abuelas de Plaza de Mayo."
+            },
+            {
+              "anio": "1982",
+              "titulo": "Guerra de Malvinas",
+              "texto": "Del 2 de abril al 14 de junio. La derrota debilita al gobierno militar."
+            },
+            {
+              "anio": "1983",
+              "titulo": "Vuelve la democracia",
+              "texto": "Elecciones el 30 de octubre. Raúl Alfonsín asume el 10 de diciembre."
+            },
+            {
+              "anio": "1985",
+              "titulo": "Juicio a las Juntas",
+              "texto": "La Justicia civil juzga y condena a los máximos responsables de la dictadura."
+            }
+          ]
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená estos hechos de más antiguo a más reciente. Los años no están: buscalos en la línea de tiempo.",
+          "items": [
+            "Las Fuerzas Armadas toman el poder",
+            "Se organizan las Madres y las Abuelas de Plaza de Mayo",
+            "Guerra de Malvinas",
+            "Raúl Alfonsín asume como presidente",
+            "Juicio a las Juntas"
+          ],
+          "explicacion": "La derrota en Malvinas aceleró el final de la dictadura, y en democracia la Justicia juzgó a sus responsables.",
+          "pista": "Todos los hechos están en la línea \"De la dictadura a la democracia\"."
+        },
+        {
+          "t": "texto",
+          "titulo": "Malvinas y la vuelta a la democracia",
+          "texto": "El **2 de abril de 1982**, el gobierno militar envió tropas a las **islas Malvinas**, que la Argentina reclama como parte de su territorio, para recuperarlas del Reino Unido. La guerra terminó el 14 de junio con la rendición argentina; murieron 649 soldados argentinos. La derrota debilitó al gobierno militar, que tuvo que llamar a elecciones.\n\nEl **30 de octubre de 1983** se votó y el **10 de diciembre** asumió **Raúl Alfonsín**. Ese mismo año se creó la **CONADEP**, que investigó las desapariciones y publicó el informe **\"Nunca Más\"** (1984). En 1985, el **Juicio a las Juntas** condenó a los máximos responsables."
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada nombre con lo que fue o hizo.",
+          "pares": [
+            {
+              "a": "Junta Militar",
+              "b": "Gobierno formado por los jefes de las tres Fuerzas Armadas"
+            },
+            {
+              "a": "Madres de Plaza de Mayo",
+              "b": "Madres que reclamaban por sus hijos e hijas desaparecidos"
+            },
+            {
+              "a": "Abuelas de Plaza de Mayo",
+              "b": "Buscan a los nietos y nietas apropiados"
+            },
+            {
+              "a": "CONADEP",
+              "b": "Investigó las desapariciones y publicó el \"Nunca Más\""
+            },
+            {
+              "a": "Juicio a las Juntas",
+              "b": "Condenó en 1985 a los máximos responsables"
+            }
+          ],
+          "explicacion": "Estos nombres son clave para entender la dictadura y la vuelta a la democracia.",
+          "pista": "Releé los textos y la línea de tiempo."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Buscá en la línea de tiempo el año del golpe y el año de la vuelta de la democracia. ¿Cuántos años duró la última dictadura?",
+          "respuesta": "7",
+          "explicacion": "De 1976 a 1983 pasaron 7 años.",
+          "pista": "Restá el año del golpe al año de la vuelta de la democracia.",
+          "pista1": "Los dos años están en la línea de tiempo \"De la dictadura a la democracia\"."
+        },
+        {
+          "t": "dato",
+          "titulo": "¿Por qué el 24 de marzo es feriado?",
+          "texto": "Desde 2002, el 24 de marzo es el **Día Nacional de la Memoria por la Verdad y la Justicia**, para recordar a las víctimas y reafirmar el valor de la democracia y los derechos humanos."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué es importante que la Justicia haya juzgado a los responsables, en lugar de que se resolviera de otra manera?",
+          "respuesta": "Porque en una democracia los delitos se investigan y se juzgan con reglas, pruebas y derecho a defensa, y no con venganza. El Juicio a las Juntas mostró que nadie está por encima de la ley, ni siquiera quienes gobernaron con las armas. Eso fortalece la confianza en las instituciones democráticas."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué fue la última dictadura (1976-1983) y por qué se habla de terrorismo de Estado. Contá quiénes gobernaron, qué derechos se suprimieron, quiénes reclamaron, cómo influyó la Guerra de Malvinas y qué pasó con la vuelta de la democracia.",
+        "guia": [
+          "¿Quiénes gobernaron desde el 24 de marzo de 1976?",
+          "¿Qué es el terrorismo de Estado?",
+          "¿Qué derechos y libertades se suprimieron?",
+          "¿Quiénes reclamaron por las personas desaparecidas?",
+          "¿Cómo terminó la dictadura y qué pasó después con la Justicia?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "junta",
+              "fuerzas armadas",
+              "1976"
+            ],
+            "p": "quiénes gobernaron"
+          },
+          {
+            "k": [
+              "terrorismo de estado",
+              "desaparec",
+              "clandestin"
+            ],
+            "p": "el terrorismo de Estado"
+          },
+          {
+            "k": [
+              "censura",
+              "partidos",
+              "congreso"
+            ],
+            "p": "los derechos suprimidos"
+          },
+          {
+            "k": [
+              "madres",
+              "abuelas"
+            ],
+            "p": "Madres y Abuelas"
+          },
+          {
+            "k": [
+              "malvinas",
+              "1982"
+            ],
+            "p": "la Guerra de Malvinas"
+          },
+          {
+            "k": [
+              "1983",
+              "alfonsin",
+              "conadep",
+              "juicio"
+            ],
+            "p": "la vuelta de la democracia"
+          }
+        ],
+        "referencia": "El 24 de marzo de 1976 las Fuerzas Armadas tomaron el poder y gobernó una Junta Militar. Se cerró el Congreso, se prohibieron partidos y sindicatos y hubo censura. Hubo terrorismo de Estado: un plan sistemático de secuestros, centros clandestinos, torturas, desapariciones y apropiación de bebés. Madres y Abuelas de Plaza de Mayo reclamaron desde 1977. La derrota en Malvinas (1982) debilitó al gobierno; el 30 de octubre de 1983 hubo elecciones y asumió Alfonsín. La CONADEP publicó el \"Nunca Más\" y en 1985 el Juicio a las Juntas condenó a los máximos responsables.",
+        "minPalabras": 45
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El 24 de marzo de 1976 las Fuerzas Armadas derrocaron al gobierno.",
+          "respuesta": true,
+          "explicacion": "Gobernó una Junta Militar."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Durante la dictadura funcionó el Congreso con normalidad.",
+          "respuesta": false,
+          "explicacion": "Se cerró el Congreso y se prohibieron los partidos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El terrorismo de Estado incluyó secuestros, centros clandestinos y desapariciones.",
+          "respuesta": true,
+          "explicacion": "Fue un plan sistemático probado por la Justicia."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Las Abuelas de Plaza de Mayo buscan a los nietos y nietas apropiados.",
+          "respuesta": true,
+          "explicacion": "Se organizaron en 1977."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Argentina ganó la Guerra de Malvinas.",
+          "respuesta": false,
+          "explicacion": "Terminó el 14 de junio de 1982 con la rendición argentina."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Raúl Alfonsín asumió la presidencia el 10 de diciembre de 1983.",
+          "respuesta": true,
+          "explicacion": "Después de las elecciones del 30 de octubre."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Juicio a las Juntas fue en 1985.",
+          "respuesta": true,
+          "explicacion": "La Justicia civil condenó a los máximos responsables."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quiénes formaban la Junta Militar?",
+          "opciones": [
+            "Los jefes del Ejército, la Marina y la Aeronáutica",
+            "Los partidos políticos con representación en el Congreso",
+            "Los dirigentes de los sindicatos más grandes",
+            "Los gobernadores de todas las provincias"
+          ],
+          "correcta": 0,
+          "explicacion": "Gobernó desde el 24 de marzo de 1976."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es el terrorismo de Estado?",
+          "opciones": [
+            "El Estado usa sus fuerzas ilegalmente",
+            "Una guerra declarada entre dos países vecinos",
+            "Un plan económico para controlar la inflación",
+            "Una forma de votar"
+          ],
+          "correcta": 0,
+          "explicacion": "El Estado debería proteger a las personas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué hacían las Madres de Plaza de Mayo?",
+          "opciones": [
+            "Reclamaban por sus hijos desaparecidos",
+            "Gobernaban el país",
+            "Organizaban la guerra en las islas Malvinas",
+            "Decidían qué libros y canciones se censuraban"
+          ],
+          "correcta": 0,
+          "explicacion": "Empezaron a reunirse en 1977."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuándo empezó la Guerra de Malvinas?",
+          "opciones": [
+            "El 2 de abril de 1982",
+            "El 24 de marzo de 1976",
+            "El 10 de diciembre de 1983",
+            "El 30 de octubre de 1983"
+          ],
+          "correcta": 0,
+          "explicacion": "Terminó el 14 de junio."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué publicó la CONADEP en 1984?",
+          "opciones": [
+            "El informe \"Nunca Más\"",
+            "Una nueva Constitución",
+            "Un plan económico",
+            "La ley del voto secreto"
+          ],
+          "correcta": 0,
+          "explicacion": "Investigó las desapariciones."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se llama el 24 de marzo?",
+          "opciones": [
+            "Día Nacional de la Memoria por la Verdad y la Justicia",
+            "Día de la Independencia de la República Argentina",
+            "Día Internacional de los Trabajadores y las Trabajadoras",
+            "Día de la Bandera y de su creador, Manuel Belgrano"
+          ],
+          "correcta": 0,
+          "explicacion": "Lo estableció una ley de 2002."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "JUNTA MILITAR",
+          "pista": "Gobierno formado por los jefes de las tres Fuerzas Armadas."
+        },
+        {
+          "palabra": "CENSURA",
+          "pista": "Control de lo que se puede publicar o decir."
+        },
+        {
+          "palabra": "DESAPARECIDOS",
+          "pista": "Personas secuestradas cuyo destino ocultó la dictadura."
+        },
+        {
+          "palabra": "MALVINAS",
+          "pista": "Islas por las que hubo una guerra en 1982."
+        },
+        {
+          "palabra": "NUNCA MÁS",
+          "pista": "Nombre del informe de la CONADEP."
+        },
+        {
+          "palabra": "MEMORIA",
+          "pista": "Día Nacional de la ___ por la Verdad y la Justicia."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué se habla de terrorismo de Estado entre 1976 y 1983?",
+          "opciones": [
+            "El Estado organizó una represión ilegal",
+            "El país estuvo en guerra con otro país vecino",
+            "Las elecciones se hacían con fraude y voto cantado",
+            "No hubo gobierno"
+          ],
+          "correcta": 0,
+          "explicacion": "Secuestros, centros clandestinos, torturas, desapariciones y apropiación de bebés, probados por la Justicia."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué hecho aceleró el final de la dictadura?",
+          "opciones": [
+            "La derrota en Malvinas",
+            "El Cordobazo, ocurrido en mayo de 1969",
+            "La muerte de Perón, ocurrida en julio de 1974",
+            "La sanción de la Ley Sáenz Peña en 1912"
+          ],
+          "correcta": 0,
+          "explicacion": "Después de la guerra, el gobierno militar tuvo que llamar a elecciones."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En 1985 la Justicia civil juzgó y condenó a los máximos responsables de la dictadura.",
+          "respuesta": true,
+          "explicacion": "Fue el Juicio a las Juntas."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Proscripción",
+      "definicion": "Prohibir que un partido se presente a elecciones. El peronismo estuvo proscripto de 1955 a 1973."
+    },
+    {
+      "palabra": "Legitimidad",
+      "definicion": "Que la sociedad acepte que un gobierno la representa."
+    },
+    {
+      "palabra": "Cordobazo",
+      "definicion": "Protesta de obreros y estudiantes en Córdoba, en mayo de 1969."
+    },
+    {
+      "palabra": "Violencia política",
+      "definicion": "Uso de la fuerza para fines políticos, en lugar de debatir y votar."
+    },
+    {
+      "palabra": "Junta Militar",
+      "definicion": "Gobierno de los jefes del Ejército, la Marina y la Aeronáutica (1976-1983)."
+    },
+    {
+      "palabra": "Terrorismo de Estado",
+      "definicion": "Cuando el Estado usa sus fuerzas de manera ilegal y clandestina contra la población."
+    },
+    {
+      "palabra": "Desaparición forzada",
+      "definicion": "Secuestro de una persona por fuerzas del Estado, que niega tenerla y oculta su destino."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "Entre 1955 y 1966 no hubo elecciones.",
+      "aclaracion": "Hubo elecciones y presidentes civiles, pero con el peronismo proscripto, y los dos fueron derrocados."
+    },
+    {
+      "error": "La Guerra de Malvinas fue en 1976.",
+      "aclaracion": "Fue en 1982, del 2 de abril al 14 de junio."
+    },
+    {
+      "error": "Los responsables de la dictadura nunca fueron juzgados.",
+      "aclaracion": "En 1985 el Juicio a las Juntas condenó a los máximos responsables."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "Preguntale a una persona adulta de tu familia o de tu barrio qué recuerda de la vuelta de la democracia en 1983. ¿Qué cambió en su vida cotidiana?",
+    "conexion": "Con tu trabajo práctico: ahí vas a relacionar este tema con un ejemplo del presente."
+  }
+}

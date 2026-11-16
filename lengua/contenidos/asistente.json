@@ -1,0 +1,2522 @@
+{
+ "descripcion": "Contenido del asistente de Lengua y Literatura (sin IA). Revisar con docente de Lengua y Literatura antes de usar con estudiantes.",
+ "palabras": [
+  {
+   "palabra": "Tragedia",
+   "definicion": "Obra de teatro que presenta un conflicto grave entre fuerzas que se oponen. Su protagonista enfrenta un destino que no puede evitar y la obra termina en desgracia.",
+   "formas": [
+    "tragedias",
+    "tragico",
+    "tragica",
+    "genero tragico"
+   ]
+  },
+  {
+   "palabra": "Comedia",
+   "definicion": "Obra de teatro griega con personajes de la vida cotidiana, que buscaba la risa y criticaba las costumbres. Es lo opuesto a la tragedia.",
+   "formas": [
+    "comedias"
+   ]
+  },
+  {
+   "palabra": "Coro",
+   "definicion": "En el teatro griego, grupo que cantaba y comentaba lo que pasaba en la obra, como si fuera la voz de la comunidad.",
+   "formas": [
+    "coros"
+   ]
+  },
+  {
+   "palabra": "Máscara",
+   "definicion": "Lo que usaban los actores griegos para mostrar qué personaje era cada uno. Así, un mismo actor podía hacer varios papeles.",
+   "formas": [
+    "mascaras"
+   ]
+  },
+  {
+   "palabra": "Dioniso",
+   "definicion": "Dios griego en cuyo honor se hacían los festivales donde se representaban las obras de teatro.",
+   "formas": [
+    "dionisos",
+    "dionisio"
+   ]
+  },
+  {
+   "palabra": "Catarsis",
+   "definicion": "Purificación o alivio de las emociones. Según Aristóteles, es lo que siente el público al final de una tragedia, después de sentir compasión y temor.",
+   "formas": []
+  },
+  {
+   "palabra": "Héroe trágico",
+   "definicion": "El o la protagonista de una tragedia: enfrenta un destino que no puede evitar.",
+   "formas": [
+    "heroe",
+    "heroina",
+    "heroina tragica"
+   ]
+  },
+  {
+   "palabra": "Hybris",
+   "definicion": "Desmesura u orgullo excesivo de quien se cree por encima de todo. En Antígona, la muestra Creonte, que no escucha a nadie.",
+   "formas": [
+    "hibris",
+    "desmesura"
+   ]
+  },
+  {
+   "palabra": "Anagnórisis",
+   "definicion": "Momento en que un personaje reconoce la verdad o su error. En Antígona, Creonte lo vive al final, cuando ya es tarde.",
+   "formas": [
+    "anagnorisis",
+    "reconocimiento"
+   ]
+  },
+  {
+   "palabra": "Conflicto trágico",
+   "definicion": "Enfrentamiento entre dos fuerzas o leyes que no tiene una salida fácil, porque las dos partes tienen sus razones.",
+   "formas": [
+    "conflicto",
+    "conflictos"
+   ]
+  },
+  {
+   "palabra": "Sepultura",
+   "definicion": "Entierro de una persona muerta. Para los griegos, dejar a un muerto sin sepultura era una ofensa grave a los dioses.",
+   "formas": [
+    "sepultar",
+    "enterrar",
+    "entierro"
+   ]
+  },
+  {
+   "palabra": "Ley del Estado",
+   "definicion": "La que dicta quien gobierna. En Antígona, la orden de Creonte de no enterrar a Polinices.",
+   "formas": [
+    "estado",
+    "ley del rey"
+   ]
+  },
+  {
+   "palabra": "Conciencia",
+   "definicion": "Lo que cada persona siente que está bien o mal. Antígona actúa según su conciencia y su deber con la familia.",
+   "formas": [
+    "conciencias"
+   ]
+  },
+  {
+   "palabra": "Ética",
+   "definicion": "Reflexión sobre lo que está bien y lo que está mal. La tragedia es una expresión ética porque plantea qué es lo justo.",
+   "formas": [
+    "etico",
+    "etica"
+   ]
+  },
+  {
+   "palabra": "Estética",
+   "definicion": "Lo que tiene que ver con la belleza y la forma de una obra de arte. La tragedia tiene una forma propia: coro, diálogos y un final que conmueve.",
+   "formas": [
+    "estetico",
+    "estetica"
+   ]
+  },
+  {
+   "palabra": "Adivino",
+   "definicion": "Persona que, según los griegos, podía conocer la voluntad de los dioses. En Antígona es Tiresias.",
+   "formas": [
+    "adivinos",
+    "adivina"
+   ]
+  },
+  {
+   "palabra": "Texto argumentativo",
+   "definicion": "Texto que busca convencer de una idea dando razones. Por ejemplo, la nota de opinión, el ensayo, la carta de lectores y el debate.",
+   "formas": [
+    "argumentativo",
+    "argumentativa",
+    "argumentar"
+   ]
+  },
+  {
+   "palabra": "Tesis",
+   "definicion": "Idea u opinión principal que defiende un texto argumentativo. Suele aparecer al principio.",
+   "formas": [
+    "tesis"
+   ]
+  },
+  {
+   "palabra": "Conclusión",
+   "definicion": "Cierre del texto, que retoma la tesis y la refuerza.",
+   "formas": [
+    "conclusiones",
+    "concluir"
+   ]
+  },
+  {
+   "palabra": "Hecho",
+   "definicion": "Algo que se puede comprobar. En un texto argumentativo, sirve como prueba.",
+   "formas": [
+    "hechos"
+   ]
+  },
+  {
+   "palabra": "Opinión",
+   "definicion": "Lo que alguien piensa o valora. No se comprueba: se fundamenta con argumentos.",
+   "formas": [
+    "opiniones",
+    "opinar"
+   ]
+  },
+  {
+   "palabra": "Estrategia argumentativa",
+   "definicion": "Forma de presentar las razones para convencer: dato, cita de autoridad, pregunta retórica, comparación, concesión, ejemplificación.",
+   "formas": [
+    "estrategia",
+    "estrategias"
+   ]
+  },
+  {
+   "palabra": "Cita de autoridad",
+   "definicion": "Estrategia que usa lo que dijo un especialista o una institución reconocida.",
+   "formas": [
+    "autoridad"
+   ]
+  },
+  {
+   "palabra": "Pregunta retórica",
+   "definicion": "Pregunta que no espera respuesta: busca hacer pensar a quien lee.",
+   "formas": [
+    "retorica"
+   ]
+  },
+  {
+   "palabra": "Concesión",
+   "definicion": "Estrategia que acepta una parte de la idea contraria para después sostener la propia.",
+   "formas": [
+    "conceder",
+    "concesiones"
+   ]
+  },
+  {
+   "palabra": "Refutar",
+   "definicion": "Presentar una idea contraria y mostrar por qué no es correcta.",
+   "formas": [
+    "refutacion",
+    "refuta"
+   ]
+  },
+  {
+   "palabra": "Conector",
+   "definicion": "Palabra o expresión que une ideas y muestra cómo se relacionan: además, sin embargo, porque, por lo tanto.",
+   "formas": [
+    "conectores"
+   ]
+  },
+  {
+   "palabra": "Ensayo",
+   "definicion": "Texto escrito en el que un autor reflexiona sobre un tema desde su punto de vista personal, con argumentos.",
+   "formas": [
+    "ensayos",
+    "ensayista"
+   ]
+  },
+  {
+   "palabra": "Literatura de ideas",
+   "definicion": "Textos, como el ensayo, que no cuentan una historia sino que piensan un tema e invitan a reflexionar.",
+   "formas": []
+  },
+  {
+   "palabra": "Debate",
+   "definicion": "Discusión oral y organizada entre personas o grupos con posturas distintas, con turnos y un moderador o moderadora.",
+   "formas": [
+    "debates",
+    "debatir"
+   ]
+  },
+  {
+   "palabra": "Moderador",
+   "definicion": "Quien organiza un debate: presenta el tema, da la palabra y controla los tiempos. No opina.",
+   "formas": [
+    "moderadora",
+    "moderar"
+   ]
+  },
+  {
+   "palabra": "Réplica",
+   "definicion": "Etapa del debate en la que cada participante responde y refuta los argumentos del otro.",
+   "formas": [
+    "replicas"
+   ]
+  },
+  {
+   "palabra": "Pretérito perfecto simple",
+   "definicion": "Tiempo del pasado para acciones terminadas que hacen avanzar la historia: salió, llegó, encontró.",
+   "formas": [
+    "perfecto simple",
+    "preterito perfecto"
+   ]
+  },
+  {
+   "palabra": "Pretérito imperfecto",
+   "definicion": "Tiempo del pasado que describe el fondo de un relato o acciones habituales: llovía, era, caminaba.",
+   "formas": [
+    "imperfecto"
+   ]
+  },
+  {
+   "palabra": "Pluscuamperfecto",
+   "definicion": "Tiempo de una acción anterior a otra acción pasada: había salido. Se forma con \"haber\" en imperfecto más el participio.",
+   "formas": [
+    "preterito pluscuamperfecto"
+   ]
+  },
+  {
+   "palabra": "Participio",
+   "definicion": "Forma del verbo que termina en -ado o -ido: llegado, comido.",
+   "formas": [
+    "participios"
+   ]
+  },
+  {
+   "palabra": "Presente histórico",
+   "definicion": "Uso del presente para contar hechos pasados y darles cercanía: \"En 1810 se forma la Primera Junta\".",
+   "formas": []
+  },
+  {
+   "palabra": "Vocativo",
+   "definicion": "Palabra que nombra a quien se le habla. Se separa con coma: \"Juan, vení\".",
+   "formas": [
+    "vocativos"
+   ]
+  },
+  {
+   "palabra": "Enumeración",
+   "definicion": "Lista de elementos separados por comas. Antes de la \"y\" final no va coma.",
+   "formas": [
+    "enumerar"
+   ]
+  },
+  {
+   "palabra": "Aclaración",
+   "definicion": "Información que se agrega entre comas: \"Sófocles, autor griego, escribió Antígona\".",
+   "formas": [
+    "aclaraciones"
+   ]
+  },
+  {
+   "palabra": "Sílaba tónica",
+   "definicion": "Sílaba que se pronuncia con más fuerza: ca-MIÓN, ÁR-bol.",
+   "formas": [
+    "tonica",
+    "silaba"
+   ]
+  },
+  {
+   "palabra": "Aguda",
+   "definicion": "Palabra con la sílaba tónica en la última sílaba. Lleva acento si termina en n, s o vocal.",
+   "formas": [
+    "agudas"
+   ]
+  },
+  {
+   "palabra": "Grave",
+   "definicion": "Palabra con la sílaba tónica en la anteúltima sílaba. Lleva acento si NO termina en n, s o vocal. También se la llama llana.",
+   "formas": [
+    "graves",
+    "llana",
+    "llanas"
+   ]
+  },
+  {
+   "palabra": "Esdrújula",
+   "definicion": "Palabra con la sílaba tónica en la antepenúltima sílaba. Lleva acento siempre.",
+   "formas": [
+    "esdrujulas"
+   ]
+  },
+  {
+   "palabra": "Acento diacrítico",
+   "definicion": "Acento que diferencia palabras que se escriben igual pero significan otra cosa: tú/tu, él/el, sí/si.",
+   "formas": [
+    "diacritico"
+   ]
+  },
+  {
+   "palabra": "Hiato",
+   "definicion": "Dos vocales juntas que se pronuncian en sílabas distintas. Si la i o la u son tónicas, llevan acento: día, país.",
+   "formas": [
+    "hiatos"
+   ]
+  },
+  {
+   "palabra": "Parentesco léxico",
+   "definicion": "Relación entre palabras de la misma familia, aunque no se parezcan tanto: leche y lácteo, hueso y óseo.",
+   "formas": [
+    "parentescos lexicos",
+    "familia de palabras"
+   ]
+  },
+  {
+   "palabra": "Contexto de producción",
+   "definicion": "Quién escribió una obra, cuándo, dónde, qué pasaba en esa sociedad y cómo circulaba.",
+   "formas": [
+    "contexto",
+    "contextos"
+   ]
+  },
+  {
+   "palabra": "Contexto de lectura",
+   "definicion": "El momento y el lugar en que alguien lee una obra. Una obra antigua hoy se lee en otro contexto.",
+   "formas": []
+  },
+  {
+   "palabra": "Género literario",
+   "definicion": "Grupo de obras escritas de manera parecida y con reglas comunes. Los tres grandes son el narrativo, el lírico y el dramático.",
+   "formas": [
+    "genero",
+    "generos",
+    "generos literarios"
+   ]
+  },
+  {
+   "palabra": "Subgénero",
+   "definicion": "Grupo dentro de un género, con reglas más específicas: tragedia, épica, policial, fantástico.",
+   "formas": [
+    "subgeneros"
+   ]
+  },
+  {
+   "palabra": "Narrativo",
+   "definicion": "Género que cuenta una historia en prosa, con un narrador: cuento, novela, leyenda.",
+   "formas": [
+    "genero narrativo",
+    "narrativa"
+   ]
+  },
+  {
+   "palabra": "Lírico",
+   "definicion": "Género que expresa emociones e ideas, en general en verso, con la voz del yo lírico.",
+   "formas": [
+    "genero lirico",
+    "lirica",
+    "poesia"
+   ]
+  },
+  {
+   "palabra": "Dramático",
+   "definicion": "Género escrito con diálogos para ser representado: tragedia, comedia.",
+   "formas": [
+    "genero dramatico",
+    "teatro"
+   ]
+  },
+  {
+   "palabra": "Yo lírico",
+   "definicion": "La voz que expresa lo que siente en un poema. No es necesariamente el autor.",
+   "formas": []
+  },
+  {
+   "palabra": "Convención",
+   "definicion": "Regla de un género que quien lee espera encontrar.",
+   "formas": [
+    "convenciones",
+    "reglas del genero"
+   ]
+  },
+  {
+   "palabra": "Realismo",
+   "definicion": "Estética que busca mostrar la realidad tal como es.",
+   "formas": [
+    "realista"
+   ]
+  },
+  {
+   "palabra": "Realismo mágico",
+   "definicion": "Estética en la que cosas maravillosas aparecen en la vida cotidiana como si fueran normales.",
+   "formas": []
+  },
+  {
+   "palabra": "Narrador",
+   "definicion": "Voz que cuenta la historia. No es el autor: es una voz que el autor inventa.",
+   "formas": [
+    "narradores",
+    "narradora"
+   ]
+  },
+  {
+   "palabra": "Narrador protagonista",
+   "definicion": "Narrador que cuenta su propia historia en primera persona.",
+   "formas": [
+    "protagonista"
+   ]
+  },
+  {
+   "palabra": "Narrador testigo",
+   "definicion": "Narrador que cuenta en primera persona lo que vio que le pasaba a otro.",
+   "formas": []
+  },
+  {
+   "palabra": "Narrador omnisciente",
+   "definicion": "Narrador que cuenta en tercera persona y sabe todo, incluso lo que piensan los personajes.",
+   "formas": [
+    "omnisciente"
+   ]
+  },
+  {
+   "palabra": "Punto de vista",
+   "definicion": "Desde dónde mira y cuenta el narrador.",
+   "formas": [
+    "focalizacion"
+   ]
+  },
+  {
+   "palabra": "Personaje principal",
+   "definicion": "Personaje que lleva adelante la historia. Los secundarios lo acompañan.",
+   "formas": [
+    "personajes principales",
+    "personaje secundario",
+    "personajes secundarios"
+   ]
+  },
+  {
+   "palabra": "Intertextualidad",
+   "definicion": "Relación entre una obra y otras obras que retoma, cita o reescribe.",
+   "formas": [
+    "intertextual"
+   ]
+  },
+  {
+   "palabra": "Épica",
+   "definicion": "Género que cuenta, en general en verso, las hazañas de un héroe que enfrenta grandes peligros, muchas veces con la intervención de los dioses.",
+   "formas": [
+    "epico",
+    "epica",
+    "epopeya"
+   ]
+  },
+  {
+   "palabra": "Relato fundacional",
+   "definicion": "Relato que un pueblo considera parte de su origen y su identidad, y que muestra sus valores.",
+   "formas": [
+    "fundacional"
+   ]
+  },
+  {
+   "palabra": "Aedo",
+   "definicion": "Poeta griego que recitaba de memoria los relatos épicos, de ciudad en ciudad.",
+   "formas": [
+    "aedos"
+   ]
+  },
+  {
+   "palabra": "Epíteto",
+   "definicion": "Frase que acompaña siempre a un nombre, como \"Aquiles, el de los pies ligeros\".",
+   "formas": [
+    "epitetos"
+   ]
+  },
+  {
+   "palabra": "Homero",
+   "definicion": "Poeta griego al que la tradición atribuye la Ilíada y la Odisea.",
+   "formas": []
+  },
+  {
+   "palabra": "Ilíada",
+   "definicion": "Texto homérico que cuenta una parte de la guerra de Troya y la cólera de Aquiles.",
+   "formas": [
+    "iliada"
+   ]
+  },
+  {
+   "palabra": "Odisea",
+   "definicion": "Texto homérico que cuenta el regreso de Odiseo a Ítaca después de la guerra de Troya.",
+   "formas": [
+    "odisea"
+   ]
+  },
+  {
+   "palabra": "Odiseo",
+   "definicion": "Héroe de la Odisea, también llamado Ulises. Se destaca por su astucia.",
+   "formas": [
+    "ulises"
+   ]
+  },
+  {
+   "palabra": "Aquiles",
+   "definicion": "El guerrero griego más fuerte de la Ilíada.",
+   "formas": []
+  },
+  {
+   "palabra": "Héroe épico",
+   "definicion": "Personaje extraordinario que realiza hazañas y muestra los valores de su pueblo.",
+   "formas": [
+    "heroe epico",
+    "heroes"
+   ]
+  },
+  {
+   "palabra": "Astucia",
+   "definicion": "Inteligencia para salir de los problemas. Es el gran valor de Odiseo.",
+   "formas": [
+    "astuto",
+    "astuta"
+   ]
+  },
+  {
+   "palabra": "Cíclope",
+   "definicion": "Gigante con un solo ojo. En la Odisea, Polifemo.",
+   "formas": [
+    "ciclope",
+    "polifemo"
+   ]
+  },
+  {
+   "palabra": "In medias res",
+   "definicion": "Expresión en latín: empezar a contar una historia por la mitad.",
+   "formas": [
+    "medias res"
+   ]
+  },
+  {
+   "palabra": "Verosimilitud",
+   "definicion": "Sensación de que lo que cuenta un relato podría haber pasado. Un relato es verosímil cuando resulta creíble dentro de su propio mundo.",
+   "formas": [
+    "verosimil",
+    "verosimiles"
+   ]
+  },
+  {
+   "palabra": "Ficción",
+   "definicion": "Historia inventada. Puede ser verosímil, es decir, parecer real.",
+   "formas": [
+    "ficcion",
+    "ficciones",
+    "ficcional"
+   ]
+  },
+  {
+   "palabra": "Juan Rulfo",
+   "definicion": "Escritor mexicano (1917-1986), autor del libro de cuentos El llano en llamas, donde está \"Es que somos muy pobres\".",
+   "formas": [
+    "rulfo"
+   ]
+  },
+  {
+   "palabra": "Mariano Azuela",
+   "definicion": "Escritor y médico mexicano, autor de Los de abajo (1915), novela de la Revolución mexicana.",
+   "formas": [
+    "azuela",
+    "los de abajo"
+   ]
+  },
+  {
+   "palabra": "Literatura regional",
+   "definicion": "Literatura que muestra el paisaje, las costumbres, la lengua y la historia de una región.",
+   "formas": [
+    "regional",
+    "regiones"
+   ]
+  },
+  {
+   "palabra": "Identidad",
+   "definicion": "Lo que hace distinto a un lugar y a su gente.",
+   "formas": [
+    "identidades"
+   ]
+  },
+  {
+   "palabra": "Novela histórica",
+   "definicion": "Novela que mezcla hechos y personajes reales del pasado con situaciones inventadas.",
+   "formas": [
+    "novela historica"
+   ]
+  },
+  {
+   "palabra": "Crónica",
+   "definicion": "Relato de un hecho real, contado en orden, con escenas y detalles.",
+   "formas": [
+    "cronicas",
+    "cronista"
+   ]
+  },
+  {
+   "palabra": "Relato testimonial",
+   "definicion": "Relato de un hecho real contado con la voz de quien lo vivió.",
+   "formas": [
+    "testimonio",
+    "testimonial",
+    "testimonios"
+   ]
+  },
+  {
+   "palabra": "Noticia",
+   "definicion": "Texto periodístico breve que informa un hecho reciente.",
+   "formas": [
+    "noticias"
+   ]
+  },
+  {
+   "palabra": "Confrontar versiones",
+   "definicion": "Comparar un relato con otras fuentes para tener una visión más completa.",
+   "formas": [
+    "confrontar"
+   ]
+  },
+  {
+   "palabra": "Resumen",
+   "definicion": "Texto breve que conserva las ideas principales de otro, en el mismo orden y con tus palabras. No agrega opiniones.",
+   "formas": [
+    "resumir",
+    "resumenes"
+   ]
+  },
+  {
+   "palabra": "Idea principal",
+   "definicion": "La idea más importante de un párrafo o de un texto.",
+   "formas": [
+    "ideas principales",
+    "principal"
+   ]
+  },
+  {
+   "palabra": "Notas",
+   "definicion": "Apuntes rápidos que se toman al leer o escuchar, con palabras clave, flechas y abreviaturas.",
+   "formas": [
+    "toma de notas",
+    "apuntes",
+    "nota"
+   ]
+  },
+  {
+   "palabra": "Palabra clave",
+   "definicion": "Palabra que resume una idea importante.",
+   "formas": [
+    "palabras clave"
+   ]
+  },
+  {
+   "palabra": "Diario de lector",
+   "definicion": "Anotaciones que se hacen mientras se lee un libro: qué pasó, qué me pareció, mis preguntas.",
+   "formas": [
+    "diario"
+   ]
+  },
+  {
+   "palabra": "Informe de lectura",
+   "definicion": "Texto ordenado que presenta y analiza una obra después de leerla: datos, contexto, argumento, análisis y valoración.",
+   "formas": [
+    "informe",
+    "informes"
+   ]
+  },
+  {
+   "palabra": "Valoración",
+   "definicion": "Opinión fundamentada sobre una obra: qué te pareció y por qué.",
+   "formas": [
+    "valorar"
+   ]
+  },
+  {
+   "palabra": "Exposición oral",
+   "definicion": "Explicación de un tema ante un público, con introducción, desarrollo y cierre.",
+   "formas": [
+    "exposicion",
+    "exponer"
+   ]
+  },
+  {
+   "palabra": "Delimitar",
+   "definicion": "Decidir qué incluye un tema y qué queda afuera.",
+   "formas": [
+    "delimitar el tema"
+   ]
+  },
+  {
+   "palabra": "Polinización",
+   "definicion": "Traslado de polen de flor en flor, que permite que las plantas den frutos y semillas.",
+   "formas": [
+    "polinizacion",
+    "polinizar"
+   ]
+  },
+  {
+   "palabra": "Mito",
+   "definicion": "Relato tradicional y sagrado que explica el origen del mundo, de los seres o de fenómenos de la naturaleza, con dioses como protagonistas.",
+   "formas": [
+    "mitos",
+    "mitologia",
+    "mitologico"
+   ]
+  },
+  {
+   "palabra": "Cosmogonía",
+   "definicion": "Mito que cuenta el origen del universo.",
+   "formas": [
+    "cosmogonia",
+    "cosmogonias"
+   ]
+  },
+  {
+   "palabra": "Hesíodo",
+   "definicion": "Poeta griego que contó en un poema el origen del mundo y de los dioses.",
+   "formas": [
+    "hesiodo"
+   ]
+  },
+  {
+   "palabra": "Popol Vuh",
+   "definicion": "Libro sagrado de los mayas quichés, de Guatemala, que cuenta la creación de los seres humanos de maíz.",
+   "formas": [
+    "popol"
+   ]
+  },
+  {
+   "palabra": "Titanes",
+   "definicion": "En la mitología griega, hijos de Gea y Urano. Cronos era uno de ellos.",
+   "formas": [
+    "titan"
+   ]
+  },
+  {
+   "palabra": "Leyenda",
+   "definicion": "Relato tradicional que explica el origen de algo de un lugar, con personas como protagonistas.",
+   "formas": [
+    "leyendas"
+   ]
+  },
+  {
+   "palabra": "Resignificar",
+   "definicion": "Darle un sentido nuevo a un relato o a un elemento antiguo.",
+   "formas": [
+    "resignificacion"
+   ]
+  },
+  {
+   "palabra": "Transculturación",
+   "definicion": "Proceso en el que dos culturas en contacto se transforman y crean algo nuevo.",
+   "formas": [
+    "transculturacion"
+   ]
+  },
+  {
+   "palabra": "Lengua originaria",
+   "definicion": "Lengua de los pueblos que vivían en América antes de la llegada de los europeos, como el quechua y el guaraní.",
+   "formas": [
+    "lenguas originarias",
+    "originaria"
+   ]
+  },
+  {
+   "palabra": "Guaraní",
+   "definicion": "Pueblo originario y lengua de la región del noreste argentino, Paraguay y el sur de Brasil.",
+   "formas": [
+    "guarani",
+    "guaranies"
+   ]
+  },
+  {
+   "palabra": "Quechua",
+   "definicion": "Lengua originaria de los Andes. De ella vienen palabras como choclo y pampa.",
+   "formas": []
+  },
+  {
+   "palabra": "Roa Bastos",
+   "definicion": "Augusto Roa Bastos, escritor paraguayo que mezcló en sus obras el español y el guaraní.",
+   "formas": [
+    "roa"
+   ]
+  },
+  {
+   "palabra": "Variedad regional",
+   "definicion": "Forma de hablar propia de una región: cambian algunas palabras, la pronunciación y la entonación. Ninguna es mejor que otra.",
+   "formas": [
+    "variedad",
+    "variedades",
+    "dialecto",
+    "dialectos"
+   ]
+  },
+  {
+   "palabra": "Voseo",
+   "definicion": "Uso de \"vos\" en lugar de \"tú\", con sus formas verbales: \"vos tenés\", \"vos sabés\".",
+   "formas": [
+    "vos"
+   ]
+  },
+  {
+   "palabra": "Gurí",
+   "definicion": "Niño, en el Litoral argentino. \"Gurisa\" es niña.",
+   "formas": [
+    "guri",
+    "gurisa"
+   ]
+  },
+  {
+   "palabra": "Chango",
+   "definicion": "Muchacho, en el Noroeste argentino. \"Changa\" es muchacha.",
+   "formas": [
+    "changa"
+   ]
+  },
+  {
+   "palabra": "Tradición oral",
+   "definicion": "Lo que se transmite de boca en boca: dichos, refranes, coplas, cuentos.",
+   "formas": [
+    "oral",
+    "tradicion"
+   ]
+  },
+  {
+   "palabra": "Hibridación",
+   "definicion": "Mezcla entre lo oral y lo escrito, por ejemplo cuando un escritor reproduce cómo habla la gente.",
+   "formas": [
+    "hibridacion",
+    "hibrido"
+   ]
+  },
+  {
+   "palabra": "Registro",
+   "definicion": "Forma de hablar o escribir según la situación: formal o informal.",
+   "formas": [
+    "registros"
+   ]
+  },
+  {
+   "palabra": "Registro formal",
+   "definicion": "Registro cuidado, con palabras precisas y fórmulas de cortesía, para situaciones oficiales o con personas que no conocemos.",
+   "formas": [
+    "formal"
+   ]
+  },
+  {
+   "palabra": "Registro informal",
+   "definicion": "Registro espontáneo, con palabras cotidianas, para la familia y las amistades.",
+   "formas": [
+    "informal"
+   ]
+  },
+  {
+   "palabra": "Situación comunicativa",
+   "definicion": "Quién habla o escribe, a quién, para qué, dónde y por qué medio.",
+   "formas": [
+    "situacion"
+   ]
+  },
+  {
+   "palabra": "Adecuación",
+   "definicion": "Relación entre el registro de un texto y la situación comunicativa.",
+   "formas": [
+    "adecuado",
+    "adecuada",
+    "adecuar"
+   ]
+  },
+  {
+   "palabra": "Criterios de corrección",
+   "definicion": "Normas de ortografía, puntuación y gramática que la comunidad acordó.",
+   "formas": [
+    "correccion",
+    "norma"
+   ]
+  },
+  {
+   "palabra": "Web 2.0",
+   "definicion": "Web en la que cualquier persona puede publicar, comentar y compartir: redes sociales, blogs, foros.",
+   "formas": [
+    "web"
+   ]
+  },
+  {
+   "palabra": "Hipervínculo",
+   "definicion": "Enlace que lleva de un texto a otro en la web.",
+   "formas": [
+    "hipervinculo",
+    "enlace",
+    "link"
+   ]
+  },
+  {
+   "palabra": "Verificar una fuente",
+   "definicion": "Revisar quién publicó una información, cuándo, y si otras fuentes confiables dicen lo mismo.",
+   "formas": [
+    "verificar",
+    "fuente"
+   ]
+  },
+  {
+   "palabra": "Texto técnico",
+   "definicion": "Texto que transmite información precisa sobre procesos, máquinas, materiales o trabajos: manuales, instructivos, informes, planos.",
+   "formas": [
+    "tecnico",
+    "textos tecnicos"
+   ]
+  },
+  {
+   "palabra": "Precisión",
+   "definicion": "Rasgo del texto técnico: decir exactamente qué, dónde y cuánto, con datos y unidades de medida.",
+   "formas": [
+    "preciso",
+    "precisa"
+   ]
+  },
+  {
+   "palabra": "Objetividad",
+   "definicion": "Rasgo del texto técnico: escribir en forma impersonal o en tercera persona, sin opiniones personales.",
+   "formas": [
+    "objetivo",
+    "impersonal"
+   ]
+  },
+  {
+   "palabra": "Protocolo de procedimiento",
+   "definicion": "Texto con los pasos para hacer una tarea siempre igual y de forma segura: objetivo, materiales, seguridad y pasos numerados.",
+   "formas": [
+    "protocolo",
+    "procedimiento"
+   ]
+  },
+  {
+   "palabra": "Memoria técnica",
+   "definicion": "Documento que describe y justifica un trabajo ya realizado: materiales, procedimiento, cálculos, resultados y planos.",
+   "formas": [
+    "memoria"
+   ]
+  },
+  {
+   "palabra": "Informe técnico",
+   "definicion": "Texto que comunica los resultados de una revisión o prueba y recomienda qué hacer.",
+   "formas": [
+    "informe tecnico"
+   ]
+  },
+  {
+   "palabra": "Metodología",
+   "definicion": "Parte del informe que explica cómo se hizo la prueba o la revisión.",
+   "formas": [
+    "metodo"
+   ]
+  },
+  {
+   "palabra": "Recomendación",
+   "definicion": "Parte del informe que dice qué conviene hacer a partir de los resultados.",
+   "formas": [
+    "recomendaciones",
+    "recomendar"
+   ]
+  },
+  {
+   "palabra": "Fundamentación",
+   "definicion": "Texto que explica por qué hay que hacer un proyecto: problema, propuesta, a quién beneficia y por qué es posible.",
+   "formas": [
+    "fundamentar"
+   ]
+  },
+  {
+   "palabra": "Carta formal",
+   "definicion": "Texto en registro formal, con partes fijas, para pedir, presentarse o reclamar ante una institución o empresa.",
+   "formas": [
+    "correo formal",
+    "correspondencia"
+   ]
+  },
+  {
+   "palabra": "Currículum",
+   "definicion": "Currículum vitae o CV: documento breve que presenta los datos, la formación, la experiencia y los conocimientos de una persona.",
+   "formas": [
+    "curriculum",
+    "cv",
+    "curriculum vitae"
+   ]
+  },
+  {
+   "palabra": "Pasantía",
+   "definicion": "Práctica de trabajo que hace un o una estudiante en una empresa o institución.",
+   "formas": [
+    "pasantias"
+   ]
+  },
+  {
+   "palabra": "Multímetro",
+   "definicion": "Instrumento para medir tensión, corriente y resistencia, entre otras magnitudes.",
+   "formas": [
+    "multimetro",
+    "tester"
+   ]
+  },
+  {
+   "palabra": "Discurso",
+   "definicion": "Lo que se dice o se escribe a alguien, en una situación y con una intención.",
+   "formas": [
+    "discursos"
+   ]
+  },
+  {
+   "palabra": "Análisis del discurso",
+   "definicion": "Estudio de cómo funcionan los textos en la vida social: qué buscan, cómo lo logran y qué dicen de quien los produce.",
+   "formas": [
+    "analisis"
+   ]
+  },
+  {
+   "palabra": "Modos de decir",
+   "definicion": "Formas de organizar lo que se dice: describir, explicar, argumentar y narrar.",
+   "formas": [
+    "modo",
+    "modos",
+    "secuencias"
+   ]
+  },
+  {
+   "palabra": "Describir",
+   "definicion": "Mostrar cómo es algo: sus partes, su forma, sus características.",
+   "formas": [
+    "descripcion",
+    "descriptivo"
+   ]
+  },
+  {
+   "palabra": "Explicar",
+   "definicion": "Hacer comprender por qué o cómo ocurre algo.",
+   "formas": [
+    "explicacion",
+    "explicativo",
+    "exposicion"
+   ]
+  },
+  {
+   "palabra": "Enunciación",
+   "definicion": "Acto de decir algo: quién dice (enunciador) y a quién (enunciatario).",
+   "formas": [
+    "enunciacion"
+   ]
+  },
+  {
+   "palabra": "Enunciador",
+   "definicion": "Quien dice algo en un discurso.",
+   "formas": [
+    "enunciadora"
+   ]
+  },
+  {
+   "palabra": "Enunciatario",
+   "definicion": "A quien se dirige un discurso.",
+   "formas": [
+    "enunciataria"
+   ]
+  },
+  {
+   "palabra": "Subjetividad",
+   "definicion": "Marcas de opinión o valoración de quien habla, como \"excelente\" o \"lamentablemente\".",
+   "formas": [
+    "subjetivo",
+    "subjetiva"
+   ]
+  },
+  {
+   "palabra": "No verbal",
+   "definicion": "Lo que comunica sin palabras: imágenes, colores, gestos, tono de voz, música.",
+   "formas": [
+    "lenguaje no verbal"
+   ]
+  },
+  {
+   "palabra": "Discurso científico",
+   "definicion": "Discurso que produce y comunica conocimiento obtenido con un método y apoyado en evidencias.",
+   "formas": [
+    "cientifico",
+    "ciencia"
+   ]
+  },
+  {
+   "palabra": "Discurso técnico",
+   "definicion": "Discurso que aplica conocimientos a problemas concretos: manuales, normas, informes.",
+   "formas": [
+    "tecnico"
+   ]
+  },
+  {
+   "palabra": "Divulgación científica",
+   "definicion": "Explicación de conocimientos científicos para el público general.",
+   "formas": [
+    "divulgacion"
+   ]
+  },
+  {
+   "palabra": "Terminología",
+   "definicion": "Palabras propias de una especialidad, con un solo significado.",
+   "formas": [
+    "terminos",
+    "termino"
+   ]
+  },
+  {
+   "palabra": "Discurso periodístico",
+   "definicion": "Discurso que informa y opina sobre la actualidad: noticia, crónica, nota de opinión.",
+   "formas": [
+    "periodistico"
+   ]
+  },
+  {
+   "palabra": "Discurso publicitario",
+   "definicion": "Discurso que busca convencer de comprar o de hacer algo.",
+   "formas": [
+    "publicitario",
+    "publicidad"
+   ]
+  },
+  {
+   "palabra": "Discurso político",
+   "definicion": "Discurso que busca lograr adhesión a una propuesta o una postura.",
+   "formas": [
+    "politico"
+   ]
+  },
+  {
+   "palabra": "Discurso jurídico",
+   "definicion": "Discurso que establece normas, derechos y obligaciones: leyes, contratos, reglamentos.",
+   "formas": [
+    "juridico",
+    "ley",
+    "contrato"
+   ]
+  },
+  {
+   "palabra": "Eslogan",
+   "definicion": "Frase breve y fácil de recordar de una publicidad.",
+   "formas": [
+    "slogan",
+    "eslogan"
+   ]
+  },
+  {
+   "palabra": "Relato policial",
+   "definicion": "Relato que gira alrededor de un enigma, casi siempre un delito, que alguien resuelve razonando.",
+   "formas": [
+    "policial",
+    "policiales"
+   ]
+  },
+  {
+   "palabra": "Enigma",
+   "definicion": "Misterio que hay que resolver.",
+   "formas": [
+    "enigmas",
+    "misterio"
+   ]
+  },
+  {
+   "palabra": "Detective",
+   "definicion": "Personaje que investiga y razona a partir de las pistas.",
+   "formas": [
+    "detectives"
+   ]
+  },
+  {
+   "palabra": "Pista",
+   "definicion": "Detalle que permite llegar a la verdad. También se dice indicio.",
+   "formas": [
+    "pistas",
+    "indicio",
+    "indicios"
+   ]
+  },
+  {
+   "palabra": "Sospechoso",
+   "definicion": "Personaje que podría ser culpable.",
+   "formas": [
+    "sospechosos",
+    "sospechosa"
+   ]
+  },
+  {
+   "palabra": "Hipótesis",
+   "definicion": "Explicación posible que hay que comprobar con pruebas.",
+   "formas": [
+    "hipotesis"
+   ]
+  },
+  {
+   "palabra": "Pensamiento científico",
+   "definicion": "Forma de razonar: observar, formular una hipótesis, comprobarla y concluir.",
+   "formas": [
+    "metodo cientifico",
+    "metodo"
+   ]
+  },
+  {
+   "palabra": "Edgar Allan Poe",
+   "definicion": "Escritor estadounidense que inició el género policial en 1841 con \"Los crímenes de la calle Morgue\".",
+   "formas": [
+    "poe"
+   ]
+  },
+  {
+   "palabra": "Dupin",
+   "definicion": "Detective creado por Poe.",
+   "formas": [
+    "auguste dupin"
+   ]
+  },
+  {
+   "palabra": "Sherlock Holmes",
+   "definicion": "Detective creado por el británico Arthur Conan Doyle; su amigo Watson cuenta sus aventuras.",
+   "formas": [
+    "holmes",
+    "watson",
+    "conan doyle"
+   ]
+  },
+  {
+   "palabra": "Borges",
+   "definicion": "Jorge Luis Borges, escritor argentino; muchos de sus cuentos son problemas para pensar, como \"La muerte y la brújula\".",
+   "formas": [
+    "jorge luis borges"
+   ]
+  },
+  {
+   "palabra": "Isidro Parodi",
+   "definicion": "Detective creado por Borges y Bioy Casares, que resuelve los casos desde una celda.",
+   "formas": [
+    "parodi"
+   ]
+  },
+  {
+   "palabra": "Laberinto",
+   "definicion": "Lugar del que es muy difícil encontrar la salida.",
+   "formas": [
+    "laberintos"
+   ]
+  },
+  {
+   "palabra": "Producto social",
+   "definicion": "Algo que crea y transforma una comunidad. La lengua es un producto social.",
+   "formas": [
+    "social"
+   ]
+  },
+  {
+   "palabra": "Sociolingüística",
+   "definicion": "Disciplina que estudia la relación entre la lengua y la sociedad.",
+   "formas": [
+    "sociolinguistica"
+   ]
+  },
+  {
+   "palabra": "Coseriu",
+   "definicion": "Eugenio Coseriu, lingüista que distinguió tres niveles en la lengua: sistema, norma y habla.",
+   "formas": []
+  },
+  {
+   "palabra": "Sistema",
+   "definicion": "Según Coseriu, el conjunto de reglas y posibilidades de una lengua.",
+   "formas": []
+  },
+  {
+   "palabra": "Norma",
+   "definicion": "Según Coseriu, lo que una comunidad usa de hecho, lo habitual.",
+   "formas": []
+  },
+  {
+   "palabra": "Habla",
+   "definicion": "Según Coseriu, lo que cada persona dice en una situación concreta.",
+   "formas": []
+  },
+  {
+   "palabra": "Competencia sociolingüística",
+   "definicion": "Capacidad de usar la lengua según la situación social.",
+   "formas": [
+    "competencia"
+   ]
+  },
+  {
+   "palabra": "Comunidad de hablantes",
+   "definicion": "Grupo de personas que comparten una lengua o una variedad.",
+   "formas": [
+    "hablantes"
+   ]
+  },
+  {
+   "palabra": "Dialecto",
+   "definicion": "Variedad de una lengua. Todas las personas hablamos alguno.",
+   "formas": [
+    "dialectos",
+    "variedad"
+   ]
+  },
+  {
+   "palabra": "Variación lingüística",
+   "definicion": "Cambios de una lengua según el lugar (geográfica), el grupo social (social) y la época (temporal).",
+   "formas": [
+    "variacion",
+    "variaciones"
+   ]
+  },
+  {
+   "palabra": "Jerga",
+   "definicion": "Palabras propias de un oficio o una especialidad.",
+   "formas": [
+    "jergas"
+   ]
+  },
+  {
+   "palabra": "Préstamo",
+   "definicion": "Palabra que una lengua toma de otra, como \"laburo\" del italiano.",
+   "formas": [
+    "prestamos",
+    "prestamo linguistico"
+   ]
+  },
+  {
+   "palabra": "Lunfardo",
+   "definicion": "Habla popular rioplatense, con muchas palabras llegadas con la inmigración.",
+   "formas": []
+  },
+  {
+   "palabra": "Educación intercultural bilingüe",
+   "definicion": "Modalidad que establece la Ley 26.206: en comunidades de pueblos originarios, se enseña en la lengua de la comunidad y en español.",
+   "formas": [
+    "intercultural",
+    "bilingue"
+   ]
+  },
+  {
+   "palabra": "Argumento",
+   "definicion": "Tiene dos sentidos. En una obra literaria, es lo que pasa en la historia, contado en orden. En un texto argumentativo, es una razón que sostiene la tesis y responde a la pregunta \"¿por qué?\".",
+   "formas": [
+    "argumentos",
+    "trama"
+   ]
+  }
+ ],
+ "temas": [
+  {
+   "id": "len-4-02-c1-1",
+   "clase": "len-4-02",
+   "capsula": "c1",
+   "boton": "Cómo era el teatro griego",
+   "otra_manera": "Las obras se hacían en grandes fiestas en honor a Dioniso, en teatros al aire libre donde entraban miles de personas. Actuaban solo varones, con **máscaras**, y un **coro** comentaba lo que pasaba.",
+   "vida_real": "Pensalo como un gran festival al aire libre, con miles de personas mirando juntas la misma obra, como hoy en un recital en un estadio.",
+   "claves": [
+    "teatro",
+    "teatro griego",
+    "grecia",
+    "atenas"
+   ],
+   "parte": "El teatro griego y la tragedia"
+  },
+  {
+   "id": "len-4-02-c1-2",
+   "clase": "len-4-02",
+   "capsula": "c1",
+   "boton": "Tragedia y comedia",
+   "otra_manera": "La **tragedia** muestra héroes en un conflicto grave que termina mal. La **comedia** muestra gente común y busca la risa. Lo que las distingue no es que sean teatro (las dos lo son), sino el tipo de conflicto, los personajes y el final.",
+   "vida_real": "Es como la diferencia entre una película dramática que te deja pensando y una comedia que te hace reír.",
+   "claves": [
+    "tragedia",
+    "comedia",
+    "diferencia"
+   ],
+   "parte": "El teatro griego y la tragedia"
+  },
+  {
+   "id": "len-4-02-c1-3",
+   "clase": "len-4-02",
+   "capsula": "c1",
+   "boton": "La catarsis",
+   "otra_manera": "Según Aristóteles, la tragedia hace sentir **compasión** (pena por el personaje) y **temor** (miedo de que nos pase algo así). Al final, el público se alivia de esas emociones: eso es la **catarsis**.",
+   "vida_real": "Es lo que te pasa cuando terminás de ver una película muy triste: lloraste, pero salís más tranquilo o tranquila, como si te hubieras descargado.",
+   "claves": [
+    "catarsis",
+    "aristoteles",
+    "compasion",
+    "temor"
+   ],
+   "parte": "El teatro griego y la tragedia"
+  },
+  {
+   "id": "len-4-02-c2-1",
+   "clase": "len-4-02",
+   "capsula": "c2",
+   "boton": "Qué pasa en Antígona",
+   "otra_manera": "Creonte prohíbe enterrar a Polinices. Antígona lo entierra igual, porque es su hermano y los dioses lo mandan. Creonte la condena y no escucha consejos. Cuando cambia de idea ya es tarde: Antígona, Hemón y Eurídice mueren, y Creonte queda solo.",
+   "vida_real": "Es una cadena: una orden muy dura, una desobediencia y un castigo que nadie logra frenar a tiempo.",
+   "claves": [
+    "antigona",
+    "argumento",
+    "que pasa",
+    "historia"
+   ],
+   "parte": "Antígona: la historia"
+  },
+  {
+   "id": "len-4-02-c2-2",
+   "clase": "len-4-02",
+   "capsula": "c2",
+   "boton": "Los personajes",
+   "otra_manera": "**Antígona** desobedece para enterrar a su hermano. **Ismene**, su hermana, no se anima. **Creonte** es el rey que prohíbe el entierro. **Hemón**, hijo de Creonte, pide por Antígona. **Tiresias**, el adivino, advierte al rey.",
+   "vida_real": "Pensá en cada personaje como una postura distinta frente al mismo problema: quien se anima, quien tiene miedo, quien manda y quienes aconsejan.",
+   "claves": [
+    "personajes",
+    "ismene",
+    "creonte",
+    "hemon",
+    "tiresias"
+   ],
+   "parte": "Antígona: la historia"
+  },
+  {
+   "id": "len-4-02-c3-1",
+   "clase": "len-4-02",
+   "capsula": "c3",
+   "boton": "Las dos leyes enfrentadas",
+   "otra_manera": "Creonte defiende la **ley del Estado**: castigar al traidor para mantener el orden. Antígona defiende la **ley de los dioses** y su deber con la familia. Los dos tienen sus razones y ninguno cede: por eso es un conflicto trágico.",
+   "vida_real": "Es como cuando una regla de la escuela choca con algo que vos sentís que tenés que hacer por tu familia: las dos cosas parecen importantes.",
+   "claves": [
+    "conflicto",
+    "leyes",
+    "ley del estado",
+    "conciencia"
+   ],
+   "parte": "El conflicto trágico: la ley y la conciencia"
+  },
+  {
+   "id": "len-4-02-c3-2",
+   "clase": "len-4-02",
+   "capsula": "c3",
+   "boton": "Hybris y anagnórisis",
+   "otra_manera": "La **hybris** es el orgullo excesivo: Creonte no escucha a nadie. La **anagnórisis** es el momento en que reconoce su error, cuando ya es demasiado tarde.",
+   "vida_real": "Es como alguien que no acepta consejos, se equivoca y recién se da cuenta cuando ya no tiene arreglo.",
+   "claves": [
+    "hybris",
+    "anagnorisis",
+    "orgullo",
+    "error"
+   ],
+   "parte": "El conflicto trágico: la ley y la conciencia"
+  },
+  {
+   "id": "len-4-02-c3-3",
+   "clase": "len-4-02",
+   "capsula": "c3",
+   "boton": "Ética y estética",
+   "otra_manera": "La tragedia es **ética** porque pregunta qué es lo justo. Y es **estética** porque lo hace como obra de arte, con su forma propia: coro, diálogos y un final que conmueve.",
+   "vida_real": "Una buena película puede hacerte pensar sobre lo que está bien o mal (ética) y, a la vez, ser lindo cómo está filmada (estética).",
+   "claves": [
+    "etica",
+    "estetica"
+   ],
+   "parte": "El conflicto trágico: la ley y la conciencia"
+  },
+  {
+   "id": "len-4-01-c1-1",
+   "clase": "len-4-01",
+   "capsula": "c1",
+   "boton": "El contexto de producción",
+   "otra_manera": "Es todo lo que rodea a una obra cuando se escribe: **quién**, **cuándo**, **dónde**, **qué pasaba** y **cómo circulaba**. Conocerlo ayuda a entender por qué los personajes actúan así.",
+   "vida_real": "Es como entender un chiste de tu abuelo: si no sabés de qué época habla, no te causa gracia.",
+   "claves": [
+    "contexto",
+    "produccion",
+    "epoca"
+   ],
+   "parte": "La obra y su contexto de producción"
+  },
+  {
+   "id": "len-4-01-c1-2",
+   "clase": "len-4-01",
+   "capsula": "c1",
+   "boton": "Producción y lectura",
+   "otra_manera": "Una obra tiene dos momentos: cuando se escribió (**contexto de producción**) y cuando la leemos (**contexto de lectura**). Los dos importan.",
+   "vida_real": "Una canción vieja te puede emocionar hoy por motivos distintos de los que tuvo quien la compuso.",
+   "claves": [
+    "contexto de lectura",
+    "lectura"
+   ],
+   "parte": "La obra y su contexto de producción"
+  },
+  {
+   "id": "len-4-01-c2-1",
+   "clase": "len-4-01",
+   "capsula": "c2",
+   "boton": "Los tres grandes géneros",
+   "otra_manera": "El **narrativo** cuenta una historia con un narrador. El **lírico** expresa emociones, en general en verso. El **dramático** se escribe con diálogos para ser representado.",
+   "vida_real": "Es como en la música: cada género tiene su estilo y ya sabés qué esperar cuando empieza.",
+   "claves": [
+    "generos",
+    "narrativo",
+    "lirico",
+    "dramatico"
+   ],
+   "parte": "Género y estética"
+  },
+  {
+   "id": "len-4-01-c2-2",
+   "clase": "len-4-01",
+   "capsula": "c2",
+   "boton": "Subgéneros y estética",
+   "otra_manera": "Dentro de cada género hay **subgéneros** con reglas propias (tragedia, épica, policial, fantástico). La **estética** es la manera de hacer arte de un grupo o una época.",
+   "vida_real": "Dentro de las películas de acción hay de superhéroes, de autos, de espías: cada una con sus reglas.",
+   "claves": [
+    "subgenero",
+    "estetica",
+    "realismo"
+   ],
+   "parte": "Género y estética"
+  },
+  {
+   "id": "len-4-01-c3-1",
+   "clase": "len-4-01",
+   "capsula": "c3",
+   "boton": "El narrador",
+   "otra_manera": "El **narrador** es la voz que cuenta, y no es el autor. Puede ser **protagonista** (cuenta lo suyo), **testigo** (cuenta lo que vio) u **omnisciente** (sabe todo, en tercera persona).",
+   "vida_real": "Es como elegir desde qué cámara filmar una escena: cambia lo que se ve.",
+   "claves": [
+    "narrador",
+    "protagonista",
+    "testigo",
+    "omnisciente"
+   ],
+   "parte": "Por dentro de la obra: quién cuenta, quiénes actúan, de qué trata"
+  },
+  {
+   "id": "len-4-01-c3-2",
+   "clase": "len-4-01",
+   "capsula": "c3",
+   "boton": "La guía de seis pasos",
+   "otra_manera": "Para analizar cualquier obra: **contexto**, **género**, **quién cuenta**, **personajes y conflicto**, **tiempo y espacio**, y **tema y relaciones** con otras obras.",
+   "vida_real": "Es como una lista de control antes de un viaje: si seguís los pasos, no te olvidás de nada.",
+   "claves": [
+    "guia",
+    "pasos",
+    "analizar",
+    "ficha"
+   ],
+   "parte": "Por dentro de la obra: quién cuenta, quiénes actúan, de qué trata"
+  },
+  {
+   "id": "len-4-03-c1-1",
+   "clase": "len-4-03",
+   "capsula": "c1",
+   "boton": "Qué es la épica",
+   "otra_manera": "La épica cuenta las **hazañas** de un héroe, con la ayuda o la oposición de los **dioses**. Nació **oral**: los aedos la recitaban de memoria.",
+   "vida_real": "Es como las historias de superhéroes de hoy, pero contadas en voz alta y en verso.",
+   "claves": [
+    "epica",
+    "aedos",
+    "hazanas"
+   ],
+   "parte": "La épica, un relato que funda un pueblo"
+  },
+  {
+   "id": "len-4-03-c1-2",
+   "clase": "len-4-03",
+   "capsula": "c1",
+   "boton": "Relato fundacional",
+   "otra_manera": "Se llama **fundacional** porque cuenta algo que un pueblo considera parte de su origen y muestra lo que admiraba: valentía, honor, astucia.",
+   "vida_real": "Es como la historia de cómo se fundó tu club o tu escuela: dice quiénes somos y qué valoramos.",
+   "claves": [
+    "fundacional",
+    "valores"
+   ],
+   "parte": "La épica, un relato que funda un pueblo"
+  },
+  {
+   "id": "len-4-03-c2-1",
+   "clase": "len-4-03",
+   "capsula": "c2",
+   "boton": "La Ilíada",
+   "otra_manera": "Cuenta unos días del último año de la **guerra de Troya** y la **cólera de Aquiles**, que vuelve a pelear y mata a Héctor. Termina con el funeral de Héctor.",
+   "vida_real": "Es como una serie que no cuenta toda la guerra sino un episodio clave.",
+   "claves": [
+    "iliada",
+    "troya",
+    "aquiles",
+    "hector"
+   ],
+   "parte": "Los textos homéricos: la Ilíada y la Odisea"
+  },
+  {
+   "id": "len-4-03-c2-2",
+   "clase": "len-4-03",
+   "capsula": "c2",
+   "boton": "La Odisea",
+   "otra_manera": "Cuenta el **regreso de Odiseo** a Ítaca: diez años de viaje. En su casa lo esperan Penélope y Telémaco. Llega disfrazado y vence a los pretendientes.",
+   "vida_real": "Es un largo viaje de vuelta a casa con obstáculos en cada parada.",
+   "claves": [
+    "odisea",
+    "odiseo",
+    "itaca",
+    "penelope"
+   ],
+   "parte": "Los textos homéricos: la Ilíada y la Odisea"
+  },
+  {
+   "id": "len-4-03-c3-1",
+   "clase": "len-4-03",
+   "capsula": "c3",
+   "boton": "El viaje del héroe",
+   "otra_manera": "El héroe **parte**, enfrenta **pruebas** y **regresa** transformado. En la Odisea: deja Troya, enfrenta al cíclope y a las sirenas, y vuelve a Ítaca.",
+   "vida_real": "Es como la estructura de muchas películas de aventuras: salir, superar desafíos y volver distinto.",
+   "claves": [
+    "viaje",
+    "partida",
+    "pruebas",
+    "regreso"
+   ],
+   "parte": "El héroe épico y su viaje"
+  },
+  {
+   "id": "len-4-03-c3-2",
+   "clase": "len-4-03",
+   "capsula": "c3",
+   "boton": "Fuerza y astucia",
+   "otra_manera": "**Aquiles** es el héroe de la **fuerza**; **Odiseo**, el de la **astucia**: engaña al cíclope diciendo que se llama \"Nadie\".",
+   "vida_real": "En un equipo hay quien gana por fuerza y quien gana por inteligencia: los dos son valiosos.",
+   "claves": [
+    "astucia",
+    "fuerza",
+    "ciclope",
+    "nadie"
+   ],
+   "parte": "El héroe épico y su viaje"
+  },
+  {
+   "id": "len-4-04-c1-1",
+   "clase": "len-4-04",
+   "capsula": "c1",
+   "boton": "La verosimilitud",
+   "otra_manera": "Un relato realista es **ficción**, pero está construido para que quien lee sienta que **podría haber pasado**. Eso es la **verosimilitud**.",
+   "vida_real": "Es como una película basada en una historia inventada que te parece tan real que pensás que ocurrió.",
+   "claves": [
+    "verosimilitud",
+    "verdad",
+    "realismo"
+   ],
+   "parte": "La construcción de la verdad en el relato latinoamericano"
+  },
+  {
+   "id": "len-4-04-c1-2",
+   "clase": "len-4-04",
+   "capsula": "c1",
+   "boton": "El cuento de Rulfo",
+   "otra_manera": "Un **niño** cuenta que el río se llevó a la **Serpentina**, la vaca de su hermana **Tacha**, que era lo único que ella tenía para su futuro.",
+   "vida_real": "Es como perder lo único que te asegura algo para más adelante: por eso la familia está tan triste.",
+   "claves": [
+    "rulfo",
+    "tacha",
+    "serpentina"
+   ],
+   "parte": "La construcción de la verdad en el relato latinoamericano"
+  },
+  {
+   "id": "len-4-04-c2-1",
+   "clase": "len-4-04",
+   "capsula": "c2",
+   "boton": "Literatura e identidad",
+   "otra_manera": "La literatura de las regiones muestra **el paisaje, los trabajos, la lengua y la historia** de un lugar. Así ayuda a construir su **identidad**.",
+   "vida_real": "Es como un álbum de fotos de un pueblo: quien es de ahí se reconoce y quien no, lo conoce.",
+   "claves": [
+    "regional",
+    "identidad",
+    "region"
+   ],
+   "parte": "Literatura de las regiones e identidad"
+  },
+  {
+   "id": "len-4-04-c2-2",
+   "clase": "len-4-04",
+   "capsula": "c2",
+   "boton": "La novela histórica",
+   "otra_manera": "Mezcla **hechos y personajes reales** del pasado con **situaciones inventadas**: lo que pensaban o conversaban, que no aparece en los documentos.",
+   "vida_real": "Es como una película sobre un personaje real: los hechos son verdaderos, pero muchas escenas se imaginan.",
+   "claves": [
+    "novela historica",
+    "polvo y espanto",
+    "arias"
+   ],
+   "parte": "Literatura de las regiones e identidad"
+  },
+  {
+   "id": "len-4-04-c3-1",
+   "clase": "len-4-04",
+   "capsula": "c3",
+   "boton": "Crónica y testimonio",
+   "otra_manera": "La **crónica** cuenta un hecho real con escenas y detalles. El **relato testimonial** lo cuenta con la voz de quien lo vivió. Los dos usan recursos de la literatura.",
+   "vida_real": "Es la diferencia entre que un periodista cuente un partido y que lo cuente un jugador que estuvo en la cancha.",
+   "claves": [
+    "cronica",
+    "testimonio",
+    "periodismo"
+   ],
+   "parte": "Literatura y periodismo: la crónica y el relato testimonial"
+  },
+  {
+   "id": "len-4-04-c3-2",
+   "clase": "len-4-04",
+   "capsula": "c3",
+   "boton": "Confrontar versiones",
+   "otra_manera": "Cada relato cuenta desde una **mirada**. Por eso conviene **compararlo con otras fuentes** y preguntarse desde dónde habla quien cuenta.",
+   "vida_real": "Cuando dos amigos cuentan la misma pelea, cada uno la cuenta a su manera: para entender, escuchás a los dos.",
+   "claves": [
+    "confrontar",
+    "fuentes",
+    "versiones"
+   ],
+   "parte": "Literatura y periodismo: la crónica y el relato testimonial"
+  },
+  {
+   "id": "len-4-05-c1-1",
+   "clase": "len-4-05",
+   "capsula": "c1",
+   "boton": "Tesis, argumentos y conclusión",
+   "otra_manera": "Primero se dice qué se piensa (**tesis**). Después se explica por qué (**argumentos**). Al final se vuelve a la idea principal (**conclusión**).",
+   "vida_real": "Es lo que hacés cuando pedís permiso para salir: decís qué querés, das tus razones y cerrás con un \"por eso\".",
+   "claves": [
+    "tesis",
+    "argumentos",
+    "conclusion",
+    "partes"
+   ],
+   "parte": "¿Qué es argumentar? Tesis, argumentos y conclusión"
+  },
+  {
+   "id": "len-4-05-c1-2",
+   "clase": "len-4-05",
+   "capsula": "c1",
+   "boton": "Hecho u opinión",
+   "otra_manera": "Un **hecho** se puede comprobar (\"la escuela empieza a las 7:30\"). Una **opinión** dice lo que alguien piensa (\"debería empezar más tarde\") y por eso necesita argumentos.",
+   "vida_real": "Que el partido terminó 2 a 1 es un hecho; que fue el mejor partido del año es una opinión.",
+   "claves": [
+    "hecho",
+    "opinion"
+   ],
+   "parte": "¿Qué es argumentar? Tesis, argumentos y conclusión"
+  },
+  {
+   "id": "len-4-05-c2-1",
+   "clase": "len-4-05",
+   "capsula": "c2",
+   "boton": "Las estrategias",
+   "otra_manera": "Son maneras de presentar las razones para que convenzan: un **dato**, la palabra de alguien que sabe (**cita de autoridad**), una **pregunta retórica**, una **comparación** o una **concesión**.",
+   "vida_real": "Como en un partido, no siempre se juega igual: elegís la jugada según lo que necesitás.",
+   "claves": [
+    "estrategias",
+    "dato",
+    "cita",
+    "pregunta retorica",
+    "concesion"
+   ],
+   "parte": "Cómo se convence: estrategias y conectores"
+  },
+  {
+   "id": "len-4-05-c2-2",
+   "clase": "len-4-05",
+   "capsula": "c2",
+   "boton": "Los conectores",
+   "otra_manera": "Unen las ideas y muestran su relación: **además** agrega, **sin embargo** opone, **porque** da la causa, **por lo tanto** da la consecuencia y **en síntesis** concluye.",
+   "vida_real": "Son como las señales de tránsito del texto: le avisan a quien lee hacia dónde va la idea.",
+   "claves": [
+    "conectores",
+    "sin embargo",
+    "por lo tanto",
+    "porque"
+   ],
+   "parte": "Cómo se convence: estrategias y conectores"
+  },
+  {
+   "id": "len-4-05-c3-1",
+   "clase": "len-4-05",
+   "capsula": "c3",
+   "boton": "Ensayo y debate",
+   "otra_manera": "Los dos argumentan. El **ensayo** es escrito y personal: un autor piensa un tema. El **debate** es oral: varias personas con posturas distintas, turnos y moderación.",
+   "vida_real": "El ensayo es como un audio largo en el que explicás lo que pensás; el debate, como una charla en grupo con alguien que ordena los turnos.",
+   "claves": [
+    "ensayo",
+    "debate",
+    "diferencia"
+   ],
+   "parte": "El ensayo y el debate"
+  },
+  {
+   "id": "len-4-05-c3-2",
+   "clase": "len-4-05",
+   "capsula": "c3",
+   "boton": "Cómo se organiza un debate",
+   "otra_manera": "Presentación del tema, exposición de cada postura, réplica (se responden los argumentos del otro) y cierre. Quien modera da la palabra y cuida los tiempos.",
+   "vida_real": "Es como un partido con árbitro: cada equipo tiene su turno y alguien controla que se respeten las reglas.",
+   "claves": [
+    "moderador",
+    "replica",
+    "etapas"
+   ],
+   "parte": "El ensayo y el debate"
+  },
+  {
+   "id": "len-4-06-c1-1",
+   "clase": "len-4-06",
+   "capsula": "c1",
+   "boton": "Cómo resumir",
+   "otra_manera": "Leé todo, subrayá la **idea principal** de cada párrafo y uní esas ideas **con tus palabras**. Sacá ejemplos, repeticiones y opiniones.",
+   "vida_real": "Es como contarle a alguien una película en un minuto: decís lo importante y no cada escena.",
+   "claves": [
+    "resumen",
+    "resumir",
+    "idea principal"
+   ],
+   "parte": "El resumen y la toma de notas"
+  },
+  {
+   "id": "len-4-06-c1-2",
+   "clase": "len-4-06",
+   "capsula": "c1",
+   "boton": "Las notas",
+   "otra_manera": "Son **apuntes rápidos** con palabras clave, flechas y abreviaturas, para no olvidar lo importante.",
+   "vida_real": "Es como la lista del supermercado: no escribís oraciones, solo lo que necesitás recordar.",
+   "claves": [
+    "notas",
+    "apuntes"
+   ],
+   "parte": "El resumen y la toma de notas"
+  },
+  {
+   "id": "len-4-06-c2-1",
+   "clase": "len-4-06",
+   "capsula": "c2",
+   "boton": "Diario e informe",
+   "otra_manera": "El **diario de lector** se escribe mientras leés y es personal. El **informe de lectura** se escribe al final, es ordenado y tiene partes.",
+   "vida_real": "El diario es como los mensajes que vas mandando durante un viaje; el informe, como el relato completo cuando volvés.",
+   "claves": [
+    "diario",
+    "informe"
+   ],
+   "parte": "El diario de lector y el informe de lectura"
+  },
+  {
+   "id": "len-4-06-c2-2",
+   "clase": "len-4-06",
+   "capsula": "c2",
+   "boton": "Las partes del informe",
+   "otra_manera": "**Datos de la obra**, **contexto**, **argumento**, **análisis** y **valoración** (tu opinión con razones).",
+   "vida_real": "Es como presentar a una persona: primero quién es, de dónde viene, qué hizo y qué pensás de ella.",
+   "claves": [
+    "partes",
+    "valoracion",
+    "argumento"
+   ],
+   "parte": "El diario de lector y el informe de lectura"
+  },
+  {
+   "id": "len-4-06-c3-1",
+   "clase": "len-4-06",
+   "capsula": "c3",
+   "boton": "Preparar una exposición",
+   "otra_manera": "Delimitá el tema, pensá en tu **público**, ordená la información en **introducción, desarrollo y cierre**, prepará un esquema y **ensayá**.",
+   "vida_real": "Es como preparar un partido: estudiás al rival, armás la táctica y practicás antes.",
+   "claves": [
+    "preparar",
+    "publico",
+    "ensayar"
+   ],
+   "parte": "La exposición oral"
+  },
+  {
+   "id": "len-4-06-c3-2",
+   "clase": "len-4-06",
+   "capsula": "c3",
+   "boton": "Cómo exponer",
+   "otra_manera": "Hablá claro y sin correr, **mirá al público** y usá el papel solo como apoyo. Usá ejemplos.",
+   "vida_real": "Es como explicarle algo a un amigo que no sabe: lo mirás, le das ejemplos y te fijás si te entiende.",
+   "claves": [
+    "exponer",
+    "voz",
+    "mirada"
+   ],
+   "parte": "La exposición oral"
+  },
+  {
+   "id": "len-4-07-c1-1",
+   "clase": "len-4-07",
+   "capsula": "c1",
+   "boton": "Mito y cosmogonía",
+   "otra_manera": "Un **mito** es un relato sagrado que explica los orígenes, con dioses como protagonistas. Una **cosmogonía** es el mito del origen del universo.",
+   "vida_real": "Es como la historia que una familia cuenta sobre cómo empezó todo, pero para un pueblo entero y con dioses.",
+   "claves": [
+    "mito",
+    "cosmogonia"
+   ],
+   "parte": "El mito y las cosmogonías"
+  },
+  {
+   "id": "len-4-07-c1-2",
+   "clase": "len-4-07",
+   "capsula": "c1",
+   "boton": "Dos cosmogonías",
+   "otra_manera": "En la griega, del **Caos** nacen la Tierra y el Cielo, y Zeus termina siendo rey. En el **Popol Vuh**, los dioses prueban con barro y madera, y al final crean seres de **maíz**.",
+   "vida_real": "Es como hacer una receta varias veces hasta que sale bien: los dioses mayas probaron tres veces.",
+   "claves": [
+    "popol vuh",
+    "griega",
+    "maiz",
+    "zeus"
+   ],
+   "parte": "El mito y las cosmogonías"
+  },
+  {
+   "id": "len-4-07-c2-1",
+   "clase": "len-4-07",
+   "capsula": "c2",
+   "boton": "Mito y leyenda",
+   "otra_manera": "El **mito** habla de los orígenes del mundo, con dioses. La **leyenda** explica algo de un **lugar** (una planta, un nombre, una costumbre), con personas como protagonistas.",
+   "vida_real": "El mito es la historia del universo; la leyenda, la historia de tu pueblo o de tu río.",
+   "claves": [
+    "leyenda",
+    "mito",
+    "diferencia"
+   ],
+   "parte": "Las leyendas latinoamericanas"
+  },
+  {
+   "id": "len-4-07-c2-2",
+   "clase": "len-4-07",
+   "capsula": "c2",
+   "boton": "La yerba mate",
+   "otra_manera": "Yasí (la Luna) y Araí (la nube) bajan a la tierra; un anciano las salva de un yaguareté, y en agradecimiento nace la **yerba mate**.",
+   "vida_real": "Es como un regalo de agradecimiento que se convirtió en costumbre: compartir el mate.",
+   "claves": [
+    "yerba mate",
+    "yasi",
+    "arai"
+   ],
+   "parte": "Las leyendas latinoamericanas"
+  },
+  {
+   "id": "len-4-07-c3-1",
+   "clase": "len-4-07",
+   "capsula": "c3",
+   "boton": "Qué es la transculturación",
+   "otra_manera": "Cuando dos culturas se encuentran, las dos **se transforman** y aparece algo **nuevo**.",
+   "vida_real": "Es como mezclar dos colores: no queda ninguno de los dos, aparece uno nuevo.",
+   "claves": [
+    "transculturacion",
+    "culturas"
+   ],
+   "parte": "La transculturación"
+  },
+  {
+   "id": "len-4-07-c3-2",
+   "clase": "len-4-07",
+   "capsula": "c3",
+   "boton": "Ejemplos de transculturación",
+   "otra_manera": "Palabras del quechua y del guaraní en nuestro español (choclo, ananá), el mate que se comparte en todo el país y obras como las de **Roa Bastos**, que mezclan español y guaraní.",
+   "vida_real": "Cada vez que decís \"choclo\" usás una palabra de una cultura que estaba acá antes.",
+   "claves": [
+    "ejemplos",
+    "roa bastos",
+    "palabras"
+   ],
+   "parte": "La transculturación"
+  },
+  {
+   "id": "len-4-08-c1-1",
+   "clase": "len-4-08",
+   "capsula": "c1",
+   "boton": "Los tiempos del pasado",
+   "otra_manera": "El **perfecto simple** cuenta lo que pasó y hace avanzar la historia (abrió). El **imperfecto** pinta el fondo (llovía). El **pluscuamperfecto** cuenta algo que pasó antes (se había ido).",
+   "vida_real": "Es como una película: el imperfecto es el escenario, el perfecto simple es lo que hacen los personajes, y el pluscuamperfecto es un recuerdo de antes.",
+   "claves": [
+    "tiempos verbales",
+    "preterito",
+    "imperfecto",
+    "pluscuamperfecto"
+   ],
+   "parte": "Los tiempos verbales del pasado al narrar"
+  },
+  {
+   "id": "len-4-08-c1-2",
+   "clase": "len-4-08",
+   "capsula": "c1",
+   "boton": "El presente histórico",
+   "otra_manera": "A veces se cuenta algo pasado con un verbo en presente para que se sienta más cercano: \"En 1810 se forma la Primera Junta\". La fecha deja claro que es pasado.",
+   "vida_real": "Es como cuando contás \"y entonces llego a mi casa y veo que…\": ya pasó, pero lo contás como si estuviera pasando.",
+   "claves": [
+    "presente historico"
+   ],
+   "parte": "Los tiempos verbales del pasado al narrar"
+  },
+  {
+   "id": "len-4-08-c2-1",
+   "clase": "len-4-08",
+   "capsula": "c2",
+   "boton": "Los usos de la coma",
+   "otra_manera": "La coma separa los elementos de una **enumeración**, aísla el **vocativo** (a quien se le habla), encierra una **aclaración** y va antes de conectores como **pero**.",
+   "vida_real": "Es como las pausas cuando hablás: si las ponés en otro lugar, cambia lo que se entiende.",
+   "claves": [
+    "coma",
+    "vocativo",
+    "enumeracion",
+    "aclaracion"
+   ],
+   "parte": "La puntuación cambia el sentido"
+  },
+  {
+   "id": "len-4-08-c2-2",
+   "clase": "len-4-08",
+   "capsula": "c2",
+   "boton": "Otros signos",
+   "otra_manera": "El **punto y seguido** separa oraciones; el **punto y aparte** cierra un párrafo; el **punto y coma** separa ideas relacionadas; los **dos puntos** anuncian una lista, una cita o una explicación.",
+   "vida_real": "Son como las señales de una ruta: avisan dónde frenar, dónde doblar y qué viene después.",
+   "claves": [
+    "punto",
+    "punto y coma",
+    "dos puntos"
+   ],
+   "parte": "La puntuación cambia el sentido"
+  },
+  {
+   "id": "len-4-08-c3-1",
+   "clase": "len-4-08",
+   "capsula": "c3",
+   "boton": "Agudas, graves y esdrújulas",
+   "otra_manera": "Primero buscá la sílaba que suena más fuerte. Si es la última, es **aguda** (acento si termina en n, s o vocal). Si es la anteúltima, **grave** (acento si NO termina así). Si es la antepenúltima, **esdrújula** (acento siempre).",
+   "vida_real": "Probá decir la palabra como si llamaras a alguien de lejos: la sílaba que estirás es la tónica.",
+   "claves": [
+    "aguda",
+    "grave",
+    "esdrujula",
+    "acentuacion"
+   ],
+   "parte": "Las reglas de acentuación"
+  },
+  {
+   "id": "len-4-08-c3-2",
+   "clase": "len-4-08",
+   "capsula": "c3",
+   "boton": "Acento diacrítico e hiato",
+   "otra_manera": "El **acento diacrítico** distingue palabras iguales: tú (pronombre) y tu (de quién es algo). En el **hiato**, la i o la u tónicas junto a otra vocal llevan acento: día, país.",
+   "vida_real": "El acento diacrítico es como un apellido: dos personas pueden llamarse igual, y el apellido te dice cuál es cuál.",
+   "claves": [
+    "diacritico",
+    "hiato"
+   ],
+   "parte": "Las reglas de acentuación"
+  },
+  {
+   "id": "len-4-09-c1-1",
+   "clase": "len-4-09",
+   "capsula": "c1",
+   "boton": "Las variedades del español",
+   "otra_manera": "El español se habla distinto en cada región: cambian palabras, la pronunciación y la entonación. Ninguna variedad es mejor que otra.",
+   "vida_real": "Es como la camiseta de cada club: todas son de fútbol, pero cada una tiene sus colores.",
+   "claves": [
+    "variedad",
+    "region",
+    "dialecto"
+   ],
+   "parte": "El lenguaje de la región"
+  },
+  {
+   "id": "len-4-09-c1-2",
+   "clase": "len-4-09",
+   "capsula": "c1",
+   "boton": "El habla de la Argentina",
+   "otra_manera": "Usamos el **voseo** (\"vos tenés\"), palabras propias de cada región (gurí, chango, guagua) y una pronunciación característica.",
+   "vida_real": "Cuando alguien de otro país te escucha decir \"vos sabés\", enseguida se da cuenta de dónde sos.",
+   "claves": [
+    "voseo",
+    "argentina",
+    "guri",
+    "chango"
+   ],
+   "parte": "El lenguaje de la región"
+  },
+  {
+   "id": "len-4-09-c2-1",
+   "clase": "len-4-09",
+   "capsula": "c2",
+   "boton": "El registro",
+   "otra_manera": "Según la situación, hablamos o escribimos en registro **formal** (cuidado, con cortesía) o **informal** (cotidiano). Hay que pensar quién, a quién, para qué y por qué medio.",
+   "vida_real": "No te vestís igual para una fiesta que para entrenar: con las palabras pasa lo mismo.",
+   "claves": [
+    "registro",
+    "formal",
+    "informal"
+   ],
+   "parte": "Registros y adecuación"
+  },
+  {
+   "id": "len-4-09-c2-2",
+   "clase": "len-4-09",
+   "capsula": "c2",
+   "boton": "La adecuación",
+   "otra_manera": "Un texto es **adecuado** cuando su registro corresponde a la situación. En lo formal escrito, además, se cuidan la ortografía y la puntuación.",
+   "vida_real": "Es como hablar bajo en una biblioteca y fuerte en una cancha: depende del lugar.",
+   "claves": [
+    "adecuacion",
+    "correccion"
+   ],
+   "parte": "Registros y adecuación"
+  },
+  {
+   "id": "len-4-09-c3-1",
+   "clase": "len-4-09",
+   "capsula": "c3",
+   "boton": "La web 2.0",
+   "otra_manera": "Es la web en la que **todos pueden publicar**: redes, blogs, foros, comentarios. Por eso hoy escribimos más y en géneros nuevos.",
+   "vida_real": "Antes la web era como una revista que solo se leía; ahora es como un mural donde todos pueden escribir.",
+   "claves": [
+    "web",
+    "redes",
+    "internet"
+   ],
+   "parte": "Los discursos en la web"
+  },
+  {
+   "id": "len-4-09-c3-2",
+   "clase": "len-4-09",
+   "capsula": "c3",
+   "boton": "Escribir con responsabilidad",
+   "otra_manera": "Antes de compartir, **verificá la fuente**. Al escribir, recordá que del otro lado hay personas y que lo publicado queda.",
+   "vida_real": "Es como lo que decís en un grupo grande: no solo lo escucha una persona, y no se puede borrar del todo.",
+   "claves": [
+    "fuente",
+    "verificar",
+    "responsabilidad"
+   ],
+   "parte": "Los discursos en la web"
+  },
+  {
+   "id": "len-4-10-c1-1",
+   "clase": "len-4-10",
+   "capsula": "c1",
+   "boton": "El texto técnico",
+   "otra_manera": "Transmite información **precisa**: datos, medidas, nombres exactos. Se escribe en forma **impersonal** (\"se mide\"), con **orden** y apoyos gráficos.",
+   "vida_real": "Es como explicarle a alguien por teléfono cómo arreglar algo que no ve: no podés decir \"eso de ahí\".",
+   "claves": [
+    "texto tecnico",
+    "precision",
+    "rasgos"
+   ],
+   "parte": "El texto técnico, el protocolo y la memoria técnica"
+  },
+  {
+   "id": "len-4-10-c1-2",
+   "clase": "len-4-10",
+   "capsula": "c1",
+   "boton": "Protocolo y memoria",
+   "otra_manera": "El **protocolo** dice cómo hacer una tarea, antes de hacerla, con pasos numerados. La **memoria técnica** registra un trabajo ya hecho, con materiales, cálculos y planos.",
+   "vida_real": "El protocolo es la receta; la memoria, el registro de cómo salió el plato.",
+   "claves": [
+    "protocolo",
+    "memoria"
+   ],
+   "parte": "El texto técnico, el protocolo y la memoria técnica"
+  },
+  {
+   "id": "len-4-10-c2-1",
+   "clase": "len-4-10",
+   "capsula": "c2",
+   "boton": "El informe técnico",
+   "otra_manera": "Comunica **resultados** a quien debe decidir: objetivo, metodología, resultados, y **conclusiones y recomendaciones** sobre qué hacer.",
+   "vida_real": "Es como el diagnóstico de un mecánico: qué revisó, qué encontró y qué conviene arreglar.",
+   "claves": [
+    "informe",
+    "resultados",
+    "conclusiones"
+   ],
+   "parte": "El informe técnico y la fundamentación de un proyecto"
+  },
+  {
+   "id": "len-4-10-c2-2",
+   "clase": "len-4-10",
+   "capsula": "c2",
+   "boton": "La fundamentación",
+   "otra_manera": "Explica **por qué** hacer un proyecto: qué problema hay, qué se propone, a quién beneficia y por qué es posible. Es un texto **argumentativo**.",
+   "vida_real": "Es como convencer a tu familia de comprar algo: explicás para qué sirve, a quién ayuda y por qué se puede.",
+   "claves": [
+    "fundamentacion",
+    "proyecto"
+   ],
+   "parte": "El informe técnico y la fundamentación de un proyecto"
+  },
+  {
+   "id": "len-4-10-c3-1",
+   "clase": "len-4-10",
+   "capsula": "c3",
+   "boton": "La carta formal",
+   "otra_manera": "Tiene partes fijas: **lugar y fecha, destinatario, saludo, cuerpo, despedida y firma**, en registro formal.",
+   "vida_real": "Es como presentarte en una entrevista: saludás con respeto, decís a qué vas y te despedís con cortesía.",
+   "claves": [
+    "carta",
+    "formal",
+    "partes"
+   ],
+   "parte": "La carta formal y el currículum"
+  },
+  {
+   "id": "len-4-10-c3-2",
+   "clase": "len-4-10",
+   "capsula": "c3",
+   "boton": "El currículum",
+   "otra_manera": "Presenta tus **datos**, tu **formación**, tu **experiencia** (también las prácticas de la escuela) y tus **conocimientos**. Claro, breve, verdadero y sin errores.",
+   "vida_real": "Es tu carta de presentación en una hoja: lo primero que ve quien te puede contratar.",
+   "claves": [
+    "curriculum",
+    "cv",
+    "experiencia"
+   ],
+   "parte": "La carta formal y el currículum"
+  },
+  {
+   "id": "len-4-11-c1-1",
+   "clase": "len-4-11",
+   "capsula": "c1",
+   "boton": "Los modos de decir",
+   "otra_manera": "**Describir** muestra cómo es algo; **explicar**, por qué ocurre; **argumentar** defiende una idea; **narrar** cuenta hechos. Los textos los combinan.",
+   "vida_real": "Para vender una bicicleta usada, la describís, explicás por qué la vendés y argumentás que es una buena compra.",
+   "claves": [
+    "modos",
+    "describir",
+    "explicar",
+    "argumentar"
+   ],
+   "parte": "Los modos de decir: describir, explicar, argumentar"
+  },
+  {
+   "id": "len-4-11-c1-2",
+   "clase": "len-4-11",
+   "capsula": "c1",
+   "boton": "La enunciación",
+   "otra_manera": "En todo discurso hay quien dice (**enunciador**) y a quien se dice (**enunciatario**). Los pronombres y las palabras que valoran son sus **marcas**.",
+   "vida_real": "Cuando un mensaje dice \"che, te cuento\", ya sabés que te habla alguien cercano: son marcas de la enunciación.",
+   "claves": [
+    "enunciacion",
+    "enunciador",
+    "subjetividad"
+   ],
+   "parte": "Los modos de decir: describir, explicar, argumentar"
+  },
+  {
+   "id": "len-4-11-c2-1",
+   "clase": "len-4-11",
+   "capsula": "c2",
+   "boton": "Ciencia y técnica",
+   "otra_manera": "El discurso **científico** produce conocimiento con método y evidencias. El **técnico** lo aplica a problemas concretos. Los dos buscan precisión y objetividad.",
+   "vida_real": "La ciencia descubre por qué conduce un metal; la técnica lo usa para hacer un cable.",
+   "claves": [
+    "cientifico",
+    "tecnico"
+   ],
+   "parte": "Los discursos técnico y científico"
+  },
+  {
+   "id": "len-4-11-c2-2",
+   "clase": "len-4-11",
+   "capsula": "c2",
+   "boton": "La divulgación",
+   "otra_manera": "El **artículo científico** es para especialistas. La **divulgación** explica lo mismo para el público general, con ejemplos y comparaciones.",
+   "vida_real": "Es la diferencia entre el manual de un ingeniero y un video que explica cómo funciona algo para cualquiera.",
+   "claves": [
+    "divulgacion",
+    "articulo"
+   ],
+   "parte": "Los discursos técnico y científico"
+  },
+  {
+   "id": "len-4-11-c3-1",
+   "clase": "len-4-11",
+   "capsula": "c3",
+   "boton": "Cuatro discursos",
+   "otra_manera": "**Periodístico** (informar), **publicitario** (convencer de comprar), **político** (lograr adhesión), **jurídico** (establecer normas).",
+   "vida_real": "Cada uno es como un deporte distinto: tiene su objetivo y sus reglas.",
+   "claves": [
+    "periodistico",
+    "publicitario",
+    "politico",
+    "juridico"
+   ],
+   "parte": "Los discursos periodístico, publicitario, político y jurídico"
+  },
+  {
+   "id": "len-4-11-c3-2",
+   "clase": "len-4-11",
+   "capsula": "c3",
+   "boton": "Ojo crítico",
+   "otra_manera": "Preguntate: **¿quién habla?, ¿a quién?, ¿qué busca? y ¿con qué recursos?** Así entendés cómo funciona cualquier discurso.",
+   "vida_real": "Es como mirar un truco de magia sabiendo cómo se hace: lo seguís disfrutando, pero no te engaña.",
+   "claves": [
+    "critico",
+    "preguntas",
+    "analizar"
+   ],
+   "parte": "Los discursos periodístico, publicitario, político y jurídico"
+  },
+  {
+   "id": "len-4-12-c1-1",
+   "clase": "len-4-12",
+   "capsula": "c1",
+   "boton": "El policial y sus reglas",
+   "otra_manera": "Hay un **enigma** (casi siempre un delito), un **detective** que razona, **sospechosos** y **pistas**. Primero el enigma, después la investigación y al final la resolución.",
+   "vida_real": "Es como un juego de misterio con tablero: tenés pistas y tenés que descubrir quién fue.",
+   "claves": [
+    "policial",
+    "enigma",
+    "pistas",
+    "reglas"
+   ],
+   "parte": "El género policial y sus reglas"
+  },
+  {
+   "id": "len-4-12-c1-2",
+   "clase": "len-4-12",
+   "capsula": "c1",
+   "boton": "El caso de la llave",
+   "otra_manera": "Hay dos pistas: el **aserrín** (que apunta al grupo de Martín) y la **pintura azul** en el estante (que apunta al grupo de Lucía). La pintura es más directa, pero hay que comprobar antes de acusar.",
+   "vida_real": "Como en un partido: no se cobra un penal solo por una sospecha, se mira la jugada.",
+   "claves": [
+    "caso",
+    "llave",
+    "aserrin",
+    "pintura"
+   ],
+   "parte": "El género policial y sus reglas"
+  },
+  {
+   "id": "len-4-12-c2-1",
+   "clase": "len-4-12",
+   "capsula": "c2",
+   "boton": "Dupin y Holmes",
+   "otra_manera": "**Dupin** (de Poe) y **Sherlock Holmes** (de Conan Doyle) resuelven casos observando y razonando. Un amigo, como **Watson**, cuenta las historias.",
+   "vida_real": "El amigo que narra es como el que te cuenta un partido sin entender la táctica: ve todo, pero no sabe cómo va a terminar.",
+   "claves": [
+    "dupin",
+    "holmes",
+    "watson"
+   ],
+   "parte": "El detective que razona: Poe y Conan Doyle"
+  },
+  {
+   "id": "len-4-12-c2-2",
+   "clase": "len-4-12",
+   "capsula": "c2",
+   "boton": "El método del detective",
+   "otra_manera": "**Observar**, formular una **hipótesis**, **comprobarla** y **concluir**. Es el mismo método del pensamiento científico.",
+   "vida_real": "Es lo que hacés cuando el celular no carga: pensás si es el cable, probás con otro y así encontrás la causa.",
+   "claves": [
+    "metodo",
+    "hipotesis",
+    "cientifico"
+   ],
+   "parte": "El detective que razona: Poe y Conan Doyle"
+  },
+  {
+   "id": "len-4-12-c3-1",
+   "clase": "len-4-12",
+   "capsula": "c3",
+   "boton": "Borges y los laberintos",
+   "otra_manera": "Los cuentos de **Borges** son problemas para pensar. En \"Los dos reyes y los dos laberintos\", el **desierto** es un laberinto sin muros.",
+   "vida_real": "Es como perderse en un lugar donde todo parece igual: no hacen falta paredes para no encontrar la salida.",
+   "claves": [
+    "borges",
+    "laberinto",
+    "desierto"
+   ],
+   "parte": "Textos que mueven a resolver un problema: Borges y el policial argentino"
+  },
+  {
+   "id": "len-4-12-c3-2",
+   "clase": "len-4-12",
+   "capsula": "c3",
+   "boton": "El policial argentino",
+   "otra_manera": "Los autores argentinos jugaron con las reglas: **Parodi** resuelve desde una celda, Lönnrot cae en la trampa de su razonamiento y **Walsh** llevó el policial a escenarios argentinos.",
+   "vida_real": "Es como tomar las reglas de un juego conocido y cambiarle algo para sorprender.",
+   "claves": [
+    "parodi",
+    "walsh",
+    "argentino"
+   ],
+   "parte": "Textos que mueven a resolver un problema: Borges y el policial argentino"
+  },
+  {
+   "id": "len-4-13-c1-1",
+   "clase": "len-4-13",
+   "capsula": "c1",
+   "boton": "La lengua es social",
+   "otra_manera": "Ninguna persona inventó el español: lo crea y lo cambia una **comunidad de hablantes**. La **sociolingüística** estudia esa relación entre lengua y sociedad.",
+   "vida_real": "Es como un camino que se forma porque mucha gente pasa por el mismo lugar: nadie lo diseñó solo.",
+   "claves": [
+    "social",
+    "comunidad",
+    "sociolinguistica"
+   ],
+   "parte": "La lengua, un producto social"
+  },
+  {
+   "id": "len-4-13-c1-2",
+   "clase": "len-4-13",
+   "capsula": "c1",
+   "boton": "Sistema, norma y habla",
+   "otra_manera": "El **sistema** son las reglas (permitiría \"andé\"); la **norma**, lo que se usa (\"anduve\"); el **habla**, lo que alguien dice (un niño dice \"andé\").",
+   "vida_real": "El reglamento de un deporte permite muchas jugadas, pero los equipos usan algunas más que otras, y cada partido es distinto.",
+   "claves": [
+    "sistema",
+    "norma",
+    "habla",
+    "coseriu"
+   ],
+   "parte": "La lengua, un producto social"
+  },
+  {
+   "id": "len-4-13-c2-1",
+   "clase": "len-4-13",
+   "capsula": "c2",
+   "boton": "Lengua y dialecto",
+   "otra_manera": "El español es una lengua con muchas **variedades** o dialectos. Todos hablamos alguno: hablar un dialecto **no es hablar mal**.",
+   "vida_real": "Es como la música: el rock es uno, pero hay muchos estilos, y ninguno es \"el verdadero\".",
+   "claves": [
+    "dialecto",
+    "variedad",
+    "lengua"
+   ],
+   "parte": "Lengua, dialecto y variación"
+  },
+  {
+   "id": "len-4-13-c2-2",
+   "clase": "len-4-13",
+   "capsula": "c2",
+   "boton": "La variación",
+   "otra_manera": "La lengua varía según el **lugar** (geográfica), el **grupo** o el oficio (social, como la jerga del taller) y la **época** (temporal).",
+   "vida_real": "Tu forma de hablar cambia si estás en tu pueblo, con tus compañeros del taller o con tus abuelos.",
+   "claves": [
+    "variacion",
+    "jerga",
+    "geografica",
+    "temporal"
+   ],
+   "parte": "Lengua, dialecto y variación"
+  },
+  {
+   "id": "len-4-13-c3-1",
+   "clase": "len-4-13",
+   "capsula": "c3",
+   "boton": "Lengua e identidad",
+   "otra_manera": "La forma de hablar dice **de dónde somos y a qué grupo pertenecemos**. Por eso conservar una lengua es conservar una cultura.",
+   "vida_real": "Cuando estás lejos y escuchás tu tonada, sentís que es algo tuyo.",
+   "claves": [
+    "identidad"
+   ],
+   "parte": "Lengua e identidad: las lenguas en contacto"
+  },
+  {
+   "id": "len-4-13-c3-2",
+   "clase": "len-4-13",
+   "capsula": "c3",
+   "boton": "Lenguas en contacto",
+   "otra_manera": "Cuando las lenguas conviven, se influyen: el español de la Argentina tomó **préstamos** de lenguas originarias (choclo), del italiano (laburo) y del inglés (software).",
+   "vida_real": "Es como un equipo que suma jugadores de distintos lugares: cada uno aporta algo.",
+   "claves": [
+    "contacto",
+    "prestamos",
+    "lunfardo"
+   ],
+   "parte": "Lengua e identidad: las lenguas en contacto"
+  }
+ ]
+}

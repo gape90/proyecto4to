@@ -1,0 +1,819 @@
+{
+ "espacio": "lengua",
+ "titulo": "Mi trabajo práctico de Lengua y Literatura",
+ "intro": "En un buen trabajo práctico de Lengua y Literatura no alcanza con definir conceptos: tenés que mostrar que sabés usarlos para leer y para escribir. Vas a explicar cada tema con tus palabras, con ejemplos propios y aplicándolo a las obras y los textos que trabajaste. Eso es lo que vas a presentar y defender.",
+ "claves_contenido": {
+  "l1": [
+   "contexto",
+   "genero",
+   "narrador",
+   "conflicto",
+   "tema"
+  ],
+  "l2": [
+   "tragedia",
+   "antigona",
+   "creonte",
+   "coro",
+   "catarsis",
+   "hybris",
+   "anagnorisis"
+  ],
+  "l3": [
+   "epica",
+   "heroe",
+   "homero",
+   "odisea",
+   "iliada",
+   "viaje"
+  ],
+  "l4": [
+   "verosimil",
+   "rulfo",
+   "region",
+   "identidad",
+   "cronica",
+   "testimonial"
+  ],
+  "l5": [
+   "tesis",
+   "argument",
+   "conector",
+   "ensayo",
+   "debate"
+  ],
+  "l6": [
+   "resumen",
+   "notas",
+   "informe",
+   "exposicion"
+  ],
+  "l7": [
+   "mito",
+   "cosmogonia",
+   "leyenda",
+   "transculturacion"
+  ],
+  "l8": [
+   "preterito",
+   "imperfecto",
+   "pluscuamperfecto",
+   "coma",
+   "acento"
+  ],
+  "l9": [
+   "variedad",
+   "voseo",
+   "registro",
+   "adecuacion",
+   "web"
+  ],
+  "l10": [
+   "protocolo",
+   "informe",
+   "memoria",
+   "fundamentacion",
+   "curriculum",
+   "carta"
+  ],
+  "l11": [
+   "discurso",
+   "describir",
+   "explicar",
+   "enunciador",
+   "publicitario"
+  ],
+  "l12": [
+   "policial",
+   "detective",
+   "pista",
+   "hipotesis",
+   "borges"
+  ],
+  "l13": [
+   "sistema",
+   "norma",
+   "habla",
+   "variacion",
+   "jerga",
+   "prestamo"
+  ]
+ },
+ "portada": {
+  "instruccion": "Escribí la introducción de tu trabajo: presentá los temas que incluye, las obras o los textos con los que trabajaste y por qué te parece importante saber esto para leer y escribir mejor.",
+  "guia": [
+   "¿Qué temas incluye tu trabajo y en qué orden los vas a presentar?",
+   "¿Con qué obras o textos trabajaste?",
+   "¿Para qué te sirven estos temas como lector o lectora y como escritor o escritora?"
+  ],
+  "modelo": "Este trabajo práctico trata sobre {temas}. Para desarrollarlo trabajé con …… (obras o textos).\n\nPrimero voy a presentar ……; después, ……; y por último, ……. Elegí este orden porque …….\n\nEstos temas me sirven para leer y escribir mejor porque ……."
+ },
+ "desarrollo": {
+  "l1": {
+   "instruccion": "Presentá la ficha de análisis de una obra literaria. Hacelo con la obra que trabajaste con tu docente; si no te indicaron ninguna, usá la obra de ejemplo de la clase. Seguí la guía de seis pasos: contexto de producción, género y estética, quién cuenta, personajes y conflicto, tiempo y espacio, y tema y relación con otras obras.",
+   "guia": [
+    "¿Quién escribió la obra, cuándo y dónde?",
+    "¿A qué género y subgénero pertenece?",
+    "¿Quién cuenta la historia y desde qué punto de vista?",
+    "¿Quiénes son los personajes principales y cuál es el conflicto?",
+    "¿Cuándo y dónde transcurre?",
+    "¿De qué trata en profundidad y con qué otra obra la relacionás?"
+   ],
+   "modelo": "La obra que analicé es ……, de ……. Se escribió en …… (lugar), en …… (época), cuando …….\n\nPertenece al género …… y, dentro de él, al subgénero ……, porque …….\n\nLa historia la cuenta ……, desde …….\nLos personajes principales son …… y el conflicto es …….\nTranscurre en …… (lugar), durante …… (tiempo).\n\nEn profundidad, la obra trata sobre ……. Se relaciona con …… porque ……."
+  },
+  "l2": {
+   "instruccion": "Explicá qué es la tragedia griega y analizá una tragedia. Hacelo con la obra que trabajaste con tu docente; si no te indicaron ninguna, usá la obra de ejemplo de la clase. Contá cómo era el teatro griego, el argumento de la obra con sus personajes, cuál es el conflicto trágico y usá las palabras para analizar una tragedia.",
+   "guia": [
+    "¿Dónde y cómo se representaban las tragedias? ¿Qué hacía el coro?",
+    "¿Qué pasa en la obra y quiénes son los personajes principales?",
+    "¿Qué fuerzas o leyes se enfrentan?",
+    "¿Dónde aparecen la hybris, la anagnórisis y la catarsis?",
+    "¿Por qué la tragedia es una expresión ética y estética?"
+   ],
+   "modelo": "La tragedia nació en ……, en festivales en honor a ……. Se representaba ……, con actores que usaban …… y un coro que …….\n\nLa obra que analicé es ……, de ……. En ella, …… (argumento). Los personajes principales son …….\n\nEl conflicto trágico enfrenta …… y ……. Los dos tienen sus razones: …….\nLa hybris aparece cuando ……, y la anagnórisis, cuando …….\n\nLa obra es una expresión ética porque …… y estética porque ……."
+  },
+  "l3": {
+   "instruccion": "Explicá qué es la épica y por qué es un relato fundacional, y analizá un relato épico. Hacelo con la obra que trabajaste con tu docente; si no te indicaron ninguna, usá la obra de ejemplo de la clase. Contá el argumento, analizá al héroe y su viaje (partida, pruebas y regreso).",
+   "guia": [
+    "¿Qué cuenta la épica y cómo circulaba?",
+    "¿Por qué es un relato fundacional?",
+    "¿Quién es el héroe y qué valores muestra?",
+    "¿Cuáles son la partida, las pruebas y el regreso?",
+    "¿Qué relato de hoy tiene un viaje parecido?"
+   ],
+   "modelo": "La épica es un género que cuenta ……. En Grecia la recitaban …… de memoria. Es un relato fundacional porque …….\n\nEl relato épico que analicé es ……. Su héroe es ……, que se destaca por …….\n\nSu viaje empieza cuando …… (partida). Después enfrenta pruebas como ……. Al final, …… (regreso).\n\nHoy, una historia con un viaje parecido es ……, porque ……."
+  },
+  "l4": {
+   "instruccion": "Explicá cómo un relato latinoamericano o argentino construye la verdad y muestra la identidad de su región, y qué diferencia hay entre la ficción, la crónica y el relato testimonial. Hacelo con la obra que trabajaste con tu docente; si no te indicaron ninguna, usá la obra de ejemplo de la clase.",
+   "guia": [
+    "¿Quién escribió el relato, cuándo y de dónde es?",
+    "¿De qué trata y quién lo cuenta?",
+    "¿Qué recursos lo hacen verosímil?",
+    "¿Qué rasgos de la región aparecen (paisaje, trabajos, lengua, historia)?",
+    "¿En qué se diferencia un cuento realista de un relato testimonial?"
+   ],
+   "modelo": "El relato que analicé es ……, de ……, escritor/a de ……. Cuenta que …….\n\nLo narra ……. Es verosímil porque usa recursos como …… y …….\n\nMuestra la identidad de su región a través de …… (paisaje, trabajos, lengua o historia).\n\nA diferencia de este cuento, que es una ficción, un relato testimonial como …… cuenta …….\nPor eso conviene confrontar versiones: ……."
+  },
+  "l5": {
+   "instruccion": "Explicá qué es un texto argumentativo, sus partes, sus estrategias y conectores, y qué son el ensayo y el debate. Incluí un párrafo argumentativo propio sobre un tema de tu escuela o de tu ciudad.",
+   "guia": [
+    "¿Qué son la tesis, los argumentos y la conclusión?",
+    "¿Qué diferencia hay entre hecho y opinión?",
+    "¿Qué estrategias y conectores se usan?",
+    "¿Qué es un ensayo y qué es un debate?",
+    "¿Qué tesis propia vas a defender y con qué argumentos?"
+   ],
+   "modelo": "Un texto argumentativo busca ……. Sus partes son la tesis, que es ……; los argumentos, que ……; y la conclusión, que …….\n\nPara convencer se usan estrategias como …… y ……, y conectores como …… (para agregar) o …… (para oponer).\n\nEl ensayo es …… y el debate es ……. Se parecen en …… y se diferencian en …….\n\nMi párrafo argumentativo: …… (tesis). En primer lugar, ……. Además, ……. Por lo tanto, ……."
+  },
+  "l6": {
+   "instruccion": "Explicá qué son el resumen, la toma de notas, el diario de lector, el informe de lectura y la exposición oral, y para qué sirve cada uno. Incluí el informe de lectura que escribiste en tu carpeta.",
+   "guia": [
+    "¿Qué conserva un resumen y qué deja afuera?",
+    "¿En qué se diferencian las notas del resumen?",
+    "¿Qué diferencia hay entre el diario de lector y el informe de lectura?",
+    "¿Qué partes tiene el informe de lectura?",
+    "¿Cómo se prepara una exposición oral?"
+   ],
+   "modelo": "Para estudiar me sirven el resumen, que ……, y las notas, que …….\n\nMientras leo, puedo escribir un diario de lector, donde anoto ……. Al terminar, escribo un informe de lectura con cinco partes: …….\n\nPara exponer un tema, primero ……, después pienso en ……, ordeno la información en ……, preparo …… y ensayo.\n\nMi informe de lectura sobre …… está en mi carpeta."
+  },
+  "l7": {
+   "instruccion": "Explicá qué es un mito y qué es una cosmogonía, en qué se diferencia el mito de la leyenda y qué es la transculturación. Usá como ejemplo las cosmogonías de esta clase y una leyenda latinoamericana (la que trabajaste con tu docente o la de la yerba mate).",
+   "guia": [
+    "¿Qué explica un mito y quiénes son sus protagonistas?",
+    "¿Qué cuentan las cosmogonías griega y maya?",
+    "¿En qué se diferencia una leyenda de un mito?",
+    "¿Qué origen explica la leyenda que elegiste?",
+    "¿Qué es la transculturación? Dá ejemplos."
+   ],
+   "modelo": "Un mito es ……. Una cosmogonía es un mito que …….\nEn la cosmogonía griega, ……. En el Popol Vuh, en cambio, …….\n\nUna leyenda se diferencia del mito porque ……. La leyenda de …… cuenta que …… y explica el origen de …….\n\nLa transculturación es ……. Un ejemplo en la lengua es ……, y en la literatura, ……."
+  },
+  "l8": {
+   "instruccion": "Explicá los tiempos verbales del pasado al narrar, los usos de los signos de puntuación y las reglas de acentuación. Incluí un breve relato propio que use bien los tres pretéritos, la puntuación y los acentos.",
+   "guia": [
+    "¿Para qué se usan el pretérito perfecto simple, el imperfecto y el pluscuamperfecto?",
+    "¿Cuáles son los usos principales de la coma?",
+    "¿Para qué sirven el punto y coma y los dos puntos?",
+    "¿Cuándo llevan acento las agudas, las graves y las esdrújulas?",
+    "¿Qué son el acento diacrítico y el hiato?"
+   ],
+   "modelo": "Para narrar en pasado, el pretérito perfecto simple sirve para ……, el imperfecto para …… y el pluscuamperfecto para …….\n\nLa coma se usa para …… y ……. El punto y coma sirve para ……, y los dos puntos, para …….\n\nLas agudas llevan acento cuando ……; las graves, cuando ……; y las esdrújulas, …….\nEl acento diacrítico sirve para ……, como en …… y …….\n\nMi relato: ……."
+  },
+  "l9": {
+   "instruccion": "Explicá qué son las variedades regionales, qué es el registro y la adecuación, y cómo son los discursos en la web. Incluí ejemplos de palabras de tu región y un mismo pedido escrito en registro formal y en registro informal.",
+   "guia": [
+    "¿Qué es una variedad regional y qué rasgos tiene el español de la Argentina?",
+    "¿Qué palabras o dichos de tu región conocés?",
+    "¿Qué es el registro y cómo se elige?",
+    "¿Qué significa que un texto sea adecuado?",
+    "¿Qué rasgos tiene la escritura en la web?"
+   ],
+   "modelo": "El español varía según la región: cada forma de hablar propia de un lugar es una ……. En la Argentina usamos el ……, como en \"……\". En mi región se dice …… para …….\n\nEl registro es ……. Para elegirlo pienso en ……. Un texto es adecuado cuando …….\nEjemplo informal: \"……\". Ejemplo formal: \"……\".\n\nEn la web, la escritura tiene rasgos como …… y ……. Antes de compartir algo, conviene ……."
+  },
+  "l10": {
+   "instruccion": "Explicá qué es un texto técnico y cuáles son sus rasgos, y presentá los textos técnicos que escribiste: un protocolo de procedimiento, la fundamentación de un proyecto, tu currículum y una carta formal.",
+   "guia": [
+    "¿Qué rasgos tiene un texto técnico?",
+    "¿Qué partes tiene un protocolo y para qué sirve?",
+    "¿Qué diferencia hay entre un informe técnico y una memoria técnica?",
+    "¿Qué preguntas responde la fundamentación de un proyecto?",
+    "¿Qué partes tienen la carta formal y el currículum?"
+   ],
+   "modelo": "Un texto técnico transmite ……. Sus rasgos son la precisión, que ……; la objetividad, que ……; y …….\n\nEl protocolo de procedimiento indica ……. El mío es sobre …… y sus pasos son …….\nEl informe técnico sirve para ……, y la memoria técnica, para …….\n\nLa fundamentación de mi proyecto responde: qué problema hay (……), qué se propone (……), a quién beneficia (……) y por qué es posible (……).\n\nLa carta formal tiene estas partes: ……. Mi currículum incluye ……."
+  },
+  "l11": {
+   "instruccion": "Explicá qué es un discurso, cuáles son los modos de decir y qué es la enunciación. Explicá la diferencia entre el discurso científico y el técnico, y la finalidad de los discursos periodístico, publicitario, político y jurídico. Incluí el análisis de una publicidad.",
+   "guia": [
+    "¿Qué hace cada modo de decir?",
+    "¿Quiénes son el enunciador y el enunciatario?",
+    "¿Qué diferencia hay entre el discurso científico y el técnico?",
+    "¿Qué busca cada uno de los cuatro discursos sociales?",
+    "¿Qué recursos usa la publicidad que analizaste?"
+   ],
+   "modelo": "Un discurso es ……. Los modos de decir son describir, que ……; explicar, que ……; argumentar, que ……; y narrar, que …….\nEn todo discurso hay un enunciador, que ……, y un enunciatario, que …….\n\nEl discurso científico …… y el técnico …….\n\nEl discurso periodístico busca ……; el publicitario, ……; el político, ……; y el jurídico, …….\n\nAnalicé una publicidad de ……. Habla …… a ……, busca …… y usa recursos como ……."
+  },
+  "l12": {
+   "instruccion": "Explicá qué es el relato policial, sus elementos y su estructura, y por qué el método del detective se parece al pensamiento científico. Analizá un relato policial. Hacelo con la obra que trabajaste con tu docente; si no te indicaron ninguna, usá la obra de ejemplo de la clase. Cerrá con lo que cambian Borges y otros autores argentinos.",
+   "guia": [
+    "¿Cuáles son los elementos del policial clásico?",
+    "¿Cuál es la estructura del relato policial?",
+    "¿Cuáles son los pasos del método del detective?",
+    "¿Qué pistas y qué hipótesis aparecen en el relato que analizaste?",
+    "¿Qué cambian Borges y otros autores argentinos?"
+   ],
+   "modelo": "El relato policial gira alrededor de ……. Sus elementos son ……. Su estructura tiene tres partes: ……, …… y …….\n\nEl detective trabaja como un científico: ……, formula ……, la …… y llega a …….\n\nEl relato que analicé es ……, de ……. El enigma es ……. Las pistas principales son ……, y llevan a …….\n\nBorges y otros autores argentinos cambiaron el policial clásico, por ejemplo ……."
+  },
+  "l13": {
+   "instruccion": "Explicá por qué la lengua es un producto social, los niveles de Coseriu, las dimensiones de la variación lingüística y qué pasa cuando las lenguas entran en contacto. Incluí ejemplos de la jerga de tu especialidad.",
+   "guia": [
+    "¿Por qué la lengua es un producto social?",
+    "¿Qué son el sistema, la norma y el habla?",
+    "¿Cuáles son las dimensiones de la variación? Dá ejemplos.",
+    "¿Qué palabras de la jerga de tu especialidad conocés?",
+    "¿Qué préstamos tomó el español de la Argentina?"
+   ],
+   "modelo": "La lengua es un producto social porque ……. La disciplina que estudia esto es la ……, que reúne …….\n\nSegún Coseriu, el sistema es ……, la norma es …… y el habla es ……. Por ejemplo, …….\n\nLa lengua varía según el lugar (variación ……), según el grupo o el oficio (variación ……) y según la época (variación ……). En mi especialidad usamos palabras como …… y …….\n\nCuando las lenguas entran en contacto, ……. Por ejemplo, el español de la Argentina tomó …… del quechua, …… del italiano y …… del inglés."
+  }
+ },
+ "integracion": {
+  "intro": "Integrar es mostrar que los temas se conectan: uno sirve para entender otro, se parecen o se diferencian. Las preguntas de abajo relacionan **solo los contenidos que elegiste**.",
+  "intro_uno": "Elegiste un solo contenido. Integrar, en este caso, es mostrar cómo se conectan sus partes.",
+  "pares": {
+   "l1|l2": "Aplicá la guía de seis pasos a la tragedia que estudiaste: ¿qué te dice el contexto de producción sobre su conflicto?",
+   "l1|l3": "¿Qué te ayuda a entender la guía de seis pasos sobre el héroe épico y su viaje?",
+   "l1|l4": "¿Cómo ayuda el contexto de producción a entender por qué el relato latinoamericano que leíste muestra esa realidad?",
+   "l1|l5": "¿Cómo podés usar lo que sabés del texto argumentativo para defender tu interpretación de una obra?",
+   "l1|l6": "¿Qué pasos de la guía para analizar una obra usás en el análisis de un informe de lectura?",
+   "l2|l3": "¿En qué se parecen y en qué se diferencian el héroe trágico y el héroe épico?",
+   "l2|l4": "¿Qué diferencia hay entre el conflicto de una tragedia griega y el de un relato realista latinoamericano?",
+   "l2|l5": "¿Cómo presentarías el conflicto de la tragedia como un debate, con los argumentos de cada personaje?",
+   "l2|l6": "¿Cómo armarías un informe de lectura de la tragedia que estudiaste, con sus cinco partes?",
+   "l3|l4": "¿Qué valores muestra el héroe épico y qué muestran los personajes comunes del relato latinoamericano?",
+   "l3|l5": "¿Qué argumentos darías para defender que el héroe que estudiaste es un verdadero héroe?",
+   "l3|l6": "¿Cómo explicarías el viaje del héroe en una exposición oral de tres minutos?",
+   "l4|l5": "¿Por qué la literatura de ideas y el relato testimonial muestran la realidad de manera distinta?",
+   "l4|l6": "¿Qué diferencia hay entre resumir un relato latinoamericano y escribir un informe de lectura sobre él?",
+   "l5|l6": "¿Por qué la valoración de un informe de lectura necesita argumentos, como un texto argumentativo?",
+   "l7|l1": "¿Cómo cambia la lectura de un mito si conocés el pueblo y la época que lo crearon?",
+   "l7|l2": "¿Qué relación hay entre los dioses de la cosmogonía griega y los dioses que aparecen en la tragedia?",
+   "l7|l3": "¿Qué tienen en común los mitos griegos y la épica de Homero?",
+   "l7|l4": "¿Cómo aparece la transculturación en la literatura latinoamericana que estudiaste?",
+   "l7|l5": "¿Qué argumentos darías para sostener que conservar las leyendas de un pueblo es importante?",
+   "l7|l6": "¿Cómo resumirías una leyenda conservando solo sus ideas principales?",
+   "l8|l1": "¿Cómo ayudan los tiempos verbales del pasado a reconocer el orden de los hechos en una obra?",
+   "l8|l2": "¿Qué tiempos verbales usarías para contar el argumento de la tragedia, y por qué?",
+   "l8|l3": "¿Cómo contarías el viaje del héroe usando el perfecto simple, el imperfecto y el pluscuamperfecto?",
+   "l8|l4": "¿Cómo usa la puntuación un escritor para reproducir la forma de hablar de sus personajes?",
+   "l8|l5": "¿Por qué la puntuación y los conectores son importantes para que un argumento se entienda?",
+   "l8|l6": "¿Qué revisarías de puntuación y acentuación antes de entregar un informe de lectura?",
+   "l9|l1": "¿Qué te dice la lengua de los personajes sobre el lugar y la época de una obra?",
+   "l9|l2": "¿Qué registro usan los personajes de una tragedia y por qué?",
+   "l9|l3": "¿Por qué la épica usa un tono solemne y no un registro informal?",
+   "l9|l4": "¿Cómo muestran las variedades regionales la identidad en la literatura latinoamericana?",
+   "l9|l5": "¿Qué registro conviene en un debate y por qué?",
+   "l9|l6": "¿Qué registro conviene usar en una exposición oral y en un informe de lectura?",
+   "l7|l8": "¿Qué tiempos verbales usarías para contar una leyenda, y por qué?",
+   "l7|l9": "¿Qué palabras de lenguas originarias aparecen en las leyendas o en el habla de tu región?",
+   "l8|l9": "¿Por qué los criterios de corrección importan más en un texto formal que en un mensaje informal?",
+   "l10|l1": "¿Qué diferencia hay entre el lenguaje de un texto técnico y el de una obra literaria?",
+   "l10|l2": "¿Cómo explicarías con precisión técnica cómo era un teatro griego?",
+   "l10|l3": "¿Qué diferencia hay entre el tono solemne de la épica y la objetividad de un texto técnico?",
+   "l10|l4": "¿En qué se parecen la crónica y el informe técnico, y en qué se diferencian?",
+   "l10|l5": "¿Por qué la fundamentación de un proyecto es un texto argumentativo?",
+   "l10|l6": "¿Qué tienen en común un resumen y un informe técnico?",
+   "l11|l1": "¿Qué modos de decir combina una obra literaria, y cuáles un manual técnico?",
+   "l11|l2": "¿Qué recursos usan los personajes enfrentados de la tragedia para defender su posición?",
+   "l11|l3": "¿Por qué la épica era un discurso importante para la sociedad griega?",
+   "l11|l4": "¿Qué diferencia hay entre el discurso periodístico y el relato testimonial?",
+   "l11|l5": "¿Qué discursos sociales usan más la argumentación, y para qué?",
+   "l11|l6": "¿Qué modos de decir usás cuando hacés una exposición oral?",
+   "l12|l1": "¿Cómo aplicarías la guía de seis pasos a un relato policial?",
+   "l12|l2": "¿Qué diferencia hay entre el enigma de un policial y el conflicto de una tragedia?",
+   "l12|l3": "¿En qué se parecen y en qué se diferencian el detective y el héroe épico?",
+   "l12|l4": "¿Qué diferencia hay entre la verdad que construye un cuento realista y la que descubre un detective?",
+   "l12|l5": "¿Cómo se parece la explicación final del detective a un texto argumentativo?",
+   "l12|l6": "¿Cómo armarías un informe de lectura de un relato policial sin revelar el final?",
+   "l13|l1": "¿Qué te dice la lengua de una obra sobre su contexto de producción?",
+   "l13|l2": "¿Por qué una obra escrita hace 2.500 años necesita traducción y notas para leerla hoy?",
+   "l13|l3": "¿Qué muestra la épica sobre la lengua como producto de un pueblo?",
+   "l13|l4": "¿Cómo muestra la literatura latinoamericana la variación geográfica de la lengua?",
+   "l13|l5": "¿Qué registro y qué jerga convienen en un debate entre estudiantes de tu especialidad?",
+   "l13|l6": "¿Cómo adecuarías la jerga de tu especialidad en una exposición para el público general?",
+   "l10|l11": "¿Por qué el texto técnico es un ejemplo del discurso técnico, y qué rasgos comparten?",
+   "l10|l12": "¿En qué se parece el método del detective al trabajo de un técnico que redacta un informe?",
+   "l10|l13": "¿Por qué la terminología de los textos técnicos es parte de la jerga de tu especialidad?",
+   "l11|l12": "¿Qué tienen en común el discurso científico y el razonamiento del detective?",
+   "l11|l13": "¿Cómo influye el grupo social en la forma de un discurso?",
+   "l12|l13": "¿Cómo usan los autores argentinos de policiales la lengua de su lugar y su época?"
+  },
+  "individual": {
+   "l1": [
+    "¿Cómo se relaciona el contexto de producción de la obra con su tema?",
+    "¿Por qué el género de la obra te ayuda a saber qué buscar al leerla?",
+    "¿Cómo cambiaría la obra si la contara otro narrador?"
+   ],
+   "l2": [
+    "¿Cómo se relaciona el contexto griego (la importancia de la sepultura) con el conflicto de la obra?",
+    "¿Por qué la hybris de un personaje lleva a la tragedia?",
+    "¿Por qué la tragedia es, a la vez, una expresión ética y estética?"
+   ],
+   "l3": [
+    "¿Cómo se relaciona el carácter oral de la épica con los epítetos?",
+    "¿Por qué los valores del héroe muestran los valores de su pueblo?",
+    "¿Cómo se ve la astucia del héroe en las pruebas de su viaje?"
+   ],
+   "l4": [
+    "¿Cómo se relacionan los recursos de verosimilitud con la realidad que muestra el relato?",
+    "¿Qué relación hay entre la literatura regional y la identidad?",
+    "¿En qué se diferencian la ficción realista y el relato testimonial?"
+   ],
+   "l5": [
+    "¿Cómo se relacionan la tesis, los argumentos y la conclusión?",
+    "¿Para qué sirven las estrategias y los conectores?",
+    "¿En qué se parecen y en qué se diferencian el ensayo y el debate?"
+   ],
+   "l6": [
+    "¿Cómo se relacionan el resumen y las notas con el estudio?",
+    "¿Qué diferencia hay entre el diario de lector y el informe de lectura?",
+    "¿Cómo ayuda escribir a preparar una exposición oral?"
+   ],
+   "l7": [
+    "¿Qué relación hay entre un mito y el pueblo que lo creó?",
+    "¿En qué se diferencian el mito y la leyenda?",
+    "¿Cómo se ve la transculturación en las leyendas y en la lengua?"
+   ],
+   "l8": [
+    "¿Cómo se combinan los tres pretéritos en un relato?",
+    "¿Por qué la puntuación cambia el sentido de un texto?",
+    "¿Cómo se relacionan la sílaba tónica y las reglas de acentuación?"
+   ],
+   "l9": [
+    "¿Qué relación hay entre la variedad regional y la identidad?",
+    "¿Cómo se elige el registro adecuado?",
+    "¿Qué cambia en la adecuación cuando escribimos en la web?"
+   ],
+   "l10": [
+    "¿Qué tienen en común el protocolo, el informe y la memoria técnica?",
+    "¿Por qué la fundamentación de un proyecto es argumentativa?",
+    "¿Qué tienen en común la carta formal y el currículum?"
+   ],
+   "l11": [
+    "¿Cómo se combinan los modos de decir en un mismo texto?",
+    "¿Qué diferencia hay entre el discurso científico y el técnico?",
+    "¿Cómo se lee con ojo crítico un discurso publicitario o político?"
+   ],
+   "l12": [
+    "¿Cómo se relacionan las pistas con la resolución del enigma?",
+    "¿Por qué el método del detective se parece al pensamiento científico?",
+    "¿Qué cambian los autores argentinos en el policial clásico?"
+   ],
+   "l13": [
+    "¿Por qué la lengua es un producto social?",
+    "¿Cómo se relacionan el sistema, la norma y el habla?",
+    "¿Qué relación hay entre la variación lingüística y la identidad?"
+   ]
+  },
+  "generales": [
+   "¿Qué herramienta de un tema te sirvió para entender otro?",
+   "¿Qué tienen en común los textos u obras que trabajaste?",
+   "¿En qué se diferencian?"
+  ],
+  "modelo": "Los temas de mi trabajo se relacionan entre sí. Por ejemplo, …… y …… se conectan porque …….\n\nAdemás, lo que aprendí sobre …… me sirvió para entender ……. En cambio, …… y …… se diferencian en que …….",
+  "modelo_uno": "Las partes de mi contenido se relacionan entre sí. Por ejemplo, …… se conecta con …… porque …….\n\nAdemás, ……."
+ },
+ "realidad": {
+  "intro": "Relacionar con la realidad es mostrar dónde aparece hoy lo que estudiaste. Para cada contenido que elegiste tenés una pregunta y algunas ideas: elegí un ejemplo concreto (de tu vida, tu escuela, tu ciudad, una película, una serie o una canción).",
+  "por_contenido": {
+   "l1": {
+    "pregunta": "¿Qué película, serie o canción que conozcas podrías analizar con la guía de seis pasos?",
+    "ideas": [
+     "Una serie que estés mirando: quién cuenta la historia y de qué trata en profundidad.",
+     "Una canción: quién es el yo lírico y qué expresa.",
+     "Una película basada en un libro: qué cambió en la adaptación."
+    ]
+   },
+   "l2": {
+    "pregunta": "¿Dónde ves hoy dilemas como el de la tragedia: obedecer una regla o hacer lo que dice la conciencia?",
+    "ideas": [
+     "Una película o una serie con un dilema parecido.",
+     "Una regla de la escuela que choque con lo que sentís que tenés que hacer.",
+     "Las obras de teatro que se siguen representando hoy."
+    ]
+   },
+   "l3": {
+    "pregunta": "¿Qué héroes y viajes del héroe encontrás hoy en películas, series o videojuegos?",
+    "ideas": [
+     "Una saga de fantasía o de superhéroes.",
+     "Un videojuego en el que el personaje parte, enfrenta pruebas y vuelve.",
+     "Una historia real de alguien que superó grandes desafíos."
+    ]
+   },
+   "l4": {
+    "pregunta": "¿Qué realidad de tu región o de tu país podría contar un relato realista o una crónica?",
+    "ideas": [
+     "Una historia de tu barrio o de tu familia.",
+     "Una crónica en un diario local.",
+     "Palabras de tu región que usaría un personaje."
+    ]
+   },
+   "l5": {
+    "pregunta": "¿Dónde encontrás hoy textos argumentativos y debates?",
+    "ideas": [
+     "Una discusión en tu curso o en el centro de estudiantes.",
+     "Las notas de opinión de un diario.",
+     "Los comentarios en redes sociales: ¿tienen argumentos o solo opiniones?"
+    ]
+   },
+   "l6": {
+    "pregunta": "¿En qué materias o situaciones usás hoy el resumen, las notas o la exposición oral?",
+    "ideas": [
+     "El estudio para otras materias.",
+     "Una presentación oral en clase.",
+     "Las notas que tomás de un video o una explicación."
+    ]
+   },
+   "l7": {
+    "pregunta": "¿Qué leyendas, costumbres o palabras de tu región muestran el encuentro de culturas?",
+    "ideas": [
+     "Una leyenda que te contaron en tu familia.",
+     "El mate y otras costumbres compartidas.",
+     "Palabras de lenguas originarias que usás todos los días."
+    ]
+   },
+   "l8": {
+    "pregunta": "¿Dónde ves hoy que la puntuación o los acentos cambian el sentido de un mensaje?",
+    "ideas": [
+     "Un mensaje de chat que se entendió mal por una coma.",
+     "Carteles o publicidades con errores.",
+     "Un texto formal que tuviste que escribir."
+    ]
+   },
+   "l9": {
+    "pregunta": "¿Cómo cambia tu forma de hablar y de escribir según con quién y dónde?",
+    "ideas": [
+     "Un mensaje a tu familia y un correo formal.",
+     "Las palabras de tu región que usás con tus amistades.",
+     "Una publicación en redes y cómo la escribiste."
+    ]
+   },
+   "l10": {
+    "pregunta": "¿Qué textos técnicos vas a necesitar leer o escribir en tu especialidad o en un trabajo?",
+    "ideas": [
+     "Un manual o una hoja de datos del taller.",
+     "Un informe de prácticas profesionalizantes.",
+     "Tu currículum para una pasantía."
+    ]
+   },
+   "l11": {
+    "pregunta": "¿Qué discursos sociales te encontrás todos los días y qué buscan?",
+    "ideas": [
+     "Una publicidad en el celular.",
+     "Una noticia sobre tu ciudad.",
+     "Un reglamento o una norma de la escuela o del taller."
+    ]
+   },
+   "l12": {
+    "pregunta": "¿Dónde usás hoy el método del detective para resolver un problema?",
+    "ideas": [
+     "Buscar una falla en un equipo o una instalación.",
+     "Una serie o una película policial.",
+     "Un problema de lógica o un juego de misterio."
+    ]
+   },
+   "l13": {
+    "pregunta": "¿Qué variedades, jergas o préstamos usás en tu vida diaria?",
+    "ideas": [
+     "La jerga de tu especialidad en el taller.",
+     "Palabras de tu región o de tu familia.",
+     "Palabras del inglés que usás con la tecnología."
+    ]
+   }
+  },
+  "modelo": "Hoy, el tema de …… aparece en ……. Por ejemplo, en …… (mi vida, mi escuela, una película, una serie o una canción) …….\n\nEsto se relaciona con lo que estudié porque ……."
+ },
+ "conclusion": {
+  "instruccion": "Escribí la conclusión de tu trabajo: contá qué aprendiste, qué idea une a los temas que estudiaste y para qué te va a servir.",
+  "guia": [
+   "¿Qué es lo más importante que aprendiste?",
+   "¿Qué idea une a todos tus temas (leer mejor, escribir mejor, entender a otras personas y culturas)?",
+   "¿Para qué te va a servir en otras materias o fuera de la escuela?",
+   "¿Qué te gustaría que recuerde quien escucha tu trabajo?"
+  ],
+  "modelo": "Con este trabajo aprendí que ……. La idea que une todos los temas es ……, porque …….\n\nEsto me va a servir para ……. Lo que más me gustaría que recuerden de mi trabajo es ……."
+ },
+ "preguntas": [
+  {
+   "id": "q-general-1",
+   "contenido": "general",
+   "nivel": "Integradora",
+   "pregunta": "Elegí dos temas de tu trabajo y explicá cómo se relacionan.",
+   "orientacion": "Por ejemplo: la guía para analizar una obra sirve para estudiar la tragedia; o la fundamentación de un proyecto usa lo que aprendiste del texto argumentativo."
+  },
+  {
+   "id": "q-general-2",
+   "contenido": "general",
+   "nivel": "Integradora",
+   "pregunta": "¿Qué herramienta de lectura o de escritura de tu trabajo te va a servir más en otras materias?",
+   "orientacion": "Por ejemplo, el resumen, el informe de lectura, el texto argumentativo o el análisis de un discurso, explicando para qué."
+  },
+  {
+   "id": "q-general-3",
+   "contenido": "general",
+   "nivel": "Integradora",
+   "pregunta": "¿Qué parte de lo que estudiaste ves hoy en tu vida diaria?",
+   "orientacion": "Un ejemplo concreto, como el registro que usás al escribir un mensaje, una publicidad que analizaste o una película con un viaje del héroe."
+  },
+  {
+   "id": "q-l1-1",
+   "contenido": "l1",
+   "nivel": "Básica",
+   "pregunta": "¿Qué es el contexto de producción de una obra y para qué sirve conocerlo?",
+   "orientacion": "Es quién la escribió, cuándo, dónde y qué pasaba en esa sociedad. Ayuda a entender por qué los personajes actúan como lo hacen."
+  },
+  {
+   "id": "q-l1-2",
+   "contenido": "l1",
+   "nivel": "Media",
+   "pregunta": "¿Qué tipos de narrador hay y qué diferencia hay entre el narrador y el autor?",
+   "orientacion": "Protagonista y testigo (primera persona) y omnisciente (tercera). El narrador es una voz que el autor inventa."
+  },
+  {
+   "id": "q-l1-3",
+   "contenido": "l1",
+   "nivel": "Integradora",
+   "pregunta": "¿Cómo aplicaste la guía de seis pasos a la obra que leíste?",
+   "orientacion": "Recorriendo contexto, género, narrador, personajes y conflicto, tiempo y espacio, y tema, con ejemplos de la obra."
+  },
+  {
+   "id": "q-l2-1",
+   "contenido": "l2",
+   "nivel": "Básica",
+   "pregunta": "¿Qué es una tragedia griega y cómo se representaba?",
+   "orientacion": "Una obra de teatro con un conflicto grave, un héroe trágico y un final desgraciado. Se representaba en Atenas, al aire libre, en festivales a Dioniso, con máscaras y coro."
+  },
+  {
+   "id": "q-l2-2",
+   "contenido": "l2",
+   "nivel": "Media",
+   "pregunta": "¿Cuál es el conflicto trágico de la obra que analizaste?",
+   "orientacion": "En Antígona, la ley del Estado (Creonte) contra la ley de los dioses y la conciencia (Antígona). Los dos tienen sus razones y ninguno cede."
+  },
+  {
+   "id": "q-l2-3",
+   "contenido": "l2",
+   "nivel": "Integradora",
+   "pregunta": "¿Por qué una tragedia antigua sigue teniendo sentido hoy?",
+   "orientacion": "Porque plantea preguntas abiertas: si hay que obedecer siempre una ley, qué pasa cuando el poder no escucha, qué le debemos a la familia."
+  },
+  {
+   "id": "q-l3-1",
+   "contenido": "l3",
+   "nivel": "Básica",
+   "pregunta": "¿Qué es la épica y por qué es un relato fundacional?",
+   "orientacion": "Cuenta las hazañas de un héroe, con intervención de los dioses. Es fundacional porque muestra el origen y los valores de un pueblo."
+  },
+  {
+   "id": "q-l3-2",
+   "contenido": "l3",
+   "nivel": "Media",
+   "pregunta": "¿Cómo es el viaje del héroe en el relato que analizaste?",
+   "orientacion": "Partida, pruebas y regreso. En la Odisea: deja Troya, enfrenta al cíclope y a las sirenas, y vuelve a Ítaca."
+  },
+  {
+   "id": "q-l3-3",
+   "contenido": "l3",
+   "nivel": "Integradora",
+   "pregunta": "¿Qué relato de hoy tiene la estructura de la épica?",
+   "orientacion": "Una película o un videojuego en el que el héroe parte, enfrenta pruebas y vuelve transformado."
+  },
+  {
+   "id": "q-l4-1",
+   "contenido": "l4",
+   "nivel": "Básica",
+   "pregunta": "¿Qué es la verosimilitud?",
+   "orientacion": "La sensación de que lo que cuenta un relato podría haber pasado, aunque sea ficción."
+  },
+  {
+   "id": "q-l4-2",
+   "contenido": "l4",
+   "nivel": "Media",
+   "pregunta": "¿Qué diferencia hay entre un cuento realista y un relato testimonial?",
+   "orientacion": "El cuento realista es ficción verosímil; el relato testimonial cuenta hechos reales con la voz de quien los vivió."
+  },
+  {
+   "id": "q-l4-3",
+   "contenido": "l4",
+   "nivel": "Integradora",
+   "pregunta": "¿Cómo muestra la literatura la identidad de una región?",
+   "orientacion": "Con el paisaje, los trabajos, la lengua y la historia del lugar."
+  },
+  {
+   "id": "q-l5-1",
+   "contenido": "l5",
+   "nivel": "Básica",
+   "pregunta": "¿Cuáles son las partes de un texto argumentativo?",
+   "orientacion": "Tesis (lo que se defiende), argumentos (las razones) y conclusión (retoma la tesis)."
+  },
+  {
+   "id": "q-l5-2",
+   "contenido": "l5",
+   "nivel": "Media",
+   "pregunta": "¿Qué estrategias argumentativas conocés?",
+   "orientacion": "Dato, cita de autoridad, pregunta retórica, comparación, concesión y ejemplificación."
+  },
+  {
+   "id": "q-l5-3",
+   "contenido": "l5",
+   "nivel": "Integradora",
+   "pregunta": "¿En qué se parecen y en qué se diferencian el ensayo y el debate?",
+   "orientacion": "Los dos argumentan; el ensayo es escrito y personal, el debate es oral, con turnos y moderación."
+  },
+  {
+   "id": "q-l6-1",
+   "contenido": "l6",
+   "nivel": "Básica",
+   "pregunta": "¿Qué es un resumen?",
+   "orientacion": "Un texto breve con las ideas principales de otro, en orden y con tus palabras, sin opiniones."
+  },
+  {
+   "id": "q-l6-2",
+   "contenido": "l6",
+   "nivel": "Media",
+   "pregunta": "¿Qué partes tiene un informe de lectura?",
+   "orientacion": "Datos de la obra, contexto, argumento, análisis y valoración fundamentada."
+  },
+  {
+   "id": "q-l6-3",
+   "contenido": "l6",
+   "nivel": "Integradora",
+   "pregunta": "¿Cómo te ayuda lo que aprendiste de la exposición oral a presentar tu trabajo?",
+   "orientacion": "Delimitando el tema, pensando en quien escucha, ordenando en introducción, desarrollo y cierre, y usando un esquema como apoyo."
+  },
+  {
+   "id": "q-l7-1",
+   "contenido": "l7",
+   "nivel": "Básica",
+   "pregunta": "¿Qué diferencia hay entre un mito y una leyenda?",
+   "orientacion": "El mito explica los orígenes con dioses; la leyenda explica algo de un lugar, con personas como protagonistas."
+  },
+  {
+   "id": "q-l7-2",
+   "contenido": "l7",
+   "nivel": "Media",
+   "pregunta": "¿Qué cuenta la cosmogonía del Popol Vuh?",
+   "orientacion": "Los dioses crean seres de barro y de madera, que fracasan, y al final crean a los seres humanos de maíz."
+  },
+  {
+   "id": "q-l7-3",
+   "contenido": "l7",
+   "nivel": "Integradora",
+   "pregunta": "¿Qué es la transculturación y dónde la ves hoy?",
+   "orientacion": "El proceso en que culturas en contacto se transforman y crean algo nuevo: palabras como choclo o ananá, el mate, las obras de Roa Bastos."
+  },
+  {
+   "id": "q-l8-1",
+   "contenido": "l8",
+   "nivel": "Básica",
+   "pregunta": "¿Para qué se usan los tres pretéritos al narrar?",
+   "orientacion": "El perfecto simple para las acciones, el imperfecto para el fondo y el pluscuamperfecto para algo anterior a otra acción pasada."
+  },
+  {
+   "id": "q-l8-2",
+   "contenido": "l8",
+   "nivel": "Media",
+   "pregunta": "¿Cuáles son los usos principales de la coma?",
+   "orientacion": "Enumeración, vocativo, aclaración y antes de conectores como \"pero\"."
+  },
+  {
+   "id": "q-l8-3",
+   "contenido": "l8",
+   "nivel": "Integradora",
+   "pregunta": "¿Por qué la puntuación y los acentos importan para que un texto se entienda?",
+   "orientacion": "Porque cambian el sentido: \"No, quiero ir\" y \"No quiero ir\"; \"tú\" y \"tu\"."
+  },
+  {
+   "id": "q-l9-1",
+   "contenido": "l9",
+   "nivel": "Básica",
+   "pregunta": "¿Qué es una variedad regional?",
+   "orientacion": "La forma de hablar propia de una región. Ninguna es mejor que otra."
+  },
+  {
+   "id": "q-l9-2",
+   "contenido": "l9",
+   "nivel": "Media",
+   "pregunta": "¿Qué es el registro y cómo se elige?",
+   "orientacion": "La forma de hablar o escribir según la situación: se elige pensando en quién, a quién, para qué y por qué medio."
+  },
+  {
+   "id": "q-l9-3",
+   "contenido": "l9",
+   "nivel": "Integradora",
+   "pregunta": "¿Qué cuidados hay que tener al leer y escribir en la web?",
+   "orientacion": "Verificar las fuentes antes de compartir, adecuar el registro y recordar que lo publicado llega a mucha gente y queda."
+  },
+  {
+   "id": "q-l10-1",
+   "contenido": "l10",
+   "nivel": "Básica",
+   "pregunta": "¿Qué rasgos tiene un texto técnico?",
+   "orientacion": "Precisión, objetividad, vocabulario técnico, orden y apoyos gráficos."
+  },
+  {
+   "id": "q-l10-2",
+   "contenido": "l10",
+   "nivel": "Media",
+   "pregunta": "¿Qué diferencia hay entre un protocolo, un informe técnico y una memoria técnica?",
+   "orientacion": "El protocolo indica cómo hacer una tarea; el informe comunica resultados y recomienda; la memoria registra un trabajo hecho."
+  },
+  {
+   "id": "q-l10-3",
+   "contenido": "l10",
+   "nivel": "Integradora",
+   "pregunta": "¿Por qué la fundamentación de un proyecto se parece a un texto argumentativo?",
+   "orientacion": "Porque defiende una tesis (el proyecto es necesario) con argumentos: el problema, a quién beneficia y por qué es posible."
+  },
+  {
+   "id": "q-l11-1",
+   "contenido": "l11",
+   "nivel": "Básica",
+   "pregunta": "¿Cuáles son los modos de decir?",
+   "orientacion": "Describir, explicar, argumentar y narrar."
+  },
+  {
+   "id": "q-l11-2",
+   "contenido": "l11",
+   "nivel": "Media",
+   "pregunta": "¿Qué diferencia hay entre el discurso científico y el técnico?",
+   "orientacion": "El científico produce conocimiento con método y evidencias; el técnico lo aplica a problemas concretos."
+  },
+  {
+   "id": "q-l11-3",
+   "contenido": "l11",
+   "nivel": "Integradora",
+   "pregunta": "¿Qué preguntas te ayudan a leer un discurso con ojo crítico?",
+   "orientacion": "¿Quién habla?, ¿a quién se dirige?, ¿qué busca? y ¿qué recursos usa?"
+  },
+  {
+   "id": "q-l12-1",
+   "contenido": "l12",
+   "nivel": "Básica",
+   "pregunta": "¿Cuáles son los elementos del relato policial clásico?",
+   "orientacion": "Enigma, detective, ayudante, sospechosos, pistas y resolución."
+  },
+  {
+   "id": "q-l12-2",
+   "contenido": "l12",
+   "nivel": "Media",
+   "pregunta": "¿Por qué el método del detective se parece al pensamiento científico?",
+   "orientacion": "Porque observa, formula una hipótesis, la comprueba y llega a una conclusión."
+  },
+  {
+   "id": "q-l12-3",
+   "contenido": "l12",
+   "nivel": "Integradora",
+   "pregunta": "¿Qué cambian Borges y otros autores argentinos en el policial?",
+   "orientacion": "Juegan con sus reglas: un detective que resuelve desde una celda, otro que cae en la trampa de su razonamiento, escenarios argentinos."
+  },
+  {
+   "id": "q-l13-1",
+   "contenido": "l13",
+   "nivel": "Básica",
+   "pregunta": "¿Por qué la lengua es un producto social?",
+   "orientacion": "Porque la crea y la transforma una comunidad de hablantes a lo largo del tiempo."
+  },
+  {
+   "id": "q-l13-2",
+   "contenido": "l13",
+   "nivel": "Media",
+   "pregunta": "¿Cuáles son las dimensiones de la variación lingüística?",
+   "orientacion": "Geográfica (lugar), social (grupo, edad u oficio) y temporal (época)."
+  },
+  {
+   "id": "q-l13-3",
+   "contenido": "l13",
+   "nivel": "Integradora",
+   "pregunta": "¿Qué relación hay entre la lengua y la identidad?",
+   "orientacion": "La forma de hablar dice de dónde somos y a qué grupo pertenecemos; por eso conservar una lengua es conservar una cultura."
+  }
+ ]
+}

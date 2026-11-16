@@ -1,0 +1,841 @@
+{
+  "espacio": "lengua-extranjera",
+  "estructura": "biografia",
+  "titulo": "Mi trabajo práctico de Inglés: la biografía de {{nombre}}",
+  "intro": "Tu trabajo práctico es una biografía corta de {{nombre}}, escrita por vos en inglés y en tercera persona, con lo que te contó en las clases. Se arma párrafo por párrafo en tu carpeta: un párrafo por cada contenido que elegiste. Al final, explicás en castellano las reglas que usaste.",
+  "orden": [
+    "e1",
+    "e6",
+    "e2",
+    "e7",
+    "e8",
+    "e3",
+    "e4",
+    "e5"
+  ],
+  "plan": {
+    "instruccion": "Antes de escribir, armá en tu carpeta el plan de la biografía: el título, los datos de {{nombre}} y la lista de párrafos, en el orden en que van. Releé la parte 3 de cada clase que hiciste: en tu carpeta ya tenés un párrafo de esta historia por cada clase.",
+    "guia": [
+      "¿Qué título le vas a poner? (por ejemplo, The story of {{nombre}})",
+      "¿Qué datos de {{nombre}} conocés? Nombre, edad, ciudad, país, familia y amigos.",
+      "¿Qué párrafos va a tener y en qué orden?",
+      "¿Qué párrafos de tu carpeta tenés que corregir o completar?"
+    ],
+    "modelo": "Title: The story of {{nombre}}\nDatos: …… (edad, ciudad, país, personas de su historia)\nPárrafos: 1. …… 2. …… 3. ……"
+  },
+  "parrafos": {
+    "e1": {
+      "titulo": "Quién es y cómo es su día",
+      "instruccion": "Escribí en inglés el primer párrafo de la biografía: quién es {{nombre}}, dónde vive y cómo es un día de su semana. Usá el presente simple, con la -s de he o she, y al menos tres adverbios de frecuencia. Partí de lo que escribiste en la parte 3 de la clase de rutinas.",
+      "guia": [
+        "¿Cuántos años tiene {{nombre}} y dónde vive?",
+        "¿Qué hace todos los días? ¿Y qué hace a veces o nunca?",
+        "¿Pusiste la -s en los verbos (gets up, goes, has)?",
+        "¿Los adverbios van antes del verbo (she always walks…)?"
+      ],
+      "porPersonaje": {
+        "lucy": {
+          "modelo": "Lucy is sixteen and she lives in Bristol, in England. Every day, she …… at …… . She always …… and she usually …… . She never …… ."
+        },
+        "ben": {
+          "modelo": "Ben is sixteen and he lives in a town near Chicago, in the USA. Every day, he …… at …… . He always …… and he usually …… . He never …… ."
+        },
+        "mia": {
+          "modelo": "Mia is sixteen and she lives in Sydney, Australia. Every day, she …… at …… . She always …… and she usually …… . She never …… ."
+        },
+        "liam": {
+          "modelo": "Liam is sixteen and he lives in Dublin, Ireland. Every day, he …… at …… . He always …… and he usually …… . He never …… ."
+        }
+      }
+    },
+    "e6": {
+      "titulo": "El lugar donde vive",
+      "instruccion": "Escribí en inglés un párrafo que describa el lugar donde vive {{nombre}} y a alguna persona de su historia, comparando. Usá al menos dos comparativos, un superlativo y una oración con as … as. Partí de lo que escribiste en la parte 3 de la clase de comparativos.",
+      "guia": [
+        "¿Con qué otro lugar se puede comparar su ciudad?",
+        "¿Qué es lo mejor o lo más lindo de ese lugar para {{nombre}}?",
+        "¿Cada comparativo tiene -er o more, y después than?",
+        "¿El superlativo tiene the adelante?"
+      ],
+      "porPersonaje": {
+        "lucy": {
+          "modelo": "Lucy lives in Bristol. Bristol is smaller than London, but …… . For Lucy, the best place in the city is …… . Emma is …… than Lucy."
+        },
+        "ben": {
+          "modelo": "Ben lives near Chicago. His town is quieter than Chicago, but …… . For Ben, the most exciting day of the year is …… . His sister is …… than him."
+        },
+        "mia": {
+          "modelo": "Mia lives in Sydney. Sydney is bigger than her old town, and …… . For Mia, the most beautiful place in the city is …… . Her new school is …… than her old school."
+        },
+        "liam": {
+          "modelo": "Liam lives in Dublin. Dublin is bigger than his grandparents' town, and …… . For Liam, the best singer in his band is …… . Conor is …… than Liam."
+        }
+      }
+    },
+    "e2": {
+      "titulo": "Su tiempo libre y sus planes",
+      "instruccion": "Escribí en inglés un párrafo sobre el tiempo libre de {{nombre}}: qué le encanta, qué le gusta y qué odia hacer, y qué planes tiene para estos días. Usá love, like o hate + -ing, y el presente continuo para los planes. Partí de lo que escribiste en la parte 3 de la clase de tiempo libre.",
+      "guia": [
+        "¿Qué le encanta hacer a {{nombre}}? ¿Qué no le gusta?",
+        "¿Después de love, like o hate usaste el verbo con -ing?",
+        "¿Qué está haciendo estos días o qué plan tiene para el fin de semana?",
+        "¿Usaste is + -ing para el plan?"
+      ],
+      "porPersonaje": {
+        "lucy": {
+          "modelo": "In her free time, Lucy loves …… . She also likes …… , but she hates …… . This weekend, she is …… with …… ."
+        },
+        "ben": {
+          "modelo": "In his free time, Ben loves …… . He also likes …… , but he hates …… . This weekend, he is …… with …… ."
+        },
+        "mia": {
+          "modelo": "In her free time, Mia loves …… . She also likes …… , but she hates …… . This weekend, she is …… with …… ."
+        },
+        "liam": {
+          "modelo": "In his free time, Liam loves …… . He also likes …… , but he hates …… . This weekend, he is …… with …… ."
+        }
+      }
+    },
+    "e7": {
+      "titulo": "Cómo se comunica",
+      "instruccion": "Escribí en inglés un párrafo sobre cómo se comunica {{nombre}} con Joaquín: qué le cuenta, qué le pide y a qué lo invita. Usá el presente simple, con la -s de he o she. Partí de lo que escribiste en la parte 3 de la clase de mensajes y correos.",
+      "guia": [
+        "¿Cómo se comunica {{nombre}} con Joaquín (correos, mensajes, videollamadas)?",
+        "¿Qué le contó en su correo?",
+        "¿Qué le pidió y a qué lo invitó?",
+        "¿Pusiste la -s en los verbos (writes, asks, invites)?"
+      ],
+      "porPersonaje": {
+        "lucy": {
+          "modelo": "Lucy has an online friend in Argentina. His name is Joaquín. She writes …… to him. In her last email, she asked him to …… and she invited him to …… ."
+        },
+        "ben": {
+          "modelo": "Ben has an online friend in Argentina. His name is Joaquín. He writes …… to him. In his last email, he asked him to …… and he invited him to …… ."
+        },
+        "mia": {
+          "modelo": "Mia has an online friend in Argentina. His name is Joaquín. She writes …… to him. In her last email, she asked him to …… and she invited him to …… ."
+        },
+        "liam": {
+          "modelo": "Liam has an online friend in Argentina. His name is Joaquín. He writes …… to him. In his last email, he asked him to …… and he invited him to …… ."
+        }
+      }
+    },
+    "e8": {
+      "titulo": "Sus experiencias con la tecnología",
+      "instruccion": "Escribí en inglés un párrafo sobre las experiencias de {{nombre}} con la tecnología: qué hizo alguna vez y qué no hizo nunca. Usá has + participio y has never. Si contás cuándo pasó algo, cambiá al pasado simple. Partí de la encuesta de la clase del presente perfecto.",
+      "guia": [
+        "¿Qué cosas hizo alguna vez {{nombre}}? (has made, has sent, has recorded…)",
+        "¿Qué cosas no hizo nunca? (has never…)",
+        "¿Los participios irregulares están bien escritos?",
+        "Si dijiste cuándo pasó algo, ¿usaste el pasado simple?"
+      ],
+      "porPersonaje": {
+        "lucy": {
+          "modelo": "Lucy has …… . She has also …… . But she has never …… ."
+        },
+        "ben": {
+          "modelo": "Ben has …… . He has also …… . But he has never …… ."
+        },
+        "mia": {
+          "modelo": "Mia has …… . She has also …… . But she has never …… ."
+        },
+        "liam": {
+          "modelo": "Liam has …… . He has also …… . But he has never …… ."
+        }
+      }
+    },
+    "e3": {
+      "titulo": "Algo que le pasó",
+      "instruccion": "Escribí en inglés un párrafo sobre el hecho que {{nombre}} no se va a olvidar: cuándo pasó, qué pasó y cómo terminó. Usá el pasado simple y palabras para ordenar (first, then, finally). Partí de lo que escribiste en la parte 3 de la clase del pasado simple.",
+      "guia": [
+        "¿Cuándo pasó? (last December, two years ago…)",
+        "¿Qué pasó primero, qué pasó después y cómo terminó?",
+        "¿Todos los verbos están en pasado? ¿Los irregulares están bien?",
+        "¿En las negativas usaste didn't y el verbo base?"
+      ],
+      "porPersonaje": {
+        "lucy": {
+          "modelo": "Last December, Lucy acted in the school play for the first time. First, …… . Then, …… . Finally, …… ."
+        },
+        "ben": {
+          "modelo": "Last March, Ben's team played in the city final. First, …… . Then, …… . Finally, …… ."
+        },
+        "mia": {
+          "modelo": "Two years ago, Mia's family moved from a small town to Sydney. First, …… . Then, …… . Finally, …… ."
+        },
+        "liam": {
+          "modelo": "Last spring, Liam's band played at the school festival for the first time. First, …… . Then, …… . Finally, …… ."
+        }
+      }
+    },
+    "e4": {
+      "titulo": "Lo que estaba pasando aquel día",
+      "instruccion": "Escribí en inglés un párrafo que agregue detalles a ese mismo día: qué estaba pasando alrededor (el fondo, en pasado continuo) y qué pasó de repente (los hechos, en pasado simple). Usá when, while o suddenly. Partí de lo que escribiste en la parte 3 de la clase del pasado continuo.",
+      "guia": [
+        "¿Qué tiempo hacía? ¿Qué estaban haciendo las personas?",
+        "¿Qué pasó de repente?",
+        "¿El fondo está en pasado continuo (was o were + -ing)?",
+        "¿Usaste when, while o suddenly?"
+      ],
+      "porPersonaje": {
+        "lucy": {
+          "modelo": "That night, Lucy was standing on the stage. While she was speaking, …… . Suddenly, …… ."
+        },
+        "ben": {
+          "modelo": "On the day of the final, it was snowing outside. The fans were …… . While …… , Ben …… ."
+        },
+        "mia": {
+          "modelo": "On the day Mia's family moved, it was raining. Her little brother was …… . When they arrived, …… ."
+        },
+        "liam": {
+          "modelo": "At the festival, Liam's band was playing their second song. Conor was …… . Suddenly, …… ."
+        }
+      }
+    },
+    "e5": {
+      "titulo": "Antes y ahora",
+      "instruccion": "Escribí en inglés el último párrafo de la biografía: cómo era {{nombre}} antes y cómo es ahora. Usá used to y didn't use to para lo de antes, y el presente simple para lo de ahora, con but, so o nowadays. Partí de lo que escribiste en la parte 3 de la clase de used to.",
+      "guia": [
+        "¿Qué hacía antes {{nombre}} que ya no hace?",
+        "¿Qué no hacía antes y ahora sí?",
+        "¿Escribiste didn't use to, sin la d?",
+        "¿Lo de ahora está en presente simple, con -s?"
+      ],
+      "porPersonaje": {
+        "lucy": {
+          "modelo": "When Lucy was younger, she was very shy. She didn't use to …… . But now she …… ."
+        },
+        "ben": {
+          "modelo": "When Ben was a kid, he used to play soccer every weekend. He didn't use to …… . Nowadays he …… ."
+        },
+        "mia": {
+          "modelo": "Mia used to live in a small town. She used to …… . Nowadays she …… ."
+        },
+        "liam": {
+          "modelo": "When Liam was a child, he used to play the piano. He didn't use to …… . Now he …… ."
+        }
+      }
+    }
+  },
+  "revision": {
+    "instruccion": "Revisá en tu carpeta la biografía completa antes de pasarla en limpio. Subrayá con un color cada verbo y fijate si está en el tiempo que corresponde. Corregí lo que haga falta.",
+    "guia": [
+      "¿Cada párrafo usa el tiempo verbal de su tema (presente simple, pasado simple, pasado continuo, used to, presente perfecto)?",
+      "¿En presente pusiste la -s con he y she, y en presente perfecto usaste has?",
+      "¿En las negativas del pasado usaste didn't y el verbo base?",
+      "¿Usaste palabras para unir y ordenar (and, but, so, first, then, finally)?",
+      "¿Cada oración empieza con mayúscula y termina con punto?",
+      "¿Los párrafos siguen el orden del plan y se entienden de principio a fin?"
+    ]
+  },
+  "version_final": {
+    "instruccion": "Pasá en limpio la biografía completa en una hoja nueva de tu carpeta: el título, los párrafos en orden y una oración final que cierre la historia. Esta es la versión que vas a leer en voz alta cuando presentes tu trabajo.",
+    "guia": [
+      "¿Pusiste el título?",
+      "¿Están todos los párrafos, en el orden del plan?",
+      "¿Agregaste una oración final? Por ejemplo: [[{{nombre}} is a great friend.]]",
+      "¿Se entiende la letra y está prolija?"
+    ],
+    "modelo": "The story of {{nombre}}\n\n…… (párrafo 1)\n\n…… (párrafo 2)\n\n…… (oración final)"
+  },
+  "reglas": {
+    "instruccion": "Explicá en castellano, en tu carpeta, las reglas de los tiempos verbales que usaste en la biografía. Para cada uno, contá para qué se usa y cómo se forma, y copiá un ejemplo de tu propio texto. Esto es lo que vas a explicar después de leer tu biografía.",
+    "por_contenido": {
+      "e1": "Presente simple: ¿para qué se usa? ¿Qué le pasa al verbo con he y she? ¿Dónde van los adverbios de frecuencia?",
+      "e2": "Gustos y presente continuo: ¿qué forma lleva el verbo después de love, like o hate? ¿Cómo se forma el presente continuo y para qué sirve?",
+      "e3": "Pasado simple: ¿cómo se forma en los verbos regulares e irregulares? ¿Cómo se niega y cómo se pregunta?",
+      "e4": "Pasado continuo: ¿cómo se forma? ¿Qué parte de un relato cuenta, y cómo se combina con el pasado simple?",
+      "e5": "Used to: ¿qué expresa? ¿Cómo se forma el negativo? ¿Con qué tiempo se compara el antes y el ahora?",
+      "e6": "Comparativos y superlativos: ¿cuándo va -er y cuándo more? ¿Cómo se forma el superlativo? ¿Qué quiere decir as … as?",
+      "e7": "Pedir e invitar: ¿cuándo se usa can, could y would you like? ¿Qué partes tiene un correo?",
+      "e8": "Presente perfecto: ¿para qué se usa? ¿Cómo se forma? ¿Qué diferencia hay con el pasado simple?"
+    },
+    "modelo": "En mi biografía usé el …… para …… . Se forma con …… . Por ejemplo: …… ."
+  },
+  "practica": {
+    "intro": "Cuando presentes, es probable que tu docente te pida **completar oraciones, cambiar un verbo de tiempo o leer en voz alta**. Estos ejercicios son de ese tipo. Resolvelos acá y practicá leer las oraciones en voz alta.",
+    "consejos": [
+      "Antes de responder, pensá qué tiempo pide la oración: una rutina, un hecho puntual, algo que estaba pasando, una costumbre de antes o una experiencia.",
+      "Fijate quién hace la acción: con he y she cambia el verbo (plays, has).",
+      "Si hay did, didn't o could, después va el verbo base.",
+      "Si no te sale una palabra, explicá en castellano la regla que estás usando: eso también muestra lo que aprendiste."
+    ],
+    "por_contenido": {
+      "e3": [
+        {
+          "t": "verificar",
+          "consigna": "Escribí el pasado simple de stop.",
+          "respuesta": "stopped",
+          "acepta": [
+            "stopped"
+          ],
+          "formato": "Escribí solo el verbo en inglés.",
+          "explicacion": "Es corto y termina en consonante + vocal + consonante: se duplica la p. Queda stopped.",
+          "pista1": "Fijate en las tres últimas letras de stop.",
+          "pista": "Revisá la regla de los verbos cortos que duplican la última letra."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá con el pasado de go: Yesterday we ______ to the park.",
+          "respuesta": "went",
+          "acepta": [
+            "went"
+          ],
+          "formato": "Escribí solo el verbo en inglés.",
+          "explicacion": "Go es irregular: went.",
+          "pista1": "Go no sigue la regla de -ed.",
+          "pista": "Buscalo entre los verbos irregulares de la clase."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Pasá a negativo: She won the prize → She didn't ______ the prize.",
+          "respuesta": "win",
+          "acepta": [
+            "win"
+          ],
+          "formato": "Escribí solo el verbo en inglés.",
+          "explicacion": "Después de didn't, el verbo va en forma base: win.",
+          "pista1": "Después de didn't el verbo no va en pasado.",
+          "pista": "Pensá en la forma base de won."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "Elegí la pregunta bien formada.",
+          "opciones": [
+            "Did he invent the telephone?",
+            "Did he invented the telephone?",
+            "Does he invented the telephone?",
+            "He did invent the telephone?"
+          ],
+          "correcta": 0,
+          "explicacion": "Did + persona + verbo base.",
+          "pista": "Después de did, el verbo va en forma base."
+        }
+      ],
+      "e5": [
+        {
+          "t": "verificar",
+          "consigna": "Completá: My grandfather ______ to work on a farm (antes trabajaba en una granja).",
+          "respuesta": "used",
+          "acepta": [
+            "used"
+          ],
+          "formato": "Escribí solo una palabra en inglés.",
+          "explicacion": "Afirmativo: used to + verbo base.",
+          "pista1": "Es una costumbre del pasado que ya no ocurre.",
+          "pista": "En el afirmativo la palabra lleva d al final."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá la pregunta: Did you ______ to play football?",
+          "respuesta": "use",
+          "acepta": [
+            "use"
+          ],
+          "formato": "Escribí solo una palabra en inglés.",
+          "explicacion": "Con did se escribe use to, sin d.",
+          "pista1": "La pregunta empieza con did.",
+          "pista": "Con did, la palabra va sin la d final."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá con el presente simple de have: Now my town ______ a big supermarket.",
+          "respuesta": "has",
+          "acepta": [
+            "has"
+          ],
+          "formato": "Escribí solo el verbo en inglés.",
+          "explicacion": "Con it (my town), el presente de have es has.",
+          "pista1": "My town es it.",
+          "pista": "Con he, she e it, have cambia de forma en presente."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Qué oración dice \"Antes había un cine en mi ciudad\"?",
+          "opciones": [
+            "There used to be a cinema in my town.",
+            "There is a cinema in my town now.",
+            "There use to be a cinema in my town.",
+            "There used to is a cinema in my town."
+          ],
+          "correcta": 0,
+          "explicacion": "There used to be = antes había.",
+          "pista": "Revisá there used to be en la clase."
+        }
+      ],
+      "e1": [
+        {
+          "t": "verificar",
+          "consigna": "Completá con watch: My brother ______ cartoons every morning.",
+          "respuesta": "watches",
+          "acepta": [
+            "watches"
+          ],
+          "formato": "Escribí solo el verbo en inglés.",
+          "explicacion": "My brother es he, y watch termina en ch: watches.",
+          "pista1": "My brother es he.",
+          "pista": "Termina en ch: lleva -es."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá con la palabra que falta: ______ your sister study English?",
+          "respuesta": "Does",
+          "acepta": [
+            "does"
+          ],
+          "formato": "Escribí solo una palabra en inglés.",
+          "explicacion": "Your sister es she: las preguntas empiezan con does.",
+          "pista1": "Es una pregunta en presente simple.",
+          "pista": "Con she, la pregunta empieza con does."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "She never eats meat.",
+            "She doesn't never eat meat.",
+            "She eats never meat.",
+            "She never eat meat."
+          ],
+          "correcta": 0,
+          "explicacion": "Never va antes del verbo, sin don't, y eat lleva -s con she.",
+          "pista": "Never ya es negativo."
+        }
+      ],
+      "e2": [
+        {
+          "t": "verificar",
+          "consigna": "Escribí la forma -ing de dance.",
+          "respuesta": "dancing",
+          "acepta": [
+            "dancing"
+          ],
+          "formato": "Escribí solo la palabra en inglés.",
+          "explicacion": "Termina en e: se saca la e. Queda dancing.",
+          "pista1": "Fijate en la última letra.",
+          "pista": "Si termina en e, la e se va."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá: I love ______ (play) the guitar.",
+          "respuesta": "playing",
+          "acepta": [
+            "playing"
+          ],
+          "formato": "Escribí solo el verbo en inglés.",
+          "explicacion": "Después de love, el verbo va con -ing.",
+          "pista1": "Después de love va -ing.",
+          "pista": "Play termina en vocal + y: solo se agrega -ing."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Qué respuesta rechaza con amabilidad una invitación?",
+          "opciones": [
+            "Sorry, I can't. I'm studying.",
+            "Sure! What time?",
+            "Would you like to come?",
+            "Sounds great, see you!"
+          ],
+          "correcta": 0,
+          "explicacion": "Sorry, I can't + un motivo en presente continuo.",
+          "pista": "Buscá la que dice que no puede."
+        }
+      ],
+      "e4": [
+        {
+          "t": "verificar",
+          "consigna": "Completá con was o were: My friends ______ playing football.",
+          "respuesta": "were",
+          "acepta": [
+            "were"
+          ],
+          "formato": "Escribí solo una palabra en inglés.",
+          "explicacion": "My friends es they: were.",
+          "pista1": "My friends son varias personas.",
+          "pista": "Con they va were."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá con el pasado de ring: I was reading when the phone ______.",
+          "respuesta": "rang",
+          "acepta": [
+            "rang"
+          ],
+          "formato": "Escribí solo el verbo en inglés.",
+          "explicacion": "La acción corta va en pasado simple: rang.",
+          "pista1": "La acción corta va en pasado simple.",
+          "pista": "Ring es irregular: su pasado es rang."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Qué oración usa bien while?",
+          "opciones": [
+            "While I was walking home, I saw a friend.",
+            "While I walked home, I was seeing a friend.",
+            "While I was walk home, I saw a friend.",
+            "While I walking home, I saw a friend."
+          ],
+          "correcta": 0,
+          "explicacion": "While va con la acción larga, en pasado continuo.",
+          "pista": "While va con la acción larga."
+        }
+      ],
+      "e6": [
+        {
+          "t": "verificar",
+          "consigna": "Escribí el comparativo de big.",
+          "respuesta": "bigger",
+          "acepta": [
+            "bigger"
+          ],
+          "formato": "Escribí una palabra en inglés.",
+          "explicacion": "Big es corto y termina en consonante + vocal + consonante: se duplica la g. Queda bigger.",
+          "pista1": "Fijate en las tres últimas letras de big.",
+          "pista": "Revisá la regla de los adjetivos cortos que duplican la última letra."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá con el superlativo de good: It is ______ day of the year.",
+          "respuesta": "the best",
+          "acepta": [
+            "the best"
+          ],
+          "formato": "Escribí dos palabras en inglés.",
+          "explicacion": "Good es irregular: the best.",
+          "pista1": "Good no sigue la regla de -est.",
+          "pista": "El superlativo lleva the adelante."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "Sydney is busier than my old town.",
+            "Sydney is more busy than my old town.",
+            "Sydney is busyer than my old town.",
+            "Sydney is busier that my old town."
+          ],
+          "correcta": 0,
+          "explicacion": "Busy termina en -y: busier, y después than.",
+          "pista": "Fijate en la y de busy y en la palabra que va después del comparativo."
+        }
+      ],
+      "e7": [
+        {
+          "t": "verificar",
+          "consigna": "Completá el pedido cortés: ______ you send me the photos, please?",
+          "respuesta": "Could",
+          "acepta": [
+            "could"
+          ],
+          "formato": "Escribí una palabra en inglés.",
+          "explicacion": "Could you…? es la forma cortés de pedir.",
+          "pista1": "Es la palabra para pedir con más cortesía que can.",
+          "pista": "Empieza con c y termina con d."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá la invitación: Would you ______ to come?",
+          "respuesta": "like",
+          "acepta": [
+            "like"
+          ],
+          "formato": "Escribí una palabra en inglés.",
+          "explicacion": "Would you like to…? sirve para invitar.",
+          "pista1": "Es la expresión para invitar u ofrecer.",
+          "pista": "Es el verbo gustar en inglés."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Qué saludo usarías en un correo a la directora de una escuela?",
+          "opciones": [
+            "Dear Ms Green,",
+            "Hi!!",
+            "Hey Green,",
+            "Love, Green"
+          ],
+          "correcta": 0,
+          "explicacion": "Dear + Ms + apellido es el saludo formal.",
+          "pista": "Pensá en un correo formal."
+        }
+      ],
+      "e8": [
+        {
+          "t": "verificar",
+          "consigna": "Completá con el participio de send: She has ______ a voice message.",
+          "respuesta": "sent",
+          "acepta": [
+            "sent"
+          ],
+          "formato": "Escribí una palabra en inglés.",
+          "explicacion": "Send es irregular: sent.",
+          "pista1": "Send no sigue la regla de -ed.",
+          "pista": "El participio de send es igual a su pasado."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá con have o has: My friends ______ made a website.",
+          "respuesta": "have",
+          "acepta": [
+            "have"
+          ],
+          "formato": "Escribí una palabra en inglés.",
+          "explicacion": "My friends es they: have.",
+          "pista1": "My friends son varias personas.",
+          "pista": "Con they va have."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "I lost my phone last summer.",
+            "I have lost my phone last summer.",
+            "I haven't never lost my phone.",
+            "I has lost my phone."
+          ],
+          "correcta": 0,
+          "explicacion": "Last summer dice cuándo: pasado simple.",
+          "pista": "Fijate si la oración dice cuándo pasó."
+        }
+      ]
+    }
+  },
+  "preguntas": [
+    {
+      "id": "q-general-1",
+      "contenido": "general",
+      "nivel": "Integradora",
+      "pregunta": "¿Qué tiempos verbales usaste en la biografía y por qué cambiaste de uno a otro?",
+      "orientacion": "Por ejemplo: presente simple para su rutina, pasado simple para el hecho que le pasó, pasado continuo para el fondo de ese día y used to para cómo era antes. Cada párrafo cuenta algo distinto, por eso cambia el tiempo."
+    },
+    {
+      "id": "q-general-2",
+      "contenido": "general",
+      "nivel": "Integradora",
+      "pregunta": "Leé en voz alta un párrafo de tu biografía y señalá los verbos.",
+      "orientacion": "Leé despacio y pronunciá cada palabra. Después nombrá los verbos y decí en qué tiempo está cada uno."
+    },
+    {
+      "id": "q-general-3",
+      "contenido": "general",
+      "nivel": "Integradora",
+      "pregunta": "¿Qué error aprendiste a evitar al escribir en inglés?",
+      "orientacion": "Por ejemplo: con he y she el presente lleva -s; después de didn't va el verbo base; con did se escribe use to sin d; con she va has, no have."
+    },
+    {
+      "id": "q-e1-1",
+      "contenido": "e1",
+      "nivel": "Básica",
+      "pregunta": "What is your character's name? Where does he or she live?",
+      "porPersonaje": {
+        "lucy": {
+          "orientacion": "Lucy lives in Bristol, in England. She is sixteen. Respondé en inglés y con oración completa."
+        },
+        "ben": {
+          "orientacion": "Ben lives in a town near Chicago, in the USA. He is sixteen. Respondé en inglés y con oración completa."
+        },
+        "mia": {
+          "orientacion": "Mia lives in Sydney, Australia. She is sixteen. Respondé en inglés y con oración completa."
+        },
+        "liam": {
+          "orientacion": "Liam lives in Dublin, Ireland. He is sixteen. Respondé en inglés y con oración completa."
+        }
+      }
+    },
+    {
+      "id": "q-e1-2",
+      "contenido": "e1",
+      "nivel": "Media",
+      "pregunta": "¿Para qué se usa el presente simple y qué le pasa al verbo con he y she?",
+      "orientacion": "Para rutinas y cosas que son siempre así. Con he, she e it, el verbo lleva -s o -es: she walks, he watches."
+    },
+    {
+      "id": "q-e2-1",
+      "contenido": "e2",
+      "nivel": "Básica",
+      "pregunta": "What does your character love doing?",
+      "porPersonaje": {
+        "lucy": {
+          "orientacion": "She loves acting in plays. Fijate en loves (con -s) y acting (con -ing)."
+        },
+        "ben": {
+          "orientacion": "He loves playing basketball. Fijate en loves (con -s) y playing (con -ing)."
+        },
+        "mia": {
+          "orientacion": "She loves swimming. Fijate en loves (con -s) y swimming (con doble m)."
+        },
+        "liam": {
+          "orientacion": "He loves cooking. Fijate en loves (con -s) y cooking (con -ing)."
+        }
+      }
+    },
+    {
+      "id": "q-e2-2",
+      "contenido": "e2",
+      "nivel": "Media",
+      "pregunta": "¿Para qué se usa el presente continuo? Dá un ejemplo de tu biografía.",
+      "orientacion": "Para lo que pasa ahora y para planes arreglados: am, is o are + -ing. Por ejemplo: This weekend, she is visiting…"
+    },
+    {
+      "id": "q-e3-1",
+      "contenido": "e3",
+      "nivel": "Básica",
+      "pregunta": "What happened to your character? When did it happen?",
+      "porPersonaje": {
+        "lucy": {
+          "orientacion": "Last December, she acted in the school play. She forgot one line, but everybody clapped."
+        },
+        "ben": {
+          "orientacion": "Last March, his team played in the city final. They lost by two points."
+        },
+        "mia": {
+          "orientacion": "Two years ago, her family moved to Sydney. She changed schools and Zoe became her friend."
+        },
+        "liam": {
+          "orientacion": "Last spring, his band played at the school festival. He wrote one of the songs."
+        }
+      }
+    },
+    {
+      "id": "q-e3-2",
+      "contenido": "e3",
+      "nivel": "Media",
+      "pregunta": "¿Cómo se arman la negación y la pregunta en pasado simple? Dá ejemplos.",
+      "orientacion": "Con didn't y did, y el verbo base: She didn't win. Did she win? No se dice didn't won."
+    },
+    {
+      "id": "q-e4-1",
+      "contenido": "e4",
+      "nivel": "Básica",
+      "pregunta": "What was happening around your character that day?",
+      "porPersonaje": {
+        "lucy": {
+          "orientacion": "She was speaking on the stage when the lights went off. Emma was laughing."
+        },
+        "ben": {
+          "orientacion": "It was snowing outside and the fans were singing."
+        },
+        "mia": {
+          "orientacion": "It was raining, her little brother was sleeping and her dad was listening to the radio."
+        },
+        "liam": {
+          "orientacion": "His band was playing and Conor was singing when a string broke."
+        }
+      }
+    },
+    {
+      "id": "q-e4-2",
+      "contenido": "e4",
+      "nivel": "Media",
+      "pregunta": "Explicá con un ejemplo cómo se combinan el pasado continuo y el pasado simple.",
+      "orientacion": "La acción larga va en pasado continuo y la corta, que la interrumpe, en pasado simple: I was reading when the phone rang."
+    },
+    {
+      "id": "q-e5-1",
+      "contenido": "e5",
+      "nivel": "Básica",
+      "pregunta": "How was your character before? How is he or she now?",
+      "porPersonaje": {
+        "lucy": {
+          "orientacion": "She didn't use to speak in class, but now she acts in the school play."
+        },
+        "ben": {
+          "orientacion": "He used to play soccer, but now he plays basketball."
+        },
+        "mia": {
+          "orientacion": "She used to walk to school, but now she takes the train."
+        },
+        "liam": {
+          "orientacion": "He used to play the piano, but now he plays the guitar."
+        }
+      }
+    },
+    {
+      "id": "q-e5-2",
+      "contenido": "e5",
+      "nivel": "Media",
+      "pregunta": "¿Qué expresa used to y cómo se forma el negativo?",
+      "orientacion": "Un hábito o una situación del pasado que ya no existe. Negativo: didn't use to + verbo base, sin la d."
+    },
+    {
+      "id": "q-e6-1",
+      "contenido": "e6",
+      "nivel": "Básica",
+      "pregunta": "Compare your character's city with another place.",
+      "porPersonaje": {
+        "lucy": {
+          "orientacion": "Bristol is smaller than London."
+        },
+        "ben": {
+          "orientacion": "His town is quieter than Chicago."
+        },
+        "mia": {
+          "orientacion": "Sydney is bigger than her old town."
+        },
+        "liam": {
+          "orientacion": "Dublin is bigger than his grandparents' town."
+        }
+      }
+    },
+    {
+      "id": "q-e6-2",
+      "contenido": "e6",
+      "nivel": "Media",
+      "pregunta": "¿Cuándo se usa -er y cuándo more? ¿Cómo se forma el superlativo?",
+      "orientacion": "Adjetivo corto: -er (taller). Largo: more (more expensive). Superlativo: the -est o the most. Good y bad son irregulares: better, the best; worse, the worst."
+    },
+    {
+      "id": "q-e7-1",
+      "contenido": "e7",
+      "nivel": "Básica",
+      "pregunta": "Who does your character write to? What did he or she ask?",
+      "porPersonaje": {
+        "lucy": {
+          "orientacion": "She writes to Joaquín. She asked him to send a photo of his school."
+        },
+        "ben": {
+          "orientacion": "He writes to Joaquín. He asked him about basketball in Argentina."
+        },
+        "mia": {
+          "orientacion": "She writes to Joaquín. She asked him about his summer holidays."
+        },
+        "liam": {
+          "orientacion": "He writes to Joaquín. He asked him to send the lyrics of a song."
+        }
+      }
+    },
+    {
+      "id": "q-e7-2",
+      "contenido": "e7",
+      "nivel": "Media",
+      "pregunta": "¿Qué diferencia hay entre can, could y would you like?",
+      "orientacion": "Can para pedir con confianza o pedir permiso; could, para pedir con cortesía; would you like, para invitar u ofrecer."
+    },
+    {
+      "id": "q-e8-1",
+      "contenido": "e8",
+      "nivel": "Básica",
+      "pregunta": "Has your character ever made a video call?",
+      "porPersonaje": {
+        "lucy": {
+          "orientacion": "Yes, she has. She has made a video call. Fijate que la respuesta corta usa has."
+        },
+        "ben": {
+          "orientacion": "Yes, he has. He has made a video call. Fijate que la respuesta corta usa has."
+        },
+        "mia": {
+          "orientacion": "Yes, she has. She has made a video call. Fijate que la respuesta corta usa has."
+        },
+        "liam": {
+          "orientacion": "Yes, he has. He has made a video call. Fijate que la respuesta corta usa has."
+        }
+      }
+    },
+    {
+      "id": "q-e8-2",
+      "contenido": "e8",
+      "nivel": "Media",
+      "pregunta": "¿Para qué se usa el presente perfecto y en qué se diferencia del pasado simple?",
+      "orientacion": "Para experiencias sin decir cuándo: has + participio. Si se dice cuándo (yesterday, last year), va el pasado simple."
+    }
+  ]
+}

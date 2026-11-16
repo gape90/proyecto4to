@@ -1,0 +1,887 @@
+{
+ "espacio": "lengua",
+ "pares": {
+  "l1|l2": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué dato del contexto de producción ayuda a entender la decisión de Antígona?",
+    "opciones": [
+     "El respeto griego por la sepultura",
+     "Que la obra tiene un coro que canta y comenta",
+     "Que Sófocles escribió otras obras",
+     "Que Tebas era una ciudad griega"
+    ],
+    "correcta": 0,
+    "explicacion": "El contexto explica por qué el entierro era tan importante."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Antígona pertenece al género dramático y al subgénero tragedia.",
+    "respuesta": true,
+    "explicacion": "Fue escrita para ser representada."
+   }
+  ],
+  "l1|l3": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿A qué gran género pertenece la épica?",
+    "opciones": [
+     "Narrativo",
+     "Lírico",
+     "Dramático",
+     "Técnico"
+    ],
+    "correcta": 0,
+    "explicacion": "Un narrador cuenta las hazañas del héroe."
+   },
+   {
+    "tipo": "vf",
+    "texto": "El narrador de la épica cuenta en tercera persona.",
+    "respuesta": true,
+    "explicacion": "Con un tono solemne."
+   }
+  ],
+  "l1|l4": [
+   {
+    "tipo": "mc",
+    "pregunta": "En \"Es que somos muy pobres\", ¿qué tipo de narrador hay?",
+    "opciones": [
+     "Un niño de la familia",
+     "Un narrador omnisciente",
+     "Un coro que comenta",
+     "El autor de la obra"
+    ],
+    "correcta": 0,
+    "explicacion": "Cuenta lo que ve y vive su familia."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Conocer el contexto de producción ayuda a entender la realidad que muestra un relato latinoamericano.",
+    "respuesta": true,
+    "explicacion": "Por ejemplo, la Revolución mexicana en Los de abajo."
+   }
+  ],
+  "l1|l5": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué necesita una interpretación de una obra para ser convincente?",
+    "opciones": [
+     "Argumentos y ejemplos de la obra",
+     "Solo la opinión personal de quien lee",
+     "Copiar el resumen de la obra",
+     "Contar el final completo"
+    ],
+    "correcta": 0,
+    "explicacion": "Como un texto argumentativo."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Interpretar una obra y defender esa interpretación es una forma de argumentar.",
+    "respuesta": true,
+    "explicacion": "La tesis es tu lectura de la obra."
+   }
+  ],
+  "l1|l6": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿En qué parte del informe de lectura se usa la guía de seis pasos?",
+    "opciones": [
+     "En el análisis",
+     "En la fecha",
+     "En la firma",
+     "En los datos"
+    ],
+    "correcta": 0,
+    "explicacion": "Narrador, personajes, conflicto, tema."
+   },
+   {
+    "tipo": "vf",
+    "texto": "El contexto de producción es una de las partes del informe de lectura.",
+    "respuesta": true,
+    "explicacion": "Habla del autor y su época."
+   }
+  ],
+  "l2|l3": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué diferencia hay entre el héroe trágico y el héroe épico?",
+    "opciones": [
+     "El trágico no puede evitar su destino",
+     "Son iguales: los dos terminan bien siempre",
+     "El épico siempre muere al final",
+     "El trágico es un personaje cómico"
+    ],
+    "correcta": 0,
+    "explicacion": "Los dos son griegos, pero en géneros distintos."
+   },
+   {
+    "tipo": "vf",
+    "texto": "En la Ilíada, como en Antígona, dar sepultura a un muerto es muy importante.",
+    "respuesta": true,
+    "explicacion": "Príamo pide el cuerpo de Héctor."
+   }
+  ],
+  "l2|l4": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tienen en común Antígona y \"Es que somos muy pobres\"?",
+    "opciones": [
+     "Personajes que sufren sin poder evitarlo",
+     "Las dos son comedias para reír con la familia",
+     "Las dos transcurren en Grecia",
+     "Las dos tienen un detective"
+    ],
+    "correcta": 0,
+    "explicacion": "En una, el destino; en la otra, la creciente del río y la pobreza."
+   },
+   {
+    "tipo": "vf",
+    "texto": "La tragedia griega y el cuento realista latinoamericano pertenecen al mismo género.",
+    "respuesta": false,
+    "explicacion": "La tragedia es dramática; el cuento, narrativo."
+   }
+  ],
+  "l2|l5": [
+   {
+    "tipo": "mc",
+    "pregunta": "Si Antígona y Creonte debatieran, ¿cuál sería la tesis de Antígona?",
+    "opciones": [
+     "Los muertos merecen sepultura",
+     "Hay que castigar al traidor",
+     "El rey nunca se equivoca",
+     "No hay que enterrar a nadie"
+    ],
+    "correcta": 0,
+    "explicacion": "Su argumento son las leyes de los dioses y el deber con la familia."
+   },
+   {
+    "tipo": "vf",
+    "texto": "El conflicto de Antígona puede pensarse como un debate con dos posturas.",
+    "respuesta": true,
+    "explicacion": "Cada personaje defiende su tesis."
+   }
+  ],
+  "l2|l6": [
+   {
+    "tipo": "mc",
+    "pregunta": "En un informe de lectura sobre Antígona, ¿qué iría en el argumento?",
+    "opciones": [
+     "Un resumen breve de lo que pasa en la obra",
+     "La opinión sobre la obra",
+     "El año de nacimiento de quien escribe el informe",
+     "La lista de palabras clave"
+    ],
+    "correcta": 0,
+    "explicacion": "La opinión va en la valoración."
+   },
+   {
+    "tipo": "vf",
+    "texto": "La valoración de un informe de lectura sobre Antígona necesita razones.",
+    "respuesta": true,
+    "explicacion": "Tiene que estar fundamentada."
+   }
+  ],
+  "l3|l4": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué diferencia hay entre los personajes de la épica y los del relato realista latinoamericano?",
+    "opciones": [
+     "Héroes extraordinarios y personajes comunes",
+     "Son iguales en las dos: reyes y campesinos",
+     "Los dos tienen dioses",
+     "El realismo tiene solo reyes"
+    ],
+    "correcta": 0,
+    "explicacion": "Cada uno muestra su mundo."
+   },
+   {
+    "tipo": "vf",
+    "texto": "La épica y la literatura regional ayudan a construir la identidad de un pueblo.",
+    "respuesta": true,
+    "explicacion": "Una con relatos fundacionales, la otra mostrando un lugar."
+   }
+  ],
+  "l3|l5": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Cuál de estos sería un argumento para defender que Odiseo es un héroe?",
+    "opciones": [
+     "Supera pruebas con su astucia",
+     "Tiene barba y es mayor que los otros",
+     "Vive en una isla",
+     "Tiene un hijo, Telémaco"
+    ],
+    "correcta": 0,
+    "explicacion": "Responde a \"¿por qué?\"."
+   },
+   {
+    "tipo": "vf",
+    "texto": "La astucia de Odiseo puede usarse como argumento para defender que es un héroe.",
+    "respuesta": true,
+    "explicacion": "Es una razón concreta."
+   }
+  ],
+  "l3|l6": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué conviene hacer para exponer el viaje del héroe en tres minutos?",
+    "opciones": [
+     "Delimitar el tema y ordenarlo",
+     "Leer la Odisea completa en voz alta",
+     "No preparar nada",
+     "Hablar de todos los mitos"
+    ],
+    "correcta": 0,
+    "explicacion": "Delimitar evita irse por las ramas."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Un resumen de la Odisea debería conservar la partida, las pruebas y el regreso del héroe.",
+    "respuesta": true,
+    "explicacion": "Son las ideas principales."
+   }
+  ],
+  "l4|l5": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué diferencia hay entre un ensayo y un relato testimonial?",
+    "opciones": [
+     "El ensayo argumenta; el testimonio cuenta",
+     "Son lo mismo con otro nombre distinto",
+     "El testimonio es inventado",
+     "El ensayo es un poema"
+    ],
+    "correcta": 0,
+    "explicacion": "Los dos pueden ser literatura de no ficción."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Facundo, de Sarmiento, es un ensayo que piensa la realidad latinoamericana.",
+    "respuesta": true,
+    "explicacion": "Es literatura de ideas."
+   }
+  ],
+  "l4|l6": [
+   {
+    "tipo": "mc",
+    "pregunta": "Al resumir \"Es que somos muy pobres\", ¿qué idea no puede faltar?",
+    "opciones": [
+     "La creciente se lleva la vaca de Tacha",
+     "El color del cielo ese día de lluvia",
+     "La opinión de quien resume",
+     "El nombre de la editorial"
+    ],
+    "correcta": 0,
+    "explicacion": "Es el hecho central del cuento."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Las notas sobre una crónica pueden escribirse con palabras clave y flechas.",
+    "respuesta": true,
+    "explicacion": "No hacen falta oraciones completas."
+   }
+  ],
+  "l5|l6": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tienen en común la valoración de un informe y un texto argumentativo?",
+    "opciones": [
+     "Las dos defienden una opinión",
+     "Las dos son resúmenes",
+     "Las dos son poemas",
+     "Las dos son noticias"
+    ],
+    "correcta": 0,
+    "explicacion": "La opinión se fundamenta."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Un debate y una exposición oral necesitan un registro formal pero cercano.",
+    "respuesta": true,
+    "explicacion": "Son situaciones de clase."
+   }
+  ],
+  "l7|l1": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué te ayuda a entender el Popol Vuh si conocés el contexto maya?",
+    "opciones": [
+     "Por qué los humanos son de maíz",
+     "Por qué la obra tiene un coro que canta",
+     "Por qué es un cuento policial",
+     "Por qué se escribió en griego"
+    ],
+    "correcta": 0,
+    "explicacion": "El maíz era su alimento principal."
+   }
+  ],
+  "l7|l2": [
+   {
+    "tipo": "vf",
+    "texto": "Los dioses de la cosmogonía griega son los mismos que aparecen en la tragedia y la épica.",
+    "respuesta": true,
+    "explicacion": "Por ejemplo, Zeus y Poseidón."
+   }
+  ],
+  "l7|l3": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tienen en común los mitos griegos y la épica de Homero?",
+    "opciones": [
+     "Se transmitían oralmente",
+     "Los dos son policiales",
+     "Los dos son de México",
+     "Ninguno tiene dioses"
+    ],
+    "correcta": 0,
+    "explicacion": "Son relatos tradicionales griegos."
+   }
+  ],
+  "l7|l4": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué escritor latinoamericano es un ejemplo de transculturación en la literatura?",
+    "opciones": [
+     "Augusto Roa Bastos",
+     "Homero",
+     "Sófocles",
+     "Edgar Allan Poe"
+    ],
+    "correcta": 0,
+    "explicacion": "Mezcla el español y el guaraní."
+   }
+  ],
+  "l7|l5": [
+   {
+    "tipo": "vf",
+    "texto": "Se puede argumentar que conservar las leyendas es conservar la identidad de un pueblo.",
+    "respuesta": true,
+    "explicacion": "Es una tesis que se puede fundamentar."
+   }
+  ],
+  "l7|l6": [
+   {
+    "tipo": "mc",
+    "pregunta": "Al resumir una leyenda, ¿qué conservás?",
+    "opciones": [
+     "Los hechos y el origen que explica",
+     "Solo los nombres de los personajes",
+     "Tu opinión sobre la leyenda",
+     "Los detalles de cada escena"
+    ],
+    "correcta": 0,
+    "explicacion": "Las ideas principales."
+   }
+  ],
+  "l8|l2": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tiempo verbal conviene para contar lo que hace Antígona en la obra?",
+    "opciones": [
+     "El pretérito perfecto simple",
+     "El futuro",
+     "El pluscuamperfecto",
+     "El condicional"
+    ],
+    "correcta": 0,
+    "explicacion": "Narra las acciones que hacen avanzar la historia."
+   }
+  ],
+  "l8|l1": [
+   {
+    "tipo": "vf",
+    "texto": "Los tiempos verbales ayudan a reconocer el orden de los hechos en una obra.",
+    "respuesta": true,
+    "explicacion": "El pluscuamperfecto marca lo anterior."
+   }
+  ],
+  "l8|l3": [
+   {
+    "tipo": "mc",
+    "pregunta": "En \"Cuando Odiseo llegó a Ítaca, los pretendientes ya habían ocupado su casa\", ¿qué pasó primero?",
+    "opciones": [
+     "Los pretendientes ocuparon la casa",
+     "Odiseo llegó a Ítaca, su isla, primero",
+     "Las dos cosas a la vez",
+     "No se puede saber"
+    ],
+    "correcta": 0,
+    "explicacion": "El pluscuamperfecto marca la acción anterior."
+   }
+  ],
+  "l8|l4": [
+   {
+    "tipo": "vf",
+    "texto": "La puntuación, como los guiones de diálogo, ayuda a reproducir cómo hablan los personajes.",
+    "respuesta": true,
+    "explicacion": "Es parte de pasar la oralidad a la escritura."
+   }
+  ],
+  "l8|l5": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué signo conviene antes de \"sin embargo\" en un texto argumentativo?",
+    "opciones": [
+     "Punto y coma o punto",
+     "Signo de pregunta",
+     "Ningún signo",
+     "Dos puntos"
+    ],
+    "correcta": 0,
+    "explicacion": "Separa ideas relacionadas."
+   }
+  ],
+  "l8|l6": [
+   {
+    "tipo": "vf",
+    "texto": "Antes de entregar un informe de lectura conviene revisar la puntuación y los acentos.",
+    "respuesta": true,
+    "explicacion": "Es un texto formal."
+   }
+  ],
+  "l9|l1": [
+   {
+    "tipo": "vf",
+    "texto": "La lengua de los personajes dice algo sobre el lugar y la época de una obra.",
+    "respuesta": true,
+    "explicacion": "Es parte del análisis."
+   }
+  ],
+  "l9|l2": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué registro usan los personajes de la tragedia griega?",
+    "opciones": [
+     "Formal y solemne",
+     "Informal, como en un chat",
+     "Técnico",
+     "Publicitario"
+    ],
+    "correcta": 0,
+    "explicacion": "Son reyes y héroes en situaciones graves."
+   }
+  ],
+  "l9|l3": [
+   {
+    "tipo": "vf",
+    "texto": "La épica usa un tono solemne, no un registro informal.",
+    "respuesta": true,
+    "explicacion": "Cuenta hazañas de héroes."
+   }
+  ],
+  "l9|l4": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Por qué Rulfo hace hablar a sus personajes como la gente del campo mexicano?",
+    "opciones": [
+     "Para mostrar la identidad de su región",
+     "Porque no sabía escribir de otra manera",
+     "Para que nadie entendiera el cuento",
+     "Para que el cuento pareciera antiguo"
+    ],
+    "correcta": 0,
+    "explicacion": "Es pasar la oralidad a la escritura."
+   }
+  ],
+  "l9|l5": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué registro conviene en un debate en clase?",
+    "opciones": [
+     "Formal pero cercano",
+     "Muy informal, con insultos",
+     "Técnico y sin explicar nada",
+     "Ninguno"
+    ],
+    "correcta": 0,
+    "explicacion": "Con respeto por los turnos y por las demás personas."
+   }
+  ],
+  "l9|l6": [
+   {
+    "tipo": "vf",
+    "texto": "Un informe de lectura se escribe en registro formal.",
+    "respuesta": true,
+    "explicacion": "Es un texto para presentar a otras personas."
+   }
+  ],
+  "l7|l8": [
+   {
+    "tipo": "vf",
+    "texto": "Para contar una leyenda conviene usar los tiempos del pasado.",
+    "respuesta": true,
+    "explicacion": "Perfecto simple para las acciones e imperfecto para el fondo."
+   }
+  ],
+  "l7|l9": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué palabras muestran el contacto entre el español y las lenguas originarias?",
+    "opciones": [
+     "Choclo, ananá, ñandú",
+     "Mouse, software, chatear",
+     "Laburo, nono, pibe",
+     "Teléfono, música, idea"
+    ],
+    "correcta": 0,
+    "explicacion": "Vienen del quechua y del guaraní."
+   }
+  ],
+  "l8|l9": [
+   {
+    "tipo": "vf",
+    "texto": "Los criterios de corrección importan más en un texto formal que en un mensaje informal.",
+    "respuesta": true,
+    "explicacion": "Se esperan sobre todo en lo formal escrito."
+   }
+  ],
+  "l10|l1": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué diferencia hay entre el lenguaje técnico y el literario?",
+    "opciones": [
+     "El técnico busca precisión",
+     "Son iguales en todo",
+     "El literario usa medidas exactas",
+     "El técnico usa metáforas"
+    ],
+    "correcta": 0,
+    "explicacion": "Cada uno tiene su finalidad."
+   }
+  ],
+  "l10|l2": [
+   {
+    "tipo": "vf",
+    "texto": "Un texto técnico sobre el teatro griego diría sus medidas y materiales con precisión.",
+    "respuesta": true,
+    "explicacion": "Es la precisión del texto técnico."
+   }
+  ],
+  "l10|l3": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué diferencia hay entre el tono de la épica y el de un informe técnico?",
+    "opciones": [
+     "La épica es solemne; el informe, objetivo",
+     "Son iguales en el tono",
+     "El informe es poético",
+     "La épica es técnica"
+    ],
+    "correcta": 0,
+    "explicacion": "Cada uno tiene su propósito."
+   }
+  ],
+  "l10|l4": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tienen en común la crónica y el informe técnico?",
+    "opciones": [
+     "Cuentan hechos reales",
+     "Son ficciones",
+     "Tienen dioses",
+     "Están en verso"
+    ],
+    "correcta": 0,
+    "explicacion": "Pero la crónica usa recursos literarios y el informe busca objetividad."
+   }
+  ],
+  "l10|l5": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Por qué la fundamentación de un proyecto es argumentativa?",
+    "opciones": [
+     "Porque defiende que el proyecto hace falta",
+     "Porque cuenta una historia inventada sobre el taller",
+     "Porque da instrucciones paso a paso",
+     "Porque está escrita en verso"
+    ],
+    "correcta": 0,
+    "explicacion": "La tesis es que hay que hacer el proyecto."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Un dato, como \"3 de 12 luminarias fallan\", puede usarse como argumento en una fundamentación.",
+    "respuesta": true,
+    "explicacion": "Es la estrategia del dato."
+   }
+  ],
+  "l10|l6": [
+   {
+    "tipo": "vf",
+    "texto": "Un resumen y un informe técnico buscan ser claros y quedarse con lo importante.",
+    "respuesta": true,
+    "explicacion": "Los dos evitan lo innecesario."
+   }
+  ],
+  "l11|l1": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué modos de decir combina una novela?",
+    "opciones": [
+     "Sobre todo narrar y describir",
+     "Solo argumentar",
+     "Solo dar instrucciones",
+     "Solo explicar"
+    ],
+    "correcta": 0,
+    "explicacion": "Cuenta hechos y muestra cómo son lugares y personajes."
+   }
+  ],
+  "l11|l2": [
+   {
+    "tipo": "vf",
+    "texto": "Antígona y Creonte argumentan para defender sus posiciones.",
+    "respuesta": true,
+    "explicacion": "Cada uno tiene sus razones."
+   }
+  ],
+  "l11|l3": [
+   {
+    "tipo": "vf",
+    "texto": "La épica era un discurso importante porque mostraba los valores de la sociedad griega.",
+    "respuesta": true,
+    "explicacion": "Es un relato fundacional."
+   }
+  ],
+  "l11|l4": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué diferencia hay entre una noticia y un relato testimonial?",
+    "opciones": [
+     "La noticia informa; el testimonio da voz",
+     "Son lo mismo con otro nombre distinto",
+     "El testimonio es publicidad",
+     "La noticia es ficción"
+    ],
+    "correcta": 0,
+    "explicacion": "Los dos cuentan hechos reales."
+   }
+  ],
+  "l11|l5": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué discursos usan más la argumentación?",
+    "opciones": [
+     "El político y el publicitario",
+     "Solo el técnico",
+     "Solo las recetas",
+     "Solo el jurídico"
+    ],
+    "correcta": 0,
+    "explicacion": "Buscan convencer."
+   },
+   {
+    "tipo": "vf",
+    "texto": "La publicidad y el discurso político buscan convencer, como un texto argumentativo.",
+    "respuesta": true,
+    "explicacion": "Con distintos recursos."
+   }
+  ],
+  "l11|l6": [
+   {
+    "tipo": "vf",
+    "texto": "En una exposición oral se combinan sobre todo los modos de explicar y describir.",
+    "respuesta": true,
+    "explicacion": "Para hacer comprender un tema."
+   }
+  ],
+  "l12|l1": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tipo de narrador suele tener el policial clásico?",
+    "opciones": [
+     "Un testigo amigo del detective",
+     "El culpable del crimen que se investiga",
+     "Un coro que comenta",
+     "Un narrador que no sabe nada"
+    ],
+    "correcta": 0,
+    "explicacion": "Como Watson con Holmes."
+   }
+  ],
+  "l12|l2": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué diferencia hay entre el enigma de un policial y el conflicto de una tragedia?",
+    "opciones": [
+     "El enigma se resuelve; la tragedia termina mal",
+     "Son lo mismo con otro nombre en cada género",
+     "La tragedia tiene un detective",
+     "El policial tiene un coro"
+    ],
+    "correcta": 0,
+    "explicacion": "Uno busca la verdad; el otro muestra un destino."
+   }
+  ],
+  "l12|l3": [
+   {
+    "tipo": "vf",
+    "texto": "El detective y el héroe épico superan pruebas; uno con la razón y el otro, muchas veces, con fuerza o astucia.",
+    "respuesta": true,
+    "explicacion": "Odiseo y el detective se parecen en la astucia."
+   }
+  ],
+  "l12|l4": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué diferencia hay entre la verdad de un cuento realista y la que busca un detective?",
+    "opciones": [
+     "El cuento es verosímil; el detective descubre",
+     "Son lo mismo: las dos inventan lo que pasó",
+     "El detective inventa la verdad",
+     "El cuento no tiene ninguna verdad"
+    ],
+    "correcta": 0,
+    "explicacion": "Dos sentidos de \"verdad\"."
+   }
+  ],
+  "l12|l5": [
+   {
+    "tipo": "vf",
+    "texto": "La explicación final del detective se parece a un texto argumentativo: tiene una conclusión y razones.",
+    "respuesta": true,
+    "explicacion": "Las pistas son sus argumentos."
+   }
+  ],
+  "l12|l6": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué conviene no hacer en un informe de lectura de un policial?",
+    "opciones": [
+     "Revelar quién es el culpable",
+     "Dar los datos de la obra",
+     "Analizar al detective",
+     "Dar una valoración"
+    ],
+    "correcta": 0,
+    "explicacion": "Así no se arruina la lectura de otras personas."
+   }
+  ],
+  "l13|l1": [
+   {
+    "tipo": "vf",
+    "texto": "La lengua de una obra dice algo sobre su contexto de producción.",
+    "respuesta": true,
+    "explicacion": "Las palabras y las formas cambian con el lugar y la época."
+   }
+  ],
+  "l13|l2": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Por qué leemos Antígona traducida?",
+    "opciones": [
+     "Porque se escribió en griego antiguo",
+     "Porque se escribió en inglés en Inglaterra",
+     "Porque es un texto técnico",
+     "Porque la escribió un romano"
+    ],
+    "correcta": 0,
+    "explicacion": "La lengua cambia con el tiempo y entre pueblos."
+   }
+  ],
+  "l13|l3": [
+   {
+    "tipo": "vf",
+    "texto": "La épica muestra que la lengua y los relatos son producto de un pueblo.",
+    "respuesta": true,
+    "explicacion": "Se transmitían de generación en generación."
+   }
+  ],
+  "l13|l4": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué dimensión de la variación muestran los personajes de Rulfo?",
+    "opciones": [
+     "La geográfica",
+     "La temporal",
+     "La técnica",
+     "La del oficio"
+    ],
+    "correcta": 0,
+    "explicacion": "Es el habla del campo mexicano."
+   }
+  ],
+  "l13|l5": [
+   {
+    "tipo": "vf",
+    "texto": "En un debate entre estudiantes de una especialidad técnica puede usarse la jerga del oficio.",
+    "respuesta": true,
+    "explicacion": "Si todos la comparten."
+   }
+  ],
+  "l13|l6": [
+   {
+    "tipo": "mc",
+    "pregunta": "Si exponés un tema técnico ante el público general, ¿qué conviene hacer con la jerga?",
+    "opciones": [
+     "Explicarla con palabras comunes",
+     "Usarla sin explicar",
+     "Evitar el tema",
+     "Hablar más rápido"
+    ],
+    "correcta": 0,
+    "explicacion": "Es la competencia sociolingüística."
+   }
+  ],
+  "l10|l11": [
+   {
+    "tipo": "vf",
+    "texto": "Los textos técnicos son parte del discurso técnico.",
+    "respuesta": true,
+    "explicacion": "Comparten precisión, objetividad y terminología."
+   }
+  ],
+  "l10|l12": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tienen en común un detective y un técnico que redacta un informe?",
+    "opciones": [
+     "Observan, suponen, comprueban",
+     "Los dos inventan lo que pasó",
+     "Los dos escriben poemas",
+     "Los dos adivinan"
+    ],
+    "correcta": 0,
+    "explicacion": "Es el pensamiento científico."
+   }
+  ],
+  "l10|l13": [
+   {
+    "tipo": "vf",
+    "texto": "La terminología de un texto técnico es parte de la jerga de la especialidad.",
+    "respuesta": true,
+    "explicacion": "Es variación social."
+   }
+  ],
+  "l11|l12": [
+   {
+    "tipo": "vf",
+    "texto": "El razonamiento del detective se parece al método del discurso científico.",
+    "respuesta": true,
+    "explicacion": "Observación, hipótesis, comprobación."
+   }
+  ],
+  "l11|l13": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué influye en la forma de un discurso?",
+    "opciones": [
+     "El grupo, la situación y la intención",
+     "Solo el papel donde se escribe",
+     "El clima del día",
+     "El color de la tinta"
+    ],
+    "correcta": 0,
+    "explicacion": "La lengua es un producto social."
+   }
+  ],
+  "l12|l13": [
+   {
+    "tipo": "vf",
+    "texto": "Los policiales argentinos usan la lengua de su lugar y su época.",
+    "respuesta": true,
+    "explicacion": "Como los cuentos de Walsh."
+   }
+  ]
+ }
+}

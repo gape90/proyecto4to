@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mi recorrido · Acompañamiento Pedagógico</title>
+<link rel="stylesheet" href="css/potenciar.css">
+</head>
+<body>
+<div id="cab"></div>
+<main class="contenedor">
+  <div id="cuerpo"></div>
+</main>
+<script type="module">
+import { leer, actualizar, reiniciar, esc, cargarJSON, cabecera, progresoClase, dudas, tpDe } from './js/estado.js';
+import { AJUSTES, MATERIA } from './js/config.js';
+
+const e = leer();
+if (!e.seleccion.length) location.replace('index.html');
+document.getElementById('cab').innerHTML = cabecera({ volver: { href: 'index.html?cambiar=1', texto: 'Cambiar mis contenidos' } });
+
+const cat = await cargarJSON('contenidos/catalogo.json');
+const espacio = cat.espacios.find(s => s.id === e.espacio);
+const contenidos = cat.contenidos[e.espacio].filter(c => e.seleccion.includes(c.id) && c.clase);
+const clases = [];
+for (const c of contenidos) {
+  try { clases.push({ c, clase: await cargarJSON(`contenidos/clases/${c.clase}.json`) }); }
+  catch { clases.push({ c, clase: null }); }
+}
+
+let todoCompleto = true, html = '';
+const totalPartes = clases.reduce((n, x) => n + (x.clase?.capsulas.length || 0), 0);
+clases.forEach(({ c, clase }, i) => {
+  if (!clase) { html += `<div class="paso-rec bloqueado"><div class="num">${i + 1}</div><div><h3>${esc(c.titulo)}</h3><p>Esta clase todavía no está disponible.</p></div></div>`; todoCompleto = false; return; }
+  const p = progresoClase(e, clase);
+  if (p.pct < 100) todoCompleto = false;
+  const estado = p.pct === 100 ? 'completo' : '';
+  html += `<div class="paso-rec ${estado}">
+    <div class="num">${p.pct === 100 ? '✓' : i + 1}</div>
+    <div><h3>${esc(c.titulo)}</h3><p>${esc(c.eje)} · Partes: ${p.partesHechas} de ${p.partesTotal}${p.conAutoev ? ` · Autoevaluación: ${p.autoev ? `✓ ${p.autoev.bien} de ${p.autoev.total}` : 'pendiente'}` : ''}</p>
+    <div class="barra"><i style="width:${p.pct}%"></i></div></div>
+    <a class="btn" href="clase.html?c=${c.clase}">${p.pct === 100 ? 'Repasar' : p.hechas ? (p.partesListas ? 'Ir a la autoevaluación' : 'Seguir') : 'Empezar'}</a></div>`;
+});
+
+const tpAbierto = todoCompleto || AJUSTES.TP_LIBRE;
+// Autoevaluación general: cuando hay más de una clase, repasa todos los contenidos juntos y relacionados
+if (clases.length >= 2) {
+  const abierta = todoCompleto || AJUSTES.TP_LIBRE;
+  const mejor = e.repaso?.[e.espacio];
+  html += `<div class="paso-rec repaso ${abierta ? '' : 'bloqueado'}">
+    <div class="num">✅</div>
+    <div><h3>Autoevaluación general</h3>
+    <p>${abierta ? 'Repasá todos tus temas juntos, con preguntas que los relacionan entre sí. La podés hacer todas las veces que quieras.' : 'Se habilita cuando termines todas las clases de arriba.'}${mejor ? ` Tu mejor resultado: ${mejor.bien} de ${mejor.total}.` : ''}</p></div>
+    ${abierta ? `<a class="btn" href="repaso.html?e=${e.espacio}">${mejor ? 'Volver a hacerla' : 'Empezar'}</a>` : '<span class="ayuda">🔒</span>'}
+  </div>`;
+}
+
+const secc = tpDe(e, e.espacio).secciones;
+const tpTotal = 8 + contenidos.length + 0;
+const tpHechas = Object.entries(secc).filter(([k, s]) => k !== 'final' && (s.estado === 'ok' || s.estado === 'duda')).length;
+const tpEmpezado = Object.values(secc).some(s => s.texto || s.estado === 'ok');
+html += `<div class="paso-rec tp ${tpAbierto ? '' : 'bloqueado'}">
+  <div class="num">★</div>
+  <div><h3>Mi trabajo práctico y la defensa</h3>
+  <p>${tpAbierto ? 'Armás tu trabajo práctico completo, lo relacionás con la realidad y te preparás para presentarlo y defenderlo.' : 'Se habilita cuando termines todas las clases de arriba.'}</p>
+  ${tpEmpezado ? `<div class="barra"><i style="width:${Math.min(100, Math.round(tpHechas / tpTotal * 100))}%"></i></div>` : ''}</div>
+  ${tpAbierto ? `<a class="btn" href="tp.html?e=${e.espacio}">${tpEmpezado ? 'Seguir' : 'Empezar'}</a>` : '<span class="ayuda">🔒</span>'}
+</div>`;
+
+const dd = dudas(e);
+const dudasHtml = dd.length ? `<div class="tarjeta lavanda"><h3>📌 Para llevar a la consulta de febrero</h3>
+  <p class="ayuda">Estas partes te costaron. Anotalas en tu carpeta y consultalas con tu profesor o profesora en las clases de consulta presenciales.</p>
+  <ul>${dd.map(x => `<li>${esc(x.nombre)}</li>`).join('')}</ul></div>` : '';
+
+document.getElementById('cuerpo').innerHTML = `
+  <div class="clase-cab"><div class="eje-nombre">${esc(espacio.nombre)} · ${esc(MATERIA.anio)}</div>
+  <h1>Este es tu recorrido</h1>
+  <p>Completá las clases en orden. En cada parte de la clase aprendés, practicás y anotás en tu carpeta. Al final armás el trabajo práctico que vas a presentar y defender.</p></div>
+  <div class="tarjeta lavanda organiza"><h3>📅 Organizá tus tiempos</h3>
+    <p>Este recorrido te prepara para presentarte en las instancias de examen de febrero: vas a aprender los temas que te faltan, practicarlos y armar el trabajo práctico que vas a presentar y defender. Tenés tiempo desde diciembre, pero no lo dejes para último momento: <b>es muy importante que organices tus tiempos</b>.</p>
+    <ul>
+      <li>Tenés <b>${clases.length} clase${clases.length > 1 ? 's' : ''}</b> con <b>${totalPartes} partes</b> en total. Cada parte lleva entre 30 y 45 minutos.</li>
+      <li>Si hacés <b>una parte por día, cinco días por semana</b>, terminás las clases en unas <b>${Math.max(1, Math.ceil(totalPartes / 5))} semana${Math.ceil(totalPartes / 5) > 1 ? 's' : ''}</b>.</li>
+      <li>Dejá las últimas semanas antes de febrero para el trabajo práctico y para prepararte para defenderlo.</li>
+      <li>Trabajá en un lugar tranquilo, con tu carpeta a mano, y anotá tus dudas para las clases de consulta.</li>
+    </ul></div>
+  <div class="recorrido">${html}</div>
+  <div style="margin-top:24px">${dudasHtml}</div>
+`;
+
+
+</script>
+</body>
+</html>

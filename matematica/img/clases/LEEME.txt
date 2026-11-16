@@ -1,0 +1,19 @@
+IMÁGENES DE LAS CLASES · MATEMÁTICA
+===================================
+Nombre de cada archivo: código de la clase + tema (ej.: mat-4-01-cuadrados.svg).
+
+Criterio de Matemática (ver CRITERIOS-IMAGENES-MATEMATICA.md en el proyecto):
+  · Imágenes solo si son necesarias. Una parte puede no tener ninguna.
+  · Ilustraciones propias en SVG, con versión para celular (-movil.svg). Se animan cuando el movimiento
+    muestra la idea; al terminar quedan quietas y completas. Con «reducir movimiento», quietas desde el principio.
+  · Fotos reales solo cuando la clase habla de un objeto del mundo real. Derechos en CREDITOS.md.
+Si una imagen todavía no está en esta carpeta, la clase muestra «Imagen en preparación» y sigue funcionando.
+
+Clase 1 · Números irracionales y aproximaciones
+  mat-4-01-cuadrados(.svg / -movil.svg)           parte 1 · animada: 49, 50 y 64 puntos (por qué √50 no es exacta)
+  mat-4-01-truncar-redondear(.svg / -movil.svg)   parte 2 · animada: π cortado a 3 decimales
+  mat-4-01-zoom-pi(.svg / -movil.svg)             parte 3 · animada: tres acercamientos a la recta para acotar π
+Clase 2 · Números reales y número áureo
+  mat-4-02-girasol.jpg      parte 3 · foto (CC BY-SA 2.5), movimiento «acercar»: espirales del girasol
+Clase 8 · Mediciones indirectas
+  mat-4-08-teodolito.jpg    parte 1 · foto (dominio público), movimiento «acercar-izq»: medición de ángulos con teodolito

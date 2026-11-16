@@ -1,0 +1,116 @@
+{
+  "version": "ingles-1",
+  "fuente": "Escuela orientada: Diseño Curricular de Educación Secundaria Orientada, Res. 2630/14, Anexo III, Lengua y Cultura Extranjera, 4.º año (áreas de experiencia). El diseño no fija los recursos gramaticales: los eligió el equipo para cada área. Escuela técnica: Lengua Extranjera (Inglés), 4.º año de la Modalidad Técnico Profesional.",
+  "espacios": [
+    {
+      "id": "lengua-extranjera",
+      "nombre": "Lengua Extranjera Inglés",
+      "habilitado": true,
+      "modalidades": [
+        "orientada",
+        "tecnica"
+      ]
+    }
+  ],
+  "contenidos": {
+    "lengua-extranjera": [
+      {
+        "id": "e1",
+        "eje": "¿Cómo organizamos nuestro tiempo? Entretenimiento y estudio de los adolescentes en distintas culturas",
+        "titulo": "Rutinas y estudio: el presente simple (Present simple)",
+        "activo": true,
+        "clase": "ing-4-01",
+        "desglose": [
+          "Presente simple: afirmativo, negativo y preguntas con do y does",
+          "Adverbios de frecuencia: always, usually, sometimes, never",
+          "Un día de escuela en distintos países"
+        ]
+      },
+      {
+        "id": "e2",
+        "eje": "¿Cómo organizamos nuestro tiempo? Entretenimiento y estudio de los adolescentes en distintas culturas",
+        "titulo": "Tiempo libre: gustos, preferencias y planes",
+        "activo": true,
+        "clase": "ing-4-02",
+        "desglose": [
+          "Gustos y preferencias: like, love, enjoy, don't mind, hate + -ing",
+          "Presente continuo para lo que pasa ahora y para planes",
+          "Invitar, aceptar y rechazar"
+        ]
+      },
+      {
+        "id": "e3",
+        "eje": "¿Qué hicieron? ¿Qué inventaron? Personajes de la historia e hitos",
+        "titulo": "Biografías e inventos: el pasado simple (Past simple)",
+        "activo": true,
+        "clase": "ing-4-03",
+        "desglose": [
+          "Verbos regulares en pasado: escritura y pronunciación de -ed",
+          "Verbos irregulares, was y were, negaciones y preguntas",
+          "Biografías de inventores e inventoras"
+        ]
+      },
+      {
+        "id": "e4",
+        "eje": "¿Qué hicieron? ¿Qué inventaron? Personajes de la historia e hitos",
+        "titulo": "Contar un hecho: el pasado continuo (Past continuous)",
+        "activo": true,
+        "clase": "ing-4-04",
+        "desglose": [
+          "Pasado continuo: was y were + -ing",
+          "Pasado continuo y pasado simple juntos: when y while",
+          "Relatos de hechos y descubrimientos"
+        ]
+      },
+      {
+        "id": "e5",
+        "eje": "¿Cómo cambió el mundo? Presente y pasado de distintas sociedades",
+        "titulo": "Antes y ahora: hábitos del pasado (used to)",
+        "activo": true,
+        "clase": "ing-4-05",
+        "desglose": [
+          "Used to: hábitos y situaciones del pasado",
+          "Comparar el pasado y el presente",
+          "La comunicación antes y ahora",
+          "Escribir sobre los cambios en la vida cotidiana"
+        ]
+      },
+      {
+        "id": "e6",
+        "eje": "¿Cómo cambió el mundo? Presente y pasado de distintas sociedades",
+        "titulo": "Comparar lugares y personas: comparativos y superlativos",
+        "activo": true,
+        "clase": "ing-4-06",
+        "desglose": [
+          "Comparativos: -er, more y than",
+          "Superlativos: the -est, the most; as … as",
+          "Describir lugares y personas comparando"
+        ]
+      },
+      {
+        "id": "e7",
+        "eje": "¿Cómo nos comunicamos? TIC y hábitos de comunicación en distintas culturas",
+        "titulo": "Mensajes, correos y publicaciones",
+        "activo": true,
+        "clase": "ing-4-07",
+        "desglose": [
+          "El correo formal y el informal",
+          "Pedir, ofrecer e invitar: can, could, would you like",
+          "Normas para comunicarse en línea"
+        ]
+      },
+      {
+        "id": "e8",
+        "eje": "¿Cómo nos comunicamos? TIC y hábitos de comunicación en distintas culturas",
+        "titulo": "Experiencias con la tecnología: el presente perfecto (Present perfect)",
+        "activo": true,
+        "clase": "ing-4-08",
+        "desglose": [
+          "Presente perfecto: have y has + participio",
+          "Ever, never, already y yet",
+          "Una encuesta sobre el uso de la tecnología"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1032 @@
+{
+ "id": "len-4-04",
+ "espacio": "lengua",
+ "eje": "Lectura y escritura de textos literarios",
+ "titulo": "Literatura latinoamericana y argentina",
+ "intro": "En esta clase vas a leer cómo la literatura de América Latina y de la Argentina muestra la realidad de sus pueblos: cómo un relato construye la verdad, cómo la literatura de las regiones ayuda a construir la identidad y qué pasa cuando la literatura se cruza con el periodismo. Usamos como ejemplo un cuento de Juan Rulfo. Si con tu docente leyeron otro relato, todo lo que aprendas acá te sirve para analizarlo.",
+ "objetivos": [
+  "Explicar cómo un relato latinoamericano construye la verdad y qué recursos usa.",
+  "Reconocer los rasgos de una región en una obra y explicar cómo construyen identidad.",
+  "Distinguir la noticia, la crónica y el relato testimonial, y leerlos con ojo crítico."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés el análisis del relato latinoamericano o argentino que trabajaste: cómo construye la verdad y qué muestra de su región, y la diferencia entre ficción, crónica y testimonio.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "La construcción de la verdad en el relato latinoamericano",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Contar la realidad de América Latina",
+     "texto": "Muchos escritores y escritoras de América Latina quisieron mostrar en sus obras la **realidad de su tierra**: la vida en el campo, la pobreza, las guerras, la manera de hablar de la gente. No escribieron crónicas de hechos reales, sino **ficciones**, pero las construyeron para que quien lee sienta que eso **podría haber pasado**.\n\nEsa sensación de verdad que crea un relato se llama **verosimilitud**. Un relato es **verosímil** cuando resulta creíble dentro de su propio mundo."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Recursos para construir la verdad",
+     "texto": "• **Un narrador cercano**: alguien que cuenta lo que vivió o vio, a veces en primera persona.\n• **La lengua de la región**: palabras y formas de hablar propias del lugar.\n• **Detalles concretos**: nombres de lugares, objetos, costumbres, el clima.\n• **Personajes comunes**: campesinos, trabajadores, familias, y no héroes extraordinarios."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Un ejemplo: \"Es que somos muy pobres\", de Juan Rulfo",
+     "texto": "**Juan Rulfo** (México, 1917-1986) publicó este cuento en 1953, en el libro _El llano en llamas_. Lo cuenta un **niño**, que narra en primera persona lo que le pasa a su familia de campesinos pobres.\n\nUna creciente del río arrastra a **la Serpentina**, la vaca que el padre le había dado a **Tacha**, la hermana del narrador. La vaca era lo único que tenía Tacha para asegurarse un futuro. Al final, Tacha llora sin consuelo, y la familia teme por lo que le espera."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Cómo construye la verdad el cuento de Rulfo",
+     "columnas": [
+      "Recurso",
+      "En \"Es que somos muy pobres\""
+     ],
+     "filas": [
+      [
+       "Narrador cercano",
+       "Un niño de la familia cuenta lo que ve y oye"
+      ],
+      [
+       "Lengua de la región",
+       "Habla como la gente del campo mexicano"
+      ],
+      [
+       "Detalles concretos",
+       "El río crecido, la vaca con su nombre, la familia que mira desde la orilla"
+      ],
+      [
+       "Personajes comunes",
+       "Una familia de campesinos pobres"
+      ]
+     ]
+    },
+    {
+     "t": "dato",
+     "titulo": "Otro ejemplo: la novela de la Revolución mexicana",
+     "texto": "**Mariano Azuela** (México, 1873-1952) fue médico en uno de los ejércitos de la Revolución mexicana. Con lo que vio escribió la novela _Los de abajo_ (1915), que cuenta la historia de **Demetrio Macías**, un campesino que se suma a la lucha. Por haberla vivido de cerca, Azuela le dio a su ficción mucha verosimilitud."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-04-revolucion.jpg",
+     "tipo": "foto",
+     "animacion": "alejar",
+     "alt": "Fotografía antigua en blanco y negro: un grupo de hombres con sombreros de ala ancha, de pie, y un grupo de mujeres con rebozos, sentadas adelante.",
+     "epigrafe": "Insurrectos y mujeres durante la Revolución mexicana, entre 1910 y 1915: la época que cuenta Los de abajo.",
+     "fuente": "Bain News Service, Biblioteca del Congreso de los Estados Unidos, vía Wikimedia Commons (sin restricciones conocidas)."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Qué es la verosimilitud?",
+     "opciones": [
+      "La sensación de que podría haber pasado",
+      "La obligación de contar solo hechos reales",
+      "El final feliz que tiene un relato",
+      "La cantidad de páginas de una obra"
+     ],
+     "correcta": 0,
+     "explicacion": "Una ficción puede ser verosímil aunque nada de lo que cuenta haya pasado de verdad.",
+     "pista": "Releé el primer texto de esta parte."
+    },
+    {
+     "t": "observar",
+     "_imagen": true,
+     "etiqueta": "🔎 Mirá con atención",
+     "consigna": "Mirá la ilustración del cuento de Rulfo como lo haría un lector o una lectora atenta.",
+     "imagen": {
+      "src": "img/clases/len-4-04-creciente.svg",
+      "tipo": "grafico",
+      "alt": "Un río marrón muy crecido, bajo la lluvia, arrastra troncos y una vaca. En la orilla, tres personas de espaldas miran el agua.",
+      "epigrafe": "La creciente del río, en el cuento de Rulfo. Ilustración elaborada para esta clase.",
+      "animacion": "svg"
+     },
+     "preguntas": [
+      {
+       "pregunta": "¿Qué detalle concreto del cuento muestra la ilustración?",
+       "opciones": [
+        "El río crecido que arrastra a la vaca",
+        "Una fiesta con música en la plaza del pueblo",
+        "Un barco que navega en el mar",
+        "Una ciudad con edificios altos"
+       ],
+       "correcta": 0,
+       "explicacion": "Los detalles concretos ayudan a que el relato sea verosímil.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      },
+      {
+       "pregunta": "¿Qué personajes del cuento podrían ser las personas de la orilla?",
+       "opciones": [
+        "El narrador y su familia",
+        "Odiseo y sus compañeros",
+        "Un detective y su ayudante",
+        "Antígona e Ismene"
+       ],
+       "correcta": 0,
+       "explicacion": "En el cuento, la familia mira cómo crece el río.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      }
+     ]
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "Los relatos realistas latinoamericanos son [[ficciones]], pero buscan que quien lee sienta que eso podría haber pasado: son [[verosímiles]]. En el cuento de Rulfo, el narrador es un [[niño]] y los personajes son [[campesinos]] pobres.",
+     "distractores": [
+      "crónicas",
+      "imposibles",
+      "reyes"
+     ],
+     "explicacion": "Así construyen la verdad los relatos realistas.",
+     "pista": "Todas las palabras están en los textos de esta parte.",
+     "_nuevo": true
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué Rulfo eligió que el cuento lo contara un niño y no un narrador omnisciente?",
+     "respuesta": "Porque el niño vive la situación desde adentro: cuenta lo que ve y oye, con sus palabras y sin entender todo. Eso hace que quien lee sienta la tristeza de la familia de cerca, como si la estuviera viviendo. Un narrador omnisciente lo contaría desde más lejos."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá cómo construye la verdad el relato latinoamericano o argentino que leíste. Hacelo con el relato latinoamericano o argentino que trabajaste con tu docente. Si no te indicaron ninguno, usá \"Es que somos muy pobres\", el ejemplo de esta clase. Contá de qué trata y mostrá con ejemplos qué recursos lo hacen verosímil.",
+    "guia": [
+     "¿Cómo se llama el relato, quién lo escribió y de dónde es?",
+     "¿De qué trata?",
+     "¿Quién cuenta la historia?",
+     "¿Qué palabras o formas de hablar de la región aparecen?",
+     "¿Qué detalles concretos hacen que parezca real?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Un relato verosímil tiene que contar hechos que pasaron de verdad.",
+     "respuesta": false,
+     "explicacion": "Es una ficción, pero creíble dentro de su mundo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En \"Es que somos muy pobres\" el narrador es un niño.",
+     "respuesta": true,
+     "explicacion": "Cuenta en primera persona lo que le pasa a su familia."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Juan Rulfo era mexicano.",
+     "respuesta": true,
+     "explicacion": "Publicó el cuento en 1953, en El llano en llamas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los de abajo es una novela de la Revolución mexicana.",
+     "respuesta": true,
+     "explicacion": "La escribió Mariano Azuela, que fue médico en esa guerra."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Para construir la verdad, los relatos realistas evitan los detalles concretos.",
+     "respuesta": false,
+     "explicacion": "Los detalles concretos ayudan a que el relato sea creíble."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Tacha es la hermana del narrador.",
+     "respuesta": true,
+     "explicacion": "El padre le había dado la vaca."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué se lleva la creciente del río en el cuento de Rulfo?",
+     "opciones": [
+      "La vaca de Tacha",
+      "La casa de la familia",
+      "Al padre",
+      "Al narrador"
+     ],
+     "correcta": 0,
+     "explicacion": "Se llamaba la Serpentina."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Quién escribió Los de abajo?",
+     "opciones": [
+      "Mariano Azuela",
+      "Juan Rulfo",
+      "Homero",
+      "Sófocles"
+     ],
+     "correcta": 0,
+     "explicacion": "En 1915."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos es un recurso para construir la verdad?",
+     "opciones": [
+      "Usar la lengua de la región",
+      "Poner dragones sin explicación",
+      "Contarlo todo en verso",
+      "No dar ningún detalle"
+     ],
+     "correcta": 0,
+     "explicacion": "La forma de hablar del lugar hace creíble el relato."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo se llama el protagonista de Los de abajo?",
+     "opciones": [
+      "Demetrio Macías",
+      "Juan Rulfo",
+      "Odiseo",
+      "Creonte"
+     ],
+     "correcta": 0,
+     "explicacion": "Un campesino que se suma a la lucha."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué libro está \"Es que somos muy pobres\"?",
+     "opciones": [
+      "El llano en llamas",
+      "Los de abajo",
+      "La Odisea",
+      "Facundo"
+     ],
+     "correcta": 0,
+     "explicacion": "Es un libro de cuentos de 1953."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tipo de personajes suelen tener los relatos realistas latinoamericanos?",
+     "opciones": [
+      "Personajes comunes, como campesinos",
+      "Solo reyes y dioses que viven en el Olimpo",
+      "Solo superhéroes con poderes",
+      "Solo animales que hablan"
+     ],
+     "correcta": 0,
+     "explicacion": "Muestran la vida de la gente común."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "VEROSÍMIL",
+     "pista": "Creíble dentro del mundo del relato."
+    },
+    {
+     "palabra": "RULFO",
+     "pista": "Autor de \"Es que somos muy pobres\"."
+    },
+    {
+     "palabra": "TACHA",
+     "pista": "Hermana del narrador en el cuento de Rulfo."
+    },
+    {
+     "palabra": "AZUELA",
+     "pista": "Autor de Los de abajo."
+    },
+    {
+     "palabra": "CRECIENTE",
+     "pista": "Subida del río que se lleva la vaca."
+    },
+    {
+     "palabra": "REALIDAD",
+     "pista": "Lo que muchos autores latinoamericanos quisieron mostrar."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué un cuento inventado puede mostrar la realidad de un lugar?",
+     "opciones": [
+      "Porque construye un mundo creíble",
+      "Porque cuenta solo noticias reales",
+      "Porque lo escribió un periodista",
+      "Porque copia lo que pasó en un diario"
+     ],
+     "correcta": 0,
+     "explicacion": "Ficción no es lo mismo que mentira: es una manera de mostrar la realidad."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué aporta que el narrador sea un niño de la familia?",
+     "opciones": [
+      "La historia se siente de cerca",
+      "El cuento se vuelve de humor",
+      "Desaparece el conflicto del relato",
+      "Se convierte en una tragedia griega"
+     ],
+     "correcta": 0,
+     "explicacion": "Cuenta lo que vive con sus propias palabras."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Que Azuela haya vivido la Revolución mexicana le dio verosimilitud a su novela.",
+     "respuesta": true,
+     "explicacion": "Conocía de cerca lo que contaba."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Literatura de las regiones e identidad",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "La literatura de las regiones",
+     "texto": "La Argentina y América Latina tienen regiones muy distintas: la montaña, la llanura, el litoral de los ríos, el monte. Muchas obras literarias cuentan **cómo se vive en una región**: su paisaje, su clima, sus trabajos, sus fiestas, su historia y su manera de hablar.\n\nEsas obras ayudan a **construir la identidad** de un lugar: muestran cómo es su gente y qué la hace distinta. Quien vive allí puede reconocerse en ellas, y quien vive lejos puede conocer otras formas de vida."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-04-quebrachos.jpg",
+     "tipo": "foto",
+     "animacion": "recorrer-izq",
+     "alt": "Tres fotografías de árboles altos y aislados en el campo, una al lado de la otra.",
+     "epigrafe": "Árboles del monte chaqueño. De izquierda a derecha: quebracho colorado santiagueño, quebracho blanco y quebracho colorado.",
+     "fuente": "Foto: Juan Antonio Alberto (composición de Peer V), CC BY-SA 3.0, vía Wikimedia Commons."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Qué buscar en un relato regional",
+     "texto": "• **El paisaje**: cómo se describe el lugar y cómo influye en la vida de los personajes.\n• **Los trabajos y las costumbres**: de qué viven, qué comen, cómo festejan.\n• **La lengua**: palabras propias de la región y formas de hablar.\n• **La historia**: hechos del pasado de ese lugar que aparecen en la obra."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-04-regional.svg",
+     "tipo": "grafico",
+     "alt": "Cuatro tarjetas con un dibujo cada una: el paisaje, los trabajos y las costumbres, la lengua y la historia.",
+     "epigrafe": "Lo que conviene buscar al leer un relato regional. Ilustración elaborada para esta clase."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Un ejemplo: la novela histórica",
+     "texto": "La **novela histórica** mezcla **hechos y personajes reales** del pasado con **personajes y situaciones inventados**. El escritor argentino **Abelardo Arias**, muy vinculado a Mendoza, escribió _Polvo y espanto_ (1971), una novela histórica ambientada en **Santiago del Estero** hacia 1840, durante las luchas entre unitarios y federales.\n\nLa novela está dividida en dos partes: una cuenta los hechos desde la mirada de una mujer de familia unitaria y la otra desde la del gobernador federal. Así, quien lee conoce **las dos miradas** sobre la misma época."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Ficción y realidad en la novela histórica",
+     "columnas": [
+      "",
+      "Qué toma de la realidad",
+      "Qué inventa"
+     ],
+     "filas": [
+      [
+       "Lugares",
+       "Ciudades, ríos y paisajes que existen",
+       "Escenas dentro de esos lugares"
+      ],
+      [
+       "Personajes",
+       "Personas que existieron",
+       "Lo que piensan, sienten y dicen"
+      ],
+      [
+       "Hechos",
+       "Acontecimientos del pasado",
+       "Diálogos y detalles de la vida diaria"
+      ]
+     ]
+    },
+    {
+     "t": "linea",
+     "titulo": "Las obras de esta clase en el tiempo",
+     "eventos": [
+      {
+       "anio": "1915",
+       "titulo": "Los de abajo",
+       "texto": "Mariano Azuela, novela de la Revolución mexicana."
+      },
+      {
+       "anio": "1953",
+       "titulo": "El llano en llamas",
+       "texto": "Juan Rulfo publica el libro donde está \"Es que somos muy pobres\"."
+      },
+      {
+       "anio": "1970",
+       "titulo": "Relato de un náufrago",
+       "texto": "Sale como libro la historia que García Márquez publicó en un diario en 1955."
+      },
+      {
+       "anio": "1971",
+       "titulo": "Polvo y espanto",
+       "texto": "Abelardo Arias publica su novela histórica."
+      }
+     ]
+    },
+    {
+     "t": "clasificar",
+     "consigna": "En una novela histórica, ¿cada elemento viene de la realidad o es inventado?",
+     "categorias": [
+      "De la realidad",
+      "Inventado"
+     ],
+     "items": [
+      {
+       "texto": "La ciudad donde transcurre",
+       "cat": "De la realidad"
+      },
+      {
+       "texto": "La época en que transcurre",
+       "cat": "De la realidad"
+      },
+      {
+       "texto": "Una persona que existió",
+       "cat": "De la realidad"
+      },
+      {
+       "texto": "Lo que esa persona piensa en una escena",
+       "cat": "Inventado"
+      },
+      {
+       "texto": "Un diálogo en una cocina",
+       "cat": "Inventado"
+      },
+      {
+       "texto": "Un personaje secundario creado por el autor",
+       "cat": "Inventado"
+      }
+     ],
+     "explicacion": "La novela histórica toma lugares, épocas y personas reales, e inventa lo que no se puede saber."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada elemento de un relato regional con un ejemplo.",
+     "pares": [
+      {
+       "a": "El paisaje",
+       "b": "Un río que crece y lo arrasa todo"
+      },
+      {
+       "a": "Los trabajos",
+       "b": "Una familia que vive de su vaca y su campo"
+      },
+      {
+       "a": "La lengua",
+       "b": "Palabras propias de la gente del lugar"
+      },
+      {
+       "a": "La historia",
+       "b": "Las luchas de una época del pasado"
+      }
+     ],
+     "explicacion": "Estos elementos muestran la identidad de una región.",
+     "pista": "Releé el recuadro de qué buscar en un relato regional.",
+     "_nuevo": true
+    },
+    {
+     "t": "opcion",
+     "pregunta": "\"Yo nací en Santiago del Estero y mi familia era unitaria: así viví esos años.\" ¿Quién podría decirlo en Polvo y espanto?",
+     "opciones": [
+      "La mujer que cuenta una de las partes",
+      "El gobernador federal de la provincia",
+      "Odiseo, al volver a Ítaca",
+      "El narrador del cuento de Rulfo"
+     ],
+     "correcta": 0,
+     "explicacion": "Una parte de la novela cuenta los hechos desde la mirada de una mujer de familia unitaria.",
+     "pista": "Releé el ejemplo de la novela histórica.",
+     "etiqueta": "🗣️ ¿Quién lo diría?"
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Cómo se llama la novela que mezcla hechos y personajes reales del pasado con situaciones inventadas?",
+     "respuesta": "novela histórica",
+     "explicacion": "Polvo y espanto, de Abelardo Arias, es un ejemplo.",
+     "pista": "Está en el ejemplo de esta parte.",
+     "formato": "Escribí las dos palabras.",
+     "acepta": [
+      "novela historica",
+      "la novela historica"
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: si escribieras un relato sobre tu ciudad o tu pueblo, ¿qué paisaje, qué trabajo y qué palabras del lugar no podrían faltar?",
+     "respuesta": "Depende de cada lugar. Por ejemplo, en un pueblo de la llanura santafesina podrían aparecer los campos sembrados, el trabajo de la cosecha y palabras que se usan en la zona. Esos detalles son los que le dan identidad a un relato regional."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué rasgos de una región aparecen en el relato que leíste y cómo ayudan a construir la identidad del lugar. Hacelo con el relato latinoamericano o argentino que trabajaste con tu docente. Si no te indicaron ninguno, usá \"Es que somos muy pobres\", el ejemplo de esta clase.",
+    "guia": [
+     "¿En qué región transcurre la historia?",
+     "¿Cómo es el paisaje y cómo influye en los personajes?",
+     "¿De qué trabajan los personajes y qué costumbres tienen?",
+     "¿Qué palabras o formas de hablar propias del lugar aparecen?",
+     "¿Qué aprendiste sobre esa región al leerlo?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La literatura de las regiones cuenta cómo se vive en un lugar.",
+     "respuesta": true,
+     "explicacion": "Su paisaje, sus trabajos, su lengua y su historia."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La novela histórica cuenta solamente hechos reales, sin inventar nada.",
+     "respuesta": false,
+     "explicacion": "Mezcla hechos reales con situaciones inventadas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Polvo y espanto es una novela de Abelardo Arias.",
+     "respuesta": true,
+     "explicacion": "Se publicó en 1971."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Polvo y espanto cuenta los hechos desde dos miradas distintas.",
+     "respuesta": true,
+     "explicacion": "Una desde una familia unitaria y otra desde el gobernador federal."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El paisaje nunca influye en la vida de los personajes.",
+     "respuesta": false,
+     "explicacion": "Muchas veces la influye mucho: un río, una sequía, la montaña."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Quien vive lejos puede conocer otras formas de vida a través de la literatura regional.",
+     "respuesta": true,
+     "explicacion": "Y quien vive allí puede reconocerse."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde está ambientada Polvo y espanto?",
+     "opciones": [
+      "En Santiago del Estero",
+      "En Troya",
+      "En México",
+      "En Atenas"
+     ],
+     "correcta": 0,
+     "explicacion": "Hacia 1840."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué mezcla la novela histórica?",
+     "opciones": [
+      "Hechos reales con situaciones inventadas",
+      "Poemas de amor con recetas de cocina tradicional",
+      "Noticias de hoy con avisos clasificados",
+      "Mitos griegos con dioses del Olimpo"
+     ],
+     "correcta": 0,
+     "explicacion": "Toma la época y los lugares, e inventa lo que no se sabe."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es lo que la novela histórica suele inventar?",
+     "opciones": [
+      "Lo que piensan y dicen los personajes",
+      "La ciudad donde pasan los hechos",
+      "La época en que transcurre la historia",
+      "Los ríos y montañas del lugar"
+     ],
+     "correcta": 0,
+     "explicacion": "Eso no se puede saber de los documentos."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál de estos es un elemento para buscar en un relato regional?",
+     "opciones": [
+      "La lengua del lugar",
+      "El precio del libro",
+      "El color de la tapa",
+      "La cantidad de páginas"
+     ],
+     "correcta": 0,
+     "explicacion": "También el paisaje, los trabajos y la historia."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué es interesante que una novela muestre dos miradas sobre una misma época?",
+     "opciones": [
+      "Porque muestra cómo veía los hechos cada grupo",
+      "Porque así la novela es más corta y fácil de leer",
+      "Porque así no hay ningún conflicto",
+      "Porque así se convierte en un poema"
+     ],
+     "correcta": 0,
+     "explicacion": "Cada mirada muestra una parte de la historia."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué construye la literatura de las regiones?",
+     "opciones": [
+      "La identidad de un lugar",
+      "Los edificios de una ciudad",
+      "Las leyes de una provincia",
+      "El mapa de una región"
+     ],
+     "correcta": 0,
+     "explicacion": "Muestra qué hace distinta a su gente."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "REGIÓN",
+     "pista": "Zona con paisaje, costumbres y habla propias."
+    },
+    {
+     "palabra": "IDENTIDAD",
+     "pista": "Lo que hace distinto a un lugar y a su gente."
+    },
+    {
+     "palabra": "PAISAJE",
+     "pista": "Cómo es el lugar donde transcurre la historia."
+    },
+    {
+     "palabra": "HISTÓRICA",
+     "pista": "Novela ___: mezcla hechos reales con invención."
+    },
+    {
+     "palabra": "ARIAS",
+     "pista": "Autor de Polvo y espanto."
+    },
+    {
+     "palabra": "COSTUMBRES",
+     "pista": "Formas de vivir y de festejar de un lugar."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tienen en común el cuento de Rulfo y la literatura de las regiones?",
+     "opciones": [
+      "Los dos muestran cómo vive la gente de un lugar",
+      "Los dos son tragedias griegas con un coro que canta",
+      "Los dos transcurren en alta mar",
+      "Los dos cuentan hechos imposibles"
+     ],
+     "correcta": 0,
+     "explicacion": "El cuento de Rulfo también es regional: el campo mexicano."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En una novela histórica, ¿por qué el autor necesita inventar?",
+     "opciones": [
+      "Porque los documentos no dicen qué pensaban",
+      "Porque no conoce bien la historia de esa época",
+      "Porque está prohibido usar hechos reales",
+      "Porque así la novela termina más rápido"
+     ],
+     "correcta": 0,
+     "explicacion": "La ficción completa lo que la historia no cuenta."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Leer literatura de otras regiones permite conocer formas de vida distintas de la propia.",
+     "respuesta": true,
+     "explicacion": "Es una de sus riquezas."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Literatura y periodismo: la crónica y el relato testimonial",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Cuando la literatura cuenta hechos reales",
+     "texto": "Hay textos que están en el cruce entre la **literatura** y el **periodismo**: cuentan **hechos reales**, investigados como en una nota periodística, pero usan recursos de la literatura, como un narrador, escenas, diálogos y descripciones.\n\nDos de esos géneros son la **crónica** y el **relato testimonial**. La diferencia con la ficción es que lo que cuentan **pasó de verdad**."
+    },
+    {
+     "t": "comparar",
+     "titulo": "La noticia, la crónica y el relato testimonial",
+     "columnas": [
+      "",
+      "Noticia",
+      "Crónica",
+      "Relato testimonial"
+     ],
+     "filas": [
+      [
+       "Qué cuenta",
+       "Un hecho real y reciente",
+       "Un hecho real, contado en orden y con detalle",
+       "Un hecho real, contado por quien lo vivió"
+      ],
+      [
+       "Cómo lo cuenta",
+       "Breve, con los datos principales",
+       "Con escenas, descripciones y la mirada de quien escribe",
+       "En primera persona, con la voz del testigo"
+      ],
+      [
+       "Qué busca",
+       "Informar rápido",
+       "Que quien lee entienda y sienta lo que pasó",
+       "Dar a conocer una experiencia y hacer oír a quien la vivió"
+      ]
+     ]
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-04-diario.svg",
+     "tipo": "grafico",
+     "alt": "Tres textos sobre el mismo hecho: una noticia breve, una crónica más larga y un relato testimonial en primera persona.",
+     "epigrafe": "El mismo hecho, el del náufrago, contado en una noticia, en una crónica y en un relato testimonial. Ilustración elaborada para esta clase."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Un ejemplo: \"Relato de un náufrago\"",
+     "texto": "En 1955, un marinero colombiano, **Luis Alejandro Velasco**, cayó al mar desde un barco de la Armada y sobrevivió **diez días** en una balsa, sin comida ni agua dulce. El periodista **Gabriel García Márquez** lo entrevistó durante muchas horas y escribió su historia **en primera persona**, como si la contara el propio marinero.\n\nSe publicó primero en un diario, por entregas, y en 1970 como libro: _Relato de un náufrago_. Es un hecho real, pero se lee como una novela de aventuras."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Leer con ojo crítico",
+     "texto": "Un relato testimonial o una crónica cuentan los hechos **desde una mirada**. Por eso conviene **confrontar versiones**: comparar ese relato con otras fuentes, como notas periodísticas, documentos o testimonios de otras personas, y preguntarse **desde dónde habla** quien cuenta."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada género con su rasgo principal.",
+     "pares": [
+      {
+       "a": "Noticia",
+       "b": "Informa un hecho reciente, en forma breve"
+      },
+      {
+       "a": "Crónica",
+       "b": "Cuenta un hecho real en orden, con escenas y detalles"
+      },
+      {
+       "a": "Relato testimonial",
+       "b": "Cuenta un hecho real con la voz de quien lo vivió"
+      },
+      {
+       "a": "Cuento realista",
+       "b": "Cuenta una ficción que parece real"
+      }
+     ],
+     "explicacion": "Los tres primeros cuentan hechos reales; el cuento realista es ficción verosímil.",
+     "pista": "Releé la tabla y el primer texto de esta parte.",
+     "_nuevo": true
+    },
+    {
+     "t": "opcion",
+     "pregunta": "Una noticia breve informa lo que le pasó al marinero de \"Relato de un náufrago\". ¿Qué titular corresponde a una noticia?",
+     "opciones": [
+      "Un marinero sobrevivió diez días en una balsa",
+      "Así viví mis diez días a la deriva en el mar",
+      "¡Increíble! Nadie lo podía creer cuando llegó",
+      "El mar es hermoso y peligroso a la vez"
+     ],
+     "correcta": 0,
+     "explicacion": "La noticia informa el hecho de manera breve y con los datos principales; \"Así viví…\" sería un testimonio en primera persona.",
+     "pista": "Releé la tabla de la noticia, la crónica y el relato testimonial.",
+     "etiqueta": "📰 Elegí el titular"
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Cuántos días sobrevivió en la balsa el marinero de \"Relato de un náufrago\"?",
+     "respuesta": "10",
+     "explicacion": "Diez días, sin comida ni agua dulce.",
+     "pista": "Está en el ejemplo de esta parte.",
+     "formato": "Escribí solo el número.",
+     "acepta": [
+      "10",
+      "diez"
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué conviene confrontar un relato testimonial con otras fuentes?",
+     "respuesta": "Porque quien da testimonio cuenta lo que vivió desde su lugar: puede recordar algunas cosas y no otras, o ver los hechos de una manera particular. Comparar con otras fuentes permite tener una visión más completa y entender desde dónde habla cada voz."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué tienen en común y en qué se diferencian la noticia, la crónica y el relato testimonial. Usá como ejemplo \"Relato de un náufrago\" y explicá por qué conviene confrontar versiones.",
+    "guia": [
+     "¿Qué tienen en común la crónica y el relato testimonial con el periodismo?",
+     "¿Qué recursos toman de la literatura?",
+     "¿En qué se diferencia el relato testimonial de la noticia?",
+     "¿Qué cuenta Relato de un náufrago y por qué es un relato testimonial?",
+     "¿Por qué conviene comparar un testimonio con otras fuentes?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La crónica y el relato testimonial cuentan hechos reales.",
+     "respuesta": true,
+     "explicacion": "Por eso están entre la literatura y el periodismo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El relato testimonial se cuenta con la voz de quien vivió los hechos.",
+     "respuesta": true,
+     "explicacion": "En general, en primera persona."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Relato de un náufrago es un cuento inventado.",
+     "respuesta": false,
+     "explicacion": "Cuenta lo que vivió de verdad un marinero colombiano en 1955."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La noticia busca informar rápido, con los datos principales.",
+     "respuesta": true,
+     "explicacion": "Es breve."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Para leer críticamente un testimonio, hay que creerle sin compararlo con nada.",
+     "respuesta": false,
+     "explicacion": "Conviene confrontar versiones con otras fuentes."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Gabriel García Márquez escribió la historia del náufrago en primera persona.",
+     "respuesta": true,
+     "explicacion": "Como si la contara el propio marinero."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Quién escribió Relato de un náufrago?",
+     "opciones": [
+      "Gabriel García Márquez",
+      "Juan Rulfo",
+      "Mariano Azuela",
+      "Homero"
+     ],
+     "correcta": 0,
+     "explicacion": "A partir de entrevistas con el marinero."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué recursos toma la crónica de la literatura?",
+     "opciones": [
+      "Escenas, descripciones y diálogos",
+      "Solo números y estadísticas oficiales",
+      "Rimas y versos medidos",
+      "Un coro que comenta la acción"
+     ],
+     "correcta": 0,
+     "explicacion": "Por eso se lee como un relato."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa confrontar versiones?",
+     "opciones": [
+      "Comparar un relato con otras fuentes",
+      "Copiar un relato tal como está escrito",
+      "Leer una sola fuente con atención",
+      "Cambiar el final de un relato"
+     ],
+     "correcta": 0,
+     "explicacion": "Ayuda a tener una visión más completa."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde se publicó primero la historia del náufrago?",
+     "opciones": [
+      "En un diario, por entregas",
+      "En un libro de poemas",
+      "En una obra de teatro",
+      "En una revista de cocina"
+     ],
+     "correcta": 0,
+     "explicacion": "Como libro salió en 1970."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué texto cuenta una ficción que parece real?",
+     "opciones": [
+      "El cuento realista",
+      "La noticia",
+      "El relato testimonial",
+      "La crónica"
+     ],
+     "correcta": 0,
+     "explicacion": "Los otros cuentan hechos reales."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es el rasgo principal del relato testimonial?",
+     "opciones": [
+      "Da la voz de quien vivió los hechos",
+      "Cuenta hechos inventados por el autor",
+      "Está escrito en versos rimados",
+      "Tiene un detective que investiga"
+     ],
+     "correcta": 0,
+     "explicacion": "Hace oír una experiencia real."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "CRÓNICA",
+     "pista": "Relato de un hecho real, en orden y con detalles."
+    },
+    {
+     "palabra": "TESTIMONIO",
+     "pista": "Relato de quien vivió un hecho."
+    },
+    {
+     "palabra": "NOTICIA",
+     "pista": "Texto breve que informa un hecho reciente."
+    },
+    {
+     "palabra": "NÁUFRAGO",
+     "pista": "Persona que sobrevive a un barco que se hunde o cae al mar."
+    },
+    {
+     "palabra": "PERIODISMO",
+     "pista": "Actividad de investigar y contar hechos reales."
+    },
+    {
+     "palabra": "FUENTES",
+     "pista": "Documentos y testimonios con los que se compara un relato."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "Un vecino cuenta en primera persona cómo vivió una inundación en su barrio. ¿Qué tipo de texto es?",
+     "opciones": [
+      "Un relato testimonial",
+      "Una tragedia griega",
+      "Un cuento fantástico",
+      "Un poema épico"
+     ],
+     "correcta": 0,
+     "explicacion": "Cuenta un hecho real quien lo vivió."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué Relato de un náufrago se lee como una novela de aventuras?",
+     "opciones": [
+      "Porque usa recursos de la literatura",
+      "Porque la historia que cuenta es inventada",
+      "Porque intervienen los dioses",
+      "Porque está escrito en verso"
+     ],
+     "correcta": 0,
+     "explicacion": "Narrador, escenas, tensión."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un relato testimonial cuenta los hechos desde una mirada, y por eso conviene confrontarlo con otras fuentes.",
+     "respuesta": true,
+     "explicacion": "Así se entiende desde dónde habla cada voz."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Verosimilitud",
+   "definicion": "Sensación de que lo que cuenta un relato podría haber pasado."
+  },
+  {
+   "palabra": "Ficción",
+   "definicion": "Historia inventada, aunque pueda parecer real."
+  },
+  {
+   "palabra": "Literatura regional",
+   "definicion": "Literatura que muestra el paisaje, las costumbres, la lengua y la historia de un lugar."
+  },
+  {
+   "palabra": "Identidad",
+   "definicion": "Lo que hace distinto a un lugar y a su gente."
+  },
+  {
+   "palabra": "Novela histórica",
+   "definicion": "Novela que mezcla hechos y personajes reales del pasado con situaciones inventadas."
+  },
+  {
+   "palabra": "Crónica",
+   "definicion": "Relato de un hecho real, contado en orden y con detalles."
+  },
+  {
+   "palabra": "Relato testimonial",
+   "definicion": "Relato de un hecho real contado con la voz de quien lo vivió."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Pensar que si un relato es ficción, entonces no dice nada verdadero.",
+   "aclaracion": "Una ficción puede mostrar con mucha verdad cómo vive la gente de un lugar."
+  },
+  {
+   "error": "Creer que la novela histórica solo cuenta lo que pasó.",
+   "aclaracion": "Mezcla hechos reales con invención."
+  },
+  {
+   "error": "Confundir el relato testimonial con un cuento.",
+   "aclaracion": "El testimonio cuenta hechos reales; el cuento, aunque sea realista, es ficción."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "¿Qué historia de tu familia o de tu barrio te gustaría contar como una crónica? ¿A quién entrevistarías?",
+  "conexion": "Con la clase de cómo analizar una obra literaria: el contexto de producción ayuda a entender por qué estos autores contaron la realidad de su tiempo."
+ }
+}

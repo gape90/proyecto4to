@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Autoevaluación general · Acompañamiento Pedagógico</title>
+<link rel="stylesheet" href="css/potenciar.css">
+</head>
+<body>
+<div id="cab"></div>
+<main class="contenedor"><div id="cuerpo"><p class="ayuda">Cargando…</p></div></main>
+<script type="module">
+import { montarAsistente } from './js/asistente.js';
+import { leer, actualizar, esc, cargarJSON, cabecera } from './js/estado.js';
+import { montarAutoevaluacion } from './js/motor.js';
+
+document.getElementById('cab').innerHTML = cabecera({ volver: { href: 'recorrido.html', texto: 'Mi recorrido' } });
+const mezclar = a => { const b = [...a]; for (let i = b.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [b[i], b[j]] = [b[j], b[i]]; } return b; };
+try {
+  const e = leer();
+  const esp = new URLSearchParams(location.search).get('e') || e.espacio;
+  if (!/^[a-z0-9-]+$/.test(esp || '')) throw new Error('Espacio no válido');
+  const cat = await cargarJSON('contenidos/catalogo.json');
+  const contenidos = (cat.contenidos[esp] || []).filter(c => e.seleccion.includes(c.id) && c.activo && c.clase);
+  const integ = await cargarJSON(`contenidos/autoevaluacion/${esp}.json`).catch(() => ({ pares: {} }));
+  // Cuántas preguntas aparecen: 2 contenidos, 8 · 3 contenidos, 15 · 4 y 5, 20 · 6 y 7, 25 · 8 o más, 30.
+  // Una parte son de cada clase y otra parte relaciona los contenidos elegidos entre sí.
+  const n = contenidos.length;
+  const clases = {};
+  for (const c of contenidos) clases[c.id] = await cargarJSON(`contenidos/clases/${c.clase}.json`);
+  const porClase = n <= 3 || n >= 6 ? 3 : 2;   // 2 contenidos: 6 · 3 contenidos: 9 · 4 y 5: 2 de cada uno · 6 o más: 3 de cada uno
+  const porPar = n === 2 ? 5 : n === 3 ? 3 : 2; // 2 contenidos: 5 · 3 contenidos: 9 · 4 o más: 2 por par
+  const tope = n >= 8 ? 30 : n >= 6 ? 25 : 20;
+  const armar = () => {
+    const deClase = [], relacionan = [];
+    for (const c of contenidos) {
+      const clase = clases[c.id];
+      // primero una pregunta de cada parte, después el resto al azar
+      const porParte = clase.capsulas.map(k => mezclar(k.autoevaluacion || []));
+      const orden = [...porParte.map(x => x[0]), ...mezclar(porParte.flatMap(x => x.slice(1)))].filter(Boolean);
+      deClase.push(...orden.slice(0, porClase).map(q => ({ ...q, parte: c.titulo })));
+    }
+    for (let a = 0; a < n; a++) for (let b = a + 1; b < n; b++) {
+      const par = integ.pares[`${contenidos[a].id}|${contenidos[b].id}`] || integ.pares[`${contenidos[b].id}|${contenidos[a].id}`] || [];
+      relacionan.push(...mezclar(par).slice(0, porPar).map(q => ({ ...q, parte: `Relaciona: ${contenidos[a].titulo} y ${contenidos[b].titulo}` })));
+    }
+    let preguntas = [...deClase, ...relacionan];
+    if (preguntas.length > tope) {
+      // La mitad, más o menos, son de las clases (al menos una de cada contenido) y el resto relaciona contenidos, de pares distintos
+      const mitad = Math.min(deClase.length, Math.max(n, Math.floor(tope / 2)));
+      const unaPorClase = mezclar(contenidos.map(c => deClase.find(q => q.parte === c.titulo)).filter(Boolean));
+      const propias = [...unaPorClase, ...mezclar(deClase.filter(q => !unaPorClase.includes(q)))].slice(0, mitad);
+      const unaPorPar = []; const vistos = new Set();
+      for (const q of mezclar(relacionan)) { if (!vistos.has(q.parte)) { vistos.add(q.parte); unaPorPar.push(q); } }
+      const resto = mezclar(relacionan.filter(q => !unaPorPar.includes(q)));
+      preguntas = [...propias, ...[...unaPorPar, ...resto].slice(0, tope - propias.length)];
+    }
+    return preguntas;
+  };
+  const preguntas = armar();
+  document.getElementById('cuerpo').innerHTML = `<div class="clase-cab"><div class="eje-nombre">Repaso de todos tus temas</div><h1>Autoevaluación general</h1>
+    <p>Terminaste las clases. Ahora repasá todos los contenidos juntos: son ${preguntas.length} preguntas. Algunas son de cada tema y otras, las que dicen "Relaciona", los conectan entre sí, como te pueden preguntar en febrero.</p>
+    <p><b>Para practicar:</b> podés hacer esta autoevaluación todas las veces que quieras. Cada vez aparecen preguntas distintas, así que es una buena manera de probarte con lo que podría preguntarte tu profesor o profesora cuando presentes y defiendas tu trabajo.</p></div>
+    <div class="tarjeta" id="ae"></div>
+    <div class="acciones"><a class="btn" href="recorrido.html">Volver a mi recorrido →</a></div>`;
+  montarAutoevaluacion(document.getElementById('ae'), preguntas, {
+    titulo: 'Autoevaluación general',
+    intro: 'No tiene nota y la podés repetir tantas veces como quieras para practicar: cada vez aparecen preguntas distintas, como las que podría hacerte tu profesor o profesora. Después de cada respuesta vas a ver una explicación; si una pregunta te cuesta, volvé a ese tema en el material.',
+    nuevas: armar,
+    onFin: (bien, total) => actualizar(x => { x.repaso ??= {}; const m = x.repaso[esp]; if (!m || bien / total >= m.bien / m.total) x.repaso[esp] = { bien, total }; }),
+  });
+} catch (err) {
+  document.getElementById('cuerpo').innerHTML = `<div class="tarjeta"><b>No se pudo abrir la autoevaluación.</b><br>${esc(err.message)}<br><a href="recorrido.html">Volver a mi recorrido</a></div>`;
+}
+montarAsistente();
+</script>
+</body>
+</html>

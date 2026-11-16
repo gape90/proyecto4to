@@ -1,0 +1,1043 @@
+{
+ "id": "len-4-03",
+ "espacio": "lengua",
+ "eje": "Lectura y escritura de textos literarios",
+ "titulo": "La épica: el relato de los héroes",
+ "intro": "La épica es uno de los géneros más antiguos: cuenta las hazañas de héroes que enfrentan grandes peligros. Vas a conocer por qué se la llama relato fundacional, qué cuentan los textos homéricos y cómo es el viaje del héroe. Usamos como ejemplo la Odisea, de Homero. Si con tu docente leyeron otro relato épico, todo lo que aprendas acá te sirve para analizarlo.",
+ "objetivos": [
+  "Explicar qué es la épica y por qué es un relato fundacional.",
+  "Contar de qué tratan la Ilíada y la Odisea y reconocer a sus personajes.",
+  "Analizar al héroe épico y las etapas de su viaje."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés qué es la épica, el argumento del relato épico que trabajaste y el análisis de su héroe y su viaje.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "La épica, un relato que funda un pueblo",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "¿Qué es la épica?",
+     "texto": "La **épica** es uno de los géneros más antiguos de la literatura. Cuenta, en general en verso, las **hazañas de un héroe** que enfrenta grandes peligros, muchas veces con la ayuda o la oposición de los **dioses**.\n\nEn la antigua Grecia, los relatos épicos no se leían en libros: los recitaban de memoria unos poetas llamados **aedos**, que iban de ciudad en ciudad. Por eso la épica nació como un relato **oral**."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-03-aedo.svg",
+     "tipo": "grafico",
+     "alt": "Ilustración: un aedo de pie, con una lira, recita frente a cuatro personas sentadas que lo escuchan, entre dos columnas griegas.",
+     "epigrafe": "Un aedo recita de memoria: así circulaba la épica en la antigua Grecia. Ilustración elaborada para esta clase."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Un relato fundacional",
+     "texto": "Se dice que la épica es un **relato fundacional** porque cuenta historias que un pueblo considera parte de su origen y de su identidad. A través de sus héroes, muestra los **valores** que esa sociedad admiraba: la valentía, el honor, la astucia, la lealtad.\n\nLos griegos aprendían con los poemas de **Homero** qué era ser un héroe, cómo había que tratar a los dioses y cómo debía comportarse una persona de su comunidad."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-03-papiro.jpg",
+     "tipo": "foto",
+     "animacion": "bajar",
+     "alt": "Fotografía de un papiro antiguo, angosto y con agujeros, cubierto de renglones escritos a mano en letras griegas.",
+     "epigrafe": "Papiro del siglo II después de Cristo, hallado en Oxirrinco (Egipto), con comentarios sobre el canto XXI de la Ilíada. Siglos después de nacer como relato oral, la Ilíada se copiaba y se estudiaba por escrito.",
+     "fuente": "Papiro de Oxirrinco 221 (autor desconocido), vía Wikimedia Commons (dominio público)."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Los rasgos de la épica",
+     "columnas": [
+      "Rasgo",
+      "Qué significa"
+     ],
+     "filas": [
+      [
+       "Héroe",
+       "Un personaje extraordinario que realiza hazañas"
+      ],
+      [
+       "Dioses",
+       "Intervienen para ayudar o castigar a los personajes"
+      ],
+      [
+       "Narrador",
+       "Cuenta en tercera persona, con tono solemne"
+      ],
+      [
+       "Verso y oralidad",
+       "Se recitaba de memoria, en verso"
+      ],
+      [
+       "Epítetos",
+       "Frases que acompañan siempre a un nombre: \"Aquiles, el de los pies ligeros\""
+      ]
+     ]
+    },
+    {
+     "t": "comparar",
+     "titulo": "La épica y la tragedia griegas",
+     "columnas": [
+      "",
+      "Épica",
+      "Tragedia"
+     ],
+     "filas": [
+      [
+       "Género",
+       "Narrativo: un narrador cuenta",
+       "Dramático: se representa en un teatro"
+      ],
+      [
+       "Protagonista",
+       "Un héroe que realiza hazañas",
+       "Un héroe trágico que enfrenta un destino que no puede evitar"
+      ],
+      [
+       "Ejemplos",
+       "La Ilíada y la Odisea, de Homero",
+       "Antígona, de Sófocles"
+      ]
+     ]
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Por qué se dice que la épica es un relato fundacional?",
+     "opciones": [
+      "Porque cuenta el origen de un pueblo",
+      "Porque se escribió el día en que se fundó una ciudad",
+      "Porque siempre termina bien para el héroe",
+      "Porque la escribieron los mismos dioses"
+     ],
+     "correcta": 0,
+     "explicacion": "A través de sus héroes, la épica muestra lo que una sociedad admiraba.",
+     "pista": "Releé el recuadro del relato fundacional."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Cuál de estas afirmaciones sobre la épica es incorrecta?",
+     "opciones": [
+      "Nació como un relato escrito",
+      "Cuenta las hazañas de un héroe",
+      "Los dioses intervienen en la historia",
+      "Muestra los valores de un pueblo"
+     ],
+     "correcta": 0,
+     "explicacion": "La épica nació oral: los aedos la recitaban de memoria.",
+     "pista": "Releé el primer texto de esta parte.",
+     "etiqueta": "🔍 Encontrá el error"
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "La épica cuenta las [[hazañas]] de un héroe, muchas veces con la intervención de los [[dioses]]. Nació como un relato [[oral]]: los aedos la recitaban de memoria. Es un relato [[fundacional]] porque muestra el origen y los valores de un pueblo.",
+     "distractores": [
+      "derrotas",
+      "escrito",
+      "cómico"
+     ],
+     "explicacion": "Estos son los rasgos principales de la épica.",
+     "pista": "Todas las palabras están en los textos de esta parte.",
+     "_nuevo": true
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿qué valores muestran las historias de héroes que se cuentan hoy en las películas o las series?",
+     "respuesta": "Por ejemplo, las películas de superhéroes: personajes con poderes extraordinarios que enfrentan grandes peligros para salvar a su comunidad. Muestran valores como la valentía, la lealtad o el sacrificio, igual que la épica antigua mostraba lo que admiraban los griegos."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es la épica y por qué se dice que es un relato fundacional. Contá cómo circulaban los relatos épicos, cuáles son sus rasgos principales y en qué se diferencia la épica de la tragedia.",
+    "guia": [
+     "¿Qué cuenta la épica y quiénes intervienen?",
+     "¿Quiénes eran los aedos y cómo circulaban los relatos?",
+     "¿Por qué la épica es un relato fundacional?",
+     "¿Qué son los epítetos? Escribí un ejemplo.",
+     "¿En qué se diferencian la épica y la tragedia?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La épica cuenta las hazañas de un héroe.",
+     "respuesta": true,
+     "explicacion": "Muchas veces con la intervención de los dioses."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los relatos épicos griegos nacieron escritos en libros.",
+     "respuesta": false,
+     "explicacion": "Nacieron orales: los recitaban los aedos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un epíteto es una frase que acompaña siempre a un nombre.",
+     "respuesta": true,
+     "explicacion": "Por ejemplo: \"Aquiles, el de los pies ligeros\"."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La épica pertenece al género dramático.",
+     "respuesta": false,
+     "explicacion": "Es narrativa: un narrador cuenta. La tragedia es dramática."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La épica muestra los valores que una sociedad admiraba.",
+     "respuesta": true,
+     "explicacion": "Por eso se la llama relato fundacional."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la épica, los dioses nunca intervienen.",
+     "respuesta": false,
+     "explicacion": "Intervienen para ayudar o castigar a los personajes."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Quién es el autor de la Ilíada y la Odisea, según la tradición?",
+     "opciones": [
+      "Homero",
+      "Sófocles",
+      "Aristóteles",
+      "Dioniso"
+     ],
+     "correcta": 0,
+     "explicacion": "Sófocles escribió tragedias, como Antígona."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué eran los aedos?",
+     "opciones": [
+      "Poetas que recitaban de memoria",
+      "Actores que representaban tragedias",
+      "Dioses griegos que ayudaban a los héroes",
+      "Reyes de Atenas en la época de Homero"
+     ],
+     "correcta": 0,
+     "explicacion": "Iban de ciudad en ciudad."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué valores muestra la épica?",
+     "opciones": [
+      "Valentía, honor, astucia y lealtad",
+      "Pereza, egoísmo y miedo",
+      "La riqueza por encima de cualquier valor",
+      "La obediencia ciega al rey"
+     ],
+     "correcta": 0,
+     "explicacion": "Son los valores que admiraba la sociedad griega."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué persona cuenta el narrador de la épica?",
+     "opciones": [
+      "En tercera persona",
+      "En primera persona",
+      "No hay narrador",
+      "En segunda persona"
+     ],
+     "correcta": 0,
+     "explicacion": "Con un tono solemne."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tienen en común la épica y la tragedia griegas?",
+     "opciones": [
+      "Las dos tienen héroes griegos",
+      "Las dos se representan en teatros",
+      "Las dos terminan bien para el héroe",
+      "Las dos son poemas de amor"
+     ],
+     "correcta": 0,
+     "explicacion": "Pero una es narrativa y la otra dramática."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "\"Aquiles, el de los pies ligeros\". ¿Qué recurso es \"el de los pies ligeros\"?",
+     "opciones": [
+      "Un epíteto",
+      "Un diálogo",
+      "Una pregunta retórica",
+      "Un dato"
+     ],
+     "correcta": 0,
+     "explicacion": "Acompaña siempre al nombre del héroe."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "ÉPICA",
+     "pista": "Género que cuenta las hazañas de un héroe."
+    },
+    {
+     "palabra": "HÉROE",
+     "pista": "Personaje extraordinario que realiza hazañas."
+    },
+    {
+     "palabra": "AEDOS",
+     "pista": "Poetas griegos que recitaban de memoria."
+    },
+    {
+     "palabra": "HOMERO",
+     "pista": "Autor de la Ilíada y la Odisea, según la tradición."
+    },
+    {
+     "palabra": "EPÍTETO",
+     "pista": "Frase que acompaña siempre a un nombre."
+    },
+    {
+     "palabra": "HAZAÑA",
+     "pista": "Acción heroica y difícil."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué los epítetos eran útiles para los aedos?",
+     "opciones": [
+      "Porque ayudaban a recitar de memoria",
+      "Porque hacían reír al público que escuchaba",
+      "Porque reemplazaban a los dioses en el relato",
+      "Porque acortaban el relato para que no aburriera"
+     ],
+     "correcta": 0,
+     "explicacion": "La épica era oral: las fórmulas repetidas ayudaban a recordar."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué diferencia hay entre la épica y la tragedia?",
+     "opciones": [
+      "La épica narra; la tragedia se representa",
+      "La épica es moderna y la tragedia es antigua",
+      "La épica no tiene héroes y la tragedia sí",
+      "Ninguna: son dos nombres del mismo género"
+     ],
+     "correcta": 0,
+     "explicacion": "Las dos son griegas, pero se cuentan de manera distinta."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un relato fundacional cuenta algo que un pueblo considera parte de su origen y su identidad.",
+     "respuesta": true,
+     "explicacion": "Como la épica de Homero para los griegos."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Los textos homéricos: la Ilíada y la Odisea",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "La Ilíada: la guerra de Troya",
+     "texto": "La **Ilíada** cuenta una parte de la **guerra de Troya**, en la que los griegos sitiaron durante años esa ciudad. No cuenta toda la guerra: se concentra en unos pocos días del último año y en un tema, **la cólera de Aquiles**, el más fuerte de los guerreros griegos.\n\nAquiles se enoja con el jefe de los griegos y deja de combatir. Cuando el troyano **Héctor** mata a su amigo Patroclo, Aquiles vuelve a la lucha y mata a Héctor. La obra termina con el rey de Troya, **Príamo**, que le pide a Aquiles el cuerpo de su hijo para darle sepultura."
+    },
+    {
+     "t": "texto",
+     "titulo": "La Odisea: el regreso a casa",
+     "texto": "La **Odisea** cuenta el regreso de **Odiseo** (también llamado **Ulises**) a su isla, **Ítaca**, después de la guerra de Troya. El viaje dura **diez años**, porque el dios del mar, Poseidón, le pone obstáculos.\n\nMientras tanto, en Ítaca, su esposa **Penélope** y su hijo **Telémaco** lo esperan, rodeados de pretendientes que quieren casarse con ella y quedarse con el reino. Al final, Odiseo llega disfrazado de mendigo, vence a los pretendientes y recupera su hogar."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-03-mosaico.jpg",
+     "tipo": "foto",
+     "animacion": "recorrer",
+     "alt": "Fotografía de un mosaico romano alargado: en el centro, un barco con la vela desplegada y un hombre de barba atado al mástil, rodeado de marineros con escudos. A la derecha, sobre las rocas, tres sirenas con alas y patas de ave tocan instrumentos. A la izquierda, otro barco más chico con un pescador.",
+     "epigrafe": "Ulises atado al mástil frente a las sirenas. Es un mosaico romano del siglo III, hallado en Dougga (Túnez), que hoy está en el Museo del Bardo. Muestra que la Odisea se siguió contando muchos siglos después de Homero. En la parte 3 vas a leer este episodio.",
+     "fuente": "Foto: Dennis G. Jarvis, CC BY-SA 2.0, vía Wikimedia Commons."
+    },
+    {
+     "t": "comparar",
+     "titulo": "La Ilíada y la Odisea",
+     "columnas": [
+      "",
+      "Ilíada",
+      "Odisea"
+     ],
+     "filas": [
+      [
+       "De qué trata",
+       "La guerra de Troya y la cólera de Aquiles",
+       "El regreso de Odiseo a Ítaca"
+      ],
+      [
+       "Héroe principal",
+       "Aquiles, el más fuerte",
+       "Odiseo, el más astuto"
+      ],
+      [
+       "Dónde transcurre",
+       "Frente a las murallas de Troya",
+       "En el mar, en islas y en Ítaca"
+      ],
+      [
+       "Cómo termina",
+       "Con el funeral de Héctor",
+       "Con Odiseo de nuevo en su casa"
+      ]
+     ]
+    },
+    {
+     "t": "dato",
+     "titulo": "Una historia que empieza por la mitad",
+     "texto": "La Odisea no empieza por el principio del viaje: arranca cuando Odiseo lleva años lejos de casa, y lo anterior se cuenta después, cuando él mismo lo relata. Empezar una historia por la mitad se llama comenzar **in medias res**, una expresión en latín."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los hechos de la Odisea.",
+     "items": [
+      "Termina la guerra de Troya",
+      "Odiseo pasa años de viaje por el mar",
+      "Llega a Ítaca disfrazado de mendigo",
+      "Vence a los pretendientes",
+      "Recupera su hogar junto a Penélope y Telémaco"
+     ],
+     "explicacion": "Así es el recorrido del héroe: de Troya a su casa.",
+     "pista": "Empezá por el final de la guerra y terminá con el héroe en su casa."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada personaje con quién es.",
+     "pares": [
+      {
+       "a": "Aquiles",
+       "b": "El guerrero griego más fuerte"
+      },
+      {
+       "a": "Héctor",
+       "b": "Príncipe troyano, hijo de Príamo"
+      },
+      {
+       "a": "Odiseo",
+       "b": "Héroe astuto que vuelve a Ítaca"
+      },
+      {
+       "a": "Penélope",
+       "b": "Esposa de Odiseo, que lo espera"
+      },
+      {
+       "a": "Telémaco",
+       "b": "Hijo de Odiseo y Penélope"
+      }
+     ],
+     "explicacion": "Son los personajes principales de los dos textos homéricos.",
+     "pista": "Releé los dos textos y la tabla de esta parte.",
+     "_nuevo": true
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿De qué trata la Ilíada?",
+     "opciones": [
+      "De la cólera de Aquiles en Troya",
+      "Del regreso de Odiseo a Ítaca",
+      "De la vida de Antígona en Tebas",
+      "De la fundación de la ciudad de Roma"
+     ],
+     "correcta": 0,
+     "explicacion": "La Odisea es la que cuenta el regreso de Odiseo.",
+     "pista": "Releé el primer texto de esta parte."
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Cómo se llama la isla a la que quiere volver Odiseo?",
+     "respuesta": "Ítaca",
+     "explicacion": "Allí lo esperan Penélope y Telémaco.",
+     "pista": "Está en el texto sobre la Odisea.",
+     "formato": "Escribí solo el nombre.",
+     "acepta": [
+      "itaca"
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué Odiseo vuelve a su casa disfrazado de mendigo y no anuncia que llegó?",
+     "respuesta": "Porque su casa está llena de pretendientes que quieren quedarse con su reino. Si se presentara, correría peligro. Disfrazado puede observar, saber quién le es leal y preparar su plan. Es un ejemplo de la **astucia**, el gran valor de Odiseo."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Contá con tus palabras el argumento del relato épico que leíste. Hacelo con el relato épico que trabajaste con tu docente. Si no te indicaron ninguno, usá la Odisea, el ejemplo de esta clase. Incluí quién es el héroe, qué quiere lograr, qué obstáculos enfrenta y cómo termina la historia.",
+    "guia": [
+     "¿Cómo se llama la obra y quién es el héroe?",
+     "¿Qué quiere lograr el héroe?",
+     "¿Qué obstáculos enfrenta y quiénes lo ayudan o se le oponen?",
+     "¿Intervienen los dioses? ¿Cómo?",
+     "¿Cómo termina la historia?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La Ilíada cuenta toda la guerra de Troya, desde el principio.",
+     "respuesta": false,
+     "explicacion": "Se concentra en unos pocos días del último año y en la cólera de Aquiles."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Odiseo y Ulises son el mismo personaje.",
+     "respuesta": true,
+     "explicacion": "Ulises es el nombre que se le dio en latín."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El viaje de regreso de Odiseo dura diez años.",
+     "respuesta": true,
+     "explicacion": "El dios Poseidón le pone obstáculos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Penélope es la hija de Odiseo.",
+     "respuesta": false,
+     "explicacion": "Es su esposa; Telémaco es su hijo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La Odisea empieza in medias res, por la mitad de la historia.",
+     "respuesta": true,
+     "explicacion": "Lo anterior se cuenta después."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Aquiles mata a Héctor en la Ilíada.",
+     "respuesta": true,
+     "explicacion": "Después de que Héctor mata a su amigo Patroclo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Quién es el héroe de la Odisea?",
+     "opciones": [
+      "Odiseo",
+      "Aquiles",
+      "Héctor",
+      "Creonte"
+     ],
+     "correcta": 0,
+     "explicacion": "También se lo llama Ulises."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es el gran valor de Odiseo?",
+     "opciones": [
+      "La astucia",
+      "La fuerza",
+      "La riqueza",
+      "La velocidad"
+     ],
+     "correcta": 0,
+     "explicacion": "Aquiles se destaca por la fuerza; Odiseo, por la astucia."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo llega Odiseo a Ítaca?",
+     "opciones": [
+      "Disfrazado de mendigo",
+      "Con un gran ejército",
+      "Volando",
+      "En el caballo de Troya"
+     ],
+     "correcta": 0,
+     "explicacion": "Así puede observar a los pretendientes."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Quién le pide a Aquiles el cuerpo de Héctor?",
+     "opciones": [
+      "Príamo, su padre",
+      "Penélope, su esposa",
+      "Telémaco, su hijo",
+      "Poseidón, el dios del mar"
+     ],
+     "correcta": 0,
+     "explicacion": "Príamo era el rey de Troya."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué dios le pone obstáculos a Odiseo en el mar?",
+     "opciones": [
+      "Poseidón",
+      "Dioniso",
+      "Zeus",
+      "Apolo"
+     ],
+     "correcta": 0,
+     "explicacion": "Es el dios del mar."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué significa comenzar in medias res?",
+     "opciones": [
+      "Empezar por la mitad",
+      "Empezar por el final",
+      "Contar todo en verso",
+      "Contar sin narrador"
+     ],
+     "correcta": 0,
+     "explicacion": "Es una expresión en latín."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "ILÍADA",
+     "pista": "Texto homérico sobre la guerra de Troya."
+    },
+    {
+     "palabra": "ODISEA",
+     "pista": "Texto homérico sobre el regreso de un héroe."
+    },
+    {
+     "palabra": "AQUILES",
+     "pista": "El guerrero griego más fuerte."
+    },
+    {
+     "palabra": "ÍTACA",
+     "pista": "Isla a la que vuelve Odiseo."
+    },
+    {
+     "palabra": "PENÉLOPE",
+     "pista": "Esposa de Odiseo."
+    },
+    {
+     "palabra": "TROYA",
+     "pista": "Ciudad sitiada por los griegos."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué tienen en común la Ilíada y la Odisea?",
+     "opciones": [
+      "Las dos se relacionan con Troya",
+      "Las dos transcurren en la isla de Ítaca",
+      "Las dos tienen a Odiseo como protagonista",
+      "Las dos son tragedias para el teatro"
+     ],
+     "correcta": 0,
+     "explicacion": "Una cuenta parte de la guerra; la otra, el regreso de uno de sus héroes."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué se puede decir que la Ilíada y Antígona comparten una idea sobre los muertos?",
+     "opciones": [
+      "En las dos importa darles sepultura",
+      "En las dos los muertos vuelven a la vida",
+      "En las dos no muere ningún personaje",
+      "En las dos los muertos se quedan sin nombre"
+     ],
+     "correcta": 0,
+     "explicacion": "Príamo pide el cuerpo de Héctor para enterrarlo, como Antígona quiere enterrar a su hermano."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Aquiles representa la fuerza y Odiseo, la astucia.",
+     "respuesta": true,
+     "explicacion": "Cada héroe muestra un valor distinto."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "El héroe épico y su viaje",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Cómo es un héroe épico",
+     "texto": "El **héroe épico** es un personaje extraordinario, más fuerte, más valiente o más astuto que las personas comunes. Muchas veces es hijo o descendiente de un dios. Lucha por el **honor**, por su pueblo o por volver a su hogar, y pone a prueba sus valores frente a grandes peligros.\n\nNo todos los héroes son iguales: **Aquiles** se destaca por su **fuerza** en la guerra; **Odiseo**, por su **astucia**, es decir, por su inteligencia para salir de los problemas."
+    },
+    {
+     "t": "pasos",
+     "titulo": "El viaje del héroe",
+     "pasos": [
+      {
+       "titulo": "La partida",
+       "texto": "El héroe deja su hogar o su mundo conocido."
+      },
+      {
+       "titulo": "Las pruebas",
+       "texto": "Enfrenta peligros y monstruos, y recibe ayuda o castigos de los dioses."
+      },
+      {
+       "titulo": "El regreso",
+       "texto": "Vuelve transformado y recupera su lugar, o funda uno nuevo."
+      }
+     ]
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "La astucia de Odiseo: el cíclope",
+     "texto": "En su viaje, Odiseo y sus compañeros quedan atrapados en la cueva del **cíclope Polifemo**, un gigante con un solo ojo. Odiseo le dice que se llama **\"Nadie\"**. Esa noche lo emborrachan y lo dejan ciego. Cuando Polifemo grita pidiendo ayuda a los otros cíclopes, dice: \"¡Nadie me ataca!\", y nadie viene a ayudarlo. Así, con un juego de palabras, Odiseo y sus compañeros logran escapar."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Las sirenas",
+     "texto": "Las **sirenas** cantaban tan hermoso que los marineros se acercaban y sus barcos se destruían contra las rocas. Odiseo quería escucharlas sin morir: les tapó los oídos con cera a sus compañeros y se hizo **atar al mástil** del barco. Así pudo oír el canto y seguir viaje."
+    },
+    {
+     "t": "observar",
+     "_imagen": true,
+     "etiqueta": "🔎 Mirá con atención",
+     "consigna": "Mirá esta vasija griega: tiene casi 2.500 años y cuenta el episodio de las sirenas.",
+     "imagen": {
+      "src": "img/clases/len-4-03-vasija.jpg",
+      "tipo": "foto",
+      "animacion": "acercar",
+      "alt": "Fotografía de una vasija griega negra con figuras anaranjadas: un barco con remeros y un hombre atado al mástil. Sobre una roca hay una sirena con cuerpo de pájaro y cabeza de mujer, y otra cae de cabeza hacia el barco.",
+      "epigrafe": "Odiseo y las sirenas en una vasija griega de figuras rojas, pintada hacia el año 480 antes de Cristo. Está en el Museo Británico (Londres).",
+      "fuente": "Foto: ArchaiOptix, CC BY-SA 4.0, vía Wikimedia Commons."
+     },
+     "preguntas": [
+      {
+       "pregunta": "¿Quién es la figura atada al mástil?",
+       "opciones": [
+        "Odiseo",
+        "Polifemo",
+        "Uno de los remeros",
+        "Una sirena"
+       ],
+       "correcta": 0,
+       "explicacion": "Odiseo se hizo atar al mástil para escuchar el canto sin acercarse a las rocas.",
+       "pista": "Mirá la foto y releé el ejemplo de las sirenas."
+      },
+      {
+       "pregunta": "¿Cómo representa el pintor a las sirenas?",
+       "opciones": [
+        "Como pájaros con cabeza de mujer",
+        "Como mujeres con cola de pez, en el agua",
+        "Como peces gigantes del mar",
+        "Como marineros con alas"
+       ],
+       "correcta": 0,
+       "explicacion": "Para los griegos, las sirenas eran mitad mujer y mitad pájaro. La imagen con cola de pez apareció muchos siglos después.",
+       "pista": "Mirá la foto y releé el ejemplo de las sirenas."
+      },
+      {
+       "pregunta": "¿Por qué los remeros siguen remando sin acercarse a las sirenas?",
+       "opciones": [
+        "Porque tienen los oídos tapados",
+        "Porque las sirenas no cantan ese día",
+        "Porque Odiseo les grita que sigan",
+        "Porque es de día y no se las ve"
+       ],
+       "correcta": 0,
+       "explicacion": "Odiseo les tapó los oídos con cera a sus compañeros.",
+       "pista": "Mirá la foto y releé el ejemplo de las sirenas."
+      }
+     ]
+    },
+    {
+     "t": "esquema",
+     "_imagen": true,
+     "consigna": "Completá el esquema con el viaje de Odiseo: ubicá cada momento de la Odisea en la etapa del viaje del héroe que le corresponde.",
+     "imagen": {
+      "src": "img/clases/len-4-03-viaje.svg",
+      "src_movil": "img/clases/len-4-03-viaje-movil.svg",
+      "tipo": "grafico",
+      "alt": "Esquema de tres filas: la partida, las pruebas y el regreso, cada una con un casillero vacío para un momento de la Odisea.",
+      "epigrafe": "Esquema elaborado para esta clase."
+     },
+     "huecos": [
+      {
+       "x": 49.0,
+       "y": 21.83,
+       "w": 49.0,
+       "h": 20.3,
+       "respuesta": "Termina la guerra y deja Troya",
+       "movil": {
+        "x": 4.0,
+        "y": 24.92,
+        "w": 92.0,
+        "h": 14.14
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 46.19,
+       "w": 49.0,
+       "h": 20.3,
+       "respuesta": "El cíclope, las sirenas, el mar",
+       "movil": {
+        "x": 4.0,
+        "y": 53.2,
+        "w": 92.0,
+        "h": 14.14
+       }
+      },
+      {
+       "x": 49.0,
+       "y": 70.56,
+       "w": 49.0,
+       "h": 20.3,
+       "respuesta": "Llega a Ítaca y recupera su hogar",
+       "movil": {
+        "x": 4.0,
+        "y": 81.48,
+        "w": 92.0,
+        "h": 14.14
+       }
+      }
+     ],
+     "distractores": [
+      "Se queda a vivir en Troya",
+      "Escribe un ensayo"
+     ],
+     "explicacion": "Son las mismas etapas del paso a paso del viaje, aplicadas a la Odisea.",
+     "pista": "Volvé a mirar el paso a paso del viaje del héroe y los ejemplos de esta parte."
+    },
+    {
+     "t": "dato",
+     "titulo": "La épica sigue viva",
+     "texto": "Muchos relatos de hoy tienen la estructura de la épica: el héroe que parte, enfrenta pruebas y vuelve transformado. Aparece en novelas de aventuras, en la ciencia ficción y en la fantasía, por ejemplo en las sagas con mundos inventados, magos y largos viajes."
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Cómo se llama el cíclope que Odiseo deja ciego?",
+     "respuesta": "Polifemo",
+     "explicacion": "Odiseo lo engaña diciéndole que se llama \"Nadie\".",
+     "pista": "Está en el ejemplo del cíclope.",
+     "formato": "Escribí solo el nombre.",
+     "acepta": [
+      "polifemo"
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué Odiseo, además de valiente, necesita ser astuto?",
+     "respuesta": "Porque muchos peligros de su viaje no se pueden vencer con la fuerza: un gigante como Polifemo o el canto de las sirenas. Con la inteligencia encuentra salidas donde la fuerza no alcanza. Por eso la Odisea muestra que la astucia también es un valor heroico."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Analizá al héroe del relato épico que leíste y su viaje. Hacelo con el relato épico que trabajaste con tu docente. Si no te indicaron ninguno, usá la Odisea, el ejemplo de esta clase. Explicá qué tipo de héroe es, qué valores muestra y cómo se ven en su recorrido la partida, las pruebas y el regreso.",
+    "guia": [
+     "¿Qué tiene de extraordinario el héroe?",
+     "¿Se destaca por la fuerza, por la astucia o por otro valor? Dá un ejemplo.",
+     "¿Cuál es su partida?",
+     "¿Qué pruebas enfrenta?",
+     "¿Cómo es su regreso? ¿Cambió algo en él?",
+     "¿Qué relato, película o serie de hoy tiene un viaje parecido?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "El héroe épico es un personaje extraordinario.",
+     "respuesta": true,
+     "explicacion": "Más fuerte, valiente o astuto que las personas comunes."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Odiseo vence al cíclope con la fuerza.",
+     "respuesta": false,
+     "explicacion": "Lo vence con la astucia: le dice que se llama \"Nadie\"."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Odiseo se hace atar al mástil para oír a las sirenas.",
+     "respuesta": true,
+     "explicacion": "Y les tapa los oídos con cera a sus compañeros."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El viaje del héroe tiene partida, pruebas y regreso.",
+     "respuesta": true,
+     "explicacion": "Es una estructura que se repite en muchos relatos."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La estructura de la épica ya no aparece en los relatos de hoy.",
+     "respuesta": false,
+     "explicacion": "Aparece en la aventura, la ciencia ficción y la fantasía."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Polifemo era un gigante con un solo ojo.",
+     "respuesta": true,
+     "explicacion": "Era un cíclope."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué nombre le dice Odiseo al cíclope?",
+     "opciones": [
+      "Nadie",
+      "Ulises",
+      "Aquiles",
+      "Todos"
+     ],
+     "correcta": 0,
+     "explicacion": "Por eso Polifemo grita \"¡Nadie me ataca!\"."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hacían las sirenas?",
+     "opciones": [
+      "Atraían a los marineros con su canto",
+      "Ayudaban a los barcos a llegar a puerto",
+      "Guiaban a Odiseo hasta Ítaca",
+      "Peleaban junto a los griegos en Troya"
+     ],
+     "correcta": 0,
+     "explicacion": "Su canto era peligroso."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la astucia?",
+     "opciones": [
+      "La inteligencia para salir de problemas",
+      "La fuerza física para vencer en batalla",
+      "La riqueza que acumula un rey",
+      "El miedo ante los dioses"
+     ],
+     "correcta": 0,
+     "explicacion": "Es el gran valor de Odiseo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuál es la segunda etapa del viaje del héroe?",
+     "opciones": [
+      "Las pruebas",
+      "La partida",
+      "El regreso",
+      "El nacimiento"
+     ],
+     "correcta": 0,
+     "explicacion": "Primero la partida, después las pruebas y al final el regreso."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué se tapan los oídos los compañeros de Odiseo?",
+     "opciones": [
+      "Para no oír a las sirenas",
+      "Por el ruido de la guerra",
+      "Porque hacía mucho frío",
+      "Para no oír al cíclope"
+     ],
+     "correcta": 0,
+     "explicacion": "Con cera."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué géneros de hoy aparece la estructura de la épica?",
+     "opciones": [
+      "Aventura y ciencia ficción",
+      "Las recetas de cocina",
+      "Las noticias del diario",
+      "Los avisos clasificados"
+     ],
+     "correcta": 0,
+     "explicacion": "El viaje del héroe se sigue contando."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "ASTUCIA",
+     "pista": "Inteligencia para salir de los problemas."
+    },
+    {
+     "palabra": "CÍCLOPE",
+     "pista": "Gigante con un solo ojo."
+    },
+    {
+     "palabra": "SIRENAS",
+     "pista": "Seres que atraían a los marineros con su canto."
+    },
+    {
+     "palabra": "MÁSTIL",
+     "pista": "Palo del barco al que se hace atar Odiseo."
+    },
+    {
+     "palabra": "POLIFEMO",
+     "pista": "Nombre del cíclope."
+    },
+    {
+     "palabra": "NADIE",
+     "pista": "Nombre falso que usa Odiseo."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué muestra el episodio del cíclope sobre Odiseo?",
+     "opciones": [
+      "Que su astucia vence donde la fuerza no alcanza",
+      "Que es el más fuerte y valiente de todos los griegos",
+      "Que tiene miedo de todo lo que encuentra",
+      "Que no le importa la vida de sus compañeros"
+     ],
+     "correcta": 0,
+     "explicacion": "Con un juego de palabras logra escapar."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En la Odisea, ¿qué etapa del viaje es la llegada a Ítaca?",
+     "opciones": [
+      "El regreso",
+      "La partida",
+      "Las pruebas",
+      "Ninguna"
+     ],
+     "correcta": 0,
+     "explicacion": "El héroe recupera su lugar."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Un héroe épico puede destacarse por un valor distinto de la fuerza.",
+     "respuesta": true,
+     "explicacion": "Odiseo se destaca por la astucia."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Épica",
+   "definicion": "Género que cuenta las hazañas de un héroe, muchas veces con intervención de los dioses."
+  },
+  {
+   "palabra": "Relato fundacional",
+   "definicion": "Relato que un pueblo considera parte de su origen y de su identidad."
+  },
+  {
+   "palabra": "Aedo",
+   "definicion": "Poeta griego que recitaba de memoria los relatos épicos."
+  },
+  {
+   "palabra": "Epíteto",
+   "definicion": "Frase que acompaña siempre a un nombre: \"Aquiles, el de los pies ligeros\"."
+  },
+  {
+   "palabra": "Héroe épico",
+   "definicion": "Personaje extraordinario que realiza hazañas y muestra los valores de su pueblo."
+  },
+  {
+   "palabra": "Astucia",
+   "definicion": "Inteligencia para salir de los problemas."
+  },
+  {
+   "palabra": "In medias res",
+   "definicion": "Empezar a contar una historia por la mitad."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Pensar que la Ilíada cuenta toda la guerra de Troya.",
+   "aclaracion": "Se concentra en unos pocos días del último año y en la cólera de Aquiles."
+  },
+  {
+   "error": "Confundir la épica con la tragedia porque las dos son griegas.",
+   "aclaracion": "La épica es narrativa (un narrador cuenta); la tragedia es dramática (se representa)."
+  },
+  {
+   "error": "Creer que un héroe solo puede ser fuerte.",
+   "aclaracion": "Odiseo es un héroe por su astucia."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "¿Qué personaje de una película, una serie o un videojuego que conozcas hace un viaje como el del héroe épico? ¿Cuáles son su partida, sus pruebas y su regreso?",
+  "conexion": "Con la clase de cómo analizar una obra literaria: la épica es un subgénero narrativo, y con la guía de seis pasos podés analizar cualquier relato épico."
+ }
+}

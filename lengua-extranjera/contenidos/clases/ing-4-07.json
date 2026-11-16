@@ -1,0 +1,1272 @@
+{
+  "id": "ing-4-07",
+  "espacio": "lengua-extranjera",
+  "idioma": "en",
+  "eje": "¿Cómo nos comunicamos? TIC y hábitos de comunicación en distintas culturas",
+  "titulo": "Mensajes, correos y publicaciones",
+  "intro": "En esta clase vas a aprender a escribir en inglés mensajes y correos, formales e informales, a pedir y ofrecer con amabilidad y a seguir las normas para comunicarse en línea. Al final vas a leer el correo que {{nombre}} le escribió a Joaquín.",
+  "objetivos": [
+    "Reconocer las partes de un correo y diferenciar el registro formal del informal.",
+    "Pedir, ofrecer e invitar con can, could y would you like, y responder con amabilidad.",
+    "Leer un correo de {{nombre}} y contar en inglés cómo se comunica, respetando las normas para escribir en línea."
+  ],
+  "tp_aporte": "Para tu trabajo práctico ya tenés las partes de un correo, las expresiones para pedir e invitar, y un párrafo sobre cómo se comunica {{nombre}} con Joaquín.",
+  "personaje_intro": {
+    "porPersonaje": {
+      "lucy": {
+        "texto": "Joaquín me escribió desde Rosario. Hoy te muestro cómo le contesté y qué cuidados tengo cuando escribo en línea."
+      },
+      "ben": {
+        "texto": "Joaquín me escribió desde Rosario. Hoy te muestro cómo le contesté y qué cuidados tengo cuando escribo en línea."
+      },
+      "mia": {
+        "texto": "Joaquín me escribió desde Rosario. Hoy te muestro cómo le contesté y qué cuidados tengo cuando escribo en línea."
+      },
+      "liam": {
+        "texto": "Joaquín me escribió desde Rosario. Hoy te muestro cómo le contesté y qué cuidados tengo cuando escribo en línea."
+      }
+    }
+  },
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "El correo y el mensaje: formal e informal",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "No se le escribe igual a todo el mundo",
+          "texto": "Cuando escribimos, elegimos las palabras según a quién le hablamos. A una amiga le mandamos un mensaje corto y relajado; a una profesora o a una empresa, un correo más cuidado. En inglés pasa lo mismo: hay un registro **informal** y uno **formal**.\n\nInformal: [[Hi Emma! How are you? See you soon!]]\nFormal: [[Dear Ms Brown, I am writing to ask about the school trip. Best regards.]]"
+        },
+        {
+          "t": "comparar",
+          "titulo": "Las partes de un correo (tocá 🔊 para escuchar)",
+          "columnas": [
+            "Parte",
+            "Informal (amigos, familia)",
+            "Formal (docentes, empresas)"
+          ],
+          "filas": [
+            [
+              "Saludo",
+              "[[Hi Emma,]] / [[Hello!]]",
+              "[[Dear Ms Brown,]] / [[Dear Sir or Madam,]]"
+            ],
+            [
+              "Comienzo",
+              "[[How are you?]] / [[Thanks for your message!]]",
+              "[[I am writing to ask about…]]"
+            ],
+            [
+              "Pedido",
+              "[[Can you send me…?]]",
+              "[[Could you please send me…?]]"
+            ],
+            [
+              "Cierre",
+              "[[See you soon!]] / [[Write back soon!]]",
+              "[[I look forward to hearing from you.]]"
+            ],
+            [
+              "Despedida",
+              "[[Love,]] / [[Bye,]] / [[Cheers,]]",
+              "[[Best regards,]] / [[Yours sincerely,]]"
+            ]
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "• En el registro formal no se usan contracciones: [[I am writing]], no \"I'm writing\".\n• [[Ms]] se usa para una mujer y [[Mr]] para un varón, con el apellido: [[Dear Mr Smith]].\n• En un correo formal no van emojis ni abreviaturas."
+        },
+        {
+          "t": "pronunciar",
+          "modo": "escuchar",
+          "voz": "personaje",
+          "texto": "I look forward to hearing from you.",
+          "traduccion": "(Espero su respuesta.)",
+          "explicacion": "Forward se dice \"fóruard\", con fuerza en la primera sílaba."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada frase es formal o informal?",
+          "categorias": [
+            "Informal",
+            "Formal"
+          ],
+          "items": [
+            {
+              "texto": "Hi Tom!",
+              "cat": "Informal"
+            },
+            {
+              "texto": "See you soon!",
+              "cat": "Informal"
+            },
+            {
+              "texto": "Thanks for your message!",
+              "cat": "Informal"
+            },
+            {
+              "texto": "Dear Mr Smith,",
+              "cat": "Formal"
+            },
+            {
+              "texto": "I am writing to ask about the course.",
+              "cat": "Formal"
+            },
+            {
+              "texto": "Best regards,",
+              "cat": "Formal"
+            }
+          ],
+          "explicacion": "Hi, See you soon y Thanks for your message son para amigos. Dear Mr…, I am writing to… y Best regards son para un correo formal.",
+          "pista": "Buscá cada frase en la tabla de las partes del correo: fijate en qué columna está."
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená este correo formal, del saludo a la firma.",
+          "items": [
+            "Dear Ms Brown,",
+            "I am writing to ask about the school trip.",
+            "Could you please send me the timetable?",
+            "I look forward to hearing from you.",
+            "Best regards, Ana López"
+          ],
+          "explicacion": "Saludo, comienzo con el motivo, pedido, cierre y despedida con la firma.",
+          "pista": "Seguí el orden de las filas de la tabla: saludo, comienzo, pedido, cierre y despedida."
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "🔍 Encontrá el error",
+          "pregunta": "Este correo es para la directora de una escuela. ¿Qué frase no corresponde?",
+          "opciones": [
+            "Hiii!! How r u? 😀",
+            "Dear Ms Green,",
+            "I am writing to ask about the exams.",
+            "Best regards,"
+          ],
+          "correcta": 0,
+          "explicacion": "Es demasiado informal: tiene abreviaturas (r, u) y un emoji. Para una directora se empieza con Dear Ms Green.",
+          "pista": "Releé el recuadro \"Para recordar\": ¿qué no va en un correo formal?"
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá el comienzo de un correo formal: I am ______ to ask about the course.",
+          "respuesta": "writing",
+          "acepta": [
+            "writing"
+          ],
+          "formato": "Escribí una palabra en inglés.",
+          "explicacion": "I am writing to… (Le escribo para…) es la forma de empezar un correo formal.",
+          "pista1": "Buscá en la tabla la fila del comienzo, en la columna formal.",
+          "pista": "Es el verbo write con -ing (se va la e)."
+        },
+        {
+          "t": "dictado",
+          "voz": "personaje",
+          "texto": "Thanks for your message!",
+          "traduccion": "(¡Gracias por tu mensaje!)",
+          "explicacion": "Thanks for + lo que agradecés. Es una forma informal."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "¿Por qué en un correo formal se escribe \"I am\" y no \"I'm\"?",
+          "respuesta": "Porque las contracciones (I'm, don't, can't) son propias de la conversación y de los mensajes entre amigos. En un texto formal se escriben las palabras completas, igual que en castellano evitamos \"re\" o \"tipo\" cuando le escribimos a una autoridad."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Copiá la tabla de las partes del correo, formal e informal. Explicá en castellano en qué se diferencian y qué no va en un correo formal. Después escribí en inglés un correo formal breve de {{nombre}} a su escuela para pedir información sobre una actividad (la inventás vos), con las cinco partes.",
+        "guia": [
+          "¿Qué partes tiene un correo?",
+          "¿Cómo se saluda y cómo se despide en cada registro?",
+          "¿Por qué no van contracciones ni emojis en un correo formal?",
+          "¿Qué pide {{nombre}} y a quién se lo pide?",
+          "¿Usaste Dear, I am writing to… y Best regards?"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Dear Mr Smith es un saludo formal.",
+          "respuesta": true,
+          "explicacion": "Dear + Mr o Ms + apellido."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En un correo formal se pueden usar emojis.",
+          "respuesta": false,
+          "explicacion": "No van emojis ni abreviaturas."
+        },
+        {
+          "tipo": "vf",
+          "texto": "See you soon es una despedida informal.",
+          "respuesta": true,
+          "explicacion": "Es para amigos o familia."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Ms se usa para un varón.",
+          "respuesta": false,
+          "explicacion": "Ms es para una mujer; Mr, para un varón."
+        },
+        {
+          "tipo": "vf",
+          "texto": "I am writing to… sirve para empezar un correo formal.",
+          "respuesta": true,
+          "explicacion": "Le escribo para…"
+        },
+        {
+          "tipo": "vf",
+          "texto": "Best regards es una despedida formal.",
+          "respuesta": true,
+          "explicacion": "Saludos cordiales."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se saluda en un correo informal?",
+          "opciones": [
+            "Hi Emma,",
+            "Dear Sir or Madam,",
+            "Yours sincerely,",
+            "I look forward to hearing from you."
+          ],
+          "correcta": 0,
+          "explicacion": "Hi es informal."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"Thanks for your message\"?",
+          "opciones": [
+            "Gracias por tu mensaje",
+            "Mandame un mensaje más tarde",
+            "Te escribo un mensaje",
+            "Perdón por el mensaje"
+          ],
+          "correcta": 0,
+          "explicacion": "Thanks for = gracias por."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué frase va al final de un correo formal?",
+          "opciones": [
+            "I look forward to hearing from you.",
+            "See you soon, write back!",
+            "How are you these days, Ms Brown? Fine?",
+            "Hi!"
+          ],
+          "correcta": 0,
+          "explicacion": "Espero su respuesta."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la forma formal?",
+          "opciones": [
+            "I am writing",
+            "I'm writing to you",
+            "Im writing",
+            "I writing"
+          ],
+          "correcta": 0,
+          "explicacion": "En lo formal no se usan contracciones."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué despedida usarías con una amiga?",
+          "opciones": [
+            "Love,",
+            "Yours sincerely,",
+            "Best regards,",
+            "Dear Sir,"
+          ],
+          "correcta": 0,
+          "explicacion": "Love es informal y cariñosa."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿A quién le escribirías \"Dear Ms Brown\"?",
+          "opciones": [
+            "A una profesora",
+            "A tu mejor amiga",
+            "A tu hermano",
+            "A un compañero del curso"
+          ],
+          "correcta": 0,
+          "explicacion": "Es un saludo formal para una mujer."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "DEAR",
+          "pista": "Saludo formal: ___ Ms Brown."
+        },
+        {
+          "palabra": "REGARDS",
+          "pista": "Best ___: despedida formal."
+        },
+        {
+          "palabra": "MESSAGE",
+          "pista": "Mensaje, en inglés."
+        },
+        {
+          "palabra": "EMAIL",
+          "pista": "Correo electrónico."
+        },
+        {
+          "palabra": "WRITING",
+          "pista": "I am ___ to ask…"
+        },
+        {
+          "palabra": "SOON",
+          "pista": "See you ___!"
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué frase es formal?",
+          "opciones": [
+            "I am writing to ask about the course.",
+            "Hi! How are you? Thanks for your message!",
+            "See you soon!",
+            "Love, Emma"
+          ],
+          "correcta": 0,
+          "explicacion": "I am writing to… es formal."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué no va en un correo formal?",
+          "opciones": [
+            "Abreviaturas y emojis",
+            "Un saludo con el apellido",
+            "Una despedida",
+            "Un pedido con por favor"
+          ],
+          "correcta": 0,
+          "explicacion": "Son propios de los mensajes entre amigos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Cheers\" es una despedida informal.",
+          "respuesta": true,
+          "explicacion": "Se usa mucho entre amigos en Gran Bretaña e Irlanda."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Pedir y ofrecer: can, could y would you like",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Pedir con amabilidad",
+          "texto": "En un mensaje o en un correo muchas veces pedimos algo u ofrecemos algo. En inglés se usan pocas expresiones:\n\n[[Can you send me the photos?]] (¿Me podés mandar las fotos?): para pedir, con confianza.\n[[Could you help me, please?]] (¿Me podría ayudar, por favor?): para pedir con más cortesía.\n[[Would you like to come?]] (¿Querés venir?): para ofrecer o invitar.\n[[Can I use your phone?]] (¿Puedo usar tu teléfono?): para pedir permiso."
+        },
+        {
+          "t": "pasos",
+          "titulo": "Paso a paso: cómo se arma un pedido",
+          "pasos": [
+            {
+              "titulo": "Elegí la expresión",
+              "texto": "[[Can]] con amigos, [[Could]] para ser más cortés."
+            },
+            {
+              "titulo": "Agregá la persona",
+              "texto": "[[you]] si le pedís a otro que haga algo; [[I]] si pedís permiso: [[Can I…?]]"
+            },
+            {
+              "titulo": "Poné el verbo en su forma base",
+              "texto": "[[Could you send…?]], nunca \"Could you sends\" ni \"Could you to send\"."
+            },
+            {
+              "titulo": "Sumá please",
+              "texto": "Al final o antes del verbo: [[Could you please help me?]]"
+            }
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar: cómo se responde",
+          "texto": "Para aceptar: [[Sure!]] (¡Claro!), [[Of course.]] (Por supuesto.), [[Yes, I'd love to!]] (¡Sí, me encantaría!).\nPara rechazar con amabilidad: [[Sorry, I can't.]] (Perdón, no puedo.) y una razón: [[I'm busy on Saturday.]]"
+        },
+        {
+          "t": "dictado",
+          "voz": "personaje",
+          "texto": "Would you like to come to my party?",
+          "traduccion": "(¿Querés venir a mi fiesta?)",
+          "explicacion": "Would you like to + verbo base: una invitación."
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada pedido u ofrecimiento con la respuesta que mejor le corresponde.",
+          "pares": [
+            {
+              "a": "Can you send me the photos?",
+              "b": "Sure! I can send them tonight."
+            },
+            {
+              "a": "Would you like to come to my party?",
+              "b": "Yes, I'd love to!"
+            },
+            {
+              "a": "Can I use your charger?",
+              "b": "Of course. Here you are."
+            },
+            {
+              "a": "Could you help me with my homework on Saturday?",
+              "b": "Sorry, I can't. I'm busy on Saturday."
+            }
+          ],
+          "explicacion": "Cada respuesta contesta lo que se pidió: mandar fotos, ir a una fiesta, usar un cargador o ayudar el sábado.",
+          "pista": "Buscá en cada respuesta una palabra que se relacione con el pedido: photos, party, charger, Saturday."
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá el chat con las palabras que faltan.",
+          "texto": "A: [[Would]] you like to watch a film on Friday? B: I'd love to! [[Can]] I bring my sister? A: [[Sure]]! And [[could]] you bring some popcorn, please?",
+          "distractores": [
+            "Do",
+            "Does",
+            "Never"
+          ],
+          "explicacion": "Would you like… invita; Can I… pide permiso; Sure acepta; could you… pide con cortesía.",
+          "pista": "Mirá el texto del comienzo de esta parte: ahí está para qué sirve cada expresión."
+        },
+        {
+          "t": "opcion",
+          "etiqueta": "🗣️ ¿Quién lo diría?",
+          "pregunta": "Esta frase es inventada: \"Could you please explain the homework again?\" ¿Quién la diría y a quién?",
+          "opciones": [
+            "Un estudiante a su profesora",
+            "Una profesora a sus estudiantes",
+            "Un estudiante a su hermano de cinco años",
+            "Una abuela a su perro"
+          ],
+          "correcta": 0,
+          "explicacion": "Could y please muestran cortesía, y el pedido es sobre la tarea: lo diría un estudiante a su docente.",
+          "pista": "Pensá quién pide que le expliquen la tarea y con quién se usa could."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá la invitación: ______ you like to come to the cinema?",
+          "respuesta": "Would",
+          "acepta": [
+            "would"
+          ],
+          "formato": "Escribí una palabra en inglés.",
+          "explicacion": "Would you like to…? sirve para invitar u ofrecer.",
+          "pista1": "Es la expresión para invitar. Buscala en el texto del comienzo de esta parte.",
+          "pista": "Empieza con w y termina con d."
+        },
+        {
+          "t": "pronunciar",
+          "modo": "decir",
+          "voz": "personaje",
+          "texto": "Could you help me, please?",
+          "traduccion": "(¿Me podría ayudar, por favor?)",
+          "explicacion": "En could la l no suena: se dice \"kud\"."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Si le pedís algo a alguien que no conocés, ¿usarías can o could? ¿Por qué?",
+          "respuesta": "Could, porque es más cortés. Can está bien con amigos y familia. Pasa algo parecido en castellano con \"¿me pasás…?\" y \"¿me podría pasar…?\"."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Copiá el paso a paso para armar un pedido y las respuestas para aceptar y rechazar. Explicá en castellano cuándo se usa can, could y would you like. Después escribí en inglés un chat breve entre {{nombre}} y un amigo o una amiga (lo inventás vos), con un pedido, una invitación y una respuesta amable a cada uno.",
+        "guia": [
+          "¿Qué diferencia hay entre can y could?",
+          "¿Para qué sirve would you like?",
+          "¿Qué forma tiene el verbo después de can o could?",
+          "¿Cómo se acepta y cómo se rechaza con amabilidad?",
+          "¿Qué le pide y a qué invita {{nombre}}?"
+        ]
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Could es más cortés que can.",
+          "respuesta": true,
+          "explicacion": "Se usa con personas que no conocemos o con docentes."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Would you like to…? sirve para invitar.",
+          "respuesta": true,
+          "explicacion": "Would you like to come?"
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Could you sends me the file?\" está bien escrita.",
+          "respuesta": false,
+          "explicacion": "Va el verbo base: Could you send me the file?"
+        },
+        {
+          "tipo": "vf",
+          "texto": "Sure quiere decir \"¡claro!\".",
+          "respuesta": true,
+          "explicacion": "Sirve para aceptar."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Para rechazar se puede decir \"Sorry, I can't.\"",
+          "respuesta": true,
+          "explicacion": "Con una razón queda más amable."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Can I…?\" sirve para pedir permiso.",
+          "respuesta": true,
+          "explicacion": "Can I use your phone?"
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"Would you like to come?\"",
+          "opciones": [
+            "¿Querés venir?",
+            "¿Viniste?",
+            "¿Te gusta venir?",
+            "¿Vas a venir mañana?"
+          ],
+          "correcta": 0,
+          "explicacion": "Would you like = ¿querés…?"
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se pide permiso para usar un cargador?",
+          "opciones": [
+            "Can I use your charger?",
+            "Can you use your charger?",
+            "Would you like my charger?",
+            "I can use your charger."
+          ],
+          "correcta": 0,
+          "explicacion": "Can I + verbo: pedir permiso."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es la respuesta amable para rechazar?",
+          "opciones": [
+            "Sorry, I can't. I'm busy.",
+            "No.",
+            "I don't want to go to that party.",
+            "Never."
+          ],
+          "correcta": 0,
+          "explicacion": "Perdón, no puedo, y una razón."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué palabra completa \"Could you ___ me, please?\"",
+          "opciones": [
+            "help",
+            "helps",
+            "to help",
+            "helping"
+          ],
+          "correcta": 0,
+          "explicacion": "Después de could va el verbo base."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"Of course\"?",
+          "opciones": [
+            "Por supuesto",
+            "Tal vez otro día",
+            "Nunca",
+            "Perdón"
+          ],
+          "correcta": 0,
+          "explicacion": "Sirve para aceptar."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué expresión es más cortés?",
+          "opciones": [
+            "Could you please send me the timetable?",
+            "Send me the timetable now, OK?",
+            "Can you send it?",
+            "Timetable, please, I need the timetable today."
+          ],
+          "correcta": 0,
+          "explicacion": "Could + please."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "COULD",
+          "pista": "Para pedir con cortesía."
+        },
+        {
+          "palabra": "WOULD",
+          "pista": "___ you like to come?"
+        },
+        {
+          "palabra": "PLEASE",
+          "pista": "Por favor, en inglés."
+        },
+        {
+          "palabra": "SURE",
+          "pista": "¡Claro!"
+        },
+        {
+          "palabra": "SORRY",
+          "pista": "Perdón, en inglés."
+        },
+        {
+          "palabra": "COURSE",
+          "pista": "Of ___: por supuesto."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué oración está bien escrita?",
+          "opciones": [
+            "Could you send me the photos?",
+            "Could you sends me the photos?",
+            "Could you to send me the photos?",
+            "Could you sending me the photos?"
+          ],
+          "correcta": 0,
+          "explicacion": "Could + persona + verbo base."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué expresión sirve para invitar?",
+          "opciones": [
+            "Would you like to…?",
+            "Can I…?",
+            "Sorry, I can't go.",
+            "Of course, here you are."
+          ],
+          "correcta": 0,
+          "explicacion": "Would you like to come?"
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Yes, I'd love to!\" sirve para aceptar una invitación.",
+          "respuesta": true,
+          "explicacion": "¡Sí, me encantaría!"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Un correo de intercambio y las normas para escribir en línea",
+      "tiempo": "40 a 50 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Escribir en línea con cuidado",
+          "texto": "Los mensajes, los correos y las publicaciones quedan guardados y pueden llegar a mucha gente. Por eso, además de elegir el registro, conviene seguir algunas normas. En inglés se les dice [[netiquette]] (de net, red, y etiquette, buenos modales)."
+        },
+        {
+          "t": "dato",
+          "titulo": "Normas para comunicarse en línea",
+          "texto": "• [[Be polite.]] Saludá, pedí por favor y agradecé.\n• [[Don't write in capital letters.]] Escribir todo en mayúsculas se lee como si gritaras.\n• [[Don't share your password or your address.]] Tus datos personales son tuyos.\n• [[Ask before you post a photo of someone.]] Preguntá antes de publicar la foto de otra persona.\n• [[Read your message before you send it.]] Releé antes de enviar."
+        },
+        {
+          "t": "ejemplo",
+          "titulo": "Mi correo para Joaquín",
+          "texto": "Joaquín me escribió desde Rosario y yo le contesté. Leé mi correo y tocá 🔊 para escucharlo.",
+          "habla": true,
+          "porPersonaje": {
+            "lucy": {
+              "texto": "Joaquín me escribió desde Rosario y yo le contesté. Leé mi correo y tocá 🔊 para escucharlo.\n\n[[~Hi Joaquín,]] [[~How are you? Thanks for your message!]] [[~We are practising a new play at school, so I'm very busy.]] [[~Could you send me a photo of your school? I'd love to see it.]] [[~Would you like to see a video of our play? I can send it next week.]] [[~See you soon,]] [[~Lucy]]"
+            },
+            "ben": {
+              "texto": "Joaquín me escribió desde Rosario y yo le contesté. Leé mi correo y tocá 🔊 para escucharlo.\n\n[[~Hi Joaquín,]] [[~How are you? Thanks for your email!]] [[~Our team is training for a new tournament, so I'm very busy this month.]] [[~Can you tell me about basketball in Argentina? Is it popular?]] [[~Would you like to have a video call next Saturday?]] [[~Write back soon!]] [[~Ben]]"
+            },
+            "mia": {
+              "texto": "Joaquín me escribió desde Rosario y yo le contesté. Leé mi correo y tocá 🔊 para escucharlo.\n\n[[~Hi Joaquín,]] [[~How are things in Rosario?]] [[~Here in Sydney it's very hot, and our summer holidays start in December.]] [[~Could you tell me about your summer holidays?]] [[~Would you like to see some photos of the beach? I can send them on Friday.]] [[~Take care,]] [[~Mia]]"
+            },
+            "liam": {
+              "texto": "Joaquín me escribió desde Rosario y yo le contesté. Leé mi correo y tocá 🔊 para escucharlo.\n\n[[~Hi Joaquín,]] [[~How are you? Thanks for the song you sent me!]] [[~I listened to it three times.]] [[~Could you send me the lyrics? I want to play it on my guitar.]] [[~Would you like to hear my band? We can share a video next week.]] [[~Cheers,]] [[~Liam]]"
+            }
+          }
+        },
+        {
+          "t": "unir",
+          "etiqueta": "Uní",
+          "consigna": "Uní cada parte de mi correo con su traducción.",
+          "habla": true,
+          "pista": "Could you… y Can you… se traducen con \"¿me podrías…?\" o \"¿me podés…?\"; Would you like…, con \"¿querés…?\".",
+          "porPersonaje": {
+            "lucy": {
+              "pares": [
+                {
+                  "a": "Thanks for your message!",
+                  "b": "¡Gracias por tu mensaje!"
+                },
+                {
+                  "a": "I'm very busy.",
+                  "b": "Estoy muy ocupada."
+                },
+                {
+                  "a": "Could you send me a photo?",
+                  "b": "¿Me podrías mandar una foto?"
+                },
+                {
+                  "a": "Would you like to see a video?",
+                  "b": "¿Querés ver un video?"
+                },
+                {
+                  "a": "See you soon,",
+                  "b": "Nos vemos pronto."
+                }
+              ],
+              "explicacion": "Así queda en castellano: Hola, Joaquín: ¿Cómo estás? ¡Gracias por tu mensaje! Estamos ensayando una obra nueva en la escuela, así que estoy muy ocupada. ¿Me podrías mandar una foto de tu escuela? Me encantaría verla. ¿Querés ver un video de nuestra obra? Te lo puedo mandar la semana que viene. Nos vemos pronto. Lucy"
+            },
+            "ben": {
+              "pares": [
+                {
+                  "a": "Thanks for your email!",
+                  "b": "¡Gracias por tu correo!"
+                },
+                {
+                  "a": "Our team is training.",
+                  "b": "Mi equipo está entrenando."
+                },
+                {
+                  "a": "Can you tell me about basketball?",
+                  "b": "¿Me podés contar sobre el básquet?"
+                },
+                {
+                  "a": "Would you like to have a video call?",
+                  "b": "¿Querés que hagamos una videollamada?"
+                },
+                {
+                  "a": "Write back soon!",
+                  "b": "¡Escribime pronto!"
+                }
+              ],
+              "explicacion": "Así queda en castellano: Hola, Joaquín: ¿Cómo estás? ¡Gracias por tu correo! Mi equipo está entrenando para un torneo nuevo, así que este mes estoy muy ocupado. ¿Me podés contar sobre el básquet en la Argentina? ¿Es popular? ¿Querés que hagamos una videollamada el sábado que viene? ¡Escribime pronto! Ben"
+            },
+            "mia": {
+              "pares": [
+                {
+                  "a": "How are things in Rosario?",
+                  "b": "¿Cómo andan las cosas en Rosario?"
+                },
+                {
+                  "a": "It's very hot.",
+                  "b": "Hace mucho calor."
+                },
+                {
+                  "a": "Could you tell me about your holidays?",
+                  "b": "¿Me podrías contar sobre tus vacaciones?"
+                },
+                {
+                  "a": "Would you like to see some photos?",
+                  "b": "¿Querés ver algunas fotos?"
+                },
+                {
+                  "a": "Take care,",
+                  "b": "Cuidate."
+                }
+              ],
+              "explicacion": "Así queda en castellano: Hola, Joaquín: ¿Cómo andan las cosas en Rosario? Acá en Sídney hace mucho calor, y nuestras vacaciones de verano empiezan en diciembre. ¿Me podrías contar sobre tus vacaciones de verano? ¿Querés ver algunas fotos de la playa? Te las puedo mandar el viernes. Cuidate. Mia"
+            },
+            "liam": {
+              "pares": [
+                {
+                  "a": "Thanks for the song!",
+                  "b": "¡Gracias por la canción!"
+                },
+                {
+                  "a": "I listened to it three times.",
+                  "b": "La escuché tres veces."
+                },
+                {
+                  "a": "Could you send me the lyrics?",
+                  "b": "¿Me podrías mandar la letra?"
+                },
+                {
+                  "a": "Would you like to hear my band?",
+                  "b": "¿Querés escuchar a mi banda?"
+                },
+                {
+                  "a": "Cheers,",
+                  "b": "Saludos."
+                }
+              ],
+              "explicacion": "Así queda en castellano: Hola, Joaquín: ¿Cómo estás? ¡Gracias por la canción que me mandaste! La escuché tres veces. ¿Me podrías mandar la letra? La quiero tocar con mi guitarra. ¿Querés escuchar a mi banda? Podemos compartir un video la semana que viene. Saludos. Liam"
+            }
+          }
+        },
+        {
+          "t": "vf",
+          "consigna": "Leé cada afirmación sobre mi correo y marcá si es verdadera o falsa.",
+          "habla": true,
+          "porPersonaje": {
+            "lucy": {
+              "afirmaciones": [
+                {
+                  "texto": "Es un correo informal.",
+                  "v": true,
+                  "explicacion": "Empieza con Hi y termina con See you soon."
+                },
+                {
+                  "texto": "Lucy le pide a Joaquín una foto de su escuela.",
+                  "v": true,
+                  "explicacion": "Could you send me a photo of your school?"
+                },
+                {
+                  "texto": "Lucy invita a Joaquín a una videollamada.",
+                  "v": false,
+                  "explicacion": "Le ofrece mandarle un video de la obra."
+                },
+                {
+                  "texto": "Lucy está muy ocupada por los ensayos.",
+                  "v": true,
+                  "explicacion": "We are practising a new play, so I'm very busy."
+                }
+              ]
+            },
+            "ben": {
+              "afirmaciones": [
+                {
+                  "texto": "Es un correo informal.",
+                  "v": true,
+                  "explicacion": "Empieza con Hi y termina con Write back soon!"
+                },
+                {
+                  "texto": "Ben le pregunta a Joaquín por el básquet en la Argentina.",
+                  "v": true,
+                  "explicacion": "Can you tell me about basketball in Argentina?"
+                },
+                {
+                  "texto": "Ben invita a Joaquín a un partido en Chicago.",
+                  "v": false,
+                  "explicacion": "Lo invita a una videollamada el sábado."
+                },
+                {
+                  "texto": "Ben está ocupado porque su equipo entrena para un torneo.",
+                  "v": true,
+                  "explicacion": "Our team is training for a new tournament."
+                }
+              ]
+            },
+            "mia": {
+              "afirmaciones": [
+                {
+                  "texto": "Es un correo informal.",
+                  "v": true,
+                  "explicacion": "Empieza con Hi y termina con Take care."
+                },
+                {
+                  "texto": "Mia le pregunta a Joaquín por sus vacaciones de verano.",
+                  "v": true,
+                  "explicacion": "Could you tell me about your summer holidays?"
+                },
+                {
+                  "texto": "En Sídney hace frío.",
+                  "v": false,
+                  "explicacion": "It's very hot: hace mucho calor."
+                },
+                {
+                  "texto": "Mia le ofrece mandarle fotos de la playa.",
+                  "v": true,
+                  "explicacion": "Would you like to see some photos of the beach?"
+                }
+              ]
+            },
+            "liam": {
+              "afirmaciones": [
+                {
+                  "texto": "Es un correo informal.",
+                  "v": true,
+                  "explicacion": "Empieza con Hi y termina con Cheers."
+                },
+                {
+                  "texto": "Liam le pide a Joaquín la letra de la canción.",
+                  "v": true,
+                  "explicacion": "Could you send me the lyrics?"
+                },
+                {
+                  "texto": "Liam escuchó la canción una sola vez.",
+                  "v": false,
+                  "explicacion": "I listened to it three times: tres veces."
+                },
+                {
+                  "texto": "Liam le ofrece escuchar a su banda.",
+                  "v": true,
+                  "explicacion": "Would you like to hear my band?"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "t": "dictado",
+          "voz": "personaje",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "Could you send me a photo of your school?",
+              "traduccion": "(¿Me podrías mandar una foto de tu escuela?)",
+              "explicacion": "Could you + verbo base: un pedido cortés."
+            },
+            "ben": {
+              "texto": "Would you like to have a video call?",
+              "traduccion": "(¿Querés que hagamos una videollamada?)",
+              "explicacion": "Would you like to + verbo base: una invitación."
+            },
+            "mia": {
+              "texto": "Could you tell me about your summer holidays?",
+              "traduccion": "(¿Me podrías contar sobre tus vacaciones de verano?)",
+              "explicacion": "Could you + verbo base: un pedido cortés."
+            },
+            "liam": {
+              "texto": "Could you send me the lyrics?",
+              "traduccion": "(¿Me podrías mandar la letra?)",
+              "explicacion": "Could you + verbo base: un pedido cortés."
+            }
+          }
+        },
+        {
+          "t": "clasificar",
+          "etiqueta": "🚦 Semáforo",
+          "consigna": "¿Cada acción respeta las normas para comunicarse en línea?",
+          "categorias": [
+            "Sí, está bien",
+            "No, hay que evitarla"
+          ],
+          "items": [
+            {
+              "texto": "Saludar y agradecer en un mensaje.",
+              "cat": "Sí, está bien"
+            },
+            {
+              "texto": "Releer el mensaje antes de enviarlo.",
+              "cat": "Sí, está bien"
+            },
+            {
+              "texto": "Preguntar antes de publicar la foto de un amigo.",
+              "cat": "Sí, está bien"
+            },
+            {
+              "texto": "Escribir todo en mayúsculas.",
+              "cat": "No, hay que evitarla"
+            },
+            {
+              "texto": "Mandar tu contraseña por chat.",
+              "cat": "No, hay que evitarla"
+            },
+            {
+              "texto": "Publicar tu dirección en una red social.",
+              "cat": "No, hay que evitarla"
+            }
+          ],
+          "explicacion": "Las normas piden ser amable, releer y pedir permiso. Las mayúsculas se leen como gritos, y la contraseña y la dirección no se comparten.",
+          "pista": "Volvé a leer las cinco normas del recuadro de esta parte."
+        },
+        {
+          "t": "pronunciar",
+          "voz": "personaje",
+          "modo": "escuchar",
+          "porPersonaje": {
+            "lucy": {
+              "texto": "Thanks for your message!",
+              "traduccion": "(¡Gracias por tu mensaje!)",
+              "explicacion": "Thanks empieza con la lengua entre los dientes: \"zanks\", muy suave."
+            },
+            "ben": {
+              "texto": "Write back soon!",
+              "traduccion": "(¡Escribime pronto!)",
+              "explicacion": "En write la w no suena: \"ráit\"."
+            },
+            "mia": {
+              "texto": "How are things in Rosario?",
+              "traduccion": "(¿Cómo andan las cosas en Rosario?)",
+              "explicacion": "Things empieza con la lengua entre los dientes, como thanks."
+            },
+            "liam": {
+              "texto": "I listened to it three times.",
+              "traduccion": "(La escuché tres veces.)",
+              "explicacion": "En listened la t no suena: \"lísend\"."
+            }
+          }
+        },
+        {
+          "t": "revelar",
+          "habla": true,
+          "pregunta": "En mi correo hay un pedido y una invitación. ¿Cuál es cada uno? Buscalos antes de mirar.",
+          "porPersonaje": {
+            "lucy": {
+              "respuesta": "El pedido: [[Could you send me a photo of your school?]] La invitación: [[Would you like to see a video of our play?]] Fijate que el pedido empieza con could y la invitación, con would you like."
+            },
+            "ben": {
+              "respuesta": "El pedido: [[Can you tell me about basketball in Argentina?]] La invitación: [[Would you like to have a video call next Saturday?]] Fijate que el pedido empieza con can y la invitación, con would you like."
+            },
+            "mia": {
+              "respuesta": "El pedido: [[Could you tell me about your summer holidays?]] La invitación: [[Would you like to see some photos of the beach?]] Fijate que el pedido empieza con could y la invitación, con would you like."
+            },
+            "liam": {
+              "respuesta": "El pedido: [[Could you send me the lyrics?]] La invitación: [[Would you like to hear my band?]] Fijate que el pedido empieza con could y la invitación, con would you like."
+            }
+          }
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Ahora contá en tu carpeta cómo me comunico con Joaquín, como una parte más de mi biografía. Escribí en inglés un párrafo de cinco a siete oraciones en tercera persona: a quién le escribo, qué le cuento, qué le pido y a qué lo invito. Usá el presente simple y agregá un detalle que inventes vos.",
+        "habla": true,
+        "porPersonaje": {
+          "lucy": {
+            "guia": [
+              "Empezá así: [[Lucy has an online friend in Argentina. His name is Joaquín.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[She writes emails to…]] [[She tells him about…]] [[She asks him to…]] [[She invites him to…]]",
+              "¿Usaste she y el verbo con -s (writes, tells, asks)?",
+              "¿Contaste qué le pide Lucy y a qué lo invita?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "ben": {
+            "guia": [
+              "Empezá así: [[Ben has an online friend in Argentina. His name is Joaquín.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[He writes emails to…]] [[He tells him about…]] [[He asks him to…]] [[He invites him to…]]",
+              "¿Usaste he y el verbo con -s (writes, tells, asks)?",
+              "¿Contaste qué le pide Ben y a qué lo invita?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "mia": {
+            "guia": [
+              "Empezá así: [[Mia has an online friend in Argentina. His name is Joaquín.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[She writes emails to…]] [[She tells him about…]] [[She asks him to…]] [[She invites him to…]]",
+              "¿Usaste she y el verbo con -s (writes, tells, asks)?",
+              "¿Contaste qué le pide Mia y a qué lo invita?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          },
+          "liam": {
+            "guia": [
+              "Empezá así: [[Liam has an online friend in Argentina. His name is Joaquín.]] Después seguí vos.",
+              "Para seguir, podés usar estos comienzos: [[He writes emails to…]] [[He tells him about…]] [[He asks him to…]] [[He invites him to…]]",
+              "¿Usaste he y el verbo con -s (writes, tells, asks)?",
+              "¿Contaste qué le pide Liam y a qué lo invita?",
+              "¿Agregaste un detalle que inventaste vos?"
+            ]
+          }
+        }
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Netiquette son las normas para comunicarse en línea.",
+          "respuesta": true,
+          "explicacion": "Net (red) + etiquette (buenos modales)."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Escribir todo en mayúsculas se lee como si gritaras.",
+          "respuesta": true,
+          "explicacion": "Don't write in capital letters."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Está bien compartir la contraseña con un amigo por chat.",
+          "respuesta": false,
+          "explicacion": "La contraseña no se comparte."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Antes de publicar la foto de otra persona hay que preguntarle.",
+          "respuesta": true,
+          "explicacion": "Ask before you post a photo of someone."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El correo del personaje a Joaquín es formal.",
+          "respuesta": false,
+          "explicacion": "Es informal: empieza con Hi."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Take care\" es una despedida informal.",
+          "respuesta": true,
+          "explicacion": "Cuidate."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"Read your message before you send it\"?",
+          "opciones": [
+            "Releé tu mensaje antes de enviarlo",
+            "Mandá tu mensaje rápido",
+            "No leas los mensajes de otras personas antes de responder",
+            "Borrá tu mensaje"
+          ],
+          "correcta": 0,
+          "explicacion": "Before = antes de."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué no se comparte en línea?",
+          "opciones": [
+            "La contraseña",
+            "Un saludo",
+            "Una foto de un paisaje",
+            "Un agradecimiento"
+          ],
+          "correcta": 0,
+          "explicacion": "Password = contraseña."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir password?",
+          "opciones": [
+            "Contraseña",
+            "Pasaporte",
+            "Mensaje",
+            "Dirección de correo"
+          ],
+          "correcta": 0,
+          "explicacion": "Password = contraseña."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"Be polite\"?",
+          "opciones": [
+            "Sé amable",
+            "Sé rápido",
+            "Sé breve",
+            "Sé gracioso"
+          ],
+          "correcta": 0,
+          "explicacion": "Polite = amable, educado."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Con qué palabra empieza una invitación?",
+          "opciones": [
+            "Would you like…?",
+            "Thanks for…",
+            "See you soon…",
+            "Dear Mr and Ms Smith…"
+          ],
+          "correcta": 0,
+          "explicacion": "Would you like to…?"
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué quiere decir \"Write back soon!\"?",
+          "opciones": [
+            "¡Escribime pronto!",
+            "¡Escribí atrás!",
+            "¡Volvé pronto a casa!",
+            "¡No me escribas!"
+          ],
+          "correcta": 0,
+          "explicacion": "Write back = contestar por escrito."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "PASSWORD",
+          "pista": "Contraseña, en inglés."
+        },
+        {
+          "palabra": "POLITE",
+          "pista": "Amable, educado."
+        },
+        {
+          "palabra": "POST",
+          "pista": "Publicar en una red."
+        },
+        {
+          "palabra": "SHARE",
+          "pista": "Compartir, en inglés."
+        },
+        {
+          "palabra": "SEND",
+          "pista": "Enviar, en inglés."
+        },
+        {
+          "palabra": "ONLINE",
+          "pista": "En línea."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué acción respeta las normas en línea?",
+          "opciones": [
+            "Preguntar antes de publicar la foto de alguien",
+            "Escribir todo en mayúsculas para que se lea mejor",
+            "Compartir tu dirección",
+            "Mandar tu contraseña"
+          ],
+          "correcta": 0,
+          "explicacion": "Ask before you post."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué parte de un correo es \"Would you like to see some photos?\"",
+          "opciones": [
+            "Una invitación u ofrecimiento",
+            "Un saludo",
+            "Una despedida con la firma de quien escribe",
+            "Una firma"
+          ],
+          "correcta": 0,
+          "explicacion": "Would you like = ofrecer o invitar."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"Don't share your address\" quiere decir \"No compartas tu dirección\".",
+          "respuesta": true,
+          "explicacion": "Address = dirección."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "[[Dear]]",
+      "definicion": "Estimado, estimada. Saludo de un correo formal."
+    },
+    {
+      "palabra": "[[Best regards]]",
+      "definicion": "Saludos cordiales. Despedida formal."
+    },
+    {
+      "palabra": "[[Could you…?]]",
+      "definicion": "¿Podría…? Para pedir con cortesía."
+    },
+    {
+      "palabra": "[[Would you like to…?]]",
+      "definicion": "¿Querés…? Para invitar u ofrecer."
+    },
+    {
+      "palabra": "[[Sure!]]",
+      "definicion": "¡Claro! Para aceptar."
+    },
+    {
+      "palabra": "[[password]]",
+      "definicion": "Contraseña."
+    },
+    {
+      "palabra": "[[netiquette]]",
+      "definicion": "Normas para comunicarse en línea."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "Could you sends me the file?",
+      "aclaracion": "Después de could va el verbo base: Could you send me the file?"
+    },
+    {
+      "error": "Dear Ms Brown, I'm writing… Love, Ana",
+      "aclaracion": "En un correo formal no van contracciones ni Love: I am writing… Best regards, Ana."
+    },
+    {
+      "error": "Do you like to come to my party?",
+      "aclaracion": "Para invitar se usa would: Would you like to come to my party?"
+    }
+  ]
+}

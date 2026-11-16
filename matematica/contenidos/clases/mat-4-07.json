@@ -1,0 +1,953 @@
+{
+ "id": "mat-4-07",
+ "espacio": "matematica",
+ "eje": "Geometría y medida",
+ "titulo": "Razones trigonométricas y circunferencia trigonométrica",
+ "intro": "El seno y el coseno relacionan los ángulos de un triángulo rectángulo con la medida de sus lados. Con la circunferencia trigonométrica vas a calcularlos para cualquier ángulo de hasta un giro, sin necesidad de dibujar triángulos.",
+ "objetivos": [
+  "Calcular el seno y el coseno de un ángulo agudo en un triángulo rectángulo.",
+  "Ubicar ángulos en la circunferencia trigonométrica y leer en ella el seno y el coseno.",
+  "Calcular el seno y el coseno de 30°, 45°, 60° y sus múltiplos en los otros cuadrantes."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: las definiciones de seno y coseno, la circunferencia trigonométrica, la tabla de ángulos notables y cómo pasar un ángulo de otro cuadrante al primero.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "Seno y coseno en el triángulo rectángulo",
+   "tiempo": "35 a 45 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Los lados según el ángulo",
+     "texto": "En un triángulo rectángulo, el lado opuesto al ángulo recto es la **hipotenusa**. Si elegís uno de los ángulos agudos, que llamamos α (alfa), los otros dos lados tienen nombre según su posición: el **cateto opuesto** está enfrente de α y el **cateto adyacente** forma α junto con la hipotenusa."
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/mat-4-07-triangulo.svg",
+     "src_movil": "img/clases/mat-4-07-triangulo-movil.svg",
+     "tipo": "grafico",
+     "animacion": "svg",
+     "alt": "Triángulo rectángulo con un ángulo α. La hipotenusa está en un color, el cateto opuesto a α en otro y el cateto adyacente en un tercero. Al lado: seno de α es opuesto sobre hipotenusa y coseno de α es adyacente sobre hipotenusa.",
+     "epigrafe": "Los tres lados, nombrados desde el ángulo α. Esquema elaborado para esta clase."
+    },
+    {
+     "t": "destacado",
+     "texto": "**sen α = cateto opuesto / hipotenusa**\n**cos α = cateto adyacente / hipotenusa**\nEn el triángulo de lados 3, 4 y 5, si α está enfrente del lado 3: sen α = 3/5 = 0,6 y cos α = 4/5 = 0,8."
+    },
+    {
+     "t": "ejemplo",
+     "titulo": "Pensalo así",
+     "texto": "Si duplicás todos los lados del triángulo 3, 4, 5, obtenés 6, 8, 10. El ángulo α es el mismo, y sen α = 6/10 = 0,6 otra vez. Los triángulos son semejantes: por eso el seno y el coseno dependen solo del ángulo, no del tamaño del triángulo."
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá las definiciones.",
+     "texto": "El seno de α es el cateto [[opuesto]] dividido por la [[hipotenusa]]. El coseno de α es el cateto [[adyacente]] dividido por la hipotenusa.",
+     "distractores": [
+      "mayor",
+      "base",
+      "altura"
+     ],
+     "explicacion": "sen α = opuesto / hipotenusa y cos α = adyacente / hipotenusa.",
+     "pista": "Releé el recuadro de esta parte."
+    },
+    {
+     "t": "verificar",
+     "consigna": "Un triángulo rectángulo tiene catetos de 6 cm y 8 cm, y su hipotenusa mide 10 cm. ¿Cuánto vale el seno del ángulo que está enfrente del cateto de 6 cm?",
+     "respuesta": "0.6",
+     "explicacion": "sen α = opuesto / hipotenusa = 6 / 10 = 0,6.",
+     "pista1": "El cateto de 6 cm es el opuesto. ¿Cuál es la hipotenusa?",
+     "pista": "Dividí 6 por 10."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "En el triángulo de lados 3, 4 y 5, α está enfrente del lado 3. ¿Cuánto vale cos α?",
+     "opciones": [
+      "0,6",
+      "0,75",
+      "0,8",
+      "1,33"
+     ],
+     "correcta": 2,
+     "explicacion": "El cateto adyacente a α mide 4: cos α = 4 / 5 = 0,8.",
+     "pista": "El coseno usa el cateto adyacente, el que forma α junto con la hipotenusa."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "El seno de un ángulo agudo es siempre menor que 1.",
+       "v": true,
+       "explicacion": "El cateto opuesto es más corto que la hipotenusa."
+      },
+      {
+       "texto": "Si el triángulo es más grande, el seno de α es más grande.",
+       "v": false,
+       "explicacion": "En triángulos semejantes el ángulo es el mismo y el seno también.",
+       "pista": "Releé el recuadro \"Pensalo así\"."
+      },
+      {
+       "texto": "La hipotenusa es el lado opuesto al ángulo recto.",
+       "v": true,
+       "explicacion": "Es además el lado más largo."
+      },
+      {
+       "texto": "El cateto opuesto a α es el que forma α junto con la hipotenusa.",
+       "v": false,
+       "explicacion": "Ese es el adyacente. El opuesto está enfrente de α.",
+       "pista": "Mirá el dibujo del triángulo."
+      }
+     ]
+    },
+    {
+     "t": "revelar",
+     "pregunta": "En un triángulo rectángulo, ¿qué relación hay entre el seno de un ángulo agudo y el coseno del otro ángulo agudo?",
+     "respuesta": "Son iguales. El cateto que es opuesto a un ángulo es adyacente al otro. Por ejemplo, en el triángulo 3, 4, 5, el seno de un ángulo y el coseno del otro valen 3/5."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Dibujá un triángulo rectángulo, marcá un ángulo α y nombrá sus lados. Escribí las definiciones de seno y coseno y calculalos en el triángulo de lados 3, 4 y 5.",
+    "guia": [
+     "¿Cuál es la hipotenusa y cómo reconocés el cateto opuesto y el adyacente?",
+     "¿Cómo se calculan el seno y el coseno de α?",
+     "En el triángulo de lados 3, 4 y 5, calculá el seno y el coseno del ángulo opuesto al lado 3.",
+     "¿Por qué el seno no cambia si el triángulo es más grande?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "sen α = cateto opuesto / hipotenusa.",
+     "respuesta": true,
+     "explicacion": "Es la definición."
+    },
+    {
+     "tipo": "vf",
+     "texto": "cos α = cateto opuesto / hipotenusa.",
+     "respuesta": false,
+     "explicacion": "El coseno usa el cateto adyacente."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el triángulo 3, 4, 5, sen α puede valer 0,6.",
+     "respuesta": true,
+     "explicacion": "Si α está enfrente del lado 3."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La hipotenusa es el lado más corto.",
+     "respuesta": false,
+     "explicacion": "Es el más largo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Dos triángulos semejantes tienen el mismo seno para el mismo ángulo.",
+     "respuesta": true,
+     "explicacion": "Sus lados son proporcionales."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El seno de un ángulo agudo puede valer 1,5.",
+     "respuesta": false,
+     "explicacion": "El opuesto es menor que la hipotenusa."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Con opuesto 5 e hipotenusa 13, sen α vale…",
+     "opciones": [
+      "5/12",
+      "12/13",
+      "13/5",
+      "5/13"
+     ],
+     "correcta": 3,
+     "explicacion": "Opuesto sobre hipotenusa."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "El lado opuesto al ángulo recto se llama…",
+     "opciones": [
+      "hipotenusa",
+      "cateto",
+      "base",
+      "altura"
+     ],
+     "correcta": 0,
+     "explicacion": "Es la hipotenusa."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Con adyacente 8 e hipotenusa 10, cos α vale…",
+     "opciones": [
+      "0,6",
+      "0,8",
+      "1,25",
+      "0,75"
+     ],
+     "correcta": 1,
+     "explicacion": "8 / 10 = 0,8."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "El cateto adyacente a α es el que…",
+     "opciones": [
+      "está enfrente de α",
+      "es el más largo",
+      "forma α junto con la hipotenusa",
+      "está enfrente del recto"
+     ],
+     "correcta": 2,
+     "explicacion": "Está pegado a α."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Si duplicás los lados de un triángulo, el seno de α…",
+     "opciones": [
+      "se duplica",
+      "queda igual",
+      "se reduce a la mitad",
+      "se hace 1"
+     ],
+     "correcta": 1,
+     "explicacion": "Depende solo del ángulo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En el triángulo 3, 4, 5, ¿qué vale el seno del ángulo enfrente del 4?",
+     "opciones": [
+      "0,75",
+      "0,6",
+      "1,25",
+      "0,8"
+     ],
+     "correcta": 3,
+     "explicacion": "4 / 5 = 0,8."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "HIPOTENUSA",
+     "pista": "Lado opuesto al ángulo recto."
+    },
+    {
+     "palabra": "CATETO",
+     "pista": "Cada uno de los lados que forman el ángulo recto."
+    },
+    {
+     "palabra": "SENO",
+     "pista": "Cateto opuesto sobre hipotenusa."
+    },
+    {
+     "palabra": "COSENO",
+     "pista": "Cateto adyacente sobre hipotenusa."
+    },
+    {
+     "palabra": "ADYACENTE",
+     "pista": "Cateto que forma el ángulo junto con la hipotenusa."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "En un triángulo con opuesto 9, adyacente 12 e hipotenusa 15, ¿cuánto vale sen α?",
+     "opciones": [
+      "0,75",
+      "0,8",
+      "0,6",
+      "1,25"
+     ],
+     "correcta": 2,
+     "explicacion": "9 / 15 = 0,6."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué el seno de un ángulo agudo es siempre menor que 1?",
+     "opciones": [
+      "El opuesto es más corto que la hipotenusa",
+      "El ángulo es menor que 90°",
+      "Los lados son enteros",
+      "La hipotenusa vale 1"
+     ],
+     "correcta": 0,
+     "explicacion": "Al dividir un número por otro más grande, da menos que 1."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el mismo triángulo, el seno de un ángulo agudo es igual al coseno del otro.",
+     "respuesta": true,
+     "explicacion": "El opuesto a uno es el adyacente al otro."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "La circunferencia trigonométrica",
+   "tiempo": "40 a 50 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Una circunferencia de radio 1",
+     "texto": "La **circunferencia trigonométrica** tiene centro en el origen y **radio 1**. Los ángulos se miden desde la parte positiva del eje x, girando en sentido contrario a las agujas del reloj, de 0° a 360°.\n\nCada ángulo marca un punto P de la circunferencia. Como la hipotenusa mide 1, **el coseno es la coordenada x de P y el seno es la coordenada y**. Así se puede hablar del seno y el coseno de 120° o de 300°, aunque no haya un triángulo con esos ángulos."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Ángulos notables del primer cuadrante",
+     "columnas": [
+      "Ángulo",
+      "sen",
+      "cos"
+     ],
+     "filas": [
+      [
+       "0°",
+       "0",
+       "1"
+      ],
+      [
+       "30°",
+       "1/2 = 0,5",
+       "√3/2 ≈ 0,87"
+      ],
+      [
+       "45°",
+       "√2/2 ≈ 0,71",
+       "√2/2 ≈ 0,71"
+      ],
+      [
+       "60°",
+       "√3/2 ≈ 0,87",
+       "1/2 = 0,5"
+      ],
+      [
+       "90°",
+       "1",
+       "0"
+      ]
+     ]
+    },
+    {
+     "t": "destacado",
+     "texto": "Los ejes dividen la circunferencia en cuatro **cuadrantes**. En el **primero** (0° a 90°), seno y coseno son positivos. En el **segundo** (90° a 180°), el seno es positivo y el coseno, negativo. En el **tercero** (180° a 270°), los dos son negativos. En el **cuarto** (270° a 360°), el seno es negativo y el coseno, positivo."
+    },
+    {
+     "t": "sim",
+     "sim": "circulo",
+     "titulo": "Circunferencia trigonométrica",
+     "inicial": 60,
+     "consigna": "Mové el ángulo hasta encontrar uno del segundo cuadrante cuyo seno sea 0,5.",
+     "objetivo": {
+      "cumple": {
+       "angulo": 150
+      },
+      "cerca": {
+       "seno": 0.5
+      },
+      "mensaje_cerca": "Ese ángulo tiene seno 0,5, pero está en el primer cuadrante. Buscá otro en el segundo, entre 90° y 180°."
+     },
+     "explicacion": "Es 150°. Tiene la misma altura que 30°, del otro lado del eje y: sen 150° = 0,5. Su coseno es negativo: cos 150° ≈ −0,87."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿En qué cuadrante está cada ángulo?",
+     "categorias": [
+      "Primero",
+      "Segundo",
+      "Tercero",
+      "Cuarto"
+     ],
+     "items": [
+      {
+       "texto": "45°",
+       "cat": "Primero"
+      },
+      {
+       "texto": "100°",
+       "cat": "Segundo"
+      },
+      {
+       "texto": "120°",
+       "cat": "Segundo"
+      },
+      {
+       "texto": "200°",
+       "cat": "Tercero"
+      },
+      {
+       "texto": "260°",
+       "cat": "Tercero"
+      },
+      {
+       "texto": "315°",
+       "cat": "Cuarto"
+      }
+     ],
+     "explicacion": "Primero: de 0° a 90°. Segundo: de 90° a 180°. Tercero: de 180° a 270°. Cuarto: de 270° a 360°.",
+     "pista": "Releé el recuadro: cada cuadrante abarca 90°."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada ángulo con su punto en la circunferencia trigonométrica.",
+     "pares": [
+      {
+       "a": "0°",
+       "b": "(1, 0)"
+      },
+      {
+       "a": "90°",
+       "b": "(0, 1)"
+      },
+      {
+       "a": "180°",
+       "b": "(−1, 0)"
+      },
+      {
+       "a": "270°",
+       "b": "(0, −1)"
+      }
+     ],
+     "explicacion": "Son los cuatro puntos donde la circunferencia corta los ejes. El primer número es el coseno y el segundo, el seno.",
+     "pista": "Si no te acordás, probá esos ángulos en el simulador."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "En el tercer cuadrante, ¿cómo son el seno y el coseno?",
+     "opciones": [
+      "Los dos positivos",
+      "Seno positivo, coseno negativo",
+      "Los dos negativos",
+      "Seno negativo, coseno positivo"
+     ],
+     "correcta": 2,
+     "explicacion": "En el tercer cuadrante el punto P está abajo y a la izquierda: sus dos coordenadas son negativas.",
+     "pista": "Pensá en qué lado de cada eje queda el punto P."
+    },
+    {
+     "t": "revelar",
+     "pregunta": "¿Puede el seno de algún ángulo valer 2?",
+     "respuesta": "No. El seno es la altura de un punto de una circunferencia de radio 1, así que siempre está entre −1 y 1. Lo mismo pasa con el coseno."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Dibujá la circunferencia trigonométrica con los cuatro cuadrantes y los signos del seno y el coseno en cada uno. Copiá la tabla de ángulos notables y ubicá 30°, 45° y 60°.",
+    "guia": [
+     "¿Qué radio tiene la circunferencia trigonométrica y desde dónde y en qué sentido se miden los ángulos?",
+     "¿Qué coordenada de P es el coseno y cuál es el seno?",
+     "¿Qué signos tienen el seno y el coseno en cada cuadrante?",
+     "¿Cuánto valen el seno y el coseno de 30°, 45° y 60°?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La circunferencia trigonométrica tiene radio 1.",
+     "respuesta": true,
+     "explicacion": "Por eso el seno y el coseno son coordenadas de P."
+    },
+    {
+     "tipo": "vf",
+     "texto": "sen 30° = 0,5.",
+     "respuesta": true,
+     "explicacion": "Está en la tabla de ángulos notables."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el segundo cuadrante el coseno es positivo.",
+     "respuesta": false,
+     "explicacion": "Es negativo: P está a la izquierda del eje y."
+    },
+    {
+     "tipo": "vf",
+     "texto": "cos 90° = 0.",
+     "respuesta": true,
+     "explicacion": "El punto es (0, 1)."
+    },
+    {
+     "tipo": "vf",
+     "texto": "sen 45° y cos 45° son iguales.",
+     "respuesta": true,
+     "explicacion": "Los dos valen √2/2."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los ángulos se miden en el sentido de las agujas del reloj.",
+     "respuesta": false,
+     "explicacion": "En sentido contrario."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "cos 60° vale…",
+     "opciones": [
+      "0,5",
+      "0,87",
+      "0,71",
+      "1"
+     ],
+     "correcta": 0,
+     "explicacion": "cos 60° = 1/2."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En qué cuadrante está 135°?",
+     "opciones": [
+      "Primero",
+      "Tercero",
+      "Segundo",
+      "Cuarto"
+     ],
+     "correcta": 2,
+     "explicacion": "Entre 90° y 180°."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "El punto de 180° es…",
+     "opciones": [
+      "(1, 0)",
+      "(0, −1)",
+      "(0, 1)",
+      "(−1, 0)"
+     ],
+     "correcta": 3,
+     "explicacion": "Está sobre el eje x, a la izquierda."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "sen 60° vale aproximadamente…",
+     "opciones": [
+      "0,5",
+      "0,87",
+      "0,71",
+      "0"
+     ],
+     "correcta": 1,
+     "explicacion": "√3/2 ≈ 0,87."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En el cuarto cuadrante, el seno es…",
+     "opciones": [
+      "positivo",
+      "cero",
+      "negativo",
+      "mayor que 1"
+     ],
+     "correcta": 2,
+     "explicacion": "P está debajo del eje x."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "En la circunferencia trigonométrica, el seno es…",
+     "opciones": [
+      "la coordenada x de P",
+      "la coordenada y de P",
+      "el radio",
+      "el ángulo"
+     ],
+     "correcta": 1,
+     "explicacion": "Es la altura del punto."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "CUADRANTE",
+     "pista": "Cada una de las cuatro partes que forman los ejes."
+    },
+    {
+     "palabra": "RADIO",
+     "pista": "En la circunferencia trigonométrica mide 1."
+    },
+    {
+     "palabra": "NOTABLES",
+     "pista": "Ángulos como 30°, 45° y 60°."
+    },
+    {
+     "palabra": "COORDENADA",
+     "pista": "El seno es la ___ y del punto P."
+    },
+    {
+     "palabra": "GIRO",
+     "pista": "Una vuelta completa: 360°."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuánto vale sen 90°?",
+     "opciones": [
+      "0",
+      "0,5",
+      "1",
+      "−1"
+     ],
+     "correcta": 2,
+     "explicacion": "El punto de 90° es (0, 1)."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué signos tienen el seno y el coseno de 300°?",
+     "opciones": [
+      "Seno negativo y coseno positivo",
+      "Los dos positivos",
+      "Los dos negativos",
+      "Seno positivo y coseno negativo"
+     ],
+     "correcta": 0,
+     "explicacion": "300° está en el cuarto cuadrante."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El coseno es la coordenada x del punto P.",
+     "respuesta": true,
+     "explicacion": "Y el seno es la coordenada y."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "Ángulos de otros cuadrantes",
+   "tiempo": "35 a 45 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Volver al primer cuadrante",
+     "texto": "Los ángulos de 150°, 210° y 330° tienen puntos **simétricos** del de 30°: forman 30° con el eje x. Por eso su seno y su coseno tienen los **mismos valores** que los de 30°, con el **signo** que corresponde a su cuadrante. Ese ángulo de 30° se llama **ángulo de referencia**."
+    },
+    {
+     "t": "imagen",
+     "src": "img/clases/mat-4-07-simetria.svg",
+     "src_movil": "img/clases/mat-4-07-simetria-movil.svg",
+     "tipo": "grafico",
+     "animacion": "svg",
+     "alt": "Circunferencia trigonométrica con los ángulos de 30°, 150°, 210° y 330°. Sus puntos son (0,87; 0,5), (−0,87; 0,5), (−0,87; −0,5) y (0,87; −0,5).",
+     "epigrafe": "Los cuatro ángulos que forman 30° con el eje x. Esquema elaborado para esta clase."
+    },
+    {
+     "t": "pasos",
+     "titulo": "Calculá sen 210°",
+     "pasos": [
+      {
+       "titulo": "Ubicá el cuadrante",
+       "texto": "210° está entre 180° y 270°: tercer cuadrante."
+      },
+      {
+       "titulo": "Buscá el ángulo de referencia",
+       "texto": "210° − 180° = 30°."
+      },
+      {
+       "titulo": "Poné el signo del cuadrante",
+       "texto": "En el tercer cuadrante el seno es negativo: sen 210° = −sen 30° = **−0,5**."
+      }
+     ]
+    },
+    {
+     "t": "destacado",
+     "texto": "Como el radio mide 1, por el teorema de Pitágoras vale siempre **sen² α + cos² α = 1**. Si conocés uno de los dos, podés calcular el otro."
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Cuánto vale cos 120°?",
+     "respuesta": "-0.5",
+     "explicacion": "120° está en el segundo cuadrante; su ángulo de referencia es 180° − 120° = 60°. cos 60° = 0,5 y en el segundo cuadrante el coseno es negativo: cos 120° = −0,5.",
+     "pista1": "Empezá por el cuadrante y el ángulo de referencia, como en el paso a paso.",
+     "pista": "El ángulo de referencia es 60°. Buscá cos 60° en la tabla y poné el signo del segundo cuadrante."
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada ángulo con su ángulo de referencia.",
+     "pares": [
+      {
+       "a": "150°",
+       "b": "30°"
+      },
+      {
+       "a": "225°",
+       "b": "45°"
+      },
+      {
+       "a": "300°",
+       "b": "60°"
+      },
+      {
+       "a": "180°",
+       "b": "0°"
+      }
+     ],
+     "explicacion": "150° = 180° − 30°; 225° = 180° + 45°; 300° = 360° − 60°; 180° está sobre el eje x.",
+     "pista": "Calculá cuánto le falta o le sobra a cada ángulo para llegar a 180° o a 360°."
+    },
+    {
+     "t": "vf",
+     "afirmaciones": [
+      {
+       "texto": "sen 150° = sen 30°.",
+       "v": true,
+       "explicacion": "Los dos valen 0,5."
+      },
+      {
+       "texto": "cos 210° = cos 30°.",
+       "v": false,
+       "explicacion": "Tienen el mismo valor pero distinto signo: cos 210° ≈ −0,87.",
+       "pista": "Pensá qué signo tiene el coseno en el tercer cuadrante."
+      },
+      {
+       "texto": "sen 330° = −0,5.",
+       "v": true,
+       "explicacion": "Ángulo de referencia 30°, cuarto cuadrante: seno negativo."
+      },
+      {
+       "texto": "sen² 30° + cos² 30° = 1.",
+       "v": true,
+       "explicacion": "0,25 + 0,75 = 1."
+      }
+     ]
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Cuál de estos ángulos tiene el mismo coseno que 60°?",
+     "opciones": [
+      "120°",
+      "240°",
+      "300°",
+      "150°"
+     ],
+     "correcta": 2,
+     "explicacion": "300° tiene ángulo de referencia 60° y está en el cuarto cuadrante, donde el coseno es positivo: cos 300° = 0,5.",
+     "pista": "Buscá un ángulo con referencia 60° en un cuadrante donde el coseno sea positivo."
+    },
+    {
+     "t": "verificar",
+     "etiqueta": "Desafío",
+     "consigna": "α es un ángulo agudo y sen α = 0,6. ¿Cuánto vale cos α?",
+     "respuesta": "0.8",
+     "explicacion": "sen² α + cos² α = 1: 0,36 + cos² α = 1, cos² α = 0,64 y, como α es agudo, cos α = 0,8.",
+     "pista1": "Usá la relación del recuadro: sen² α + cos² α = 1.",
+     "pista": "0,6² = 0,36. ¿Qué número al cuadrado da 1 − 0,36?"
+    },
+    {
+     "t": "revelar",
+     "pregunta": "¿Cuántos ángulos entre 0° y 360° tienen seno igual a 0,5?",
+     "respuesta": "Dos: 30° y 150°. Los dos están a la misma altura, uno en el primer cuadrante y otro en el segundo, que son los cuadrantes donde el seno es positivo."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá cómo se calcula el seno o el coseno de un ángulo de otro cuadrante usando el ángulo de referencia. Resolvé sen 210° y cos 120° paso a paso.",
+    "guia": [
+     "¿Qué es el ángulo de referencia y cómo se calcula en cada cuadrante?",
+     "¿Cuánto vale sen 210°?",
+     "¿Cuánto vale cos 120°?",
+     "Si sen α = 0,6 y α es agudo, ¿cuánto vale cos α?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "sen 210° = −0,5.",
+     "respuesta": true,
+     "explicacion": "Referencia 30°, tercer cuadrante."
+    },
+    {
+     "tipo": "vf",
+     "texto": "cos 120° = 0,5.",
+     "respuesta": false,
+     "explicacion": "Es −0,5: en el segundo cuadrante el coseno es negativo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El ángulo de referencia de 330° es 30°.",
+     "respuesta": true,
+     "explicacion": "360° − 330° = 30°."
+    },
+    {
+     "tipo": "vf",
+     "texto": "sen² α + cos² α = 1 para cualquier ángulo.",
+     "respuesta": true,
+     "explicacion": "Sale de Pitágoras con radio 1."
+    },
+    {
+     "tipo": "vf",
+     "texto": "sen 150° es negativo.",
+     "respuesta": false,
+     "explicacion": "En el segundo cuadrante el seno es positivo."
+    },
+    {
+     "tipo": "vf",
+     "texto": "El ángulo de referencia de 225° es 45°.",
+     "respuesta": true,
+     "explicacion": "225° − 180° = 45°."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "sen 330° vale…",
+     "opciones": [
+      "0,5",
+      "−0,87",
+      "−0,5",
+      "0,87"
+     ],
+     "correcta": 2,
+     "explicacion": "Referencia 30°, cuarto cuadrante: negativo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "El ángulo de referencia de 120° es…",
+     "opciones": [
+      "60°",
+      "30°",
+      "20°",
+      "120°"
+     ],
+     "correcta": 0,
+     "explicacion": "180° − 120° = 60°."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "cos 240° vale…",
+     "opciones": [
+      "0,5",
+      "−0,5",
+      "0,87",
+      "−0,87"
+     ],
+     "correcta": 1,
+     "explicacion": "Referencia 60°, tercer cuadrante: −cos 60° = −0,5."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Si sen α = 0,8 y α es agudo, cos α vale…",
+     "opciones": [
+      "0,2",
+      "0,64",
+      "0,36",
+      "0,6"
+     ],
+     "correcta": 3,
+     "explicacion": "1 − 0,64 = 0,36 y √0,36 = 0,6."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué ángulo tiene el mismo seno que 30°?",
+     "opciones": [
+      "210°",
+      "330°",
+      "150°",
+      "60°"
+     ],
+     "correcta": 2,
+     "explicacion": "Misma altura, segundo cuadrante."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "sen 45° + cos 45° vale aproximadamente…",
+     "opciones": [
+      "1",
+      "1,41",
+      "0,71",
+      "2"
+     ],
+     "correcta": 1,
+     "explicacion": "0,71 + 0,71 ≈ 1,41."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "REFERENCIA",
+     "pista": "Ángulo del primer cuadrante con los mismos valores."
+    },
+    {
+     "palabra": "SIMÉTRICO",
+     "pista": "Los puntos de 30° y 150° son ___ respecto del eje y."
+    },
+    {
+     "palabra": "SIGNO",
+     "pista": "Lo que cambia según el cuadrante."
+    },
+    {
+     "palabra": "PITÁGORAS",
+     "pista": "Teorema del que sale sen² α + cos² α = 1."
+    },
+    {
+     "palabra": "TERCERO",
+     "pista": "Cuadrante donde seno y coseno son negativos."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuánto vale sen 240°?",
+     "opciones": [
+      "≈ 0,87",
+      "≈ −0,87",
+      "−0,5",
+      "0,5"
+     ],
+     "correcta": 1,
+     "explicacion": "Referencia 60°, tercer cuadrante: −√3/2 ≈ −0,87."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué ángulo tiene el mismo seno que 60°?",
+     "opciones": [
+      "120°",
+      "240°",
+      "300°",
+      "30°"
+     ],
+     "correcta": 0,
+     "explicacion": "Misma altura en el segundo cuadrante."
+    },
+    {
+     "tipo": "vf",
+     "texto": "cos 300° es positivo.",
+     "respuesta": true,
+     "explicacion": "300° está en el cuarto cuadrante, donde el coseno es positivo."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Seno",
+   "definicion": "En el triángulo rectángulo, cateto opuesto / hipotenusa. En la circunferencia trigonométrica, la coordenada y del punto P."
+  },
+  {
+   "palabra": "Coseno",
+   "definicion": "En el triángulo rectángulo, cateto adyacente / hipotenusa. En la circunferencia trigonométrica, la coordenada x del punto P."
+  },
+  {
+   "palabra": "Hipotenusa",
+   "definicion": "Lado opuesto al ángulo recto. Es el más largo."
+  },
+  {
+   "palabra": "Circunferencia trigonométrica",
+   "definicion": "Circunferencia de radio 1 con centro en el origen, donde se miden los ángulos desde el eje x."
+  },
+  {
+   "palabra": "Cuadrante",
+   "definicion": "Cada una de las cuatro partes en que los ejes dividen el plano."
+  },
+  {
+   "palabra": "Ángulo de referencia",
+   "definicion": "Ángulo del primer cuadrante con el mismo seno y coseno, salvo el signo."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "cos α = cateto opuesto / hipotenusa.",
+   "aclaracion": "El coseno usa el cateto adyacente; el seno, el opuesto."
+  },
+  {
+   "error": "cos 120° = 0,5, igual que cos 60°.",
+   "aclaracion": "Tienen el mismo valor pero distinto signo: en el segundo cuadrante el coseno es negativo, cos 120° = −0,5."
+  },
+  {
+   "error": "Si el triángulo es más grande, el seno es más grande.",
+   "aclaracion": "El seno depende solo del ángulo: en triángulos semejantes es el mismo."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "¿Cómo se puede calcular la altura de un edificio sin subir, midiendo solo una distancia en el piso y un ángulo?",
+  "conexion": "Esto se conecta con la clase \"Mediciones indirectas: teorema del seno y del coseno\"."
+ }
+}

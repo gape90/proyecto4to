@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" role="img" aria-label="Esquema: modelo agroexportador y modelo con industrialización por sustitución de importaciones" font-family="'Plus Jakarta Sans', system-ui, sans-serif">
+<rect x="16" y="16" width="476" height="608" rx="28" fill="#FFF3DC" stroke="#EBCB91" stroke-width="2"/>
+<rect x="508" y="16" width="476" height="608" rx="28" fill="#E6E7F6" stroke="#C5C7EA" stroke-width="2"/>
+<text x="254" y="64" font-size="26" font-weight="800" fill="#B26A00" text-anchor="middle">MODELO AGROEXPORTADOR</text>
+<text x="746" y="64" font-size="28" font-weight="800" fill="#4B4FA3" text-anchor="middle">CON ISI</text>
+<text x="746" y="92" font-size="15" font-weight="700" fill="#4B4FA3" text-anchor="middle">industrialización por sustitución de importaciones</text>
+<g transform="translate(130,130)">
+  <path d="M10 60 q0 -40 22 -44 q22 4 22 44z" fill="#E9C98F" stroke="#B26A00" stroke-width="3"/><path d="M22 18 q10 -10 20 0" fill="none" stroke="#B26A00" stroke-width="3"/>
+  <path d="M50 60 q0 -40 22 -44 q22 4 22 44z" fill="#F2D9A8" stroke="#B26A00" stroke-width="3"/><path d="M62 18 q10 -10 20 0" fill="none" stroke="#B26A00" stroke-width="3"/>
+  <path d="M120 44 h110 l-14 22 h-82z" fill="#4A4870"/><rect x="150" y="20" width="18" height="24" fill="#B26A00"/><rect x="176" y="28" width="30" height="16" fill="#fff" stroke="#4A4870" stroke-width="3"/>
+  <path d="M112 72 q15 -8 30 0 t30 0 t30 0 t30 0 t30 0" fill="none" stroke="#4B4FA3" stroke-width="3"/></g>
+<g transform="translate(630,150)">
+  <path d="M0 70 v-36 l30 -18 v18 l30 -18 v18 l30 -18 v54z" fill="#4B4FA3"/><rect x="70" y="0" width="14" height="40" fill="#4B4FA3"/>
+  <path d="M77 -4 q8 -10 0 -18 q-8 -8 4 -16" fill="none" stroke="#C9C4DA" stroke-width="4" stroke-linecap="round"/>
+  <rect x="12" y="46" width="12" height="12" fill="#fff"/><rect x="42" y="46" width="12" height="12" fill="#fff"/><rect x="72" y="46" width="12" height="12" fill="#fff"/>
+  <rect x="120" y="10" width="40" height="60" fill="#B83A7A"/><rect x="166" y="-10" width="36" height="80" fill="#5B2A86"/><rect x="208" y="24" width="34" height="46" fill="#E5194F"/>
+  <rect x="126" y="18" width="10" height="10" fill="#fff"/><rect x="142" y="18" width="10" height="10" fill="#fff"/><rect x="126" y="34" width="10" height="10" fill="#fff"/><rect x="142" y="34" width="10" height="10" fill="#fff"/><rect x="126" y="50" width="10" height="10" fill="#fff"/><rect x="142" y="50" width="10" height="10" fill="#fff"/>
+  <rect x="172" y="-2" width="9" height="10" fill="#fff"/><rect x="186" y="-2" width="9" height="10" fill="#fff"/><rect x="172" y="14" width="9" height="10" fill="#fff"/><rect x="186" y="14" width="9" height="10" fill="#fff"/><rect x="172" y="30" width="9" height="10" fill="#fff"/><rect x="186" y="30" width="9" height="10" fill="#fff"/><rect x="172" y="46" width="9" height="10" fill="#fff"/><rect x="186" y="46" width="9" height="10" fill="#fff"/>
+  <path d="M-10 72 h264" stroke="#4A4870" stroke-width="3"/></g>
+<path d="M478 180 h30 l-10 -12 M508 180 l-10 12" fill="none" stroke="#5B2A86" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="50" y="274" font-size="21" font-weight="700" fill="#4A4870" text-anchor="start">Motor de la economía</text>
+<rect x="50" y="282" width="400" height="70" rx="14" fill="#fff" stroke="#B26A00" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="50" y="394" font-size="21" font-weight="700" fill="#4A4870" text-anchor="start">Quiénes trabajan</text>
+<rect x="50" y="402" width="400" height="70" rx="14" fill="#fff" stroke="#B26A00" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="50" y="514" font-size="21" font-weight="700" fill="#4A4870" text-anchor="start">Dónde vive la gente</text>
+<rect x="50" y="522" width="400" height="70" rx="14" fill="#fff" stroke="#B26A00" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="550" y="274" font-size="21" font-weight="700" fill="#4A4870" text-anchor="start">Motor de la economía</text>
+<rect x="550" y="282" width="400" height="70" rx="14" fill="#fff" stroke="#4B4FA3" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="550" y="394" font-size="21" font-weight="700" fill="#4A4870" text-anchor="start">Quiénes trabajan</text>
+<rect x="550" y="402" width="400" height="70" rx="14" fill="#fff" stroke="#4B4FA3" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="550" y="514" font-size="21" font-weight="700" fill="#4A4870" text-anchor="start">Dónde vive la gente</text>
+<rect x="550" y="522" width="400" height="70" rx="14" fill="#fff" stroke="#4B4FA3" stroke-width="3" stroke-dasharray="10 8"/>
+</svg>

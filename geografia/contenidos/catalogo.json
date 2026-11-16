@@ -1,0 +1,163 @@
+{
+  "version": "geografia-1",
+  "fuente": "Diseño Curricular de Educación Secundaria Orientada, Santa Fe (Res. 2630/14, Anexo III), Ciclo Orientado, Geografía 4.º año. Problemáticas sugeridas por el diseño; los desgloses son provisorios hasta escribir cada clase.",
+  "espacios": [
+    {
+      "id": "geografia",
+      "nombre": "Geografía",
+      "habilitado": true,
+      "modalidades": [
+        "orientada"
+      ]
+    }
+  ],
+  "contenidos": {
+    "geografia": [
+      {
+        "id": "g1",
+        "eje": "Los Estados y la construcción de territorios",
+        "titulo": "Conflictos territoriales en Medio Oriente",
+        "activo": true,
+        "clase": "geo-4-01",
+        "desglose": [
+          "Estado, territorio y frontera",
+          "Del plan de partición de 1947 a los Acuerdos de Oslo",
+          "Qué reclama cada parte",
+          "La Primavera Árabe y la inestabilidad política"
+        ]
+      },
+      {
+        "id": "g2",
+        "eje": "Los Estados y la construcción de territorios",
+        "titulo": "El BRIC y el mapa del poder mundial",
+        "activo": true,
+        "clase": "geo-4-02",
+        "desglose": [
+          "Del BRIC al BRICS ampliado",
+          "Economías emergentes y su peso en la economía mundial",
+          "Centro y periferia, G7 y mundo multipolar"
+        ]
+      },
+      {
+        "id": "g3",
+        "eje": "El ambiente, resultado de las relaciones entre sociedad y naturaleza",
+        "titulo": "La vulnerabilidad en el cinturón de fuego del Pacífico",
+        "activo": true,
+        "clase": "geo-4-03",
+        "desglose": [
+          "Placas tectónicas, subducción y cinturón de fuego",
+          "Amenaza, vulnerabilidad y riesgo: San Juan 1944 y Valdivia 1960",
+          "Gestión del riesgo: prevención, respuesta y recuperación"
+        ]
+      },
+      {
+        "id": "g4",
+        "eje": "El ambiente, resultado de las relaciones entre sociedad y naturaleza",
+        "titulo": "La desertización africana y las formas de producción",
+        "activo": true,
+        "clase": "geo-4-04",
+        "desglose": [
+          "Qué es la desertización y dónde está el Sahel",
+          "Causas humanas y naturales: el ciclo de la desertización",
+          "Formas de producción y la Gran Muralla Verde"
+        ]
+      },
+      {
+        "id": "g5",
+        "eje": "El ambiente, resultado de las relaciones entre sociedad y naturaleza",
+        "titulo": "Petróleo y territorio",
+        "activo": true,
+        "clase": "geo-4-05",
+        "desglose": [
+          "Qué es el petróleo, cómo se formó y dónde están las reservas",
+          "Productores, consumidores, la OPEP y Vaca Muerta",
+          "Disputas entre Estados, por las rutas y dentro de un país"
+        ]
+      },
+      {
+        "id": "g6",
+        "eje": "Territorios urbanizados",
+        "titulo": "Las ciudades globales",
+        "activo": true,
+        "clase": "geo-4-06",
+        "desglose": [
+          "Qué es una ciudad global",
+          "La red mundial de ciudades y sus flujos",
+          "Articulación, fragmentación y polarización social"
+        ]
+      },
+      {
+        "id": "g7",
+        "eje": "Territorios urbanizados",
+        "titulo": "Ciudades de Asia y la megalópolis japonesa",
+        "activo": true,
+        "clase": "geo-4-07",
+        "desglose": [
+          "Ciudades de Asia y religión: Varanasi y otras ciudades sagradas",
+          "Qué es una megalópolis: la megalópolis japonesa",
+          "Ciudad y tecnología: el Shinkansen"
+        ]
+      },
+      {
+        "id": "g8",
+        "eje": "La circulación de las producciones",
+        "titulo": "La especialización productiva de la Unión Europea",
+        "activo": true,
+        "clase": "geo-4-08",
+        "desglose": [
+          "Qué es la Unión Europea y el mercado común",
+          "La especialización productiva de cada país",
+          "Desequilibrios regionales, reconversión del Ruhr y debate sobre la PAC"
+        ]
+      },
+      {
+        "id": "g9",
+        "eje": "La circulación de las producciones",
+        "titulo": "Centros de innovación y desarrollo",
+        "activo": true,
+        "clase": "geo-4-09",
+        "desglose": [
+          "Qué es un centro de innovación: Silicon Valley",
+          "La cadena de un producto tecnológico",
+          "Alcances mundiales: Bangalore, Shenzhen e INVAP"
+        ]
+      },
+      {
+        "id": "g10",
+        "eje": "La circulación de las producciones",
+        "titulo": "La producción agrícola en Asia y la sobrepoblación",
+        "activo": true,
+        "clase": "geo-4-10",
+        "desglose": [
+          "Población de Asia y concepto de sobrepoblación",
+          "El arroz y la agricultura intensiva",
+          "Malthus y la revolución verde: dos miradas"
+        ]
+      },
+      {
+        "id": "g11",
+        "eje": "Culturas que se territorializan",
+        "titulo": "Migraciones y refugiados",
+        "activo": true,
+        "clase": "geo-4-11",
+        "desglose": [
+          "Migraciones del norte de África a Europa: factores de expulsión y atracción",
+          "Implicancias sociales en el origen y en el destino",
+          "Refugiados en el mundo actual: definición, protección y el caso de Zaatari"
+        ]
+      },
+      {
+        "id": "g12",
+        "eje": "Culturas que se territorializan",
+        "titulo": "Los movimientos sociales mundiales",
+        "activo": true,
+        "clase": "geo-4-12",
+        "desglose": [
+          "Qué es un movimiento social: el voto de las mujeres",
+          "El movimiento por los derechos civiles y su influencia",
+          "Movimientos globales en la era de las redes y el espacio público"
+        ]
+      }
+    ]
+  }
+}

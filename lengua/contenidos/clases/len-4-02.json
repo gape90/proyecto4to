@@ -1,0 +1,1151 @@
+{
+ "id": "len-4-02",
+ "espacio": "lengua",
+ "eje": "Lectura y escritura de textos literarios",
+ "titulo": "La tragedia griega",
+ "intro": "La tragedia es uno de los géneros más antiguos del teatro. Vas a conocer cómo era el teatro griego, cómo se arma una tragedia y por qué una obra de hace unos 2.500 años sigue hablando de dilemas que hoy nos importan. Para aprender vamos a usar una obra de ejemplo: Antígona, de Sófocles. Si con tu docente leyeron otra tragedia, todo lo que aprendas acá te sirve para analizarla.",
+ "objetivos": [
+  "Explicar qué es una tragedia griega y cómo se representaba.",
+  "Contar el argumento de Antígona, o de la tragedia que leíste con tu docente, y reconocer a sus personajes.",
+  "Analizar el conflicto trágico de la obra y dar una opinión fundamentada."
+ ],
+ "tp_aporte": "Para tu trabajo práctico ya tenés: qué es una tragedia, el argumento de la obra que trabajaste y el análisis de su conflicto, con las palabras para analizar una tragedia.",
+ "capsulas": [
+  {
+   "id": "c1",
+   "titulo": "El teatro griego y la tragedia",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "El teatro en la antigua Grecia",
+     "texto": "El teatro como lo conocemos nació en **Atenas**, en el siglo V antes de Cristo. Las obras se representaban en grandes **festivales en honor al dios Dioniso**, en teatros **al aire libre**: el público se sentaba en gradas construidas sobre la ladera de una colina, y entraban miles de personas.\n\nLos actores eran todos varones y usaban **máscaras** que mostraban qué personaje era cada uno; así, un mismo actor podía hacer varios papeles. Junto a ellos estaba el **coro**: un grupo que cantaba y comentaba lo que pasaba, como si fuera la voz de la comunidad."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-02-epidauro.jpg",
+     "tipo": "foto",
+     "alt": "Fotografía tomada desde lo alto de las gradas del teatro de Epidauro: filas de asientos de piedra en semicírculo, sobre la ladera de una colina, rodean un espacio circular de tierra. Alrededor hay árboles y montañas.",
+     "epigrafe": "Teatro de Epidauro (Grecia). Es posterior a Sófocles, pero tiene la forma de los teatros griegos: al aire libre, con gradas en semicírculo sobre la ladera de una colina. En el espacio circular de abajo actuaban el coro y los actores.",
+     "fuente": "Foto: Fingalo, CC BY-SA 2.0 DE, vía Wikimedia Commons.",
+     "animacion": "alejar"
+    },
+    {
+     "t": "destacado",
+     "titulo": "¿Qué es una tragedia?",
+     "texto": "Es una obra de teatro que presenta un **conflicto grave** entre fuerzas que se oponen. El protagonista, el **héroe trágico**, enfrenta un destino que no puede evitar y la obra termina en **desgracia**.\n\nSegún el filósofo **Aristóteles**, la tragedia busca provocar en el público **compasión** y **temor**, para que al final se produzca la **catarsis**: una especie de purificación o alivio de esas emociones."
+    },
+    {
+     "t": "comparar",
+     "titulo": "La tragedia y la comedia griegas",
+     "columnas": [
+      "",
+      "Tragedia",
+      "Comedia"
+     ],
+     "filas": [
+      [
+       "Personajes",
+       "Héroes, reyes, nobles",
+       "Gente común"
+      ],
+      [
+       "Final",
+       "Desgraciado",
+       "Feliz"
+      ],
+      [
+       "Efecto en el público",
+       "Compasión y temor (catarsis)",
+       "Risa y crítica de las costumbres"
+      ]
+     ]
+    },
+    {
+     "t": "observar",
+     "_imagen": true,
+     "etiqueta": "🔎 Mirá con atención",
+     "consigna": "Mirá las dos máscaras del teatro griego.",
+     "imagen": {
+      "src": "img/clases/len-4-02-mascaras.svg",
+      "tipo": "grafico",
+      "alt": "Dos máscaras de teatro: la número 1, con cejas caídas y la boca hacia abajo, expresa dolor; la número 2, con una gran sonrisa, expresa alegría.",
+      "epigrafe": "Las máscaras de la tragedia y de la comedia, símbolos del teatro. Ilustración elaborada para esta clase."
+     },
+     "preguntas": [
+      {
+       "pregunta": "¿Qué máscara representa mejor a la tragedia?",
+       "opciones": [
+        "La 1, con una expresión de dolor",
+        "La 2, con una gran sonrisa"
+       ],
+       "correcta": 0,
+       "explicacion": "La tragedia presenta un conflicto grave y termina en desgracia: por eso su máscara expresa dolor.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      },
+      {
+       "pregunta": "¿Qué busca provocar la obra que representa la máscara 2?",
+       "opciones": [
+        "Risa y crítica de las costumbres",
+        "Compasión y temor"
+       ],
+       "correcta": 0,
+       "explicacion": "La máscara sonriente representa a la comedia, que busca la risa.",
+       "pista": "Mirá la ilustración y releé el texto de esta parte."
+      }
+     ]
+    },
+    {
+     "t": "dato",
+     "titulo": "Los grandes autores de tragedias",
+     "texto": "De todos los autores griegos de tragedias se conservan obras de tres: **Esquilo**, **Sófocles** y **Eurípides**. Sófocles es el autor de _Antígona_, la obra que vas a conocer en la próxima parte."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Cada rasgo es propio de la tragedia o de la comedia griega?",
+     "categorias": [
+      "Tragedia",
+      "Comedia"
+     ],
+     "items": [
+      {
+       "texto": "Protagonistas reyes y héroes",
+       "cat": "Tragedia"
+      },
+      {
+       "texto": "Final desgraciado",
+       "cat": "Tragedia"
+      },
+      {
+       "texto": "Busca la catarsis del público",
+       "cat": "Tragedia"
+      },
+      {
+       "texto": "Personajes de la vida cotidiana",
+       "cat": "Comedia"
+      },
+      {
+       "texto": "Busca la risa y critica costumbres",
+       "cat": "Comedia"
+      },
+      {
+       "texto": "Final feliz",
+       "cat": "Comedia"
+      }
+     ],
+     "explicacion": "La tragedia muestra a héroes en un conflicto grave que termina mal; la comedia muestra a gente común y busca la risa."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Qué función cumplía el coro en el teatro griego?",
+     "opciones": [
+      "Cantaba y comentaba la acción",
+      "Era el público que aplaudía al final",
+      "Eran los actores principales de la obra",
+      "Construía y movía el escenario"
+     ],
+     "correcta": 0,
+     "explicacion": "El coro no era el protagonista: comentaba lo que pasaba y expresaba lo que pensaba la comunidad.",
+     "pista": "Releé el primer texto: ¿cómo se describe al coro?"
+    },
+    {
+     "t": "completar",
+     "consigna": "Completá el texto con las palabras que corresponden.",
+     "texto": "La tragedia nació en [[Atenas]], en festivales en honor al dios [[Dioniso]]. Los actores usaban [[máscaras]] y el [[coro]] comentaba la acción. Según Aristóteles, la tragedia provoca compasión y temor, y al final produce la [[catarsis]].",
+     "distractores": [
+      "Tebas",
+      "Zeus",
+      "comedia"
+     ],
+     "explicacion": "Estas son las ideas principales sobre la tragedia griega.",
+     "pista": "Todas las palabras están en los textos de esta parte.",
+     "_nuevo": true
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué los griegos iban al teatro a ver historias que terminaban mal?",
+     "respuesta": "Porque al ver sufrir a otros en el escenario podían pensar en los grandes problemas humanos (el poder, la familia, la justicia) y descargar sus propias emociones. Es parecido a lo que nos pasa hoy con una película o una serie dramática que nos conmueve."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá qué es una tragedia griega y cómo se representaba en la antigua Atenas. Incluí sus rasgos principales, la función del coro, en qué se diferencia de la comedia y qué efecto buscaba en el público según Aristóteles.",
+    "guia": [
+     "¿Dónde y cuándo nació la tragedia? ¿En qué fiestas se representaba?",
+     "¿Cómo eran los actores y qué hacía el coro?",
+     "¿Qué tipo de conflicto presenta una tragedia y cómo termina?",
+     "¿En qué se diferencia de la comedia?",
+     "¿Qué es la catarsis?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "La tragedia nació en Atenas, en el siglo V antes de Cristo.",
+     "respuesta": true,
+     "explicacion": "Se representaba en festivales en honor a Dioniso."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el teatro griego actuaban hombres y mujeres.",
+     "respuesta": false,
+     "explicacion": "Los actores eran todos varones."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Los actores griegos usaban máscaras.",
+     "respuesta": true,
+     "explicacion": "Mostraban qué personaje era cada uno; así, un mismo actor podía hacer varios papeles."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La tragedia termina con un final feliz.",
+     "respuesta": false,
+     "explicacion": "Termina en desgracia: eso es propio de la tragedia."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Según Aristóteles, la tragedia provoca compasión y temor.",
+     "respuesta": true,
+     "explicacion": "Y al final, la catarsis."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La comedia griega tenía como protagonistas a reyes y héroes.",
+     "respuesta": false,
+     "explicacion": "La comedia mostraba gente común; los héroes son propios de la tragedia."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿En honor a qué dios se hacían los festivales de teatro?",
+     "opciones": [
+      "Dioniso",
+      "Zeus",
+      "Apolo",
+      "Poseidón"
+     ],
+     "correcta": 0,
+     "explicacion": "Las obras se representaban en festivales dedicados a Dioniso."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo se llama el protagonista de una tragedia?",
+     "opciones": [
+      "Héroe trágico",
+      "Coro de la obra",
+      "Narrador de la obra",
+      "Bufón del rey"
+     ],
+     "correcta": 0,
+     "explicacion": "Enfrenta un destino que no puede evitar."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué es la catarsis?",
+     "opciones": [
+      "El alivio de emociones que siente el público",
+      "El escenario circular donde actuaba el coro griego",
+      "El final feliz que tienen algunas obras",
+      "Una de las máscaras que usaban los actores"
+     ],
+     "correcta": 0,
+     "explicacion": "Es el efecto final que busca la tragedia, según Aristóteles."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Quién escribió Antígona?",
+     "opciones": [
+      "Sófocles",
+      "Aristóteles",
+      "Homero",
+      "Dioniso"
+     ],
+     "correcta": 0,
+     "explicacion": "Sófocles fue uno de los tres grandes autores de tragedias, junto con Esquilo y Eurípides."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué busca provocar la comedia?",
+     "opciones": [
+      "Risa y crítica de las costumbres",
+      "Compasión y temor en el público",
+      "La catarsis, como la tragedia",
+      "Miedo ante lo que les pasa a los dioses"
+     ],
+     "correcta": 0,
+     "explicacion": "La compasión, el temor y la catarsis son propios de la tragedia."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Dónde se representaban las obras?",
+     "opciones": [
+      "Al aire libre, en teatros con gradas",
+      "En salas cerradas e iluminadas con luces",
+      "En las casas de los mismos actores",
+      "En los templos, sin que entrara el público"
+     ],
+     "correcta": 0,
+     "explicacion": "Eran teatros al aire libre donde entraban miles de personas."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "TRAGEDIA",
+     "pista": "Obra de teatro con un conflicto grave y un final desgraciado."
+    },
+    {
+     "palabra": "CORO",
+     "pista": "Grupo que cantaba y comentaba la acción en el teatro griego."
+    },
+    {
+     "palabra": "CATARSIS",
+     "pista": "Purificación o alivio de emociones que siente el público."
+    },
+    {
+     "palabra": "MÁSCARAS",
+     "pista": "Lo que usaban los actores para mostrar el personaje."
+    },
+    {
+     "palabra": "DIONISO",
+     "pista": "Dios en cuyo honor se hacían los festivales de teatro."
+    },
+    {
+     "palabra": "COMEDIA",
+     "pista": "Obra griega con gente común, que buscaba la risa."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué Antígona es una tragedia y no una comedia?",
+     "opciones": [
+      "Porque tiene un conflicto grave y termina mal",
+      "Porque es una obra escrita para representarse en el teatro",
+      "Porque tiene un coro que canta y comenta",
+      "Porque busca la risa y critica costumbres"
+     ],
+     "correcta": 0,
+     "explicacion": "Tener coro o ser teatro no alcanza: lo que define a la tragedia es el conflicto grave, el héroe trágico y el final desgraciado."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué buscaba la tragedia en el público, según Aristóteles?",
+     "opciones": [
+      "Compasión y temor",
+      "Risa y diversión",
+      "Que aprenda a actuar",
+      "Aplausos al final"
+     ],
+     "correcta": 0,
+     "explicacion": "La catarsis es el alivio o purificación de esas emociones."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En el teatro griego, el coro comentaba la acción como si fuera la voz de la comunidad.",
+     "respuesta": true,
+     "explicacion": "No era el protagonista: acompañaba y comentaba lo que pasaba."
+    }
+   ]
+  },
+  {
+   "id": "c2",
+   "titulo": "Antígona: la historia",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "dato",
+     "titulo": "Tu obra",
+     "texto": "En esta parte vas a conocer **Antígona** como ejemplo de tragedia. Si con tu docente leyeron **otra tragedia**, en tu carpeta vas a hacer el mismo trabajo con esa obra."
+    },
+    {
+     "t": "texto",
+     "titulo": "Los hechos antes de que empiece la obra",
+     "texto": "_Antígona_ fue escrita por **Sófocles** en el siglo V antes de Cristo. Antígona es hija de Edipo, el antiguo rey de **Tebas**.\n\nSus dos hermanos, **Eteocles** y **Polinices**, pelearon por el trono de Tebas: Polinices atacó la ciudad con un ejército extranjero y los dos hermanos murieron uno a manos del otro. El nuevo rey es **Creonte**, tío de Antígona."
+    },
+    {
+     "t": "destacado",
+     "titulo": "La orden de Creonte",
+     "texto": "Creonte ordena que Eteocles, que defendió la ciudad, sea enterrado con honores, y que el cuerpo de **Polinices**, considerado un **traidor**, quede sin sepultura. Quien intente enterrarlo será **condenado a muerte**.\n\nPara los griegos, dejar a un muerto sin sepultura era una ofensa grave: las **leyes de los dioses** mandaban darles a todos los muertos un entierro."
+    },
+    {
+     "t": "texto",
+     "titulo": "¿Qué pasa en la obra?",
+     "texto": "Antígona decide desobedecer y **enterrar a su hermano**. Le pide ayuda a su hermana **Ismene**, que tiene miedo y no se anima. Antígona lo hace sola y es descubierta.\n\nCreonte la condena a ser **encerrada viva en una cueva**. Su hijo **Hemón**, que es el prometido de Antígona, le pide que la perdone, pero Creonte no lo escucha. El adivino **Tiresias** le advierte que está ofendiendo a los dioses. Creonte cambia de idea, pero **demasiado tarde**: Antígona muere en la cueva, y después mueren también Hemón y Eurídice, la esposa de Creonte. Al final, Creonte queda solo y reconoce su error."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-02-sofocles.jpg",
+     "tipo": "foto",
+     "animacion": "subir",
+     "alt": "Fotografía de una cabeza de mármol de un hombre con barba y pelo ondulado, apoyada sobre una base.",
+     "epigrafe": "Retrato de Sófocles, el autor de Antígona. Es una copia romana en mármol de un retrato griego hecho unos años después de su muerte.",
+     "fuente": "Foto: Marcus Cyron, CC BY-SA 3.0, vía Wikimedia Commons."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Los personajes de Antígona",
+     "columnas": [
+      "Personaje",
+      "Quién es",
+      "Qué hace"
+     ],
+     "filas": [
+      [
+       "Antígona",
+       "Hija de Edipo",
+       "Entierra a su hermano y desobedece al rey"
+      ],
+      [
+       "Ismene",
+       "Hermana de Antígona",
+       "No se anima a ayudarla por miedo"
+      ],
+      [
+       "Creonte",
+       "Rey de Tebas, tío de Antígona",
+       "Prohíbe el entierro y condena a Antígona"
+      ],
+      [
+       "Hemón",
+       "Hijo de Creonte, prometido de Antígona",
+       "Le pide a su padre que la perdone"
+      ],
+      [
+       "Tiresias",
+       "Adivino",
+       "Le advierte a Creonte que ofende a los dioses"
+      ]
+     ]
+    },
+    {
+     "t": "esquema",
+     "_imagen": true,
+     "consigna": "Completá el árbol familiar con lo que viste en la tabla de arriba y en el texto sobre los hechos anteriores a la obra: ubicá cada nombre en su casillero.",
+     "imagen": {
+      "src": "img/clases/len-4-02-familia.svg",
+      "src_movil": "img/clases/len-4-02-familia-movil.svg",
+      "tipo": "grafico",
+      "alt": "Árbol familiar. Arriba, Edipo, antiguo rey de Tebas, y debajo sus cuatro hijos: dos hermanos y dos hermanas. A un costado, el nuevo rey de Tebas y, debajo, su hijo, unido con una línea punteada a una de las hermanas porque están prometidos.",
+      "epigrafe": "Esquema elaborado para esta clase."
+     },
+     "huecos": [
+      {
+       "x": 3.0,
+       "y": 57.73,
+       "w": 14.5,
+       "h": 12.27,
+       "respuesta": "Eteocles",
+       "movil": {
+        "x": 14.8,
+        "y": 17.32,
+        "w": 78.4,
+        "h": 5.2
+       }
+      },
+      {
+       "x": 20.5,
+       "y": 57.73,
+       "w": 14.5,
+       "h": 12.27,
+       "respuesta": "Polinices",
+       "movil": {
+        "x": 14.8,
+        "y": 29.93,
+        "w": 78.4,
+        "h": 5.2
+       }
+      },
+      {
+       "x": 38.0,
+       "y": 57.73,
+       "w": 14.5,
+       "h": 12.27,
+       "respuesta": "Ismene",
+       "movil": {
+        "x": 14.8,
+        "y": 42.54,
+        "w": 78.4,
+        "h": 5.2
+       }
+      },
+      {
+       "x": 55.5,
+       "y": 57.73,
+       "w": 14.5,
+       "h": 12.27,
+       "respuesta": "Antígona",
+       "movil": {
+        "x": 14.8,
+        "y": 55.15,
+        "w": 78.4,
+        "h": 5.2
+       }
+      },
+      {
+       "x": 77.2,
+       "y": 7.27,
+       "w": 19.6,
+       "h": 12.27,
+       "respuesta": "Creonte",
+       "movil": {
+        "x": 6.8,
+        "y": 69.68,
+        "w": 86.4,
+        "h": 5.2
+       }
+      },
+      {
+       "x": 81.0,
+       "y": 57.73,
+       "w": 16.0,
+       "h": 12.27,
+       "respuesta": "Hemón",
+       "movil": {
+        "x": 6.8,
+        "y": 85.76,
+        "w": 86.4,
+        "h": 5.2
+       }
+      }
+     ],
+     "distractores": [
+      "Tiresias",
+      "Sófocles"
+     ],
+     "explicacion": "Es la misma información de la tabla y del texto sobre los hechos anteriores, ahora como un árbol familiar. Tiresias no es de la familia: es el adivino. Y Sófocles es el autor de la obra.",
+     "pista": "Volvé a mirar la tabla de personajes. Los nombres de los dos hermanos están en el texto sobre los hechos anteriores a la obra."
+    },
+    {
+     "t": "ordenar",
+     "consigna": "Ordená los hechos de la obra. Si no te acordás, volvé a leer el texto que cuenta qué pasa en la obra.",
+     "items": [
+      "Creonte prohíbe enterrar a Polinices",
+      "Antígona le pide ayuda a Ismene, que no se anima",
+      "Antígona entierra a su hermano y es descubierta",
+      "Creonte la condena a ser encerrada en una cueva",
+      "Tiresias le advierte a Creonte que ofende a los dioses",
+      "Creonte cambia de idea, pero ya es tarde"
+     ],
+     "explicacion": "El orden muestra cómo la decisión de Creonte desencadena la tragedia.",
+     "pista": "Empezá por la orden del rey y terminá con su arrepentimiento."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "\"Te quiero ayudar, hermana, pero tengo miedo de desobedecer al rey.\" ¿Quién lo diría?",
+     "opciones": [
+      "Ismene",
+      "Antígona",
+      "Creonte",
+      "Tiresias"
+     ],
+     "correcta": 0,
+     "explicacion": "Ismene tiene miedo y no se anima a ayudar a Antígona.",
+     "pista": "Releé la tabla de personajes.",
+     "etiqueta": "🗣️ ¿Quién lo diría?"
+    },
+    {
+     "t": "verificar",
+     "consigna": "¿Cómo se llama el adivino que le advierte a Creonte que está ofendiendo a los dioses?",
+     "respuesta": "Tiresias",
+     "explicacion": "Tiresias le advierte a Creonte; él cambia de idea, pero demasiado tarde.",
+     "pista": "Buscalo en la tabla de personajes.",
+     "formato": "Escribí solo el nombre.",
+     "acepta": [
+      "tiresias"
+     ]
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada personaje con lo que hace en la obra.",
+     "pares": [
+      {
+       "a": "Antígona",
+       "b": "Entierra a su hermano y desobedece al rey"
+      },
+      {
+       "a": "Ismene",
+       "b": "No se anima a ayudarla por miedo"
+      },
+      {
+       "a": "Creonte",
+       "b": "Prohíbe el entierro y condena a Antígona"
+      },
+      {
+       "a": "Hemón",
+       "b": "Le pide a su padre que la perdone"
+      },
+      {
+       "a": "Tiresias",
+       "b": "Le advierte a Creonte que ofende a los dioses"
+      }
+     ],
+     "explicacion": "Cada personaje cumple un papel en la tragedia: la decisión de Antígona, el miedo de Ismene, la orden de Creonte y los consejos que él no escucha a tiempo.",
+     "pista": "Releé la tabla de personajes.",
+     "_nuevo": true
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Contá con tus palabras el argumento de la tragedia. Hacelo con la tragedia que trabajaste con tu docente. Si no te indicaron ninguna, usá Antígona. Incluí qué pasó antes de que empiece la obra, qué problema desata el conflicto, qué decide el personaje principal y cómo termina la historia, nombrando a los personajes principales.",
+    "guia": [
+     "¿Qué pasó antes de que empiece la obra?",
+     "¿Qué orden, ley o problema desata el conflicto?",
+     "¿Qué decide el personaje principal y por qué?",
+     "¿Quiénes intentan hacer cambiar de idea a otro personaje?",
+     "¿Cómo termina la obra?"
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "Antígona es hija de Edipo.",
+     "respuesta": true,
+     "explicacion": "Edipo fue rey de Tebas."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Creonte ordena enterrar con honores a Polinices.",
+     "respuesta": false,
+     "explicacion": "Ordena dejarlo sin sepultura: lo considera un traidor."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Ismene ayuda a Antígona a enterrar a su hermano.",
+     "respuesta": false,
+     "explicacion": "Ismene tiene miedo y no se anima."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Hemón es el hijo de Creonte y el prometido de Antígona.",
+     "respuesta": true,
+     "explicacion": "Le pide a su padre que la perdone."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Tiresias es un adivino que le advierte a Creonte.",
+     "respuesta": true,
+     "explicacion": "Le dice que está ofendiendo a los dioses."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Creonte cambia de idea a tiempo y salva a Antígona.",
+     "respuesta": false,
+     "explicacion": "Cambia de idea demasiado tarde."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué castigo recibe Antígona?",
+     "opciones": [
+      "Ser encerrada viva en una cueva",
+      "Ser desterrada lejos de Tebas",
+      "Pagar una multa a la ciudad",
+      "Casarse con Hemón por orden del rey"
+     ],
+     "correcta": 0,
+     "explicacion": "Creonte la condena a ser encerrada en una cueva."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué Creonte prohíbe enterrar a Polinices?",
+     "opciones": [
+      "Porque lo considera un traidor",
+      "Porque era su hijo y lo había ofendido",
+      "Porque los dioses se lo habían pedido",
+      "Porque Antígona se lo había pedido"
+     ],
+     "correcta": 0,
+     "explicacion": "Polinices atacó Tebas con un ejército extranjero."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué personaje no se anima a desobedecer al rey?",
+     "opciones": [
+      "Ismene",
+      "Antígona",
+      "Hemón",
+      "Tiresias"
+     ],
+     "correcta": 0,
+     "explicacion": "Ismene tiene miedo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cómo queda Creonte al final de la obra?",
+     "opciones": [
+      "Solo, y reconoce su error",
+      "Feliz y victorioso sobre sus enemigos",
+      "Desterrado de Tebas por el pueblo",
+      "Casado con Antígona, como estaba previsto"
+     ],
+     "correcta": 0,
+     "explicacion": "Mueren Antígona, Hemón y Eurídice."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Quién es el autor de Antígona?",
+     "opciones": [
+      "Sófocles",
+      "Edipo",
+      "Creonte",
+      "Aristóteles"
+     ],
+     "correcta": 0,
+     "explicacion": "Es una tragedia del siglo V antes de Cristo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "Para los griegos, dejar a un muerto sin sepultura era…",
+     "opciones": [
+      "una ofensa grave a los dioses",
+      "algo normal en tiempos de guerra",
+      "un honor que se daba a los héroes",
+      "una costumbre propia de los reyes"
+     ],
+     "correcta": 0,
+     "explicacion": "Por eso la orden de Creonte es tan grave."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "ANTÍGONA",
+     "pista": "Hija de Edipo que entierra a su hermano y desobedece al rey."
+    },
+    {
+     "palabra": "CREONTE",
+     "pista": "Rey de Tebas que prohíbe el entierro."
+    },
+    {
+     "palabra": "POLINICES",
+     "pista": "Hermano de Antígona considerado un traidor."
+    },
+    {
+     "palabra": "ISMENE",
+     "pista": "Hermana de Antígona que no se anima a ayudarla."
+    },
+    {
+     "palabra": "TIRESIAS",
+     "pista": "Adivino que le advierte al rey."
+    },
+    {
+     "palabra": "SEPULTURA",
+     "pista": "Entierro que las leyes de los dioses mandaban dar a los muertos."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué hecho desencadena la tragedia?",
+     "opciones": [
+      "La orden de Creonte sobre Polinices",
+      "La muerte de Edipo en el destierro, lejos de Tebas",
+      "La boda de Hemón con otra mujer",
+      "La llegada de Tiresias a la ciudad"
+     ],
+     "correcta": 0,
+     "explicacion": "A partir de esa orden, Antígona decide desobedecer y empieza el conflicto."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué Hemón es un personaje importante en el conflicto?",
+     "opciones": [
+      "Porque está entre los dos",
+      "Porque es el rey de Tebas y da la orden",
+      "Porque es el adivino que anuncia el final",
+      "Porque ayuda a Antígona a enterrar a su hermano"
+     ],
+     "correcta": 0,
+     "explicacion": "Hemón intenta que su padre cambie de idea; su muerte forma parte del castigo de Creonte."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Al final de la obra, Creonte reconoce que se equivocó.",
+     "respuesta": true,
+     "explicacion": "Pero ya es tarde: queda solo."
+    }
+   ]
+  },
+  {
+   "id": "c3",
+   "titulo": "El conflicto trágico: la ley y la conciencia",
+   "tiempo": "30 a 40 min",
+   "bloques": [
+    {
+     "t": "texto",
+     "titulo": "Dos leyes enfrentadas",
+     "texto": "El centro de _Antígona_ es un **conflicto entre dos leyes**. Creonte defiende la **ley del Estado**: el rey debe castigar al traidor para que la ciudad tenga orden. Antígona defiende la **ley de los dioses** y de la **conciencia**: todos los muertos merecen sepultura, y es su deber con su hermano.\n\nLo trágico es que **los dos tienen sus razones** y ninguno cede. Por eso el conflicto no tiene una salida fácil."
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-02-balanza.svg",
+     "tipo": "grafico",
+     "alt": "Balanza en equilibrio: en un plato está Creonte, con la ley del Estado; en el otro, Antígona, con la ley de los dioses y la conciencia. Arriba dice: Los dos tienen sus razones.",
+     "epigrafe": "El conflicto de Antígona: dos leyes enfrentadas, y cada personaje con sus razones. Ilustración elaborada para esta clase."
+    },
+    {
+     "t": "comparar",
+     "titulo": "Antígona y Creonte",
+     "columnas": [
+      "",
+      "Antígona",
+      "Creonte"
+     ],
+     "filas": [
+      [
+       "Qué defiende",
+       "La ley de los dioses y el deber con la familia",
+       "La ley del Estado y el orden de la ciudad"
+      ],
+      [
+       "Cómo actúa",
+       "Desobedece y acepta el castigo",
+       "Castiga y no escucha consejos"
+      ],
+      [
+       "Qué le pasa al final",
+       "Muere en la cueva",
+       "Pierde a su familia y queda solo"
+      ]
+     ]
+    },
+    {
+     "t": "imagen",
+     "_imagen": true,
+     "src": "img/clases/len-4-02-lytras.jpg",
+     "tipo": "foto",
+     "animacion": "recorrer",
+     "alt": "Pintura: una mujer de pie, con la cabeza cubierta, mira el cuerpo de un joven muerto tendido en el suelo, sobre un terreno rocoso y bajo un cielo oscuro.",
+     "epigrafe": "Antígona ante el cuerpo de Polinices, óleo de Nikiforos Lytras (1865). Está en la Galería Nacional de Atenas.",
+     "fuente": "Nikiforos Lytras, vía Wikimedia Commons (dominio público)."
+    },
+    {
+     "t": "destacado",
+     "titulo": "Palabras para analizar una tragedia",
+     "texto": "• **Héroe trágico**: el protagonista que enfrenta un destino que no puede evitar.\n• **Hybris**: la desmesura u orgullo excesivo de quien se cree por encima de todo; en la obra, la de Creonte, que no escucha a nadie.\n• **Anagnórisis**: el momento en que un personaje reconoce la verdad o su error; Creonte lo hace al final.\n• **Catarsis**: la purificación de emociones que siente el público."
+    },
+    {
+     "t": "dato",
+     "titulo": "Ética y estética",
+     "texto": "La tragedia se lee como una expresión **ética** porque plantea preguntas sobre lo que está bien y lo que está mal: ¿qué es lo justo, obedecer al rey o cumplir con la familia?\n\nY es una expresión **estética** porque lo hace como una obra de arte, con una forma propia: el coro, los diálogos entre los personajes y un final que conmueve al público."
+    },
+    {
+     "t": "clasificar",
+     "consigna": "¿Quién podría decir cada frase: Antígona o Creonte?",
+     "categorias": [
+      "Antígona",
+      "Creonte"
+     ],
+     "items": [
+      {
+       "texto": "Los muertos merecen sepultura, sin importar lo que hicieron",
+       "cat": "Antígona"
+      },
+      {
+       "texto": "Las leyes de los dioses están por encima de las del rey",
+       "cat": "Antígona"
+      },
+      {
+       "texto": "Prefiero morir antes que abandonar a mi hermano",
+       "cat": "Antígona"
+      },
+      {
+       "texto": "El que traiciona a la ciudad no merece honores",
+       "cat": "Creonte"
+      },
+      {
+       "texto": "Si no castigo al traidor, nadie respetará la ley",
+       "cat": "Creonte"
+      },
+      {
+       "texto": "Un rey no puede cambiar de opinión por lo que digan los demás",
+       "cat": "Creonte"
+      }
+     ],
+     "explicacion": "Antígona habla desde la conciencia y la familia; Creonte, desde el poder y el orden de la ciudad."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Qué es la hybris?",
+     "opciones": [
+      "El orgullo excesivo",
+      "El reconocimiento de un error",
+      "La purificación de las emociones",
+      "El canto del coro griego"
+     ],
+     "correcta": 0,
+     "explicacion": "En la obra, Creonte muestra hybris al no escuchar a Hemón ni al principio a Tiresias.",
+     "pista": "Releé el recuadro de las palabras para analizar."
+    },
+    {
+     "t": "opcion",
+     "pregunta": "¿Cuál de estas afirmaciones sobre la obra es incorrecta?",
+     "opciones": [
+      "Creonte reconoce su error al principio",
+      "Creonte defiende la ley del Estado",
+      "Antígona defiende la ley de los dioses",
+      "Los dos personajes tienen sus razones"
+     ],
+     "correcta": 0,
+     "explicacion": "Creonte reconoce su error al final, cuando ya es tarde: esa es su anagnórisis.",
+     "pista": "Releé el recuadro de las palabras para analizar una tragedia.",
+     "etiqueta": "🔍 Encontrá el error"
+    },
+    {
+     "t": "unir",
+     "consigna": "Uní cada palabra para analizar una tragedia con su significado.",
+     "pares": [
+      {
+       "a": "Héroe trágico",
+       "b": "Protagonista que enfrenta un destino que no puede evitar"
+      },
+      {
+       "a": "Hybris",
+       "b": "Desmesura u orgullo excesivo"
+      },
+      {
+       "a": "Anagnórisis",
+       "b": "Momento en que un personaje reconoce la verdad o su error"
+      },
+      {
+       "a": "Catarsis",
+       "b": "Purificación de emociones que siente el público"
+      }
+     ],
+     "explicacion": "Con estas cuatro palabras podés analizar cualquier tragedia, no solo Antígona.",
+     "pista": "Están en el recuadro de las palabras para analizar una tragedia.",
+     "_nuevo": true
+    },
+    {
+     "t": "revelar",
+     "pregunta": "Pensá: ¿por qué una obra de hace 2.500 años sigue teniendo sentido hoy?",
+     "respuesta": "Porque plantea preguntas que siguen abiertas: ¿hay que obedecer siempre una ley, aunque parezca injusta? ¿Qué pasa cuando quien manda no escucha a nadie? ¿Qué le debemos a nuestra familia? Por eso se sigue leyendo y representando en todo el mundo."
+    }
+   ],
+   "carpeta": {
+    "titulo": "Anotá en tu carpeta",
+    "instruccion": "Explicá cuál es el conflicto trágico de la obra y qué posición tienen los personajes enfrentados. Hacelo con la tragedia que trabajaste con tu docente. Si no te indicaron ninguna, usá Antígona. Usá al menos dos de las palabras para analizar una tragedia (héroe trágico, hybris, anagnórisis, catarsis) y cerrá con tu opinión sobre quién tenía razón y por qué.",
+    "guia": [
+     "¿Qué fuerzas o leyes se enfrentan y qué defiende cada personaje?",
+     "¿Por qué decimos que los dos tienen sus razones?",
+     "¿Dónde aparece la hybris? ¿Y la anagnórisis?",
+     "¿Por qué la obra sigue teniendo sentido hoy?",
+     "¿Quién te parece que tenía razón? Justificalo."
+    ]
+   },
+   "juegos": [
+    {
+     "tipo": "vf",
+     "texto": "En Antígona se enfrentan la ley del Estado y la ley de los dioses.",
+     "respuesta": true,
+     "explicacion": "Creonte defiende una; Antígona, la otra."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En la obra, solo Antígona tiene razones para actuar como actúa.",
+     "respuesta": false,
+     "explicacion": "Los dos tienen sus razones: eso es lo trágico."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La hybris es el orgullo excesivo de quien se cree por encima de todo.",
+     "respuesta": true,
+     "explicacion": "En la obra, la muestra Creonte."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La anagnórisis es el momento en que un personaje reconoce su error.",
+     "respuesta": true,
+     "explicacion": "Creonte lo vive al final."
+    },
+    {
+     "tipo": "vf",
+     "texto": "Creonte escucha los consejos de Hemón desde el principio.",
+     "respuesta": false,
+     "explicacion": "No lo escucha: esa es parte de su hybris."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué defiende Creonte?",
+     "opciones": [
+      "La ley del Estado",
+      "La ley de los dioses y la familia",
+      "El amor de su hijo Hemón",
+      "La libertad de Polinices"
+     ],
+     "correcta": 0,
+     "explicacion": "Para él, el traidor no merece honores."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué defiende Antígona?",
+     "opciones": [
+      "La ley de los dioses",
+      "El poder del rey sobre la ciudad",
+      "La guerra contra Tebas",
+      "Las órdenes de su tío Creonte"
+     ],
+     "correcta": 0,
+     "explicacion": "Por eso entierra a su hermano."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué personaje muestra hybris en la obra?",
+     "opciones": [
+      "Creonte",
+      "Ismene",
+      "Tiresias",
+      "Eurídice"
+     ],
+     "correcta": 0,
+     "explicacion": "No escucha a nadie y se cree por encima de todo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué el conflicto de Antígona no tiene una salida fácil?",
+     "opciones": [
+      "Porque los dos tienen razones y no ceden",
+      "Porque nadie sabe quién es el rey de Tebas",
+      "Porque Antígona no tiene ningún hermano",
+      "Porque la obra queda sin un final"
+     ],
+     "correcta": 0,
+     "explicacion": "Eso es lo que lo hace trágico."
+    },
+    {
+     "tipo": "vf",
+     "texto": "La tragedia es una expresión ética porque plantea preguntas sobre lo que es justo.",
+     "respuesta": true,
+     "explicacion": "Por ejemplo: ¿hay que obedecer al rey o cumplir con la familia?"
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Qué personaje muestra hybris en Antígona?",
+     "opciones": [
+      "Creonte",
+      "Ismene",
+      "Tiresias",
+      "Hemón"
+     ],
+     "correcta": 0,
+     "explicacion": "Creonte no escucha a nadie: es la desmesura de quien se cree por encima de todo."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué la tragedia es también una expresión estética?",
+     "opciones": [
+      "Porque es una obra de arte con forma propia",
+      "Porque habla de los dioses que protegían a la ciudad",
+      "Porque termina bien para sus personajes",
+      "Porque la escribió un rey de Tebas"
+     ],
+     "correcta": 0,
+     "explicacion": "Tiene coro, diálogos entre personajes y un final que conmueve al público."
+    }
+   ],
+   "palabras": [
+    {
+     "palabra": "HYBRIS",
+     "pista": "Orgullo excesivo de quien se cree por encima de todo."
+    },
+    {
+     "palabra": "ANAGNÓRISIS",
+     "pista": "Momento en que un personaje reconoce la verdad o su error."
+    },
+    {
+     "palabra": "CONCIENCIA",
+     "pista": "Lo que, junto con las leyes de los dioses, defiende Antígona."
+    },
+    {
+     "palabra": "ESTADO",
+     "pista": "La ley del ___ es la que defiende Creonte."
+    },
+    {
+     "palabra": "DESMESURA",
+     "pista": "Otra manera de decir hybris: el orgullo excesivo."
+    },
+    {
+     "palabra": "ÉTICA",
+     "pista": "La tragedia es una expresión… porque plantea qué es lo justo."
+    }
+   ],
+   "autoevaluacion": [
+    {
+     "tipo": "mc",
+     "pregunta": "¿Por qué decimos que en Antígona \"los dos tienen sus razones\"?",
+     "opciones": [
+      "Porque cada uno defiende un valor",
+      "Porque los dos quieren ser reyes de Tebas",
+      "Porque los dos traicionaron a la ciudad",
+      "Porque ninguno de los dos habla en la obra"
+     ],
+     "correcta": 0,
+     "explicacion": "Las dos posturas tienen fundamento; el problema es que ninguno cede."
+    },
+    {
+     "tipo": "mc",
+     "pregunta": "¿Cuándo vive Creonte su anagnórisis?",
+     "opciones": [
+      "Al final, cuando ya es tarde",
+      "Al principio, cuando da la orden",
+      "Cuando él mismo entierra a Polinices",
+      "Cuando Antígona le pide perdón"
+     ],
+     "correcta": 0,
+     "explicacion": "Reconoce su error cuando ya murieron Antígona, Hemón y Eurídice."
+    },
+    {
+     "tipo": "vf",
+     "texto": "En Antígona, los dos personajes enfrentados tienen sus razones.",
+     "respuesta": true,
+     "explicacion": "Por eso es un conflicto trágico: Antígona defiende la ley de los dioses y la familia; Creonte, la ley del Estado. Ninguno cede."
+    }
+   ]
+  }
+ ],
+ "vocabulario": [
+  {
+   "palabra": "Tragedia",
+   "definicion": "Obra teatral con un conflicto grave, un héroe trágico y un final desgraciado."
+  },
+  {
+   "palabra": "Coro",
+   "definicion": "Grupo que canta y comenta la acción, como la voz de la comunidad."
+  },
+  {
+   "palabra": "Catarsis",
+   "definicion": "Purificación o alivio de emociones que siente el público."
+  },
+  {
+   "palabra": "Hybris",
+   "definicion": "Orgullo excesivo de quien se cree por encima de todo."
+  },
+  {
+   "palabra": "Anagnórisis",
+   "definicion": "Momento en que un personaje reconoce la verdad o su error."
+  },
+  {
+   "palabra": "Conflicto trágico",
+   "definicion": "Enfrentamiento entre dos fuerzas o leyes que no tiene una salida fácil."
+  }
+ ],
+ "errores_frecuentes": [
+  {
+   "error": "Antígona es una comedia porque es teatro.",
+   "aclaracion": "Es una tragedia: conflicto grave, héroe trágico y final desgraciado."
+  },
+  {
+   "error": "Creonte es simplemente el malo de la obra.",
+   "aclaracion": "Creonte también tiene razones: defiende el orden de la ciudad. Lo trágico es que ninguno cede."
+  },
+  {
+   "error": "Ismene ayuda a Antígona.",
+   "aclaracion": "Ismene tiene miedo y no se anima; Antígona actúa sola."
+  }
+ ],
+ "para_ir_mas_alla": {
+  "pregunta": "Pensá en una película, una serie o un libro en el que un personaje tenga que elegir entre obedecer una regla y hacer lo que le dice su conciencia. ¿Qué pensás de la decisión que tomó?",
+  "conexion": "Con la clase del texto argumentativo: vas a aprender a defender una opinión como la tuya con argumentos. Y con la de cómo analizar una obra literaria, que te sirve para cualquier lectura."
+ }
+}
