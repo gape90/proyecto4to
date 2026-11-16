@@ -85,16 +85,8 @@ cargarJSON('contenidos/catalogo.json').then(c => { cat = c; pintarContenidos(); 
     `<div class="tarjeta"><b>No se pudo cargar el catálogo.</b><br>Abrí la plataforma desde un servidor web (iniciar.bat), no haciendo doble clic en el archivo.<br><small>${esc(err.message)}</small></div>`);
 });
 
-// MODO_PRUEBA (GitHub): se eligen solos todos los contenidos y se entra directo al recorrido
-if (AJUSTES.MODO_PRUEBA && !new URLSearchParams(location.search).has('cambiar')) {
-  cargarJSON('contenidos/catalogo.json').then(c => {
-    const ids = (c.contenidos[ESPACIO] || []).filter(x => x.activo).map(x => x.id);
-    if (!ids.length) return;
-    if (!e.seleccion.length) { e.seleccion = ids; actualizar(x => { x.espacio = ESPACIO; x.seleccion = ids; }); }
-    if (typeof pintarPersonaje === 'function') { if (cat) pintarContenidos(); }   // Inglés: falta elegir el personaje
-    else location.replace('recorrido.html');
-  });
-}
+// MODO_PRUEBA (GitHub): al entrar desde la página de inicio, los contenidos arrancan sin tildar
+if (AJUSTES.MODO_PRUEBA && new URLSearchParams(location.search).has('inicio') && e.seleccion.length) { e.seleccion = []; actualizar(x => { x.seleccion = []; }); }
 </script>
 </body>
 </html>
