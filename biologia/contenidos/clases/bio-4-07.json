@@ -36,13 +36,6 @@
      "texto": "El **sistema endocrino** es el otro gran sistema que coordina el cuerpo. Está formado por **glándulas endocrinas**, que fabrican unas sustancias llamadas **hormonas** y las vuelcan a la sangre.\n\nLa sangre lleva las hormonas a todo el cuerpo, pero cada hormona actúa solo sobre algunos órganos: sus **órganos blanco**. Son los que tienen células con **receptores** para esa hormona, como una cerradura que solo abre con su llave.\n\nNo todas las glándulas son endocrinas. Las **glándulas exocrinas**, como las salivales o las del sudor, vuelcan lo que fabrican por un conducto hacia afuera o hacia una cavidad. El páncreas hace las dos cosas: el jugo pancreático de la clase 3 va al intestino, y sus hormonas van a la sangre."
     },
     {
-     "t": "marcar",
-     "consigna": "Marcá en este texto las glándulas que vuelcan lo que fabrican **a la sangre**. Si dudás, releé el texto de arriba.",
-     "texto": "Cuando tenés hambre y olés comida, las glándulas salivales llenan la boca de saliva. Si hace calor, las glándulas del sudor te mojan la piel. Mientras tanto, el [[páncreas]] vuelca insulina a la sangre, y la [[tiroides]] y las [[suprarrenales]] hacen lo mismo con sus hormonas.",
-     "explicacion": "El páncreas, la tiroides y las suprarrenales vuelcan hormonas a la sangre: actúan como glándulas endocrinas. Las salivales y las del sudor son exocrinas.",
-     "pista": "Las salivales y las del sudor vuelcan lo que fabrican por un conducto, no a la sangre."
-    },
-    {
      "t": "imagen",
      "titulo": "Las principales glándulas endocrinas",
      "src": "img/clases/bio-4-07-glandulas.svg",
@@ -57,6 +50,13 @@
      "t": "texto",
      "titulo": "Qué hace cada glándula",
      "texto": "El **hipotálamo**, que es parte del encéfalo, y la **hipófisis**, una glándula del tamaño de un garbanzo que cuelga debajo de él, controlan a muchas otras glándulas. La hipófisis también fabrica la **hormona del crecimiento**.\n\nLa **tiroides**, en el cuello, fabrica las **hormonas tiroideas**, que regulan cuánta energía usa el cuerpo. Para fabricarlas necesita **yodo**.\n\nLas **suprarrenales**, sobre los riñones, fabrican **adrenalina**, que prepara el cuerpo ante un peligro, y otras hormonas, como el **cortisol**.\n\nEl **páncreas** fabrica **insulina** y **glucagón**, que regulan la glucosa de la sangre.\n\nLos **ovarios** fabrican **estrógenos** y **progesterona**, y los **testículos**, **testosterona**. Estas hormonas producen los cambios del cuerpo en la pubertad."
+    },
+    {
+     "t": "marcar",
+     "consigna": "Marcá en este texto las glándulas que vuelcan lo que fabrican **a la sangre**. Si dudás, releé los textos de arriba.",
+     "texto": "Cuando tenés hambre y olés comida, las glándulas salivales llenan la boca de saliva. Si hace calor, las glándulas del sudor te mojan la piel. Mientras tanto, el [[páncreas]] vuelca insulina a la sangre, y la [[tiroides]] y las [[suprarrenales]] hacen lo mismo con sus hormonas.",
+     "explicacion": "El páncreas, la tiroides y las suprarrenales vuelcan hormonas a la sangre: actúan como glándulas endocrinas. Las salivales y las del sudor son exocrinas.",
+     "pista": "Buscá las que fabrican hormonas."
     },
     {
      "t": "tocar",
@@ -117,7 +117,7 @@
         "supra_d"
        ],
        "explicacion": "Las suprarrenales están sobre los riñones y fabrican adrenalina.",
-       "pista": "Buscá dos glándulas iguales, una de cada lado, más abajo del pecho."
+       "pista": "Su nombre dice sobre qué órgano están."
       },
       {
        "pregunta": "Tocá la glándula que necesita yodo para fabricar sus hormonas.",
@@ -135,7 +135,7 @@
        "pregunta": "Tocá la glándula que controla a muchas otras y fabrica la hormona del crecimiento.",
        "correcta": "hipofisis",
        "explicacion": "La hipófisis cuelga debajo del hipotálamo, en el encéfalo.",
-       "pista": "Está en la cabeza."
+       "pista": "Cuelga debajo del hipotálamo."
       }
      ],
      "cierre": "Cada glándula está en un lugar distinto del cuerpo, pero todas vuelcan sus hormonas a la misma sangre."
@@ -518,11 +518,16 @@
     {
      "t": "texto",
      "titulo": "Cuando el equilibrio se rompe: la diabetes",
-     "texto": "La **diabetes** es una enfermedad en la que la glucosa de la sangre queda alta durante mucho tiempo. Puede dar mucha sed, ganas de orinar seguido y cansancio. Hay dos tipos principales:\n\nEn la **diabetes tipo 1**, el páncreas deja de fabricar insulina. Suele aparecer en la infancia o la adolescencia, y la persona necesita recibir insulina.\n\nEn la **diabetes tipo 2**, el páncreas fabrica insulina, pero las células no responden bien a ella. Es la más frecuente. Influyen la herencia y los hábitos, como la alimentación y la actividad física. Muchas veces se controla con cambios de hábitos y medicamentos."
+     "texto": "La **diabetes** es una enfermedad en la que la glucosa de la sangre queda alta durante mucho tiempo. Puede dar mucha sed, ganas de orinar seguido y cansancio. Cuando la glucosa de la sangre es muy alta, los riñones no llegan a reabsorberla toda y aparece en la orina. Hay dos tipos principales:\n\nEn la **diabetes tipo 1**, el páncreas deja de fabricar insulina. Suele aparecer en la infancia o la adolescencia, y la persona necesita recibir insulina.\n\nEn la **diabetes tipo 2**, el páncreas fabrica insulina, pero las células no responden bien a ella. Es la más frecuente. Influyen la herencia y los hábitos, como la alimentación y la actividad física. Muchas veces se controla con cambios de hábitos y medicamentos."
+    },
+    {
+     "t": "texto",
+     "titulo": "Otro desequilibrio: el bocio",
+     "texto": "Si en la alimentación falta **yodo**, la tiroides no puede fabricar suficientes hormonas. La hipófisis la estimula cada vez más, y la tiroides crece hasta formar un bulto en el cuello: el **bocio**.\n\nEn algunas regiones de la Argentina, el bocio era muy común porque el agua y los alimentos tenían poco yodo. Desde 1967, una ley nacional, la **Ley 17.259**, obliga a agregar yodo a la sal que se vende para consumo. Así, la sal que se usa habitualmente para cocinar alcanza para cubrir el yodo, sin necesidad de agregar más."
     },
     {
      "t": "unir",
-     "consigna": "Uní cada tipo de diabetes con lo que pasa con la insulina.",
+     "consigna": "Uní cada situación con lo que pasa en el cuerpo.",
      "pares": [
       {
        "a": "Diabetes tipo 1",
@@ -531,15 +536,18 @@
       {
        "a": "Diabetes tipo 2",
        "b": "Hay insulina, pero las células no responden bien"
+      },
+      {
+       "a": "Bocio",
+       "b": "La tiroides crece porque no puede fabricar suficientes hormonas"
+      },
+      {
+       "a": "Persona sin diabetes, después de comer",
+       "b": "El páncreas libera insulina y la glucosa vuelve a lo normal"
       }
      ],
-     "explicacion": "En las dos, la glucosa queda alta, pero por razones distintas.",
-     "pista": "Releé el texto Cuando el equilibrio se rompe: la diabetes."
-    },
-    {
-     "t": "texto",
-     "titulo": "Otro desequilibrio: el bocio",
-     "texto": "Si en la alimentación falta **yodo**, la tiroides no puede fabricar suficientes hormonas. La hipófisis la estimula cada vez más, y la tiroides crece hasta formar un bulto en el cuello: el **bocio**.\n\nEn algunas regiones de la Argentina, el bocio era muy común porque el agua y los alimentos tenían poco yodo. Desde 1967, una ley nacional, la **Ley 17.259**, obliga a agregar yodo a la sal que se vende para consumo. Así, una cucharadita de sal en la comida aporta el yodo que hace falta."
+     "explicacion": "En las dos diabetes la glucosa queda alta, pero por razones distintas. En el bocio, el problema está en la tiroides.",
+     "pista": "Releé los textos sobre la diabetes y el bocio."
     },
     {
      "t": "verificar",
@@ -694,9 +702,9 @@
      "pregunta": "¿Cuál de estos puede ser un signo de diabetes?",
      "opciones": [
       "Mucha sed",
-      "Pelo más claro",
-      "Uñas más largas",
-      "Mejor vista"
+      "Tos con fiebre",
+      "Ardor al orinar",
+      "Un bulto en el cuello"
      ],
      "correcta": 0,
      "explicacion": "También ganas de orinar seguido y cansancio."
@@ -807,9 +815,9 @@
     {
      "t": "completar",
      "consigna": "Completá el texto con las palabras que corresponden.",
-     "texto": "El [[hipotálamo]], que es parte del encéfalo, envía una orden a la [[hipófisis]]. Esta libera una hormona que estimula la [[tiroides]]. Cuando hay suficientes hormonas tiroideas, la orden se frena: es [[retroalimentación]] negativa.",
-     "explicacion": "Es la cadena del esquema, con su freno.",
-     "pista": "Mirá el esquema de la cadena de órdenes."
+     "texto": "Cuando falta [[yodo]], la tiroides fabrica pocas hormonas. Entonces la orden del hipotálamo y la hipófisis no se [[frena]], y la glándula recibe cada vez más estímulo y [[crece]]. Eso es el [[bocio]].",
+     "explicacion": "Sin yodo no hay suficientes hormonas tiroideas, y sin ellas la retroalimentación negativa no frena la cadena.",
+     "pista": "Releé el texto La cadena también se frena."
     },
     {
      "t": "ordenar",
@@ -841,7 +849,7 @@
     {
      "t": "dato",
      "titulo": "Dato curioso",
-     "texto": "En 1912, el médico Friedrich Gudernatsch alimentó renacuajos con trocitos de tiroides de caballo. Los renacuajos se transformaron en ranas antes de tiempo, y muy pequeñas. Fue una de las primeras pruebas de que la tiroides controla la metamorfosis."
+     "texto": "En 1912, el investigador J. F. Gudernatsch alimentó renacuajos con trocitos de tiroides de caballo. Los renacuajos se transformaron en ranas antes de tiempo, y muy pequeñas. Fue una de las primeras pruebas de que la tiroides controla la metamorfosis."
     },
     {
      "t": "historieta",
@@ -859,19 +867,19 @@
        "nombre": "Mateo",
        "img": "img/clases/bio-4-07-mateo.webp",
        "color": "#2F5597",
-       "dice": "Lo desencadenan las hormonas de la tiroides, que se activa por orden del hipotálamo y la hipófisis.",
-       "por_que": ""
+       "dice": "Es porque come mucho y crece. Al ser más grande, se convierte en rana.",
+       "por_que": "Crecer no alcanza: en el experimento de Gudernatsch, los renacuajos se transformaron antes de tiempo, y siendo muy pequeños, por las hormonas tiroideas."
       },
       {
        "nombre": "Sofía",
        "img": "img/clases/bio-4-07-sofia.webp",
        "color": "#4E7A1E",
-       "dice": "Es porque come mucho y crece. Al ser más grande, se convierte en rana.",
-       "por_que": "Crecer no alcanza: en el experimento de Gudernatsch, los renacuajos se transformaron antes de tiempo, y siendo muy pequeños, por las hormonas tiroideas."
+       "dice": "Lo desencadenan las hormonas de la tiroides, que se activa por orden del hipotálamo y la hipófisis.",
+       "por_que": ""
       }
      ],
      "pregunta": "¿Quién tiene razón?",
-     "correcta": 1,
+     "correcta": 2,
      "explicacion": "La metamorfosis es un ejemplo de coordinación neuroendocrina: el hipotálamo y la hipófisis estimulan la tiroides, y sus hormonas producen los cambios.",
      "pista": "Releé el texto La metamorfosis de la rana."
     },
@@ -902,7 +910,7 @@
    ],
    "carpeta": {
     "titulo": "Anotá en tu carpeta",
-    "instruccion": "Explicá qué es la coordinación neuroendocrina y por qué el hipotálamo es clave. Describí la cadena hipotálamo, hipófisis y tiroides, cómo se frena, y qué tiene que ver con la metamorfosis de la rana.",
+    "instruccion": "Explicá qué es la coordinación neuroendocrina y por qué el hipotálamo une los dos sistemas. Describí la cadena hipotálamo, hipófisis y tiroides, cómo se frena, y qué tiene que ver con la metamorfosis de la rana.",
     "guia": [
      "¿Por qué el hipotálamo une el sistema nervioso y el endocrino?",
      "¿Qué hace la hipófisis?",
@@ -1049,7 +1057,7 @@
      "tipo": "mc",
      "pregunta": "¿Por qué se dice que el hipotálamo une los dos sistemas?",
      "opciones": [
-      "Es parte del encéfalo y fabrica hormonas",
+      "Porque es parte del encéfalo y fabrica hormonas",
       "Porque está en el cuello, junto a la tiroides",
       "Porque fabrica insulina",
       "Porque es un músculo"

@@ -90,12 +90,12 @@
       }
      ],
      "explicacion": "El encéfalo (con el cerebro y el cerebelo) y la médula forman el sistema nervioso central. Los nervios y los ganglios forman el periférico.",
-     "pista": "Mirá el dibujo: lo de color crema es el central y lo celeste, el periférico. Ojo con el nervio craneal: sale del encéfalo, pero es un nervio."
+     "pista": "Mirá el dibujo: lo de color crema es el central y lo celeste, el periférico."
     },
     {
      "t": "texto",
      "titulo": "Lo que decidís y lo que funciona solo",
-     "texto": "Algunas respuestas las controlás vos: decidir levantar la mano o patear una pelota. De eso se encarga el **sistema nervioso somático**, que manda órdenes a los músculos esqueléticos.\n\nOtras ocurren sin que lo decidas: el ritmo del corazón, la digestión o el tamaño de las pupilas. De eso se encarga el **sistema nervioso autónomo**, que controla el músculo liso, el músculo cardíaco y muchas glándulas. Tiene dos partes que trabajan en sentido opuesto, como el bíceps y el tríceps de la clase 5: la **simpática** y la **parasimpática**."
+     "texto": "Los nervios del sistema periférico trabajan de dos maneras. Algunas respuestas las controlás vos: decidir levantar la mano o patear una pelota. De eso se encarga el **sistema nervioso somático**, que manda órdenes a los músculos esqueléticos.\n\nOtras ocurren sin que lo decidas: el ritmo del corazón, la digestión o el tamaño de las pupilas. De eso se encarga el **sistema nervioso autónomo**, que controla el músculo liso, el músculo cardíaco y muchas glándulas. Tiene dos partes que trabajan en sentido opuesto, como el bíceps y el tríceps de la clase 5: la **simpática** y la **parasimpática**."
     },
     {
      "t": "comparar",
@@ -134,20 +134,11 @@
      ]
     },
     {
-     "t": "unir",
-     "consigna": "Uní cada situación con la parte del sistema autónomo que actúa más.",
-     "pares": [
-      {
-       "a": "Un perro te ladra de golpe y el corazón se te acelera",
-       "b": "Simpático"
-      },
-      {
-       "a": "Después de almorzar, descansás y hacés la digestión",
-       "b": "Parasimpático"
-      }
-     ],
-     "explicacion": "Ante un susto actúa el simpático, que prepara el cuerpo para reaccionar. En reposo actúa el parasimpático, que favorece la digestión.",
-     "pista": "Buscá en la tabla de arriba la fila Cuándo actúa."
+     "t": "marcar",
+     "consigna": "Marcá en el texto las respuestas que produce el sistema **simpático**. Si dudás, buscá en la tabla de arriba.",
+     "texto": "Un perro te ladra de golpe detrás de una reja. En un instante, el corazón [[se acelera]], las pupilas [[se agrandan]], la respiración [[se hace más rápida]] y la digestión [[se frena]]. Media hora después, ya en tu casa, el corazón late más despacio, las pupilas se achican y la digestión vuelve a activarse.",
+     "explicacion": "Justo después del susto actúa el simpático, que prepara el cuerpo para reaccionar. En calma, en tu casa, actúa el parasimpático.",
+     "pista": "Fijate en lo que pasa justo después del susto. Lo que pasa en calma es obra de la otra parte."
     },
     {
      "t": "opcion",
@@ -157,7 +148,7 @@
       "El encéfalo está protegido por el cráneo y las meninges.",
       "Los nervios forman parte del sistema nervioso central.",
       "El cerebelo coordina el equilibrio.",
-      "Ante un susto actúa el sistema simpático."
+      "El tronco encefálico controla la respiración."
      ],
      "correcta": 1,
      "explicacion": "Los nervios forman parte del sistema nervioso periférico. El central es el encéfalo y la médula espinal.",
@@ -184,11 +175,11 @@
     {
      "t": "destacado",
      "titulo": "Para recordar",
-     "texto": "El sistema nervioso capta **estímulos** con los **receptores**, los procesa y elabora **respuestas** que ejecutan los **efectores**. El **sistema nervioso central** es el **encéfalo** (cerebro, cerebelo y tronco encefálico) y la **médula espinal**. El **periférico** son los **nervios** y los **ganglios**. El **autónomo** controla lo involuntario: el **simpático** prepara para la acción y el **parasimpático** actúa en reposo. En un **acto reflejo**, la médula responde sin esperar al cerebro."
+     "texto": "El sistema nervioso capta **estímulos** con los **receptores**, los procesa y elabora **respuestas** que ejecutan los **efectores**. El **sistema nervioso central** es el **encéfalo** (cerebro, cerebelo y tronco encefálico) y la **médula espinal**. El **periférico** son los **nervios** y los **ganglios**. El **somático** manda órdenes a los músculos que movés a voluntad y el **autónomo** controla lo involuntario: el **simpático** prepara para la acción y el **parasimpático** actúa en reposo. En muchos **actos reflejos**, la médula responde sin esperar al cerebro."
     },
     {
      "t": "revelar",
-     "pregunta": "Volvé a la pregunta del comienzo: ¿quién le dio la orden a tu brazo de soltar la olla?",
+     "pregunta": "Volvé a la pregunta del comienzo: ¿quién le dio la orden a tu brazo de apartar la mano?",
      "respuesta": "La médula espinal. Fue un acto reflejo: el mensaje llegó a la médula por una neurona sensitiva y salió de allí, por una neurona motora, hacia el músculo. El cerebro se enteró un instante después, y por eso el dolor se siente cuando la mano ya se apartó."
     }
    ],
@@ -213,9 +204,9 @@
     },
     {
      "tipo": "vf",
-     "texto": "Los nervios forman parte del sistema nervioso central.",
+     "texto": "Los ganglios forman parte del sistema nervioso central.",
      "respuesta": false,
-     "explicacion": "Forman parte del periférico."
+     "explicacion": "Forman parte del periférico, junto con los nervios."
     },
     {
      "tipo": "vf",
@@ -386,7 +377,7 @@
     {
      "t": "texto",
      "titulo": "El tejido nervioso",
-     "texto": "El sistema nervioso está formado por **tejido nervioso**, que tiene dos tipos de células:\n\nLas **neuronas**, que reciben y transmiten mensajes. Cuando se forma el embrión, el tejido nervioso se origina en la capa más externa, el **ectodermo**: la misma capa que forma la piel.\n\nLas **células de la glía**, que son más numerosas que las neuronas. No transmiten mensajes: las sostienen, las alimentan, las protegen y forman la vaina de mielina."
+     "texto": "El sistema nervioso está formado por **tejido nervioso**, que tiene dos tipos de células:\n\nLas **neuronas**, que reciben y transmiten mensajes.\n\nLas **células de la glía**, que en el encéfalo son tan numerosas como las neuronas. No transmiten mensajes: las sostienen, las alimentan, las protegen y forman la vaina de mielina.\n\nCuando se forma el embrión, el tejido nervioso se origina en su capa más externa, el **ectodermo**. De esa misma capa sale también la capa externa de la piel."
     },
     {
      "t": "imagen",
@@ -402,7 +393,7 @@
     {
      "t": "texto",
      "titulo": "Las partes de una neurona",
-     "texto": "El **cuerpo celular** tiene el núcleo y la mayoría de los organelos que viste en la clase 1.\n\nLas **dendritas** son prolongaciones cortas y ramificadas que **reciben** los mensajes de otras neuronas o de los receptores.\n\nEl **axón** es una prolongación larga que **lleva** el mensaje hacia otras células. En algunas neuronas mide más de un metro: va desde la médula hasta los dedos del pie.\n\nMuchos axones están envueltos por la **vaina de mielina**, una cubierta formada por células de la glía que funciona como el plástico que aísla un cable. Al final, el axón se ramifica en los **terminales del axón**."
+     "texto": "El **cuerpo celular** tiene el núcleo y la mayoría de las partes de la célula que viste en la clase 1.\n\nLas **dendritas** son prolongaciones cortas y ramificadas que **reciben** los mensajes de otras neuronas o de los receptores.\n\nEl **axón** es una prolongación larga que **lleva** el mensaje hacia otras células. En algunas neuronas mide más de un metro: va desde la médula hasta los dedos del pie.\n\nMuchos axones están envueltos por la **vaina de mielina**, una cubierta formada por células de la glía que funciona como el plástico que aísla un cable. Al final, el axón se ramifica en los **terminales del axón**."
     },
     {
      "t": "unir",
@@ -516,7 +507,7 @@
       {
        "texto": "El tejido nervioso se origina en el ectodermo del embrión.",
        "v": true,
-       "explicacion": "Es la misma capa que forma la piel."
+       "explicacion": "Es la capa más externa del embrión; de ella sale también la capa externa de la piel."
       }
      ]
     },
@@ -575,9 +566,9 @@
     },
     {
      "tipo": "vf",
-     "texto": "Hay más células de la glía que neuronas.",
+     "texto": "Las células de la glía forman la vaina de mielina.",
      "respuesta": true,
-     "explicacion": "Sostienen y protegen a las neuronas."
+     "explicacion": "Además sostienen, alimentan y protegen a las neuronas."
     },
     {
      "tipo": "mc",
@@ -643,10 +634,10 @@
      "tipo": "mc",
      "pregunta": "¿En qué capa del embrión se origina el tejido nervioso?",
      "opciones": [
-      "En el ectodermo",
-      "En el corazón",
-      "En la médula ósea",
-      "En el estómago"
+      "En el ectodermo, la capa externa",
+      "En la capa interna del embrión",
+      "En la capa media del embrión",
+      "En la placenta"
      ],
      "correcta": 0,
      "explicacion": "Es la capa más externa del embrión."
@@ -729,7 +720,7 @@
     {
      "t": "texto",
      "titulo": "Qué es un consumo problemático",
-     "texto": "La **Ley 26.934**, que creó el Plan Integral para el Abordaje de los Consumos Problemáticos, llama **consumo problemático** al que afecta negativamente, de forma crónica, la salud física o psíquica de una persona o sus relaciones con los demás.\n\nPuede darse **con sustancias**, como el alcohol, el tabaco u otras drogas, legales o ilegales, o **sin sustancias**, con conductas que se vuelven compulsivas: las apuestas y los juegos de azar, el uso de la tecnología, las compras o la alimentación.\n\nNo todo consumo es problemático. Lo que lo vuelve un problema es cómo afecta la salud y la vida de la persona."
+     "texto": "La **Ley 26.934**, que creó el Plan Integral para el Abordaje de los Consumos Problemáticos, llama **consumo problemático** al que afecta negativamente, de forma crónica, la salud física o psíquica de una persona o sus relaciones con los demás.\n\nPuede darse **con sustancias**, como el alcohol, el tabaco u otras drogas, legales o ilegales, o **sin sustancias**, con conductas que se vuelven compulsivas: las apuestas y los juegos de azar, el uso de la tecnología, las compras o la alimentación.\n\nNo todo consumo es problemático. Lo que lo vuelve un problema es cómo afecta la salud y la vida de la persona. Y para quienes tienen menos de 18 años hay límites claros: en la Argentina está prohibido venderles alcohol (Ley 24.788) y tabaco (Ley 26.687)."
     },
     {
      "t": "texto",
@@ -752,7 +743,7 @@
     {
      "t": "texto",
      "titulo": "Las apuestas en línea",
-     "texto": "En la Argentina, los juegos de azar y las apuestas están prohibidos para menores de 18 años. Aun así, muchos sitios de apuestas en línea no controlan bien la edad de quienes entran.\n\nEstos juegos usan premios que aparecen al azar y de forma inesperada. Esa incertidumbre activa con fuerza el sistema de recompensa, y por eso es fácil seguir apostando para \"recuperar\" lo perdido."
+     "texto": "En todas las provincias argentinas, los juegos de azar y las apuestas están prohibidos para menores de 18 años. Aun así, muchos sitios de apuestas en línea no controlan bien la edad de quienes entran.\n\nEstos juegos usan premios que aparecen al azar y de forma inesperada. Esa incertidumbre activa con fuerza el sistema de recompensa, y por eso es fácil seguir apostando para \"recuperar\" lo perdido."
     },
     {
      "t": "opcion",
@@ -785,7 +776,7 @@
     {
      "t": "dilema",
      "titulo": "Una situación para pensar",
-     "situacion": "Esta situación es inventada. Tu amigo Bruno apuesta todas las noches desde el celular. Ya perdió el dinero que había ahorrado, le pidió prestado a dos compañeros y dice que \"esta vez seguro recupera\". Hoy te pide que le prestes vos.",
+     "situacion": "Esta situación es inventada. Tu amigo Bruno apuesta todas las noches desde el celular. Ya perdió el dinero que había ahorrado, les pidió prestado a dos compañeros y dice que \"esta vez seguro recupera\". Hoy te pide que le prestes vos.",
      "opciones": [
       {
        "texto": "Le presto: así recupera lo que perdió y deja de preocuparse.",
@@ -823,7 +814,7 @@
      ],
      "formato": "Escribí el número.",
      "explicacion": "La Línea 141 atiende en todo el país, todos los días del año.",
-     "pista1": "Está en el texto Pedir ayuda.",
+     "pista1": "Es un número de tres cifras, y aparece en negrita.",
      "relee": "Releé el texto Pedir ayuda."
     },
     {
@@ -899,15 +890,15 @@
     },
     {
      "tipo": "mc",
-     "pregunta": "¿Qué ley creó el plan para abordar los consumos problemáticos?",
+     "pregunta": "Según la Ley 26.934, ¿qué hace que un consumo sea problemático?",
      "opciones": [
-      "La Ley 26.934",
-      "La Ley 27.447",
-      "La Ley 17.259",
-      "La Ley 26.206"
+      "Que afecte la salud o las relaciones",
+      "Que la sustancia sea ilegal",
+      "Que se repita todos los días de la semana",
+      "Que lo haga una persona adulta"
      ],
      "correcta": 0,
-     "explicacion": "La 27.447 es la Ley Justina, de donación de órganos."
+     "explicacion": "Puede darse con sustancias o sin ellas, legales o ilegales. Lo que importa es cómo afecta a la persona."
     },
     {
      "tipo": "mc",
@@ -1025,7 +1016,7 @@
   },
   {
    "palabra": "Acto reflejo",
-   "definicion": "Respuesta rápida, automática e involuntaria que sale de la médula, sin esperar al cerebro."
+   "definicion": "Respuesta rápida, automática e involuntaria, que no espera la decisión del cerebro; muchas veces sale de la médula."
   },
   {
    "palabra": "Neurona",
@@ -1047,7 +1038,7 @@
  "errores_frecuentes": [
   {
    "error": "Todas las respuestas del cuerpo las decide el cerebro.",
-   "aclaracion": "En los actos reflejos, la respuesta sale de la médula espinal, sin esperar al cerebro."
+   "aclaracion": "En los actos reflejos, la respuesta no espera la decisión del cerebro; en muchos, como al apartar la mano de algo caliente, sale de la médula espinal."
   },
   {
    "error": "Las neuronas están pegadas unas a otras.",

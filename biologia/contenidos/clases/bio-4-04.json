@@ -65,7 +65,7 @@
      "etiqueta": "🔍 Encontrá el error",
      "pregunta": "Una de estas frases sobre el corazón tiene un error. ¿Cuál?",
      "opciones": [
-      "Las aurículas reciben la sangre que llega al corazón por las venas.",
+      "Las aurículas reciben la sangre que llega al corazón.",
       "Las válvulas impiden que la sangre vuelva hacia atrás.",
       "Por el lado izquierdo pasa sangre con poco oxígeno.",
       "En la sístole, el corazón se contrae y empuja la sangre."
@@ -126,7 +126,7 @@
        "cat": "Arterias"
       },
       {
-       "texto": "La aorta es una de ellas",
+       "texto": "Aguantan el empuje de cada latido",
        "cat": "Arterias"
       },
       {
@@ -138,12 +138,12 @@
        "cat": "Venas"
       },
       {
-       "texto": "Las cavas son de este grupo",
+       "texto": "Tienen paredes más finas",
        "cat": "Venas"
       }
      ],
      "explicacion": "Lo que define a cada vaso es hacia dónde lleva la sangre: las arterias la sacan del corazón y las venas la devuelven.",
-     "pista": "Buscá en la tabla la fila Hacia dónde llevan la sangre, y en el texto Dos circuitos, dónde terminan las venas."
+     "pista": "Buscá en la tabla de arriba las filas sobre hacia dónde llevan la sangre y cómo son sus paredes."
     },
     {
      "t": "texto",
@@ -155,7 +155,7 @@
      "titulo": "El sistema circulatorio",
      "src": "img/clases/bio-4-04-circulatorio.svg",
      "tipo": "grafico",
-     "alt": "Ilustración del sistema circulatorio de una persona, de frente. En el centro del pecho está el corazón, entre los dos pulmones. Del corazón salen las arterias, dibujadas en rojo, que llevan sangre cargada de oxígeno a todo el cuerpo; la más grande es la arteria aorta. Las venas, dibujadas en azul, devuelven al corazón la sangre con poco oxígeno; las más grandes son las venas cavas.",
+     "alt": "Ilustración del sistema circulatorio de una persona, de frente. En el centro del pecho está el corazón, entre los dos pulmones. Del corazón salen las arterias, dibujadas en rojo, que en la circulación mayor llevan sangre cargada de oxígeno a todo el cuerpo; la más grande es la arteria aorta. Las venas, dibujadas en azul, devuelven al corazón la sangre con poco oxígeno; las más grandes son las venas cavas.",
      "epigrafe": "Ilustración: Mariana Ruiz Villarreal (LadyofHats). Los rótulos y la animación se agregaron para esta clase.",
      "src_movil": "img/clases/bio-4-04-circulatorio-movil.svg",
      "fuente": "Wikimedia Commons (dominio público).",
@@ -390,7 +390,7 @@
     {
      "t": "texto",
      "titulo": "Excretar: sacar los desechos de las células",
-     "texto": "Mientras trabajan, tus células producen desechos. En la respiración celular se forma **dióxido de carbono**. Cuando el cuerpo descompone las proteínas que no usa, se forma **urea**, una sustancia que en cantidad sería tóxica. La sangre recoge estos desechos y los lleva hasta los órganos que los sacan del cuerpo. Eso es la **excreción**.\n\nLos desechos salen por tres caminos. El dióxido de carbono sale por los **pulmones**, con el aire que espirás. La **piel** elimina agua, sales y un poco de urea con el **sudor**. Y los **riñones** eliminan la urea, el agua y las sales que sobran con la **orina**.\n\nOjo con una confusión común: la materia fecal no es excreción. Son restos de alimento que nunca entraron a la sangre ni a las células. Su salida se llama **egestión**."
+     "texto": "Mientras trabajan, tus células producen desechos. En la respiración celular se forma **dióxido de carbono**. Cuando el cuerpo descompone las proteínas que no usa, se forma **urea**, una sustancia que en cantidad sería tóxica. La sangre recoge estos desechos y los lleva hasta los órganos que los sacan del cuerpo. Eso es la **excreción**.\n\nLos desechos salen por tres caminos. El dióxido de carbono sale por los **pulmones**, con el aire que espirás. La **piel** elimina agua, sales y un poco de urea con el **sudor**. Y los **riñones** eliminan la urea, el agua y las sales que sobran con la **orina**.\n\nAtención con una confusión común: la materia fecal no es excreción. Son restos de alimento que nunca entraron a la sangre ni a las células. Su salida se llama **egestión**."
     },
     {
      "t": "texto",
@@ -403,7 +403,7 @@
      "src": "img/clases/bio-4-04-urinario.svg",
      "tipo": "grafico",
      "alt": "Ilustración del cuerpo humano de frente con el sistema urinario. A la altura de la cintura, a los dos lados de la columna, están los dos riñones; a cada riñón le llega sangre por una arteria y la sangre limpia sale por una vena. De cada riñón baja un uréter hasta la vejiga, en la parte baja del abdomen, y de la vejiga sale la uretra.",
-     "epigrafe": "Esquema elaborado para esta clase. La persona está vista de espaldas.",
+     "epigrafe": "Esquema elaborado para esta clase.",
      "src_movil": "img/clases/bio-4-04-urinario-movil.svg",
      "animacion": "svg",
      "_imagen": true
@@ -505,7 +505,7 @@
     {
      "t": "ejemplo",
      "titulo": "Pensalo así: ordenar la mochila",
-     "texto": "Al final de la semana vaciás toda la mochila sobre la cama: eso es el filtrado, sale todo lo que entra por el agujero. Después volvés a guardar lo que vas a usar, como la cartuchera y los cuadernos: eso es la reabsorción. Lo que queda en la cama, como los papelitos y los envoltorios, va a la basura: esa es la orina."
+     "texto": "Al final de la semana das vuelta la mochila sobre la cama: cae lo chico, y lo grande, como la carpeta, queda adentro. Eso es el filtrado. Después volvés a guardar lo que vas a usar, como la cartuchera y los cuadernos: eso es la reabsorción. Lo que queda en la cama, como los papelitos y los envoltorios, va a la basura: esa es la orina."
     },
     {
      "t": "completar",
@@ -549,7 +549,7 @@
      ],
      "formato": "Escribí una sola palabra.",
      "explicacion": "La urea viaja en la sangre hasta los riñones, que la dejan en la orina.",
-     "pista1": "Pensá en lo que se forma cuando el cuerpo descompone las proteínas que no usa.",
+     "pista1": "Es uno de los dos desechos que nombra el primer texto de esta parte; el otro sale por los pulmones.",
      "relee": "Releé el texto Excretar: sacar los desechos de las células."
     },
     {
@@ -751,7 +751,7 @@
     {
      "t": "texto",
      "titulo": "Para empezar",
-     "texto": "Salís a correr. Al rato respirás más rápido, el corazón late más fuerte, transpirás y te da sed. ¿Son cuatro cosas separadas o tienen algo que ver entre sí?"
+     "texto": "Salís a correr. Al rato respirás más rápido, el corazón late más rápido y con más fuerza, transpirás y te da sed. ¿Son cuatro cosas separadas o tienen algo que ver entre sí?"
     },
     {
      "t": "imagen",
@@ -765,7 +765,7 @@
     {
      "t": "texto",
      "titulo": "Cuatro sistemas que trabajan juntos",
-     "texto": "En las clases 3 y 4 viste los cuatro sistemas de la nutrición. Cada uno hace una parte, pero ninguno sirve solo.\n\nEl **digestivo** parte los nutrientes y los hace pasar a la sangre. El **respiratorio** hace pasar el oxígeno a la sangre y saca el dióxido de carbono. El **circulatorio** une a todos: lleva los nutrientes y el oxígeno hasta cada célula, y lleva los desechos a donde se eliminan. El **excretor** saca la urea y regula el agua y las sales.\n\nEn el centro están tus células. Ellas usan la glucosa y el oxígeno en la respiración celular para obtener energía, y producen los desechos. Gracias a estos cuatro sistemas, el medio interno que rodea a las células se mantiene estable: es la **homeostasis**."
+     "texto": "En las clases 3 y 4 viste los cuatro sistemas de la nutrición. Cada uno hace una parte, pero ninguno sirve solo.\n\nEl **digestivo** transforma los alimentos en nutrientes pequeños y los hace pasar a la sangre. El **respiratorio** hace pasar el oxígeno a la sangre y saca el dióxido de carbono. El **circulatorio** une a todos: lleva los nutrientes y el oxígeno hasta cada célula, y lleva los desechos a donde se eliminan. El **excretor** saca la urea y regula el agua y las sales.\n\nEn el centro están tus células. Ellas usan la glucosa y el oxígeno en la respiración celular para obtener energía, y producen los desechos. Gracias a estos cuatro sistemas, el medio interno que rodea a las células se mantiene estable: es la **homeostasis**."
     },
     {
      "t": "cadena",
@@ -776,11 +776,11 @@
        "texto": "Necesitan más energía: usan más glucosa y más oxígeno."
       },
       {
-       "titulo": "Producen más desechos",
-       "texto": "Se forma más dióxido de carbono y más calor."
+       "titulo": "Producen más dióxido de carbono y más calor",
+       "texto": "La respiración celular trabaja más rápido."
       },
       {
-       "titulo": "Respirás más rápido y el corazón late más fuerte",
+       "titulo": "Respirás más rápido y el corazón late más rápido y con más fuerza",
        "texto": "Llega más oxígeno a la sangre y la sangre circula más rápido."
       },
       {
@@ -825,7 +825,7 @@
     {
      "t": "texto",
      "titulo": "Cuando algo no funciona bien",
-     "texto": "Como en la clase 3, esta parte no sirve para diagnosticar a nadie. Sirve para entender qué pasa cuando un órgano no cumple bien su tarea. Si tenés síntomas, lo que corresponde es consultar en un **centro de salud**.\n\nEn la **hipertensión arterial**, la sangre empuja las paredes de las arterias con más fuerza de lo normal. Muchas veces no da síntomas, y por eso conviene que la presión se controle. Ayudan comer con poca sal, hacer actividad física y no fumar.\n\nEn la **anemia**, la sangre tiene menos glóbulos rojos o menos hemoglobina de lo normal. Llega menos oxígeno a las células y aparece cansancio. Una causa frecuente es la falta de hierro, el oligoelemento que viste en la clase 1.\n\nEn la **infección urinaria**, bacterias infectan la vejiga o la uretra. Da ardor al orinar y ganas de ir muy seguido. Ayudan tomar suficiente agua y consultar si aparecen esos síntomas."
+     "texto": "Como en la clase 3, esta parte no sirve para diagnosticar a nadie. Sirve para entender qué pasa cuando un órgano no cumple bien su tarea. Si tenés síntomas, lo que corresponde es consultar en un **centro de salud**.\n\nEn la **hipertensión arterial**, la sangre empuja las paredes de las arterias con más fuerza de lo normal. Muchas veces no da síntomas, y por eso conviene que la presión se controle. Ayudan comer con poca sal, hacer actividad física y no fumar.\n\nEn la **anemia**, la sangre tiene menos glóbulos rojos o menos hemoglobina de lo normal. Llega menos oxígeno a las células y aparece cansancio. Una causa frecuente es la falta de hierro, el oligoelemento que viste en la clase 1.\n\nEn la **infección urinaria**, bacterias infectan la vejiga o la uretra y, si no se trata, pueden llegar a los riñones. Da ardor al orinar y ganas de ir muy seguido. Ayudan tomar suficiente agua y consultar si aparecen esos síntomas."
     },
     {
      "t": "vf",
@@ -847,9 +847,9 @@
        "explicacion": "Es uno de los hábitos que la clase menciona, junto con la actividad física y no fumar."
       },
       {
-       "texto": "La infección urinaria afecta a los pulmones.",
+       "texto": "La infección urinaria se produce por comer con mucha sal.",
        "v": false,
-       "explicacion": "Afecta a la vejiga o a la uretra, que forman parte del sistema urinario."
+       "explicacion": "La producen bacterias que infectan la vejiga o la uretra. Comer con mucha sal se relaciona con la hipertensión."
       }
      ]
     },
@@ -875,7 +875,7 @@
     {
      "t": "revelar",
      "pregunta": "Pensá: si los riñones de una persona dejan de funcionar, ¿qué otros sistemas se ven afectados? Usá lo que viste en las tres partes.",
-     "respuesta": "La urea y el agua de más se acumulan en la sangre, así que el medio interno deja de estar estable. La sangre lleva esa sangre alterada a todas las células, por lo que el problema llega a todo el cuerpo: por eso los sistemas no se pueden pensar por separado."
+     "respuesta": "La urea y el agua de más se acumulan en la sangre, y el medio interno deja de estar estable. El sistema circulatorio reparte esa sangre por todo el cuerpo, así que el problema llega a todas las células. Por eso los sistemas no se pueden pensar por separado."
     }
    ],
    "carpeta": {
@@ -1029,7 +1029,7 @@
       "El circulatorio",
       "El excretor",
       "El digestivo",
-      "Ninguno: llega solo"
+      "El respiratorio"
      ],
      "correcta": 0,
      "explicacion": "La sangre lo transporta con los glóbulos rojos."

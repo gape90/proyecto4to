@@ -1,7 +1,7 @@
 {
  "espacio": "biologia",
  "titulo": "Mi trabajo práctico de Biología",
- "intro": "Un buen trabajo práctico de Biología no se limita a nombrar estructuras: explica cómo funcionan, qué las relaciona entre sí y qué pasa cuando algo no anda bien. Eso es lo que vas a presentar y defender.",
+ "intro": "Un buen trabajo práctico de Biología explica cómo funcionan las estructuras, qué las relaciona entre sí y qué pasa cuando algo no anda bien. Eso es lo que vas a presentar y defender.",
  "claves_contenido": {
   "b1": [
    "bioelemento",
@@ -195,6 +195,7 @@
     "¿Qué recorrido hace la sangre en la circulación menor y en la mayor?",
     "¿Qué es la excreción y por dónde salen los desechos?",
     "¿Qué pasa en las nefronas?",
+    "¿Qué pasa en una afección del sistema circulatorio o del excretor?",
     "¿Cómo se relacionan los cuatro sistemas de la nutrición con la homeostasis?"
    ],
    "claves": [],
@@ -220,10 +221,11 @@
    "instruccion": "Explicá cómo está organizado el sistema nervioso, cómo viajan los mensajes por las neuronas y qué relación tiene el sistema de recompensa con los consumos problemáticos.",
    "guia": [
     "¿Qué forma el sistema nervioso central y el periférico?",
+    "¿Qué hacen el simpático y el parasimpático?",
     "¿Qué pasa en un arco reflejo?",
     "¿Qué partes tiene una neurona?",
     "¿Cómo pasa un mensaje en la sinapsis?",
-    "¿Qué es un consumo problemático y dónde se puede pedir ayuda?"
+    "¿Qué es un consumo problemático, qué son la tolerancia, la abstinencia y la dependencia, y dónde se puede pedir ayuda?"
    ],
    "claves": [],
    "referencia": "SNC: encéfalo y médula; SNP: nervios y ganglios; autónomo simpático y parasimpático. Arco reflejo. Neurona: dendritas, cuerpo, axón, mielina. Sinapsis con neurotransmisores. Sistema de recompensa y dopamina; tolerancia, abstinencia, dependencia; Línea 141.",
@@ -237,7 +239,8 @@
     "¿Qué glándulas endocrinas conocés y qué fabrican?",
     "¿Cómo regulan la glucosa la insulina y el glucagón?",
     "¿Qué es la retroalimentación negativa?",
-    "¿Por qué el hipotálamo une los dos sistemas?"
+    "¿Qué pasa en la diabetes y en el bocio?",
+    "¿Por qué el hipotálamo une los dos sistemas y qué tiene que ver con la metamorfosis de la rana?"
    ],
    "claves": [],
    "referencia": "Glándulas endocrinas, hormonas, órganos blanco. Hipófisis, tiroides, suprarrenales, páncreas, gónadas. Insulina y glucagón; retroalimentación negativa; diabetes 1 y 2; bocio y Ley 17.259. Hipotálamo, hipófisis, tiroides; metamorfosis.",
@@ -268,7 +271,8 @@
    "b3|b7": "¿Qué dos cosas fabrica el páncreas y adónde va cada una?",
    "b6|b7": "¿Cómo trabajan juntos el sistema nervioso y el endocrino en un susto?",
    "b4|b7": "¿Por qué las hormonas necesitan del sistema circulatorio?",
-   "b5|b7": "¿Por qué los músculos que hacen ejercicio hacen bajar la glucosa de la sangre?"
+   "b5|b7": "¿Por qué los músculos que hacen ejercicio hacen bajar la glucosa de la sangre?",
+   "b2|b6": "¿Qué nutrientes necesitan las neuronas para obtener energía, y qué pasa en el sistema de recompensa cuando comés algo rico?"
   },
   "individual": {
    "b1": [
@@ -294,7 +298,7 @@
    "b5": [
     "¿Qué relación hay entre la médula ósea y la sangre de la clase 4?",
     "¿Por qué un músculo que trabaja mucho necesita más oxígeno y glucosa?",
-    "¿Qué prueba aportan las estructuras homólogas sobre el parentesco entre animales?"
+    "¿Qué evidencia aportan las estructuras homólogas sobre el parentesco entre animales?"
    ],
    "b6": [
     "¿Qué diferencia hay entre una respuesta voluntaria y un acto reflejo?",
@@ -362,7 +366,7 @@
    "b6": {
     "pregunta": "¿Dónde ves, en tu vida diaria, el trabajo del sistema nervioso o situaciones vinculadas con los consumos problemáticos?",
     "ideas": [
-     "Un reflejo, como cerrar los ojos cuando algo se acerca de golpe.",
+     "Un reflejo, como apartar la mano de algo caliente.",
      "El corazón acelerado antes de una prueba o un partido.",
      "Las campañas sobre apuestas en línea o la Línea 141."
     ]
@@ -500,7 +504,7 @@
    "id": "q-b4-4",
    "contenido": "b4",
    "nivel": "Integradora",
-   "pregunta": "¿Por qué al correr respirás más rápido, el corazón late más fuerte y te da sed?",
+   "pregunta": "¿Por qué al correr respirás más rápido, el corazón late más rápido y con más fuerza, y te da sed?",
    "orientacion": "Los músculos usan más oxígeno y glucosa y producen más dióxido de carbono y calor; respirar y latir más rápido lleva más oxígeno y saca el dióxido de carbono; transpirar baja la temperatura pero se pierde agua, y los riñones la ahorran."
   },
   {
@@ -529,7 +533,7 @@
    "contenido": "b5",
    "nivel": "Integradora",
    "pregunta": "¿Qué tienen en común el brazo humano y el ala de un ave, y qué indica eso?",
-   "orientacion": "Tienen los mismos huesos (húmero, radio, cúbito y mano) con distinta forma: son estructuras homólogas, prueba de un antepasado común."
+   "orientacion": "Tienen la misma organización de huesos (húmero, radio, cúbito y mano) con distinta forma: son estructuras homólogas, evidencia de un antepasado común."
   },
   {
    "id": "q-b6-1",

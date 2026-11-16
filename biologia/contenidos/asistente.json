@@ -745,9 +745,7 @@
    "formas": [
     "glandula anexa",
     "glandulas anexas",
-    "anexas",
-    "glandula",
-    "glandulas"
+    "anexas"
    ]
   },
   {
@@ -827,7 +825,7 @@
   },
   {
    "palabra": "Páncreas",
-   "definicion": "Glándula anexa que fabrica el jugo pancreático y lo vuelca en el intestino delgado.",
+   "definicion": "Glándula anexa que fabrica el jugo pancreático y lo vuelca en el intestino delgado. También fabrica las hormonas insulina y glucagón, que van a la sangre.",
    "formas": [
     "pancreas"
    ]
@@ -1331,7 +1329,7 @@
   },
   {
    "palabra": "Infección urinaria",
-   "definicion": "Infección de la vejiga o de la uretra por bacterias. Da ardor al orinar y ganas de ir muy seguido.",
+   "definicion": "Infección de la vejiga o de la uretra por bacterias; si no se trata, puede llegar a los riñones. Da ardor al orinar y ganas de ir muy seguido.",
    "formas": [
     "infeccion urinaria"
    ]
@@ -1354,6 +1352,13 @@
    ]
   },
   {
+   "palabra": "Osteocito",
+   "definicion": "Célula del hueso. Está rodeada por la matriz de colágeno y sales de calcio y fósforo.",
+   "formas": [
+    "osteocitos"
+   ]
+  },
+  {
    "palabra": "Hueso",
    "definicion": "Órgano duro formado por tejido óseo, que es un tejido vivo con células, vasos sanguíneos y nervios.",
    "formas": [
@@ -1364,10 +1369,9 @@
   },
   {
    "palabra": "Médula ósea",
-   "definicion": "Tejido del interior de algunos huesos. La médula ósea roja fabrica las células de la sangre.",
+   "definicion": "Tejido del interior de algunos huesos. La médula ósea roja fabrica las células de la sangre. No hay que confundirla con la médula espinal.",
    "formas": [
-    "medula osea",
-    "medula"
+    "medula osea"
    ]
   },
   {
@@ -1489,7 +1493,7 @@
   },
   {
    "palabra": "Voluntario",
-   "definicion": "Que se mueve cuando vos lo decidís, como el músculo esquelético.",
+   "definicion": "Que casi siempre se mueve cuando vos lo decidís, como el músculo esquelético.",
    "formas": [
     "voluntaria",
     "voluntarios"
@@ -1592,7 +1596,7 @@
   },
   {
    "palabra": "Estructuras homólogas",
-   "definicion": "Estructuras con la misma organización de huesos y funciones distintas. Son una prueba de un antepasado común.",
+   "definicion": "Estructuras con el mismo origen y la misma organización de huesos, cumplan o no la misma función. Son una evidencia de un antepasado común.",
    "formas": [
     "homologas",
     "homologa",
@@ -1647,7 +1651,7 @@
   },
   {
    "palabra": "Receptor",
-   "definicion": "Estructura que capta los estímulos, como los de la piel, los ojos o los oídos. En la sinapsis, también se llama así al lugar donde se une el neurotransmisor.",
+   "definicion": "Estructura que capta los estímulos, como los de la piel, los ojos o los oídos. En la sinapsis, también se llama así al lugar donde se une el neurotransmisor, y en las células de los órganos blanco, al lugar donde se une una hormona.",
    "formas": [
     "receptores"
    ]
@@ -1704,7 +1708,8 @@
    "palabra": "Médula espinal",
    "definicion": "Cordón nervioso que baja por dentro de la columna vertebral. Conecta el encéfalo con el cuerpo y responde en los reflejos.",
    "formas": [
-    "medula espinal"
+    "medula espinal",
+    "medula"
    ]
   },
   {
@@ -1754,7 +1759,7 @@
   },
   {
    "palabra": "Acto reflejo",
-   "definicion": "Respuesta rápida, automática e involuntaria, que sale de la médula sin esperar al cerebro.",
+   "definicion": "Respuesta rápida, automática e involuntaria, que no espera la decisión del cerebro; muchas veces sale de la médula.",
    "formas": [
     "reflejo",
     "reflejos"
@@ -1784,7 +1789,7 @@
   },
   {
    "palabra": "Ectodermo",
-   "definicion": "Capa más externa del embrión. De ella se originan el tejido nervioso y la piel.",
+   "definicion": "Capa más externa del embrión. De ella se originan el tejido nervioso y la capa externa de la piel.",
    "formas": []
   },
   {
@@ -2039,9 +2044,13 @@
    "palabra": "Estrógenos",
    "definicion": "Hormonas que fabrican los ovarios.",
    "formas": [
-    "estrogeno",
-    "progesterona"
+    "estrogeno"
    ]
+  },
+  {
+   "palabra": "Progesterona",
+   "definicion": "Hormona que fabrican los ovarios.",
+   "formas": []
   },
   {
    "palabra": "Testosterona",
@@ -2065,6 +2074,112 @@
    "palabra": "Renacuajo",
    "definicion": "Larva de la rana: vive en el agua, respira con branquias y tiene cola.",
    "formas": []
+  },
+  {
+   "palabra": "Vesícula",
+   "definicion": "Pequeña bolsa dentro del final del axón que guarda los neurotransmisores.",
+   "formas": [
+    "vesiculas"
+   ]
+  },
+  {
+   "palabra": "Espacio sináptico",
+   "definicion": "Espacio muy pequeño que queda entre una neurona y la célula siguiente.",
+   "formas": [
+    "espacio sinaptico",
+    "hendidura sinaptica"
+   ]
+  },
+  {
+   "palabra": "Acetilcolina",
+   "definicion": "Neurotransmisor que lleva las órdenes de las neuronas motoras a los músculos.",
+   "formas": []
+  },
+  {
+   "palabra": "Serotonina",
+   "definicion": "Neurotransmisor que interviene en el estado de ánimo y en el sueño.",
+   "formas": []
+  },
+  {
+   "palabra": "Cortisol",
+   "definicion": "Hormona de las suprarrenales.",
+   "formas": []
+  },
+  {
+   "palabra": "Hormona del crecimiento",
+   "definicion": "Hormona que fabrica la hipófisis.",
+   "formas": [
+    "crecimiento"
+   ]
+  },
+  {
+   "palabra": "Sistema nervioso somático",
+   "definicion": "Parte del sistema nervioso periférico que manda órdenes a los músculos que movés a voluntad.",
+   "formas": [
+    "somatico"
+   ]
+  },
+  {
+   "palabra": "Matriz",
+   "definicion": "En el hueso, el material que rodea a las células: colágeno y sales de calcio y fósforo.",
+   "formas": [
+    "matriz osea"
+   ]
+  },
+  {
+   "palabra": "Trasplante",
+   "definicion": "Reemplazo de un órgano que no funciona por el de un donante.",
+   "formas": [
+    "trasplantes"
+   ]
+  },
+  {
+   "palabra": "Vertebrados",
+   "definicion": "Animales con columna vertebral y esqueleto interno, como los peces, las aves y las personas.",
+   "formas": [
+    "vertebrado"
+   ]
+  },
+  {
+   "palabra": "Artrópodos",
+   "definicion": "Animales con exoesqueleto y patas articuladas, como los insectos, las arañas y los cangrejos.",
+   "formas": [
+    "artropodo",
+    "artropodos"
+   ]
+  },
+  {
+   "palabra": "Antepasado común",
+   "definicion": "Ser vivo del que descienden dos o más grupos de seres vivos actuales.",
+   "formas": [
+    "ancestro comun",
+    "antepasado comun"
+   ]
+  },
+  {
+   "palabra": "Pubertad",
+   "definicion": "Etapa en la que el cuerpo cambia y se vuelve adulto, por acción de las hormonas sexuales.",
+   "formas": []
+  },
+  {
+   "palabra": "Branquias",
+   "definicion": "Órganos con los que respiran en el agua los peces y los renacuajos.",
+   "formas": [
+    "branquia"
+   ]
+  },
+  {
+   "palabra": "Tabique",
+   "definicion": "Pared que separa el lado derecho del corazón del izquierdo.",
+   "formas": []
+  },
+  {
+   "palabra": "Coagulación",
+   "definicion": "Proceso en el que la sangre forma un tapón para cerrar una herida, con ayuda de las plaquetas.",
+   "formas": [
+    "coagular",
+    "coagulo"
+   ]
   }
  ],
  "temas": [
@@ -2584,7 +2699,7 @@
    "clase": "bio-4-04",
    "capsula": "c3",
    "boton": "Qué pasa cuando corrés",
-   "otra_manera": "Los músculos usan más glucosa y oxígeno y producen más dióxido de carbono y calor. Respirás más rápido, el corazón late más fuerte, transpirás y los riñones ahorran agua.",
+   "otra_manera": "Los músculos usan más glucosa y oxígeno y producen más dióxido de carbono y calor. Respirás más rápido, el corazón late más rápido y con más fuerza, transpirás y los riñones ahorran agua.",
    "vida_real": "Es una fila de fichas de dominó: cada cambio empuja al siguiente.",
    "claves": [
     "ejercicio",
@@ -2597,7 +2712,7 @@
    "clase": "bio-4-04",
    "capsula": "c3",
    "boton": "Afecciones del circulatorio y del excretor",
-   "otra_manera": "En la hipertensión arterial la sangre empuja las arterias con más fuerza; muchas veces no da síntomas. En la anemia hay menos glóbulos rojos o hemoglobina y llega menos oxígeno. En la infección urinaria, bacterias infectan la vejiga o la uretra.",
+   "otra_manera": "En la hipertensión arterial la sangre empuja las arterias con más fuerza; muchas veces no da síntomas. En la anemia hay menos glóbulos rojos o hemoglobina y llega menos oxígeno. En la infección urinaria, bacterias infectan la vejiga o la uretra y, si no se trata, pueden llegar a los riñones.",
    "vida_real": "Cada afección es una tarea que no se cumple bien: empujar la sangre, llevar oxígeno o sacar la orina sin problemas.",
    "claves": [
     "hipertension",
@@ -2612,7 +2727,7 @@
    "capsula": "c1",
    "boton": "De qué está hecho un hueso",
    "otra_manera": "El hueso es tejido vivo. Su matriz tiene colágeno, que le da flexibilidad, y sales de calcio y fósforo, que le dan dureza. Por fuera es compacto y por dentro, esponjoso.",
-   "vida_real": "Es como el hormigón armado: el hierro aguanta sin quebrarse y el cemento le da dureza.",
+   "vida_real": "Es como el hormigón armado: las varillas de adentro aguantan sin quebrarse y el cemento le da dureza.",
    "claves": [
     "hueso",
     "colageno",
@@ -2710,7 +2825,7 @@
    "clase": "bio-4-05",
    "capsula": "c3",
    "boton": "Estructuras homólogas",
-   "otra_manera": "El brazo de una persona, la pata de un perro, el ala de un ave y la aleta de una ballena tienen los mismos huesos con distinta forma. Eso indica un antepasado común.",
+   "otra_manera": "El brazo de una persona, la pata de un perro, el ala de un ave y la aleta de una ballena tienen la misma organización de huesos con distinta forma. Eso indica un antepasado común.",
    "vida_real": "Es como la misma receta de base que cada familia adaptó a su gusto: se nota que vienen de la misma abuela.",
    "claves": [
     "homologas",
@@ -2723,7 +2838,7 @@
    "clase": "bio-4-05",
    "capsula": "c3",
    "boton": "Homólogas y análogas",
-   "otra_manera": "Las homólogas tienen la misma organización y distinta función. Las análogas tienen la misma función y distinto origen, como el ala de una mariposa y la de un ave.",
+   "otra_manera": "Las homólogas tienen el mismo origen y la misma organización, aunque a veces cumplan funciones distintas. Las análogas tienen la misma función y distinto origen, como el ala de una mariposa y la de un ave.",
    "vida_real": "Dos llaves que abren la misma puerta pueden estar hechas distinto: eso es analogía.",
    "claves": [
     "analogas",
@@ -2833,7 +2948,7 @@
    "capsula": "c3",
    "boton": "Consumo problemático",
    "otra_manera": "Es un consumo, con o sin sustancias, que afecta la salud o las relaciones. Puede ser con alcohol, tabaco u otras drogas, o con apuestas, tecnología o compras.",
-   "vida_real": "No importa tanto qué se consume, sino cómo afecta la vida de la persona.",
+   "vida_real": "Lo que lo vuelve un problema es cómo afecta la vida de la persona. Y antes de los 18 años, la venta de alcohol y de tabaco está prohibida.",
    "claves": [
     "consumo problematico",
     "adiccion"

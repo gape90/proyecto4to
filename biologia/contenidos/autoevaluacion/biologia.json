@@ -265,6 +265,12 @@
     "texto": "El colágeno del hueso es una proteína.",
     "respuesta": true,
     "explicacion": "Es una de las biomoléculas orgánicas que viste en la clase 1."
+   },
+   {
+    "tipo": "vf",
+    "texto": "El hueso tiene células vivas.",
+    "respuesta": true,
+    "explicacion": "Se llaman osteocitos."
    }
   ],
   "b4|b5": [
@@ -285,6 +291,12 @@
     "texto": "El corazón está formado por músculo esquelético.",
     "respuesta": false,
     "explicacion": "Está formado por músculo cardíaco, que es involuntario."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Los músculos que trabajan reciben más sangre.",
+    "respuesta": true,
+    "explicacion": "Necesitan más oxígeno y glucosa."
    }
   ],
   "b2|b5": [
@@ -305,6 +317,12 @@
     "texto": "Las proteínas de los alimentos son nutrientes estructurales, que sirven para formar músculos.",
     "respuesta": true,
     "explicacion": "Los aminoácidos se usan para fabricar proteínas como la actina y la miosina."
+   },
+   {
+    "tipo": "vf",
+    "texto": "La leche y sus derivados aportan calcio.",
+    "respuesta": true,
+    "explicacion": "El calcio le da dureza al hueso."
    }
   ],
   "b5|b6": [
@@ -325,6 +343,12 @@
     "texto": "El músculo cardíaco está controlado por el sistema nervioso autónomo.",
     "respuesta": true,
     "explicacion": "El simpático lo acelera y el parasimpático lo hace más lento."
+   },
+   {
+    "tipo": "vf",
+    "texto": "En un acto reflejo se contrae un músculo esquelético.",
+    "respuesta": true,
+    "explicacion": "Por ejemplo, el del brazo que aparta la mano de la olla."
    }
   ],
   "b4|b6": [
@@ -345,6 +369,12 @@
     "texto": "El tronco encefálico controla los latidos del corazón y la respiración.",
     "respuesta": true,
     "explicacion": "Funciona sin que lo pienses."
+   },
+   {
+    "tipo": "vf",
+    "texto": "En reposo, el parasimpático hace que el corazón lata más despacio.",
+    "respuesta": true,
+    "explicacion": "El simpático, en cambio, lo acelera."
    }
   ],
   "b1|b6": [
@@ -362,9 +392,15 @@
    },
    {
     "tipo": "vf",
-    "texto": "Las neuronas son células eucariotas, con núcleo.",
+    "texto": "Las neuronas tienen núcleo.",
     "respuesta": true,
-    "explicacion": "El núcleo está en el cuerpo celular."
+    "explicacion": "El núcleo está en el cuerpo celular, como en las demás células del cuerpo."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Las neuronas obtienen energía con la respiración celular.",
+    "respuesta": true,
+    "explicacion": "Como todas las células, en las mitocondrias."
    }
   ],
   "b6|b7": [
@@ -385,6 +421,12 @@
     "texto": "Los neurotransmisores y las hormonas viajan por la sangre.",
     "respuesta": false,
     "explicacion": "Solo las hormonas: los neurotransmisores cruzan el espacio sináptico."
+   },
+   {
+    "tipo": "vf",
+    "texto": "El sistema nervioso ordena a las suprarrenales liberar adrenalina.",
+    "respuesta": true,
+    "explicacion": "Los dos sistemas trabajan juntos en un susto."
    }
   ],
   "b3|b7": [
@@ -405,6 +447,12 @@
     "texto": "El hígado guarda glucosa como glucógeno.",
     "respuesta": true,
     "explicacion": "La libera cuando el glucagón se lo indica."
+   },
+   {
+    "tipo": "vf",
+    "texto": "La insulina va al intestino junto con el jugo pancreático.",
+    "respuesta": false,
+    "explicacion": "La insulina va a la sangre; el jugo pancreático, al intestino."
    }
   ],
   "b1|b7": [
@@ -422,9 +470,177 @@
    },
    {
     "tipo": "vf",
-    "texto": "La insulina es una proteína.",
+    "texto": "La glucosa que regula la insulina es un glúcido.",
     "respuesta": true,
-    "explicacion": "Es una de las biomoléculas de la clase 1."
+    "explicacion": "Es uno de los glúcidos de la clase 1, la principal fuente de energía de las células."
+   },
+   {
+    "tipo": "vf",
+    "texto": "La regulación de la glucosa ayuda a mantener la homeostasis.",
+    "respuesta": true,
+    "explicacion": "Mantiene estable el medio interno."
+   }
+  ],
+  "b3|b5": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tipo de músculo empuja el alimento por el tubo digestivo?",
+    "opciones": [
+     "El liso",
+     "El esquelético",
+     "El cardíaco",
+     "Los tendones"
+    ],
+    "correcta": 0,
+    "explicacion": "Es involuntario y forma las paredes del tubo digestivo."
+   },
+   {
+    "tipo": "vf",
+    "texto": "El diafragma, que interviene en la respiración, es un músculo.",
+    "respuesta": true,
+    "explicacion": "Al contraerse baja y hace entrar el aire."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué protegen las costillas?",
+    "opciones": [
+     "El corazón y los pulmones",
+     "El estómago y el intestino",
+     "Los riñones y la vejiga",
+     "El encéfalo"
+    ],
+    "correcta": 0,
+    "explicacion": "Son huesos planos que forman la caja torácica."
+   }
+  ],
+  "b2|b6": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué neurotransmisor se libera cuando comés algo rico teniendo hambre?",
+    "opciones": [
+     "La dopamina",
+     "La insulina",
+     "La urea",
+     "La hemoglobina"
+    ],
+    "correcta": 0,
+    "explicacion": "Es el neurotransmisor del sistema de recompensa."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Las neuronas usan glucosa para obtener energía.",
+    "respuesta": true,
+    "explicacion": "Como todas las células, la usan en la respiración celular."
+   },
+   {
+    "tipo": "vf",
+    "texto": "La alimentación puede ser un consumo problemático.",
+    "respuesta": true,
+    "explicacion": "La Ley 26.934 la incluye entre las conductas que pueden volverse compulsivas."
+   }
+  ],
+  "b3|b6": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué parte del sistema autónomo favorece la digestión?",
+    "opciones": [
+     "El parasimpático",
+     "El simpático",
+     "El somático",
+     "La médula ósea"
+    ],
+    "correcta": 0,
+    "explicacion": "Actúa en reposo."
+   },
+   {
+    "tipo": "vf",
+    "texto": "El tronco encefálico controla la respiración.",
+    "respuesta": true,
+    "explicacion": "Funciona aunque no pienses en eso."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Ante un susto, la digestión se acelera.",
+    "respuesta": false,
+    "explicacion": "Se frena: el simpático prepara el cuerpo para reaccionar."
+   }
+  ],
+  "b2|b7": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué nutrientes hacen subir la glucosa de la sangre después de comer?",
+    "opciones": [
+     "Los hidratos de carbono",
+     "Las vitaminas",
+     "El agua",
+     "Las sales minerales"
+    ],
+    "correcta": 0,
+    "explicacion": "Al digerirse, liberan glucosa."
+   },
+   {
+    "tipo": "vf",
+    "texto": "La tiroides necesita yodo de los alimentos.",
+    "respuesta": true,
+    "explicacion": "Sin yodo no fabrica suficientes hormonas."
+   },
+   {
+    "tipo": "vf",
+    "texto": "La insulina baja la glucosa de la sangre.",
+    "respuesta": true,
+    "explicacion": "Hace que las células la tomen y que el hígado la guarde."
+   }
+  ],
+  "b4|b7": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Por dónde viajan las hormonas hasta sus órganos blanco?",
+    "opciones": [
+     "Por la sangre",
+     "Por las neuronas",
+     "Por los uréteres",
+     "Por el tubo digestivo"
+    ],
+    "correcta": 0,
+    "explicacion": "El sistema circulatorio las lleva a todo el cuerpo."
+   },
+   {
+    "tipo": "vf",
+    "texto": "La adrenalina hace que el corazón lata más rápido.",
+    "respuesta": true,
+    "explicacion": "Prepara el cuerpo ante un peligro."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Cuando la glucosa de la sangre es muy alta, puede aparecer en la orina.",
+    "respuesta": true,
+    "explicacion": "Los riñones no llegan a reabsorberla toda."
+   }
+  ],
+  "b5|b7": [
+   {
+    "tipo": "mc",
+    "pregunta": "Al hacer ejercicio, ¿qué pasa con la glucosa de la sangre?",
+    "opciones": [
+     "Baja, porque los músculos la usan",
+     "Sube, porque los músculos la fabrican",
+     "No cambia",
+     "Se transforma en calcio"
+    ],
+    "correcta": 0,
+    "explicacion": "Entonces el páncreas libera glucagón."
+   },
+   {
+    "tipo": "vf",
+    "texto": "La hormona del crecimiento la fabrica la hipófisis.",
+    "respuesta": true,
+    "explicacion": "Interviene en el crecimiento de los huesos."
+   },
+   {
+    "tipo": "vf",
+    "texto": "El hígado puede liberar glucosa a la sangre.",
+    "respuesta": true,
+    "explicacion": "Lo hace cuando el glucagón se lo indica."
    }
   ]
  }

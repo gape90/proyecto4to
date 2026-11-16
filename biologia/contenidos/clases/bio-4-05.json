@@ -7,7 +7,7 @@
  "objetivos": [
   "Describir la composición de los huesos y clasificar huesos y articulaciones.",
   "Explicar cómo se contrae un músculo y por qué los músculos trabajan en pares.",
-  "Comparar los esqueletos de distintos animales y reconocer estructuras homólogas como prueba de parentesco."
+  "Comparar los esqueletos de distintos animales y reconocer estructuras homólogas como evidencia de parentesco."
  ],
  "tp_aporte": "Para tu trabajo práctico ya tenés: cómo están formados y cómo funcionan huesos, articulaciones y músculos, y cómo se comparan los esqueletos de distintos animales.",
  "capsulas": [
@@ -19,7 +19,7 @@
     {
      "t": "texto",
      "titulo": "Para empezar",
-     "texto": "Un bebé nace con más de 270 huesos y una persona adulta tiene 206. Nadie pierde huesos en el camino. ¿Qué creés que pasa con los que \"faltan\"? Guardá tu respuesta: al final de esta parte la vas a poder revisar."
+     "texto": "Un bebé nace con unos 270 huesos y una persona adulta tiene 206. Nadie pierde huesos en el camino. ¿Qué creés que pasa con los que \"faltan\"? Guardá tu respuesta: al final de esta parte la vas a poder revisar."
     },
     {
      "t": "texto",
@@ -29,7 +29,7 @@
     {
      "t": "texto",
      "titulo": "De qué está hecho un hueso",
-     "texto": "El hueso es un tejido vivo: tiene células, vasos sanguíneos y nervios. Sus células están rodeadas de una **matriz**, el material que las envuelve, que tiene dos componentes:\n\nUna proteína, el **colágeno**, que le da cierta flexibilidad. Si no lo tuviera, el hueso se partiría como una tiza.\n\nSales minerales de **calcio** y **fósforo**, que le dan dureza.\n\nPor fuera, el hueso es macizo: es el **hueso compacto**. Por dentro y en los extremos tiene una trama con muchos huecos, como una esponja dura: es el **hueso esponjoso**."
+     "texto": "El hueso es un tejido vivo: tiene células, vasos sanguíneos y nervios. Sus células se llaman **osteocitos** y están rodeadas de una **matriz**, el material que las envuelve, que tiene dos componentes:\n\nUna proteína, el **colágeno**, que le da cierta flexibilidad. Si no lo tuviera, el hueso se partiría como una tiza.\n\nSales minerales de **calcio** y **fósforo**, que le dan dureza.\n\nPor fuera, el hueso es macizo: es el **hueso compacto**. Por dentro y en los extremos tiene una trama con muchos huecos, como una esponja dura: es el **hueso esponjoso**."
     },
     {
      "t": "imagen",
@@ -52,14 +52,14 @@
     {
      "t": "texto",
      "titulo": "Huesos largos, cortos y planos",
-     "texto": "Los huesos se clasifican por su forma. Los **largos**, como el fémur del muslo o el húmero del brazo, son más largos que anchos y tienen médula ósea en el centro. Los **cortos**, como los de la muñeca y el tobillo, son chicos y parecidos a un cubo. Los **planos**, como los del cráneo, las costillas y el omóplato, son delgados y anchos: suelen proteger órganos."
+     "texto": "Los huesos se clasifican por su forma. Los **largos**, como el fémur del muslo o el húmero del brazo, son más largos que anchos y tienen médula ósea en el centro. Los **cortos**, como los de la muñeca y el tobillo, son chicos y parecidos a un cubo. Los **planos**, como los del cráneo, las costillas y el omóplato, son delgados y anchos: suelen proteger órganos. Hay también huesos de forma irregular, como las vértebras."
     },
     {
      "t": "marcar",
      "consigna": "Marcá en este texto los nombres de los **huesos planos**. Si no te acordás cuáles son, mirá el texto de arriba.",
-     "texto": "Para jugar al fútbol usás mucho el [[fémur]] y la tibia, que son largos. Si te caés de cabeza, te protege el [[cráneo]]. Cuando respirás, las [[costillas]] se mueven, y al levantar el brazo se desliza el [[omóplato]]. Los huesos de la muñeca, en cambio, son cortos.",
+     "texto": "Para jugar al fútbol usás mucho el fémur y la tibia, que son largos. Si te caés de cabeza, te protege el [[cráneo]]. Cuando respirás, las [[costillas]] se mueven, y al levantar el brazo se desliza el [[omóplato]]. Los huesos de la muñeca, en cambio, son cortos.",
      "explicacion": "El cráneo, las costillas y el omóplato son huesos planos: delgados, anchos y protectores. El fémur y la tibia son largos, y los de la muñeca son cortos.",
-     "pista": "Ojo: el fémur es un hueso largo. Buscá solo los delgados y anchos que protegen órganos."
+     "pista": "Buscá solo los huesos delgados y anchos."
     },
     {
      "t": "texto",
@@ -136,8 +136,8 @@
     },
     {
      "t": "revelar",
-     "pregunta": "Volvé a la pregunta del comienzo: un bebé tiene más de 270 huesos y una persona adulta, 206. ¿Qué pasa con los que \"faltan\"?",
-     "respuesta": "No se pierden: varios huesos que en el bebé están separados se unen entre sí a medida que crece. Por ejemplo, los huesos del cráneo del bebé están separados por zonas blandas que, con los años, se cierran y forman articulaciones inmóviles."
+     "pregunta": "Volvé a la pregunta del comienzo: un bebé tiene unos 270 huesos y una persona adulta, 206. ¿Qué pasa con los que \"faltan\"?",
+     "respuesta": "No se pierden: varios huesos que en el bebé están separados se unen entre sí a medida que crece. Por ejemplo, las cinco vértebras del final de la columna se sueldan y forman un solo hueso, el sacro."
     }
    ],
    "carpeta": {
@@ -219,7 +219,7 @@
       "Corto",
       "Largo",
       "Plano",
-      "Ninguno"
+      "Irregular"
      ],
      "correcta": 1,
      "explicacion": "Es más largo que ancho y tiene médula en el centro."
@@ -311,9 +311,9 @@
      "pregunta": "¿Qué función del esqueleto cumplen las costillas?",
      "opciones": [
       "Proteger el corazón y los pulmones",
-      "Fabricar la orina",
-      "Absorber los nutrientes del intestino",
-      "Mover los ojos"
+      "Sostener la cabeza sobre la columna",
+      "Unir el brazo con el tronco",
+      "Formar la articulación del codo"
      ],
      "correcta": 0,
      "explicacion": "Son huesos planos que protegen órganos."
@@ -333,7 +333,7 @@
     {
      "t": "texto",
      "titulo": "Tres tipos de tejido muscular",
-     "texto": "Tenés más de 600 músculos. No todos son iguales. Según cómo son sus células y cómo se mueven, hay tres tipos de **tejido muscular**:\n\nEl **esquelético** mueve los huesos. Sus células son largas, con rayas, y se contraen cuando vos lo decidís: es **voluntario**.\n\nEl **liso** está en las paredes de órganos como el estómago, el intestino y los vasos sanguíneos. Se contrae sin que lo decidas: es **involuntario**. Las contracciones que empujan el alimento por el tubo digestivo, que viste en la clase 3, son obra de este músculo.\n\nEl **cardíaco** forma el corazón. Tiene rayas, como el esquelético, pero es involuntario: late toda la vida sin que se lo ordenes."
+     "texto": "Tenés más de 600 músculos que mueven el esqueleto, y otros más en tus órganos. No todos son iguales. Según cómo son sus células y cómo se mueven, hay tres tipos de **tejido muscular**:\n\nEl **esquelético** mueve los huesos. Sus células son largas, con rayas, y casi siempre se contraen cuando vos lo decidís: es **voluntario**.\n\nEl **liso** está en las paredes de órganos como el estómago, el intestino y los vasos sanguíneos. Sus células son alargadas y no tienen rayas. Se contrae sin que lo decidas: es **involuntario**. Las contracciones que empujan el alimento por el tubo digestivo, que viste en la clase 3, son obra de este músculo.\n\nEl **cardíaco** forma el corazón. Tiene rayas, como el esquelético, pero es involuntario: late toda la vida sin que se lo ordenes."
     },
     {
      "t": "imagen",
@@ -591,12 +591,12 @@
     },
     {
      "tipo": "mc",
-     "pregunta": "¿Qué tipo de tejido muscular tiene células con forma de huso y sin rayas?",
+     "pregunta": "¿Qué tipo de tejido muscular tiene células sin rayas?",
      "opciones": [
       "El esquelético",
       "El cardíaco",
       "El liso",
-      "Ninguno"
+      "Los tendones"
      ],
      "correcta": 2,
      "explicacion": "Es el que está en las paredes de los órganos."
@@ -643,18 +643,18 @@
     },
     {
      "tipo": "vf",
-     "texto": "El tejido muscular esquelético se contrae cuando vos lo decidís.",
+     "texto": "El tejido muscular esquelético es voluntario.",
      "respuesta": true,
-     "explicacion": "Es voluntario."
+     "explicacion": "Casi siempre se contrae cuando vos lo decidís."
     },
     {
      "tipo": "mc",
      "pregunta": "¿Qué tres partes del sistema intervienen en cada movimiento?",
      "opciones": [
       "Músculo, hueso y articulación",
-      "Corazón, pulmón y riñón",
-      "Cartílago, uña y pelo",
-      "Estómago, hígado y páncreas juntos"
+      "Tendón, ligamento y cartílago",
+      "Médula ósea, colágeno y calcio",
+      "Músculo liso, cardíaco y esquelético"
      ],
      "correcta": 0,
      "explicacion": "Y además hace falta la orden del sistema nervioso."
@@ -738,12 +738,12 @@
     },
     {
      "t": "texto",
-     "titulo": "Los mismos huesos, distintas funciones",
-     "texto": "Volvamos al ave, la ballena, el perro y tu brazo. Los cuatro tienen, en la extremidad de adelante, los mismos huesos: un **húmero**, un **radio** y un **cúbito**, y los huesos de la mano. Lo que cambia es la forma y el tamaño, según para qué se usa la extremidad."
+     "titulo": "La misma organización, distintas funciones",
+     "texto": "Volvamos al ave, la ballena, el perro y tu brazo. Los cuatro tienen, en la extremidad de adelante, la misma organización de huesos: un **húmero**, un **radio** y un **cúbito**, y los huesos de la mano. Lo que cambia es la forma y el tamaño, según para qué se usa la extremidad."
     },
     {
      "t": "imagen",
-     "titulo": "Cuatro extremidades, los mismos huesos",
+     "titulo": "Cuatro extremidades, la misma organización de huesos",
      "src": "img/clases/bio-4-05-homologos.svg",
      "tipo": "grafico",
      "alt": "Ilustración de los huesos de la extremidad de adelante de cuatro vertebrados: una persona, un perro, un ave y una ballena. En los cuatro, los huesos equivalentes tienen el mismo color: el húmero, el radio y el cúbito, los huesos de la muñeca y los de la mano. Cambian la forma y el tamaño: en el ave los huesos de la mano son pocos y largos, y en la ballena son anchos y forman la aleta.",
@@ -755,14 +755,14 @@
     {
      "t": "texto",
      "titulo": "Adaptaciones y parentesco",
-     "texto": "Cada una de esas extremidades es una **adaptación**: una característica que le sirve al animal para vivir en su ambiente. En el ave, la mano tiene pocos huesos, largos y en parte soldados entre sí, que sostienen las plumas del ala. En la ballena, los huesos de la mano quedan dentro de una aleta para nadar.\n\nA las estructuras que tienen la misma organización de huesos, aunque cumplan funciones distintas, se las llama **estructuras homólogas**. Que estos animales las compartan es una de las pruebas de que tienen un **antepasado común**: una **conexión evolutiva**.\n\nNo hay que confundirlas con las **estructuras análogas**, que cumplen la misma función pero tienen un origen distinto: el ala de una mariposa y el ala de un ave sirven para volar, pero la de la mariposa no tiene huesos."
+     "texto": "Cada una de esas extremidades es una **adaptación**: una característica que le sirve al animal para vivir en su ambiente. En el ave, la mano tiene pocos huesos, largos y en parte soldados entre sí, que sostienen las plumas del ala. En la ballena, los huesos de la mano quedan dentro de una aleta para nadar.\n\nA las estructuras que tienen el mismo origen y la misma organización de huesos, cumplan o no la misma función, se las llama **estructuras homólogas**. Que estos animales las compartan es una evidencia de que tienen un **antepasado común**: una **conexión evolutiva**.\n\nNo hay que confundirlas con las **estructuras análogas**, que cumplen la misma función pero tienen un origen distinto: el ala de una mariposa y el ala de un ave sirven para volar, pero la de la mariposa no tiene huesos."
     },
     {
      "t": "opcion",
      "etiqueta": "📰 Elegí el titular",
      "pregunta": "Un diario escolar quiere contar lo que muestran las extremidades del ave, la ballena, el perro y la persona. ¿Qué titular es correcto?",
      "opciones": [
-      "Cuatro animales, los mismos huesos",
+      "Cuatro animales, la misma organización de huesos",
       "El ave y la mariposa tienen las mismas alas",
       "La ballena perdió los huesos de la mano al adaptarse al agua",
       "Cada animal tiene huesos completamente distintos"
@@ -812,7 +812,7 @@
     {
      "t": "destacado",
      "titulo": "Para recordar",
-     "texto": "Los vertebrados tienen **endoesqueleto**; los artrópodos, **exoesqueleto** de **quitina**, que cambian con la **muda**; y animales como la lombriz, **esqueleto hidrostático**. Las **estructuras homólogas** tienen la misma organización de huesos aunque cumplan funciones distintas, y son una prueba de un **antepasado común**. Las **análogas** cumplen la misma función con un origen distinto."
+     "texto": "Los vertebrados tienen **endoesqueleto**; los artrópodos, **exoesqueleto** de **quitina**, que cambian con la **muda**; y animales como la lombriz, **esqueleto hidrostático**. Las **estructuras homólogas** tienen el mismo origen y la misma organización de huesos, cumplan o no la misma función, y son una evidencia de un **antepasado común**. Las **análogas** cumplen la misma función con un origen distinto."
     },
     {
      "t": "revelar",
@@ -822,7 +822,7 @@
    ],
    "carpeta": {
     "titulo": "Anotá en tu carpeta",
-    "instruccion": "Compará el endoesqueleto, el exoesqueleto y el esqueleto hidrostático. Explicá qué son las estructuras homólogas, con el ejemplo de las extremidades, y por qué son una prueba de parentesco entre los seres vivos.",
+    "instruccion": "Compará el endoesqueleto, el exoesqueleto y el esqueleto hidrostático. Explicá qué son las estructuras homólogas, con el ejemplo de las extremidades, y por qué son una evidencia de parentesco entre los seres vivos.",
     "guia": [
      "¿Dónde está y de qué está hecho cada tipo de esqueleto?",
      "¿Por qué los artrópodos tienen que mudar?",
@@ -840,7 +840,7 @@
     },
     {
      "tipo": "vf",
-     "texto": "El ala de un ave y el brazo de una persona tienen los mismos huesos.",
+     "texto": "El ala de un ave y el brazo de una persona tienen la misma organización de huesos.",
      "respuesta": true,
      "explicacion": "Son estructuras homólogas."
     },
@@ -952,7 +952,7 @@
     },
     {
      "palabra": "HOMÓLOGAS",
-     "pista": "Estructuras con la misma organización y distinta función."
+     "pista": "Estructuras con el mismo origen y la misma organización."
     },
     {
      "palabra": "HÚMERO",
@@ -1024,7 +1024,7 @@
   },
   {
    "palabra": "Estructuras homólogas",
-   "definicion": "Estructuras con la misma organización de huesos y funciones distintas; prueban un antepasado común."
+   "definicion": "Estructuras con el mismo origen y la misma organización de huesos, cumplan o no la misma función; son evidencia de un antepasado común."
   }
  ],
  "errores_frecuentes": [
