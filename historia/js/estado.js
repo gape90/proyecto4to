@@ -129,7 +129,7 @@ export function cabecera({ volver } = {}) {
   const v = volver ? `<a class="volver" href="${volver.href}">← ${esc(volver.texto)}</a>` : '';
   return `<header class="cabecera">
     <div class="marca"><span class="titulo-app">Acompañamiento Pedagógico<small class="sub-app">Mesas de exámenes de febrero</small></span></div>
-    <div class="derecha">${v}<a class="volver" href="../index.html">Todas las aulas</a></div>
+    <div class="derecha">${v}<a class="volver" href="../index.html">Volver a Página de Inicio</a></div>
   </header>`;
 }
 
