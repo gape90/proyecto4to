@@ -190,7 +190,7 @@ export function bHistorieta(w, b, resuelto, marcar) {
 // ------------------------------------------------------------------ Simulador de la glucosa en sangre
 export function bSimulador(w, b, resuelto, marcar) {
   const P = b.prediccion;
-  const organos = b.organos || [{ id: 'pancreas', nombre: 'Páncreas' }, { id: 'higado', nombre: 'Hígado' }];
+  const organos = b.organos || [];
   const W = 460, H = 250, X0 = 52, X1 = 446, Yp = g => 214 - g * 1.75;   // g: 0 a 110 (normal entre 39 y 74)
   w.innerHTML = caja('simulador', '🧪 Simulador', b, resuelto, `
     <div class="sm-cols"><div class="sm-izq">
@@ -211,13 +211,13 @@ export function bSimulador(w, b, resuelto, marcar) {
           <circle class="sm-halo" r="13" fill="#B83A7A" opacity=".18"/><circle class="sm-punto" r="6.5" fill="#B83A7A" stroke="#fff" stroke-width="2.5"/>
         </svg>
       </div>
-      <div class="sm-organos">${organos.map(o => `<div class="sm-org" data-o="${o.id}">
+      ${organos.length ? `<div class="sm-organos">${organos.map(o => `<div class="sm-org" data-o="${o.id}">
         <div class="sm-org-dib">${o.img ? `<img src="${o.img}" alt="">` : ''}<span class="sm-part"></span><span class="sm-part"></span><span class="sm-part"></span><span class="sm-part"></span></div>
-        <div class="sm-org-txt"><span>${esc(o.nombre)}</span><b class="sm-hor"></b></div></div>`).join('')}</div>
+        <div class="sm-org-txt"><span>${esc(o.nombre)}</span><b class="sm-hor"></b></div></div>`).join('')}</div>` : ''}
       <div class="sm-relato" aria-live="polite"></div>
     </div><div class="sm-der">
-      <div class="sm-pred"><b>Antes de empezar, predecí:</b> ${md(P.pregunta)}<div class="opc-lista">${P.opciones.map((o, i) => `<button type="button" class="opc-btn" data-i="${i}">${esc(o)}</button>`).join('')}</div></div>
-      <div class="sm-botones apagado">${b.acciones.map((a, i) => `<button type="button" class="sm-acc" data-i="${i}" disabled><span class="sm-acc-ic">${a.icono || '▶'}</span>${esc(a.boton)}</button>`).join('')}</div>
+      ${P ? `<div class="sm-pred"><b>Antes de empezar, predecí:</b> ${md(P.pregunta)}<div class="opc-lista">${P.opciones.map((o, i) => `<button type="button" class="opc-btn" data-i="${i}">${esc(o)}</button>`).join('')}</div></div>` : ''}
+      <div class="sm-botones${P ? ' apagado' : ''}">${b.acciones.map((a, i) => `<button type="button" class="sm-acc" data-i="${i}"${P ? ' disabled' : ''}><span class="sm-acc-ic">${a.icono || '▶'}</span>${esc(a.boton)}</button>`).join('')}</div>
     </div></div>`);
   const raiz = w.firstElementChild, linea = raiz.querySelector('.sm-linea'), relleno = raiz.querySelector('.sm-relleno'), punto = raiz.querySelector('.sm-punto'),
     halo = raiz.querySelector('.sm-halo'), relato = raiz.querySelector('.sm-relato'), estado = raiz.querySelector('.sm-estado'), marcas = raiz.querySelector('.sm-marcas');
@@ -256,13 +256,13 @@ export function bSimulador(w, b, resuelto, marcar) {
     if (ocupado) return; ocupado = true; raiz.querySelectorAll('.sm-acc').forEach(x => { x.disabled = true; x.classList.toggle('elegido', x.dataset.i === String(b.acciones.indexOf(a))); });
     apagar(); reiniciarSiHaceFalta();
     if (window.innerWidth <= 700) raiz.querySelector('.sm-graf-caja').scrollIntoView({ behavior: quieto() ? 'auto' : 'smooth', block: 'start' });
-    relato.innerHTML = `<p class="sm-paso"><span>1</span><span>${md(a.paso1)}</span></p>`;
+    relato.innerHTML = a.resumen ? '' : `<p class="sm-paso"><span>1</span><span>${md(a.paso1)}</span></p>`;
     avanzar(a.pico, 22, () => {
       if (a.hormona) { encender(a.organo, a.hormona); if (a.organo2) encender(a.organo2, a.hormona2);
         const tp = tipo(a.hormona); marca(tp === 'insulina' ? 'insulina' : tp === 'glucagon' ? 'glucagón' : 'sin insulina', tp); }
-      relato.insertAdjacentHTML('beforeend', `<p class="sm-paso"><span>2</span><span>${md(a.paso2)}</span></p>`);
+      if (!a.resumen) relato.insertAdjacentHTML('beforeend', `<p class="sm-paso"><span>2</span><span>${md(a.paso2)}</span></p>`);
       avanzar(a.final, 32, () => {
-        relato.insertAdjacentHTML('beforeend', `<p class="sm-paso sm-concl"><span>3</span><span>${md(a.paso3)}</span></p>`);
+        relato.insertAdjacentHTML('beforeend', a.resumen ? `<p class="sm-resumen"><b>${esc(a.boton)}:</b> ${md(a.resumen)}</p>` : `<p class="sm-paso sm-concl"><span>3</span><span>${md(a.paso3)}</span></p>`);
         ocupado = false; raiz.querySelectorAll('.sm-acc').forEach(x => x.disabled = false); hechas.add(a.boton);
         if (hechas.size >= Math.min(2, b.acciones.length) && !raiz.classList.contains('resuelto')) { raiz.classList.add('resuelto'); marcar(); relato.insertAdjacentHTML('beforeend', `<div class="fb ok"><b>Lo que comprobaste:</b> ${md(b.explicacion)}</div>`); }
       });
@@ -276,7 +276,7 @@ export function bSimulador(w, b, resuelto, marcar) {
   });
   raiz.querySelectorAll('.sm-acc').forEach(x => x.onclick = () => correr(b.acciones[+x.dataset.i]));
   pts = [[X0, Yp(g)]]; dibujar();
-  if (resuelto) { raiz.querySelectorAll('.sm-pred .opc-btn').forEach(y => { y.disabled = true; y.classList.toggle('bien', +y.dataset.i === P.correcta); });
+  if (resuelto && P) { raiz.querySelectorAll('.sm-pred .opc-btn').forEach(y => { y.disabled = true; y.classList.toggle('bien', +y.dataset.i === P.correcta); });
     raiz.querySelector('.sm-botones').classList.remove('apagado'); raiz.querySelectorAll('.sm-acc').forEach(y => y.disabled = false); }
   pantallaCompleta(raiz);
   return true;

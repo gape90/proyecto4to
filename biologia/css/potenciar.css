@@ -1688,3 +1688,4 @@ html.vis-baja .modal.juego.jg-antes .ad-pie{min-height:30px;padding-bottom:6px}
   .hi-p.con-retrato .hi-globo::after{left:-10px;top:50%;bottom:auto;margin:-8px 0 0;border:8px solid transparent;border-right-color:var(--c);border-left:0}
 }
 @media (prefers-reduced-motion:reduce){.hi-retrato{transition:none}}
+.simulador .sm-resumen{margin:12px 0 0;padding:12px 14px;border-radius:12px;background:#fff;border:1px solid #E4DDF2;line-height:1.5}

@@ -22,7 +22,6 @@ Propuestas de fotos de Wikimedia Commons para decidir con Gabi (la ficha se revi
 | Clase 6 | bio-4-06-nervioso.svg | [a completar] | | Medium69 y Jmarchn | CC BY-SA 4.0 | Ilustración: Medium69 y Jmarchn, CC BY-SA 4.0, vía Wikimedia Commons. Adaptada para esta clase. |
 | Clase 6 | bio-4-06-neurona.svg | [a completar] | | Mariana Ruiz Villarreal (LadyofHats) | Dominio público | Ilustración: Mariana Ruiz Villarreal (LadyofHats), dominio público, vía Wikimedia Commons. Adaptada para esta clase. |
 | Clase 6 | bio-4-06-sinapsis.svg | [a completar] | | Thomas Splettstoesser (www.scistyle.com) | CC BY-SA 4.0 | Ilustración: Thomas Splettstoesser (www.scistyle.com), CC BY-SA 4.0, vía Wikimedia Commons. Adaptada para esta clase. |
-| Clase 7, parte 2 | bio-4-07-pancreas.svg, bio-4-07-higado.svg | [a completar] | | Mariana Ruiz Villarreal (LadyofHats) | Dominio público | Dibujos del páncreas y el hígado: Mariana Ruiz Villarreal (LadyofHats), dominio público, vía Wikimedia Commons. |
 | Clases 3 y 4 | digestivo, respiratorio, circulatorio | [falta revisar la ficha] | | [a completar] | Dominio público (a verificar) | Wikimedia Commons (dominio público). |
 
 Las láminas con licencia CC BY-SA se adaptaron (rótulos en castellano, recorte y animación). La adaptación se comparte con la misma licencia.

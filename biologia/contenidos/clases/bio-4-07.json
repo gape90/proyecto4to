@@ -449,29 +449,6 @@
      "t": "simulador",
      "titulo": "La glucosa en la sangre",
      "consigna": "Probá qué pasa con la glucosa en distintas situaciones. Usá al menos dos botones.",
-     "prediccion": {
-      "pregunta": "Si comés un plato de fideos, ¿qué creés que hace el páncreas?",
-      "opciones": [
-       "Libera insulina para bajar la glucosa",
-       "Libera glucagón para subirla todavía más",
-       "No hace nada",
-       "Deja de funcionar"
-      ],
-      "correcta": 0
-     },
-     "organos": [
-      {
-       "id": "pancreas",
-       "nombre": "Páncreas",
-       "img": "img/clases/bio-4-07-pancreas.svg"
-      },
-      {
-       "id": "higado",
-       "nombre": "Hígado",
-       "img": "img/clases/bio-4-07-higado.svg"
-      }
-     ],
-     "fuente": "Dibujos del páncreas y el hígado: Mariana Ruiz Villarreal (LadyofHats), dominio público, vía Wikimedia Commons.",
      "acciones": [
       {
        "icono": "<svg viewBox=\"0 0 24 24\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"#6B3FA0\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"13\" r=\"7\"/><circle cx=\"12\" cy=\"13\" r=\"3.5\"/><path d=\"M3 3v5a2 2 0 0 0 2 2M5 3v18M21 3c-1.5 1-2 3-2 5s.5 3 2 3v10\"/></svg>",
@@ -483,6 +460,7 @@
        "organo2": "higado",
        "hormona2": "guarda glucógeno",
        "paso2": "El páncreas detecta el aumento y libera **insulina**. Las células toman glucosa y el hígado guarda una parte.",
+       "resumen": "La glucosa subió. El páncreas liberó insulina y volvió al nivel normal.",
        "final": 58,
        "paso3": "La glucemia vuelve al nivel normal y el páncreas deja de liberar insulina."
       },
@@ -496,6 +474,7 @@
        "organo2": "higado",
        "hormona2": "libera glucosa",
        "paso2": "El páncreas detecta la baja y libera **glucagón**. El hígado desarma el glucógeno y suelta glucosa a la sangre.",
+       "resumen": "La glucosa bajó. El páncreas liberó glucagón, el hígado soltó glucosa y volvió al nivel normal.",
        "final": 54,
        "paso3": "La glucemia vuelve al nivel normal."
       },
@@ -507,6 +486,7 @@
        "organo": "pancreas",
        "hormona": "no fabrica insulina",
        "paso2": "El páncreas no fabrica insulina. Las células no pueden tomar bien la glucosa y el hígado no la guarda.",
+       "resumen": "La glucosa subió y quedó alta, porque sin insulina las células no la pueden tomar.",
        "final": 100,
        "paso3": "La glucosa queda alta en la sangre. Por eso las personas con diabetes tipo 1 necesitan recibir insulina."
       }
