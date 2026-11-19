@@ -1,0 +1,4 @@
+Colocá acá los logos oficiales (los entrega el Ministerio):
+  logo-santafe-blanco.png  (logo en blanco, para la cabecera con degradé)
+  logo-santafe-color.png   (logo a color, para fondos claros)
+Mientras no estén, la cabecera muestra "Santa Fe - Provincia" en texto.

@@ -1,0 +1,349 @@
+{
+ "espacio": "ciudadania",
+ "pares": {
+  "ci1|ci2": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿En qué fuente de legitimidad de la clase 1 se apoya un diputado elegido por el voto?",
+    "opciones": [
+     "En la tradición",
+     "En las reglas",
+     "En el carisma",
+     "En el castigo"
+    ],
+    "correcta": 1,
+    "explicacion": "Llegó al cargo por un camino que fijan las normas: la elección."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué poder del Estado integran los diputados y diputadas que elige la ciudadanía?",
+    "opciones": [
+     "El Ejecutivo",
+     "El Judicial",
+     "El Legislativo",
+     "El gobierno municipal"
+    ],
+    "correcta": 2,
+    "explicacion": "Forman parte del Congreso, que sanciona las leyes."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tienen en común un centro de estudiantes y la sociedad civil de la clase 1?",
+    "opciones": [
+     "Son formas de organizarse fuera del Estado",
+     "Son partes del Poder Ejecutivo nacional",
+     "Sancionan las leyes nacionales del país",
+     "Reemplazan a las autoridades elegidas"
+    ],
+    "correcta": 0,
+    "explicacion": "Pueden pedir, proponer y controlar, pero no reemplazan a las autoridades."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Por qué ampliar el voto cambió quiénes son actores en las decisiones públicas?",
+    "opciones": [
+     "Porque desde entonces cada persona vota cada ley",
+     "Porque se eliminaron los tres poderes del Estado nacional",
+     "Porque los partidos dejaron de presentarse",
+     "Porque más personas pasaron a elegir representantes"
+    ],
+    "correcta": 3,
+    "explicacion": "Con la ley de 1947 y la de 2012, más personas eligen a quienes deciden."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Elegir representantes por el voto es una forma de dar legitimidad al poder.",
+    "respuesta": true,
+    "explicacion": "Quien llega por una elección se apoya en las reglas, una de las fuentes de legitimidad."
+   }
+  ],
+  "ci1|ci3": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tienen en común el poder legítimo de la clase 1 y un símbolo?",
+    "opciones": [
+     "Los dos los establece el Decreto 10.302",
+     "Los dos dependen solo de la fuerza",
+     "Los dos cambian cada vez que se usan",
+     "Los dos funcionan porque el grupo los reconoce"
+    ],
+    "correcta": 3,
+    "explicacion": "Un poder es legítimo si se lo reconoce como válido; un símbolo funciona si el grupo lo reconoce."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Por qué la asunción presidencial ayuda a la legitimidad?",
+    "opciones": [
+     "Porque cambia los símbolos nacionales cada vez que asume alguien",
+     "Porque muestra ante todos que se llegó al cargo según las reglas",
+     "Porque reemplaza a la votación de la ciudadanía en las elecciones",
+     "Porque es una opinión de los medios sobre quien asume el cargo"
+    ],
+    "correcta": 1,
+    "explicacion": "Es un rito que hace visible el camino que fijan las normas."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Un rito, como un acto escolar, es una forma de mostrar lo que una comunidad comparte.",
+    "respuesta": true,
+    "explicacion": "Igual que un símbolo, funciona porque el grupo lo reconoce."
+   }
+  ],
+  "ci2|ci3": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Por qué distinguir hecho y opinión ayuda a votar?",
+    "opciones": [
+     "Porque permite decidir con información que se puede comprobar",
+     "Porque el voto secreto obliga a leer todos los diarios del país",
+     "Porque los medios deciden a quién vota cada persona",
+     "Porque solo se puede votar si se lee una sola noticia"
+    ],
+    "correcta": 0,
+    "explicacion": "La ciudadanía activa incluye informarse antes de opinar y votar."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tienen en común el voto joven y la ciudadanía activa frente a los medios?",
+    "opciones": [
+     "Las dos piden informarse antes de decidir",
+     "Las dos son obligatorias desde los 16 años",
+     "Las dos las regula el Decreto 10.302",
+     "Las dos dependen de un solo medio"
+    ],
+    "correcta": 0,
+    "explicacion": "Participar bien incluye comparar fuentes."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Comparar dos medios sobre el mismo hecho es una forma de ciudadanía activa.",
+    "respuesta": true,
+    "explicacion": "Informarse con cuidado es parte de participar en lo común."
+   }
+  ],
+  "ci1|ci4": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tienen en común la sociedad civil de la clase 1 y un movimiento social?",
+    "opciones": [
+     "Son formas de organizarse fuera del Estado",
+     "Son partes del Poder Legislativo provincial",
+     "Sancionan las leyes de cada provincia",
+     "Reemplazan a quienes fueron elegidos"
+    ],
+    "correcta": 0,
+    "explicacion": "Pueden pedir, proponer y controlar."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué poder del Estado trata un proyecto de iniciativa popular?",
+    "opciones": [
+     "El Ejecutivo",
+     "El Judicial",
+     "El gobierno municipal",
+     "El Legislativo"
+    ],
+    "correcta": 3,
+    "explicacion": "Se presenta en la Cámara de Diputados del Congreso."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Peticionar a las autoridades es una forma de participar en las decisiones públicas.",
+    "respuesta": true,
+    "explicacion": "Es un derecho del artículo 14."
+   }
+  ],
+  "ci2|ci4": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Cómo completan la democracia representativa la iniciativa y la consulta popular?",
+    "opciones": [
+     "Reemplazan la elección de representantes",
+     "Hacen obligatorio el voto a los 16 años",
+     "Permiten participar en forma directa",
+     "Eliminan a los partidos políticos"
+    ],
+    "correcta": 2,
+    "explicacion": "Se suman al voto, no lo reemplazan."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tienen en común el voto a los 16 y la consulta no vinculante?",
+    "opciones": [
+     "En los dos el voto es optativo",
+     "En los dos el resultado obliga",
+     "Los dos son de la Ley Sáenz Peña",
+     "Los dos los convoca la Legislatura"
+    ],
+    "correcta": 0,
+    "explicacion": "Votar es un derecho, no una obligación, en esos casos."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Los partidos políticos presentan candidatos en las elecciones.",
+    "respuesta": true,
+    "explicacion": "El artículo 38 los reconoce como instituciones del sistema democrático."
+   }
+  ],
+  "ci3|ci4": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Por qué conviene distinguir hecho y opinión antes de una audiencia pública?",
+    "opciones": [
+     "Porque en la audiencia se vota la ley",
+     "Para opinar con información comprobable",
+     "Porque solo opinan los medios de la zona",
+     "Porque es obligatorio leer un diario"
+    ],
+    "correcta": 1,
+    "explicacion": "Participar bien es informarse y dar razones."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué es un medio comunitario?",
+    "opciones": [
+     "Un canal que pertenece a un partido",
+     "Una red social de una empresa grande",
+     "Una radio o diario de la comunidad",
+     "Un diario que publica el gobierno"
+    ],
+    "correcta": 2,
+    "explicacion": "Lo maneja una organización sin fines de lucro."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Un medio comunitario también elige cómo contar un hecho.",
+    "respuesta": true,
+    "explicacion": "Como todo medio, elige titular, foto y voces."
+   }
+  ],
+  "ci1|ci5": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Por qué las normas de tránsito son una decisión pública?",
+    "opciones": [
+     "Porque las elige cada conductor",
+     "Porque solo las cumplen los autos",
+     "Porque afectan a toda la comunidad",
+     "Porque no las hace el Estado nacional"
+    ],
+    "correcta": 2,
+    "explicacion": "El espacio público lo compartimos todos."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué poder sanciona una ley como la 24.449?",
+    "opciones": [
+     "El Ejecutivo",
+     "El Legislativo",
+     "El Judicial",
+     "El gobierno municipal"
+    ],
+    "correcta": 1,
+    "explicacion": "El Congreso de la Nación."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Respetar una norma de tránsito es aceptar una regla común.",
+    "respuesta": true,
+    "explicacion": "Como las reglas de la clase 1, ordenan la convivencia."
+   }
+  ],
+  "ci2|ci5": [
+   {
+    "tipo": "mc",
+    "pregunta": "Tomás tiene 16 años y vive en Santa Fe. ¿Qué puede hacer?",
+    "opciones": [
+     "Votar si figura en el padrón",
+     "Sacar la licencia de ciclomotor",
+     "Sacar la licencia de auto",
+     "Votar en forma obligatoria"
+    ],
+    "correcta": 0,
+    "explicacion": "El voto a los 16 es optativo; en Santa Fe la licencia se saca a los 18."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿En qué se parecen votar y manejar?",
+    "opciones": [
+     "Los dos son obligatorios",
+     "Los dos los da el municipio",
+     "Los dos traen responsabilidades",
+     "Los dos dependen de la escuela secundaria"
+    ],
+    "correcta": 2,
+    "explicacion": "Cada derecho se ejerce con responsabilidad."
+   },
+   {
+    "tipo": "vf",
+    "texto": "A los 16 años el voto es optativo.",
+    "respuesta": true,
+    "explicacion": "Desde los 18 es obligatorio."
+   }
+  ],
+  "ci3|ci5": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué tienen en común un símbolo y una señal de tránsito?",
+    "opciones": [
+     "Los dos los fija el Decreto 10.302",
+     "Funcionan porque todos los reconocen",
+     "Los dos cambian en cada una de las localidades",
+     "Los dos dependen de un medio"
+    ],
+    "correcta": 1,
+    "explicacion": "Si nadie supiera qué significa, no ordenaría nada."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué significa el peatón verde del semáforo?",
+    "opciones": [
+     "Que los peatones pueden cruzar",
+     "Que los autos pueden avanzar",
+     "Que la calle está cortada al tránsito",
+     "Que hay una bicisenda cerca"
+    ],
+    "correcta": 0,
+    "explicacion": "Es una señal que todos reconocen."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Una señal de tránsito comunica algo sin usar palabras.",
+    "respuesta": true,
+    "explicacion": "Como un símbolo, la reconoce todo el grupo."
+   }
+  ],
+  "ci4|ci5": [
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué forma de participación usa la comunidad que pide un semáforo al municipio?",
+    "opciones": [
+     "Revocatoria del mandato",
+     "Consulta popular vinculante en la provincia",
+     "Peticionar a las autoridades",
+     "Referéndum provincial"
+    ],
+    "correcta": 2,
+    "explicacion": "Es un derecho del artículo 14."
+   },
+   {
+    "tipo": "mc",
+    "pregunta": "¿Qué es un pedido del centro de estudiantes por una senda peatonal?",
+    "opciones": [
+     "Una ley que sanciona la Legislatura",
+     "Un referéndum de la escuela",
+     "Una forma de participar en lo común",
+     "Una revocatoria del intendente"
+    ],
+    "correcta": 2,
+    "explicacion": "La comunidad puede proponer y pedir."
+   },
+   {
+    "tipo": "vf",
+    "texto": "Pedir una bicisenda es una forma de ciudadanía activa.",
+    "respuesta": true,
+    "explicacion": "Es participar en las decisiones sobre el espacio público."
+   }
+  ]
+ }
+}

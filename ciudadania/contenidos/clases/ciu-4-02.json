@@ -1,0 +1,1203 @@
+{
+  "id": "ciu-4-02",
+  "espacio": "ciudadania",
+  "eje": "Ciudadanía y participación política",
+  "titulo": "Democracia representativa y sufragio: el voto de los jóvenes",
+  "intro": "En la Argentina la ciudadanía elige con su voto a quienes gobiernan, y ese derecho se fue ampliando con distintas leyes. En esta clase vas a ver cómo llegó el voto a más personas, cómo funciona la democracia representativa y qué cambió para los jóvenes de 16 y 17 años.",
+  "tp_aporte": "Para tu trabajo práctico ya tenés: cómo se amplió el sufragio en la Argentina, qué es la democracia representativa y cómo es el voto según la Constitución, y qué derechos políticos tienen los jóvenes desde la ley de Voto Joven.",
+  "sugerencias_asistente": [
+    "¿Qué es el sufragio?",
+    "¿Qué significa voto optativo?",
+    "¿Qué es la democracia representativa?"
+  ],
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "Quiénes votan: cómo se amplió el sufragio",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Votar no siempre fue para todas las personas",
+          "texto": "El **sufragio** es el derecho a votar para elegir a quienes gobiernan. Hoy en la Argentina vota la gran mayoría de la población adulta, pero durante mucho tiempo ese derecho estuvo reservado a una parte de ella.\n\nEn 1912 se sancionó la **Ley Sáenz Peña** (Ley 8.871). Estableció el voto **secreto** y **obligatorio** para los varones argentinos nativos mayores de 18 años. Se la llamó \"universal\", pero las mujeres seguían sin poder votar."
+        },
+        {
+          "t": "texto",
+          "titulo": "Las mujeres y los jóvenes",
+          "texto": "En 1947 se promulgó la **Ley 13.010**, que reconoció el derecho al voto de las mujeres. Antes de votar hubo que inscribirlas en el padrón, y la primera elección nacional en la que votaron fue el 11 de noviembre de 1951.\n\nEn 2012 se sancionó la **Ley 26.774**, llamada de Ciudadanía Argentina o \"Ley de Voto Joven\". Permite votar a las personas argentinas nativas o por opción desde los 16 años. Se aplicó por primera vez en las elecciones nacionales de 2013."
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "foto",
+          "src": "img/clases/ciu-4-02-voto-1951.webp",
+          "animacion": "recorrer",
+          "alt": "Fotografía en blanco y negro de una larga fila de mujeres con vestidos de la época, algunas con un sobre o un documento en la mano, esperando en una galería.",
+          "epigrafe": "Mujeres haciendo fila para votar en 1951, la primera elección nacional en la que votaron.",
+          "fuente": "autor sin identificar (1951), dominio público, vía Wikimedia Commons"
+        },
+        {
+          "t": "linea",
+          "titulo": "Cómo se amplió el derecho al voto en la Argentina",
+          "eventos": [
+            {
+              "anio": "1912",
+              "titulo": "Ley Sáenz Peña",
+              "texto": "Voto secreto y obligatorio para los varones argentinos nativos mayores de 18 años."
+            },
+            {
+              "anio": "1947",
+              "titulo": "Ley 13.010",
+              "texto": "Se reconoce el derecho al voto de las mujeres."
+            },
+            {
+              "anio": "1951",
+              "titulo": "Primera elección con mujeres",
+              "texto": "El 11 de noviembre, las mujeres votan por primera vez en una elección nacional."
+            },
+            {
+              "anio": "1994",
+              "titulo": "Reforma de la Constitución",
+              "texto": "El artículo 37 establece que el sufragio es universal, igual, secreto y obligatorio."
+            },
+            {
+              "anio": "2012",
+              "titulo": "Ley 26.774 (Voto Joven)",
+              "texto": "Pueden votar las personas argentinas nativas o por opción desde los 16 años."
+            },
+            {
+              "anio": "2013",
+              "titulo": "Primer voto joven",
+              "texto": "Los jóvenes de 16 y 17 años votan por primera vez en elecciones nacionales."
+            }
+          ]
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená estos hechos del más antiguo al más reciente. Si no te acordás, buscalos en la línea de tiempo.",
+          "items": [
+            "Se sanciona la Ley Sáenz Peña",
+            "Se reconoce el voto de las mujeres",
+            "Las mujeres votan por primera vez en una elección nacional",
+            "La Constitución reformada define cómo es el sufragio",
+            "Se sanciona la ley de Voto Joven"
+          ],
+          "explicacion": "1912, 1947, 1951, 1994 y 2012: en cada paso, el derecho al voto llegó a más personas o quedó más protegido.",
+          "pista": "Mirá los años de la línea de tiempo y empezá por el más chico."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Buscá en la línea de tiempo el año de la Ley Sáenz Peña y el de la primera elección en la que votaron las mujeres. ¿Cuántos años pasaron entre uno y otro?",
+          "respuesta": "39",
+          "acepta": [
+            "39",
+            "treinta y nueve"
+          ],
+          "formato": "Escribí solo el número.",
+          "explicacion": "De 1912 a 1951 pasaron 39 años. Durante todo ese tiempo, el voto llamado \"universal\" dejaba afuera a las mujeres.",
+          "pista1": "Buscá los dos años en la línea de tiempo: el primero y el tercero.",
+          "pista": "Restá 1912 al año de la primera elección con mujeres."
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "grafico",
+          "titulo": "Cada ley sumó a más personas",
+          "src": "img/clases/ciu-4-02-ampliacion.svg",
+          "src_movil": "img/clases/ciu-4-02-ampliacion-movil.svg",
+          "alt": "Esquema de tres óvalos, uno dentro del otro, que muestran cómo se amplió el derecho al voto. En el centro, 1912, Ley Sáenz Peña: varones argentinos nativos mayores de 18 años. Alrededor, 1947, Ley 13.010: también las mujeres, que votan por primera vez en 1951. Afuera, 2012, Ley 26.774: también jóvenes de 16 y 17 años, nativos o por opción, desde 2013.",
+          "epigrafe": "Esquema elaborado para esta clase.",
+          "animacion": "svg"
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "El derecho al voto se fue ampliando por leyes: en **1912**, voto secreto y obligatorio para los varones; en **1947**, voto de las mujeres; en **2012**, voto desde los **16 años**."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "🔍 Encontrá el error. Una de estas frases no coincide con lo que viste en la parte. ¿Cuál es?",
+          "opciones": [
+            "Con la Ley 13.010 se reconoció el voto de las mujeres.",
+            "Las mujeres votaron por primera vez en una elección de 1951.",
+            "Con la Ley Sáenz Peña votaba toda la población adulta.",
+            "La ley de Voto Joven permite votar desde los 16 años."
+          ],
+          "correcta": 2,
+          "explicacion": "Con la Ley Sáenz Peña votaban solo los varones argentinos nativos mayores de 18 años. Las mujeres quedaban afuera.",
+          "pista": "Releé el primer texto de la parte: ¿a quiénes incluía la ley de 1912?"
+        },
+        {
+          "t": "vf",
+          "consigna": "Decidí si cada afirmación es verdadera o falsa.",
+          "afirmaciones": [
+            {
+              "texto": "El sufragio es el derecho a votar para elegir a quienes gobiernan.",
+              "v": true,
+              "explicacion": "Es el derecho político más conocido."
+            },
+            {
+              "texto": "Las mujeres votaron apenas se promulgó la Ley 13.010.",
+              "v": false,
+              "explicacion": "Primero hubo que inscribirlas en el padrón. Votaron por primera vez en 1951."
+            },
+            {
+              "texto": "La Ley Sáenz Peña hizo que el voto fuera secreto.",
+              "v": true,
+              "explicacion": "Y también obligatorio para quienes podían votar."
+            },
+            {
+              "texto": "Los jóvenes de 16 años votaron por primera vez en 2012.",
+              "v": false,
+              "explicacion": "La ley se sancionó en 2012 y se aplicó por primera vez en las elecciones de 2013."
+            }
+          ]
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: una ley de 1912 decía que el voto era \"universal\" y dejaba afuera a las mujeres. ¿Qué te dice eso sobre la palabra \"universal\" en esa época?",
+          "respuesta": "Que \"universal\" no incluía a todas las personas: se refería al conjunto de varones nativos adultos. Lo que una sociedad considera \"todos\" cambia con el tiempo, y esos cambios se discuten y se ganan con leyes nuevas."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Armá una línea de tiempo con las leyes que ampliaron el derecho al voto en la Argentina. Para cada año, escribí qué cambió y quiénes empezaron a votar.",
+        "guia": [
+          "¿Qué es el sufragio?",
+          "¿Qué estableció la Ley Sáenz Peña en 1912 y a quiénes dejaba afuera?",
+          "¿Qué cambió con la Ley 13.010 y cuándo votaron las mujeres por primera vez?",
+          "¿Qué permitió la Ley 26.774 y cuándo se aplicó por primera vez?",
+          "¿Qué dice el artículo 37 de la Constitución sobre el sufragio?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "sufragio",
+              "voto"
+            ],
+            "p": "qué es el sufragio"
+          },
+          {
+            "k": [
+              "saenz pena",
+              "8.871",
+              "8871",
+              "1912"
+            ],
+            "p": "la Ley Sáenz Peña"
+          },
+          {
+            "k": [
+              "mujer",
+              "13.010",
+              "13010",
+              "1947",
+              "1951"
+            ],
+            "p": "el voto de las mujeres"
+          },
+          {
+            "k": [
+              "16",
+              "26.774",
+              "26774",
+              "joven"
+            ],
+            "p": "el voto joven"
+          },
+          {
+            "k": [
+              "37",
+              "constitucion"
+            ],
+            "p": "el artículo 37"
+          }
+        ],
+        "referencia": "Sufragio: derecho a votar. 1912, Ley Sáenz Peña: voto secreto y obligatorio para varones nativos mayores de 18. 1947, Ley 13.010: voto de las mujeres; primera votación en 1951. 1994: el artículo 37 dice que el sufragio es universal, igual, secreto y obligatorio. 2012, Ley 26.774: voto desde los 16; primera aplicación en 2013.",
+        "minPalabras": 45
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "La Ley Sáenz Peña se sancionó en 1912.",
+          "respuesta": true,
+          "explicacion": "Es la Ley 8.871."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Con la Ley Sáenz Peña podían votar las mujeres.",
+          "respuesta": false,
+          "explicacion": "Votaban solo los varones argentinos nativos mayores de 18 años."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Ley 13.010 reconoció el voto de las mujeres.",
+          "respuesta": true,
+          "explicacion": "Se promulgó en 1947."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Las mujeres votaron por primera vez en una elección nacional en 1951.",
+          "respuesta": true,
+          "explicacion": "Fue el 11 de noviembre de 1951."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La ley de Voto Joven se sancionó en 1994.",
+          "respuesta": false,
+          "explicacion": "Se sancionó en 2012. En 1994 se reformó la Constitución."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El artículo 37 de la Constitución dice que el sufragio es secreto.",
+          "respuesta": true,
+          "explicacion": "Universal, igual, secreto y obligatorio."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es el sufragio?",
+          "opciones": [
+            "El deber de pagar los impuestos nacionales cada año",
+            "La reunión de todos los representantes del pueblo",
+            "El derecho a votar para elegir a quienes gobiernan",
+            "La lista de las leyes que sanciona cada año el Congreso"
+          ],
+          "correcta": 2,
+          "explicacion": "Es un derecho político."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué año se sancionó la Ley Sáenz Peña?",
+          "opciones": [
+            "1912",
+            "1947",
+            "1951",
+            "2012"
+          ],
+          "correcta": 0,
+          "explicacion": "Estableció el voto secreto y obligatorio para los varones."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué reconoció la Ley 13.010?",
+          "opciones": [
+            "El voto desde los 16",
+            "El voto de los varones",
+            "El voto en el exterior",
+            "El voto de las mujeres"
+          ],
+          "correcta": 3,
+          "explicacion": "Se promulgó en 1947."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuándo votaron las mujeres por primera vez en una elección nacional?",
+          "opciones": [
+            "En 1912",
+            "En 1951",
+            "En 1947",
+            "En 2013"
+          ],
+          "correcta": 1,
+          "explicacion": "El 11 de noviembre de 1951."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué permitió la Ley 26.774?",
+          "opciones": [
+            "Votar solo a los varones",
+            "Votar desde los 16 años",
+            "Votar a mano alzada",
+            "Votar sin documento"
+          ],
+          "correcta": 1,
+          "explicacion": "Para las personas argentinas nativas o por opción."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo es el sufragio según el artículo 37 de la Constitución?",
+          "opciones": [
+            "Optativo, público y solo para varones",
+            "Secreto, voluntario y solo para adultos",
+            "Público, obligatorio y solo para nativos",
+            "Universal, igual, secreto y obligatorio"
+          ],
+          "correcta": 3,
+          "explicacion": "Lo estableció la reforma de 1994."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "SUFRAGIO",
+          "pista": "Derecho a votar para elegir a quienes gobiernan."
+        },
+        {
+          "palabra": "SECRETO",
+          "pista": "Así es el voto: nadie puede saber a quién votaste."
+        },
+        {
+          "palabra": "OBLIGATORIO",
+          "pista": "Así es el voto para las personas adultas."
+        },
+        {
+          "palabra": "PADRÓN",
+          "pista": "Lista de las personas habilitadas para votar."
+        },
+        {
+          "palabra": "UNIVERSAL",
+          "pista": "Palabra de 1912 que en realidad dejaba afuera a las mujeres."
+        },
+        {
+          "palabra": "CONSTITUCIÓN",
+          "pista": "Su artículo 37 dice cómo es el sufragio."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué se dice que el voto de la Ley Sáenz Peña no era universal del todo?",
+          "opciones": [
+            "Porque dejaba afuera a las mujeres",
+            "Porque solo votaban los jóvenes de 16",
+            "Porque el voto se hacía en público",
+            "Porque no era obligatorio para nadie"
+          ],
+          "correcta": 0,
+          "explicacion": "Votaban solo los varones argentinos nativos mayores de 18 años."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué tienen en común las leyes de 1912, 1947 y 2012?",
+          "opciones": [
+            "Todas permitieron votar solo a los varones adultos",
+            "Todas eliminaron el voto secreto en el país",
+            "Todas ampliaron quiénes pueden votar o cómo se vota",
+            "Todas se aplicaron por primera vez el mismo año"
+          ],
+          "correcta": 2,
+          "explicacion": "Cada una amplió o protegió el derecho al voto."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Entre la Ley Sáenz Peña y la primera votación de las mujeres pasaron más de 30 años.",
+          "respuesta": true,
+          "explicacion": "De 1912 a 1951 pasaron 39 años."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "La democracia representativa: elegir a quienes deciden",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "ejemplo",
+          "titulo": "Pensalo así: el delegado del curso",
+          "texto": "Imaginá que tu curso tiene que decidir algo con la dirección de la escuela. Las treinta personas del curso no pueden ir todas a cada reunión. Entonces votan a un delegado o una delegada, que va a las reuniones y habla en nombre de todo el curso. Eso es **representar**."
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "ilustracion",
+          "src": "img/clases/ciu-4-02-votacion-curso.webp",
+          "animacion": "alejar",
+          "alt": "Ilustración de un aula. Cuatro estudiantes hacen fila con un papel doblado en la mano y uno lo mete en una caja de cartón que sirve de urna. Más atrás, una estudiante escribe su voto sola en un banco.",
+          "epigrafe": "Ilustración elaborada para esta clase."
+        },
+        {
+          "t": "texto",
+          "titulo": "Democracia directa y democracia representativa",
+          "texto": "En una **democracia directa**, todas las personas votan cada decisión. Funciona en grupos chicos: un curso que vota a mano alzada adónde ir de excursión.\n\nEn un país con millones de habitantes eso no es posible para cada ley. Por eso la Argentina tiene una **democracia representativa**: la ciudadanía elige con su voto a **representantes** (diputados, senadores, presidente, gobernadores, intendentes) y ellos toman las decisiones por un tiempo fijo, hasta la elección siguiente."
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "grafico",
+          "titulo": "Dos maneras de decidir",
+          "src": "img/clases/ciu-4-02-directa.svg",
+          "src_movil": "img/clases/ciu-4-02-directa-movil.svg",
+          "alt": "Esquema que compara dos formas de decidir. Democracia directa: cada persona del grupo vota cada decisión, y todas las flechas van directo a la decisión. Democracia representativa: la ciudadanía elige con su voto a una persona representante, y esa persona decide por un tiempo fijo.",
+          "epigrafe": "Esquema elaborado para esta clase.",
+          "animacion": "svg"
+        },
+        {
+          "t": "cita",
+          "etiqueta": "Fuente",
+          "texto": "El pueblo no delibera ni gobierna, sino por medio de sus representantes y autoridades creadas por esta Constitución.",
+          "autor": "Constitución Nacional",
+          "contexto": "artículo 22"
+        },
+        {
+          "t": "texto",
+          "titulo": "Qué quiere decir el artículo 22",
+          "texto": "Las decisiones de gobierno las toman las personas elegidas y las autoridades que la Constitución establece, y no grupos que se reúnen por su cuenta y dicen hablar por todo el pueblo. El artículo 1 lo confirma: la Argentina adopta la forma de gobierno **representativa, republicana y federal**."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada situación es un ejemplo de democracia directa o de democracia representativa?",
+          "categorias": [
+            "Democracia directa",
+            "Democracia representativa"
+          ],
+          "items": [
+            {
+              "texto": "Todo el curso vota a mano alzada adónde ir de excursión",
+              "cat": "Democracia directa"
+            },
+            {
+              "texto": "El curso elige a una delegada que lo representa ante la dirección",
+              "cat": "Democracia representativa"
+            },
+            {
+              "texto": "La ciudadanía elige diputados y diputadas que votan las leyes",
+              "cat": "Democracia representativa"
+            },
+            {
+              "texto": "Los socios de un club chico votan en asamblea cada decisión",
+              "cat": "Democracia directa"
+            },
+            {
+              "texto": "Un pueblo elige a su intendente o presidente comunal",
+              "cat": "Democracia representativa"
+            },
+            {
+              "texto": "Un grupo de amigos vota entre todos qué película mirar",
+              "cat": "Democracia directa"
+            }
+          ],
+          "explicacion": "En la democracia directa decide cada persona; en la representativa, se elige a alguien que decide en nombre de los demás."
+        },
+        {
+          "t": "texto",
+          "titulo": "Cómo es el voto en la Argentina",
+          "texto": "El artículo 37 de la Constitución dice que el sufragio es **universal**, **igual**, **secreto** y **obligatorio**. Cada palabra protege algo distinto: que nadie quede afuera, que todos los votos valgan lo mismo, que nadie pueda saber ni presionar a quién votás, y que la mayor parte de la ciudadanía participe."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "En una **democracia representativa** la ciudadanía elige con su voto a **representantes** que deciden por un tiempo fijo. El sufragio es **universal, igual, secreto y obligatorio** (Constitución Nacional, artículo 37)."
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada característica del sufragio con lo que significa.",
+          "pares": [
+            {
+              "a": "Universal",
+              "b": "Pueden votar todas las personas que la ley habilita, sin excluir grupos"
+            },
+            {
+              "a": "Igual",
+              "b": "El voto de cada persona vale lo mismo que el de cualquier otra"
+            },
+            {
+              "a": "Secreto",
+              "b": "Nadie puede saber ni controlar a quién votó cada persona"
+            },
+            {
+              "a": "Obligatorio",
+              "b": "Las personas adultas habilitadas tienen el deber de votar"
+            }
+          ],
+          "explicacion": "Las cuatro características están en el artículo 37 de la Constitución Nacional.",
+          "pista": "Releé el texto sobre cómo es el voto en la Argentina: cada palabra protege algo distinto."
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá el texto con las palabras que faltan.",
+          "texto": "En una democracia [[representativa]], la ciudadanía elige con su voto a [[representantes]], que toman las decisiones por un tiempo fijo. Según el artículo 22 de la Constitución, el pueblo no delibera ni [[gobierna]] sino por medio de ellos.",
+          "distractores": [],
+          "explicacion": "Así funciona el gobierno en la Argentina: se elige a quienes deciden.",
+          "pista": "Releé la cita de la Constitución y el recuadro \"Para recordar\"."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "📰 Elegí el titular. Un diario cuenta un hecho propio de la democracia representativa. ¿Cuál es el titular?",
+          "opciones": [
+            "La ciudadanía eligió a los diputados para los próximos años",
+            "Un grupo de vecinos votó a mano alzada cada decisión del país",
+            "El curso decidió entre todos el destino de la excursión anual",
+            "Un grupo de amigos votó qué película ver el sábado a la noche"
+          ],
+          "correcta": 0,
+          "explicacion": "En la democracia representativa se elige a quienes deciden en nombre de los demás, por un tiempo fijo.",
+          "pista": "Buscá el titular donde se elige a alguien que va a decidir por otras personas."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: si los representantes deciden por nosotros, ¿qué puede hacer la ciudadanía entre una elección y la siguiente?",
+          "respuesta": "Puede informarse, opinar, peticionar a las autoridades, participar en organizaciones y controlar lo que hacen sus representantes. Y en la elección siguiente puede volver a elegirlos o elegir a otras personas. Votar es el momento más visible, pero la participación sigue después."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá la diferencia entre democracia directa y democracia representativa, con un ejemplo de cada una. Después explicá con tus palabras qué significa que el voto sea universal, igual, secreto y obligatorio.",
+        "guia": [
+          "¿Qué es una democracia directa? ¿En qué grupos funciona?",
+          "¿Por qué la Argentina tiene una democracia representativa?",
+          "¿Qué dice el artículo 22 de la Constitución?",
+          "¿Qué significa cada característica del sufragio del artículo 37?",
+          "¿Qué puede hacer la ciudadanía entre una elección y la siguiente?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "directa"
+            ],
+            "p": "la democracia directa"
+          },
+          {
+            "k": [
+              "representativa",
+              "representante"
+            ],
+            "p": "la democracia representativa"
+          },
+          {
+            "k": [
+              "22"
+            ],
+            "p": "el artículo 22"
+          },
+          {
+            "k": [
+              "universal",
+              "igual"
+            ],
+            "p": "voto universal e igual"
+          },
+          {
+            "k": [
+              "secreto",
+              "obligatorio"
+            ],
+            "p": "voto secreto y obligatorio"
+          }
+        ],
+        "referencia": "Democracia directa: todos votan cada decisión (grupos chicos). Representativa: se eligen representantes que deciden por un tiempo fijo. Art. 22: el pueblo no delibera ni gobierna sino por medio de sus representantes. Art. 37: sufragio universal, igual, secreto y obligatorio, con el significado de cada palabra.",
+        "minPalabras": 45
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "En una democracia representativa se eligen personas que deciden por los demás.",
+          "respuesta": true,
+          "explicacion": "Lo hacen por un tiempo fijo, hasta la elección siguiente."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la Argentina cada ley se vota directamente entre todos los habitantes.",
+          "respuesta": false,
+          "explicacion": "La Argentina tiene una democracia representativa."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El artículo 22 de la Constitución dice que el pueblo gobierna por medio de sus representantes.",
+          "respuesta": true,
+          "explicacion": "Y de las autoridades creadas por la Constitución."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Que el voto sea igual significa que todos votan al mismo candidato.",
+          "respuesta": false,
+          "explicacion": "Significa que cada voto vale lo mismo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Que el voto sea secreto significa que nadie puede saber a quién votaste.",
+          "respuesta": true,
+          "explicacion": "Así nadie puede presionarte."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Un curso que vota a mano alzada adónde ir de excursión practica una democracia directa.",
+          "respuesta": true,
+          "explicacion": "Cada persona vota la decisión."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es una democracia representativa?",
+          "opciones": [
+            "La ciudadanía elige a quienes deciden",
+            "Cada persona vota todas las leyes del país",
+            "Una sola persona decide sin que haya elecciones",
+            "Cada grupo decide por su cuenta lo que se hace"
+          ],
+          "correcta": 0,
+          "explicacion": "Es la forma de gobierno de la Argentina."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué artículo de la Constitución dice que el pueblo gobierna por medio de sus representantes?",
+          "opciones": [
+            "El artículo 14",
+            "El artículo 75",
+            "El artículo 99",
+            "El artículo 22"
+          ],
+          "correcta": 3,
+          "explicacion": "\"El pueblo no delibera ni gobierna sino por medio de sus representantes.\""
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué significa que el voto sea igual?",
+          "opciones": [
+            "Que todos votan al mismo candidato",
+            "Que cada voto vale lo mismo",
+            "Que se vota a mano alzada en público",
+            "Que se vota una sola vez en la vida"
+          ],
+          "correcta": 1,
+          "explicacion": "Nadie tiene un voto que valga más."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estos es un ejemplo de democracia directa?",
+          "opciones": [
+            "La ciudadanía elige diputados y diputadas",
+            "Un club chico vota en asamblea cada decisión",
+            "Un pueblo elige a su intendente o intendenta",
+            "Un curso elige a su delegada ante la escuela"
+          ],
+          "correcta": 1,
+          "explicacion": "Cada persona vota la decisión."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué forma de gobierno adopta la Argentina según el artículo 1?",
+          "opciones": [
+            "Directa, republicana y centralista",
+            "Representativa, monárquica y unitaria",
+            "Directa, monárquica y centralizada",
+            "Representativa, republicana y federal"
+          ],
+          "correcta": 3,
+          "explicacion": "Lo dice el artículo 1 de la Constitución."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Para qué sirve que el voto sea secreto?",
+          "opciones": [
+            "Para que nadie pueda presionar a quien vota",
+            "Para que todos voten siempre al mismo candidato",
+            "Para que el voto sea optativo para todas las personas",
+            "Para que se pueda votar a mano alzada en la escuela"
+          ],
+          "correcta": 0,
+          "explicacion": "Protege la libertad de cada persona al votar."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "REPRESENTANTE",
+          "pista": "Persona elegida que decide en nombre de otras."
+        },
+        {
+          "palabra": "DIRECTA",
+          "pista": "Democracia en la que cada persona vota cada decisión."
+        },
+        {
+          "palabra": "IGUAL",
+          "pista": "Así es el voto: el de cada persona vale lo mismo."
+        },
+        {
+          "palabra": "DELEGADO",
+          "pista": "Estudiante que el curso elige para que hable en su nombre."
+        },
+        {
+          "palabra": "REPUBLICANA",
+          "pista": "Una de las tres palabras de la forma de gobierno del artículo 1."
+        },
+        {
+          "palabra": "ELECCIÓN",
+          "pista": "Momento en que la ciudadanía elige a sus representantes."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué la Argentina tiene una democracia representativa y no directa?",
+          "opciones": [
+            "Porque la Constitución prohíbe que la ciudadanía vote en elecciones",
+            "Porque solo los representantes tienen derechos políticos en el país",
+            "Porque con millones de habitantes no se puede votar cada decisión",
+            "Porque así se evita que haya elecciones cada cierta cantidad de años"
+          ],
+          "correcta": 2,
+          "explicacion": "Por eso se elige a representantes por un tiempo fijo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué protege que el voto sea secreto?",
+          "opciones": [
+            "La obligación de votar a un partido",
+            "La posibilidad de votar dos veces",
+            "La libertad de cada persona al votar",
+            "El derecho a no tener representantes"
+          ],
+          "correcta": 2,
+          "explicacion": "Nadie puede saber ni presionar a quién votás."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Un curso que elige a su delegado o delegada practica una forma de representación.",
+          "respuesta": true,
+          "explicacion": "El delegado o la delegada habla en nombre de todo el curso."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Votar a los 16: derechos políticos de los jóvenes",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Qué cambió con la ley de Voto Joven",
+          "texto": "Los **derechos políticos** son los que permiten participar en las decisiones públicas: votar, ser elegido, formar parte de un partido, peticionar a las autoridades.\n\nDesde la Ley 26.774, las personas argentinas nativas o por opción pueden votar desde los **16 años**. Para eso tienen que figurar en el **padrón electoral**, la lista de quienes están habilitados para votar en cada elección. Las personas argentinas naturalizadas (que nacieron en otro país y obtuvieron la nacionalidad) votan desde los 18."
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "ilustracion",
+          "src": "img/clases/ciu-4-02-fila-votar.webp",
+          "animacion": "acercar-izq",
+          "alt": "Ilustración del patio de una escuela un día de elecciones. Una joven con mochila sonríe y muestra su DNI mientras hace fila con personas adultas frente a la puerta de un aula.",
+          "epigrafe": "Ilustración elaborada para esta clase."
+        },
+        {
+          "t": "comparar",
+          "titulo": "¿Quién puede votar y quién tiene que votar en las elecciones nacionales?",
+          "columnas": [
+            "Quiénes",
+            "¿Pueden votar?",
+            "¿Tienen que votar?"
+          ],
+          "filas": [
+            [
+              "Menores de 16 años",
+              "No",
+              "No"
+            ],
+            [
+              "Personas argentinas nativas o por opción de 16 y 17 años",
+              "Sí",
+              "No: el voto es optativo, no reciben sanción si no votan"
+            ],
+            [
+              "Personas argentinas naturalizadas de 16 y 17 años",
+              "No: votan desde los 18",
+              "No"
+            ],
+            [
+              "Personas argentinas desde los 18 años",
+              "Sí",
+              "Sí: el voto es obligatorio"
+            ]
+          ]
+        },
+        {
+          "t": "clasificar",
+          "consigna": "🚦 Semáforo. En las elecciones nacionales, ¿qué le corresponde a cada persona? Si no te acordás, buscalo en la tabla de arriba.",
+          "categorias": [
+            "🟢 Puede elegir si vota",
+            "🟡 Tiene que votar",
+            "🔴 Todavía no puede votar"
+          ],
+          "items": [
+            {
+              "texto": "Una estudiante argentina nativa de 16 años",
+              "cat": "🟢 Puede elegir si vota"
+            },
+            {
+              "texto": "Un estudiante argentino nativo de 17 años",
+              "cat": "🟢 Puede elegir si vota"
+            },
+            {
+              "texto": "Una docente argentina de 35 años",
+              "cat": "🟡 Tiene que votar"
+            },
+            {
+              "texto": "Un vecino argentino de 25 años",
+              "cat": "🟡 Tiene que votar"
+            },
+            {
+              "texto": "Un estudiante de 15 años",
+              "cat": "🔴 Todavía no puede votar"
+            },
+            {
+              "texto": "Una joven de 17 años, argentina naturalizada",
+              "cat": "🔴 Todavía no puede votar"
+            }
+          ],
+          "explicacion": "A los 16 y 17 años el voto es optativo para las personas argentinas nativas o por opción. Desde los 18 es obligatorio. Las personas naturalizadas votan desde los 18."
+        },
+        {
+          "t": "dato",
+          "titulo": "Lo que hoy: el voto joven en Santa Fe",
+          "texto": "La Ley 26.774 rige para las elecciones nacionales. Cada provincia decide para sus propias elecciones. Santa Fe fue el último distrito en habilitar el voto de los jóvenes de 16 y 17 años en sus elecciones provinciales: lo hizo en 2023."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá el dato: ¿cómo se llama la lista de personas habilitadas para votar en cada elección?",
+          "respuesta": "Padrón electoral",
+          "acepta": [
+            "padron",
+            "padron electoral",
+            "el padron",
+            "el padron electoral"
+          ],
+          "formato": "Escribí una o dos palabras.",
+          "explicacion": "Para votar a los 16 o 17 años, hay que figurar en el padrón electoral.",
+          "pista1": "Está en el primer texto de la parte, cuando se explica qué hace falta para votar.",
+          "pista": "Empieza con P."
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "foto",
+          "src": "img/clases/ciu-4-02-urna.webp",
+          "animacion": "acercar",
+          "alt": "Fotografía de una urna de cartón de la Junta Electoral Nacional sobre un banco escolar, en un aula con dibujos de chicos en la pared.",
+          "epigrafe": "Una urna de las elecciones nacionales de 2019, en el aula de una escuela.",
+          "fuente": "BugWarp (2019), dominio público (CC0), vía Wikimedia Commons. Recortada para esta clase"
+        },
+        {
+          "t": "texto",
+          "titulo": "Un debate con dos miradas",
+          "texto": "Cuando se discutió la ley, hubo posiciones distintas. **Quienes la defendían** sostenían que a los 16 y 17 años muchos jóvenes ya estudian, trabajan o participan en su comunidad, y que votar los acerca a las decisiones que los afectan. **Quienes la criticaban** sostenían que a esa edad muchos todavía no se interesan por la política o que podían ser más influenciables. La ley resolvió que el voto a esa edad fuera **optativo**: cada joven decide si va a votar."
+        },
+        {
+          "t": "texto",
+          "titulo": "Ciudadanía activa: participar más allá del voto",
+          "texto": "La **ciudadanía activa** es participar en los asuntos comunes, y no solo el día de la elección. En la escuela, por ejemplo, la Ley 26.877 promueve la creación de **centros de estudiantes**, donde los estudiantes eligen representantes, proponen ideas y las discuten con la dirección. También se participa en un club, en una organización del barrio o informándose antes de opinar."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "Desde la **Ley 26.774** (2012), las personas argentinas nativas o por opción pueden votar desde los **16 años**. A los 16 y 17, el voto es **optativo**; desde los 18, es **obligatorio**. La **ciudadanía activa** es participar en lo común también fuera de las elecciones."
+        },
+        {
+          "t": "vf",
+          "consigna": "Decidí si cada afirmación es verdadera o falsa.",
+          "afirmaciones": [
+            {
+              "texto": "Un joven argentino nativo de 16 años que no va a votar recibe una sanción.",
+              "v": false,
+              "explicacion": "A los 16 y 17 años el voto es optativo: no hay sanción."
+            },
+            {
+              "texto": "Para votar hay que figurar en el padrón electoral.",
+              "v": true,
+              "explicacion": "Es la lista de las personas habilitadas para votar."
+            },
+            {
+              "texto": "La ciudadanía activa termina el día de la elección.",
+              "v": false,
+              "explicacion": "Sigue en un centro de estudiantes, un club o una organización del barrio."
+            },
+            {
+              "texto": "Un centro de estudiantes es una forma de participar en la escuela.",
+              "v": true,
+              "explicacion": "Allí los estudiantes eligen representantes y proponen ideas."
+            }
+          ]
+        },
+        {
+          "t": "opcion",
+          "pregunta": "Volvé al texto del debate. ¿Qué decidió la ley sobre el voto a los 16 y 17 años?",
+          "opciones": [
+            "Que sea obligatorio desde los 16",
+            "Que solo voten en su provincia",
+            "Que voten solo en la escuela",
+            "Que sea optativo para cada joven"
+          ],
+          "correcta": 3,
+          "explicacion": "La ley tomó un camino intermedio: los jóvenes de 16 y 17 años pueden votar, pero no están obligados.",
+          "pista": "Buscá la última oración del texto sobre el debate."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: aparte de votar, ¿qué otras formas tiene una persona de 16 años de participar en lo que pasa en su escuela o en su localidad?",
+          "respuesta": "Puede sumarse al centro de estudiantes, proponer una idea en un consejo de convivencia, participar en un club o una organización del barrio, presentar un pedido a la comuna o al municipio, o informarse bien sobre un tema antes de opinar. Todo eso es ciudadanía activa."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué cambió con la ley de Voto Joven: quiénes pueden votar a los 16 y 17 años y por qué el voto a esa edad es optativo. Presentá las dos miradas del debate y explicá qué es la ciudadanía activa, con dos ejemplos de participación más allá del voto.",
+        "guia": [
+          "¿Qué son los derechos políticos?",
+          "¿Quiénes pueden votar a los 16 y 17 años y qué hace falta para votar?",
+          "¿Qué diferencia hay entre el voto a los 16 y 17 años y el voto desde los 18?",
+          "¿Qué sostenían quienes defendían la ley y quienes la criticaban?",
+          "¿Qué es la ciudadanía activa? Poné dos ejemplos."
+        ],
+        "claves": [
+          {
+            "k": [
+              "derechos politicos"
+            ],
+            "p": "los derechos políticos"
+          },
+          {
+            "k": [
+              "16",
+              "26.774",
+              "26774"
+            ],
+            "p": "el voto desde los 16"
+          },
+          {
+            "k": [
+              "optativo"
+            ],
+            "p": "el voto optativo"
+          },
+          {
+            "k": [
+              "padron"
+            ],
+            "p": "el padrón electoral"
+          },
+          {
+            "k": [
+              "defend",
+              "critic"
+            ],
+            "p": "las dos miradas del debate"
+          },
+          {
+            "k": [
+              "ciudadania activa",
+              "centro de estudiantes",
+              "particip"
+            ],
+            "p": "la ciudadanía activa"
+          }
+        ],
+        "referencia": "Derechos políticos: votar, ser elegido, peticionar. Ley 26.774: argentinos nativos o por opción votan desde los 16 si están en el padrón; a los 16 y 17 el voto es optativo, desde los 18 obligatorio; naturalizados desde los 18. Quienes la defendían: los jóvenes ya participan y votar los acerca; quienes la criticaban: falta de interés o influencia. Ciudadanía activa: centro de estudiantes, club, organización del barrio.",
+        "minPalabras": 50
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Las personas argentinas nativas pueden votar desde los 16 años.",
+          "respuesta": true,
+          "explicacion": "Lo establece la Ley 26.774."
+        },
+        {
+          "tipo": "vf",
+          "texto": "A los 16 y 17 años el voto es obligatorio.",
+          "respuesta": false,
+          "explicacion": "Es optativo: no hay sanción si no votan."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Las personas argentinas naturalizadas votan desde los 18 años.",
+          "respuesta": true,
+          "explicacion": "La ley de Voto Joven no cambió esa edad."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El padrón electoral es la lista de las personas habilitadas para votar.",
+          "respuesta": true,
+          "explicacion": "Hay que figurar en él para votar."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Santa Fe habilitó el voto joven en sus elecciones provinciales en 2012.",
+          "respuesta": false,
+          "explicacion": "Lo habilitó en 2023. En 2012 se sancionó la ley nacional."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Un centro de estudiantes es un ejemplo de ciudadanía activa.",
+          "respuesta": true,
+          "explicacion": "Los estudiantes eligen representantes y proponen ideas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Desde qué edad pueden votar las personas argentinas nativas?",
+          "opciones": [
+            "Desde los 14 años",
+            "Desde los 18 años",
+            "Desde los 21 años",
+            "Desde los 16 años"
+          ],
+          "correcta": 3,
+          "explicacion": "Por la Ley 26.774, de 2012."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo es el voto a los 16 y 17 años?",
+          "opciones": [
+            "Obligatorio",
+            "Optativo",
+            "Público",
+            "Prohibido"
+          ],
+          "correcta": 1,
+          "explicacion": "No hay sanción si no votan."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es el padrón electoral?",
+          "opciones": [
+            "El lugar donde se cuentan los votos",
+            "La lista de quienes pueden votar",
+            "La boleta con los candidatos",
+            "La ley que regula los partidos"
+          ],
+          "correcta": 1,
+          "explicacion": "Para votar hay que figurar en él."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es la ciudadanía activa?",
+          "opciones": [
+            "Votar solamente el día de cada elección nacional del país",
+            "Ocupar un cargo público durante varios años seguidos",
+            "Pertenecer a un partido político desde los 16 años",
+            "Participar en lo común también fuera de las elecciones"
+          ],
+          "correcta": 3,
+          "explicacion": "Por ejemplo, en un centro de estudiantes."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué sostenían quienes defendían la ley de Voto Joven?",
+          "opciones": [
+            "Que votar acerca a los jóvenes a las decisiones que los afectan",
+            "Que a los 16 años los jóvenes no se interesan por la política",
+            "Que los jóvenes de 16 años debían votar de forma obligatoria",
+            "Que solo los jóvenes naturalizados debían votar a los 16"
+          ],
+          "correcta": 0,
+          "explicacion": "Muchos jóvenes de esa edad ya estudian, trabajan o participan en su comunidad."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué ley promueve los centros de estudiantes?",
+          "opciones": [
+            "La Ley 8.871",
+            "La Ley 13.010",
+            "La Ley 26.877",
+            "La Ley 26.774"
+          ],
+          "correcta": 2,
+          "explicacion": "La 26.774 es la de Voto Joven."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "OPTATIVO",
+          "pista": "Así es el voto a los 16 y 17 años."
+        },
+        {
+          "palabra": "PADRÓN",
+          "pista": "Lista de las personas habilitadas para votar."
+        },
+        {
+          "palabra": "NATURALIZADO",
+          "pista": "Persona nacida en otro país que obtuvo la nacionalidad argentina."
+        },
+        {
+          "palabra": "CIUDADANÍA",
+          "pista": "Si es activa, participa en lo común también fuera de las elecciones."
+        },
+        {
+          "palabra": "CENTRO",
+          "pista": "De estudiantes: espacio para participar en la escuela."
+        },
+        {
+          "palabra": "DERECHOS",
+          "pista": "Los políticos permiten votar, ser elegido y peticionar."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "Una estudiante argentina nativa de 16 años no fue a votar. ¿Qué le pasa?",
+          "opciones": [
+            "Recibe una multa como las personas adultas",
+            "Pierde el derecho a votar en la próxima",
+            "Nada: a su edad el voto es optativo",
+            "Tiene que votar al día siguiente"
+          ],
+          "correcta": 2,
+          "explicacion": "A los 16 y 17 años no hay sanción por no votar."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estas acciones es un ejemplo de ciudadanía activa?",
+          "opciones": [
+            "Proponer una idea en el centro de estudiantes",
+            "Mirar una serie sin hablar con nadie del tema",
+            "Esperar a que otras personas decidan todo",
+            "Votar dos veces en la misma elección"
+          ],
+          "correcta": 0,
+          "explicacion": "Es participar en los asuntos comunes."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La ley de Voto Joven resolvió que a los 16 y 17 años cada joven decida si vota.",
+          "respuesta": true,
+          "explicacion": "Por eso el voto a esa edad es optativo."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Sufragio",
+      "definicion": "Derecho a votar para elegir a quienes gobiernan."
+    },
+    {
+      "palabra": "Democracia representativa",
+      "definicion": "Forma de gobierno en la que la ciudadanía elige a representantes que deciden por un tiempo fijo."
+    },
+    {
+      "palabra": "Representante",
+      "definicion": "Persona elegida que decide en nombre de otras."
+    },
+    {
+      "palabra": "Voto secreto",
+      "definicion": "Voto que nadie puede conocer ni controlar."
+    },
+    {
+      "palabra": "Voto optativo",
+      "definicion": "Voto que cada persona decide si emite; así es a los 16 y 17 años."
+    },
+    {
+      "palabra": "Padrón electoral",
+      "definicion": "Lista de las personas habilitadas para votar en una elección."
+    },
+    {
+      "palabra": "Ciudadanía activa",
+      "definicion": "Participación en los asuntos comunes también fuera de las elecciones."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "Con la Ley Sáenz Peña votaba toda la población.",
+      "aclaracion": "Votaban solo los varones argentinos nativos mayores de 18 años. Las mujeres votaron por primera vez en 1951."
+    },
+    {
+      "error": "A los 16 años el voto es obligatorio.",
+      "aclaracion": "A los 16 y 17 años es optativo. Es obligatorio desde los 18."
+    },
+    {
+      "error": "En la Argentina la ciudadanía vota cada ley.",
+      "aclaracion": "Elige representantes que votan las leyes: es una democracia representativa."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "Si en tu escuela se armara un centro de estudiantes, ¿cómo se elegiría a sus representantes para que el voto fuera universal, igual y secreto?",
+    "conexion": "Con la clase 4: ahí vas a ver otras formas de participar que reconocen las Constituciones nacional y de Santa Fe, como los partidos, los movimientos sociales y los medios comunitarios."
+  },
+  "objetivos": [
+    "Reconstruir cómo se amplió el derecho al voto en la Argentina, desde la Ley Sáenz Peña hasta la ley de Voto Joven.",
+    "Explicar qué es la democracia representativa y qué significa que el sufragio sea universal, igual, secreto y obligatorio.",
+    "Reconocer los derechos políticos de los jóvenes de 16 y 17 años y distintas formas de ciudadanía activa."
+  ]
+}

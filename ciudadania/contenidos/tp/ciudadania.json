@@ -1,0 +1,435 @@
+{
+ "espacio": "ciudadania",
+ "titulo": "Mi trabajo práctico de Construcción de Ciudadanía y Participación",
+ "intro": "Un buen trabajo práctico de Ciudadanía explica cómo se toman las decisiones comunes, quiénes participan y con qué reglas. Eso es lo que vas a presentar y defender.",
+ "claves_contenido": {
+  "ci1": [
+   "politico",
+   "decision publica",
+   "privada",
+   "actores",
+   "intereses",
+   "poder",
+   "legitimidad",
+   "tradicion",
+   "carisma",
+   "reglas",
+   "weber",
+   "estado",
+   "legislativo",
+   "ejecutivo",
+   "judicial",
+   "sociedad civil"
+  ],
+  "ci2": [
+   "sufragio",
+   "saenz pena",
+   "13.010",
+   "26.774",
+   "mujeres",
+   "democracia representativa",
+   "representantes",
+   "articulo 22",
+   "articulo 37",
+   "universal",
+   "igual",
+   "secreto",
+   "obligatorio",
+   "optativo",
+   "padron",
+   "ciudadania activa"
+  ],
+  "ci3": [
+   "simbolo",
+   "bandera",
+   "escudo",
+   "himno",
+   "10.302",
+   "gorro",
+   "manos",
+   "sol",
+   "laureles",
+   "rito",
+   "asuncion",
+   "acto",
+   "ideologia",
+   "medios",
+   "hecho",
+   "opinion",
+   "titular"
+  ],
+  "ci4": [
+   "peticionar",
+   "asociar",
+   "partido",
+   "iniciativa",
+   "consulta",
+   "vinculante",
+   "referendum",
+   "revocatoria",
+   "audiencia",
+   "movimiento",
+   "comunitari",
+   "supraestatal",
+   "mercosur",
+   "onu",
+   "oea",
+   "fmi",
+   "banco mundial",
+   "unasur"
+  ],
+  "ci5": [
+   "espacio publico",
+   "peaton",
+   "ciclista",
+   "senda",
+   "bicisenda",
+   "casco",
+   "cinturon",
+   "celular",
+   "licencia",
+   "24.449",
+   "13.133",
+   "adhier",
+   "alcohol",
+   "27.714",
+   "responsab",
+   "decision"
+  ]
+ },
+ "portada": {
+  "instruccion": "Escribí la introducción de tu trabajo: presentá los temas que incluye, en qué orden los vas a presentar y por qué te parece importante conocerlos.",
+  "guia": [
+   "¿De qué temas trata tu trabajo y en qué orden los vas a presentar?",
+   "¿Qué tienen en común esos temas?",
+   "¿Por qué sirve conocerlos para participar en tu escuela o en tu localidad?"
+  ],
+  "claves": [],
+  "referencia": "Temas incluidos en orden, qué los une y por qué es importante conocerlos.",
+  "minPalabras": 25,
+  "modelo": "Este trabajo práctico trata sobre {temas}. Primero voy a presentar ……; después, ……. Elegí este orden porque …….\n\nLo que une a estos temas es ……. Conocerlos es importante para participar en lo común porque ……."
+ },
+ "desarrollo": {
+  "ci1": {
+   "instruccion": "Explicá qué es lo político y cómo se ejerce el poder. Contá qué diferencia a una decisión pública de una privada, quiénes son los actores, qué es la legitimidad y cómo se organiza el poder en el Estado, la sociedad civil y los espacios cercanos.",
+   "guia": [
+    "¿Qué diferencia hay entre una decisión privada y una pública?",
+    "¿Qué son los actores y los intereses? Poné un ejemplo.",
+    "¿Qué es el poder y cuándo es legítimo?",
+    "¿Cuáles son las tres fuentes de legitimidad que distinguió Weber?",
+    "¿Qué hace cada uno de los tres poderes y qué puede hacer la sociedad civil?"
+   ],
+   "claves": [],
+   "referencia": "Decisión privada y pública; lo político; actores e intereses. Poder y legitimidad; tradición, carisma y reglas (Weber). Tres poderes con su función; sociedad civil; poder en familia, escuela, trabajo y comunidad.",
+   "minPalabras": 60,
+   "modelo": "Una decisión es pública cuando ……, y es privada cuando ……. Lo político es ……. En cada decisión pública participan actores, como ……, que tienen intereses distintos: por ejemplo, …….\n\nEl poder es ……. Es legítimo cuando ……. Weber distinguió tres fuentes de legitimidad: ……, …… y …….\n\nEn el Estado, el poder se reparte en tres: el Legislativo ……, el Ejecutivo …… y el Judicial ……. La sociedad civil puede ……. También hay poder en espacios cercanos, como ……"
+  },
+  "ci2": {
+   "instruccion": "Explicá cómo funciona la democracia representativa y cómo se amplió el derecho al voto en la Argentina. Incluí las leyes que lo ampliaron, las características del sufragio y los derechos políticos de los jóvenes de 16 y 17 años.",
+   "guia": [
+    "¿Qué estableció la Ley Sáenz Peña y a quiénes dejaba afuera?",
+    "¿Qué cambió con la Ley 13.010 y con la Ley 26.774?",
+    "¿Qué es una democracia representativa y qué dice el artículo 22 de la Constitución?",
+    "¿Qué significa que el voto sea universal, igual, secreto y obligatorio?",
+    "¿Cómo es el voto a los 16 y 17 años y qué es la ciudadanía activa?"
+   ],
+   "claves": [],
+   "referencia": "1912 Sáenz Peña (varones nativos, secreto y obligatorio); 1947 Ley 13.010 y primer voto femenino en 1951; 2012 Ley 26.774 (desde los 16, primera aplicación 2013). Democracia representativa, artículo 22. Artículo 37: universal, igual, secreto y obligatorio. Voto optativo a los 16 y 17; obligatorio desde los 18; ciudadanía activa.",
+   "minPalabras": 60,
+   "modelo": "En 1912, la Ley Sáenz Peña estableció ……, pero dejaba afuera a ……. En 1947, …… y en 2012, …….\n\nLa Argentina tiene una democracia representativa: ……. El artículo 22 de la Constitución dice que …….\n\nSegún el artículo 37, el voto es universal, igual, secreto y obligatorio. Eso quiere decir que ……. A los 16 y 17 años, el voto es ……, y desde los 18 es ……. Además de votar, se puede participar ……"
+  },
+  "ci3": {
+   "instruccion": "Explicá cómo se comunica la política a través de símbolos, ritos y medios. Contá cuáles son los símbolos nacionales y qué significa el escudo, qué es un rito y cómo los medios pueden contar distinto el mismo hecho.",
+   "guia": [
+    "¿Qué es un símbolo y cuáles son los símbolos nacionales?",
+    "¿Qué significan las partes del escudo?",
+    "¿Qué es un rito? Poné un ejemplo escolar y uno de la vida política.",
+    "¿Qué es una ideología?",
+    "¿Qué eligen los medios al contar una noticia y cómo se distingue un hecho de una opinión?"
+   ],
+   "claves": [],
+   "referencia": "Símbolo; bandera, escudo e himno (Decreto 10.302/1944); escudo: manos = unión, gorro = libertad, sol = nueva Nación, laureles = victoria. Rito: pasos fijos y significado compartido (acto escolar, asunción). Ideología: ideas sobre cómo organizar la sociedad. Medios: eligen titular, foto y voces; hecho comprobable vs. opinión.",
+   "minPalabras": 60,
+   "modelo": "Un símbolo es ……. Los símbolos nacionales son ……, según ……. En el escudo, las manos ……, el gorro …… y el sol …….\n\nUn rito es ……. Por ejemplo, ……. En la vida política, …….\n\nUna ideología es ……. Los medios eligen ……, por eso el mismo hecho …….  Un hecho se diferencia de una opinión porque ……"
+  },
+  "ci4": {
+   "instruccion": "Explicá las formas de participación que reconocen la Constitución Nacional y la de Santa Fe, otras formas de organizarse y qué son los organismos supraestatales.",
+   "guia": [
+    "¿Qué formas de participar reconoce la Constitución Nacional, además del voto?",
+    "¿Qué diferencia hay entre una consulta vinculante y una no vinculante?",
+    "¿Qué mecanismos reconoce la Constitución de Santa Fe de 2025?",
+    "¿Qué son los movimientos sociales y los medios comunitarios?",
+    "¿Qué es un organismo supraestatal? Dá dos ejemplos y contá para qué existen."
+   ],
+   "claves": [],
+   "referencia": "CN: peticionar y asociarse (14), partidos (38), iniciativa popular (39), consulta popular vinculante o no (40). Santa Fe 2025: iniciativa, referéndum, consulta, revocatoria, audiencia pública. Partidos, movimientos sociales, redes y medios comunitarios. Organismos supraestatales: regionales (MERCOSUR, UNASUR, OEA) y mundiales (ONU, FMI, Banco Mundial).",
+   "minPalabras": 60,
+   "modelo": "Además de votar, la Constitución Nacional reconoce ……. Con la iniciativa popular ……, y con la consulta popular …….\n\nLa Constitución de Santa Fe de 2025 agrega ……. Por ejemplo, ……. Las personas también se organizan en …….\n\nUn organismo supraestatal es ……. Por ejemplo, el MERCOSUR …… y la ONU ……."
+  },
+  "ci5": {
+   "instruccion": "Explicá por qué el tránsito es un tema de ciudadanía: quiénes comparten el espacio público, qué establecen la ley nacional y la ley de Santa Fe, y qué decisiones responsables cuidan.",
+   "guia": [
+    "¿Qué es el espacio público y quiénes lo comparten?",
+    "¿Qué derechos y obligaciones tienen el peatón y el ciclista?",
+    "¿Qué relación hay entre la Ley 24.449 y la Ley 13.133 de Santa Fe? ¿Desde qué edad se saca la licencia en la provincia?",
+    "¿Qué establece la ley sobre casco, cinturón, celular y alcohol?",
+    "¿Qué decisiones cuidan y cómo puede participar la comunidad?"
+   ],
+   "claves": [],
+   "referencia": "Espacio público compartido. Peatón: prioridad en la senda, respeta el semáforo. Ciclista: señales y casco. Ley nacional 24.449; Santa Fe adhiere con la Ley 13.133, que fija 18 años para cualquier licencia. Casco, cinturón, sin celular; alcohol cero en rutas nacionales (Ley 27.714). Responsabilidad y peticionar al municipio.",
+   "minPalabras": 60,
+   "modelo": "El espacio público es ……. Lo comparten …….\n\nLa Ley 24.449 es ……. Santa Fe adhiere con ……, que establece que ……. Además, …….\n\nSer responsable en el tránsito es ……. Por ejemplo, ……. La comunidad puede ……."
+  }
+ },
+ "integracion": {
+  "intro": "Integrar es mostrar que los temas se conectan: unos explican a otros, se parecen o se complementan. Las preguntas de abajo relacionan **solo los contenidos que elegiste**.",
+  "intro_uno": "Elegiste un solo contenido. Integrar, en este caso, es mostrar cómo se conectan sus partes: qué explica qué.",
+  "pares": {
+   "ci1|ci2": "¿Por qué la elección de representantes es una forma de dar legitimidad al poder? Relacioná las fuentes de legitimidad de la clase 1 con el voto de la clase 2.",
+   "ci1|ci3": "¿Qué relación hay entre la legitimidad de la clase 1 y los ritos de la clase 3? ¿Por qué la asunción de una autoridad ayuda a que su poder se acepte?",
+   "ci2|ci3": "¿Por qué para votar bien informado hace falta distinguir un hecho de una opinión en los medios?",
+   "ci1|ci4": "¿Qué relación hay entre los actores de la sociedad civil de la clase 1 y los movimientos sociales y medios comunitarios de la clase 4?",
+   "ci2|ci4": "La clase 2 explica la democracia representativa. ¿Cómo la completan la iniciativa popular, la consulta y la audiencia pública de la clase 4?",
+   "ci3|ci4": "¿Por qué para participar en una audiencia pública o una consulta hace falta distinguir hecho y opinión, como en la clase 3?",
+   "ci1|ci5": "¿Por qué las normas de tránsito son una decisión pública, en el sentido de la clase 1?",
+   "ci2|ci5": "En Santa Fe, a los 18 años el voto pasa a ser obligatorio y se puede sacar la licencia de conducir. ¿Qué responsabilidades trae cada uno de esos derechos?",
+   "ci3|ci5": "¿Qué tienen en común un símbolo de la clase 3 y una señal de tránsito? ¿Por qué los dos funcionan si todos los reconocen?",
+   "ci4|ci5": "¿Qué forma de participación de la clase 4 podría usar tu comunidad para tener una calle más segura?"
+  },
+  "individual": {
+   "ci1": [
+    "¿Qué relación hay entre los intereses de los actores y la necesidad de que el poder sea legítimo?",
+    "¿Por qué repartir el poder en tres poderes ayuda a que se escuchen distintos intereses?",
+    "¿En qué se parece el poder en la escuela al poder en el Estado?"
+   ],
+   "ci2": [
+    "¿Por qué ampliar el voto cambió quiénes son los representantes?",
+    "¿Qué relación hay entre el voto secreto y la libertad de elegir?",
+    "¿Cómo se complementan el voto y la ciudadanía activa?"
+   ],
+   "ci3": [
+    "¿Qué tienen en común un símbolo y un rito?",
+    "¿Por qué un símbolo necesita que el grupo lo reconozca para funcionar?",
+    "¿Cómo influyen las elecciones de un medio en lo que pensamos sobre un hecho?"
+   ],
+   "ci4": [
+    "¿Qué diferencia hay entre participar por medio de representantes y participar directamente?",
+    "¿Por qué hay temas excluidos de la iniciativa popular?",
+    "¿Por qué un país que integra un organismo supraestatal sigue siendo independiente?"
+   ],
+   "ci5": [
+    "¿Por qué el tránsito es un tema de ciudadanía?",
+    "¿Qué tienen en común las normas de tránsito y las normas de convivencia de la escuela?",
+    "¿Qué diferencia hay entre una decisión personal y una colectiva para cuidar en el tránsito?"
+   ]
+  },
+  "generales": [
+   "¿Qué tienen en común las decisiones de tu escuela y las del Estado?",
+   "¿Qué ejemplo de un tema ayuda a entender el otro?"
+  ],
+  "referencia": "Texto que relaciona los contenidos elegidos con ejemplos de causas, relaciones y complementos.",
+  "minPalabras": 60,
+  "modelo": "Los temas de mi trabajo se relacionan entre sí. Por ejemplo, …… y …… se conectan porque …….\n\nTambién, …… ayuda a entender …… porque …….",
+  "modelo_uno": "Las partes de este tema se relacionan entre sí. Primero ……, y eso lleva a ……. Por eso, …….\n\nTambién, …… se conecta con …… porque ……."
+ },
+ "realidad": {
+  "intro": "Relacionar con la realidad es mostrar dónde aparece lo que estudiaste en tu vida diaria. Para cada contenido que elegiste tenés una pregunta y algunas ideas: elegí un ejemplo concreto de tu escuela, tu barrio o tu localidad.",
+  "por_contenido": {
+   "ci1": {
+    "pregunta": "¿Dónde ves, en tu escuela o en tu localidad, una decisión pública con distintos actores e intereses?",
+    "ideas": [
+     "Las normas de convivencia de la escuela y quién las decide.",
+     "Un arreglo pedido por vecinos y vecinas a la comuna o al municipio.",
+     "Un club o una cooperadora que organiza algo para el pueblo."
+    ]
+   },
+   "ci2": {
+    "pregunta": "¿Dónde ves, cerca tuyo, el voto o la participación de los jóvenes?",
+    "ideas": [
+     "La elección de delegados o delegadas de curso.",
+     "Un centro de estudiantes o la idea de armar uno.",
+     "Jóvenes de 16 y 17 años que figuran en el padrón de tu localidad."
+    ]
+   },
+   "ci3": {
+    "pregunta": "¿Dónde ves, cerca tuyo, símbolos, ritos o noticias que cuentan la política?",
+    "ideas": [
+     "El acto del 20 de junio en tu escuela.",
+     "Los símbolos de tu escuela o de tu localidad.",
+     "Dos noticias sobre el mismo hecho de tu localidad en medios distintos."
+    ]
+   },
+   "ci4": {
+    "pregunta": "¿Qué forma de participación ves cerca tuyo?",
+    "ideas": [
+     "El centro de estudiantes de tu escuela.",
+     "Una radio comunitaria o un club de tu localidad.",
+     "Una nota de vecinos y vecinas al municipio o la comuna."
+    ]
+   },
+   "ci5": {
+    "pregunta": "¿Qué ayuda y qué falta para circular seguro en tu localidad?",
+    "ideas": [
+     "La esquina de tu escuela: ¿hay senda peatonal y semáforo?",
+     "Si hay bicisendas en tu localidad.",
+     "Qué podría pedir el centro de estudiantes al municipio o la comuna."
+    ]
+   }
+  }
+ },
+ "conclusion": {
+  "instruccion": "Escribí la conclusión de tu trabajo: contá qué aprendiste, qué idea une a los temas que estudiaste y por qué es importante conocerlos.",
+  "guia": [
+   "¿Qué es lo más importante que aprendiste?",
+   "¿Qué idea une a todos tus temas?",
+   "¿Por qué sirve conocer cómo se toman las decisiones comunes?",
+   "¿Qué te gustaría que recuerde quien escucha tu trabajo?"
+  ],
+  "claves": [],
+  "referencia": "Aprendizajes, idea que une los temas e importancia para la participación.",
+  "minPalabras": 35,
+  "modelo": "Con este trabajo aprendí que ……. La idea que une todos los temas es ……, porque …….\n\nConocer cómo se toman las decisiones comunes sirve para ……. Lo que más me gustaría que recuerden de mi trabajo es ……."
+ },
+ "preguntas": [
+  {
+   "id": "q-ci1-1",
+   "contenido": "ci1",
+   "nivel": "Básica",
+   "pregunta": "¿Qué diferencia hay entre una decisión privada y una pública? Poné un ejemplo de cada una.",
+   "orientacion": "La privada la toma cada persona sobre su vida, como elegir qué ropa ponerse. La pública afecta a una comunidad, como arreglar la luz de una plaza, y por eso participan varios actores."
+  },
+  {
+   "id": "q-ci1-2",
+   "contenido": "ci1",
+   "nivel": "Media",
+   "pregunta": "¿Qué es la legitimidad? Explicá las tres fuentes que distinguió Max Weber.",
+   "orientacion": "Es la aceptación de un poder porque se lo reconoce como válido. Tradición: siempre fue así. Carisma: admiración por las cualidades de una persona. Reglas: se llegó al cargo por un camino que fijan las normas, como una elección."
+  },
+  {
+   "id": "q-ci1-3",
+   "contenido": "ci1",
+   "nivel": "Media",
+   "pregunta": "¿Qué hace cada uno de los tres poderes del Estado nacional?",
+   "orientacion": "El Legislativo (Congreso) sanciona las leyes, el Ejecutivo (presidente o presidenta) gobierna y las hace cumplir, y el Judicial resuelve conflictos aplicándolas. Repartir el poder evita que quede concentrado."
+  },
+  {
+   "id": "q-ci1-4",
+   "contenido": "ci1",
+   "nivel": "Integradora",
+   "pregunta": "¿Por qué se puede decir que en la escuela también hay poder?",
+   "orientacion": "Porque hay personas que deciden, reglas que se siguen y razones por las que esas decisiones se aceptan, igual que en el Estado. Conviene dar un ejemplo concreto, como las normas de convivencia."
+  },
+  {
+   "id": "q-ci2-1",
+   "contenido": "ci2",
+   "nivel": "Básica",
+   "pregunta": "¿Qué estableció la Ley Sáenz Peña y a quiénes dejaba afuera?",
+   "orientacion": "En 1912 estableció el voto secreto y obligatorio para los varones argentinos nativos mayores de 18 años. Dejaba afuera a las mujeres, que votaron por primera vez en 1951."
+  },
+  {
+   "id": "q-ci2-2",
+   "contenido": "ci2",
+   "nivel": "Media",
+   "pregunta": "¿Qué es una democracia representativa?",
+   "orientacion": "La ciudadanía elige con su voto a representantes que deciden por un tiempo fijo. Lo dice el artículo 22: el pueblo no delibera ni gobierna sino por medio de sus representantes."
+  },
+  {
+   "id": "q-ci2-3",
+   "contenido": "ci2",
+   "nivel": "Media",
+   "pregunta": "¿Cómo es el voto a los 16 y 17 años y en qué se diferencia del voto desde los 18?",
+   "orientacion": "Desde la Ley 26.774, las personas argentinas nativas o por opción pueden votar desde los 16 si figuran en el padrón. A los 16 y 17 es optativo, sin sanción; desde los 18 es obligatorio."
+  },
+  {
+   "id": "q-ci2-4",
+   "contenido": "ci2",
+   "nivel": "Integradora",
+   "pregunta": "¿Qué es la ciudadanía activa y por qué no alcanza con votar?",
+   "orientacion": "Es participar en lo común también fuera de las elecciones: en un centro de estudiantes, un club o una organización del barrio. El voto elige a quienes deciden; la participación permite proponer y controlar entre una elección y otra."
+  },
+  {
+   "id": "q-ci3-1",
+   "contenido": "ci3",
+   "nivel": "Básica",
+   "pregunta": "¿Cuáles son los símbolos nacionales y qué norma los establece?",
+   "orientacion": "La bandera, el escudo y el himno, según el Decreto 10.302 de 1944. La escarapela forma parte de la identidad patria, pero no es estrictamente un símbolo nacional."
+  },
+  {
+   "id": "q-ci3-2",
+   "contenido": "ci3",
+   "nivel": "Media",
+   "pregunta": "¿Qué significan las partes del escudo?",
+   "orientacion": "Las manos, la unión de los pueblos; el gorro frigio, la libertad; la pica, la decisión de defenderla; el sol naciente, una nueva Nación; los laureles, la victoria."
+  },
+  {
+   "id": "q-ci3-3",
+   "contenido": "ci3",
+   "nivel": "Media",
+   "pregunta": "¿Qué es un rito? Dá un ejemplo escolar y uno de la vida política.",
+   "orientacion": "Una práctica que se repite con pasos fijos y un significado compartido. Por ejemplo, el acto escolar del 20 de junio y la asunción presidencial."
+  },
+  {
+   "id": "q-ci3-4",
+   "contenido": "ci3",
+   "nivel": "Integradora",
+   "pregunta": "¿Por qué dos medios pueden contar distinto el mismo hecho?",
+   "orientacion": "Porque eligen titular, foto, palabras y a quién citar. Para leerlos bien hay que comparar y separar el hecho, que se comprueba, de la opinión."
+  },
+  {
+   "id": "q-ci4-1",
+   "contenido": "ci4",
+   "nivel": "Básica",
+   "pregunta": "¿Qué formas de participar reconoce la Constitución Nacional, además de votar?",
+   "orientacion": "Peticionar a las autoridades y asociarse (art. 14), los partidos políticos (art. 38), la iniciativa popular (art. 39) y la consulta popular (art. 40)."
+  },
+  {
+   "id": "q-ci4-2",
+   "contenido": "ci4",
+   "nivel": "Media",
+   "pregunta": "¿Qué diferencia hay entre referéndum y consulta popular en la Constitución de Santa Fe?",
+   "orientacion": "En el referéndum el voto es obligatorio y el resultado obliga; en la consulta el voto es optativo y el resultado no obliga."
+  },
+  {
+   "id": "q-ci4-3",
+   "contenido": "ci4",
+   "nivel": "Media",
+   "pregunta": "¿Qué es un organismo supraestatal? Dá un ejemplo regional y uno mundial.",
+   "orientacion": "Una organización de varios Estados con objetivos y reglas comunes. Regional: el MERCOSUR (1991, comercio). Mundial: la ONU (1945, paz y derechos humanos)."
+  },
+  {
+   "id": "q-ci4-4",
+   "contenido": "ci4",
+   "nivel": "Integradora",
+   "pregunta": "¿Por qué se dice que la participación va de lo local a lo global?",
+   "orientacion": "Porque se participa en el barrio y la escuela (asociarse, peticionar, medios comunitarios), en la provincia (audiencias, referéndum) y en el país, que a su vez se organiza con otros Estados en organismos supraestatales."
+  },
+  {
+   "id": "q-ci5-1",
+   "contenido": "ci5",
+   "nivel": "Básica",
+   "pregunta": "¿Qué es el espacio público y quiénes lo comparten en el tránsito?",
+   "orientacion": "Calles, veredas, plazas y rutas que usamos todos. Lo comparten peatones, ciclistas, motociclistas y conductores."
+  },
+  {
+   "id": "q-ci5-2",
+   "contenido": "ci5",
+   "nivel": "Media",
+   "pregunta": "¿Qué relación hay entre la Ley Nacional de Tránsito y la ley de Santa Fe? ¿Desde qué edad se saca la licencia en la provincia?",
+   "orientacion": "Santa Fe adhiere a la Ley 24.449 con la Ley 13.133 y fija reglas propias: 18 años para cualquier licencia, aunque la ley nacional permite desde los 16 y 17."
+  },
+  {
+   "id": "q-ci5-3",
+   "contenido": "ci5",
+   "nivel": "Media",
+   "pregunta": "¿Qué es el alcohol cero y dónde rige?",
+   "orientacion": "La Ley 27.714, de 2023, prohíbe manejar con alcohol en sangre por encima de cero. Rige en las rutas nacionales; cada provincia decide si adhiere para las suyas."
+  },
+  {
+   "id": "q-ci5-4",
+   "contenido": "ci5",
+   "nivel": "Integradora",
+   "pregunta": "¿Por qué el tránsito es un tema de ciudadanía y no solo de manejo?",
+   "orientacion": "Porque es un espacio compartido donde las decisiones de cada persona afectan a las demás, y porque la comunidad puede participar, por ejemplo peticionando al municipio por una senda peatonal."
+  }
+ ]
+}

@@ -1,0 +1,1229 @@
+{
+  "id": "ciu-4-03",
+  "espacio": "ciudadania",
+  "eje": "Ciudadanía y participación política",
+  "titulo": "Símbolos, ritos y medios: cómo se comunica la política",
+  "intro": "La política no se hace solo con leyes y votos: también con símbolos que nos representan, ritos que repetimos y noticias que leemos. En esta clase vas a ver qué significan los símbolos nacionales, para qué sirven los ritos y cómo los medios cuentan lo que pasa.",
+  "tp_aporte": "Para tu trabajo práctico ya tenés: qué son los símbolos nacionales y qué significa cada parte del escudo, qué es un rito y para qué sirve, qué es una ideología y cómo distinguir un hecho de una opinión en los medios.",
+  "sugerencias_asistente": [
+    "¿Qué es un símbolo?",
+    "¿Qué es un rito?",
+    "¿Qué diferencia hay entre un hecho y una opinión?"
+  ],
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "Los símbolos: lo que representa a una comunidad",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "ejemplo",
+          "titulo": "Pensalo así: la camiseta del club",
+          "texto": "Una camiseta es una tela con colores. Pero cuando alguien se pone la de su club, no está mostrando solo una tela: está diciendo a qué grupo pertenece. Eso es un **símbolo**: algo que se ve o se escucha y que representa otra cosa, que todo el grupo reconoce."
+        },
+        {
+          "t": "texto",
+          "titulo": "Los símbolos nacionales",
+          "texto": "Las comunidades políticas también tienen símbolos. En la Argentina, los **símbolos nacionales** son la **bandera**, el **escudo** y el **himno**. Así lo establece el **Decreto 10.302** de 1944, que también fijó cómo tiene que ser cada uno, para que no se reprodujeran con cambios.\n\nLa **escarapela** forma parte de la identidad patria, pero según el gobierno nacional no es, en sentido estricto, un símbolo nacional."
+        },
+        {
+          "t": "fichas",
+          "titulo": "Los tres símbolos nacionales",
+          "rotulos": [
+            "Cuándo nace",
+            "Un dato"
+          ],
+          "items": [
+            {
+              "titulo": "Bandera",
+              "filas": [
+                "El 27 de febrero de 1812 Manuel Belgrano la izó por primera vez en Rosario, a orillas del Paraná.",
+                "El Congreso de Tucumán consagró sus colores, celeste y blanco, en 1816."
+              ]
+            },
+            {
+              "titulo": "Escudo",
+              "filas": [
+                "La Asamblea del Año XIII lo usó como sello. El 12 de marzo de 1813 se lo reconoció como escudo.",
+                "El Decreto 10.302 de 1944 fijó su diseño como modelo que no se puede cambiar."
+              ]
+            },
+            {
+              "titulo": "Himno",
+              "filas": [
+                "La Asamblea del Año XIII lo aprobó el 11 de mayo de 1813.",
+                "La letra es de Vicente López y Planes y la música, de Blas Parera."
+              ]
+            }
+          ]
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "foto",
+          "src": "img/clases/ciu-4-03-monumento.webp",
+          "animacion": "subir",
+          "alt": "Fotografía del Monumento Nacional a la Bandera, en Rosario: una torre alta de piedra con estatuas en la base. En la vereda camina gente.",
+          "epigrafe": "Monumento Nacional a la Bandera, en Rosario, a orillas del Paraná, donde Belgrano izó la bandera por primera vez en 1812.",
+          "fuente": "César Pérez (2020), CC BY-SA 4.0, vía Wikimedia Commons"
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá el dato: ¿en qué ciudad izó Belgrano la bandera por primera vez?",
+          "respuesta": "Rosario",
+          "acepta": [
+            "rosario"
+          ],
+          "formato": "Escribí solo el nombre de la ciudad.",
+          "explicacion": "Fue en Rosario, el 27 de febrero de 1812. Por eso ahí está el Monumento Nacional a la Bandera.",
+          "pista1": "Buscalo en la ficha de la bandera.",
+          "pista": "Es una ciudad de Santa Fe. Empieza con R."
+        },
+        {
+          "t": "texto",
+          "titulo": "Qué dice el escudo",
+          "texto": "Cada parte del escudo tiene un significado. Según la página oficial del gobierno nacional:\n\n**Las manos** que se estrechan representan la unión de los pueblos de las Provincias Unidas del Río de la Plata.\n\n**El gorro frigio**, rojo, es un antiguo emblema de libertad. **La pica**, la lanza que lo sostiene, muestra la decisión de defender esa libertad, si fuera necesario, con las armas.\n\n**El sol**, en posición de naciente, anuncia la aparición de una nueva Nación. **Los laureles** que rodean el óvalo simbolizan la victoria y el triunfo."
+        },
+        {
+          "t": "tocar",
+          "svg": "img/clases/ciu-4-03-escudo.svg",
+          "vista": "170 0 2160 3507",
+          "escala": 9,
+          "consigna": "En el escudo hay cinco puntos marcados. Leé cada pregunta y tocá el punto que corresponde. Si no te acordás, releé el texto de arriba.",
+          "alt": "Escudo Nacional argentino: un óvalo celeste arriba y blanco abajo, con dos manos que se estrechan y sostienen una pica con un gorro rojo en la punta. Arriba, un sol con cara. Alrededor, ramas de laurel unidas abajo por una cinta celeste y blanca. Hay cinco puntos para tocar.",
+          "fuente": "Escudo Nacional (1813), dominio público. Dibujo vectorial: Dexxter, vía Wikimedia Commons. Recortado para esta clase.",
+          "puntos": [
+            {
+              "id": "sol",
+              "x": 1253,
+              "y": 640,
+              "nombre": "Sol",
+              "articulo": "el sol"
+            },
+            {
+              "id": "gorro",
+              "x": 1265,
+              "y": 1330,
+              "nombre": "Gorro frigio",
+              "articulo": "el gorro frigio"
+            },
+            {
+              "id": "pica",
+              "x": 1257,
+              "y": 2120,
+              "nombre": "Pica",
+              "articulo": "la pica"
+            },
+            {
+              "id": "manos",
+              "x": 1180,
+              "y": 2460,
+              "nombre": "Manos",
+              "articulo": "las manos"
+            },
+            {
+              "id": "laureles",
+              "x": 330,
+              "y": 1850,
+              "nombre": "Laureles",
+              "articulo": "los laureles"
+            }
+          ],
+          "preguntas": [
+            {
+              "pregunta": "Tocá el elemento que es un antiguo emblema de la libertad.",
+              "correcta": "gorro",
+              "explicacion": "El gorro frigio es un antiguo emblema de libertad.",
+              "pista": "Es rojo y está arriba de todo, dentro del óvalo."
+            },
+            {
+              "pregunta": "Tocá el elemento que representa la unión de los pueblos de las Provincias Unidas.",
+              "correcta": "manos",
+              "explicacion": "Los dos antebrazos que se estrechan las manos representan esa unión.",
+              "pista": "Buscá un gesto que hacen dos personas cuando se saludan o hacen un acuerdo."
+            },
+            {
+              "pregunta": "Tocá el elemento que anuncia la aparición de una nueva Nación.",
+              "correcta": "sol",
+              "explicacion": "Es el sol en posición de naciente: anuncia que aparece una Nación nueva.",
+              "pista": "Pensá en algo que sale todas las mañanas."
+            },
+            {
+              "pregunta": "Tocá el elemento que simboliza la victoria y el triunfo.",
+              "correcta": "laureles",
+              "explicacion": "Las ramas de laurel rodean el óvalo y simbolizan victoria y triunfo.",
+              "pista": "Está alrededor de todo el óvalo."
+            },
+            {
+              "pregunta": "Tocá el elemento que muestra la decisión de sostener la libertad, si fuera necesario, con las armas.",
+              "correcta": "pica",
+              "explicacion": "La pica es una lanza: sostiene el gorro de la libertad.",
+              "pista": "Es el palo largo que sostiene el gorro."
+            }
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "Un **símbolo** representa algo que el grupo reconoce. Los **símbolos nacionales** son la bandera, el escudo y el himno (Decreto 10.302 de 1944). Cada parte del escudo tiene un significado: las manos, la unión; el gorro, la libertad; el sol, una nueva Nación."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada elemento es uno de los tres símbolos nacionales o es otro símbolo de identidad?",
+          "categorias": [
+            "Símbolo nacional",
+            "Otro símbolo de identidad"
+          ],
+          "items": [
+            {
+              "texto": "La bandera argentina",
+              "cat": "Símbolo nacional"
+            },
+            {
+              "texto": "El himno nacional",
+              "cat": "Símbolo nacional"
+            },
+            {
+              "texto": "El escudo nacional",
+              "cat": "Símbolo nacional"
+            },
+            {
+              "texto": "La escarapela",
+              "cat": "Otro símbolo de identidad"
+            },
+            {
+              "texto": "La camiseta de un club",
+              "cat": "Otro símbolo de identidad"
+            },
+            {
+              "texto": "El escudo de una escuela",
+              "cat": "Otro símbolo de identidad"
+            }
+          ],
+          "explicacion": "El Decreto 10.302 nombra tres símbolos nacionales. La escarapela, la camiseta de un club o el escudo de una escuela también representan a un grupo, pero no son símbolos nacionales."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "🔍 Encontrá el error. Una de estas frases no coincide con lo que viste en la parte. ¿Cuál es?",
+          "opciones": [
+            "El sol del escudo anuncia la aparición de una nueva Nación.",
+            "El himno se aprobó en 1813, en la Asamblea del Año XIII.",
+            "La escarapela es uno de los tres símbolos nacionales.",
+            "Belgrano izó la bandera por primera vez en Rosario."
+          ],
+          "correcta": 2,
+          "explicacion": "Los tres símbolos nacionales son la bandera, el escudo y el himno. La escarapela forma parte de la identidad patria, pero no es estrictamente un símbolo nacional.",
+          "pista": "Releé el texto de los símbolos nacionales: fijate cuáles nombra el decreto."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: una bandera es una tela. ¿Por qué mucha gente se molesta si alguien la tira al piso?",
+          "respuesta": "Porque no la ve como una tela, sino como algo que representa a toda la comunidad: su historia y a las personas que forman parte de ella. Lo que se hace con un símbolo se siente como algo que se le hace a lo que representa."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué es un símbolo y cuáles son los símbolos nacionales. Contá cuándo nació cada uno y explicá el significado de tres partes del escudo.",
+        "guia": [
+          "¿Qué es un símbolo? Poné un ejemplo de tu vida cotidiana.",
+          "¿Cuáles son los símbolos nacionales y qué norma los establece?",
+          "¿Cuándo y dónde nació cada uno?",
+          "¿Qué significan las manos, el gorro frigio y el sol del escudo?",
+          "¿Por qué la escarapela no está entre los tres símbolos nacionales?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "simbolo"
+            ],
+            "p": "qué es un símbolo"
+          },
+          {
+            "k": [
+              "bandera"
+            ],
+            "p": "la bandera"
+          },
+          {
+            "k": [
+              "escudo"
+            ],
+            "p": "el escudo"
+          },
+          {
+            "k": [
+              "himno"
+            ],
+            "p": "el himno"
+          },
+          {
+            "k": [
+              "10.302",
+              "10302",
+              "decreto"
+            ],
+            "p": "el Decreto 10.302"
+          },
+          {
+            "k": [
+              "gorro",
+              "manos",
+              "sol",
+              "laurel"
+            ],
+            "p": "el significado del escudo"
+          }
+        ],
+        "referencia": "Símbolo: algo que representa otra cosa que el grupo reconoce. Símbolos nacionales: bandera (Belgrano, Rosario, 27/2/1812), escudo (Asamblea del Año XIII, 12/3/1813) e himno (11/5/1813), según el Decreto 10.302/1944. Escudo: manos = unión; gorro = libertad; sol = nueva Nación; laureles = victoria.",
+        "minPalabras": 45
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Los símbolos nacionales son la bandera, el escudo y el himno.",
+          "respuesta": true,
+          "explicacion": "Así lo establece el Decreto 10.302 de 1944."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La escarapela es uno de los tres símbolos nacionales.",
+          "respuesta": false,
+          "explicacion": "Forma parte de la identidad patria, pero no es estrictamente un símbolo nacional."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Belgrano izó la bandera por primera vez en Rosario.",
+          "respuesta": true,
+          "explicacion": "Fue el 27 de febrero de 1812, a orillas del Paraná."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En el escudo, el gorro frigio representa la libertad.",
+          "respuesta": true,
+          "explicacion": "Es un antiguo emblema de libertad."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Las manos del escudo representan la victoria.",
+          "respuesta": false,
+          "explicacion": "Representan la unión de los pueblos. La victoria la simbolizan los laureles."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El himno se aprobó en 1944.",
+          "respuesta": false,
+          "explicacion": "Se aprobó en 1813. En 1944 el Decreto 10.302 fijó su versión oficial."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es un símbolo?",
+          "opciones": [
+            "Una ley que aprueba el Congreso de la Nación",
+            "Un objeto que solo se usa en los actos escolares",
+            "Algo que representa lo que un grupo reconoce",
+            "Una fecha que figura en el calendario escolar"
+          ],
+          "correcta": 2,
+          "explicacion": "Puede ser una imagen, un objeto o un sonido."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué norma establece los símbolos nacionales?",
+          "opciones": [
+            "El Decreto 10.302",
+            "La Ley 26.774/2012",
+            "La Ley 8.871/1912",
+            "La Ley 13.010/1947"
+          ],
+          "correcta": 0,
+          "explicacion": "Es de 1944."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué representa el sol del escudo?",
+          "opciones": [
+            "La victoria",
+            "La unión de las provincias",
+            "La libertad de las personas",
+            "Una Nación que nace"
+          ],
+          "correcta": 3,
+          "explicacion": "Está en posición de naciente."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quién escribió la letra del himno?",
+          "opciones": [
+            "Manuel Belgrano",
+            "Vicente López y Planes",
+            "Blas Parera, el músico",
+            "Juan Larrea, el diputado"
+          ],
+          "correcta": 1,
+          "explicacion": "La música es de Blas Parera."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué simbolizan los laureles del escudo?",
+          "opciones": [
+            "La libertad de las personas",
+            "La victoria y el triunfo",
+            "La unión de los pueblos",
+            "La aparición de una nueva Nación"
+          ],
+          "correcta": 1,
+          "explicacion": "Rodean el óvalo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué año se izó la bandera por primera vez?",
+          "opciones": [
+            "1813",
+            "1816",
+            "1944",
+            "1812"
+          ],
+          "correcta": 3,
+          "explicacion": "El 27 de febrero de 1812."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "SÍMBOLO",
+          "pista": "Algo que representa otra cosa que el grupo reconoce."
+        },
+        {
+          "palabra": "BANDERA",
+          "pista": "Símbolo nacional que Belgrano izó en Rosario en 1812."
+        },
+        {
+          "palabra": "ESCUDO",
+          "pista": "Símbolo nacional que nació como sello de la Asamblea del Año XIII."
+        },
+        {
+          "palabra": "HIMNO",
+          "pista": "Símbolo nacional que se canta; se aprobó en 1813."
+        },
+        {
+          "palabra": "GORRO FRIGIO",
+          "pista": "Parte del escudo que representa la libertad."
+        },
+        {
+          "palabra": "ROSARIO",
+          "pista": "Ciudad donde se izó la bandera por primera vez."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué la camiseta de un club es un símbolo?",
+          "opciones": [
+            "Porque representa a un grupo que la reconoce",
+            "Porque la establece el Decreto 10.302 de 1944",
+            "Porque se usa solamente en los actos escolares",
+            "Porque es uno de los tres símbolos nacionales"
+          ],
+          "correcta": 0,
+          "explicacion": "Un símbolo representa algo que el grupo reconoce."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué parte del escudo representa la unión de los pueblos?",
+          "opciones": [
+            "El sol",
+            "El gorro frigio rojo",
+            "Las manos",
+            "Los laureles del óvalo"
+          ],
+          "correcta": 2,
+          "explicacion": "Las manos de dos antebrazos que se estrechan."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Decreto 10.302 fijó cómo deben ser la bandera, el escudo y el himno.",
+          "respuesta": true,
+          "explicacion": "Así se evitan versiones con cambios."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Los ritos: celebrar y recordar juntos",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "ilustracion",
+          "src": "img/clases/ciu-4-03-acto.webp",
+          "animacion": "acercar",
+          "alt": "Ilustración de un acto escolar en el patio. Una estudiante abanderada, con banda celeste y blanca y guantes blancos, sostiene la bandera argentina con el sol. Detrás, estudiantes con uniforme y docentes de pie, en silencio.",
+          "epigrafe": "Ilustración elaborada para esta clase."
+        },
+        {
+          "t": "texto",
+          "titulo": "Qué es un rito",
+          "texto": "Un **rito** es una práctica que se repite siempre de la misma manera, con pasos que todos conocen y un significado compartido. En un acto escolar, por ejemplo, entra la bandera, se canta el himno y se escuchan unas palabras sobre la fecha que se recuerda. Nadie inventa el orden cada vez: ya está establecido.\n\nLa vida política también tiene ritos: la **asunción** de un presidente o una presidenta, que jura ante el Congreso; la jura de quienes ocupan un cargo; los actos de las **fechas patrias**. Los ritos sirven para recordar juntos y para mostrar que una comunidad comparte algo."
+        },
+        {
+          "t": "linea",
+          "titulo": "Las fechas de los símbolos",
+          "eventos": [
+            {
+              "anio": "1812",
+              "titulo": "18 de febrero: la escarapela",
+              "texto": "El gobierno aprueba una escarapela de color blanco y azul celeste."
+            },
+            {
+              "anio": "1812",
+              "titulo": "27 de febrero: la bandera",
+              "texto": "Belgrano la iza por primera vez en Rosario."
+            },
+            {
+              "anio": "1813",
+              "titulo": "12 de marzo: el escudo",
+              "texto": "Se reconoce como escudo el sello de la Asamblea del Año XIII."
+            },
+            {
+              "anio": "1813",
+              "titulo": "11 de mayo: el himno",
+              "texto": "La Asamblea del Año XIII lo aprueba."
+            },
+            {
+              "anio": "1816",
+              "titulo": "Los colores de la bandera",
+              "texto": "El Congreso de Tucumán consagra el celeste y el blanco."
+            },
+            {
+              "anio": "1944",
+              "titulo": "Decreto 10.302",
+              "texto": "Fija cómo deben ser la bandera, el escudo y el himno."
+            }
+          ]
+        },
+        {
+          "t": "dato",
+          "titulo": "Por qué el 20 de junio",
+          "texto": "El Día de la Bandera no recuerda el día en que se izó por primera vez, sino el día en que murió Manuel Belgrano: el 20 de junio de 1820."
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená estos hechos del más antiguo al más reciente. Si no te acordás, buscalos en la línea de tiempo.",
+          "items": [
+            "Se aprueba la escarapela",
+            "Belgrano iza la bandera en Rosario",
+            "Se reconoce el escudo",
+            "Se aprueba el himno",
+            "El Congreso de Tucumán consagra los colores",
+            "Un decreto fija cómo deben ser los símbolos"
+          ],
+          "explicacion": "Primero la escarapela y la bandera (1812), después el escudo y el himno (1813), los colores en 1816 y el Decreto 10.302 en 1944.",
+          "pista": "Hay dos hechos de 1812 y dos de 1813: fijate en el día y el mes."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "Un **rito** es una práctica que se repite con pasos fijos y un significado compartido, como un acto escolar o una asunción presidencial. Los ritos sirven para **recordar juntos** y mostrar lo que una comunidad comparte."
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada fecha con lo que se recuerda ese día.",
+          "pares": [
+            {
+              "a": "12 de marzo",
+              "b": "Día del Escudo"
+            },
+            {
+              "a": "11 de mayo",
+              "b": "Día del Himno"
+            },
+            {
+              "a": "20 de junio",
+              "b": "Día de la Bandera"
+            },
+            {
+              "a": "27 de febrero",
+              "b": "La primera vez que se izó la bandera"
+            }
+          ],
+          "explicacion": "El 20 de junio recuerda la muerte de Belgrano, no la creación de la bandera.",
+          "pista": "Usá la línea de tiempo y el recuadro sobre el 20 de junio."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "🗣️ Esta frase está inventada: \"Siempre empezamos el acto con la entrada de la bandera y el himno, porque así se hace\". ¿De qué habla quien la dice?",
+          "opciones": [
+            "De un rito",
+            "De una ley",
+            "De una opinión",
+            "De una ideología"
+          ],
+          "correcta": 0,
+          "explicacion": "Habla de una práctica que se repite con pasos fijos y que todos conocen: un rito.",
+          "pista": "Releé qué es un rito: fijate en las palabras \"siempre\" y \"así se hace\"."
+        },
+        {
+          "t": "vf",
+          "consigna": "Decidí si cada afirmación es verdadera o falsa.",
+          "afirmaciones": [
+            {
+              "texto": "La asunción de un presidente o una presidenta es un rito de la vida política.",
+              "v": true,
+              "explicacion": "Se repite con pasos fijos: por ejemplo, el juramento ante el Congreso."
+            },
+            {
+              "texto": "El Día de la Bandera recuerda el día en que se izó por primera vez.",
+              "v": false,
+              "explicacion": "Recuerda la muerte de Belgrano, el 20 de junio de 1820."
+            },
+            {
+              "texto": "En un rito, el orden de los pasos se inventa cada vez.",
+              "v": false,
+              "explicacion": "El orden ya está establecido y todos lo conocen."
+            },
+            {
+              "texto": "Los ritos ayudan a una comunidad a recordar juntos.",
+              "v": true,
+              "explicacion": "Muestran lo que esa comunidad comparte."
+            }
+          ]
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿qué ritos hay en tu escuela, aparte de los actos?",
+          "respuesta": "Por ejemplo, izar y arriar la bandera, la entrega de diplomas, la elección del centro de estudiantes o la despedida de quinto año. Todos se repiten con pasos que la comunidad conoce y tienen un significado compartido."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué es un rito y para qué sirve. Describí los pasos de un acto escolar y nombrá dos ritos de la vida política. Agregá qué se recuerda el 20 de junio.",
+        "guia": [
+          "¿Qué es un rito?",
+          "¿Qué pasos tiene un acto escolar?",
+          "¿Qué ritos hay en la vida política?",
+          "¿Para qué sirven los ritos en una comunidad?",
+          "¿Qué se recuerda el 20 de junio y por qué?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "rito"
+            ],
+            "p": "qué es un rito"
+          },
+          {
+            "k": [
+              "acto"
+            ],
+            "p": "el acto escolar"
+          },
+          {
+            "k": [
+              "asuncion",
+              "jura"
+            ],
+            "p": "los ritos de la vida política"
+          },
+          {
+            "k": [
+              "recordar",
+              "compart"
+            ],
+            "p": "para qué sirven"
+          },
+          {
+            "k": [
+              "belgrano",
+              "20 de junio"
+            ],
+            "p": "el 20 de junio"
+          }
+        ],
+        "referencia": "Rito: práctica que se repite con pasos fijos y significado compartido. Acto escolar: entrada de la bandera, himno, palabras alusivas. Ritos políticos: asunción y jura, actos de fechas patrias. Sirven para recordar juntos. El 20 de junio recuerda la muerte de Belgrano (1820).",
+        "minPalabras": 40
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Un rito es una práctica que se repite con pasos fijos.",
+          "respuesta": true,
+          "explicacion": "Y con un significado compartido."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Día de la Bandera recuerda la muerte de Belgrano.",
+          "respuesta": true,
+          "explicacion": "Belgrano murió el 20 de junio de 1820."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La escarapela se aprobó en 1816.",
+          "respuesta": false,
+          "explicacion": "Se aprobó el 18 de febrero de 1812."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La asunción presidencial es un rito de la vida política.",
+          "respuesta": true,
+          "explicacion": "Incluye el juramento ante el Congreso."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El himno se aprobó el 12 de marzo de 1813.",
+          "respuesta": false,
+          "explicacion": "Se aprobó el 11 de mayo. El 12 de marzo es el Día del Escudo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Congreso de Tucumán consagró los colores de la bandera en 1816.",
+          "respuesta": true,
+          "explicacion": "El celeste y el blanco."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué se recuerda el 11 de mayo?",
+          "opciones": [
+            "El Día del Himno",
+            "El Día del Escudo",
+            "El Día de la Bandera",
+            "La primera bandera"
+          ],
+          "correcta": 0,
+          "explicacion": "La Asamblea del Año XIII aprobó el himno ese día."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es un rito?",
+          "opciones": [
+            "Una ley que establece cuáles son los símbolos de un país",
+            "Una noticia que publican los medios el día de una fecha patria",
+            "Una opinión sobre la historia que cada persona elige tener",
+            "Una práctica que se repite con pasos fijos y que todos comparten"
+          ],
+          "correcta": 3,
+          "explicacion": "Como un acto escolar."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué día es el Día del Escudo?",
+          "opciones": [
+            "El 11 de mayo",
+            "El 12 de marzo",
+            "El 20 de junio",
+            "El 27 de febrero"
+          ],
+          "correcta": 1,
+          "explicacion": "En 1813 se reconoció el sello como escudo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estos es un rito de la vida política?",
+          "opciones": [
+            "Una charla entre amigos",
+            "La asunción presidencial",
+            "Una compra en un negocio",
+            "Una tarea de Matemática"
+          ],
+          "correcta": 1,
+          "explicacion": "Se repite con pasos fijos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué se aprobó primero?",
+          "opciones": [
+            "El escudo",
+            "El himno",
+            "El Decreto 10.302",
+            "La escarapela"
+          ],
+          "correcta": 3,
+          "explicacion": "El 18 de febrero de 1812."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Para qué sirven los ritos?",
+          "opciones": [
+            "Para recordar juntos lo que se comparte",
+            "Para cambiar las leyes de un país cada año",
+            "Para elegir a los representantes del pueblo",
+            "Para decidir el presupuesto de una escuela"
+          ],
+          "correcta": 0,
+          "explicacion": "Unen a una comunidad alrededor de un significado."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "RITO",
+          "pista": "Práctica que se repite con pasos fijos y un significado compartido."
+        },
+        {
+          "palabra": "ASUNCIÓN",
+          "pista": "Rito en el que un presidente o una presidenta jura ante el Congreso."
+        },
+        {
+          "palabra": "ESCARAPELA",
+          "pista": "Se aprobó el 18 de febrero de 1812."
+        },
+        {
+          "palabra": "BELGRANO",
+          "pista": "Murió el 20 de junio de 1820; ese día es el Día de la Bandera."
+        },
+        {
+          "palabra": "TUCUMÁN",
+          "pista": "Su Congreso consagró los colores de la bandera en 1816."
+        },
+        {
+          "palabra": "ACTO",
+          "pista": "Rito escolar con bandera, himno y palabras sobre una fecha."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué un acto escolar es un rito?",
+          "opciones": [
+            "Porque lo manda una ley",
+            "Porque cada vez se inventa un orden distinto para que no aburra",
+            "Porque se repite con pasos que todos conocen",
+            "Porque solo se hace una vez en la historia de cada escuela"
+          ],
+          "correcta": 2,
+          "explicacion": "Entrada de la bandera, himno, palabras: siempre en el mismo orden."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué se recuerda el 20 de junio?",
+          "opciones": [
+            "La primera bandera",
+            "La aprobación del himno",
+            "La muerte de Belgrano",
+            "La escarapela"
+          ],
+          "correcta": 2,
+          "explicacion": "Belgrano murió el 20 de junio de 1820."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La línea de tiempo muestra que el escudo y el himno nacieron el mismo año.",
+          "respuesta": true,
+          "explicacion": "Los dos son de 1813."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Ideas y medios: cómo se cuenta la política",
+      "tiempo": "35 a 45 min",
+      "bloques": [
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "ilustracion",
+          "src": "img/clases/ciu-4-03-noticias.webp",
+          "animacion": "alejar",
+          "alt": "Ilustración de Ana y Tomás sentados en el patio de la escuela, mirando juntos la pantalla de un celular. Ana señala algo con el dedo.",
+          "epigrafe": "Ilustración elaborada para esta clase."
+        },
+        {
+          "t": "texto",
+          "titulo": "Las ideologías",
+          "texto": "Una **ideología** es un conjunto de ideas sobre cómo debería organizarse la sociedad. Las ideologías responden de distinta manera a preguntas como estas: ¿cuánto tiene que intervenir el Estado en la economía? ¿Qué es más importante cuidar cuando dos derechos chocan?\n\nPor ejemplo, ante la primera pregunta, **quienes sostienen** que el Estado tiene que intervenir más dicen que así se reducen las desigualdades. **Quienes sostienen** que tiene que intervenir menos dicen que así las personas y las empresas tienen más libertad para decidir. Una ideología no es un partido: un partido es una organización, y varias personas de partidos distintos pueden compartir algunas ideas."
+        },
+        {
+          "t": "texto",
+          "titulo": "Los medios también cuentan",
+          "texto": "La mayoría de las personas se entera de lo que pasa en la política por los **medios de comunicación**: diarios, radios, canales y redes. Pero un medio no muestra todo: **elige** qué contar, con qué palabras, qué foto poner y a quién citar. Esas elecciones forman el **discurso mediático**.\n\nPor eso conviene distinguir un **hecho**, que se puede comprobar (\"el municipio cerró la calle\"), de una **opinión**, que expresa lo que alguien piensa (\"fue una gran idea\")."
+        },
+        {
+          "t": "comparar",
+          "titulo": "El mismo hecho, contado por dos medios (caso inventado)",
+          "columnas": [
+            "",
+            "Medio A",
+            "Medio B"
+          ],
+          "filas": [
+            [
+              "El hecho",
+              "El municipio cerró una calle del centro para hacer una peatonal",
+              "El municipio cerró una calle del centro para hacer una peatonal"
+            ],
+            [
+              "El titular",
+              "\"Nace la nueva peatonal: más espacio para caminar\"",
+              "\"Comercios preocupados por el cierre de la calle\""
+            ],
+            [
+              "La foto",
+              "Familias paseando por la calle sin autos",
+              "Un local con la persiana baja"
+            ],
+            [
+              "A quién cita",
+              "A una vecina que camina por ahí",
+              "A un comerciante de la cuadra"
+            ]
+          ]
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada frase es un hecho que se puede comprobar o una opinión?",
+          "categorias": [
+            "Hecho",
+            "Opinión"
+          ],
+          "items": [
+            {
+              "texto": "El municipio cerró la calle el lunes",
+              "cat": "Hecho"
+            },
+            {
+              "texto": "La peatonal mide tres cuadras",
+              "cat": "Hecho"
+            },
+            {
+              "texto": "Cinco comercios pidieron una reunión con el municipio",
+              "cat": "Hecho"
+            },
+            {
+              "texto": "La peatonal es lo mejor que le pasó al centro",
+              "cat": "Opinión"
+            },
+            {
+              "texto": "Cerrar la calle fue un error",
+              "cat": "Opinión"
+            },
+            {
+              "texto": "El centro quedó mucho más lindo",
+              "cat": "Opinión"
+            }
+          ],
+          "explicacion": "Un hecho se puede comprobar: una fecha, una medida, una cantidad. Una opinión dice lo que alguien piensa o siente sobre ese hecho."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "Una **ideología** es un conjunto de ideas sobre cómo organizar la sociedad. Los **medios** eligen qué contar, con qué palabras, qué foto y a quién citar. Para leerlos bien, hay que separar el **hecho**, que se puede comprobar, de la **opinión**."
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá el texto con las palabras que faltan.",
+          "texto": "Los dos medios cuentan el mismo [[hecho]]: el cierre de la calle. Pero eligen un [[titular]] distinto, una foto distinta y citan a personas distintas. Para formarte tu propia [[opinión]], conviene comparar más de un [[medio]].",
+          "distractores": [],
+          "explicacion": "Comparar medios ayuda a ver qué parte es el hecho y qué parte es la mirada de cada uno.",
+          "pista": "Mirá las filas de la tabla de los dos medios."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "Te llega una noticia y querés saber si es confiable. ¿Qué conviene preguntarse primero?",
+          "opciones": [
+            "Cuántas personas la compartieron ya",
+            "Si el titular está escrito en mayúsculas",
+            "Si la mandó alguien del grupo de amigos",
+            "Quién la publica y en qué datos se basa"
+          ],
+          "correcta": 3,
+          "explicacion": "Que muchas personas la compartan no la hace verdadera. Lo que importa es quién la publica y si da datos que se pueden comprobar.",
+          "pista": "Pensá en la diferencia entre un hecho y una opinión: ¿qué se puede comprobar?"
+        },
+        {
+          "t": "dilema",
+          "titulo": "Una noticia en el grupo",
+          "situacion": "Esta situación es inventada. En el grupo del curso alguien comparte una captura que dice que el municipio va a cerrar el club del barrio. No tiene fecha ni dice de dónde salió. Varios ya están enojados.",
+          "opciones": [
+            {
+              "texto": "La reenvío a todos mis contactos para que se enteren rápido.",
+              "consecuencia": "Si la noticia es falsa, ayudaste a que se difunda y a que más gente se enoje por algo que no pasó.",
+              "adecuada": false
+            },
+            {
+              "texto": "Busco si algún medio o la página del municipio dice lo mismo antes de compartirla.",
+              "consecuencia": "Comprobar de dónde sale y si otras fuentes lo confirman es lo que permite saber si es un hecho o un rumor.",
+              "adecuada": true
+            },
+            {
+              "texto": "Escribo en el grupo que es mentira, sin revisar nada.",
+              "consecuencia": "Tampoco sabés si es falsa: negar sin comprobar es otra forma de opinar sin datos.",
+              "adecuada": false
+            }
+          ],
+          "cierre": "Antes de compartir una noticia, conviene preguntarse quién la publica, cuándo y en qué datos se basa, y buscar si otras fuentes dicen lo mismo."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: si dos medios cuentan distinto el mismo hecho, ¿significa que uno de los dos miente?",
+          "respuesta": "No necesariamente. Pueden contar el mismo hecho y elegir distintas fotos, palabras y personas para citar. Esas elecciones muestran una mirada. Por eso conviene comparar varios medios y quedarse con lo que se puede comprobar."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué es una ideología y qué es el discurso mediático. Con el caso de la peatonal, mostrá cómo dos medios pueden contar distinto el mismo hecho, y explicá la diferencia entre un hecho y una opinión.",
+        "guia": [
+          "¿Qué es una ideología? ¿En qué se diferencia de un partido?",
+          "¿Qué eligen los medios cuando cuentan una noticia?",
+          "¿Qué diferencias hay entre el medio A y el medio B en el caso de la peatonal?",
+          "¿Qué diferencia hay entre un hecho y una opinión? Poné un ejemplo de cada uno.",
+          "¿Qué conviene hacer antes de compartir una noticia?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "ideologia"
+            ],
+            "p": "qué es una ideología"
+          },
+          {
+            "k": [
+              "medio"
+            ],
+            "p": "los medios"
+          },
+          {
+            "k": [
+              "titular",
+              "foto",
+              "cita"
+            ],
+            "p": "lo que eligen los medios"
+          },
+          {
+            "k": [
+              "hecho"
+            ],
+            "p": "qué es un hecho"
+          },
+          {
+            "k": [
+              "opinion"
+            ],
+            "p": "qué es una opinión"
+          }
+        ],
+        "referencia": "Ideología: conjunto de ideas sobre cómo organizar la sociedad; un partido es una organización. Los medios eligen titular, palabras, foto y a quién citar (discurso mediático). Caso de la peatonal: mismo hecho, titulares y fotos distintos. Hecho: se comprueba; opinión: lo que alguien piensa. Antes de compartir: quién publica, cuándo, en qué datos se basa.",
+        "minPalabras": 50
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Una ideología es un conjunto de ideas sobre cómo organizar la sociedad.",
+          "respuesta": true,
+          "explicacion": "Responde a preguntas como cuánto debe intervenir el Estado."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Una ideología y un partido político son lo mismo.",
+          "respuesta": false,
+          "explicacion": "Un partido es una organización; una ideología es un conjunto de ideas."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los medios eligen qué foto poner y a quién citar.",
+          "respuesta": true,
+          "explicacion": "Esas elecciones forman el discurso mediático."
+        },
+        {
+          "tipo": "vf",
+          "texto": "\"La peatonal mide tres cuadras\" es una opinión.",
+          "respuesta": false,
+          "explicacion": "Es un hecho: se puede comprobar midiendo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Si muchas personas comparten una noticia, seguro es verdadera.",
+          "respuesta": false,
+          "explicacion": "Hay que ver quién la publica y en qué datos se basa."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Comparar varios medios ayuda a separar el hecho de la mirada de cada uno.",
+          "respuesta": true,
+          "explicacion": "Lo que coincide y se puede comprobar suele ser el hecho."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es un hecho?",
+          "opciones": [
+            "Lo que una persona siente hoy",
+            "Una idea sobre lo que vendrá",
+            "El titular de cualquier noticia",
+            "Algo que se puede comprobar"
+          ],
+          "correcta": 3,
+          "explicacion": "Una fecha, una medida o una cantidad."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estas frases es una opinión?",
+          "opciones": [
+            "El municipio cerró la calle",
+            "Cerrar la calle fue un error",
+            "La peatonal mide tres cuadras",
+            "El cierre fue el lunes"
+          ],
+          "correcta": 1,
+          "explicacion": "Dice lo que alguien piensa."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es el discurso mediático?",
+          "opciones": [
+            "La ley que regula a los medios del país",
+            "La forma en que un medio cuenta los hechos",
+            "El conjunto de ideas de un partido político",
+            "La lista de noticias más leídas del día"
+          ],
+          "correcta": 1,
+          "explicacion": "Incluye las palabras, la foto y las voces que elige."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué conviene hacer antes de compartir una noticia?",
+          "opciones": [
+            "Reenviarla rápido para que todos se enteren",
+            "Fijarse cuántas personas ya la compartieron",
+            "Esperar a que alguien del grupo la confirme",
+            "Revisar quién la publica y en qué se basa"
+          ],
+          "correcta": 3,
+          "explicacion": "Y buscar si otras fuentes dicen lo mismo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "En el caso de la peatonal, ¿qué tienen en común los dos medios?",
+          "opciones": [
+            "Cuentan el mismo hecho",
+            "Usan el mismo titular",
+            "Eligen la misma foto",
+            "Citan a la misma persona"
+          ],
+          "correcta": 0,
+          "explicacion": "Cambia la forma de contarlo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es una ideología?",
+          "opciones": [
+            "Una organización que presenta candidatos en las elecciones",
+            "Un medio de comunicación que publica noticias de política",
+            "Un conjunto de ideas sobre cómo organizar la sociedad",
+            "Una práctica que se repite con pasos fijos en cada acto"
+          ],
+          "correcta": 2,
+          "explicacion": "Distintas ideologías responden distinto a las mismas preguntas."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "IDEOLOGÍA",
+          "pista": "Conjunto de ideas sobre cómo debería organizarse la sociedad."
+        },
+        {
+          "palabra": "HECHO",
+          "pista": "Algo que se puede comprobar."
+        },
+        {
+          "palabra": "OPINIÓN",
+          "pista": "Lo que alguien piensa sobre un hecho."
+        },
+        {
+          "palabra": "TITULAR",
+          "pista": "Frase con la que un medio presenta una noticia."
+        },
+        {
+          "palabra": "MEDIOS",
+          "pista": "Diarios, radios, canales y redes que cuentan lo que pasa."
+        },
+        {
+          "palabra": "FUENTE",
+          "pista": "De dónde sale una información."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué dos medios pueden contar distinto el mismo hecho?",
+          "opciones": [
+            "Porque siempre uno de los dos inventa lo que pasó",
+            "Porque cada medio tiene una ley distinta que cumplir",
+            "Porque eligen distintas palabras, fotos y voces",
+            "Porque los hechos cambian según quién los mire"
+          ],
+          "correcta": 2,
+          "explicacion": "Esas elecciones muestran la mirada de cada medio."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estas frases es un hecho?",
+          "opciones": [
+            "Cinco comercios pidieron una reunión",
+            "El centro quedó mucho más lindo que antes",
+            "La peatonal es una gran idea para todos",
+            "Cerrar la calle fue un error"
+          ],
+          "correcta": 0,
+          "explicacion": "Se puede comprobar."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Una ideología responde a preguntas como cuánto debe intervenir el Estado en la economía.",
+          "respuesta": true,
+          "explicacion": "Distintas ideologías dan distintas respuestas."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Símbolo",
+      "definicion": "Algo que se ve o se escucha y representa otra cosa que el grupo reconoce."
+    },
+    {
+      "palabra": "Símbolos nacionales",
+      "definicion": "La bandera, el escudo y el himno, según el Decreto 10.302 de 1944."
+    },
+    {
+      "palabra": "Rito",
+      "definicion": "Práctica que se repite con pasos fijos y un significado compartido."
+    },
+    {
+      "palabra": "Ideología",
+      "definicion": "Conjunto de ideas sobre cómo debería organizarse la sociedad."
+    },
+    {
+      "palabra": "Discurso mediático",
+      "definicion": "Forma en que un medio cuenta los hechos: palabras, fotos y voces que elige."
+    },
+    {
+      "palabra": "Hecho",
+      "definicion": "Algo que se puede comprobar."
+    },
+    {
+      "palabra": "Opinión",
+      "definicion": "Lo que alguien piensa o siente sobre un hecho."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "La escarapela es uno de los tres símbolos nacionales.",
+      "aclaracion": "Los símbolos nacionales son la bandera, el escudo y el himno. La escarapela forma parte de la identidad patria, pero no es estrictamente un símbolo nacional."
+    },
+    {
+      "error": "El Día de la Bandera recuerda el día en que se izó por primera vez.",
+      "aclaracion": "Recuerda la muerte de Manuel Belgrano, el 20 de junio de 1820. La bandera se izó por primera vez el 27 de febrero de 1812."
+    },
+    {
+      "error": "Si dos medios cuentan distinto un hecho, uno de los dos miente.",
+      "aclaracion": "Pueden contar el mismo hecho con distintas palabras, fotos y voces. Hay que comparar y quedarse con lo que se puede comprobar."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "Buscá dos noticias sobre el mismo hecho de tu localidad en dos medios distintos. ¿Qué eligió contar cada uno?",
+    "conexion": "Con la clase 4: ahí vas a ver los medios comunitarios como una forma de participación que reconocen las Constituciones."
+  },
+  "objetivos": [
+    "Reconocer los símbolos nacionales y explicar el significado de las partes del escudo.",
+    "Explicar qué es un rito y para qué sirve en la vida de una comunidad.",
+    "Distinguir un hecho de una opinión y reconocer cómo los medios eligen contar una noticia."
+  ]
+}

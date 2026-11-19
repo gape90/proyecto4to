@@ -1,0 +1,1239 @@
+{
+  "id": "ciu-4-05",
+  "espacio": "ciudadania",
+  "eje": "Ciudadanía y participación política",
+  "titulo": "Tránsito seguro: derechos y responsabilidades en el espacio público",
+  "intro": "La calle es un espacio que compartimos peatones, ciclistas y conductores, y las decisiones de cada uno afectan a los demás. En esta clase vas a ver quiénes comparten el espacio público, qué dicen la ley nacional y la ley de Santa Fe, y qué decisiones cuidan.",
+  "tp_aporte": "Para tu trabajo práctico ya tenés: qué es el espacio público y quiénes lo comparten, qué establecen la Ley nacional 24.449 y la Ley 13.133 de Santa Fe sobre licencias, casco, cinturón, celular y alcohol, y qué decisiones responsables cuidan en el tránsito.",
+  "sugerencias_asistente": [
+    "¿Qué es el espacio público?",
+    "¿Desde qué edad se saca la licencia en Santa Fe?",
+    "¿Qué es la responsabilidad?"
+  ],
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "El espacio público es de todos",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Un espacio que se comparte",
+          "texto": "Las calles, las veredas, las plazas y las rutas son **espacio público**: no son de nadie en particular y las usamos todos. En una misma esquina se cruzan **peatones**, **ciclistas**, **motociclistas** y **conductores** de autos, colectivos y camiones.\n\nPara que todos puedan circular con seguridad, existen **normas de tránsito**. Cada persona tiene **derechos**, como circular sin que la pongan en riesgo, y **obligaciones**, como respetar las señales y cuidar a los demás."
+        },
+        {
+          "t": "comparar",
+          "titulo": "Quiénes comparten la calle",
+          "columnas": [
+            "Quién",
+            "Un derecho",
+            "Una obligación"
+          ],
+          "filas": [
+            [
+              "Peatón",
+              "Cruzar con prioridad por la senda peatonal",
+              "Cruzar por la senda y respetar el semáforo"
+            ],
+            [
+              "Ciclista",
+              "Circular por la calle o la bicisenda",
+              "Respetar las señales como cualquier conductor y usar casco"
+            ],
+            [
+              "Motociclista",
+              "Circular con su licencia",
+              "Usar casco, igual que su acompañante"
+            ],
+            [
+              "Conductor de auto",
+              "Circular con su licencia",
+              "Respetar las señales, usar el cinturón y no usar el celular"
+            ]
+          ]
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "ilustracion",
+          "src": "img/clases/ciu-4-05-esquina.webp",
+          "animacion": "recorrer",
+          "alt": "Ilustración de la esquina de un pueblo. Tomás va en bicicleta con casco por una bicisenda verde. Detrás, un auto detenido y una moto con dos personas con casco. Una mujer y un chico de guardapolvo cruzan por la senda peatonal con el semáforo peatonal en verde.",
+          "epigrafe": "Ilustración elaborada para esta clase."
+        },
+        {
+          "t": "tocar",
+          "svg": "img/clases/ciu-4-05-esquina-tocar.svg",
+          "vista": "0 0 1600 900",
+          "escala": 3.6,
+          "consigna": "En esta esquina hay seis puntos marcados. Leé cada pregunta y tocá el punto que corresponde.",
+          "alt": "Ilustración de la esquina de un pueblo. Tomás va en bicicleta con casco por una bicisenda verde. Detrás, un auto detenido y una moto con dos personas con casco. Una mujer y un chico de guardapolvo cruzan por la senda peatonal. En la esquina hay un semáforo con la luz roja para los autos y el peatón verde encendido. Hay seis puntos para tocar.",
+          "fuente": "Ilustración elaborada para esta clase.",
+          "puntos": [
+            {
+              "id": "casco_bici",
+              "x": 373,
+              "y": 200,
+              "nombre": "Casco",
+              "articulo": "el casco del ciclista"
+            },
+            {
+              "id": "bicisenda",
+              "x": 134,
+              "y": 737,
+              "nombre": "Bicisenda",
+              "articulo": "la bicisenda"
+            },
+            {
+              "id": "moto",
+              "x": 852,
+              "y": 318,
+              "nombre": "Casco del acompañante",
+              "articulo": "el casco del acompañante"
+            },
+            {
+              "id": "senda",
+              "x": 980,
+              "y": 760,
+              "nombre": "Senda peatonal",
+              "articulo": "la senda peatonal"
+            },
+            {
+              "id": "peatones",
+              "x": 1300,
+              "y": 520,
+              "nombre": "Peatones",
+              "articulo": "las personas que cruzan"
+            },
+            {
+              "id": "semaforo",
+              "x": 1474,
+              "y": 208,
+              "nombre": "Semáforo peatonal",
+              "articulo": "el semáforo peatonal"
+            }
+          ],
+          "preguntas": [
+            {
+              "pregunta": "Tocá el lugar por donde tienen que cruzar la calle las personas que van a pie.",
+              "correcta": "senda",
+              "explicacion": "La senda peatonal son las rayas blancas: ahí los peatones cruzan con prioridad.",
+              "pista": "Buscá las rayas blancas pintadas en la calle."
+            },
+            {
+              "pregunta": "Tocá el elemento que la ley exige a quien anda en bicicleta para proteger la cabeza.",
+              "correcta": "casco_bici",
+              "explicacion": "La Ley de Tránsito exige casco a quienes andan en bicicleta.",
+              "pista": "Mirá la cabeza de Tomás."
+            },
+            {
+              "pregunta": "Tocá la señal que les indica a los peatones que pueden cruzar.",
+              "correcta": "semaforo",
+              "explicacion": "El peatón verde encendido indica que pueden cruzar; para los autos, la luz está en rojo.",
+              "pista": "Está arriba, a la derecha, con una figura que camina."
+            },
+            {
+              "pregunta": "Tocá el carril pensado para circular en bicicleta.",
+              "correcta": "bicisenda",
+              "explicacion": "La bicisenda es un carril separado para las bicicletas, con su dibujo pintado.",
+              "pista": "Buscá un carril verde con el dibujo de una bicicleta."
+            },
+            {
+              "pregunta": "Tocá el elemento que muestra que en la moto también se protege quien va atrás.",
+              "correcta": "moto",
+              "explicacion": "En la moto, conductor y acompañante tienen que usar casco.",
+              "pista": "Mirá a la persona que va sentada atrás en la moto."
+            }
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "El **espacio público** lo compartimos todos: peatones, ciclistas, motociclistas y conductores. Cada uno tiene **derechos** y **obligaciones**. Las normas de tránsito existen para que todos puedan circular con seguridad."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada frase describe un derecho o una obligación de quien circula?",
+          "categorias": [
+            "Derecho",
+            "Obligación"
+          ],
+          "items": [
+            {
+              "texto": "El peatón cruza con prioridad por la senda peatonal",
+              "cat": "Derecho"
+            },
+            {
+              "texto": "Circular por una calle sin que te pongan en riesgo",
+              "cat": "Derecho"
+            },
+            {
+              "texto": "Usar la bicisenda para ir en bicicleta",
+              "cat": "Derecho"
+            },
+            {
+              "texto": "Respetar el semáforo",
+              "cat": "Obligación"
+            },
+            {
+              "texto": "Usar casco en la moto o en la bicicleta",
+              "cat": "Obligación"
+            },
+            {
+              "texto": "Abrocharse el cinturón en el auto",
+              "cat": "Obligación"
+            }
+          ],
+          "explicacion": "Los derechos protegen a quien circula; las obligaciones son lo que cada persona tiene que hacer para cuidar a los demás y a sí misma."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "🗣️ Esta frase está inventada: \"Yo voy en bici, así que el semáforo no es para mí\". ¿Qué le responderías con lo que viste en la tabla?",
+          "opciones": [
+            "Que tiene razón, porque la bici no es un vehículo",
+            "Que solo tiene que respetarlo si va por la vereda",
+            "Que el ciclista respeta las señales como cualquiera",
+            "Que solo los autos tienen que respetar los semáforos"
+          ],
+          "correcta": 2,
+          "explicacion": "Quien anda en bicicleta tiene que respetar las señales de tránsito como cualquier conductor.",
+          "pista": "Buscá la fila del ciclista en la tabla."
+        },
+        {
+          "t": "vf",
+          "consigna": "Decidí si cada afirmación es verdadera o falsa.",
+          "afirmaciones": [
+            {
+              "texto": "Las veredas y las plazas son espacio público.",
+              "v": true,
+              "explicacion": "No son de nadie en particular y las usamos todos."
+            },
+            {
+              "texto": "Las normas de tránsito son solo para quienes manejan autos.",
+              "v": false,
+              "explicacion": "También para peatones, ciclistas y motociclistas."
+            },
+            {
+              "texto": "En la moto, el acompañante también tiene que usar casco.",
+              "v": true,
+              "explicacion": "Conductor y acompañante."
+            },
+            {
+              "texto": "El peatón puede cruzar por cualquier lugar si no viene nadie.",
+              "v": false,
+              "explicacion": "Tiene que cruzar por la senda peatonal y respetar el semáforo."
+            }
+          ]
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué decimos que el tránsito es un tema de ciudadanía y no solo de manejo?",
+          "respuesta": "Porque es un espacio que compartimos y donde las decisiones de cada persona afectan a las demás. Respetar las normas es una forma de cuidar a los otros, y la comunidad puede participar pidiendo, por ejemplo, una senda peatonal o un semáforo frente a la escuela."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué es el espacio público y quiénes lo comparten en el tránsito. Para cada uno (peatón, ciclista, motociclista y conductor), escribí un derecho y una obligación.",
+        "guia": [
+          "¿Qué es el espacio público? Poné ejemplos.",
+          "¿Quiénes comparten una esquina?",
+          "¿Qué derechos y obligaciones tiene el peatón?",
+          "¿Qué tiene que hacer quien anda en bicicleta o en moto?",
+          "¿Por qué el tránsito es un tema de ciudadanía?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "espacio publico"
+            ],
+            "p": "el espacio público"
+          },
+          {
+            "k": [
+              "peaton"
+            ],
+            "p": "el peatón"
+          },
+          {
+            "k": [
+              "ciclista",
+              "bicicleta"
+            ],
+            "p": "el ciclista"
+          },
+          {
+            "k": [
+              "casco"
+            ],
+            "p": "el casco"
+          },
+          {
+            "k": [
+              "derecho"
+            ],
+            "p": "los derechos"
+          },
+          {
+            "k": [
+              "obligacion"
+            ],
+            "p": "las obligaciones"
+          }
+        ],
+        "referencia": "Espacio público: calles, veredas, plazas y rutas que usamos todos. Peatón: cruza con prioridad por la senda y respeta el semáforo. Ciclista: respeta las señales y usa casco. Motociclista: casco, también el acompañante. Conductor: señales, cinturón, sin celular. Es ciudadanía porque las decisiones de cada uno afectan a los demás.",
+        "minPalabras": 45
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Las calles y las plazas son espacio público.",
+          "respuesta": true,
+          "explicacion": "Las usamos todos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El peatón cruza con prioridad por la senda peatonal.",
+          "respuesta": true,
+          "explicacion": "Por eso tiene que cruzar por ahí."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Quien anda en bicicleta no tiene que respetar las señales.",
+          "respuesta": false,
+          "explicacion": "Las respeta como cualquier conductor."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La ley exige casco para andar en bicicleta.",
+          "respuesta": true,
+          "explicacion": "Lo establece la Ley de Tránsito."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la moto, solo el conductor usa casco.",
+          "respuesta": false,
+          "explicacion": "También el acompañante."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Respetar las normas de tránsito es una forma de cuidar a los demás.",
+          "respuesta": true,
+          "explicacion": "Las decisiones de cada uno afectan a otros."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es el espacio público?",
+          "opciones": [
+            "Los lugares que pertenecen a una empresa",
+            "Las casas de cada una de las familias del barrio",
+            "Lugares que usamos todos, como calles",
+            "Las oficinas del gobierno municipal"
+          ],
+          "correcta": 2,
+          "explicacion": "No son de nadie en particular."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por dónde tiene que cruzar un peatón?",
+          "opciones": [
+            "Por la senda peatonal",
+            "Por la mitad de la cuadra",
+            "Por donde no haya autos",
+            "Por la bicisenda"
+          ],
+          "correcta": 0,
+          "explicacion": "Ahí tiene prioridad."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es una bicisenda?",
+          "opciones": [
+            "Una senda para peatones",
+            "Un carril para colectivos",
+            "Un lugar para estacionar",
+            "Un carril para bicicletas"
+          ],
+          "correcta": 3,
+          "explicacion": "Separado del resto de la calle."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué obligación tiene quien maneja un auto?",
+          "opciones": [
+            "Cruzar siempre por la senda peatonal",
+            "Usar el cinturón y respetar las señales",
+            "Usar casco cuando va por la ruta nacional",
+            "Circular siempre por la bicisenda"
+          ],
+          "correcta": 1,
+          "explicacion": "Y no usar el celular."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quiénes comparten una esquina?",
+          "opciones": [
+            "Solo los autos y los colectivos",
+            "Peatones, ciclistas y conductores",
+            "Solo quienes tienen licencia de conducir",
+            "Solo las personas adultas"
+          ],
+          "correcta": 1,
+          "explicacion": "Por eso hacen falta normas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué indica el peatón verde del semáforo?",
+          "opciones": [
+            "Que los autos pueden avanzar",
+            "Que la calle está cortada al tránsito",
+            "Que hay una bicisenda cerca",
+            "Que los peatones pueden cruzar"
+          ],
+          "correcta": 3,
+          "explicacion": "Para los autos, la luz está en rojo."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "PEATÓN",
+          "pista": "Persona que circula a pie."
+        },
+        {
+          "palabra": "SENDA",
+          "pista": "Peatonal: lugar marcado para cruzar la calle."
+        },
+        {
+          "palabra": "BICISENDA",
+          "pista": "Carril para circular en bicicleta."
+        },
+        {
+          "palabra": "CASCO",
+          "pista": "Protege la cabeza en la moto y en la bici."
+        },
+        {
+          "palabra": "SEMÁFORO",
+          "pista": "Señal con luces que ordena quién avanza."
+        },
+        {
+          "palabra": "CINTURÓN",
+          "pista": "De seguridad: se abrocha en el auto."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué existen las normas de tránsito?",
+          "opciones": [
+            "Para que todos circulen con seguridad",
+            "Para que solo circulen los autos",
+            "Para cobrar multas a los peatones del barrio",
+            "Para que nadie use la bicicleta"
+          ],
+          "correcta": 0,
+          "explicacion": "El espacio público lo compartimos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estas es una obligación del ciclista?",
+          "opciones": [
+            "Cruzar en rojo",
+            "Ir sin luces",
+            "Usar casco",
+            "Ir por la vereda"
+          ],
+          "correcta": 2,
+          "explicacion": "Y respetar las señales."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El peatón tiene prioridad cuando cruza por la senda peatonal.",
+          "respuesta": true,
+          "explicacion": "Por eso conviene cruzar siempre por ahí."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Las normas: la ley nacional y la ley de Santa Fe",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Una ley nacional y una ley provincial",
+          "texto": "Las normas de tránsito del país están en la **Ley Nacional de Tránsito, Ley 24.449**. Cada provincia **adhiere** a esa ley y puede fijar sus propias reglas, como viste en la clase 4 con los distintos niveles del Estado.\n\nSanta Fe adhiere con la **Ley provincial 13.133**, de 2010. Esa ley crea la **licencia de conducir provincial** y dice que la nacional rige en todo lo que no se oponga a lo que fija la provincia."
+        },
+        {
+          "t": "dato",
+          "titulo": "En Santa Fe",
+          "texto": "Para sacar cualquier licencia de conducir en Santa Fe hay que tener **18 años**. La ley nacional permite empezar antes, a los 16 o 17 años, pero la Ley 13.133 fija los 18 y no admite excepciones."
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "grafico",
+          "titulo": "Las reglas en una mirada",
+          "src": "img/clases/ciu-4-05-transito.svg",
+          "src_movil": "img/clases/ciu-4-05-transito-movil.svg",
+          "alt": "Infografía de las reglas de tránsito que rigen en Santa Fe. En grande: en Santa Fe, 18 años para cualquier licencia, según la Ley provincial 13.133. Más chico: la ley nacional 24.449 permite desde los 16 y 17 años. Cuatro reglas: casco en moto y bicicleta, cinturón para todas las personas que viajan en el auto, celular prohibido mientras se maneja y alcohol cero en rutas nacionales (Ley 27.714).",
+          "epigrafe": "Esquema elaborado para esta clase.",
+          "animacion": "svg"
+        },
+        {
+          "t": "comparar",
+          "titulo": "Algunas reglas que rigen en Santa Fe",
+          "columnas": [
+            "Tema",
+            "Qué establece"
+          ],
+          "filas": [
+            [
+              "Edad para la licencia",
+              "18 años para cualquier licencia (Ley provincial 13.133)"
+            ],
+            [
+              "Bicicleta",
+              "No necesita licencia; hay que usar casco y respetar las señales"
+            ],
+            [
+              "Casco",
+              "Obligatorio en la moto (conductor y acompañante) y en la bicicleta"
+            ],
+            [
+              "Cinturón de seguridad",
+              "Obligatorio para todas las personas que viajan en el auto"
+            ],
+            [
+              "Celular",
+              "Prohibido usarlo mientras se maneja"
+            ],
+            [
+              "Alcohol",
+              "En las rutas nacionales, alcohol cero (Ley 27.714, de 2023)"
+            ]
+          ]
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá el dato: ¿qué edad hay que tener en Santa Fe para sacar la licencia de conducir?",
+          "respuesta": "18",
+          "acepta": [
+            "18",
+            "dieciocho",
+            "18 años"
+          ],
+          "formato": "Escribí solo el número.",
+          "explicacion": "En Santa Fe, la Ley 13.133 fija 18 años para cualquier licencia.",
+          "pista1": "Buscá la primera fila de la tabla.",
+          "pista": "Es la misma edad desde la que el voto es obligatorio."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "La **Ley 24.449** es la Ley Nacional de Tránsito y Santa Fe adhiere con la **Ley 13.133**. En Santa Fe, la licencia se saca desde los **18 años**. **Casco** en moto y bici, **cinturón** en el auto, **sin celular** al manejar y, en rutas nacionales, **alcohol cero** (Ley 27.714)."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "🚦 Semáforo. Ana, Tomás y Catalina viven en Santa Fe. ¿Pueden hacer lo que dice cada tarjeta?",
+          "categorias": [
+            "🟢 Puede hacerlo",
+            "🟡 Puede, pero primero tiene que sacar la licencia",
+            "🔴 Todavía no puede"
+          ],
+          "items": [
+            {
+              "texto": "Tomás tiene 16 años y va a la escuela en bicicleta por la bicisenda, con casco",
+              "cat": "🟢 Puede hacerlo"
+            },
+            {
+              "texto": "Catalina tiene 18 años y licencia de auto, y maneja el auto de su familia",
+              "cat": "🟢 Puede hacerlo"
+            },
+            {
+              "texto": "Ana tiene 18 años y quiere manejar una moto de 110 cc",
+              "cat": "🟡 Puede, pero primero tiene que sacar la licencia"
+            },
+            {
+              "texto": "Un vecino de 20 años quiere empezar a manejar un auto",
+              "cat": "🟡 Puede, pero primero tiene que sacar la licencia"
+            },
+            {
+              "texto": "Ana tiene 16 años y quiere manejar un ciclomotor",
+              "cat": "🔴 Todavía no puede"
+            },
+            {
+              "texto": "Tomás tiene 17 años y quiere manejar el auto de su familia",
+              "cat": "🔴 Todavía no puede"
+            }
+          ],
+          "pista": "Fijate primero en la edad y después en si ya tiene licencia.",
+          "explicacion": "En Santa Fe, la Ley 13.133 fija 18 años para cualquier licencia. La ley nacional permite desde los 16 o 17, pero cada provincia puede poner sus propias reglas, y Santa Fe exige 18. La bicicleta no necesita licencia."
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá el texto con las palabras que faltan.",
+          "texto": "En la moto, tanto quien maneja como su acompañante tienen que usar [[casco]]. En el auto, todos se abrochan el [[cinturón]]. Mientras se maneja está prohibido usar el [[celular]], y en las rutas nacionales rige el [[alcohol]] cero.",
+          "distractores": [],
+          "explicacion": "Son cuatro reglas que rigen en Santa Fe.",
+          "pista": "Usá la tabla de las reglas."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "¿Por qué en Santa Fe no se puede sacar la licencia a los 16, si la ley nacional lo permite?",
+          "opciones": [
+            "Porque la ley provincial fija 18 años",
+            "Porque la ley nacional no rige en el país",
+            "Porque a los 16 el voto es obligatorio",
+            "Porque el municipio lo decide en cada caso"
+          ],
+          "correcta": 0,
+          "explicacion": "Santa Fe adhiere a la ley nacional, pero con la Ley 13.133 fija su propia edad mínima, sin excepciones.",
+          "pista": "Releé el recuadro En Santa Fe."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué una provincia puede tener reglas de tránsito distintas de las de la ley nacional?",
+          "respuesta": "Porque la Argentina es un país federal: las provincias adhieren a la ley nacional y pueden decidir algunas reglas propias para su territorio. Por eso, antes de manejar en otra provincia, conviene averiguar qué rige allí."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué relación hay entre la Ley Nacional de Tránsito y la ley de Santa Fe, y qué reglas rigen en la provincia sobre la licencia, el casco, el cinturón, el celular y el alcohol.",
+        "guia": [
+          "¿Qué número tiene la ley nacional de tránsito y con qué ley adhiere Santa Fe?",
+          "¿Qué quiere decir que una provincia adhiere a una ley nacional?",
+          "¿Desde qué edad se saca la licencia en Santa Fe?",
+          "¿Quiénes tienen que usar casco y cinturón, y qué dice la ley sobre el celular?",
+          "¿Qué estableció la Ley 27.714 y dónde rige?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "24.449",
+              "24449"
+            ],
+            "p": "la Ley 24.449"
+          },
+          {
+            "k": [
+              "13.133",
+              "13133",
+              "adhier"
+            ],
+            "p": "la ley de Santa Fe"
+          },
+          {
+            "k": [
+              "18"
+            ],
+            "p": "la edad en Santa Fe"
+          },
+          {
+            "k": [
+              "casco"
+            ],
+            "p": "el casco"
+          },
+          {
+            "k": [
+              "cinturon"
+            ],
+            "p": "el cinturón"
+          },
+          {
+            "k": [
+              "celular"
+            ],
+            "p": "el celular"
+          },
+          {
+            "k": [
+              "alcohol",
+              "27.714",
+              "27714"
+            ],
+            "p": "el alcohol cero"
+          }
+        ],
+        "referencia": "Ley nacional 24.449; Santa Fe adhiere con la Ley 13.133 (2010), que rige en lo que fija la provincia. En Santa Fe, 18 años para cualquier licencia (la ley nacional permite 16 y 17). Bicicleta sin licencia, con casco. Casco en moto (conductor y acompañante); cinturón para todos; prohibido el celular al manejar. Ley 27.714 (2023): alcohol cero en rutas nacionales.",
+        "minPalabras": 45
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "La Ley Nacional de Tránsito es la Ley 24.449.",
+          "respuesta": true,
+          "explicacion": "Las provincias adhieren a ella."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Santa Fe adhiere a la ley nacional con la Ley 13.133.",
+          "respuesta": true,
+          "explicacion": "Es de 2010."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En Santa Fe se puede sacar la licencia de ciclomotor a los 16.",
+          "respuesta": false,
+          "explicacion": "En Santa Fe hay que tener 18 años para cualquier licencia."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Para andar en bicicleta no hace falta licencia.",
+          "respuesta": true,
+          "explicacion": "Pero sí casco y respetar las señales."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Está permitido usar el celular mientras se maneja si se va despacio.",
+          "respuesta": false,
+          "explicacion": "Está prohibido usarlo mientras se maneja."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El cinturón es obligatorio solo para quien maneja.",
+          "respuesta": false,
+          "explicacion": "Para todas las personas que viajan en el auto."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Desde qué edad se saca la licencia en Santa Fe?",
+          "opciones": [
+            "Desde los 18 años",
+            "Desde los 16 años",
+            "Desde los 17 años",
+            "Desde los 21 años"
+          ],
+          "correcta": 0,
+          "explicacion": "Lo fija la Ley 13.133."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué ley estableció el alcohol cero?",
+          "opciones": [
+            "La Ley 24.449",
+            "La Ley 13.133",
+            "La Ley 26.774",
+            "La Ley 27.714"
+          ],
+          "correcta": 3,
+          "explicacion": "Modificó la Ley de Tránsito en 2023."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Con qué ley adhiere Santa Fe a la ley nacional?",
+          "opciones": [
+            "La Ley 27.714",
+            "La Ley 13.133",
+            "La Ley 26.774",
+            "La Ley 24.449"
+          ],
+          "correcta": 1,
+          "explicacion": "Es de 2010."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quiénes tienen que usar casco en una moto?",
+          "opciones": [
+            "Solo quien maneja la moto",
+            "El conductor y el acompañante",
+            "Solo quienes van por la ruta nacional",
+            "Solo quienes tienen 18 años"
+          ],
+          "correcta": 1,
+          "explicacion": "Los dos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Dónde rige la Ley 27.714 aunque una provincia no adhiera?",
+          "opciones": [
+            "En las calles de cada pueblo",
+            "En los caminos rurales",
+            "En las rutas provinciales",
+            "En las rutas nacionales"
+          ],
+          "correcta": 3,
+          "explicacion": "Para sus rutas, cada provincia decide."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué puede hacer Tomás, de 16 años, en Santa Fe?",
+          "opciones": [
+            "Andar en bici con casco",
+            "Manejar un ciclomotor",
+            "Manejar el auto familiar",
+            "Llevar a alguien en moto"
+          ],
+          "correcta": 0,
+          "explicacion": "La bicicleta no necesita licencia."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "LICENCIA",
+          "pista": "Permiso para conducir un vehículo."
+        },
+        {
+          "palabra": "ADHERIR",
+          "pista": "Una provincia lo hace con una ley nacional."
+        },
+        {
+          "palabra": "CINTURÓN",
+          "pista": "Se abrochan todas las personas que viajan en el auto."
+        },
+        {
+          "palabra": "ALCOHOLEMIA",
+          "pista": "Cantidad de alcohol en sangre."
+        },
+        {
+          "palabra": "CELULAR",
+          "pista": "Está prohibido usarlo mientras se maneja."
+        },
+        {
+          "palabra": "DIECIOCHO",
+          "pista": "Edad para la licencia en Santa Fe."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "Ana tiene 17 años y vive en Santa Fe. ¿Puede sacar la licencia de auto?",
+          "opciones": [
+            "Sí, con la autorización de sus progenitores",
+            "Sí, siempre que no lleve pasajeros",
+            "Todavía no: en Santa Fe hace falta tener 18",
+            "Sí, porque a los 16 ya puede votar"
+          ],
+          "correcta": 2,
+          "explicacion": "La ley nacional permite desde los 17, pero en Santa Fe rige la Ley 13.133."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué establece la Ley 27.714?",
+          "opciones": [
+            "Casco obligatorio solo en las rutas del país",
+            "Licencia de auto desde los 16 años de edad",
+            "Alcohol cero al manejar en rutas nacionales",
+            "Permiso para usar el celular al manejar"
+          ],
+          "correcta": 2,
+          "explicacion": "Es de 2023."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Una provincia puede adherir a la ley nacional de tránsito y fijar algunas reglas propias.",
+          "respuesta": true,
+          "explicacion": "Santa Fe lo hace con la Ley 13.133."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Decisiones que cuidan",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "ilustracion",
+          "src": "img/clases/ciu-4-05-casco.webp",
+          "animacion": "acercar-izq",
+          "alt": "Ilustración de Tomás y Ana frente a la escuela, junto a sus bicicletas. Tomás se abrocha el casco y Ana, que ya tiene el suyo puesto, lo espera sonriendo.",
+          "epigrafe": "Ilustración elaborada para esta clase."
+        },
+        {
+          "t": "texto",
+          "titulo": "Responsabilidad: responder por lo que hacemos",
+          "texto": "Conocer las normas no alcanza: en el tránsito, cada día se toman **decisiones**. Abrocharse el casco, esperar el semáforo, no mirar el celular al cruzar o no subirse a una moto con alguien que tomó alcohol son decisiones que cuidan a quien las toma y a los demás.\n\nSer **responsable** quiere decir hacerse cargo de las consecuencias de lo que hacemos. Y la responsabilidad también es colectiva: la comunidad puede **peticionar a las autoridades**, como viste en la clase 4, para pedir una senda peatonal, un semáforo o una bicisenda cerca de la escuela."
+        },
+        {
+          "t": "cadena",
+          "titulo": "Una distracción lleva a otra cosa",
+          "pasos": [
+            {
+              "titulo": "Cruzás la calle mirando el celular",
+              "texto": "La atención está puesta en la pantalla."
+            },
+            {
+              "titulo": "No ves que un auto está doblando",
+              "texto": "Sin mirar, no podés calcular a qué distancia está ni a qué velocidad viene."
+            },
+            {
+              "titulo": "Ni vos ni quien maneja alcanzan a reaccionar",
+              "texto": "Hay menos tiempo para frenar o para correrse."
+            },
+            {
+              "titulo": "Puede haber un siniestro",
+              "texto": "Una decisión de unos segundos tiene consecuencias para varias personas."
+            }
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "En el tránsito, cada **decisión** puede cuidar o poner en riesgo a alguien. Ser **responsable** es hacerse cargo de las consecuencias. La comunidad también puede **participar**: peticionar a las autoridades por una vía más segura."
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená los pasos para cruzar la calle de forma segura.",
+          "items": [
+            "Ir hasta la esquina, donde está la senda peatonal",
+            "Guardar el celular y mirar hacia los dos lados",
+            "Esperar que el semáforo peatonal esté en verde",
+            "Cruzar por la senda, sin correr"
+          ],
+          "explicacion": "Primero se elige el lugar, después se presta atención, se espera la señal y recién ahí se cruza.",
+          "pista": "Pensá qué hacés antes de llegar a la calle y qué hacés al final."
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada situación con la decisión que cuida.",
+          "pares": [
+            {
+              "a": "Vas a subir a la bici",
+              "b": "Abrocharte el casco"
+            },
+            {
+              "a": "Un amigo tomó alcohol y quiere llevarte en moto",
+              "b": "No subirte y buscar otra forma de volver"
+            },
+            {
+              "a": "Llegás a la esquina con el celular en la mano",
+              "b": "Guardarlo y mirar antes de cruzar"
+            },
+            {
+              "a": "Frente a la escuela no hay senda peatonal",
+              "b": "Pedirla por nota al municipio o la comuna"
+            }
+          ],
+          "explicacion": "Algunas decisiones son personales y otras son colectivas, como pedirle algo a las autoridades.",
+          "pista": "Releé el texto sobre la responsabilidad."
+        },
+        {
+          "t": "dilema",
+          "titulo": "La vuelta del cumpleaños",
+          "situacion": "Esta situación es inventada. Es tarde, termina un cumpleaños y un amigo que tomó cerveza te ofrece llevarte en su moto. Dice que \"tomó poquito\" y que son solo diez cuadras.",
+          "opciones": [
+            {
+              "texto": "Acepto: son pocas cuadras y él dice que está bien.",
+              "consecuencia": "Con alcohol se reacciona más lento y se calcula peor el riesgo, aunque la persona se sienta bien. Y la distancia corta no cambia eso.",
+              "adecuada": false
+            },
+            {
+              "texto": "No me subo, le propongo que deje la moto y avisamos a una persona adulta para volver.",
+              "consecuencia": "Es la decisión que cuida a los dos. Pedir ayuda a una persona adulta de confianza no es exagerar: es hacerse cargo.",
+              "adecuada": true
+            },
+            {
+              "texto": "Me subo, pero le pido que vaya despacio.",
+              "consecuencia": "Ir despacio no resuelve el problema: el alcohol afecta la atención y los reflejos a cualquier velocidad.",
+              "adecuada": false
+            }
+          ],
+          "cierre": "Si alguien tomó alcohol, no maneja ni lleva a nadie. Siempre se puede buscar otra forma de volver y pedir ayuda a una persona adulta de confianza."
+        },
+        {
+          "t": "vf",
+          "consigna": "Decidí si cada afirmación es verdadera o falsa.",
+          "afirmaciones": [
+            {
+              "texto": "Ser responsable es hacerse cargo de las consecuencias de lo que hacemos.",
+              "v": true,
+              "explicacion": "En el tránsito, esas consecuencias pueden afectar a otras personas."
+            },
+            {
+              "texto": "La seguridad vial depende solo de quienes manejan autos.",
+              "v": false,
+              "explicacion": "Depende de todos los que comparten la calle, y también de la comunidad."
+            },
+            {
+              "texto": "Pedir una senda peatonal al municipio es una forma de participar.",
+              "v": true,
+              "explicacion": "Es usar el derecho de peticionar a las autoridades."
+            },
+            {
+              "texto": "Si son pocas cuadras, no hace falta el casco.",
+              "v": false,
+              "explicacion": "El casco protege en cualquier recorrido."
+            }
+          ]
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿qué cambio pedirías para que el camino a tu escuela sea más seguro, y a quién se lo pedirías?",
+          "respuesta": "Puede ser una senda peatonal, un semáforo, un reductor de velocidad o mejor iluminación. Se le puede pedir al municipio o a la comuna con una nota, y si la firma el centro de estudiantes o un grupo de familias, tiene más fuerza. Es la participación que viste en la clase 4, aplicada a algo cercano."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué significa ser responsable en el tránsito. Describí tres decisiones que cuidan y explicá cómo la comunidad puede participar para que una calle sea más segura.",
+        "guia": [
+          "¿Qué quiere decir ser responsable?",
+          "¿Qué decisiones cuidan a quien las toma y a los demás?",
+          "¿Qué pasa cuando alguien cruza mirando el celular?",
+          "¿Qué harías si alguien que tomó alcohol te ofrece llevarte?",
+          "¿Cómo puede participar la comunidad para tener calles más seguras?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "responsab"
+            ],
+            "p": "la responsabilidad"
+          },
+          {
+            "k": [
+              "decision"
+            ],
+            "p": "las decisiones"
+          },
+          {
+            "k": [
+              "casco",
+              "celular",
+              "semaforo"
+            ],
+            "p": "ejemplos de decisiones que cuidan"
+          },
+          {
+            "k": [
+              "alcohol"
+            ],
+            "p": "el alcohol"
+          },
+          {
+            "k": [
+              "peticion",
+              "municipio",
+              "comuna",
+              "participa"
+            ],
+            "p": "la participación de la comunidad"
+          }
+        ],
+        "referencia": "Responsable: hacerse cargo de las consecuencias. Decisiones que cuidan: casco, esperar el semáforo, no usar el celular al cruzar, no subirse con alguien que tomó alcohol. Cadena del celular. Comunidad: peticionar al municipio o la comuna por sendas, semáforos o bicisendas.",
+        "minPalabras": 45
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Ser responsable es hacerse cargo de las consecuencias de lo que hacemos.",
+          "respuesta": true,
+          "explicacion": "En el tránsito afectan a otras personas."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Cruzar mirando el celular no cambia nada si la calle es tranquila.",
+          "respuesta": false,
+          "explicacion": "Sin mirar, no se calcula la distancia ni la velocidad de un auto."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Si alguien tomó alcohol, lo mejor es no subirse con esa persona.",
+          "respuesta": true,
+          "explicacion": "Y buscar otra forma de volver."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La comunidad puede pedir un semáforo al municipio.",
+          "respuesta": true,
+          "explicacion": "Es peticionar a las autoridades."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Ir despacio en moto compensa haber tomado alcohol.",
+          "respuesta": false,
+          "explicacion": "El alcohol afecta la atención y los reflejos a cualquier velocidad."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Antes de cruzar conviene guardar el celular y mirar a los dos lados.",
+          "respuesta": true,
+          "explicacion": "Es parte de cruzar de forma segura."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué conviene hacer antes de cruzar la calle?",
+          "opciones": [
+            "Correr para cruzar más rápido",
+            "Cruzar por la mitad de la cuadra",
+            "Esperar con los auriculares puestos",
+            "Guardar el celular y mirar a los dos lados"
+          ],
+          "correcta": 3,
+          "explicacion": "Y cruzar por la senda."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿A quién se le puede pedir una senda peatonal?",
+          "opciones": [
+            "Al club deportivo del barrio",
+            "Al municipio o la comuna",
+            "A la radio local",
+            "Al centro de salud del barrio"
+          ],
+          "correcta": 1,
+          "explicacion": "Con una nota: es peticionar."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué significa ser responsable?",
+          "opciones": [
+            "Hacer siempre lo que dicen los demás",
+            "Hacerse cargo de las consecuencias",
+            "No equivocarse nunca en una decisión",
+            "Cumplir solo cuando alguien controla"
+          ],
+          "correcta": 1,
+          "explicacion": "De lo que uno hace."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "Un amigo tomó alcohol y te ofrece llevarte. ¿Qué hacés?",
+          "opciones": [
+            "Subo si me promete ir bien despacio",
+            "Subo porque son pocas cuadras",
+            "Subo si me presta su casco de repuesto",
+            "No subo y busco otra forma de volver"
+          ],
+          "correcta": 3,
+          "explicacion": "Y pido ayuda a una persona adulta."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué derecho usa la comunidad cuando pide un semáforo?",
+          "opciones": [
+            "El de peticionar a las autoridades",
+            "El de votar en las elecciones",
+            "El de iniciativa popular en el Congreso",
+            "El de consulta popular"
+          ],
+          "correcta": 0,
+          "explicacion": "Artículo 14 de la Constitución Nacional."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué pasa si cruzás mirando el celular?",
+          "opciones": [
+            "El auto frena siempre a tiempo",
+            "El semáforo se pone en verde",
+            "Podés no ver un auto que dobla",
+            "No pasa nada en una esquina"
+          ],
+          "correcta": 2,
+          "explicacion": "La atención está en la pantalla."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "RESPONSABLE",
+          "pista": "Quien se hace cargo de las consecuencias de lo que hace."
+        },
+        {
+          "palabra": "DECISIÓN",
+          "pista": "Elección que puede cuidar o poner en riesgo."
+        },
+        {
+          "palabra": "DISTRACCIÓN",
+          "pista": "Lo que saca la atención del camino, como el celular."
+        },
+        {
+          "palabra": "PETICIONAR",
+          "pista": "Pedirles algo por escrito a las autoridades."
+        },
+        {
+          "palabra": "SINIESTRO",
+          "pista": "Choque o accidente de tránsito."
+        },
+        {
+          "palabra": "COMUNA",
+          "pista": "Gobierno local de un pueblo."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué no hay que subirse a una moto con alguien que tomó alcohol?",
+          "opciones": [
+            "Porque está prohibido andar en moto durante la noche",
+            "Porque las motos no pueden llevar acompañante",
+            "Porque el alcohol afecta la atención y los reflejos",
+            "Porque solo pueden manejar los mayores de 21"
+          ],
+          "correcta": 2,
+          "explicacion": "Aunque la persona se sienta bien."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál es una forma colectiva de cuidar en el tránsito?",
+          "opciones": [
+            "Pedir al municipio una senda peatonal",
+            "Abrocharse el casco antes de salir",
+            "Guardar el celular antes de cruzar",
+            "Esperar el semáforo peatonal en la esquina"
+          ],
+          "correcta": 0,
+          "explicacion": "Las otras son decisiones personales."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Una decisión de unos segundos en el tránsito puede tener consecuencias para varias personas.",
+          "respuesta": true,
+          "explicacion": "Por eso importa cada elección."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Espacio público",
+      "definicion": "Lugares que usamos todos, como calles, veredas, plazas y rutas."
+    },
+    {
+      "palabra": "Peatón",
+      "definicion": "Persona que circula a pie."
+    },
+    {
+      "palabra": "Senda peatonal",
+      "definicion": "Lugar marcado para cruzar la calle, donde el peatón tiene prioridad."
+    },
+    {
+      "palabra": "Licencia de conducir",
+      "definicion": "Permiso para manejar un vehículo; en Santa Fe se saca desde los 18 años."
+    },
+    {
+      "palabra": "Alcohol cero",
+      "definicion": "Prohibición de manejar con alcohol en sangre por encima de cero (Ley 27.714)."
+    },
+    {
+      "palabra": "Responsabilidad",
+      "definicion": "Hacerse cargo de las consecuencias de lo que hacemos."
+    },
+    {
+      "palabra": "Peticionar",
+      "definicion": "Pedirles algo por escrito a las autoridades."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "Las normas de tránsito son solo para quienes manejan autos.",
+      "aclaracion": "También para peatones, ciclistas y motociclistas: todos comparten la calle."
+    },
+    {
+      "error": "En Santa Fe se puede sacar la licencia a los 16 o 17 años, como dice la ley nacional.",
+      "aclaracion": "En Santa Fe, la Ley 13.133 fija 18 años para cualquier licencia."
+    },
+    {
+      "error": "Si son pocas cuadras, no hace falta el casco.",
+      "aclaracion": "El casco es obligatorio y protege en cualquier recorrido."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "Recorré el camino de tu casa a la escuela y anotá qué ayuda a que sea seguro y qué falta. ¿Qué podría pedir el centro de estudiantes?",
+    "conexion": "Con la clase 4: peticionar a las autoridades es una de las formas de participación que reconoce la Constitución Nacional."
+  },
+  "objetivos": [
+    "Reconocer quiénes comparten el espacio público y qué derechos y obligaciones tiene cada uno.",
+    "Explicar qué establecen la ley nacional y la ley de Santa Fe sobre licencias, casco, cinturón, celular y alcohol.",
+    "Analizar decisiones que cuidan en el tránsito y formas de participar para tener calles más seguras."
+  ]
+}

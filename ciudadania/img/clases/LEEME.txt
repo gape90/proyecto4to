@@ -1,0 +1,5 @@
+IMÁGENES DE LAS CLASES · CONSTRUCCIÓN DE CIUDADANÍA Y PARTICIPACIÓN
+==================================================================
+Nombre de cada archivo: código de la clase + tema (ej.: ciu-4-02-urna.jpg).
+Si una imagen todavía no está en esta carpeta, la clase muestra "Imagen en preparación" y sigue funcionando.
+Criterio: una imagen solo si ayuda a comprender lo que YA está en la clase. Nunca suma contenidos nuevos.

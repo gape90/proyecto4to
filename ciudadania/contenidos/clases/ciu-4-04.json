@@ -1,0 +1,1201 @@
+{
+  "id": "ciu-4-04",
+  "espacio": "ciudadania",
+  "eje": "Ciudadanía y participación política",
+  "titulo": "De lo local a lo global: formas de participación y organismos supraestatales",
+  "intro": "Votar no es la única forma de participar: las Constituciones nacional y de Santa Fe reconocen otras, y las personas se organizan en partidos, movimientos y medios comunitarios. En esta clase vas a ver esas formas de participar y cómo los países se organizan juntos en organismos supraestatales.",
+  "tp_aporte": "Para tu trabajo práctico ya tenés: las formas de participación de la Constitución Nacional, los mecanismos de la Constitución de Santa Fe de 2025, otras formas de organizarse y qué son los organismos supraestatales.",
+  "sugerencias_asistente": [
+    "¿Qué es la iniciativa popular?",
+    "¿Qué es una audiencia pública?",
+    "¿Qué es un organismo supraestatal?"
+  ],
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "Participar según la Constitución Nacional",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "ilustracion",
+          "src": "img/clases/ciu-4-04-asamblea.webp",
+          "animacion": "acercar",
+          "alt": "Ilustración de una reunión del centro de estudiantes en un aula. Ana, de pie, presenta una propuesta con una hoja en la mano. A su alrededor, estudiantes sentados levantan la mano para opinar. En el pizarrón dice Centro de Estudiantes y Propuesta.",
+          "epigrafe": "Ilustración elaborada para esta clase."
+        },
+        {
+          "t": "texto",
+          "titulo": "Más de una manera de participar",
+          "texto": "En la clase 2 viste que la Argentina tiene una democracia representativa: la ciudadanía elige a quienes deciden. Pero la **Constitución Nacional** reconoce también otras formas de participar.\n\nEl artículo 14 garantiza, entre otros, el derecho de **peticionar a las autoridades** (pedirles algo por escrito) y de **asociarse con fines útiles** (formar un club, una cooperativa o una asociación). El artículo 38 dice que los **partidos políticos** son instituciones fundamentales del sistema democrático."
+        },
+        {
+          "t": "texto",
+          "titulo": "La iniciativa y la consulta popular",
+          "texto": "Desde la reforma de 1994, la Constitución Nacional tiene dos mecanismos de **participación directa**.\n\nCon la **iniciativa popular** (artículo 39), la ciudadanía puede presentar un proyecto de ley en la Cámara de Diputados, juntando firmas. El Congreso tiene que tratarlo dentro de los doce meses. No se pueden presentar así proyectos sobre reforma de la Constitución, tratados internacionales, tributos, presupuesto ni materia penal.\n\nCon la **consulta popular** (artículo 40), se le pregunta a la ciudadanía sobre un proyecto o un tema. Puede ser **vinculante**: la convoca el Congreso, a iniciativa de Diputados, y si gana el sí, el proyecto se convierte en ley. O **no vinculante**: la pueden convocar el Congreso o el presidente o la presidenta, el voto no es obligatorio y el resultado no obliga."
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "grafico",
+          "titulo": "Formas de participar según la Constitución Nacional",
+          "src": "img/clases/ciu-4-04-participacion.svg",
+          "src_movil": "img/clases/ciu-4-04-participacion-movil.svg",
+          "alt": "Mapa conceptual. Participar en los asuntos públicos se puede de tres maneras. Por medio de representantes: votando y a través de los partidos políticos (artículos 37 y 38). De forma directa: con la iniciativa popular, para presentar proyectos de ley (artículo 39), y con la consulta popular (artículo 40). Ejerciendo derechos: peticionar a las autoridades y asociarse (artículo 14).",
+          "epigrafe": "Esquema elaborado para esta clase.",
+          "animacion": "svg"
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "Aparte de votar, la Constitución Nacional reconoce el derecho de **peticionar** y de **asociarse** (art. 14), los **partidos políticos** (art. 38), la **iniciativa popular** (art. 39) y la **consulta popular** (art. 40)."
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada artículo de la Constitución Nacional con lo que establece.",
+          "pares": [
+            {
+              "a": "Artículo 14",
+              "b": "El derecho de peticionar a las autoridades y de asociarse"
+            },
+            {
+              "a": "Artículo 38",
+              "b": "Los partidos políticos son instituciones fundamentales"
+            },
+            {
+              "a": "Artículo 39",
+              "b": "La ciudadanía puede presentar proyectos de ley"
+            },
+            {
+              "a": "Artículo 40",
+              "b": "Se puede consultar a la ciudadanía sobre un proyecto"
+            }
+          ],
+          "explicacion": "Los artículos 38, 39 y 40 se incorporaron con la reforma de 1994.",
+          "pista": "Mirá el mapa conceptual: cada recuadro dice su artículo."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada proyecto se puede presentar por iniciativa popular o queda excluido?",
+          "categorias": [
+            "Se puede presentar",
+            "Queda excluido"
+          ],
+          "items": [
+            {
+              "texto": "Una ley para crear bicisendas en rutas nacionales",
+              "cat": "Se puede presentar"
+            },
+            {
+              "texto": "Una ley de protección de los animales",
+              "cat": "Se puede presentar"
+            },
+            {
+              "texto": "Una ley sobre el reciclaje de envases",
+              "cat": "Se puede presentar"
+            },
+            {
+              "texto": "Una ley que crea un impuesto nuevo",
+              "cat": "Queda excluido"
+            },
+            {
+              "texto": "Una ley que cambia las penas de un delito",
+              "cat": "Queda excluido"
+            },
+            {
+              "texto": "Una ley del presupuesto nacional",
+              "cat": "Queda excluido"
+            }
+          ],
+          "explicacion": "Por iniciativa popular no se pueden presentar proyectos sobre reforma constitucional, tratados internacionales, tributos, presupuesto ni materia penal."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá el dato: ¿en qué Cámara del Congreso se presenta un proyecto por iniciativa popular?",
+          "respuesta": "Diputados",
+          "acepta": [
+            "diputados",
+            "camara de diputados",
+            "la camara de diputados",
+            "diputado"
+          ],
+          "formato": "Escribí el nombre de la Cámara.",
+          "explicacion": "Se presenta en la Cámara de Diputados, y el Congreso tiene doce meses para tratarlo.",
+          "pista1": "Releé el texto de la iniciativa popular.",
+          "pista": "Es la Cámara que no es la de Senadores."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "📰 Elegí el titular. Un diario cuenta una consulta popular no vinculante. ¿Cuál es el titular correcto?",
+          "opciones": [
+            "Consulta vinculante: si gana el sí, el proyecto ya es ley",
+            "El Congreso aprobó un proyecto juntando firmas de vecinos",
+            "Consulta sobre un tema general: votar no es obligatorio",
+            "Los partidos presentaron sus candidatos para las elecciones"
+          ],
+          "correcta": 2,
+          "explicacion": "En la consulta no vinculante el voto no es obligatorio y el resultado no obliga a nadie.",
+          "pista": "Buscá en el texto qué dice la Constitución sobre la consulta no vinculante."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué la Constitución no deja que la iniciativa popular se use para crear impuestos?",
+          "respuesta": "Una explicación posible es que los impuestos y el presupuesto afectan a toda la organización del Estado y necesitan ser decididos por los representantes, que responden por esas decisiones en las elecciones. Hay quienes piensan que la lista de temas excluidos debería ser más corta y quienes piensan que está bien así."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué formas de participación reconoce la Constitución Nacional, aparte de votar. Incluí los artículos 14, 38, 39 y 40 y explicá la diferencia entre consulta vinculante y no vinculante.",
+        "guia": [
+          "¿Qué derechos reconoce el artículo 14 para participar?",
+          "¿Qué dice el artículo 38 sobre los partidos políticos?",
+          "¿Qué es la iniciativa popular y qué temas quedan excluidos?",
+          "¿Qué diferencia hay entre una consulta popular vinculante y una no vinculante?",
+          "¿Cuál de estas formas podría usar un grupo de jóvenes de tu localidad?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "peticionar",
+              "asociar"
+            ],
+            "p": "el artículo 14"
+          },
+          {
+            "k": [
+              "partido"
+            ],
+            "p": "los partidos políticos"
+          },
+          {
+            "k": [
+              "iniciativa"
+            ],
+            "p": "la iniciativa popular"
+          },
+          {
+            "k": [
+              "consulta"
+            ],
+            "p": "la consulta popular"
+          },
+          {
+            "k": [
+              "vinculante"
+            ],
+            "p": "vinculante y no vinculante"
+          }
+        ],
+        "referencia": "Art. 14: peticionar y asociarse. Art. 38: partidos, instituciones fundamentales. Art. 39: iniciativa popular en Diputados; el Congreso la trata en 12 meses; excluidos reforma constitucional, tratados, tributos, presupuesto y materia penal. Art. 40: consulta vinculante (Congreso, a iniciativa de Diputados; si gana el sí es ley) y no vinculante (Congreso o presidente; voto no obligatorio).",
+        "minPalabras": 50
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El artículo 14 reconoce el derecho de peticionar a las autoridades.",
+          "respuesta": true,
+          "explicacion": "Y de asociarse con fines útiles."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La iniciativa popular se presenta en el Senado.",
+          "respuesta": false,
+          "explicacion": "Se presenta en la Cámara de Diputados."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Por iniciativa popular no se pueden presentar proyectos sobre impuestos.",
+          "respuesta": true,
+          "explicacion": "Tampoco sobre presupuesto, tratados, reforma constitucional ni materia penal."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la consulta no vinculante el voto es obligatorio.",
+          "respuesta": false,
+          "explicacion": "No es obligatorio y el resultado no obliga."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El artículo 38 dice que los partidos son instituciones fundamentales del sistema democrático.",
+          "respuesta": true,
+          "explicacion": "Se incorporó en 1994."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Congreso tiene doce meses para tratar un proyecto de iniciativa popular.",
+          "respuesta": true,
+          "explicacion": "Así lo dice el artículo 39."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué permite la iniciativa popular?",
+          "opciones": [
+            "Elegir al presidente o la presidenta",
+            "Cambiar los jueces de la Corte",
+            "Presentar un proyecto de ley",
+            "Crear un impuesto nuevo"
+          ],
+          "correcta": 2,
+          "explicacion": "Juntando firmas, en Diputados."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué artículo trata la consulta popular?",
+          "opciones": [
+            "El artículo 40",
+            "El artículo 14",
+            "El artículo 22",
+            "El artículo 38"
+          ],
+          "correcta": 0,
+          "explicacion": "Puede ser vinculante o no vinculante."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué pasa si gana el sí en una consulta vinculante?",
+          "opciones": [
+            "El Congreso debe volver a votarlo",
+            "Nada, porque el resultado no obliga",
+            "Se convoca a una nueva elección",
+            "El proyecto se convierte en ley"
+          ],
+          "correcta": 3,
+          "explicacion": "Por eso se llama vinculante."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estos temas no se puede presentar por iniciativa popular?",
+          "opciones": [
+            "Las bicisendas",
+            "El presupuesto",
+            "El reciclaje",
+            "Los animales"
+          ],
+          "correcta": 1,
+          "explicacion": "Está entre los temas excluidos."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es peticionar a las autoridades?",
+          "opciones": [
+            "Votar en las elecciones",
+            "Pedirles algo por escrito",
+            "Formar un partido político",
+            "Presentar una ley en el Senado"
+          ],
+          "correcta": 1,
+          "explicacion": "Es un derecho del artículo 14."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Desde cuándo están la iniciativa y la consulta popular en la Constitución?",
+          "opciones": [
+            "Desde la Constitución de 1853",
+            "Desde la Ley Sáenz Peña",
+            "Desde la ley de Voto Joven",
+            "Desde la reforma de 1994"
+          ],
+          "correcta": 3,
+          "explicacion": "Son los artículos 39 y 40."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "PETICIONAR",
+          "pista": "Pedirles algo por escrito a las autoridades."
+        },
+        {
+          "palabra": "ASOCIARSE",
+          "pista": "Formar un grupo, como un club o una cooperativa."
+        },
+        {
+          "palabra": "INICIATIVA",
+          "pista": "Popular: permite presentar proyectos de ley."
+        },
+        {
+          "palabra": "CONSULTA",
+          "pista": "Popular: se pregunta a la ciudadanía sobre un tema."
+        },
+        {
+          "palabra": "VINCULANTE",
+          "pista": "Así es la consulta cuyo resultado obliga."
+        },
+        {
+          "palabra": "DIPUTADOS",
+          "pista": "Cámara donde se presenta la iniciativa popular."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué diferencia hay entre una consulta vinculante y una no vinculante?",
+          "opciones": [
+            "En la vinculante el resultado obliga; en la otra, no",
+            "En la vinculante el voto es optativo; en la otra, no",
+            "La vinculante la convoca el presidente; la otra, no",
+            "No hay diferencia: las dos convierten el proyecto en ley"
+          ],
+          "correcta": 0,
+          "explicacion": "Si gana el sí en la vinculante, el proyecto es ley."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué derecho del artículo 14 usan quienes forman un club?",
+          "opciones": [
+            "El de votar",
+            "El de iniciativa",
+            "El de asociarse",
+            "El de consulta"
+          ],
+          "correcta": 2,
+          "explicacion": "Asociarse con fines útiles."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La iniciativa popular necesita juntar firmas de la ciudadanía.",
+          "respuesta": true,
+          "explicacion": "Así se presenta el proyecto en Diputados."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "Participar en Santa Fe: la Constitución de 2025",
+      "tiempo": "35 a 45 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Una Constitución nueva",
+          "texto": "Cada provincia tiene su propia Constitución. La de Santa Fe se reformó en 2025: la Convención Reformadora aprobó el texto el **10 de septiembre de 2025** y reemplazó a la Constitución de **1962**. La nueva Constitución dedica un capítulo a la **participación ciudadana**.\n\nEl artículo 58 dice que la ciudadanía puede participar en los asuntos públicos por medio de representantes o **directamente**, con los mecanismos que prevé la Constitución. El artículo 57 reconoce a los **partidos políticos**, y el 19, el derecho de reunirse, asociarse y peticionar a las autoridades."
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "foto",
+          "src": "img/clases/ciu-4-04-legislatura.webp",
+          "animacion": "acercar",
+          "alt": "Fotografía del recinto de la Cámara de Senadores de Santa Fe, vacío: bancas de madera, alfombra roja, el estrado de la presidencia con banderas y un gran mural al fondo.",
+          "epigrafe": "Recinto de la Cámara de Senadores de la Legislatura de Santa Fe.",
+          "fuente": "TitiNicola (2019), CC BY-SA 4.0, vía Wikimedia Commons. Recortada para esta clase"
+        },
+        {
+          "t": "comparar",
+          "titulo": "Los mecanismos de participación de la Constitución de Santa Fe",
+          "columnas": [
+            "Mecanismo",
+            "Qué es",
+            "Quién lo pone en marcha"
+          ],
+          "filas": [
+            [
+              "Iniciativa popular (art. 59)",
+              "La ciudadanía presenta un proyecto de ley",
+              "La ciudadanía"
+            ],
+            [
+              "Referéndum (art. 60)",
+              "Se vota una ley; el voto es obligatorio y el resultado obliga",
+              "La Legislatura"
+            ],
+            [
+              "Consulta popular (art. 61)",
+              "Se pregunta sobre un tema; el voto es optativo y el resultado no obliga",
+              "La Legislatura o el Poder Ejecutivo"
+            ],
+            [
+              "Revocatoria del mandato (art. 62)",
+              "Se pide que un funcionario elegido deje el cargo por grave incumplimiento",
+              "Al menos el 25 % de quienes están en el padrón"
+            ],
+            [
+              "Audiencia pública (art. 64)",
+              "Reunión abierta para opinar antes de una decisión",
+              "La Provincia, o la ciudadanía que la pide"
+            ]
+          ]
+        },
+        {
+          "t": "dato",
+          "titulo": "Una obligación para la Legislatura",
+          "texto": "Según el artículo 64, antes de aprobar proyectos sobre **ambiente** y **servicios públicos**, la Legislatura tiene que convocar a una audiencia pública."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "🚦 Semáforo. En cada caso, ¿qué mecanismo de la Constitución de Santa Fe se usa? Si no te acordás, mirá la tabla de arriba.",
+          "categorias": [
+            "🟢 Iniciativa popular",
+            "🟡 Audiencia pública",
+            "🔴 Revocatoria del mandato"
+          ],
+          "items": [
+            {
+              "texto": "Un grupo junta firmas y presenta un proyecto de ley sobre clubes de barrio",
+              "cat": "🟢 Iniciativa popular"
+            },
+            {
+              "texto": "Vecinos y vecinas presentan un proyecto para proteger un humedal",
+              "cat": "🟢 Iniciativa popular"
+            },
+            {
+              "texto": "Antes de votar una ley ambiental, la Legislatura escucha a la comunidad",
+              "cat": "🟡 Audiencia pública"
+            },
+            {
+              "texto": "La Provincia convoca a opinar sobre un nuevo servicio de transporte",
+              "cat": "🟡 Audiencia pública"
+            },
+            {
+              "texto": "Se pide que un funcionario elegido deje el cargo por grave incumplimiento",
+              "cat": "🔴 Revocatoria del mandato"
+            },
+            {
+              "texto": "Un cuarto del padrón firma para pedir que un cargo electivo sea revocado",
+              "cat": "🔴 Revocatoria del mandato"
+            }
+          ],
+          "explicacion": "La iniciativa presenta proyectos; la audiencia pública escucha a la comunidad antes de decidir; la revocatoria busca que un funcionario elegido deje el cargo."
+        },
+        {
+          "t": "texto",
+          "titulo": "Otras formas de participar",
+          "texto": "Fuera de estos mecanismos, las personas se organizan de muchas maneras:\n\nEn los **partidos políticos**, que presentan candidatos y propuestas en las elecciones.\n\nEn los **movimientos sociales**: grupos que se unen alrededor de un reclamo o una causa, como el cuidado de un río o los derechos de un grupo.\n\nEn **redes**, también digitales, donde personas y organizaciones se conectan para informarse y actuar juntas.\n\nEn los **medios comunitarios**: radios o periódicos que maneja una organización del barrio o del pueblo, sin fines de lucro, para contar lo que pasa en la comunidad."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "La Constitución de Santa Fe de 2025 reconoce la **iniciativa popular**, el **referéndum**, la **consulta popular**, la **revocatoria del mandato** y las **audiencias públicas**. También se participa en **partidos**, **movimientos sociales**, **redes** y **medios comunitarios**."
+        },
+        {
+          "t": "vf",
+          "consigna": "Decidí si cada afirmación es verdadera o falsa.",
+          "afirmaciones": [
+            {
+              "texto": "La nueva Constitución de Santa Fe reemplazó a la de 1962.",
+              "v": true,
+              "explicacion": "Se aprobó en septiembre de 2025."
+            },
+            {
+              "texto": "En el referéndum santafesino el voto es optativo.",
+              "v": false,
+              "explicacion": "En el referéndum el voto es obligatorio y el resultado obliga. Optativo es el de la consulta popular."
+            },
+            {
+              "texto": "Un medio comunitario es una radio o un periódico que maneja una organización de la comunidad.",
+              "v": true,
+              "explicacion": "Sin fines de lucro, para contar lo que pasa cerca."
+            },
+            {
+              "texto": "La revocatoria puede pedirse por cualquier desacuerdo con un funcionario.",
+              "v": false,
+              "explicacion": "La Constitución habla de grave incumplimiento."
+            }
+          ]
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá el texto con las palabras que faltan.",
+          "texto": "En el [[referéndum]] el voto es obligatorio y el resultado obliga. En la [[consulta]] popular el voto es optativo y el resultado no obliga. Con la [[revocatoria]] se pide que un funcionario elegido deje el cargo, y en la [[audiencia]] pública la comunidad opina antes de una decisión.",
+          "distractores": [],
+          "explicacion": "Son cuatro de los mecanismos de la Constitución de Santa Fe de 2025.",
+          "pista": "Usá la tabla de los mecanismos de participación."
+        },
+        {
+          "t": "dilema",
+          "titulo": "Una audiencia pública en tu zona",
+          "situacion": "Esta situación es inventada. La Legislatura va a tratar un proyecto sobre el uso del agua de un río de tu zona y convoca a una audiencia pública. En tu casa hay opiniones distintas sobre el proyecto.",
+          "opciones": [
+            {
+              "texto": "No voy: total, la decisión ya está tomada.",
+              "consecuencia": "La audiencia se hace justamente antes de decidir. Si nadie de tu zona participa, esa mirada no se escucha.",
+              "adecuada": false
+            },
+            {
+              "texto": "Me informo sobre el proyecto y participo para dar mi opinión con argumentos.",
+              "consecuencia": "Informarse y opinar con razones es el sentido de una audiencia pública: que quienes deciden escuchen a la comunidad.",
+              "adecuada": true
+            },
+            {
+              "texto": "Comparto en redes lo que escuché, sin leer el proyecto.",
+              "consecuencia": "Opinar sin conocer el proyecto puede difundir información equivocada y no ayuda a que la decisión sea mejor.",
+              "adecuada": false
+            }
+          ],
+          "cierre": "Una audiencia pública no vota ni decide: sirve para que la comunidad sea escuchada antes de la decisión. Participar bien es informarse y dar razones."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué la revocatoria del mandato exige que la pida al menos un cuarto del padrón?",
+          "respuesta": "Para que no se use por cualquier desacuerdo menor y haga falta un apoyo amplio. Quienes defienden este requisito dicen que protege la estabilidad; quienes lo critican dicen que es muy difícil de alcanzar. La Constitución dejó esos detalles para una ley."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué mecanismos de participación reconoce la Constitución de Santa Fe de 2025 y en qué se diferencian. Después describí otras formas de participar: partidos, movimientos sociales, redes y medios comunitarios.",
+        "guia": [
+          "¿Cuándo se aprobó la nueva Constitución de Santa Fe y a cuál reemplazó?",
+          "¿Qué diferencia hay entre referéndum y consulta popular?",
+          "¿Qué es la revocatoria del mandato y qué hace falta para pedirla?",
+          "¿Para qué sirve una audiencia pública?",
+          "¿Qué es un movimiento social y qué es un medio comunitario?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "2025",
+              "1962"
+            ],
+            "p": "la nueva Constitución"
+          },
+          {
+            "k": [
+              "referendum"
+            ],
+            "p": "el referéndum"
+          },
+          {
+            "k": [
+              "consulta"
+            ],
+            "p": "la consulta popular"
+          },
+          {
+            "k": [
+              "revocatoria"
+            ],
+            "p": "la revocatoria"
+          },
+          {
+            "k": [
+              "audiencia"
+            ],
+            "p": "la audiencia pública"
+          },
+          {
+            "k": [
+              "movimiento",
+              "comunitari",
+              "redes"
+            ],
+            "p": "otras formas de participar"
+          }
+        ],
+        "referencia": "Constitución de Santa Fe aprobada el 10/9/2025, reemplaza a la de 1962. Iniciativa popular (59), referéndum con voto obligatorio y vinculante (60), consulta con voto optativo y no vinculante (61), revocatoria por grave incumplimiento con el 25 % del padrón (62), audiencias públicas, obligatorias antes de leyes ambientales y de servicios públicos (64). Partidos, movimientos sociales, redes y medios comunitarios.",
+        "minPalabras": 55
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "La nueva Constitución de Santa Fe se aprobó en 2025.",
+          "respuesta": true,
+          "explicacion": "El 10 de septiembre de 2025."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la consulta popular santafesina el resultado obliga.",
+          "respuesta": false,
+          "explicacion": "No es vinculante y el voto es optativo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La revocatoria del mandato se inicia con al menos el 25 % del padrón.",
+          "respuesta": true,
+          "explicacion": "Y se pide por grave incumplimiento."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Antes de aprobar proyectos ambientales, la Legislatura debe convocar a una audiencia pública.",
+          "respuesta": true,
+          "explicacion": "Lo dice el artículo 64."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Un movimiento social es lo mismo que un partido político.",
+          "respuesta": false,
+          "explicacion": "Un movimiento se une alrededor de una causa; un partido presenta candidatos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Constitución de Santa Fe permite participar solo por medio de representantes.",
+          "respuesta": false,
+          "explicacion": "El artículo 58 también reconoce la participación directa."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué mecanismo tiene voto obligatorio y resultado que obliga?",
+          "opciones": [
+            "El referéndum provincial",
+            "La consulta popular",
+            "La audiencia pública",
+            "La iniciativa popular"
+          ],
+          "correcta": 0,
+          "explicacion": "Lo convoca la Legislatura."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿A qué Constitución reemplazó la de 2025?",
+          "opciones": [
+            "A la de 1853",
+            "A la de 1994",
+            "A la de 1912",
+            "A la de 1962"
+          ],
+          "correcta": 3,
+          "explicacion": "Estuvo vigente más de sesenta años."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es una audiencia pública?",
+          "opciones": [
+            "Una votación obligatoria sobre una ley provincial",
+            "Una reunión abierta para opinar antes de decidir",
+            "Un pedido para que un funcionario deje su cargo",
+            "Un proyecto de ley presentado por la ciudadanía"
+          ],
+          "correcta": 1,
+          "explicacion": "No vota ni decide: escucha."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es un medio comunitario?",
+          "opciones": [
+            "Un canal que pertenece a un partido",
+            "Una radio o diario de la comunidad",
+            "Una red social de una empresa grande",
+            "Un diario que publica el gobierno"
+          ],
+          "correcta": 1,
+          "explicacion": "Lo maneja una organización sin fines de lucro."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué se puede pedir la revocatoria del mandato?",
+          "opciones": [
+            "Por perder una votación",
+            "Por cambiar de partido",
+            "Por cualquier desacuerdo",
+            "Por grave incumplimiento"
+          ],
+          "correcta": 3,
+          "explicacion": "Artículo 62."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué artículo de la Constitución santafesina trata la iniciativa popular?",
+          "opciones": [
+            "El artículo 59",
+            "El artículo 64",
+            "El artículo 62",
+            "El artículo 61"
+          ],
+          "correcta": 0,
+          "explicacion": "La ciudadanía presenta proyectos de ley."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "REFERÉNDUM",
+          "pista": "Votación obligatoria sobre una ley, cuyo resultado obliga."
+        },
+        {
+          "palabra": "REVOCATORIA",
+          "pista": "Pedido para que un funcionario elegido deje el cargo."
+        },
+        {
+          "palabra": "AUDIENCIA",
+          "pista": "Pública: reunión abierta para opinar antes de decidir."
+        },
+        {
+          "palabra": "MOVIMIENTO",
+          "pista": "Social: grupo que se une alrededor de una causa."
+        },
+        {
+          "palabra": "COMUNITARIO",
+          "pista": "Así es el medio que maneja una organización del barrio."
+        },
+        {
+          "palabra": "LEGISLATURA",
+          "pista": "Poder que sanciona las leyes de la provincia."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué diferencia hay entre referéndum y consulta popular en Santa Fe?",
+          "opciones": [
+            "En la consulta el voto es obligatorio y el resultado también obliga",
+            "El referéndum lo pide la ciudadanía juntando firmas del padrón",
+            "En el referéndum el voto es obligatorio y el resultado obliga",
+            "No hay diferencia: los dos son lo mismo con otro nombre"
+          ],
+          "correcta": 2,
+          "explicacion": "En la consulta el voto es optativo y el resultado no obliga."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Para qué sirve una audiencia pública?",
+          "opciones": [
+            "Para votar una ley de forma directa",
+            "Para elegir a los representantes",
+            "Para que la comunidad sea escuchada",
+            "Para revocar un mandato"
+          ],
+          "correcta": 2,
+          "explicacion": "Se hace antes de decidir."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Una radio de una organización del barrio, sin fines de lucro, es un medio comunitario.",
+          "respuesta": true,
+          "explicacion": "Cuenta lo que pasa en la comunidad."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "Más allá del país: los organismos supraestatales",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Cuando los Estados se organizan juntos",
+          "texto": "Algunos problemas no los puede resolver un solo país: el comercio entre naciones, la paz, la salud o los préstamos entre países. Por eso los Estados forman **organismos supraestatales**: organizaciones integradas por varios Estados que acuerdan objetivos y reglas comunes. Cada país decide si forma parte y puede retirarse.\n\nHay organismos **regionales**, que reúnen a países de una zona, y **mundiales**, abiertos a países de todo el planeta."
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "foto",
+          "src": "img/clases/ciu-4-04-mercosur.webp",
+          "animacion": "acercar",
+          "alt": "Fotografía aérea de un gran edificio blanco de estilo antiguo, con palmeras y jardines, frente a una avenida.",
+          "epigrafe": "Sede del MERCOSUR, en Montevideo, Uruguay.",
+          "fuente": "Fedaro (2017), CC BY-SA 4.0, vía Wikimedia Commons"
+        },
+        {
+          "t": "fichas",
+          "titulo": "Seis organismos supraestatales",
+          "rotulos": [
+            "Quiénes lo forman",
+            "Para qué existe"
+          ],
+          "items": [
+            {
+              "titulo": "MERCOSUR",
+              "filas": [
+                "Lo crearon en 1991 la Argentina, Brasil, Paraguay y Uruguay, con el Tratado de Asunción. Su sede está en Montevideo.",
+                "Facilitar el comercio entre sus miembros y la integración de la región."
+              ]
+            },
+            {
+              "titulo": "UNASUR",
+              "filas": [
+                "Países de América del Sur. La Argentina se retiró en 2019 y volvió en 2023.",
+                "Integrar a los países sudamericanos en temas políticos, sociales y de infraestructura."
+              ]
+            },
+            {
+              "titulo": "OEA",
+              "filas": [
+                "Los Estados de América. Se creó en 1948.",
+                "Promover la paz, la democracia y los derechos humanos en el continente."
+              ]
+            },
+            {
+              "titulo": "ONU",
+              "filas": [
+                "Casi todos los países del mundo. Se creó en 1945, al terminar la Segunda Guerra Mundial.",
+                "Mantener la paz, proteger los derechos humanos y favorecer la cooperación entre países."
+              ]
+            },
+            {
+              "titulo": "FMI",
+              "filas": [
+                "Países de todo el mundo. Se creó en 1944.",
+                "Cuidar la estabilidad de las monedas y prestar dinero a países con problemas en sus cuentas con el exterior."
+              ]
+            },
+            {
+              "titulo": "Banco Mundial",
+              "filas": [
+                "Países de todo el mundo. Se creó en 1944, junto con el FMI.",
+                "Prestar dinero y dar apoyo para proyectos de desarrollo, como obras o programas sociales."
+              ]
+            }
+          ]
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "Un **organismo supraestatal** reúne a varios Estados que acuerdan objetivos y reglas comunes. Hay **regionales**, como el MERCOSUR, la UNASUR y la OEA, y **mundiales**, como la ONU, el FMI y el Banco Mundial."
+        },
+        {
+          "t": "unir",
+          "consigna": "Uní cada organismo con lo que busca.",
+          "pares": [
+            {
+              "a": "MERCOSUR",
+              "b": "Facilitar el comercio entre sus miembros"
+            },
+            {
+              "a": "ONU",
+              "b": "Mantener la paz y proteger los derechos humanos en el mundo"
+            },
+            {
+              "a": "FMI",
+              "b": "Cuidar la estabilidad de las monedas y prestar a países"
+            },
+            {
+              "a": "Banco Mundial",
+              "b": "Financiar proyectos de desarrollo"
+            }
+          ],
+          "explicacion": "Cada organismo tiene un objetivo principal, aunque varios trabajan en más de un tema.",
+          "pista": "Mirá la segunda fila de cada ficha."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada organismo es regional o mundial?",
+          "categorias": [
+            "Regional",
+            "Mundial"
+          ],
+          "items": [
+            {
+              "texto": "MERCOSUR",
+              "cat": "Regional"
+            },
+            {
+              "texto": "UNASUR",
+              "cat": "Regional"
+            },
+            {
+              "texto": "OEA",
+              "cat": "Regional"
+            },
+            {
+              "texto": "ONU",
+              "cat": "Mundial"
+            },
+            {
+              "texto": "FMI",
+              "cat": "Mundial"
+            },
+            {
+              "texto": "Banco Mundial",
+              "cat": "Mundial"
+            }
+          ],
+          "explicacion": "Los regionales reúnen a países de una zona: América del Sur o el continente americano. Los mundiales están abiertos a países de todo el planeta."
+        },
+        {
+          "t": "verificar",
+          "consigna": "Completá el dato: ¿en qué ciudad está la sede del MERCOSUR?",
+          "respuesta": "Montevideo",
+          "acepta": [
+            "montevideo"
+          ],
+          "formato": "Escribí solo el nombre de la ciudad.",
+          "explicacion": "La sede está en Montevideo, la capital de Uruguay.",
+          "pista1": "Buscalo en la ficha del MERCOSUR o en el epígrafe de la foto.",
+          "pista": "Es la capital de Uruguay. Empieza con M."
+        },
+        {
+          "t": "texto",
+          "titulo": "Un debate con dos miradas",
+          "texto": "Formar parte de un organismo supraestatal tiene compromisos. **Quienes lo defienden** dicen que los países ganan fuerza cuando se ponen de acuerdo y que hay problemas que solo se resuelven juntos. **Quienes lo critican** dicen que algunos acuerdos limitan las decisiones propias de cada país. Por eso los gobiernos, a veces, deciden entrar o salir de un organismo, como pasó con la Argentina y la UNASUR."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "🔍 Encontrá el error. Una de estas frases no coincide con las fichas. ¿Cuál es?",
+          "opciones": [
+            "El MERCOSUR lo crearon cinco países en 1991.",
+            "La ONU se creó al terminar la Segunda Guerra Mundial.",
+            "El FMI y el Banco Mundial se crearon en 1944.",
+            "La OEA reúne a los Estados de América."
+          ],
+          "correcta": 0,
+          "explicacion": "Lo crearon cuatro países: la Argentina, Brasil, Paraguay y Uruguay, con el Tratado de Asunción.",
+          "pista": "Contá los países en la ficha del MERCOSUR."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué un país que forma parte de un organismo supraestatal sigue siendo un país independiente?",
+          "respuesta": "Porque entra por decisión propia, acepta reglas que acordó con otros y puede retirarse. La Argentina, por ejemplo, se retiró de la UNASUR en 2019 y volvió en 2023. Formar parte es un acuerdo entre Estados, no la desaparición de cada uno."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué es un organismo supraestatal y para qué existe. Elegí tres de las fichas y contá quiénes los forman y qué buscan. Presentá las dos miradas sobre formar parte de estos organismos.",
+        "guia": [
+          "¿Qué es un organismo supraestatal?",
+          "¿Qué diferencia hay entre uno regional y uno mundial?",
+          "¿Quiénes forman el MERCOSUR y para qué se creó?",
+          "¿Qué hacen la ONU, el FMI y el Banco Mundial?",
+          "¿Qué dicen quienes defienden y quienes critican formar parte de estos organismos?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "supraestatal"
+            ],
+            "p": "qué es un organismo supraestatal"
+          },
+          {
+            "k": [
+              "regional",
+              "mundial"
+            ],
+            "p": "regional y mundial"
+          },
+          {
+            "k": [
+              "mercosur"
+            ],
+            "p": "el MERCOSUR"
+          },
+          {
+            "k": [
+              "onu",
+              "fmi",
+              "banco mundial",
+              "oea",
+              "unasur"
+            ],
+            "p": "otros organismos"
+          },
+          {
+            "k": [
+              "defiend",
+              "critic"
+            ],
+            "p": "las dos miradas"
+          }
+        ],
+        "referencia": "Organismo supraestatal: varios Estados con objetivos y reglas comunes; cada país decide si entra o sale. Regionales: MERCOSUR (1991, Argentina, Brasil, Paraguay y Uruguay; comercio), UNASUR (América del Sur; Argentina se retiró en 2019 y volvió en 2023), OEA (1948). Mundiales: ONU (1945; paz y derechos humanos), FMI y Banco Mundial (1944). Defensores: fuerza conjunta; críticos: límites a las decisiones propias.",
+        "minPalabras": 50
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El MERCOSUR se creó en 1991 con el Tratado de Asunción.",
+          "respuesta": true,
+          "explicacion": "Lo firmaron la Argentina, Brasil, Paraguay y Uruguay."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La sede del MERCOSUR está en Buenos Aires.",
+          "respuesta": false,
+          "explicacion": "Está en Montevideo, Uruguay."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La ONU se creó en 1945.",
+          "respuesta": true,
+          "explicacion": "Al terminar la Segunda Guerra Mundial."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La OEA es un organismo mundial.",
+          "respuesta": false,
+          "explicacion": "Reúne a los Estados de América: es regional."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Un país puede retirarse de un organismo supraestatal.",
+          "respuesta": true,
+          "explicacion": "La Argentina se retiró de la UNASUR en 2019."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Banco Mundial se creó en 1991.",
+          "respuesta": false,
+          "explicacion": "Se creó en 1944, junto con el FMI."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es un organismo supraestatal?",
+          "opciones": [
+            "Una organización de varios Estados",
+            "Un ministerio del gobierno nacional",
+            "Un partido político de varios países",
+            "Una empresa que trabaja en el exterior"
+          ],
+          "correcta": 0,
+          "explicacion": "Acuerdan objetivos y reglas comunes."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué países crearon el MERCOSUR?",
+          "opciones": [
+            "Argentina, Chile, Bolivia y el Perú",
+            "Brasil, Colombia, Ecuador y Uruguay",
+            "Argentina, México, Paraguay y Chile",
+            "Argentina, Brasil, Paraguay y Uruguay"
+          ],
+          "correcta": 3,
+          "explicacion": "Con el Tratado de Asunción de 1991."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué busca principalmente la ONU?",
+          "opciones": [
+            "Facilitar el comercio de América del Sur",
+            "Mantener la paz y proteger los derechos",
+            "Prestar dinero para obras en cada país",
+            "Organizar las elecciones de cada país"
+          ],
+          "correcta": 1,
+          "explicacion": "Y favorecer la cooperación."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estos organismos es mundial?",
+          "opciones": [
+            "La OEA",
+            "El FMI",
+            "La UNASUR",
+            "El MERCOSUR"
+          ],
+          "correcta": 1,
+          "explicacion": "Reúne a países de todo el mundo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué año se creó la OEA?",
+          "opciones": [
+            "1945",
+            "1944",
+            "1991",
+            "1948"
+          ],
+          "correcta": 3,
+          "explicacion": "Reúne a los Estados de América."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué hace el Banco Mundial?",
+          "opciones": [
+            "Apoya proyectos de desarrollo",
+            "Organiza las elecciones del país",
+            "Juzga a los presidentes de cada país",
+            "Crea leyes para cada país miembro"
+          ],
+          "correcta": 0,
+          "explicacion": "Presta dinero y da apoyo."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "SUPRAESTATAL",
+          "pista": "Organismo formado por varios Estados."
+        },
+        {
+          "palabra": "MERCOSUR",
+          "pista": "Bloque creado en 1991 por cuatro países sudamericanos."
+        },
+        {
+          "palabra": "ONU",
+          "pista": "Organismo mundial creado en 1945 para mantener la paz."
+        },
+        {
+          "palabra": "OEA",
+          "pista": "Organismo que reúne a los Estados de América."
+        },
+        {
+          "palabra": "MONTEVIDEO",
+          "pista": "Ciudad donde está la sede del MERCOSUR."
+        },
+        {
+          "palabra": "REGIONAL",
+          "pista": "Así es el organismo que reúne a países de una zona."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué los Estados forman organismos supraestatales?",
+          "opciones": [
+            "Porque así dejan de ser países independientes",
+            "Porque la Constitución obliga a entrar en todos",
+            "Porque hay problemas que no se resuelven solos",
+            "Porque así no tienen que hacer elecciones"
+          ],
+          "correcta": 2,
+          "explicacion": "El comercio, la paz o la salud, por ejemplo."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué tienen en común el FMI y el Banco Mundial?",
+          "opciones": [
+            "Son regionales y reúnen a países de América",
+            "Los crearon cuatro países del sur en 1991",
+            "Se crearon en 1944 y prestan a países",
+            "Organizan las elecciones de cada país miembro"
+          ],
+          "correcta": 2,
+          "explicacion": "El FMI cuida la estabilidad; el Banco Mundial financia el desarrollo."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La Argentina se retiró de la UNASUR en 2019 y volvió en 2023.",
+          "respuesta": true,
+          "explicacion": "Cada país decide si forma parte."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Iniciativa popular",
+      "definicion": "Derecho de la ciudadanía a presentar proyectos de ley."
+    },
+    {
+      "palabra": "Consulta popular",
+      "definicion": "Pregunta a la ciudadanía sobre un proyecto o un tema; puede ser vinculante o no."
+    },
+    {
+      "palabra": "Referéndum",
+      "definicion": "En Santa Fe, votación obligatoria sobre una ley, cuyo resultado obliga."
+    },
+    {
+      "palabra": "Revocatoria del mandato",
+      "definicion": "Pedido para que un funcionario elegido deje el cargo por grave incumplimiento."
+    },
+    {
+      "palabra": "Audiencia pública",
+      "definicion": "Reunión abierta para que la comunidad opine antes de una decisión."
+    },
+    {
+      "palabra": "Movimiento social",
+      "definicion": "Grupo de personas que se une alrededor de un reclamo o una causa."
+    },
+    {
+      "palabra": "Organismo supraestatal",
+      "definicion": "Organización formada por varios Estados con objetivos y reglas comunes."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "Por iniciativa popular se puede presentar cualquier proyecto de ley.",
+      "aclaracion": "Quedan excluidos los proyectos sobre reforma constitucional, tratados internacionales, tributos, presupuesto y materia penal."
+    },
+    {
+      "error": "En toda consulta popular el voto es obligatorio y el resultado obliga.",
+      "aclaracion": "Eso pasa en la vinculante (y en el referéndum santafesino). En la no vinculante el voto es optativo y el resultado no obliga."
+    },
+    {
+      "error": "Un país que entra en un organismo supraestatal deja de decidir por sí mismo.",
+      "aclaracion": "Entra por decisión propia, acepta reglas que acordó y puede retirarse."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "¿Qué problema de tu localidad podría llevarse a una audiencia pública o a una iniciativa popular? ¿Qué harías primero para informarte?",
+    "conexion": "Con la clase 5: el tránsito es un tema del espacio público en el que la comunidad también puede participar."
+  },
+  "objetivos": [
+    "Reconocer las formas de participación que reconoce la Constitución Nacional, aparte del voto.",
+    "Explicar los mecanismos de participación de la Constitución de Santa Fe de 2025 y otras formas de organizarse.",
+    "Explicar qué es un organismo supraestatal y para qué existen algunos de ellos."
+  ]
+}

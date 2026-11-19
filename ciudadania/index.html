@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Acompañamiento Pedagógico</title>
+<link rel="stylesheet" href="css/potenciar.css">
+<script>/* si ya eligió sus contenidos, esta página no se muestra: pasa directo a «Mi recorrido» */
+try { var enAula = false; try { enAula = window.parent !== window && !!window.parent.TV; } catch (e) {}
+  if (!enAula && !location.search.includes('cambiar') && (JSON.parse(localStorage.getItem('potenciar4.ciudadania.v1') || '{}').seleccion || []).length) document.documentElement.style.visibility = 'hidden'; } catch (e) {}</script>
+</head>
+<body>
+<div id="cab"></div>
+<main class="contenedor">
+  <section class="hero">
+    <h1 id="h1-materia">4.º año</h1>
+    <p>Preparate para febrero: aprendé los contenidos que te faltan, practicá con juegos y armá paso a paso el trabajo práctico que vas a presentar y defender.</p>
+  </section>
+
+  <section class="tarjeta">
+    <div class="titulo-seccion"><div class="chip-icono">✎</div><h2>Tus contenidos</h2></div>
+    <div class="subrayado"></div>
+    <h3 style="margin-top:6px">Marcá los contenidos que tenés que recuperar</h3>
+    <p class="ayuda">Tu profesor o profesora te dijo qué contenidos tenés que preparar. Marcá solo esos: vas a ver las clases de lo que elijas.</p>
+    <div class="acciones" style="margin:0 0 14px"><button class="btn suave chico" id="todos">Marcar todos los disponibles</button><button class="btn suave chico" id="ninguno">Desmarcar</button><span class="ayuda" id="cuenta"></span></div>
+    <div id="contenidos"></div>
+    <div class="acciones"><button class="btn" id="empezar" disabled>Empezar mi recorrido →</button><span class="ayuda" id="falta"></span></div>
+  </section>
+</main>
+
+<script type="module">
+import { leer, actualizar, esc, cargarJSON, cabecera } from './js/estado.js';
+import { ESPACIO, AJUSTES } from './js/config.js';
+
+document.getElementById('cab').innerHTML = cabecera();
+const $ = id => document.getElementById(id);
+let cat;
+const e = leer();
+// Si ya eligió sus contenidos, vuelve directo a su recorrido (salvo que haya pedido cambiarlos)
+if (e.seleccion.length && !new URLSearchParams(location.search).has('cambiar')) location.replace('recorrido.html');
+
+function pintarContenidos() {
+  const lista = cat.contenidos[ESPACIO] || [];
+  e.seleccion = e.seleccion.filter(id => lista.some(c => c.id === id && c.activo));
+  const ejes = [...new Set(lista.map(c => c.eje))];
+  $('contenidos').innerHTML = ejes.map(eje => `<div class="eje"><h3>${esc(eje)}</h3>` +
+    lista.filter(c => c.eje === eje).map(c => {
+      const sel = e.seleccion.includes(c.id);
+      return `<label class="contenido ${c.activo ? '' : 'inactivo'} ${sel ? 'sel' : ''}">
+        <input type="checkbox" value="${c.id}" ${c.activo ? '' : 'disabled'} ${sel ? 'checked' : ''}>
+        <div><div class="t">${esc(c.titulo)}${c.activo ? '' : '<span class="pronto">Próximamente</span>'}</div>
+        <ul>${c.desglose.map(d => `<li>${esc(d)}</li>`).join('')}</ul></div></label>`;
+    }).join('') + '</div>').join('');
+  validar();
+}
+function validar() {
+  const n = e.seleccion.length;
+  $('cuenta').textContent = n ? `${n} contenido${n > 1 ? 's' : ''} elegido${n > 1 ? 's' : ''}` : 'Todavía no elegiste ninguno';
+  $('empezar').disabled = !n;
+  $('falta').textContent = n ? '' : 'Falta: al menos un contenido.';
+}
+$('contenidos').addEventListener('change', ev => {
+  const i = ev.target; if (i.type !== 'checkbox') return;
+  e.seleccion = i.checked ? [...new Set([...e.seleccion, i.value])] : e.seleccion.filter(x => x !== i.value);
+  i.closest('.contenido').classList.toggle('sel', i.checked);
+  validar();
+});
+$('todos').onclick = () => { e.seleccion = (cat.contenidos[ESPACIO] || []).filter(c => c.activo).map(c => c.id); pintarContenidos(); };
+$('ninguno').onclick = () => { e.seleccion = []; pintarContenidos(); };
+$('empezar').onclick = () => {
+  actualizar(x => { x.espacio = ESPACIO; x.seleccion = e.seleccion; });
+  location.href = 'recorrido.html';
+};
+
+cargarJSON('contenidos/catalogo.json').then(c => { cat = c; const m = (c.espacios || []).find(s => s.id === ESPACIO); if (m) { $('h1-materia').textContent = m.nombre + ' · 4.º año'; document.title = m.nombre + ' · Acompañamiento Pedagógico'; } pintarContenidos(); }).catch(err => {
+  document.querySelector('main').insertAdjacentHTML('afterbegin',
+    `<div class="tarjeta"><b>No se pudo cargar el catálogo.</b><br>Abrí la plataforma desde un servidor web (iniciar.bat), no haciendo doble clic en el archivo.<br><small>${esc(err.message)}</small></div>`);
+});
+
+// MODO_PRUEBA (GitHub): al entrar desde la página de inicio, los contenidos arrancan sin tildar
+if (AJUSTES.MODO_PRUEBA && new URLSearchParams(location.search).has('inicio') && e.seleccion.length) { e.seleccion = []; actualizar(x => { x.seleccion = []; }); }
+</script>
+</body>
+</html>

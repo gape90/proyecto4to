@@ -1,0 +1,1285 @@
+{
+  "id": "ciu-4-01",
+  "espacio": "ciudadania",
+  "eje": "Ciudadanía y participación política",
+  "titulo": "Qué es lo político y cómo se ejerce el poder",
+  "intro": "Todos los días se toman decisiones que afectan a mucha gente: cómo se usa una plaza, qué reglas tiene una escuela, qué leyes rigen en el país. En esta clase vas a ver quiénes participan de esas decisiones, qué es el poder y por qué una decisión se acepta como válida.",
+  "tp_aporte": "Para tu trabajo práctico ya tenés: qué se entiende por lo político, quiénes son los actores y qué intereses tienen, qué es el poder y la legitimidad, y cómo se ejerce el poder en el Estado y en la vida cotidiana.",
+  "sugerencias_asistente": [
+    "¿Qué es lo político?",
+    "¿Qué significa legitimidad?",
+    "¿Quiénes son los actores?"
+  ],
+  "capsulas": [
+    {
+      "id": "c1",
+      "titulo": "Lo político: decisiones que nos afectan a todos y todas",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "ejemplo",
+          "titulo": "Pensalo así: una plaza sin luz",
+          "texto": "Imaginá una plaza de tu barrio que de noche queda a oscuras porque se quemaron las luces (es una situación inventada). ¿Quién tendría que decidir si se arregla? ¿Quién puede pedir que se haga? Con este caso vas a trabajar durante toda la parte."
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "ilustracion",
+          "src": "img/clases/ciu-4-01-plaza.webp",
+          "animacion": "acercar",
+          "alt": "Ilustración de noche en una plaza de pueblo. Bajo un farol apagado, cinco vecinos y vecinas de distintas edades conversan preocupados: un hombre, una señora mayor, un adolescente con mochila, una mujer y un hombre con anteojos que explica algo con las manos.",
+          "epigrafe": "Ilustración elaborada para esta clase."
+        },
+        {
+          "t": "texto",
+          "titulo": "Decisiones privadas y decisiones públicas",
+          "texto": "Algunas decisiones las toma cada persona sobre su propia vida: qué ropa ponerse, qué serie mirar, cómo organizar el tiempo de estudio. Son decisiones **privadas**.\n\nOtras afectan a muchas personas a la vez: arreglar la luz de una plaza, fijar las normas de convivencia de una escuela o sancionar una ley que rige en todo el país. Son decisiones **públicas**. El espacio donde esas decisiones se discuten y se resuelven se llama **esfera pública**."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada situación es una decisión privada o una decisión pública?",
+          "categorias": [
+            "Decisión privada",
+            "Decisión pública"
+          ],
+          "items": [
+            {
+              "texto": "Elegir qué ropa ponerte para salir",
+              "cat": "Decisión privada"
+            },
+            {
+              "texto": "Decidir si se arregla la luz de una plaza del barrio",
+              "cat": "Decisión pública"
+            },
+            {
+              "texto": "Establecer las normas de convivencia de una escuela",
+              "cat": "Decisión pública"
+            },
+            {
+              "texto": "Elegir qué serie ver en tu casa",
+              "cat": "Decisión privada"
+            },
+            {
+              "texto": "Aprobar una ley que rige en todo el país",
+              "cat": "Decisión pública"
+            },
+            {
+              "texto": "Organizar tu propio tiempo de estudio",
+              "cat": "Decisión privada"
+            }
+          ],
+          "explicacion": "Las decisiones privadas afectan sobre todo a quien las toma. Las públicas afectan a una comunidad y por eso se discuten entre muchas personas."
+        },
+        {
+          "t": "texto",
+          "titulo": "¿Qué es lo político?",
+          "texto": "**Lo político** es todo lo que tiene que ver con decidir sobre los asuntos comunes. Aparece cada vez que un grupo tiene que ponerse de acuerdo sobre algo que afecta a todos y todas, y las personas no piensan lo mismo.\n\nSe habla de política cuando hay un gobierno o un partido, pero también en un centro de estudiantes, en una cooperadora o en una reunión de vecinos y vecinas."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "Una decisión es **pública** cuando afecta a una comunidad. **Lo político** es todo lo que tiene que ver con decidir sobre esos asuntos comunes, donde distintas personas y grupos tienen **intereses** que pueden coincidir o chocar."
+        },
+        {
+          "t": "texto",
+          "titulo": "Los actores y sus intereses",
+          "texto": "En cada decisión pública participan distintos **actores**: personas, grupos e instituciones. Cada uno tiene **intereses**, es decir, cosas que quiere lograr o proteger. Mirá cómo se ve en el caso de la plaza."
+        },
+        {
+          "t": "fichas",
+          "titulo": "Quiénes participan en la decisión de la plaza sin luz",
+          "rotulos": [
+            "Qué busca",
+            "Cómo puede actuar"
+          ],
+          "items": [
+            {
+              "titulo": "Vecinos y vecinas",
+              "filas": [
+                "Que la plaza sea segura y se pueda usar de noche",
+                "Reclaman en una reunión, juntan firmas o presentan un pedido"
+              ]
+            },
+            {
+              "titulo": "El gobierno local (municipio o comuna)",
+              "filas": [
+                "Resolver los problemas del pueblo o la ciudad con el presupuesto que tiene",
+                "Decide si hace la obra, cuándo y con qué prioridad"
+              ]
+            },
+            {
+              "titulo": "Comercios de la zona",
+              "filas": [
+                "Que haya más gente circulando y más seguridad en la cuadra",
+                "Apoyan el pedido u ofrecen ayuda"
+              ]
+            },
+            {
+              "titulo": "Medios de comunicación locales",
+              "filas": [
+                "Informar lo que pasa en la comunidad",
+                "Cuentan el reclamo y lo hacen conocido"
+              ]
+            },
+            {
+              "titulo": "Un club o una vecinal",
+              "filas": [
+                "Representar los intereses de quienes forman parte",
+                "Reúnen a vecinos y vecinas y hablan en su nombre"
+              ]
+            }
+          ]
+        },
+        {
+          "t": "opcion",
+          "pregunta": "Mirá las fichas de arriba. ¿Qué actor puede decidir si la obra se hace y con qué presupuesto?",
+          "opciones": [
+            "Los comercios que están sobre la cuadra de la plaza",
+            "Los medios de comunicación que informan en la zona",
+            "El gobierno local del pueblo o ciudad",
+            "Un club o una vecinal que reúne a vecinos y vecinas"
+          ],
+          "correcta": 2,
+          "explicacion": "El gobierno local es quien tiene la responsabilidad de resolver los problemas de su territorio con el presupuesto que administra. Los demás actores pueden pedir, informar o apoyar.",
+          "pista": "Buscá la ficha donde dice quién decide si la obra se hace."
+        },
+        {
+          "t": "vf",
+          "consigna": "Decidí si cada afirmación es verdadera o falsa.",
+          "afirmaciones": [
+            {
+              "texto": "Solo los gobiernos y los partidos hacen política.",
+              "v": false,
+              "explicacion": "También hay participación política en un centro de estudiantes, una cooperadora o una reunión de vecinos y vecinas."
+            },
+            {
+              "texto": "Cada actor tiene intereses, y a veces coinciden con los de otros actores.",
+              "v": true,
+              "explicacion": "A veces coinciden y a veces chocan. Por eso hace falta discutir y llegar a acuerdos."
+            },
+            {
+              "texto": "Una decisión es pública cuando afecta a una comunidad.",
+              "v": true,
+              "explicacion": "Lo que define a una decisión pública es a quiénes afecta, no quién la toma."
+            },
+            {
+              "texto": "En una decisión pública todos los actores piensan lo mismo.",
+              "v": false,
+              "explicacion": "Tienen intereses distintos. Por eso se discute y se busca un acuerdo."
+            }
+          ]
+        },
+        {
+          "t": "completar",
+          "consigna": "Completá el texto con las palabras que faltan.",
+          "texto": "Las decisiones que afectan a una comunidad se llaman [[públicas]]. Quienes participan en ellas son los [[actores]], y cada uno tiene [[intereses]]: cosas que quiere lograr o proteger. Todo lo que tiene que ver con decidir sobre los asuntos comunes es lo [[político]].",
+          "distractores": [],
+          "explicacion": "Son los cuatro términos clave de la parte: decisión pública, actores, intereses y lo político.",
+          "pista": "Releé el recuadro \"Para recordar\"."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: si todos los actores quisieran exactamente lo mismo, ¿haría falta discutir?",
+          "respuesta": "Casi no. La política existe porque las personas y los grupos tienen intereses distintos y necesitan ponerse de acuerdo para decidir sobre lo común. Cuando hay acuerdo total, la decisión es simple; cuando no, hay que discutir, negociar y a veces votar."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué es lo político. Distinguí una decisión privada de una pública y describí, con un ejemplo de tu escuela o de tu localidad, quiénes participan en esa decisión y qué intereses puede tener cada actor.",
+        "guia": [
+          "¿Qué diferencia hay entre una decisión privada y una pública?",
+          "¿Qué se entiende por lo político?",
+          "¿Quiénes son los actores de una decisión pública? Nombrá al menos tres.",
+          "¿Qué son los intereses y por qué pueden chocar?",
+          "¿Qué decisión pública de tu escuela o de tu localidad podés usar como ejemplo?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "privad"
+            ],
+            "p": "las decisiones privadas"
+          },
+          {
+            "k": [
+              "public"
+            ],
+            "p": "las decisiones públicas"
+          },
+          {
+            "k": [
+              "politic"
+            ],
+            "p": "qué es lo político"
+          },
+          {
+            "k": [
+              "actor"
+            ],
+            "p": "los actores"
+          },
+          {
+            "k": [
+              "interes"
+            ],
+            "p": "los intereses"
+          }
+        ],
+        "referencia": "Las decisiones privadas las toma cada persona sobre su vida; las públicas afectan a una comunidad. Lo político es todo lo que tiene que ver con decidir sobre los asuntos comunes. En cada decisión participan actores (vecinos, gobierno local, medios, organizaciones) con intereses que pueden coincidir o chocar. Ejemplo propio de la escuela o la localidad.",
+        "minPalabras": 40
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "Elegir qué ropa ponerte es una decisión privada.",
+          "respuesta": true,
+          "explicacion": "Afecta sobre todo a quien la toma."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Una ley que rige en todo el país es una decisión pública.",
+          "respuesta": true,
+          "explicacion": "Afecta a toda la comunidad."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Lo político aparece solo en los gobiernos y los partidos.",
+          "respuesta": false,
+          "explicacion": "También aparece en un centro de estudiantes, una cooperadora o una reunión de vecinos y vecinas."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los intereses son cosas que un actor quiere lograr o proteger.",
+          "respuesta": true,
+          "explicacion": "Pueden coincidir con los de otros actores o chocar."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la decisión sobre la plaza, el gobierno local puede decidir si se hace la obra.",
+          "respuesta": true,
+          "explicacion": "Es quien administra el presupuesto del territorio."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los medios de comunicación locales no participan nunca en una decisión pública.",
+          "respuesta": false,
+          "explicacion": "Pueden hacer conocido un reclamo y llevarlo a toda la comunidad."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es una decisión pública?",
+          "opciones": [
+            "La que toma una sola persona",
+            "La que se toma en secreto",
+            "La que afecta a una comunidad",
+            "La que solo afecta a una familia"
+          ],
+          "correcta": 2,
+          "explicacion": "Lo que la define es a quiénes afecta."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué son los actores?",
+          "opciones": [
+            "Las personas, los grupos y las instituciones que participan en una decisión",
+            "Las personas que votan una única vez en toda su vida adulta",
+            "Los jueces que resuelven los conflictos entre dos vecinos o vecinas",
+            "Los medios que publican las noticias de una localidad o región"
+          ],
+          "correcta": 0,
+          "explicacion": "Cada actor participa desde su lugar y con sus intereses."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se llama lo que un actor quiere lograr o proteger?",
+          "opciones": [
+            "Esfera",
+            "Legislación",
+            "Padrón",
+            "Interés"
+          ],
+          "correcta": 3,
+          "explicacion": "Los intereses pueden coincidir o chocar."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estas situaciones es una decisión privada?",
+          "opciones": [
+            "Fijar las normas de convivencia de toda una escuela",
+            "Elegir cómo organizar tu tiempo de estudio",
+            "Arreglar la luz de una plaza que usa todo el barrio",
+            "Sancionar una ley que rige en todo el país"
+          ],
+          "correcta": 1,
+          "explicacion": "Afecta sobre todo a quien la toma."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cómo se llama el espacio donde se discuten y se resuelven las decisiones públicas?",
+          "opciones": [
+            "Esfera privada",
+            "Esfera pública",
+            "Esfera familiar",
+            "Esfera personal"
+          ],
+          "correcta": 1,
+          "explicacion": "Es el espacio de lo común."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué puede hacer un grupo de vecinos y vecinas ante la plaza sin luz?",
+          "opciones": [
+            "Decidir solos el presupuesto del municipio",
+            "Sancionar una ley nacional",
+            "Esperar sin decir nada",
+            "Reclamar en una reunión o juntar firmas"
+          ],
+          "correcta": 3,
+          "explicacion": "Es una forma de participar en una decisión pública."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "PÚBLICA",
+          "pista": "Así se llama la decisión que afecta a una comunidad."
+        },
+        {
+          "palabra": "PRIVADA",
+          "pista": "Así se llama la decisión que toma cada persona sobre su propia vida."
+        },
+        {
+          "palabra": "ACTORES",
+          "pista": "Personas, grupos e instituciones que participan en una decisión."
+        },
+        {
+          "palabra": "INTERESES",
+          "pista": "Lo que cada actor quiere lograr o proteger."
+        },
+        {
+          "palabra": "POLÍTICO",
+          "pista": "Todo lo que tiene que ver con decidir sobre los asuntos comunes."
+        },
+        {
+          "palabra": "COMUNIDAD",
+          "pista": "Grupo de personas al que afecta una decisión pública."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué arreglar la luz de una plaza es una decisión pública?",
+          "opciones": [
+            "Porque afecta a toda la comunidad que usa la plaza",
+            "Porque la toma una única persona que vive cerca",
+            "Porque nadie la discute ni la reclama en el barrio",
+            "Porque solo la toman los partidos políticos del país"
+          ],
+          "correcta": 0,
+          "explicacion": "Una decisión es pública por a quiénes afecta. Por eso participan varios actores."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué relación hay entre los actores y los intereses?",
+          "opciones": [
+            "Todos los actores tienen siempre exactamente los mismos intereses",
+            "Los intereses pertenecen solamente a quienes integran el gobierno",
+            "Cada actor tiene intereses que pueden coincidir o chocar",
+            "Los actores participan en las decisiones sin tener ningún interés"
+          ],
+          "correcta": 2,
+          "explicacion": "Por eso en una decisión pública hay que discutir y llegar a acuerdos."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Un centro de estudiantes también es un espacio donde aparece lo político.",
+          "respuesta": true,
+          "explicacion": "Hay decisiones comunes, actores distintos e intereses que se discuten."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "titulo": "El poder y por qué se acepta una decisión",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "¿Qué es el poder?",
+          "texto": "**Poder** es la capacidad de lograr que otras personas hagan algo o acepten una decisión. Lo tiene quien puede decidir sobre lo que les toca a otros: un gobierno, una docente en el aula, la capitana de un equipo, una madre o un padre en su familia.\n\nEl poder no siempre se apoya en la fuerza. Muchas veces funciona porque las personas **aceptan** que alguien tiene derecho a decidir."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "Un poder es **legítimo** cuando las personas lo reconocen como válido y aceptan cumplir sus decisiones. La **legitimidad** es esa aceptación."
+        },
+        {
+          "t": "pasos",
+          "titulo": "Cómo una decisión llega a ser aceptada",
+          "pasos": [
+            {
+              "titulo": "Alguien decide",
+              "texto": "Una persona o una institución toma una decisión que afecta a otras, por ejemplo, definir cómo se usa un espacio compartido."
+            },
+            {
+              "titulo": "Se apoya en una razón",
+              "texto": "Explica por qué puede decidir: porque fue elegida, porque hay una norma, porque siempre se hizo así o porque tiene la confianza del grupo."
+            },
+            {
+              "titulo": "Las personas la aceptan",
+              "texto": "Si reconocen esa razón como válida, cumplen la decisión aunque no coincidan del todo con ella. Ahí decimos que el poder es legítimo."
+            },
+            {
+              "titulo": "Si deja de ser aceptada, se discute",
+              "texto": "Cuando las personas dejan de reconocer esa razón, aparecen reclamos y pedidos de cambio."
+            }
+          ]
+        },
+        {
+          "t": "ordenar",
+          "consigna": "Ordená estos momentos de cómo una decisión llega a ser aceptada.",
+          "items": [
+            "Alguien toma una decisión que afecta a otras personas",
+            "Esa persona explica en qué se apoya para decidir",
+            "Las personas reconocen esa razón como válida",
+            "Las personas cumplen la decisión"
+          ],
+          "explicacion": "Primero se decide, después se da una razón, las personas la reconocen y por eso cumplen la decisión.",
+          "pista": "Volvé al paso a paso de arriba y fijate qué ocurre primero."
+        },
+        {
+          "t": "texto",
+          "titulo": "Tres fuentes de legitimidad",
+          "texto": "El sociólogo alemán **Max Weber** (1864-1920) distinguió tres razones por las que se acepta un poder.\n\n**La tradición**: se acepta porque siempre fue así. Por ejemplo, en una familia donde los abuelos definen cómo se celebra cada año.\n\n**El carisma**: se acepta por la admiración hacia las cualidades de una persona. Por ejemplo, la capitana de un equipo a la que todos y todas siguen porque confían en ella.\n\n**Las reglas**: se acepta porque la persona llegó al cargo por un camino que las normas establecen, como una elección o un concurso. Por ejemplo, quien preside un centro de estudiantes porque ganó una votación."
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "foto",
+          "src": "img/clases/ciu-4-01-weber.webp",
+          "animacion": "acercar",
+          "alt": "Retrato en blanco y negro de un hombre de barba, con traje oscuro y cuello blanco, que mira de frente.",
+          "epigrafe": "Max Weber, sociólogo alemán, en 1918.",
+          "fuente": "Ernst Gottmann (1918), dominio público, vía Wikimedia Commons. Recortada para esta clase"
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "grafico",
+          "titulo": "Tres razones para aceptar un poder",
+          "src": "img/clases/ciu-4-01-legitimidad.svg",
+          "src_movil": "img/clases/ciu-4-01-legitimidad-movil.svg",
+          "alt": "Esquema de las tres fuentes de legitimidad según Max Weber. Tradición: se acepta porque siempre fue así, por ejemplo, los abuelos deciden cómo se celebra cada año. Carisma: se acepta por admiración a las cualidades de alguien, por ejemplo, el equipo sigue a la capitana porque confía en ella. Reglas: se acepta porque la persona llegó al cargo por el camino que fijan las normas, por ejemplo, quien preside el centro de estudiantes ganó una votación.",
+          "epigrafe": "Esquema elaborado para esta clase.",
+          "animacion": "svg"
+        },
+        {
+          "t": "verificar",
+          "consigna": "Buscá en el texto de arriba el apellido del sociólogo alemán que distinguió tres fuentes de legitimidad.",
+          "respuesta": "Weber",
+          "acepta": [
+            "weber",
+            "max weber"
+          ],
+          "formato": "Escribí solo el apellido.",
+          "explicacion": "Max Weber (1864-1920) propuso la tradición, el carisma y las reglas como razones para aceptar un poder.",
+          "pista1": "Fijate en el texto \"Tres fuentes de legitimidad\", en la primera oración.",
+          "pista": "Empieza con W."
+        },
+        {
+          "t": "historieta",
+          "titulo": "¿Por qué el curso la respeta?",
+          "situacion": "Esta situación es inventada. Martina es la delegada de su curso: la eligieron en una votación. Con la dirección, fijó la fecha de una rifa para juntar dinero. Algunos querían otra fecha, pero todo el curso la respetó. Tres estudiantes discuten por qué.",
+          "personajes": [
+            {
+              "nombre": "Ana",
+              "img": "img/clases/ciu-4-01-ana.webp",
+              "color": "#B83A7A",
+              "dice": "La respetamos porque Martina es la más simpática del curso y todos la quieren.",
+              "por_que": "Eso sería carisma: aceptar a alguien por sus cualidades. Pero Martina llegó a delegada por una votación."
+            },
+            {
+              "nombre": "Tomás",
+              "img": "img/clases/ciu-4-01-tomas.webp",
+              "color": "#5B2A86",
+              "dice": "Porque desde primer año la delegada siempre decide estas cosas, y así quedó.",
+              "por_que": "Eso sería tradición: aceptar algo porque siempre fue así. Fijate cómo llegó Martina al cargo."
+            },
+            {
+              "nombre": "Catalina",
+              "img": "img/clases/ciu-4-01-catalina.webp",
+              "color": "#4B4FA3",
+              "dice": "Porque la elegimos en una votación con reglas que todos conocíamos.",
+              "por_que": ""
+            }
+          ],
+          "pregunta": "¿Quién tiene razón?",
+          "correcta": 2,
+          "explicacion": "Martina llegó al cargo por un camino que fijan las reglas: una votación. Por eso su decisión es legítima aunque no todos estén de acuerdo.",
+          "pista": "Releé el texto de las tres fuentes de legitimidad y pensá cómo llegó Martina a ser delegada."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "🗣️ Esta frase está inventada: \"Lo hacemos así porque siempre se hizo así en mi familia\". ¿En qué razón se apoya quien la dice?",
+          "opciones": [
+            "En la tradición",
+            "En el carisma",
+            "En las reglas",
+            "En el castigo"
+          ],
+          "correcta": 0,
+          "explicacion": "Quien dice \"siempre se hizo así\" apoya su decisión en la tradición.",
+          "pista": "Fijate qué palabras de la frase se repiten en el texto de las tres fuentes."
+        },
+        {
+          "t": "opcion",
+          "pregunta": "🔍 Encontrá el error. Una de estas frases no coincide con lo que viste en la parte. ¿Cuál es?",
+          "opciones": [
+            "Un poder legítimo es el que las personas reconocen como válido.",
+            "Un poder se puede aceptar por tradición, por carisma o por las reglas.",
+            "Cuando se deja de reconocer un poder, suelen aparecer reclamos.",
+            "Un poder solo es legítimo si logra que todos obedezcan por miedo."
+          ],
+          "correcta": 3,
+          "explicacion": "La legitimidad depende de que las personas reconozcan el poder como válido, no del miedo.",
+          "pista": "Releé el recuadro \"Para recordar\"."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿qué pasa cuando un grupo deja de reconocer como válida a la persona que decide?",
+          "respuesta": "Aparecen los reclamos, la discusión y los pedidos de cambio. El poder pierde legitimidad y, para sostenerse, necesita nuevas razones o cambios en la forma de decidir."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá qué es el poder y qué significa que sea legítimo. Describí las tres fuentes de legitimidad que propuso Max Weber y poné un ejemplo de cada una en un espacio cercano, como la escuela o un club.",
+        "guia": [
+          "¿Qué es el poder?",
+          "¿Qué significa que un poder sea legítimo?",
+          "¿Cuáles son las tres fuentes de legitimidad que distinguió Weber?",
+          "¿Qué ejemplo de cada una se te ocurre en una escuela o en un club?",
+          "¿Qué suele pasar cuando un grupo deja de reconocer a quien decide?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "poder"
+            ],
+            "p": "qué es el poder"
+          },
+          {
+            "k": [
+              "legitim"
+            ],
+            "p": "qué es la legitimidad"
+          },
+          {
+            "k": [
+              "tradicion"
+            ],
+            "p": "la tradición"
+          },
+          {
+            "k": [
+              "carisma"
+            ],
+            "p": "el carisma"
+          },
+          {
+            "k": [
+              "regla",
+              "norma",
+              "legal"
+            ],
+            "p": "las reglas"
+          },
+          {
+            "k": [
+              "weber"
+            ],
+            "p": "Max Weber"
+          }
+        ],
+        "referencia": "El poder es la capacidad de lograr que otras personas hagan algo o acepten una decisión. Es legítimo cuando se lo reconoce como válido. Weber distinguió la tradición, el carisma y las reglas. Ejemplos propios. Si se deja de reconocer a quien decide, aparecen reclamos.",
+        "minPalabras": 45
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "El poder es la capacidad de lograr que otras personas acepten una decisión.",
+          "respuesta": true,
+          "explicacion": "Puede apoyarse en la aceptación y no solo en la fuerza."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Un poder es legítimo cuando las personas lo reconocen como válido.",
+          "respuesta": true,
+          "explicacion": "La legitimidad es esa aceptación."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Según Weber, la tradición es una fuente de legitimidad.",
+          "respuesta": true,
+          "explicacion": "Se acepta porque siempre fue así."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Quien llega a un cargo por una elección apoya su poder en el carisma.",
+          "respuesta": false,
+          "explicacion": "Se apoya en las reglas: la elección es el camino que establecen las normas."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El carisma se apoya en la admiración hacia las cualidades de una persona.",
+          "respuesta": true,
+          "explicacion": "Por ejemplo, la capitana a la que su equipo sigue por confianza."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Max Weber fue un sociólogo argentino.",
+          "respuesta": false,
+          "explicacion": "Fue un sociólogo alemán (1864-1920)."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es el poder?",
+          "opciones": [
+            "La capacidad de lograr que otros acepten una decisión",
+            "El dinero que una persona tiene guardado en el banco",
+            "La edad que tiene quien decide sobre un grupo de personas",
+            "El cargo que una familia hereda de una generación a otra"
+          ],
+          "correcta": 0,
+          "explicacion": "No siempre se apoya en la fuerza."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué significa que un poder sea legítimo?",
+          "opciones": [
+            "Que lo imponen siempre quienes tienen más edad",
+            "Que nadie lo discute ni lo reclama en ningún momento",
+            "Que se cumple solamente porque se le tiene miedo",
+            "Que las personas lo reconocen como válido"
+          ],
+          "correcta": 3,
+          "explicacion": "La legitimidad es la aceptación de ese poder."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué se apoya una decisión que se acepta porque siempre fue así?",
+          "opciones": [
+            "En el carisma",
+            "En la tradición",
+            "En las reglas",
+            "En el castigo"
+          ],
+          "correcta": 1,
+          "explicacion": "Es la primera fuente que distinguió Weber."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué se apoya quien preside un centro de estudiantes porque ganó una votación?",
+          "opciones": [
+            "En la tradición",
+            "En las reglas",
+            "En el carisma",
+            "En la costumbre"
+          ],
+          "correcta": 1,
+          "explicacion": "Llegó al cargo por un camino que establecen las normas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué suele ocurrir cuando un grupo deja de reconocer a quien decide?",
+          "opciones": [
+            "La decisión se vuelve todavía más legítima para el grupo",
+            "Nadie vuelve a opinar sobre los asuntos que son comunes",
+            "Se acepta la decisión únicamente por tradición familiar",
+            "Aparecen reclamos y pedidos de cambio"
+          ],
+          "correcta": 3,
+          "explicacion": "El poder pierde legitimidad."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿En qué se apoya un entrenador al que el equipo sigue porque confía en él?",
+          "opciones": [
+            "En el carisma",
+            "En las reglas",
+            "En la tradición",
+            "En un reglamento"
+          ],
+          "correcta": 0,
+          "explicacion": "Se acepta por las cualidades personales."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "PODER",
+          "pista": "Capacidad de lograr que otras personas acepten una decisión."
+        },
+        {
+          "palabra": "LEGÍTIMO",
+          "pista": "Así se llama el poder que las personas reconocen como válido."
+        },
+        {
+          "palabra": "TRADICIÓN",
+          "pista": "Se acepta una decisión porque siempre fue así."
+        },
+        {
+          "palabra": "CARISMA",
+          "pista": "Admiración hacia las cualidades de una persona."
+        },
+        {
+          "palabra": "REGLAS",
+          "pista": "Camino que establecen las normas para llegar a un cargo."
+        },
+        {
+          "palabra": "WEBER",
+          "pista": "Sociólogo alemán que distinguió tres fuentes de legitimidad."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué una persona elegida en una votación tiene poder legítimo en un centro de estudiantes?",
+          "opciones": [
+            "Porque tiene más edad que el resto de las personas del grupo",
+            "Porque siempre se hizo así en todos los centros de estudiantes",
+            "Porque llegó al cargo por un camino que fijan las reglas",
+            "Porque nadie puede opinar sobre lo que ella decide"
+          ],
+          "correcta": 2,
+          "explicacion": "Es el caso de las reglas: la elección es un camino que establecen las normas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué diferencia hay entre el carisma y la tradición?",
+          "opciones": [
+            "El carisma se apoya en una elección y la tradición en lo que dice una norma escrita",
+            "No hay diferencia entre ambas, porque son dos nombres de una misma razón para aceptar",
+            "El carisma se apoya en las cualidades de una persona y la tradición en que siempre fue así",
+            "El carisma se obtiene por herencia y la tradición por votación de las personas del grupo"
+          ],
+          "correcta": 2,
+          "explicacion": "Son dos fuentes distintas de legitimidad en la clasificación de Weber."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Un poder puede ser legítimo aunque algunas personas no coincidan del todo con sus decisiones.",
+          "respuesta": true,
+          "explicacion": "Si reconocen la razón en la que se apoya, cumplen la decisión igual."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "titulo": "El poder en el Estado y en la vida cotidiana",
+      "tiempo": "30 a 40 min",
+      "bloques": [
+        {
+          "t": "texto",
+          "titulo": "Un escenario amplio y varios cercanos",
+          "texto": "El poder no está solo en el gobierno. Se ejerce en un escenario **amplio**, que es el del Estado y la sociedad civil, y en espacios **cercanos**: la familia, la escuela, los grupos de pares, el trabajo y la comunidad.\n\nEn todos hay alguien que decide, reglas que se siguen y razones por las que esas decisiones se aceptan."
+        },
+        {
+          "t": "texto",
+          "titulo": "El Estado: tres poderes",
+          "texto": "La **Constitución Nacional** organiza el gobierno del país en tres poderes. Cada uno cumple una función distinta, y así el poder no queda concentrado en una sola persona o institución. Las provincias, como Santa Fe, tienen sus propias autoridades."
+        },
+        {
+          "t": "imagen",
+          "_imagen": true,
+          "tipo": "foto",
+          "src": "img/clases/ciu-4-01-congreso.webp",
+          "animacion": "recorrer",
+          "alt": "Fotografía del edificio del Congreso de la Nación, con una gran cúpula verde, columnas y estatuas. En la vereda camina gente y por la calle pasan autos.",
+          "epigrafe": "Palacio del Congreso de la Nación, en la Ciudad de Buenos Aires. Ahí funciona el Poder Legislativo.",
+          "fuente": "Felipe Restrepo Acosta (2019), CC BY-SA 4.0, vía Wikimedia Commons"
+        },
+        {
+          "t": "comparar",
+          "titulo": "Los tres poderes del Estado nacional",
+          "columnas": [
+            "Poder",
+            "Qué hace",
+            "Quién lo ejerce"
+          ],
+          "filas": [
+            [
+              "Legislativo",
+              "Sanciona las leyes",
+              "El Congreso de la Nación, formado por la Cámara de Diputados y la Cámara de Senadores"
+            ],
+            [
+              "Ejecutivo",
+              "Gobierna y hace cumplir las leyes",
+              "El presidente o la presidenta de la Nación"
+            ],
+            [
+              "Judicial",
+              "Resuelve conflictos aplicando las leyes",
+              "La Corte Suprema de Justicia y los demás jueces y juezas"
+            ]
+          ]
+        },
+        {
+          "t": "esquema",
+          "_imagen": true,
+          "consigna": "Completá el esquema de los tres poderes: ubicá cada etiqueta en su casillero. Si no te acordás, mirá la tabla de arriba.",
+          "imagen": {
+            "src": "img/clases/ciu-4-01-poderes.svg",
+            "src_movil": "img/clases/ciu-4-01-poderes-movil.svg",
+            "tipo": "grafico",
+            "alt": "Esquema de los tres poderes del Estado nacional: Legislativo, Ejecutivo y Judicial. Cada uno tiene dos casilleros para completar: qué hace y quién lo ejerce.",
+            "epigrafe": "Esquema elaborado para esta clase."
+          },
+          "huecos": [
+            {
+              "x": 5.0,
+              "y": 29.79,
+              "w": 26.0,
+              "h": 23.4,
+              "respuesta": "Sanciona las leyes",
+              "fija": true,
+              "movil": {
+                "x": 7.69,
+                "y": 12.69,
+                "w": 84.62,
+                "h": 7.69
+              }
+            },
+            {
+              "x": 5.0,
+              "y": 65.53,
+              "w": 26.0,
+              "h": 25.53,
+              "respuesta": "El Congreso de la Nación",
+              "movil": {
+                "x": 7.69,
+                "y": 24.62,
+                "w": 84.62,
+                "h": 6.73
+              }
+            },
+            {
+              "x": 37.0,
+              "y": 29.79,
+              "w": 26.0,
+              "h": 23.4,
+              "respuesta": "Gobierna y hace cumplir las leyes",
+              "movil": {
+                "x": 7.69,
+                "y": 45.38,
+                "w": 84.62,
+                "h": 7.69
+              }
+            },
+            {
+              "x": 37.0,
+              "y": 65.53,
+              "w": 26.0,
+              "h": 25.53,
+              "respuesta": "El presidente o la presidenta",
+              "movil": {
+                "x": 7.69,
+                "y": 57.31,
+                "w": 84.62,
+                "h": 6.73
+              }
+            },
+            {
+              "x": 69.0,
+              "y": 29.79,
+              "w": 26.0,
+              "h": 23.4,
+              "respuesta": "Resuelve conflictos aplicando las leyes",
+              "movil": {
+                "x": 7.69,
+                "y": 78.08,
+                "w": 84.62,
+                "h": 7.69
+              }
+            },
+            {
+              "x": 69.0,
+              "y": 65.53,
+              "w": 26.0,
+              "h": 25.53,
+              "respuesta": "La Corte Suprema y los jueces y juezas",
+              "fija": true,
+              "movil": {
+                "x": 7.69,
+                "y": 90.0,
+                "w": 84.62,
+                "h": 6.73
+              }
+            }
+          ],
+          "explicacion": "Es la misma información de la tabla, ahora en un esquema: cada poder tiene una función y alguien que lo ejerce.",
+          "pista": "Cada columna del esquema es una fila de la tabla de los tres poderes."
+        },
+        {
+          "t": "texto",
+          "titulo": "La sociedad civil",
+          "texto": "Fuera del Estado, las personas se organizan en la **sociedad civil**: clubes, cooperadoras, sindicatos, organizaciones no gubernamentales, centros de estudiantes. No toman las decisiones que le corresponden al gobierno, pero pueden pedir, proponer y controlar lo que se decide."
+        },
+        {
+          "t": "destacado",
+          "titulo": "Para recordar",
+          "texto": "El poder se ejerce en el **Estado** (tres poderes), en la **sociedad civil** y en espacios **cercanos** como la familia, la escuela, los grupos de pares, el trabajo y la comunidad."
+        },
+        {
+          "t": "clasificar",
+          "consigna": "¿Cada situación ocurre en un escenario amplio o en un espacio cercano?",
+          "categorias": [
+            "Escenario amplio",
+            "Espacio cercano"
+          ],
+          "items": [
+            {
+              "texto": "El Congreso sanciona una ley",
+              "cat": "Escenario amplio"
+            },
+            {
+              "texto": "Un curso elige a sus delegados o delegadas",
+              "cat": "Espacio cercano"
+            },
+            {
+              "texto": "Una jueza resuelve un conflicto aplicando la ley",
+              "cat": "Escenario amplio"
+            },
+            {
+              "texto": "Una familia acuerda sus reglas de convivencia",
+              "cat": "Espacio cercano"
+            },
+            {
+              "texto": "Un club organiza una campaña solidaria en el pueblo",
+              "cat": "Escenario amplio"
+            },
+            {
+              "texto": "Un grupo de amigos y amigas decide cómo organizar una juntada",
+              "cat": "Espacio cercano"
+            }
+          ],
+          "explicacion": "El escenario amplio es el del Estado y la sociedad civil. Los espacios cercanos son los de la vida cotidiana, donde también hay decisiones, reglas y razones para aceptarlas."
+        },
+        {
+          "t": "vf",
+          "consigna": "Decidí si cada afirmación es verdadera o falsa.",
+          "afirmaciones": [
+            {
+              "texto": "El poder se ejerce solo en el gobierno.",
+              "v": false,
+              "explicacion": "También se ejerce en la sociedad civil y en espacios cercanos como la escuela o la familia."
+            },
+            {
+              "texto": "En la escuela también hay poder: hay reglas y personas que toman decisiones.",
+              "v": true,
+              "explicacion": "Y esas decisiones se aceptan por razones, igual que en el Estado."
+            },
+            {
+              "texto": "La Constitución Nacional organiza el gobierno en tres poderes.",
+              "v": true,
+              "explicacion": "Legislativo, Ejecutivo y Judicial."
+            },
+            {
+              "texto": "La sociedad civil reemplaza al Poder Ejecutivo cuando decide.",
+              "v": false,
+              "explicacion": "Puede pedir, proponer y controlar, pero no reemplaza a las autoridades."
+            }
+          ]
+        },
+        {
+          "t": "opcion",
+          "pregunta": "📰 Elegí el titular. Un periodista escribe sobre el Poder Judicial. ¿Cuál de estos titulares es el suyo?",
+          "opciones": [
+            "El Congreso aprobó una ley nueva en una sesión",
+            "Una jueza resolvió un conflicto aplicando la ley",
+            "El presidente firmó medidas de gobierno nuevas",
+            "Un club organizó una campaña solidaria en el pueblo"
+          ],
+          "correcta": 1,
+          "explicacion": "El Poder Judicial resuelve conflictos aplicando las leyes.",
+          "pista": "Buscá en la tabla de los tres poderes la fila del Poder Judicial."
+        },
+        {
+          "t": "revelar",
+          "pregunta": "Pensá: ¿por qué conviene que el poder no quede todo en una sola persona o institución?",
+          "respuesta": "Cuando un solo actor decide todo, es más difícil que otros lo controlen y que se escuchen distintos intereses. Repartir funciones entre tres poderes permite que cada uno cumpla su tarea y que se vigilen entre sí."
+        }
+      ],
+      "carpeta": {
+        "titulo": "Anotá en tu carpeta",
+        "instruccion": "Explicá cómo se ejerce el poder en el Estado y en un espacio cercano a vos, como la escuela. Nombrá los tres poderes con su función, explicá qué es la sociedad civil y compará una decisión del Estado con una decisión de tu escuela.",
+        "guia": [
+          "¿Cuáles son los tres poderes y qué hace cada uno?",
+          "¿Qué es la sociedad civil? Poné dos ejemplos.",
+          "¿Qué puede hacer la sociedad civil frente a una decisión del gobierno?",
+          "¿Quién decide en tu escuela y en qué reglas se apoya?",
+          "¿Qué se parece y qué cambia entre una decisión del Estado y una de tu escuela?"
+        ],
+        "claves": [
+          {
+            "k": [
+              "legislativ",
+              "congreso"
+            ],
+            "p": "el Poder Legislativo"
+          },
+          {
+            "k": [
+              "ejecutiv",
+              "president"
+            ],
+            "p": "el Poder Ejecutivo"
+          },
+          {
+            "k": [
+              "judicial",
+              "juez",
+              "jueza"
+            ],
+            "p": "el Poder Judicial"
+          },
+          {
+            "k": [
+              "sociedad civil"
+            ],
+            "p": "la sociedad civil"
+          },
+          {
+            "k": [
+              "escuela",
+              "familia",
+              "curso"
+            ],
+            "p": "un espacio cercano"
+          }
+        ],
+        "referencia": "El Estado se organiza en tres poderes: el Legislativo sanciona leyes, el Ejecutivo gobierna y hace cumplir las leyes, el Judicial resuelve conflictos. La sociedad civil (clubes, cooperadoras, sindicatos, centros de estudiantes) puede pedir, proponer y controlar. En la escuela también hay reglas y personas que deciden. Comparación propia.",
+        "minPalabras": 45
+      },
+      "juegos": [
+        {
+          "tipo": "vf",
+          "texto": "La Constitución Nacional organiza el gobierno en tres poderes.",
+          "respuesta": true,
+          "explicacion": "Legislativo, Ejecutivo y Judicial."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Poder Legislativo sanciona las leyes.",
+          "respuesta": true,
+          "explicacion": "Lo ejerce el Congreso de la Nación."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Poder Judicial gobierna y hace cumplir las leyes.",
+          "respuesta": false,
+          "explicacion": "Esa función es del Poder Ejecutivo. El Judicial resuelve conflictos aplicando las leyes."
+        },
+        {
+          "tipo": "vf",
+          "texto": "El Congreso de la Nación está formado por dos cámaras.",
+          "respuesta": true,
+          "explicacion": "La Cámara de Diputados y la Cámara de Senadores."
+        },
+        {
+          "tipo": "vf",
+          "texto": "La sociedad civil incluye a los clubes y a las cooperadoras.",
+          "respuesta": true,
+          "explicacion": "También a los sindicatos, las organizaciones no gubernamentales y los centros de estudiantes."
+        },
+        {
+          "tipo": "vf",
+          "texto": "En la familia y en la escuela no hay relaciones de poder.",
+          "respuesta": false,
+          "explicacion": "En ambas alguien decide, hay reglas y razones para aceptarlas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué poder del Estado sanciona las leyes?",
+          "opciones": [
+            "Judicial",
+            "Legislativo",
+            "Ejecutivo",
+            "Municipal"
+          ],
+          "correcta": 1,
+          "explicacion": "Lo ejerce el Congreso de la Nación."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Quién ejerce el Poder Ejecutivo nacional?",
+          "opciones": [
+            "El Congreso de la Nación, con sus dos cámaras",
+            "El presidente o la presidenta de la Nación",
+            "La Corte Suprema de Justicia y los demás jueces",
+            "Un centro de estudiantes de una escuela"
+          ],
+          "correcta": 1,
+          "explicacion": "Gobierna y hace cumplir las leyes."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué hace el Poder Judicial?",
+          "opciones": [
+            "Sanciona las leyes que rigen en el país",
+            "Administra el presupuesto de la Nación",
+            "Organiza las elecciones de una escuela",
+            "Resuelve conflictos aplicando las leyes"
+          ],
+          "correcta": 3,
+          "explicacion": "Lo ejercen la Corte Suprema y los demás jueces y juezas."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué es la sociedad civil?",
+          "opciones": [
+            "Las organizaciones que las personas forman fuera del Estado",
+            "El conjunto formado por los tres poderes del Estado",
+            "Solamente los partidos políticos de un país entero",
+            "Las leyes que organizan el gobierno de una provincia"
+          ],
+          "correcta": 0,
+          "explicacion": "Puede pedir, proponer y controlar lo que se decide."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Cuál de estos es un espacio cercano?",
+          "opciones": [
+            "El Congreso de la Nación",
+            "La Corte Suprema",
+            "La escuela",
+            "El Poder Ejecutivo"
+          ],
+          "correcta": 2,
+          "explicacion": "También lo son la familia, el trabajo y la comunidad."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Por qué el gobierno se organiza en tres poderes?",
+          "opciones": [
+            "Para que solo uno de ellos decida todo lo que se hace en el país",
+            "Para que las leyes que se sancionan no se cumplan en la práctica",
+            "Para que cada uno cumpla una función y el poder no quede concentrado",
+            "Para que no sea necesario elegir a quienes ocupan los cargos"
+          ],
+          "correcta": 2,
+          "explicacion": "Repartir funciones permite que se controlen entre sí."
+        }
+      ],
+      "palabras": [
+        {
+          "palabra": "ESTADO",
+          "pista": "Organización que gobierna un país y se divide en tres poderes."
+        },
+        {
+          "palabra": "LEGISLATIVO",
+          "pista": "Poder que sanciona las leyes."
+        },
+        {
+          "palabra": "EJECUTIVO",
+          "pista": "Poder que gobierna y hace cumplir las leyes."
+        },
+        {
+          "palabra": "JUDICIAL",
+          "pista": "Poder que resuelve conflictos aplicando las leyes."
+        },
+        {
+          "palabra": "SOCIEDAD CIVIL",
+          "pista": "Organizaciones que las personas forman fuera del Estado."
+        },
+        {
+          "palabra": "CONGRESO",
+          "pista": "Lugar donde funciona el Poder Legislativo nacional."
+        }
+      ],
+      "autoevaluacion": [
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué diferencia hay entre el Poder Legislativo y el Poder Judicial?",
+          "opciones": [
+            "El Legislativo sanciona las leyes y el Judicial resuelve conflictos aplicándolas",
+            "El Legislativo gobierna el país y el Judicial sanciona las leyes nuevas",
+            "No hay diferencia entre ambos, porque los dos cumplen la misma función",
+            "El Judicial hace las leyes y el Legislativo las aplica a cada conflicto"
+          ],
+          "correcta": 0,
+          "explicacion": "Cada poder cumple una función distinta."
+        },
+        {
+          "tipo": "mc",
+          "pregunta": "¿Qué puede hacer la sociedad civil frente a una decisión del gobierno?",
+          "opciones": [
+            "Reemplazar al Poder Ejecutivo",
+            "Sancionar las leyes nacionales",
+            "Resolver conflictos como un juez",
+            "Pedir, proponer y controlar"
+          ],
+          "correcta": 3,
+          "explicacion": "No reemplaza a las autoridades, pero participa."
+        },
+        {
+          "tipo": "vf",
+          "texto": "Los espacios cercanos, como la escuela, también tienen decisiones, reglas y razones para aceptarlas.",
+          "respuesta": true,
+          "explicacion": "Por eso también se puede hablar de poder en la vida cotidiana."
+        }
+      ]
+    }
+  ],
+  "vocabulario": [
+    {
+      "palabra": "Decisión pública",
+      "definicion": "Decisión que afecta a una comunidad y se discute entre varias personas."
+    },
+    {
+      "palabra": "Lo político",
+      "definicion": "Todo lo que tiene que ver con decidir sobre los asuntos comunes."
+    },
+    {
+      "palabra": "Actor",
+      "definicion": "Persona, grupo o institución que participa en una decisión."
+    },
+    {
+      "palabra": "Interés",
+      "definicion": "Lo que un actor quiere lograr o proteger."
+    },
+    {
+      "palabra": "Poder",
+      "definicion": "Capacidad de lograr que otras personas acepten una decisión."
+    },
+    {
+      "palabra": "Legitimidad",
+      "definicion": "Aceptación de un poder porque se lo reconoce como válido."
+    },
+    {
+      "palabra": "Sociedad civil",
+      "definicion": "Organizaciones que las personas forman fuera del Estado, como clubes, cooperadoras y centros de estudiantes."
+    }
+  ],
+  "errores_frecuentes": [
+    {
+      "error": "La política es solo cosa de gobiernos y partidos.",
+      "aclaracion": "También hay participación política en un centro de estudiantes, una cooperadora o una reunión de vecinos y vecinas."
+    },
+    {
+      "error": "Un poder legítimo es el que logra que todos obedezcan por miedo.",
+      "aclaracion": "Es el que las personas reconocen como válido y aceptan."
+    },
+    {
+      "error": "El poder solo existe en el Estado.",
+      "aclaracion": "También se ejerce en la sociedad civil y en espacios cercanos como la familia, la escuela y el trabajo."
+    }
+  ],
+  "para_ir_mas_alla": {
+    "pregunta": "Pensá en una decisión que se tomó en tu escuela y que afectó a todo tu curso. ¿Quiénes participaron? ¿En qué razón se apoyaba quien decidió?",
+    "conexion": "Con la clase 2: ahí vas a ver cómo se eligen representantes y qué lugar tienen el voto y los derechos políticos de los jóvenes."
+  },
+  "objetivos": [
+    "Reconocer qué es lo político y quiénes son los actores que participan en una decisión que afecta a una comunidad.",
+    "Explicar qué es el poder y por qué una decisión se considera legítima.",
+    "Identificar cómo se ejerce el poder en el Estado, en la sociedad civil y en espacios cercanos como la escuela."
+  ]
+}

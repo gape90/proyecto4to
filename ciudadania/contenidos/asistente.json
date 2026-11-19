@@ -1,0 +1,895 @@
+{
+ "descripcion": "Contenido del asistente de Construcción de Ciudadanía y Participación (sin IA). Revisar con docente del área antes de usar con estudiantes.",
+ "materia": "Construcción de Ciudadanía y Participación",
+ "ejemplos": "\"legitimidad\" o \"sufragio\"",
+ "palabras": [
+  {
+   "palabra": "Decisión pública",
+   "definicion": "Decisión que afecta a una comunidad y se discute entre varias personas.",
+   "formas": [
+    "decisiones publicas",
+    "publica",
+    "publico"
+   ]
+  },
+  {
+   "palabra": "Decisión privada",
+   "definicion": "Decisión que cada persona toma sobre su propia vida.",
+   "formas": [
+    "privada",
+    "privado",
+    "decisiones privadas"
+   ]
+  },
+  {
+   "palabra": "Esfera pública",
+   "definicion": "Espacio donde se discuten y se resuelven las decisiones públicas.",
+   "formas": [
+    "esfera"
+   ]
+  },
+  {
+   "palabra": "Lo político",
+   "definicion": "Todo lo que tiene que ver con decidir sobre los asuntos comunes.",
+   "formas": [
+    "politico",
+    "politica"
+   ]
+  },
+  {
+   "palabra": "Actor",
+   "definicion": "Persona, grupo o institución que participa en una decisión.",
+   "formas": [
+    "actores"
+   ]
+  },
+  {
+   "palabra": "Interés",
+   "definicion": "Lo que un actor quiere lograr o proteger.",
+   "formas": [
+    "intereses",
+    "interes"
+   ]
+  },
+  {
+   "palabra": "Poder",
+   "definicion": "Capacidad de lograr que otras personas acepten una decisión.",
+   "formas": [
+    "poderes"
+   ]
+  },
+  {
+   "palabra": "Legitimidad",
+   "definicion": "Aceptación de un poder porque se lo reconoce como válido.",
+   "formas": [
+    "legitimo",
+    "legitima",
+    "legitimar"
+   ]
+  },
+  {
+   "palabra": "Tradición",
+   "definicion": "Fuente de legitimidad: se acepta una decisión porque siempre fue así.",
+   "formas": [
+    "tradicional"
+   ]
+  },
+  {
+   "palabra": "Carisma",
+   "definicion": "Fuente de legitimidad: se acepta a alguien por admiración hacia sus cualidades.",
+   "formas": [
+    "carismatico",
+    "carismatica"
+   ]
+  },
+  {
+   "palabra": "Estado",
+   "definicion": "Organización que gobierna un país. En la Argentina se divide en tres poderes.",
+   "formas": [
+    "estado nacional"
+   ]
+  },
+  {
+   "palabra": "Poder Legislativo",
+   "definicion": "Poder que sanciona las leyes. Lo ejerce el Congreso de la Nación.",
+   "formas": [
+    "legislativo",
+    "congreso"
+   ]
+  },
+  {
+   "palabra": "Poder Ejecutivo",
+   "definicion": "Poder que gobierna y hace cumplir las leyes. Lo ejerce el presidente o la presidenta.",
+   "formas": [
+    "ejecutivo"
+   ]
+  },
+  {
+   "palabra": "Poder Judicial",
+   "definicion": "Poder que resuelve conflictos aplicando las leyes.",
+   "formas": [
+    "judicial",
+    "justicia"
+   ]
+  },
+  {
+   "palabra": "Sociedad civil",
+   "definicion": "Organizaciones que las personas forman fuera del Estado, como clubes, cooperadoras y centros de estudiantes.",
+   "formas": [
+    "sociedad"
+   ]
+  },
+  {
+   "palabra": "Sufragio",
+   "definicion": "Derecho a votar para elegir a quienes gobiernan.",
+   "formas": [
+    "sufragios",
+    "voto"
+   ]
+  },
+  {
+   "palabra": "Democracia representativa",
+   "definicion": "Forma de gobierno en la que la ciudadanía elige a representantes que deciden por un tiempo fijo.",
+   "formas": [
+    "representativa",
+    "democracia"
+   ]
+  },
+  {
+   "palabra": "Democracia directa",
+   "definicion": "Forma de decidir en la que cada persona vota cada decisión. Funciona en grupos chicos.",
+   "formas": [
+    "directa"
+   ]
+  },
+  {
+   "palabra": "Representante",
+   "definicion": "Persona elegida que decide en nombre de otras.",
+   "formas": [
+    "representantes",
+    "representar"
+   ]
+  },
+  {
+   "palabra": "Voto secreto",
+   "definicion": "Voto que nadie puede conocer ni controlar.",
+   "formas": [
+    "secreto"
+   ]
+  },
+  {
+   "palabra": "Voto obligatorio",
+   "definicion": "Voto que las personas adultas habilitadas tienen el deber de emitir. Así es desde los 18 años.",
+   "formas": [
+    "obligatorio"
+   ]
+  },
+  {
+   "palabra": "Voto optativo",
+   "definicion": "Voto que cada persona decide si emite. Así es a los 16 y 17 años.",
+   "formas": [
+    "optativo",
+    "opcional"
+   ]
+  },
+  {
+   "palabra": "Padrón electoral",
+   "definicion": "Lista de las personas habilitadas para votar en una elección.",
+   "formas": [
+    "padron"
+   ]
+  },
+  {
+   "palabra": "Naturalizado",
+   "definicion": "Persona nacida en otro país que obtuvo la nacionalidad argentina. Vota desde los 18 años.",
+   "formas": [
+    "naturalizada",
+    "naturalizados"
+   ]
+  },
+  {
+   "palabra": "Derechos políticos",
+   "definicion": "Derechos que permiten participar en las decisiones públicas: votar, ser elegido, peticionar.",
+   "formas": [
+    "derecho politico"
+   ]
+  },
+  {
+   "palabra": "Ciudadanía activa",
+   "definicion": "Participación en los asuntos comunes también fuera de las elecciones.",
+   "formas": [
+    "ciudadania",
+    "ciudadano activo"
+   ]
+  },
+  {
+   "palabra": "Centro de estudiantes",
+   "definicion": "Organización donde los estudiantes eligen representantes y proponen ideas a la escuela.",
+   "formas": [
+    "centro"
+   ]
+  },
+  {
+   "palabra": "Símbolo",
+   "definicion": "Algo que se ve o se escucha y representa otra cosa que el grupo reconoce.",
+   "formas": [
+    "simbolos",
+    "simbolo"
+   ]
+  },
+  {
+   "palabra": "Símbolos nacionales",
+   "definicion": "La bandera, el escudo y el himno, según el Decreto 10.302 de 1944.",
+   "formas": [
+    "simbolos patrios"
+   ]
+  },
+  {
+   "palabra": "Gorro frigio",
+   "definicion": "Gorro rojo del escudo: un antiguo emblema de libertad.",
+   "formas": [
+    "gorro"
+   ]
+  },
+  {
+   "palabra": "Pica",
+   "definicion": "Lanza del escudo que sostiene el gorro: la decisión de defender la libertad.",
+   "formas": [
+    "lanza"
+   ]
+  },
+  {
+   "palabra": "Laureles",
+   "definicion": "Ramas que rodean el escudo: simbolizan la victoria y el triunfo.",
+   "formas": [
+    "laurel"
+   ]
+  },
+  {
+   "palabra": "Escarapela",
+   "definicion": "Distintivo celeste y blanco aprobado en 1812. Forma parte de la identidad patria, pero no es estrictamente un símbolo nacional.",
+   "formas": [
+    "escarapelas"
+   ]
+  },
+  {
+   "palabra": "Rito",
+   "definicion": "Práctica que se repite con pasos fijos y un significado compartido.",
+   "formas": [
+    "ritos",
+    "ritual"
+   ]
+  },
+  {
+   "palabra": "Asunción",
+   "definicion": "Rito en el que quien asume un cargo jura; por ejemplo, el presidente o la presidenta ante el Congreso.",
+   "formas": [
+    "asumir",
+    "jura"
+   ]
+  },
+  {
+   "palabra": "Ideología",
+   "definicion": "Conjunto de ideas sobre cómo debería organizarse la sociedad.",
+   "formas": [
+    "ideologias",
+    "ideologico"
+   ]
+  },
+  {
+   "palabra": "Discurso mediático",
+   "definicion": "Forma en que un medio cuenta los hechos: palabras, fotos y voces que elige.",
+   "formas": [
+    "discurso",
+    "mediatico"
+   ]
+  },
+  {
+   "palabra": "Hecho",
+   "definicion": "Algo que se puede comprobar.",
+   "formas": [
+    "hechos"
+   ]
+  },
+  {
+   "palabra": "Opinión",
+   "definicion": "Lo que alguien piensa o siente sobre un hecho.",
+   "formas": [
+    "opiniones",
+    "opinion"
+   ]
+  },
+  {
+   "palabra": "Titular",
+   "definicion": "Frase con la que un medio presenta una noticia.",
+   "formas": [
+    "titulares",
+    "titulo"
+   ]
+  },
+  {
+   "palabra": "Peticionar",
+   "definicion": "Pedirles algo por escrito a las autoridades. Es un derecho del artículo 14 de la Constitución Nacional.",
+   "formas": [
+    "peticion",
+    "pedir"
+   ]
+  },
+  {
+   "palabra": "Iniciativa popular",
+   "definicion": "Derecho de la ciudadanía a presentar proyectos de ley juntando firmas.",
+   "formas": [
+    "iniciativa"
+   ]
+  },
+  {
+   "palabra": "Consulta popular",
+   "definicion": "Pregunta a la ciudadanía sobre un proyecto o un tema; puede ser vinculante o no.",
+   "formas": [
+    "consulta"
+   ]
+  },
+  {
+   "palabra": "Vinculante",
+   "definicion": "Que obliga. En una consulta vinculante, si gana el sí, el proyecto es ley.",
+   "formas": [
+    "vinculantes",
+    "no vinculante"
+   ]
+  },
+  {
+   "palabra": "Referéndum",
+   "definicion": "En Santa Fe, votación obligatoria sobre una ley, cuyo resultado obliga.",
+   "formas": [
+    "referendum",
+    "plebiscito"
+   ]
+  },
+  {
+   "palabra": "Revocatoria del mandato",
+   "definicion": "Pedido para que un funcionario elegido deje el cargo por grave incumplimiento.",
+   "formas": [
+    "revocatoria",
+    "revocar"
+   ]
+  },
+  {
+   "palabra": "Audiencia pública",
+   "definicion": "Reunión abierta para que la comunidad opine antes de una decisión.",
+   "formas": [
+    "audiencia"
+   ]
+  },
+  {
+   "palabra": "Movimiento social",
+   "definicion": "Grupo de personas que se une alrededor de un reclamo o una causa.",
+   "formas": [
+    "movimientos sociales",
+    "movimiento"
+   ]
+  },
+  {
+   "palabra": "Medio comunitario",
+   "definicion": "Radio o periódico que maneja una organización de la comunidad, sin fines de lucro.",
+   "formas": [
+    "medios comunitarios",
+    "radio comunitaria"
+   ]
+  },
+  {
+   "palabra": "Organismo supraestatal",
+   "definicion": "Organización formada por varios Estados con objetivos y reglas comunes.",
+   "formas": [
+    "supraestatal",
+    "organismo internacional"
+   ]
+  },
+  {
+   "palabra": "MERCOSUR",
+   "definicion": "Bloque creado en 1991 por la Argentina, Brasil, Paraguay y Uruguay, con sede en Montevideo.",
+   "formas": [
+    "mercosur"
+   ]
+  },
+  {
+   "palabra": "ONU",
+   "definicion": "Organización de las Naciones Unidas, creada en 1945 para mantener la paz y proteger los derechos humanos.",
+   "formas": [
+    "naciones unidas"
+   ]
+  },
+  {
+   "palabra": "Espacio público",
+   "definicion": "Lugares que usamos todos, como calles, veredas, plazas y rutas.",
+   "formas": [
+    "espacio publico"
+   ]
+  },
+  {
+   "palabra": "Senda peatonal",
+   "definicion": "Lugar marcado para cruzar la calle, donde el peatón tiene prioridad.",
+   "formas": [
+    "senda",
+    "paso peatonal",
+    "cebra"
+   ]
+  },
+  {
+   "palabra": "Bicisenda",
+   "definicion": "Carril para circular en bicicleta.",
+   "formas": [
+    "ciclovia",
+    "bicisendas"
+   ]
+  },
+  {
+   "palabra": "Licencia de conducir",
+   "definicion": "Permiso para manejar. En Santa Fe se saca desde los 18 años (Ley provincial 13.133).",
+   "formas": [
+    "licencia",
+    "carnet",
+    "registro"
+   ]
+  },
+  {
+   "palabra": "Adherir",
+   "definicion": "Cuando una provincia adhiere a una ley nacional, la aplica en su territorio y puede fijar algunas reglas propias.",
+   "formas": [
+    "adhesion",
+    "adhiere"
+   ]
+  },
+  {
+   "palabra": "Alcohol cero",
+   "definicion": "Prohibición de manejar con alcohol en sangre por encima de cero (Ley 27.714).",
+   "formas": [
+    "alcoholemia",
+    "alcohol"
+   ]
+  },
+  {
+   "palabra": "Responsabilidad",
+   "definicion": "Hacerse cargo de las consecuencias de lo que hacemos.",
+   "formas": [
+    "responsable"
+   ]
+  }
+ ],
+ "temas": [
+  {
+   "id": "ciu-4-01-c1-1",
+   "clase": "ciu-4-01",
+   "capsula": "c1",
+   "boton": "Decisión privada y decisión pública",
+   "otra_manera": "Una decisión es privada cuando le toca sobre todo a quien la toma. Es pública cuando afecta a una comunidad, y por eso la discuten varias personas.",
+   "vida_real": "Elegir tus zapatillas es privado. Decidir el horario de entrada de la escuela es público: le cambia el día a todo el curso.",
+   "claves": [
+    "privada",
+    "publica",
+    "decision"
+   ],
+   "parte": "Lo político: decisiones que nos afectan a todos y todas"
+  },
+  {
+   "id": "ciu-4-01-c1-2",
+   "clase": "ciu-4-01",
+   "capsula": "c1",
+   "boton": "Actores e intereses",
+   "otra_manera": "En cada decisión pública participan actores: personas, grupos o instituciones. Cada uno quiere lograr o proteger algo, que es su interés. Los intereses a veces coinciden y a veces chocan.",
+   "vida_real": "En la plaza sin luz, los vecinos quieren seguridad, el municipio tiene que repartir su presupuesto y los comercios quieren más gente en la cuadra.",
+   "claves": [
+    "actores",
+    "intereses",
+    "actor"
+   ],
+   "parte": "Lo político: decisiones que nos afectan a todos y todas"
+  },
+  {
+   "id": "ciu-4-01-c2-1",
+   "clase": "ciu-4-01",
+   "capsula": "c2",
+   "boton": "Poder y legitimidad",
+   "otra_manera": "Tener poder es poder lograr que otros acepten una decisión. Ese poder es legítimo cuando las personas reconocen que quien decide tiene derecho a hacerlo.",
+   "vida_real": "Una docente pone la fecha de una prueba y el curso la acepta, aunque a nadie le encante, porque reconoce que esa decisión le toca a ella.",
+   "claves": [
+    "poder",
+    "legitimidad",
+    "legitimo"
+   ],
+   "parte": "El poder y por qué se acepta una decisión"
+  },
+  {
+   "id": "ciu-4-01-c2-2",
+   "clase": "ciu-4-01",
+   "capsula": "c2",
+   "boton": "Tradición, carisma y reglas",
+   "otra_manera": "Max Weber distinguió tres razones para aceptar un poder: porque siempre fue así (tradición), porque se admira a la persona (carisma) o porque llegó al cargo por un camino que fijan las normas (reglas).",
+   "vida_real": "En un mismo club podés encontrar las tres: el asado que siempre organiza la misma familia, la capitana que todos siguen y la comisión elegida en asamblea.",
+   "claves": [
+    "weber",
+    "tradicion",
+    "carisma",
+    "reglas"
+   ],
+   "parte": "El poder y por qué se acepta una decisión"
+  },
+  {
+   "id": "ciu-4-01-c3-1",
+   "clase": "ciu-4-01",
+   "capsula": "c3",
+   "boton": "Los tres poderes",
+   "otra_manera": "La Constitución Nacional reparte el gobierno en tres poderes: el Legislativo hace las leyes, el Ejecutivo gobierna y las hace cumplir, y el Judicial resuelve conflictos aplicándolas.",
+   "vida_real": "Es como un partido: un grupo escribe el reglamento, otro organiza el campeonato y un árbitro resuelve cuando hay una discusión.",
+   "claves": [
+    "tres poderes",
+    "legislativo",
+    "ejecutivo",
+    "judicial"
+   ],
+   "parte": "El poder en el Estado y en la vida cotidiana"
+  },
+  {
+   "id": "ciu-4-01-c3-2",
+   "clase": "ciu-4-01",
+   "capsula": "c3",
+   "boton": "Sociedad civil y espacios cercanos",
+   "otra_manera": "Fuera del Estado, las personas se organizan en la sociedad civil: clubes, cooperadoras, sindicatos, centros de estudiantes. Y el poder también aparece en espacios cercanos, como la familia, la escuela o el trabajo.",
+   "vida_real": "La cooperadora de tu escuela no gobierna la provincia, pero puede pedir, proponer y controlar en qué se usa lo que se junta.",
+   "claves": [
+    "sociedad civil",
+    "espacios cercanos",
+    "familia",
+    "escuela"
+   ],
+   "parte": "El poder en el Estado y en la vida cotidiana"
+  },
+  {
+   "id": "ciu-4-02-c1-1",
+   "clase": "ciu-4-02",
+   "capsula": "c1",
+   "boton": "La Ley Sáenz Peña",
+   "otra_manera": "En 1912 la Ley Sáenz Peña hizo que el voto fuera secreto y obligatorio. Pero votaban solo los varones argentinos nativos mayores de 18 años.",
+   "vida_real": "Se decía voto \"universal\", pero en cada casa votaba solo una parte de la familia: las mujeres quedaban afuera.",
+   "claves": [
+    "saenz pena",
+    "1912",
+    "8871"
+   ],
+   "parte": "Quiénes votan: cómo se amplió el sufragio"
+  },
+  {
+   "id": "ciu-4-02-c1-2",
+   "clase": "ciu-4-02",
+   "capsula": "c1",
+   "boton": "El voto de las mujeres y de los jóvenes",
+   "otra_manera": "La Ley 13.010, de 1947, reconoció el voto de las mujeres, que votaron por primera vez en 1951. La Ley 26.774, de 2012, permitió votar desde los 16 años, y se aplicó por primera vez en 2013.",
+   "vida_real": "Pensá en tres generaciones: una bisabuela que no pudo votar de joven, una abuela que votó desde los 18 y un nieto que ya puede votar a los 16.",
+   "claves": [
+    "voto femenino",
+    "13.010",
+    "26.774",
+    "mujeres"
+   ],
+   "parte": "Quiénes votan: cómo se amplió el sufragio"
+  },
+  {
+   "id": "ciu-4-02-c2-1",
+   "clase": "ciu-4-02",
+   "capsula": "c2",
+   "boton": "Democracia directa y representativa",
+   "otra_manera": "En la democracia directa cada persona vota cada decisión. En la representativa, se elige a alguien que decide en nombre de los demás por un tiempo fijo. La Argentina tiene una democracia representativa.",
+   "vida_real": "Votar a mano alzada adónde ir de excursión es directa. Elegir a la delegada del curso para que hable con la dirección es representativa.",
+   "claves": [
+    "directa",
+    "representativa",
+    "representantes"
+   ],
+   "parte": "La democracia representativa: elegir a quienes deciden"
+  },
+  {
+   "id": "ciu-4-02-c2-2",
+   "clase": "ciu-4-02",
+   "capsula": "c2",
+   "boton": "Universal, igual, secreto y obligatorio",
+   "otra_manera": "El artículo 37 de la Constitución dice cómo es el voto. Universal: nadie queda afuera sin razón. Igual: cada voto vale lo mismo. Secreto: nadie sabe a quién votaste. Obligatorio: las personas adultas tienen el deber de votar.",
+   "vida_real": "En una votación del curso, si el voto es secreto nadie te puede mirar mal por lo que elegiste.",
+   "claves": [
+    "universal",
+    "igual",
+    "secreto",
+    "obligatorio",
+    "articulo 37"
+   ],
+   "parte": "La democracia representativa: elegir a quienes deciden"
+  },
+  {
+   "id": "ciu-4-02-c3-1",
+   "clase": "ciu-4-02",
+   "capsula": "c3",
+   "boton": "El voto a los 16 y 17 años",
+   "otra_manera": "Las personas argentinas nativas o por opción pueden votar desde los 16 años si figuran en el padrón. A los 16 y 17 el voto es optativo: si no votan, no hay sanción. Desde los 18 es obligatorio.",
+   "vida_real": "Dos amigas de 17 años: una va a votar y la otra no. Ninguna de las dos hizo nada indebido, porque a esa edad cada una elige.",
+   "claves": [
+    "optativo",
+    "16 años",
+    "padron",
+    "voto joven"
+   ],
+   "parte": "Votar a los 16: derechos políticos de los jóvenes"
+  },
+  {
+   "id": "ciu-4-02-c3-2",
+   "clase": "ciu-4-02",
+   "capsula": "c3",
+   "boton": "Ciudadanía activa",
+   "otra_manera": "Ser ciudadano o ciudadana activa es participar en lo común también fuera de las elecciones: en el centro de estudiantes, en un club o en una organización del barrio.",
+   "vida_real": "Votar es como ir al partido el domingo. La ciudadanía activa es entrenar el resto de la semana.",
+   "claves": [
+    "ciudadania activa",
+    "centro de estudiantes",
+    "participar"
+   ],
+   "parte": "Votar a los 16: derechos políticos de los jóvenes"
+  },
+  {
+   "id": "ciu-4-03-c1-1",
+   "clase": "ciu-4-03",
+   "capsula": "c1",
+   "boton": "Qué es un símbolo",
+   "otra_manera": "Un símbolo es algo que se ve o se escucha y que representa otra cosa. Funciona porque todo el grupo lo reconoce: si nadie supiera qué significa, sería solo un objeto.",
+   "vida_real": "Una camiseta es tela, pero la del club dice a qué grupo pertenecés.",
+   "claves": [
+    "simbolo",
+    "simbolos"
+   ],
+   "parte": "Los símbolos: lo que representa a una comunidad"
+  },
+  {
+   "id": "ciu-4-03-c1-2",
+   "clase": "ciu-4-03",
+   "capsula": "c1",
+   "boton": "Las partes del escudo",
+   "otra_manera": "Las manos que se estrechan representan la unión de los pueblos. El gorro frigio, la libertad, y la pica, la decisión de defenderla. El sol naciente anuncia una nueva Nación y los laureles, la victoria.",
+   "vida_real": "Leelo de abajo hacia arriba: unión (manos), libertad (gorro) y una Nación que nace (sol).",
+   "claves": [
+    "escudo",
+    "gorro frigio",
+    "manos",
+    "sol",
+    "laureles"
+   ],
+   "parte": "Los símbolos: lo que representa a una comunidad"
+  },
+  {
+   "id": "ciu-4-03-c2-1",
+   "clase": "ciu-4-03",
+   "capsula": "c2",
+   "boton": "Qué es un rito",
+   "otra_manera": "Un rito es algo que se repite siempre igual, con pasos que todos conocen y un significado compartido. En la vida política hay ritos como la asunción presidencial o los actos de las fechas patrias.",
+   "vida_real": "En un acto, nadie pregunta qué viene después de la entrada de la bandera: todos saben que sigue el himno.",
+   "claves": [
+    "rito",
+    "ritos",
+    "asuncion",
+    "acto"
+   ],
+   "parte": "Los ritos: celebrar y recordar juntos"
+  },
+  {
+   "id": "ciu-4-03-c2-2",
+   "clase": "ciu-4-03",
+   "capsula": "c2",
+   "boton": "Las fechas de los símbolos",
+   "otra_manera": "La escarapela y la bandera son de 1812; el escudo y el himno, de 1813. El 20 de junio es el Día de la Bandera porque ese día de 1820 murió Belgrano.",
+   "vida_real": "Agrupalas de a dos: 1812 para escarapela y bandera, 1813 para escudo e himno.",
+   "claves": [
+    "fechas",
+    "20 de junio",
+    "11 de mayo",
+    "12 de marzo"
+   ],
+   "parte": "Los ritos: celebrar y recordar juntos"
+  },
+  {
+   "id": "ciu-4-03-c3-1",
+   "clase": "ciu-4-03",
+   "capsula": "c3",
+   "boton": "Qué es una ideología",
+   "otra_manera": "Una ideología es un conjunto de ideas sobre cómo debería organizarse la sociedad. Distintas ideologías responden distinto a las mismas preguntas, por ejemplo, cuánto tiene que intervenir el Estado en la economía.",
+   "vida_real": "Es como tener distintas ideas sobre cómo organizar el curso: no es un grupo de personas, sino una forma de pensar el problema.",
+   "claves": [
+    "ideologia",
+    "ideologias"
+   ],
+   "parte": "Ideas y medios: cómo se cuenta la política"
+  },
+  {
+   "id": "ciu-4-03-c3-2",
+   "clase": "ciu-4-03",
+   "capsula": "c3",
+   "boton": "Hecho y opinión en los medios",
+   "otra_manera": "Un hecho se puede comprobar; una opinión dice lo que alguien piensa. Los medios eligen titular, foto y a quién citar, y por eso el mismo hecho puede contarse de formas distintas.",
+   "vida_real": "\"Cerraron la calle el lunes\" se comprueba. \"Fue un error\" es lo que alguien piensa.",
+   "claves": [
+    "hecho",
+    "opinion",
+    "medios",
+    "titular"
+   ],
+   "parte": "Ideas y medios: cómo se cuenta la política"
+  },
+  {
+   "id": "ciu-4-04-c1-1",
+   "clase": "ciu-4-04",
+   "capsula": "c1",
+   "boton": "Participar además de votar",
+   "otra_manera": "La Constitución Nacional reconoce otras formas de participar: peticionar a las autoridades y asociarse (artículo 14), y los partidos políticos (artículo 38).",
+   "vida_real": "Una nota de un grupo de vecinos al municipio pidiendo un semáforo es peticionar. Formar un club es asociarse.",
+   "claves": [
+    "peticionar",
+    "asociarse",
+    "partidos",
+    "articulo 14"
+   ],
+   "parte": "Participar según la Constitución Nacional"
+  },
+  {
+   "id": "ciu-4-04-c1-2",
+   "clase": "ciu-4-04",
+   "capsula": "c1",
+   "boton": "Iniciativa y consulta popular",
+   "otra_manera": "Con la iniciativa popular, la ciudadanía junta firmas y presenta un proyecto de ley en Diputados. Con la consulta popular, se le pregunta a la ciudadanía: si es vinculante y gana el sí, el proyecto es ley; si no es vinculante, votar es optativo y el resultado no obliga.",
+   "vida_real": "La iniciativa es la ciudadanía que propone; la consulta es el Estado que pregunta.",
+   "claves": [
+    "iniciativa",
+    "consulta",
+    "vinculante"
+   ],
+   "parte": "Participar según la Constitución Nacional"
+  },
+  {
+   "id": "ciu-4-04-c2-1",
+   "clase": "ciu-4-04",
+   "capsula": "c2",
+   "boton": "Referéndum y consulta en Santa Fe",
+   "otra_manera": "En el referéndum santafesino el voto es obligatorio y el resultado obliga. En la consulta popular el voto es optativo y el resultado no obliga.",
+   "vida_real": "Referéndum: decide. Consulta: opina.",
+   "claves": [
+    "referendum",
+    "consulta popular"
+   ],
+   "parte": "Participar en Santa Fe: la Constitución de 2025"
+  },
+  {
+   "id": "ciu-4-04-c2-2",
+   "clase": "ciu-4-04",
+   "capsula": "c2",
+   "boton": "Revocatoria y audiencia pública",
+   "otra_manera": "La revocatoria pide que un funcionario elegido deje el cargo por grave incumplimiento, y se inicia con al menos el 25 % del padrón. La audiencia pública es una reunión abierta para que la comunidad opine antes de una decisión.",
+   "vida_real": "Antes de aprobar una ley sobre ambiente, la Legislatura tiene que escuchar a la comunidad en una audiencia pública.",
+   "claves": [
+    "revocatoria",
+    "audiencia"
+   ],
+   "parte": "Participar en Santa Fe: la Constitución de 2025"
+  },
+  {
+   "id": "ciu-4-04-c3-1",
+   "clase": "ciu-4-04",
+   "capsula": "c3",
+   "boton": "Qué es un organismo supraestatal",
+   "otra_manera": "Es una organización formada por varios Estados que acuerdan objetivos y reglas comunes. Cada país decide si entra y puede retirarse.",
+   "vida_real": "Es como un club de países: cada uno se asocia porque quiere y acepta las reglas que acordaron.",
+   "claves": [
+    "supraestatal",
+    "organismo"
+   ],
+   "parte": "Más allá del país: los organismos supraestatales"
+  },
+  {
+   "id": "ciu-4-04-c3-2",
+   "clase": "ciu-4-04",
+   "capsula": "c3",
+   "boton": "Regionales y mundiales",
+   "otra_manera": "Los regionales reúnen a países de una zona, como el MERCOSUR, la UNASUR y la OEA. Los mundiales están abiertos a países de todo el planeta, como la ONU, el FMI y el Banco Mundial.",
+   "vida_real": "El MERCOSUR lo crearon en 1991 la Argentina, Brasil, Paraguay y Uruguay; su sede está en Montevideo.",
+   "claves": [
+    "mercosur",
+    "onu",
+    "fmi",
+    "oea",
+    "unasur",
+    "banco mundial",
+    "regional",
+    "mundial"
+   ],
+   "parte": "Más allá del país: los organismos supraestatales"
+  },
+  {
+   "id": "ciu-4-05-c1-1",
+   "clase": "ciu-4-05",
+   "capsula": "c1",
+   "boton": "El espacio público",
+   "otra_manera": "Calles, veredas, plazas y rutas son espacio público: no son de nadie en particular y las usamos todos. Por eso hacen falta normas para circular.",
+   "vida_real": "En una misma esquina se cruzan peatones, ciclistas, motos y autos.",
+   "claves": [
+    "espacio publico"
+   ],
+   "parte": "El espacio público es de todos"
+  },
+  {
+   "id": "ciu-4-05-c1-2",
+   "clase": "ciu-4-05",
+   "capsula": "c1",
+   "boton": "Derechos y obligaciones al circular",
+   "otra_manera": "Quien circula tiene derechos, como cruzar con prioridad por la senda peatonal, y obligaciones, como respetar el semáforo y usar casco en la moto o la bicicleta.",
+   "vida_real": "El ciclista respeta las señales como cualquier conductor.",
+   "claves": [
+    "peaton",
+    "ciclista",
+    "senda",
+    "casco"
+   ],
+   "parte": "El espacio público es de todos"
+  },
+  {
+   "id": "ciu-4-05-c2-1",
+   "clase": "ciu-4-05",
+   "capsula": "c2",
+   "boton": "La ley nacional y la de Santa Fe",
+   "otra_manera": "La Ley Nacional de Tránsito es la 24.449. Cada provincia adhiere y puede fijar reglas propias. Santa Fe adhiere con la Ley 13.133, que fija 18 años para cualquier licencia, aunque la ley nacional permite desde los 16 y 17.",
+   "vida_real": "En Santa Fe, la licencia se saca a los 18, la misma edad desde la que el voto es obligatorio.",
+   "claves": [
+    "licencia",
+    "edad",
+    "24.449",
+    "13.133",
+    "adhiere",
+    "santa fe"
+   ],
+   "parte": "Las normas: la ley nacional y la ley de Santa Fe"
+  },
+  {
+   "id": "ciu-4-05-c2-2",
+   "clase": "ciu-4-05",
+   "capsula": "c2",
+   "boton": "Alcohol cero",
+   "otra_manera": "La Ley 27.714, de 2023, prohíbe manejar con alcohol en sangre por encima de cero en las rutas nacionales. Cada provincia decide si adhiere para sus propias rutas.",
+   "vida_real": "Cero quiere decir nada de alcohol antes de manejar.",
+   "claves": [
+    "alcohol",
+    "27.714",
+    "alcoholemia"
+   ],
+   "parte": "Las normas: la ley nacional y la ley de Santa Fe"
+  },
+  {
+   "id": "ciu-4-05-c3-1",
+   "clase": "ciu-4-05",
+   "capsula": "c3",
+   "boton": "Ser responsable en el tránsito",
+   "otra_manera": "Ser responsable es hacerse cargo de las consecuencias de lo que hacemos. Cruzar mirando el celular o subirse con alguien que tomó alcohol pone en riesgo a varias personas.",
+   "vida_real": "Una decisión de unos segundos, como guardar el celular antes de cruzar, cuida a quien la toma y a los demás.",
+   "claves": [
+    "responsable",
+    "responsabilidad",
+    "decision"
+   ],
+   "parte": "Decisiones que cuidan"
+  },
+  {
+   "id": "ciu-4-05-c3-2",
+   "clase": "ciu-4-05",
+   "capsula": "c3",
+   "boton": "Participar por calles más seguras",
+   "otra_manera": "La comunidad puede peticionar a las autoridades: pedir al municipio o la comuna una senda peatonal, un semáforo o una bicisenda.",
+   "vida_real": "Una nota firmada por el centro de estudiantes pidiendo un semáforo frente a la escuela.",
+   "claves": [
+    "peticionar",
+    "municipio",
+    "comuna"
+   ],
+   "parte": "Decisiones que cuidan"
+  }
+ ]
+}

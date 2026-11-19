@@ -1,0 +1,77 @@
+{
+ "version": "ciudadania-0.1",
+ "fuente": "Diseño Curricular de Educación Secundaria Orientada, Santa Fe (Res. 2630/14, Anexo III), Ciclo Orientado, 4.º año, Construcción de Ciudadanía y Participación.",
+ "espacios": [
+  {
+   "id": "ciudadania",
+   "nombre": "Construcción de Ciudadanía y Participación",
+   "habilitado": true,
+   "modalidades": [
+    "orientada"
+   ]
+  }
+ ],
+ "contenidos": {
+  "ciudadania": [
+   {
+    "id": "ci1",
+    "eje": "Ciudadanía y participación política",
+    "titulo": "Qué es lo político y cómo se ejerce el poder",
+    "activo": true,
+    "clase": "ciu-4-01",
+    "desglose": [
+     "Lo político: decisiones públicas, actores e intereses",
+     "El poder y su legitimidad",
+     "El poder en el Estado, la sociedad civil y la vida cotidiana"
+    ]
+   },
+   {
+    "id": "ci2",
+    "eje": "Ciudadanía y participación política",
+    "titulo": "Democracia representativa y sufragio: el voto de los jóvenes",
+    "activo": true,
+    "clase": "ciu-4-02",
+    "desglose": [
+     "La ampliación del sufragio en la Argentina",
+     "Democracia representativa y características del voto",
+     "Derechos políticos de los jóvenes y voto optativo a los 16 y 17 años"
+    ]
+   },
+   {
+    "id": "ci3",
+    "eje": "Ciudadanía y participación política",
+    "titulo": "Símbolos, ritos y medios: cómo se comunica la política",
+    "activo": true,
+    "clase": "ciu-4-03",
+    "desglose": [
+     "La dimensión simbólica de la política",
+     "Símbolos y ritos",
+     "Los discursos de los medios"
+    ]
+   },
+   {
+    "id": "ci4",
+    "eje": "Ciudadanía y participación política",
+    "titulo": "De lo local a lo global: formas de participación y organismos supraestatales",
+    "activo": true,
+    "clase": "ciu-4-04",
+    "desglose": [
+     "Demandas y formas de participación en las Constituciones nacional y de Santa Fe",
+     "Partidos, movimientos sociales, redes y medios comunitarios",
+     "Organismos supraestatales"
+    ]
+   },
+   {
+    "id": "ci5",
+    "eje": "Ciudadanía y participación política",
+    "titulo": "Tránsito seguro: derechos y responsabilidades en el espacio público",
+    "activo": true,
+    "clase": "ciu-4-05",
+    "desglose": [
+     "El espacio público como espacio compartido",
+     "Derechos, obligaciones y responsabilidades en el tránsito"
+    ]
+   }
+  ]
+ }
+}
